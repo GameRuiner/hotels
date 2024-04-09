@@ -8,13 +8,6 @@ load_dotenv()
 reviews_folder = './reviews/'
 hotels_folder = './hotels/'
 
-# empty jsons cleaner
-
-# for file in os.listdir(hotels_folder):
-#    hotel_json = json.load(open(hotels_folder+file, 'r', encoding="utf8"))
-#    if 'message' in hotel_json:
-#       print(file)
-
 existing_ids = set([int(file.split('.')[0]) for file in os.listdir(reviews_folder) if file != '.gitkeep'])
 ids_set = set([int(file.split('.')[0]) for file in os.listdir(hotels_folder) if file != '.gitkeep'])
 
@@ -35,9 +28,3 @@ for hotel_id in ids_set:
         added_ids.add(hotel_id)
         proceed += 1
         print(f'{proceed}/{total}')
-
-
-# with open('ids.txt',  'wt', encoding="utf8") as f:
-#   f.write('')
-#   for not_added_id in ids_set.difference(added_ids):
-#     f.write(not_added_id+'\n')
