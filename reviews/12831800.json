@@ -1,0 +1,318 @@
+{
+  "data": [
+    {
+      "id": 945950377,
+      "lang": "en",
+      "location_id": 12831800,
+      "published_date": "2024-04-09T08:43:22Z",
+      "rating": 3,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d12831800-r945950377-Reviews-Radisson_Blu_Hotel_Dubai_Waterfront-Dubai_Emirate_of_Dubai.html?m=66827#review945950377",
+      "text": "Good hotel, we were well looked after but there is extensive construction going on around and we had to pay a premium to be on the other side of the hotel as it had a view of the Burj.  There’s also no restaurants or cafes anywhere nearby so you need a cab ride to get to the mall (not expensive, but not easy)",
+      "title": "Nice hotel, not a great location",
+      "trip_type": "NONE",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "richardsI922HG",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/08/ba/16/ef/richard-s.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/08/ba/16/ef/richard-s.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/08/ba/16/ef/richard-s.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/08/ba/16/ef/richard-s.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "3": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Service"
+        },
+        "4": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 945013033,
+      "lang": "en",
+      "location_id": 12831800,
+      "published_date": "2024-04-03T01:59:41Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d12831800-r945013033-Reviews-Radisson_Blu_Hotel_Dubai_Waterfront-Dubai_Emirate_of_Dubai.html?m=66827#review945013033",
+      "text": "Great service Room service with Sharon was exemplary also my house cleaning ladybfrom the Phillipines.\n\nThe room service chef would sometimes would make what I require.\n\nFront office and business lounge are also very attentive and understanding.",
+      "title": "GREAT STAY",
+      "trip_type": "Business",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "AfricanTraveler40",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f6/0d/default-avatar-2020-34.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945284150,
+        "title": "Owner response",
+        "text": "Hi,\n\nThank you very much for choosing our hotel and for reviewing us.\n\nIt makes us all happy to know that you had a great stay overall and that our team was able to take good care of you.\n\nLooking forward to your next visit.\n\nVery best,\n\nDavid Allan\nCluster General Manager \n",
+        "lang": "en",
+        "author": "David Allan",
+        "published_date": "2024-04-04T00:58:28Z"
+      }
+    },
+    {
+      "id": 944783439,
+      "lang": "en",
+      "location_id": 12831800,
+      "published_date": "2024-04-01T08:53:24Z",
+      "rating": 2,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d12831800-r944783439-Reviews-Radisson_Blu_Hotel_Dubai_Waterfront-Dubai_Emirate_of_Dubai.html?m=66827#review944783439",
+      "text": "If you think you are booking a room at 5star hotel, you are totally wrong.\nEverything in this hotel from service to maintenance is a 2-3 star hotel quality. Save your money and look for another hotel. \n",
+      "title": "Mohanna",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "mohanna67",
+        "user_location": {
+          "id": "30272",
+          "name": "Arlington, Washington"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e7/99/default-avatar-2020-57.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e7/99/default-avatar-2020-57.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e7/99/default-avatar-2020-57.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e7/99/default-avatar-2020-57.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/99/default-avatar-2020-57.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944880644,
+        "title": "Owner response",
+        "text": "Hi Mohanna,\n\nThank you very much for choosing our hotel and for taking the time to review us.\n\nIt is very disappointing to know that we were unable to meet your expectations. We apologize for your experience and I will be sure to look into all the mentioned aspects.\n\nPlease feel free to contact me directly to discuss this further.\n\nHope for another chance to make things right.\n\nBest regards,\n\nDavid Allan\nCluster General Manager\n",
+        "lang": "en",
+        "author": "David Allan",
+        "published_date": "2024-04-02T00:49:29Z"
+      }
+    },
+    {
+      "id": 944746100,
+      "lang": "en",
+      "location_id": 12831800,
+      "published_date": "2024-04-01T03:47:22Z",
+      "rating": 3,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d12831800-r944746100-Reviews-Radisson_Blu_Hotel_Dubai_Waterfront-Dubai_Emirate_of_Dubai.html?m=66827#review944746100",
+      "text": "Although the hotel is good. I did not find the staff too helpful or friendly.\n\nI read the reviews before check-in and noticed a lot of guest complain about noise from construction next door. Therefore at check-in I requested for a quit room, however I was told off that there is construction going on all around Dubai. This is not the kind of response I had expected. I finally did get a quiet room however it was only after quite some debate thus ruining the experience.\n\nThe room was ok however the service leaves a lot to be desired.\n\nOverall a good hotel with poorly trained staff. ",
+      "title": "Overall not too bad",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "firozem2015",
+        "user_location": {
+          "id": "293962",
+          "name": "Colombo, Western Province"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/08/4a/4b/4d/firoze-m.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/08/4a/4b/4d/firoze-m.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/08/4a/4b/4d/firoze-m.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/08/4a/4b/4d/firoze-m.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944880606,
+        "title": "Owner response",
+        "text": "Hi Firoze,\n\nThank you very much for taking the time to share your experience.\n\nYour feedback is extremely important as it helps us identify where our weaknesses lie. I will be sure to look into this.\n\nHope to see you again soon.\n\nSincerely,\n\nDavid Allan\nCluster General Manager\n",
+        "lang": "en",
+        "author": "David Allan",
+        "published_date": "2024-04-02T00:48:43Z"
+      }
+    },
+    {
+      "id": 944467247,
+      "lang": "en",
+      "location_id": 12831800,
+      "published_date": "2024-03-30T02:14:50Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d12831800-r944467247-Reviews-Radisson_Blu_Hotel_Dubai_Waterfront-Dubai_Emirate_of_Dubai.html?m=66827#review944467247",
+      "text": "Le petit déjeuner servi par Anisha ,simplement delicieux .\nAnisha is the best. \nThe room is perfect and hotel clean.\nHousekeeper very efficient and always smiling.\nThe làdies at the front desk very helpful. Anisha the way she service wqs best",
+      "title": "Breakfast",
+      "trip_type": "Business",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "kamelu2024",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f3/7c/default-avatar-2020-29.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f3/7c/default-avatar-2020-29.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f3/7c/default-avatar-2020-29.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f3/7c/default-avatar-2020-29.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f3/7c/default-avatar-2020-29.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944731563,
+        "title": "Owner response",
+        "text": "Hi,\n\nThank you very much for taking the time to share your experience with other travelers.\n\nIt makes us all happy to know that you had a great stay overall and that our team was able to take good care of you.\n\nLooking forward to welcoming you again.\n\nKind regards,\n\nDavid Allan\nCluster General Manager \n",
+        "lang": "en",
+        "author": "David Allan",
+        "published_date": "2024-04-01T00:34:33Z"
+      }
+    }
+  ]
+}

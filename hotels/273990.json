@@ -1,0 +1,239 @@
+{
+  "location_id": "273990",
+  "name": "Mitsis Grand Hotel",
+  "description": "Mitsis Grand Hotel Beach Hotel, the only five-star all-inclusive beach-front city hotel in Rhodes, is synonymous to first class hospitality. Located in the city of Rhodes, at a short distance from the medieval town, the hotel is fully renovated and offers its guests all modern facilities. It has 405 luxurious guestrooms, most of which have a view to the sea and of which 6 are suites that stand out for their exceptional grace and comfort. The package of the services provided to the hotel guests includes a fully equipped gym with an indoor swimming pool, two outdoor swimming pools and a variety of sports activities for both adults and children. There are also two conference rooms of a capacity of 600 and 200 people respectively and an impressive ballroom, equipped with technology to fit the most demanding communication requirements. All these, in combination with the experienced personnel, promise exceptional events. Mitsis Grand Hotel Beach Hotel offers at its restaurants a variety of gourmet experiences for the most discerning palates and offers snacks throughout the day at the Creperie - Gelateria and its wooden stove.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g635613-d273990-Reviews-Mitsis_Grand_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street1": "Akti Miaouli & Papanikolaou 1",
+    "city": "Rhodes Town",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "851 00",
+    "address_string": "Akti Miaouli & Papanikolaou 1, Rhodes Town 851 00 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Rhodes Town",
+      "location_id": "635613"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.452972",
+  "longitude": "28.218298",
+  "timezone": "Europe/Athens",
+  "phone": "2241054700",
+  "write_review": "https://www.tripadvisor.com/UserReview-g635613-d273990-Mitsis_Grand_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "635613",
+    "ranking_string": "#19 of 122 hotels in Rhodes Town",
+    "geo_location_name": "Rhodes Town",
+    "ranking_out_of": "122",
+    "ranking": "19"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "4756",
+  "review_rating_count": {
+    "1": "107",
+    "2": "173",
+    "3": "427",
+    "4": "1044",
+    "5": "3005"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "5252",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g635613-d273990-m66827-Reviews-Mitsis_Grand_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Suites",
+    "Room service",
+    "Public Wifi",
+    "Paid Wifi",
+    "Breakfast included",
+    "Non-smoking rooms",
+    "Microwave",
+    "Breakfast Available",
+    "Pool",
+    "Restaurant",
+    "Beachfront",
+    "Free Internet",
+    "Free parking",
+    "Bar/Lounge",
+    "Wifi",
+    "Meeting rooms",
+    "Tennis Court",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Outdoor pool",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Aerobics",
+    "Baggage Storage",
+    "Bridal Suite",
+    "Car Hire",
+    "Couples Massage",
+    "Currency Exchange",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Greek",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Massage",
+    "Pool / Beach Towels",
+    "Salon",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Special Diet Menus",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Wake Up Service / Alarm Clock",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Ocean View",
+    "Classic"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "74"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1990"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "109"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1471"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "529"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

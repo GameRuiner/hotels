@@ -1,0 +1,220 @@
+{
+  "location_id": "2335283",
+  "name": "Hues Boutique Hotel",
+  "description": "Finding an ideal charming hotel in Dubai does not have to be difficult. \n\nWelcome to Hues Boutique Hotel, a nice option for travelers like you.\n\nRooms at Hues Boutique Hotel provide a flat-screen TV, air conditioning, and a minibar, and guests can stay connected with free WIFI.\nIn addition, while staying at Hues Boutique Hotel guests have access to room service and a concierge. You can also enjoy a rooftop pool and breakfast. Need a place to park? Free parking is available at Hues Boutique Hotel.\n\nNearby landmarks such as Bur Dubai Abra Dock (1.3 mi) and Deira Old Souk Abra Station (1.5 mi) make Hues Boutique Hotel a great place to stay when visiting Dubai.\n\nWhen you’re feeling hungry, we have Metro All Day Dining which offers buffet breakfast daily and a la carte on the menu all day long. We also have Kings Bar and Grill - an Ethiopian bar that serves authentic Ethiopian food and alcoholic drinks. \nDon't miss the Arabian sunsets at Aurora Lounge and Terrace located on the 5th floor and order your favorite Shisha and drinks.\n\nPlus, during your trip, don't forget to check out a historic site, such as Sheikh Mohammed Centre for Cultural Understanding.\nHues Boutique Hotel puts the best of Dubai at your fingertips, making your stay both relaxing and enjoyable.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d2335283-Reviews-Hues_Boutique_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Khaleej Rd",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Al Khaleej Rd, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.281897",
+  "longitude": "55.315125",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d2335283-Hues_Boutique_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#433 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "433"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "504",
+  "review_rating_count": {
+    "1": "41",
+    "2": "39",
+    "3": "94",
+    "4": "164",
+    "5": "166"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "286",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d2335283-m66827-Reviews-Hues_Boutique_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Minibar",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Breakfast Available",
+    "24-Hour Check-in",
+    "Kids Activities",
+    "Free parking",
+    "Breakfast included",
+    "Meeting rooms",
+    "Hot Tub",
+    "Business center",
+    "Fitness center",
+    "Banquet Room",
+    "Smoking rooms available",
+    "Safe",
+    "Rooftop Terrace",
+    "Housekeeping",
+    "Sauna",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bidet",
+    "Billiards",
+    "Bottled Water",
+    "Coffee Shop",
+    "Complimentary Tea",
+    "Couples Massage",
+    "Currency Exchange",
+    "Darts",
+    "English",
+    "Filipino",
+    "Foot Massage",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Hair Dryer",
+    "Hindi",
+    "Iron",
+    "Nightclub / DJ",
+    "Private Bathrooms",
+    "24-Hour Security",
+    "Steam Room",
+    "Sun Deck",
+    "Sun Loungers / Beach Chairs",
+    "Telephone",
+    "Thai",
+    "Urdu",
+    "Wardrobe / Closet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Boutique",
+    "Modern"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620542",
+      "name": "Al Baraha"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "112"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "160"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "51"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "85"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "64"
+    }
+  ],
+  "awards": []
+}

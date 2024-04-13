@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "id": 838116544,
+      "lang": "en",
+      "location_id": 23479599,
+      "published_date": "2022-05-11T14:40:21Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d23479599-r838116544-Reviews-Zebra_Hotel_Alsancak-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review838116544",
+      "text": "We stayed here for a week and it was perfectly lovely. Host was friendly and accommodating. Room was cleaned, spacious and in an ideal location near the centre of Alsancak but not so close that it was in a busy street. Amenities provided such as toilet roll, shampoo etc. Would stay here again if we were back in the area.",
+      "title": "HIGHLY RECOMMENDED",
+      "trip_type": "NONE",
+      "travel_date": "2022-05-31",
+      "user": {
+        "username": "Charlie9263",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/a3/default-avatar-2020-38.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    }
+  ]
+}

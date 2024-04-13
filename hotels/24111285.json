@@ -1,0 +1,181 @@
+{
+  "location_id": "24111285",
+  "name": "You & Co",
+  "description": "YouCo Coliving - The place where YOU belong. What is coliving? It's not just your regular residential building, but a heaven of community and creativity in sunny Dubai, IMPZ, just 15 minutes from Dubai Marina. Coliving is the best option if you want to enjoy the comfort of your own private apartment(unit) with access to all communal facilities like co-working space, gym, patio, swimming pool, video room etc. Rent a studio, or share an apartment with like-minded flatmates. First time in Dubai? Don’t worry! Our friendly community managers will help you to get settled, our residents are well looked-after. And last but not least - we are pet friendly too! Stay for a week or move in for a while, we offer a variety of short term or monthly contracts, so you could live on your own terms in one of our fully furnished apartments. One fixed all-inclusive bill, no hidden costs (wifi, maintenance and utilities included) Join us and become a part of our awesome community of like-minded people.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d24111285-Reviews-You_Co-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Dubai Production City",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Dubai Production City, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.025904",
+  "longitude": "55.19131",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d24111285-You_Co-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#78 of 766 Specialty lodging in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "766",
+    "ranking": "78"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "25",
+  "review_rating_count": {
+    "1": "6",
+    "2": "0",
+    "3": "1",
+    "4": "4",
+    "5": "14"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "2": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "4": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "95",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d24111285-m66827-Reviews-You_Co-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Free parking",
+    "Pets Allowed",
+    "Kitchenette",
+    "Wifi",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Air conditioning",
+    "Self-Serve Laundry",
+    "Microwave",
+    "Refrigerator in room",
+    "Non-smoking hotel",
+    "Heated pool",
+    "Flatscreen TV",
+    "Private Balcony",
+    "Outdoor pool",
+    "Parking",
+    "Housekeeping",
+    "Adults Only",
+    "Bath / Shower",
+    "BBQ Facilities",
+    "Blackout Curtains",
+    "24-Hour Check-in",
+    "Express Check-in / Check-out",
+    "Clothes Rack",
+    "Desk",
+    "Electric Kettle",
+    "English",
+    "Entertainment Staff",
+    "Complimentary Toiletries",
+    "Free Wifi in the Business Center",
+    "Game Room",
+    "Iron",
+    "Kitchenware",
+    "Landmark View",
+    "Mosquito Net",
+    "Outdoor Furniture",
+    "Patio",
+    "Pool View",
+    "Russian",
+    "Seating Area",
+    "24-Hour Security",
+    "Stovetop",
+    "Sun Loungers / Beach Chairs",
+    "Table Tennis",
+    "Wardrobe / Closet",
+    "Washing Machine",
+    "Yoga Classes"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [
+    "Quaint"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "0"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "3"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "10"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "3"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "3"
+    }
+  ],
+  "awards": []
+}

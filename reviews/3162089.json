@@ -1,0 +1,204 @@
+{
+  "data": [
+    {
+      "id": 804399816,
+      "lang": "en",
+      "location_id": 3162089,
+      "published_date": "2021-08-17T04:44:01Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d3162089-r804399816-Reviews-Armis_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review804399816",
+      "text": "I noticed I didn't have money in the place I put it (in my room) and thought I lost it. Until friend in another room told me she is missing some money too. Another friend in another room found her purse left open. \n\nGuess who had the access to our rooms?\n\nI don't make accusations easily but too many factors show somebody took our money from the rooms and this made our stay in Armis Hotel a bad experience. \n\nThe organisation I was with said they will take care of that but I don't think this problem even reached the reception. So it is also my fault I didn't take this into my hands. I can only hope this review will do it.",
+      "title": "Money missing",
+      "trip_type": "Business",
+      "travel_date": "2021-08-31",
+      "user": {
+        "username": "323alens",
+        "user_location": {
+          "id": "274873",
+          "name": "Ljubljana, Upper Carniola Region"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/0f/c4/55/06/alen-s.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/0f/c4/55/06/alen-s.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/0f/c4/55/06/alen-s.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/0f/c4/55/06/alen-s.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "1": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Service"
+        },
+        "2": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 657231953,
+      "lang": "en",
+      "location_id": 3162089,
+      "published_date": "2019-03-08T15:51:15Z",
+      "rating": 4,
+      "helpful_votes": 2,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d3162089-r657231953-Reviews-Armis_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review657231953",
+      "text": "Stayed 2 nights, clean, comfortable, good breakfast, efficient operation. Crazy traffic there...taxi drivers seem to all have an unfulfilled death wish...Izmir an interesting place to visit. Anywhere seems a long way but taxis cheap. ",
+      "title": "Good value, recommend",
+      "trip_type": "Business",
+      "travel_date": "2019-03-31",
+      "user": {
+        "username": "Discerningdiner964",
+        "user_location": {
+          "id": "190737",
+          "name": "Bedford, Bedfordshire, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e9/ef/default-avatar-2020-66.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 605145069,
+      "lang": "en",
+      "location_id": 3162089,
+      "published_date": "2018-08-10T21:48:13Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d3162089-r605145069-Reviews-Armis_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review605145069",
+      "text": "Stayed one night with family. Clean and comfortable hotel. Has free car park. Breakfast top notch. Free wifi. Complementary bottles of water and tea on check in. The hotel is only around 15 tl to city centre via taxi oe a food 30 minute walk. Would recommend!",
+      "title": "Armis",
+      "trip_type": "Family",
+      "travel_date": "2018-08-31",
+      "user": {
+        "username": "636emirc",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f3/e4/default-avatar-2020-30.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 600082352,
+      "lang": "en",
+      "location_id": 3162089,
+      "published_date": "2018-07-27T05:45:02Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d3162089-r600082352-Reviews-Armis_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review600082352",
+      "text": "i visited this hotel twice in 2015 and recently ( July 13th , 2018 ) .\nI found crew at concierge , restaurant , house keeping very attentive .\nhotel lobby and rooms are well cleaned and attended every day.\nbreakfast  is varied which i believe   meets every taste.",
+      "title": "Nice Hotel",
+      "trip_type": "Business",
+      "travel_date": "2018-07-31",
+      "user": {
+        "username": "zaerzorrozergani",
+        "user_location": {
+          "id": "293934",
+          "name": "Baku, Absheron Region"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/9f/default-avatar-2020-16.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Cleanliness"
+        },
+        "1": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "2": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 423436599,
+      "lang": "en",
+      "location_id": 3162089,
+      "published_date": "2016-09-29T06:32:09Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d3162089-r423436599-Reviews-Armis_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review423436599",
+      "text": "On enetering the Hotel I found it to be modern and clean with very friendly reception staff that made checkin a pleasant experience. Within a few minutes of checking in I was escorted to my room which was clean and modern and exactly as advertised. \nThe room had all the usual facilities such as TV, WIFI, Mini bar etc and all was accessed without a hitch. If anything, wifi signal could be a bit stronger but overall it was OK. Breakfast was great with a huge selection of food to suit all appetites and the room service menu was also great!\nStaff was always very friendly and ready to assist. Being a smoker, there was also an enclosed smoking area where one can enjoy their coffee without annoying other guests. Overall a great hotel and I would highly recommend to anyone.",
+      "title": "Excellent Business Hotel",
+      "trip_type": "Business",
+      "travel_date": "2016-09-30",
+      "user": {
+        "username": "HT1972",
+        "user_location": {
+          "id": "3226719",
+          "name": "Thessaloniki Region, Central Macedonia"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/12/5a/6f/ef/ht1972.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/12/5a/6f/ef/ht1972.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/12/5a/6f/ef/ht1972.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/12/5a/6f/ef/ht1972.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-w/12/5a/6f/ef/ht1972.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "2": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    }
+  ]
+}

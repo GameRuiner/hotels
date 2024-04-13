@@ -1,0 +1,166 @@
+{
+  "location_id": "1226490",
+  "name": "Coliseum Studios & Apartments",
+  "description": "Looking for a place to stay in Pefkos? Then look no further than Coliseum Studios & Apartments, a family-friendly hotel that brings the best of Pefkos to your doorstep.\nRooms at Coliseum Studios & Apartments Hotel offer a refrigerator, a kitchenette, and air conditioning providing exceptional comfort and convenience, and guests can go online with free internet access.\nA pool and a poolside bar will also help to make your stay even more special. If you are driving to Coliseum Studios & Apartments Hotel, free parking is available.\nPefkos has plenty of Mediterranean restaurants. So when you’re here, be sure to check out popular spots like Philosophia Beach Taverna, Coralli, and Hellas Restaurant, which are serving up some great dishes.\nWe’re sure you’ll enjoy your stay at Coliseum Studios & Apartments as you experience everything Pefkos has to offer.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g666539-d1226490-Reviews-Coliseum_Studios_Apartments-Pefkos_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street1": "",
+    "street2": "",
+    "city": "Pefkos",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "",
+    "address_string": "Pefkos Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Pefkos",
+      "location_id": "666539"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.075874",
+  "longitude": "28.050997",
+  "timezone": "Europe/Athens",
+  "write_review": "https://www.tripadvisor.com/UserReview-g666539-d1226490-Coliseum_Studios_Apartments-Pefkos_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "666539",
+    "ranking_string": "#19 of 33 hotels in Pefkos",
+    "geo_location_name": "Pefkos",
+    "ranking_out_of": "33",
+    "ranking": "19"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "297",
+  "review_rating_count": {
+    "1": "45",
+    "2": "31",
+    "3": "41",
+    "4": "84",
+    "5": "96"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    }
+  },
+  "photo_count": "266",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g666539-d1226490-m66827-Reviews-Coliseum_Studios_Apartments-Pefkos_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Free Internet",
+    "Free parking",
+    "Bar/Lounge",
+    "Kitchenette",
+    "Air conditioning",
+    "Refrigerator in room",
+    "Safe",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Kitchenware",
+    "Snack Bar",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Restaurant",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Budget",
+    "Family"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "0"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "114"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "7"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "110"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "33"
+    }
+  ],
+  "awards": []
+}

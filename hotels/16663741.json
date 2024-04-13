@@ -1,0 +1,192 @@
+{
+  "location_id": "16663741",
+  "name": "The S Hotel",
+  "description": "Stylish & contemporary in design, each of our rooms is designed keeping our guest’s complete comfort in mind. Enjoy a great night’s sleep with the choice of king,queen or twin single beds.If you fancy a refreshment or treat,make your morning tea or coffee & as the evening winds down feel free to grab your favorite beverage & snack from the mini bar.These rooms extend serene and peaceful atmosphere\n          ",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d16663741-Reviews-The_S_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Barsha South 2",
+    "street2": "Dubai Science Park",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Al Barsha South 2 Dubai Science Park, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.069916",
+  "longitude": "55.244064",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d16663741-The_S_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#470 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "470"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "115",
+  "review_rating_count": {
+    "1": "19",
+    "2": "6",
+    "3": "10",
+    "4": "24",
+    "5": "56"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "142",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d16663741-m66827-Reviews-The_S_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Shuttle Bus Service",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Pets Allowed",
+    "Spa",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Fitness center",
+    "Laundry Service",
+    "Banquet Room",
+    "Air conditioning",
+    "Conference Facilities",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Arabic",
+    "24-Hour Check-in",
+    "24-Hour Front Desk",
+    "Ironing Service",
+    "24-Hour Security",
+    "Suites",
+    "Free Internet",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Concierge",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Minibar",
+    "Babysitting",
+    "Breakfast Available",
+    "Free Shuttle or Taxi Services",
+    "Sauna",
+    "Baggage Storage",
+    "Car Hire",
+    "Currency Exchange"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quaint",
+    "Charming"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620543",
+      "name": "Al Barsha"
+    },
+    {
+      "location_id": "15620548",
+      "name": "Al Barsha South"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "12"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "31"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "21"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "26"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "12"
+    }
+  ],
+  "awards": []
+}

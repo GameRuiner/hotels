@@ -1,0 +1,175 @@
+{
+  "location_id": "239590",
+  "name": "Hotel Pelayo Barcelona",
+  "description": "Looking for a place to stay in Barcelona? Then look no further than Hotel Pelayo, a family-friendly hotel that brings the best of Barcelona to your doorstep.\nThe rooms offer a flat screen TV, air conditioning, and a desk, and getting online is possible, as free wifi is available, allowing you to rest and refresh with ease.\nHotel Pelayo features a 24 hour front desk and baggage storage. Guests arriving by vehicle have access to secured parking.\nFor those interested in checking out popular landmarks while visiting Barcelona, Hotel Pelayo is located a short distance from Magic Fountain (Font Magica) (1.3 mi) and Basilica of the Sagrada Familia (1.3 mi).\nWhile in Barcelona, you may want to check out some of the restaurants that are a short walk away from Hotel Pelayo, including Ciudad Condal (0.2 mi), Cervecería Catalana (0.5 mi), and Tickets (0.9 mi).\nPlus, during your trip, don’t forget to check out some of the popular historic sites, such as Casa Batllo, Palau Güell, and Basílica de Santa Maria del Mar.\nWe’re sure you’ll enjoy your stay at Hotel Pelayo as you experience everything Barcelona has to offer.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d239590-Reviews-Hotel_Pelayo_Barcelona-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Carrer de Pelai 9",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08001",
+    "address_string": "Carrer de Pelai 9, 08001 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.385883",
+  "longitude": "2.166505",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d239590-Hotel_Pelayo_Barcelona-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#392 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "392"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "340",
+  "review_rating_count": {
+    "1": "25",
+    "2": "29",
+    "3": "87",
+    "4": "137",
+    "5": "62"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "74",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d239590-m66827-Reviews-Hotel_Pelayo_Barcelona-Barcelona_Catalonia.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Non-smoking rooms",
+    "Air conditioning",
+    "Safe",
+    "Bath / Shower",
+    "24-Hour Front Desk",
+    "Wifi",
+    "Public Wifi",
+    "Non-smoking hotel",
+    "Flatscreen TV",
+    "Baggage Storage",
+    "Catalan",
+    "Desk",
+    "English",
+    "Italian",
+    "Paid Public Parking Nearby",
+    "Secured Parking",
+    "Spanish",
+    "Telephone",
+    "Vending Machine",
+    "Wake Up Service / Alarm Clock"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Budget",
+    "Centrally Located"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230970",
+      "name": "Eixample"
+    },
+    {
+      "location_id": "15565885",
+      "name": "La Dreta de l'Eixample"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "5"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "80"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "37"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "94"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "97"
+    }
+  ],
+  "awards": []
+}

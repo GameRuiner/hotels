@@ -1,0 +1,223 @@
+{
+  "location_id": "232778",
+  "name": "Hotel Arc La Rambla",
+  "description": "The Hotel Arc La Rambla is located in the heart of Barcelona, on the Ramblas, a picturesque promenade linking the centre of Barcelona with the sea.Thanks to its location, you can visit by food lots of must-see places, as the Liceu, the Cathedral, the council or Colom Statue. Come to visit Barcelona and enjoy an unforgettable stay at this 3 star hotel in Barcelona. Either if your travel is business or pleasure, you will find a very achievable price for the location of the hotel, in the centre of Barcelona.At the Hotel Arc La Rambla in Barcelona you will find the kind of room that best fits your needs. At this Ramblas hotel in Barcelona you will find 98 rooms to make your stay as pleasant as possible. The Hotel Arc La Rambla in Barcelona is the perfect accommodation for romantic holidays in Barcelona centre.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d232778-Reviews-Hotel_Arc_La_Rambla-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "La Rambla, 19",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08002",
+    "address_string": "La Rambla, 19, 08002 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.37673",
+  "longitude": "2.176463",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d232778-Hotel_Arc_La_Rambla-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#144 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "144"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "3651",
+  "review_rating_count": {
+    "1": "58",
+    "2": "95",
+    "3": "343",
+    "4": "1502",
+    "5": "1653"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "803",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d232778-m66827-Reviews-Hotel_Arc_La_Rambla-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Wheelchair access",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Non-smoking rooms",
+    "Suites",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Breakfast Available",
+    "Housekeeping",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Catalan",
+    "24-Hour Check-in",
+    "English",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "24-Hour Security",
+    "Shared Lounge / TV Area",
+    "Spanish",
+    "Taxi Service",
+    "Telephone",
+    "Vending Machine",
+    "Public Wifi",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "Desk",
+    "German",
+    "Italian",
+    "Newspaper",
+    "Portuguese",
+    "Russian",
+    "Sun Deck",
+    "Sun Terrace",
+    "Wardrobe / Closet",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "City View",
+    "Centrally Located"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230964",
+      "name": "La Rambla"
+    },
+    {
+      "location_id": "15565874",
+      "name": "Ciutat Vella (Old Town)"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "108"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1836"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "123"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "656"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "625"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

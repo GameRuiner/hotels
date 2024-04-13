@@ -1,0 +1,257 @@
+{
+  "data": [
+    {
+      "id": 945721333,
+      "lang": "en",
+      "location_id": 14076678,
+      "published_date": "2024-04-07T12:44:09Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d14076678-r945721333-Reviews-Crowne_Plaza_Dubai_Marina_an_IHG_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945721333",
+      "text": "Great hotel, well located on the Marina with direct access to the Marina Walk and mall. They have great staff and great service specially at the reception and during Iftar. Thank you Crowne Plaza Marina for your great service we will definitely come back.",
+      "title": "Great Hotel and Iftar",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "Passenger51481107472",
+        "user_location": {
+          "id": "295424",
+          "name": "Dubai, Emirate of Dubai"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e9/ef/default-avatar-2020-66.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 945720974,
+      "lang": "en",
+      "location_id": 14076678,
+      "published_date": "2024-04-07T12:41:21Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d14076678-r945720974-Reviews-Crowne_Plaza_Dubai_Marina_an_IHG_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945720974",
+      "text": "We had Iftar and it qas one of a kind. The quality of food and the staff was exceptional. I would definitely come back again. Thanks to Shawky the head of the Iftar restaurant, he was very welcoming and very accommodating, worth to mention that the view is outstanding as well.",
+      "title": "Great experience",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "omarlatifz",
+        "user_location": {
+          "id": "295424",
+          "name": "Dubai, Emirate of Dubai"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1b/41/35/5f/avatar.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1b/41/35/5f/avatar.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1b/41/35/5f/avatar.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/1b/41/35/5f/avatar.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 945720231,
+      "lang": "en",
+      "location_id": 14076678,
+      "published_date": "2024-04-07T12:35:36Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d14076678-r945720231-Reviews-Crowne_Plaza_Dubai_Marina_an_IHG_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945720231",
+      "text": "Joined for iftar buffet. Nice vibes and atmosphere.\nWe were welcomed by a friendly hostess who shwed us to our table and explained the buffet items.\nGood selection of food and staff was very professional and attentive specially Mr. Shawky.",
+      "title": "Nice Place",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "Mave11rick",
+        "user_location": {
+          "id": "295424",
+          "name": "Dubai, Emirate of Dubai"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ea/2e/default-avatar-2020-67.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 945720086,
+      "lang": "en",
+      "location_id": 14076678,
+      "published_date": "2024-04-07T12:34:29Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d14076678-r945720086-Reviews-Crowne_Plaza_Dubai_Marina_an_IHG_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945720086",
+      "text": "Everything from the moment of arrival was perfect. Rooms are beautifully designed, food is great and team is very welcoming. Pool area is nice as well and marina beach is just 5 minutes away. Loved my stay and would definitely come back to visit again",
+      "title": "Great hotel, would definitely book again",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "267irinaz",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e8/ea/default-avatar-2020-63.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e8/ea/default-avatar-2020-63.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e8/ea/default-avatar-2020-63.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e8/ea/default-avatar-2020-63.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e8/ea/default-avatar-2020-63.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 945533809,
+      "lang": "en",
+      "location_id": 14076678,
+      "published_date": "2024-04-06T03:47:30Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d14076678-r945533809-Reviews-Crowne_Plaza_Dubai_Marina_an_IHG_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945533809",
+      "text": "Supervisor valeriia and kibriya and rudolfo and kiju and kamola they are very professional like Ed they are service for me they are the best and given me the best service and special mention to ihg for choosing this hotel in this location is beautiful and everything is near by thanks guys and crown plaza",
+      "title": "Excellent breakfast in local meet some great waiter and barista",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "davoodf2019",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f4/5d/default-avatar-2020-32.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    }
+  ]
+}

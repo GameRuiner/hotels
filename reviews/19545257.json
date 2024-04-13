@@ -1,0 +1,245 @@
+{
+  "data": [
+    {
+      "id": 945648797,
+      "lang": "en",
+      "location_id": 19545257,
+      "published_date": "2024-04-07T01:26:54Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d19545257-r945648797-Reviews-Atlas_Oteli-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review945648797",
+      "text": "As a solo traveller recovering from an operation, I thought the hotel was really lovely with very helpful staff. Great location and a very comfortable nights sleep. The breakfast selection is great and room service menu is extensive. Would highly recommend.",
+      "title": "A very comfortable stay",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "I3432WLsamanthab",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/81/default-avatar-2020-43.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 944596516,
+      "lang": "en",
+      "location_id": 19545257,
+      "published_date": "2024-03-31T01:27:26Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d19545257-r944596516-Reviews-Atlas_Oteli-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review944596516",
+      "text": "friendly staff who always try to help. excellent room service that. excellent location. I strongly recommend the hotel! I was after surgery and the staff was very kind and they helped me with everything. The hotel has a very nice restaurant and also a bar.",
+      "title": "Excellent hotel",
+      "trip_type": "Business",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "svilenz2024",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/b8/default-avatar-2020-22.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 941733866,
+      "lang": "en",
+      "location_id": 19545257,
+      "published_date": "2024-03-11T03:13:09Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d19545257-r941733866-Reviews-Atlas_Oteli-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review941733866",
+      "text": "The hotel location is amazing very central. Hotel itself beautiful...lovely clean rooms and hospitality from staff and management is fantastic. Special mention to Ekrem and Gonul who made our stay complete. I would recommend this hotel to anyone wanting to stay in Izmir.",
+      "title": "Lovely hotel central location",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "joyh702",
+        "user_location": {
+          "id": "551733",
+          "name": "Dungiven, County Londonderry, Northern Ireland"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f6/0d/default-avatar-2020-34.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 941861825,
+        "title": "Owner response",
+        "text": "Dear  Our Guest;\n\nAs the Atlas Hotel family, we would like to express our pleasure to welcome you in our hotel.\n\nIn order to welcome you with the best and most beautiful service, we attach great importance to your comments and thank you for your feedback.\n\nWe look forward to seeing you again and wish you healthy and beautiful days.\n\nBest Regards",
+        "lang": "en",
+        "author": "UMUT YILDIRIM",
+        "published_date": "2024-03-12T03:37:23Z"
+      }
+    },
+    {
+      "id": 941416578,
+      "lang": "en",
+      "location_id": 19545257,
+      "published_date": "2024-03-08T10:39:00Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d19545257-r941416578-Reviews-Atlas_Oteli-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review941416578",
+      "text": "The Atlas Oteli is centrally located with everything in easy reach and good public transport links right outside. It is also a lovely old building with style, the lobby is inviting and has a number of interesting antiques on display. \n\nThe hotel, including rooms, is nicely decorated and furnished and everything works.  I can recommend the bar and restaurant. \n\nThe highlight is the staff though, they are so welcoming and friendly, nothing is too much trouble.",
+      "title": "Very welcoming and comfortable",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "RichardRead11111",
+        "user_location": {
+          "id": "187047",
+          "name": "Gloucester, Cotswolds, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ea/b2/default-avatar-2020-69.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 941597441,
+        "title": "Owner response",
+        "text": "Dear  Richard READ;\n\nAs the Atlas Hotel family, we would like to express our pleasure to welcome you in our hotel.\n\nIn order to welcome you with the best and most beautiful service, we attach great importance to your comments and thank you for your feedback.\n\nWe look forward to seeing you again and wish you healthy and beautiful days.\n\nBest Regards\n",
+        "lang": "en",
+        "author": "UMUT YILDIRIM",
+        "published_date": "2024-03-10T00:24:43Z"
+      }
+    },
+    {
+      "id": 934588729,
+      "lang": "en",
+      "location_id": 19545257,
+      "published_date": "2024-01-18T10:56:20Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d19545257-r934588729-Reviews-Atlas_Oteli-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review934588729",
+      "text": "Great services,  unexpected good, and family treatments. Rooms could be bigger and better, but every euro worthed to spend here.special greatings for Ekrem. Thank you for your hospitality again.  Clean enough.  Food and Bar great.S ee you soon again.",
+      "title": "Rooms small and quiet old, food and bar perfect, service and all the people working at the hotel -perfect",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-01-31",
+      "user": {
+        "username": "800gpd",
+        "user_location": {
+          "id": "212521",
+          "name": "Cavan, County Cavan"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/59/default-avatar-2020-24.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/59/default-avatar-2020-24.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/59/default-avatar-2020-24.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/59/default-avatar-2020-24.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/59/default-avatar-2020-24.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 936782693,
+        "title": "Owner response",
+        "text": "Dear Our Guest;\nAs the Atlas Hotel family, we would like to express that we are happy to host you in our hotel. In order to host you with the best and best, we attach great importance to your comments and thank you for your feedback. We look forward to seeing you again and wish you healthy and beautiful days.",
+        "lang": "en",
+        "author": "UMUT YILDIRIM",
+        "published_date": "2024-02-04T01:53:54Z"
+      }
+    }
+  ]
+}

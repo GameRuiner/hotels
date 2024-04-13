@@ -1,0 +1,151 @@
+{
+  "location_id": "25518099",
+  "name": "The Muse",
+  "description": "Welcome to \"The Muse\" - your perfect holiday retreat!\n\nThis stunning property boasts a unique and stylish design, with olive green-coloured exterior walls that exude a sense of luxury and sophistication. Inside, you'll find beautifully appointed rooms that are sure to impress.\n\nFrom the moment you step inside, you'll be greeted by a sense of warmth and comfort. The décor is elegant and tasteful, with an eye-catching mix of modern and classic design elements. The overall effect is one of relaxed sophistication, making \"The Muse\" the perfect place to unwind and enjoy some much-needed rest and relaxation.\n\nThe bedrooms are especially inviting, with sumptuous linens and comfortable bedding that will ensure a good night's sleep. Each room is tastefully decorated with an eye for detail, creating a tranquil and restful ambience.\n\n\"The Muse\" also features a variety of communal spaces where you can relax and socialize. Whether you're catching up with friends in the spacious living room, cooking up a storm in the well-appointed kitchen, or enjoying a glass of wine on the outdoor terrace, you'll love the feeling of being surrounded by luxury and style.\n\nOverall, \"The Muse\" is a truly exceptional property that offers the perfect combination of style, comfort, and convenience. Book your stay today and experience the ultimate in holiday luxury!",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d25518099-Reviews-The_Muse-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "43 21st Street",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "43 21st Street, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.22529",
+  "longitude": "55.27871",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d25518099-The_Muse-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#583 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "583"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "6",
+  "review_rating_count": {
+    "1": "1",
+    "2": "0",
+    "3": "1",
+    "4": "0",
+    "5": "4"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "12",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d25518099-m66827-Reviews-The_Muse-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Free parking",
+    "Wifi",
+    "Free Wifi",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Air conditioning",
+    "Safe",
+    "Rooftop Pool",
+    "Private Balcony",
+    "Parking",
+    "Housekeeping",
+    "Arabic",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Clothes Rack",
+    "Desk",
+    "Dining Area",
+    "English",
+    "Filipino",
+    "French",
+    "Hindi",
+    "Iron",
+    "Landmark View",
+    "Laptop Safe",
+    "Pool with View",
+    "Private Bathrooms",
+    "Seating Area",
+    "Secured Parking",
+    "Telephone",
+    "Tile / Marble Floor",
+    "Walk-in Shower",
+    "Wardrobe / Closet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "1"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "3"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "1"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "0"
+    }
+  ],
+  "awards": []
+}

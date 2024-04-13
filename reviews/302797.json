@@ -1,0 +1,277 @@
+{
+  "data": [
+    {
+      "id": 945363972,
+      "lang": "en",
+      "location_id": 302797,
+      "published_date": "2024-04-04T14:53:14Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297549-d302797-r945363972-Reviews-SeaGull_Beach_Resort-Hurghada_Red_Sea_and_Sinai.html?m=66827#review945363972",
+      "text": "Amazing people, great allocation, good service, good food, clean, close to the beach, swimming pools, attraction 5 stars, very friendly and helpful, great atmosphere and weather omg, always perfect. Arm great friendly barman, Mohamed just great ",
+      "title": "Family time ",
+      "trip_type": "Family",
+      "travel_date": "2023-11-30",
+      "user": {
+        "username": "976dariuszg",
+        "user_location": {
+          "id": "186577",
+          "name": "Hamilton, South Lanarkshire, Scotland"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/13/88/3b/79/dariusz-g.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/13/88/3b/79/dariusz-g.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/13/88/3b/79/dariusz-g.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/13/88/3b/79/dariusz-g.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945421312,
+        "title": "Owner response",
+        "text": " Dear 976dariuszg,\nThank you for your review and for choosing our hotel. We are happy that you enjoyed your stay and we are looking forward to having you again as a guest in our hotel.\nBest regards,\nSeagull Beach Resort Team",
+        "lang": "en",
+        "author": "SeaGull resort",
+        "published_date": "2024-04-05T04:58:42Z"
+      }
+    },
+    {
+      "id": 943872868,
+      "lang": "en",
+      "location_id": 302797,
+      "published_date": "2024-03-26T07:29:32Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297549-d302797-r943872868-Reviews-SeaGull_Beach_Resort-Hurghada_Red_Sea_and_Sinai.html?m=66827#review943872868",
+      "text": "One from the best hotel in hurghada and in the best location ever middle of Sheraton street, food and cocktails are amazing and good for value I love the entertainment team so much they do great job, big hotel with lot of areas and deferent variety restaurants, rooms are very clean and comfortable, the reception is very helpful and they open your mood always, also the security everywhere which is very safe for the families and for all the guest whose enjoy the vacation I will be back for sure",
+      "title": "Amazing hotel",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "seaandsune2017",
+        "user_location": {
+          "id": "294201",
+          "name": "Cairo, Cairo Governorate"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/10/ed/6b/ae/sea-and-sun-e.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/10/ed/6b/ae/sea-and-sun-e.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/10/ed/6b/ae/sea-and-sun-e.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/10/ed/6b/ae/sea-and-sun-e.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 943894596,
+        "title": "Owner response",
+        "text": " Dear seaandsune2017,\nThank you for your review and for choosing our hotel. We are happy that you enjoyed your stay and we are looking forward to having you again as a guest in our hotel.\nBest regards,\nSeagull Beach Resort Team",
+        "lang": "en",
+        "author": "SeaGull resort",
+        "published_date": "2024-03-26T10:42:24Z"
+      }
+    },
+    {
+      "id": 943803459,
+      "lang": "en",
+      "location_id": 302797,
+      "published_date": "2024-03-25T15:51:12Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297549-d302797-r943803459-Reviews-SeaGull_Beach_Resort-Hurghada_Red_Sea_and_Sinai.html?m=66827#review943803459",
+      "text": "ideal value for money, beautiful surroundings, wonderful staff who try hard and pay attention to needs. The rooms are kept perfectly, I send Best wishes to my room manager Mohamed, he is really warm, hardworking and very helpful man. 🌹🌹🌹We were very satisfied. We would definitely recommend this hotel to our friends.\n\nFamily with small boy 👨‍👩‍👧‍👦👨‍👩‍👧‍👦",
+      "title": "perfect",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "dominykal2023",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e8/24/default-avatar-2020-60.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e8/24/default-avatar-2020-60.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e8/24/default-avatar-2020-60.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e8/24/default-avatar-2020-60.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e8/24/default-avatar-2020-60.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 943863918,
+        "title": "Owner response",
+        "text": "Dear dominykal2023,\nThank you for taking the time to review your stay with us.  We are very pleased to hear that our staff made your stay pleasant. Looking forward to seeing you again soon.\nBest regards,\nSeagull Beach Resort Team",
+        "lang": "en",
+        "author": "SeaGull resort",
+        "published_date": "2024-03-26T05:59:19Z"
+      }
+    },
+    {
+      "id": 943737887,
+      "lang": "en",
+      "location_id": 302797,
+      "published_date": "2024-03-25T06:59:15Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297549-d302797-r943737887-Reviews-SeaGull_Beach_Resort-Hurghada_Red_Sea_and_Sinai.html?m=66827#review943737887",
+      "text": "Very good hotel!\nIt's a must-do for everyone who wants to have a lot for a small ammount.\nWe paid 1000 euro with 2 people with Corendon.\nFor this price we got a great room, good food, nice staff, clean and nice looking hotel.\nI would highly recommend this hotel for everyone who wants to get good price/quality.\nOur stay was in March.",
+      "title": "Great choice price/quality",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "jentea2024",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/b8/default-avatar-2020-22.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 943760752,
+        "title": "Owner response",
+        "text": " Dear jentea2024,\nThank you for your review and for choosing our hotel. We are happy that you enjoyed your stay and we are looking forward to having you again as a guest in our hotel.\nBest regards,\nSeagull Beach Resort Team",
+        "lang": "en",
+        "author": "SeaGull resort",
+        "published_date": "2024-03-25T10:09:57Z"
+      }
+    },
+    {
+      "id": 942574938,
+      "lang": "en",
+      "location_id": 302797,
+      "published_date": "2024-03-16T20:53:19Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297549-d302797-r942574938-Reviews-SeaGull_Beach_Resort-Hurghada_Red_Sea_and_Sinai.html?m=66827#review942574938",
+      "text": "I have been to this hotel for the fourth time and I always take a single room. This time I was here with a friend and he also had a single room and we were both satisfied. You can't compare the noise from the balcony with a European vacation, but those who know Egypt know what they're talking about...\n\nI recommend the hotel to everyone because it has two beaches, three cascading pools and one really large and heated pool.",
+      "title": "Great vacation",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "romanhugob",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/3d/default-avatar-2020-55.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 942734004,
+        "title": "Owner response",
+        "text": "Dear romanhugob,\n We appreciate your positive feedback about our hotel. We do take pride in catering to our guests’ needs the best way we can. If you’re traveling to our area gain soon, don’t hesitate to call us.\nBest regards,\nSeagull Beach Resort Team",
+        "lang": "en",
+        "author": "SeaGull resort",
+        "published_date": "2024-03-18T04:22:49Z"
+      }
+    }
+  ]
+}

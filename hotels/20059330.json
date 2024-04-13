@@ -1,0 +1,241 @@
+{
+  "location_id": "20059330",
+  "name": "ME Dubai",
+  "description": "Housed in the iconic Opus by Omniyat building in the Burj Khalifa district, ME Dubai stands out from the crowd. All 93 rooms and suites of ME Dubai are congruent with Dame Zaha Hadid’s signature Design. Her organic shapes, flowing in appearance, combine with geometric structures to create positive energy and a calming, serene mood. Rooms include a 65inch 4K LED TV, MaxiBar with coffee and tea making facilities, complimentary Wi-Fi, large bathroom with torrential rain shower and bathtub, plus state-of-the-art BOSE sound system. Regard ME Dubai as your ‘Lifestyle Concierge’, delivering bespoke à la carte or pre-selected services within your personal space, tailored to your personality. Whether you’re looking to immerse yourself in the country’s deep-rooted history or explore the emerging art and design scene, Dubai has something to offer for everyone. The area's natural beauty can be seen at nearby Safa Park, Dubai Water Canal and La Mer Beach, while Dubai Fountain, Dubai Aquarium & Underwater Zoo or KidZania, located in The Dubai Mall, are popular attractions in the area.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d20059330-Reviews-ME_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Amal Street",
+    "street2": "The Opus by Omniyat, Business Bay",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "333371",
+    "address_string": "Al Amal Street The Opus by Omniyat, Business Bay, Dubai 333371 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.189203",
+  "longitude": "55.266724",
+  "timezone": "Asia/Dubai",
+  "phone": "19292071033",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d20059330-ME_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#94 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "94"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "611",
+  "review_rating_count": {
+    "1": "13",
+    "2": "6",
+    "3": "3",
+    "4": "37",
+    "5": "552"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "684",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d20059330-m66827-Reviews-ME_Dubai-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Pets Allowed",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Minibar",
+    "Babysitting",
+    "Safe",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Sauna",
+    "Additional Bathroom",
+    "Allergy-free Room",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Coffee Shop",
+    "Complimentary Tea",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Free Private Parking Nearby",
+    "Free Public Parking Nearby",
+    "Complimentary Instant Cofffee",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Iron",
+    "Ironing Service",
+    "Nightclub / DJ",
+    "Pool / Beach Towels",
+    "Private Check-in / Check-out",
+    "Seating Area",
+    "24-Hour Security",
+    "Special Diet Menus",
+    "Street Parking",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Flatscreen TV",
+    "Cable / Satellite TV",
+    "Chinese",
+    "Clothes Rack",
+    "German",
+    "Italian",
+    "Laptop Safe",
+    "Private Bathrooms",
+    "Russian",
+    "Soundproof Rooms",
+    "Spanish",
+    "Valet Parking",
+    "Wake Up Service / Alarm Clock"
+  ],
+  "parent_brand": "Melia Hotels International",
+  "brand": "ME by Melia",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Boutique",
+    "Quaint"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620621",
+      "name": "Business Bay"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "108"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "171"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "65"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "107"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "101"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

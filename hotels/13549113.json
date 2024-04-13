@@ -1,0 +1,201 @@
+{
+  "location_id": "13549113",
+  "name": "Hampton by Hilton Dubai Al Seef",
+  "description": "Hampton by Hilton Dubai Al Seef is all about maximum attitude with minimal frills. A hotel for the explorer who wants to get out and about, but also wants somewhere welcoming and lively to escape to. The hotel offers a contemporary, urban experience with a trendy atmosphere. It is ideal for eager explorers who want to get out and about but have somewhere cozy yet lively to escape to, while taking advantage of the proximity to everything Dubai has to offer.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d13549113-Reviews-Hampton_by_Hilton_Dubai_Al_Seef-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Seef Street",
+    "street2": "Dubai Creek",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "35449",
+    "address_string": "Al Seef Street Dubai Creek, Dubai 35449 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.255707",
+  "longitude": "55.311035",
+  "timezone": "Asia/Dubai",
+  "phone": "18884466677",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d13549113-Hampton_by_Hilton_Dubai_Al_Seef-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#352 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "352"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "493",
+  "review_rating_count": {
+    "1": "23",
+    "2": "7",
+    "3": "31",
+    "4": "97",
+    "5": "335"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "672",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d13549113-m66827-Reviews-Hampton_by_Hilton_Dubai_Al_Seef-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Refrigerator in room",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Allergy-free Room",
+    "Arabic",
+    "Filipino",
+    "24-Hour Front Desk",
+    "Hindi",
+    "24-Hour Security",
+    "Taxi Service",
+    "Room service",
+    "Outdoor pool",
+    "Baggage Storage"
+  ],
+  "parent_brand": "Hilton Worldwide",
+  "brand": "Hampton by Hilton",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quaint",
+    "Boutique"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620675",
+      "name": "Umm Hurair"
+    },
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    },
+    {
+      "location_id": "15620676",
+      "name": "Umm Hurair 1"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "67"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "142"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "59"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "87"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "62"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

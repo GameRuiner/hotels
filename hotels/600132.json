@@ -1,0 +1,379 @@
+{
+  "location_id": "600132",
+  "name": "Titanic Deluxe Lara",
+  "description": "Titanic Deluxe Lara, with its 561 rooms spread over an area of 95 thousand square meters that attracts attention with its advantageous location close to the city, has its guests experience a magnificent holiday with its thematic architecture, chic decoration, pleasant rooms and warm atmosphere.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g15300585-d600132-Reviews-Titanic_Deluxe_Lara-Muratpasa_Antalya_Turkish_Mediterranean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Guzeloba Mah. Yasar Sobutay Bul. No:36",
+    "city": "Muratpasa",
+    "state": "Antalya Province",
+    "country": "Turkiye",
+    "postalcode": "07230",
+    "address_string": "Guzeloba Mah. Yasar Sobutay Bul. No:36, Muratpasa, Antalya 07230 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Muratpasa",
+      "location_id": "15300585"
+    },
+    {
+      "level": "Municipality",
+      "name": "Antalya",
+      "location_id": "297962"
+    },
+    {
+      "level": "Province",
+      "name": "Antalya Province",
+      "location_id": "297960"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Mediterranean Coast",
+      "location_id": "658661"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "36.85679",
+  "longitude": "30.86093",
+  "timezone": "Europe/Istanbul",
+  "phone": "011902423520202",
+  "write_review": "https://www.tripadvisor.com/UserReview-g15300585-d600132-Titanic_Deluxe_Lara-Muratpasa_Antalya_Turkish_Mediterranean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "15300585",
+    "ranking_string": "#4 of 59 hotels in Muratpasa",
+    "geo_location_name": "Muratpasa",
+    "ranking_out_of": "59",
+    "ranking": "4"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "8165",
+  "review_rating_count": {
+    "1": "221",
+    "2": "207",
+    "3": "522",
+    "4": "1048",
+    "5": "6167"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "8736",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g15300585-d600132-m66827-Reviews-Titanic_Deluxe_Lara-Muratpasa_Antalya_Turkish_Mediterranean_Coast.html#photos",
+  "price_level": "$$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "All-Inclusive",
+    "Suites",
+    "Free parking",
+    "Beachfront",
+    "Beach Access",
+    "Free Internet",
+    "Breakfast included",
+    "Non-smoking rooms",
+    "Pool",
+    "Kids Activities",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Kitchenette",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Tennis Court",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Aerobics",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bathrobes",
+    "Billiards",
+    "Bottled Water",
+    "Bowling",
+    "Bridal Suite",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Children's Television Networks",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Convenience Store",
+    "Couples Massage",
+    "Darts",
+    "Desk",
+    "Diving",
+    "Dutch",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Head Massage",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Karaoke",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Laptop Safe",
+    "Massage",
+    "Nightclub / DJ",
+    "Outdoor Furniture",
+    "Parking Garage",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shoeshine",
+    "Shops",
+    "Snack Bar",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Turkish",
+    "Wake Up Service / Alarm Clock",
+    "Wine / Champagne",
+    "Kids pool",
+    "Bidet",
+    "Cable / Satellite TV",
+    "Children's Playground",
+    "Electric Kettle",
+    "Foot Bath",
+    "Full Body Massage",
+    "Hand Massage",
+    "Highchairs Available",
+    "Light Therapy",
+    "Makeup Services",
+    "Manicure",
+    "Mountain View",
+    "Neck Massage",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Personal Trainer",
+    "Pool View",
+    "Private Bathrooms",
+    "Sofa",
+    "Sofa Bed",
+    "Sun Deck",
+    "Swimming Pool Toys",
+    "Tile / Marble Floor",
+    "Valet Parking",
+    "Wardrobe / Closet",
+    "Water Sport Equipment Rentals",
+    "Waxing Services",
+    "Whirlpool Bathtub",
+    "Windsurfing",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "parent_brand": "Titanic Hotels Group",
+  "brand": "Titanic Hotels",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Modern",
+    "Great View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "410"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1950"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "137"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "4050"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "909"
+    }
+  ],
+  "awards": []
+}

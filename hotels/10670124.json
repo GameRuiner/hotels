@@ -1,0 +1,215 @@
+{
+  "location_id": "10670124",
+  "name": "ibis Styles Barcelona City Bogatell",
+  "description": "The ibis Styles Barcelona City hotel is designed so that you can enjoy an outstanding experience immersed in the heart of Barcelona. The rooms have been created for your comfort: modern, comfortable and designed so that you can enjoy yourself in an environment inspired by the Mediterranean. Savor the snack menu and tapas dishes in our bar or on our indoor terrace, or relax in our swimming pool with sea views. The beach is only 12 minutes away on foot, and you can also enjoy a pleasant stroll to the Port Olímpic marina. If you'd prefer, the chance to explore the iconic and cultural center of Barcelona is only 4 metro stop away. (Our pool will be closed from January 9, 2023 for renovations and for a period of one month. We apologize for the inconvenience.)",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d10670124-Reviews-Ibis_Styles_Barcelona_City_Bogatell-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Carrer de Llull 71",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08005",
+    "address_string": "Carrer de Llull 71, 08005 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.39485",
+  "longitude": "2.19344",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d10670124-Ibis_Styles_Barcelona_City_Bogatell-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#129 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "129"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1077",
+  "review_rating_count": {
+    "1": "18",
+    "2": "21",
+    "3": "101",
+    "4": "416",
+    "5": "521"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "567",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d10670124-m66827-Reviews-Ibis_Styles_Barcelona_City_Bogatell-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Kids Activities",
+    "Free Internet",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Free Wifi",
+    "Breakfast included",
+    "Non-smoking rooms",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Non-smoking hotel",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Outdoor pool",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Catalan",
+    "24-Hour Check-in",
+    "English",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Italian",
+    "Paid Private Parking On-site",
+    "Paid Private Parking Nearby",
+    "Soundproof Rooms",
+    "Spanish",
+    "Sun Terrace",
+    "Beach Access"
+  ],
+  "parent_brand": "Accor",
+  "brand": "ibis Styles",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Family",
+    "Trendy"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15565880",
+      "name": "Sant Marti"
+    },
+    {
+      "location_id": "7230969",
+      "name": "Ciutadella / Vila Olimpica"
+    },
+    {
+      "location_id": "15565922",
+      "name": "El Parc i la Llacuna del Poblenou"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "85"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "401"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "44"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "315"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "130"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

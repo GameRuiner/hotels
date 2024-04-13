@@ -1,0 +1,218 @@
+{
+  "data": [
+    {
+      "id": 945960362,
+      "lang": "en",
+      "location_id": 12301346,
+      "published_date": "2024-04-09T10:15:35Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d12301346-r945960362-Reviews-Dukes_The_Palm_a_Royal_Hideaway_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945960362",
+      "text": "Family Satisfaction,\nThanks to all the staff for being very helpful and special thanks to Mr. Linn from the service staff who was very kind and helpful all the time. I really enjoyed the meal and advised my friends to have the same experience.\nThanks again, and I wish you all the best. ",
+      "title": "Thanks so much ",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "295khalifae",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/81/default-avatar-2020-43.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 945940924,
+      "lang": "en",
+      "location_id": 12301346,
+      "published_date": "2024-04-09T07:11:47Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d12301346-r945940924-Reviews-Dukes_The_Palm_a_Royal_Hideaway_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945940924",
+      "text": "All perfect , is the ninth time we were here… wonderful place ! Perfect room, Sravan is perfect! All is very nice. Very raccomandate for children, swimming pools  and other for the kids. 20 min from airport, 10 minutes by the center of Dubai, at the beginning of of the Jumeirah palm.",
+      "title": "All very nice",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "rodolfob367",
+        "user_location": {
+          "id": "309292",
+          "name": "Escazu, San Jose Metro, Province of San Jose"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/12/91/bd/a0/rodolfo-b.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/12/91/bd/a0/rodolfo-b.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/12/91/bd/a0/rodolfo-b.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/12/91/bd/a0/rodolfo-b.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 945939305,
+      "lang": "en",
+      "location_id": 12301346,
+      "published_date": "2024-04-09T06:54:20Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d12301346-r945939305-Reviews-Dukes_The_Palm_a_Royal_Hideaway_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945939305",
+      "text": "The welcome into the room was fab , they left a birthday card and cake in my room as it was my birthday on day of arrival , the room was refreshed every day with clean bedding and towels, the hotel staff were pleasant and always willing to help with our needs",
+      "title": "60 th birthday holiday",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "iainanthonyhooton",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ed/ce/default-avatar-2020-7.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 945861181,
+      "lang": "en",
+      "location_id": 12301346,
+      "published_date": "2024-04-08T13:12:28Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d12301346-r945861181-Reviews-Dukes_The_Palm_a_Royal_Hideaway_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945861181",
+      "text": "Absolutely wonderful hotel in the dreamiest destination. Immaculate hotel very clean and prestigious. Staff are extremely friendly which is just what you want to make your stay special. Breakfast was excellent. They decorated the bedroom for my son’s birthday with balloons and a personalised photo cake. Completely perfect, very special place.",
+      "title": "Perfect",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "P6218IQcherylh",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/2b/d2/36/46/cheryl-h.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/2b/d2/36/46/cheryl-h.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/2b/d2/36/46/cheryl-h.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/2b/d2/36/46/cheryl-h.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/2b/d2/36/46/cheryl-h.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 945821783,
+      "lang": "en",
+      "location_id": 12301346,
+      "published_date": "2024-04-08T07:49:25Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d12301346-r945821783-Reviews-Dukes_The_Palm_a_Royal_Hideaway_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945821783",
+      "text": "We had a Nice stay at Dukes the Palm hotel. Especially Room cleaning was very good.   Sravan did a very good job as a room cleaner. Also good restaurants and clean and nice beach and pool. We stayed at a family in April 2024 for the fourth time………..",
+      "title": "Nice stay and clean hotel",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "sebastiansW1518UR",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ed/ce/default-avatar-2020-7.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "location_id": "23862400",
+  "name": "Paramount Hotel Midtown",
+  "description": "With feel-good vibes, mid-century styling, awe-inspiring views and fresh culinary concepts, this hotel is where the Hollywood-chic go to ‘see and be seen. Curated for the young-at-heart who love to be at the centre of it all, Paramount Midtown is perfectly positioned in Business Bay Dubai, just a stone’s throw from Sheikh Zayed Road, Burj Khalifa and the Dubai Mall.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d23862400-Reviews-Paramount_Hotel_Midtown-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Mustaqbal Street",
+    "street2": "Business Bay",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Al Mustaqbal Street Business Bay, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.193441",
+  "longitude": "55.267628",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d23862400-Paramount_Hotel_Midtown-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#144 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "144"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "749",
+  "review_rating_count": {
+    "1": "16",
+    "2": "8",
+    "3": "15",
+    "4": "32",
+    "5": "679"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "742",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d23862400-m66827-Reviews-Paramount_Hotel_Midtown-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Minibar",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Housekeeping",
+    "Sauna",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Extra Long Beds",
+    "Fitness Classes",
+    "Free Public Parking Nearby",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Ironing Service",
+    "Italian",
+    "Massage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "24-Hour Security",
+    "Telephone",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Family Rooms",
+    "Flatscreen TV",
+    "Parking",
+    "Chinese",
+    "Dining Area",
+    "Electric Kettle",
+    "Filipino",
+    "French",
+    "Full Body Massage",
+    "Iron",
+    "Personal Trainer",
+    "Private Bathrooms",
+    "Russian",
+    "Separate Living Room",
+    "Sofa",
+    "Spanish",
+    "Ukrainian",
+    "Urdu",
+    "Valet Parking"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quaint",
+    "City View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "77"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "253"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "48"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "153"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "146"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice Best of the Best",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png"
+      },
+      "categories": [
+        "HottestNewHotels"
+      ],
+      "display_name": "Travelers Choice Best of the Best"
+    }
+  ]
+}

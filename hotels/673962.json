@@ -1,0 +1,274 @@
+{
+  "location_id": "673962",
+  "name": "Holiday Inn Express Dubai - Internet City, an IHG Hotel",
+  "description": "Welcome to the Holiday Inn Express Dubai Internet City. Stay in the heart of the Knowledge Village,minutes from Dubai Marina and Jumeirah Beach.\nStart your day with complimentary Express start Breakfast buffet. Enjoy our fully equipped 24-hour Fitness Centre and stay productive in our 24-hour Business Centre. Take advantage of our a complimentary high-speed wireless Internet, fast enough for you to download that important presentation or just connect with friends. Host a sales meeting, training sessions or an informal get-together at one of our three naturally lit meeting rooms with space for up to 110 delegates. \nThe hotel is strategically located in TECOM (Internet City, Media City and Knowledge Village), a perfect location for those visiting Eye of Dubai, and close to the Jebel Ali Port Free Zone.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d673962-Reviews-Holiday_Inn_Express_Dubai_Internet_City_an_IHG_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Knowledge Village",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "",
+    "address_string": "Knowledge Village, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.104216",
+  "longitude": "55.166138",
+  "timezone": "Asia/Dubai",
+  "phone": "18778595095",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d673962-Holiday_Inn_Express_Dubai_Internet_City_an_IHG_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#154 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "154"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "1112",
+  "review_rating_count": {
+    "1": "51",
+    "2": "56",
+    "3": "189",
+    "4": "300",
+    "5": "516"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "286",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d673962-m66827-Reviews-Holiday_Inn_Express_Dubai_Internet_City_an_IHG_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Free parking",
+    "Business center",
+    "Internet",
+    "Breakfast included",
+    "Shuttle Bus Service",
+    "Room service",
+    "Free Internet",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Conference Facilities",
+    "Babysitting",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Arabic",
+    "Baggage Storage",
+    "Car Hire",
+    "Currency Exchange",
+    "English",
+    "Filipino",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Beach Access"
+  ],
+  "parent_brand": "InterContinental",
+  "brand": "Holiday Inn Express",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Business",
+    "Quiet"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620603",
+      "name": "Al Sufouh"
+    },
+    {
+      "location_id": "15620605",
+      "name": "Al Sufouh 2"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "479"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "152"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "181"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "145"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "135"
+    }
+  ],
+  "awards": []
+}

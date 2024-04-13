@@ -1,0 +1,287 @@
+{
+  "location_id": "15326643",
+  "name": "Stella Di Mare Dubai Marina",
+  "description": "The Stella Di Mare Dubai Marina Hotel is the one place that meets all your needs, whether you are visiting for business or leisure. The 369 rooms are decorated in Art Deco style and are designed to accommodate your every requirement. Stella Di Mare provides an array of culinary delights, regardless of which restaurant you choose. Leonardo offers Italian food with a unique twist and La Fontana provides you with an international buffet. The Orphic lets you enjoy authentic Italian coffee with some delicious pastries. Headlines Premier – one of the few rooftop bars in Dubai, is located on the 31st floor, where you can relax with one of our exclusive cocktails in hand, while watching the beautiful sunset. JBR Beach is a 10 minute walk from Stella Di Mare. The Hotel offers free shuttle to JBR Beach and Dubai Marina Mall. Dubai International Airport is a 30-minute drive away.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d15326643-Reviews-Stella_Di_Mare_Dubai_Marina-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Mattla'ee Street",
+    "street2": "Dubai Marina",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Al Mattla'ee Street Dubai Marina, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.068674",
+  "longitude": "55.134113",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d15326643-Stella_Di_Mare_Dubai_Marina-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#251 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "251"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1351",
+  "review_rating_count": {
+    "1": "59",
+    "2": "23",
+    "3": "58",
+    "4": "166",
+    "5": "1045"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1337",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d15326643-m66827-Reviews-Stella_Di_Mare_Dubai_Marina-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Rooftop Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Outdoor pool",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Sauna",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Fence Around Pool",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Iron",
+    "Ironing Service",
+    "Italian",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Massage",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Secured Parking",
+    "Soundproof Rooms",
+    "Steam Room",
+    "Street Parking",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Kids pool",
+    "Breakfast Available",
+    "Bidet",
+    "Cable / Satellite TV",
+    "Express Check-in / Check-out",
+    "Children's Television Networks",
+    "Couples Massage",
+    "Electric Kettle",
+    "Foot Massage",
+    "Full Body Massage",
+    "Hand Massage",
+    "Happy Hour",
+    "Head Massage",
+    "Highchairs Available",
+    "Landmark View",
+    "Laptop Safe",
+    "Makeup Services",
+    "Manicure",
+    "Neck Massage",
+    "Nepali",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Personal Trainer",
+    "Private Bathrooms",
+    "Sinhala",
+    "Sofa",
+    "Swahili",
+    "Tile / Marble Floor",
+    "Ukrainian",
+    "Urdu",
+    "Valet Parking",
+    "Walk-in Shower",
+    "Wardrobe / Closet"
+  ],
+  "parent_brand": "Stella Di Mare Hotels & Resorts",
+  "brand": "Stella Di Mare",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Trendy",
+    "Mid-range"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7282432",
+      "name": "The Marina"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "125"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "343"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "103"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "431"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "189"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

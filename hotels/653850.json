@@ -1,0 +1,179 @@
+{
+  "location_id": "653850",
+  "name": "Astoria Hotel",
+  "description": "Only a 2-minute walk from Dubai Creek, Astoria Hotel offers air-conditioned rooms and 4 restaurants. It is within 5 minutes' drive of Bur Juman Mall. Free private parking is available. The rooms at Astoria Hotel are equipped with a work desk and cable TV. Each has a mini-fridge and a private bathroom with a hairdryer. Ironing facilities are provided. Tex Mex cuisine and live entertainment can be enjoyed at the Pancho's Villa restaurant and night club. There is also an Indian eatery and an American-style restaurant with a 3-course menu. Astoria can organise shopping excursions to the local malls and souqs. Desert safaris and creek cruises can also be arranged. Dubai International Airport is 20 minutes' drive away. Bur Dubai is highly rated by guests for: history, hiking, excursions",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d653850-Reviews-Astoria_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Fahidi St",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "457",
+    "address_string": "Al Fahidi St, Dubai 457 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.262304",
+  "longitude": "55.292007",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d653850-Astoria_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#536 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "536"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "216",
+  "review_rating_count": {
+    "1": "26",
+    "2": "21",
+    "3": "66",
+    "4": "51",
+    "5": "52"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    }
+  },
+  "photo_count": "124",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d653850-m66827-Reviews-Astoria_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Restaurant",
+    "Internet",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Air conditioning",
+    "Smoking rooms available",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Free Wifi",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Refrigerator in room",
+    "Baggage Storage"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Centrally Located",
+    "Mid-range"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620551",
+      "name": "Al Fahidi"
+    },
+    {
+      "location_id": "7282429",
+      "name": "The Creek"
+    },
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    },
+    {
+      "location_id": "15620602",
+      "name": "Al Souk Al Kabir"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "51"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "33"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "28"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "45"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "42"
+    }
+  ],
+  "awards": []
+}

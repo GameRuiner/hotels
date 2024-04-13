@@ -1,0 +1,187 @@
+{
+  "location_id": "3160432",
+  "name": "Blue City Boutique Hotel Mavisehir",
+  "description": "See why so many travelers make Blue City Hotel their small hotel of choice when visiting Izmir. Providing an ideal mix of value, comfort and convenience, it offers an array of amenities designed for travelers like you.\nRooms at Blue City Hotel offer air conditioning, a minibar, and a desk providing exceptional comfort and convenience, and guests can go online with free wifi.\nA 24 hour front desk, room service, and shops are some of the conveniences offered at this small hotel. An on-site restaurant will also help to make your stay even more special. If you are driving to Blue City Hotel, secured parking is available.\nWhile you’re here, be sure to check out some of the nearby restaurants, including Deniz Kent Restaurant (0.6 mi), Ayvalık Balıkcısı (0.9 mi), and Bogazici Restaurant (0.8 mi), all of which are within walking distance from Blue City Hotel.\nLooking to explore? Then look no further than Tay Park (1.0 mi), which is a popular Izmir attraction – and it is conveniently located within walking distance of the small hotel.\nWe’re sure you’ll enjoy your stay at Blue City Hotel as you experience all of the things Izmir has to offer.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d3160432-Reviews-Blue_City_Boutique_Hotel_Mavisehir-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "6472 Sokak No: 22",
+    "street2": "Yali Mahallesi",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35550",
+    "address_string": "6472 Sokak No: 22 Yali Mahallesi, Izmir 35550 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.47129",
+  "longitude": "27.085388",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d3160432-Blue_City_Boutique_Hotel_Mavisehir-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#24 of 136 B&Bs / Inns in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "136",
+    "ranking": "24"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "17",
+  "review_rating_count": {
+    "1": "2",
+    "2": "1",
+    "3": "1",
+    "4": "3",
+    "5": "10"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "24",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d3160432-m66827-Reviews-Blue_City_Boutique_Hotel_Mavisehir-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Shuttle Bus Service",
+    "Room service",
+    "Free Internet",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Air conditioning",
+    "Minibar",
+    "Non-smoking hotel",
+    "Safe",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Convenience Store",
+    "Currency Exchange",
+    "Desk",
+    "English",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "German",
+    "Hair Dryer",
+    "Iron",
+    "Ironing Service",
+    "Newspaper",
+    "Outdoor Furniture",
+    "Salon",
+    "Seating Area",
+    "Secured Parking",
+    "Shared Lounge / TV Area",
+    "Shops",
+    "Telephone",
+    "Turkish",
+    "Wake Up Service / Alarm Clock",
+    "Wine / Champagne"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "bb",
+      "localized_name": "Bed and Breakfast"
+    }
+  ],
+  "styles": [
+    "Boutique",
+    "Quaint"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "9"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "3"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "3"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "0"
+    }
+  ],
+  "awards": []
+}

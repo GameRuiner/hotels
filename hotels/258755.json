@@ -1,0 +1,239 @@
+{
+  "location_id": "258755",
+  "name": "HCC Montblanc",
+  "description": "HCC Montblanc is situated right in the heart of the city, just 500 metres from Plaza Catalunya and bordering the charismatic Gótico neighbourhood. The hotel's location makes it the best choice for soaking up the atmosphere and life of Barcelona, and for discovering or revisiting its most emblematic corners, such as the Palau de la Música, the Ramblas, the Cathedral, Plaza Catalunya, the neighbourhoods of the Born and Barceloneta, among many others. Hotel HCC Montblanc is a new building, and has recently been extended. The hotel makes a good choice for a stay that is full of contrasts and unforgettable moments.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d258755-Reviews-HCC_Montblanc-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Via Laietana, 61",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08002",
+    "address_string": "Via Laietana, 61, 08002 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.387783",
+  "longitude": "2.173379",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d258755-HCC_Montblanc-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#119 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "119"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "2137",
+  "review_rating_count": {
+    "1": "47",
+    "2": "62",
+    "3": "325",
+    "4": "941",
+    "5": "762"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "645",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d258755-m66827-Reviews-HCC_Montblanc-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Room service",
+    "Restaurant",
+    "Pool",
+    "Business center",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Outdoor pool",
+    "Parking",
+    "Housekeeping",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Catalan",
+    "Desk",
+    "English",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "24-Hour Security",
+    "Spanish",
+    "Sun Terrace",
+    "Taxi Service",
+    "Telephone",
+    "Breakfast Available",
+    "Facilities for Disabled Guests",
+    "Bicycle Rental",
+    "Breakfast in the Room",
+    "24-Hour Check-in",
+    "Clothes Rack",
+    "Coffee Shop",
+    "Highchairs Available",
+    "Ironing Service",
+    "Italian",
+    "Kids' Meals",
+    "Laptop Safe",
+    "Newspaper",
+    "Outdoor Dining Area",
+    "Outdoor Furniture",
+    "Pool View",
+    "Paid Private Parking On-site",
+    "Shallow End",
+    "Snack Bar",
+    "Solarium",
+    "Soundproof Rooms",
+    "Special Diet Menus",
+    "Sun Deck",
+    "Sun Loungers / Beach Chairs",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet",
+    "Photo Copier / Fax In Business Center",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Mid-range",
+    "Family"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230963",
+      "name": "Barrio Gotico (Barri Gotic)"
+    },
+    {
+      "location_id": "15565874",
+      "name": "Ciutat Vella (Old Town)"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "192"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "805"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "96"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "433"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "312"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

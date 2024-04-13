@@ -1,0 +1,378 @@
+{
+  "location_id": "1008503",
+  "name": "The Westin Dubai Mina Seyahi Beach Resort & Marina",
+  "description": "Occupying a prime location on Jumeirah Beach, the Westin Dubai Mina Seyahi. It features spectacular 5 resort pools, a 1,200 m private beach, luxurious rooms and 8 restaurants. Panoramic views over the Arabian Gulf and the Palm Jumeirah can be enjoyed from most rooms and parts of the Westin Dubai Mina Seyahi Beach Resort. Rooms and suites include free Wi-Fi, a Nespresso machine, spacious seating area, and a marble bathroom with luxury bath amenities. Modern and classical design with high ceilings and grand mirrors are also featured in each unit. Guests can relax at the Heavenly Spa by Westin. There are also tennis courts, a fitness centre, and a water sports centre. At the Westin Mina Seyahi children can enjoy a kids pool, daily beach games, kids club and a Wild Wadi Waterpark nearby. Steakhouse, Thai and Italian cuisine are just some of the choices on offer, served formally or informally. Spanish, Asian and international dishes can also be savoured at the resort. Special menus for children are served in the restaurants. Westin Dubai is 5 minutes by car from Jumeirah Beach Walk and 20 minutes away from Burj Khalifa and Dubai Mall. Mina Seyahi is a great choice for travellers interested in beaches, family holiday, relaxation and food.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1008503-Reviews-The_Westin_Dubai_Mina_Seyahi_Beach_Resort_Marina-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Sufouh, Jumeirah",
+    "street2": "Dubai Marina",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "213084",
+    "address_string": "Al Sufouh, Jumeirah Dubai Marina, Dubai 213084 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.09361",
+  "longitude": "55.14817",
+  "timezone": "Asia/Dubai",
+  "phone": "18446310595",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1008503-The_Westin_Dubai_Mina_Seyahi_Beach_Resort_Marina-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#37 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "37"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "6459",
+  "review_rating_count": {
+    "1": "74",
+    "2": "87",
+    "3": "227",
+    "4": "797",
+    "5": "5274"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "4853",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1008503-m66827-Reviews-The_Westin_Dubai_Mina_Seyahi_Beach_Resort_Marina-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Pool",
+    "Free parking",
+    "Business center",
+    "Room service",
+    "Restaurant",
+    "Fitness center",
+    "Internet",
+    "Kids Activities",
+    "Beachfront",
+    "Suites",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Wheelchair access",
+    "Meeting rooms",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Butler Service",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Additional Bathroom",
+    "Allergy-free Room",
+    "Arabic",
+    "Baggage Storage",
+    "Bathrobes",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Couples Massage",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Entertainment Staff",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Complimentary Instant Cofffee",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Head Massage",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Newspaper",
+    "Nightclub / DJ",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shoeshine",
+    "Shops",
+    "Snack Bar",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Breakfast Available",
+    "Beach Access"
+  ],
+  "parent_brand": "Marriott",
+  "brand": "Westin",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Ocean View",
+    "Family"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620603",
+      "name": "Al Sufouh"
+    },
+    {
+      "location_id": "7282432",
+      "name": "The Marina"
+    },
+    {
+      "location_id": "15620605",
+      "name": "Al Sufouh 2"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "584"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1734"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "284"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "2534"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "706"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice Best of the Best",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png"
+      },
+      "categories": [
+        "Luxury",
+        "Top"
+      ],
+      "display_name": "Travelers Choice Best of the Best"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

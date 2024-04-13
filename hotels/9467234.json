@@ -1,0 +1,178 @@
+{
+  "location_id": "9467234",
+  "name": "Hotel 1207 Special Class",
+  "description": "1207 Boutique Hotel is located in the historical Kaleici district of Antalya. Our hotel has 15 rooms, bar, indoor, outdoor restaurant and serves as a bed and breakfast. Our Hotel is within walking distance to the Yacht Harbour,Sunan Inan Kirac Musuem, Hadrianus Gate, Mermerli Beach, Broken Minarett ,Clock Tower and Atatürk Street. There are many shops ,bars ,restaurants places in the vicinity. Antalya Otogar is 7 kilometers and Antalya Airport is 12 kilometers far away from the hotel.Hotel guests can reach the Antalya Archaeological Museum and Konyaalti Beach in 15 minutes by tram nostalgia which is 2 minutes away from the hotel.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297962-d9467234-Reviews-Hotel_1207_Special_Class-Antalya_Turkish_Mediterranean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Kaleici Barbaros Mah. Ataturk Bul. Koacatepe Sk. No:13",
+    "city": "Antalya",
+    "state": "Antalya Province",
+    "country": "Turkiye",
+    "postalcode": "7100",
+    "address_string": "Kaleici Barbaros Mah. Ataturk Bul. Koacatepe Sk. No:13, Antalya 7100 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Antalya",
+      "location_id": "297962"
+    },
+    {
+      "level": "Province",
+      "name": "Antalya Province",
+      "location_id": "297960"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Mediterranean Coast",
+      "location_id": "658661"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "36.883656",
+  "longitude": "30.708267",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297962-d9467234-Hotel_1207_Special_Class-Antalya_Turkish_Mediterranean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297962",
+    "ranking_string": "#70 of 504 hotels in Antalya",
+    "geo_location_name": "Antalya",
+    "ranking_out_of": "504",
+    "ranking": "70"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "141",
+  "review_rating_count": {
+    "1": "7",
+    "2": "4",
+    "3": "12",
+    "4": "28",
+    "5": "90"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "226",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297962-d9467234-m66827-Reviews-Hotel_1207_Special_Class-Antalya_Turkish_Mediterranean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Non-smoking rooms",
+    "Air conditioning",
+    "English",
+    "Suites",
+    "Wheelchair access",
+    "Restaurant",
+    "Airport transportation",
+    "Dry Cleaning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Safe",
+    "Breakfast Available",
+    "Baggage Storage",
+    "Bridal Suite",
+    "Car Hire",
+    "Express Check-in / Check-out",
+    "Clothes Rack",
+    "Free Public Parking Nearby",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "German",
+    "Hair Dryer",
+    "Outdoor Furniture",
+    "Russian",
+    "Shared Lounge / TV Area",
+    "Turkish",
+    "Wake Up Service / Alarm Clock",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quaint",
+    "Classic"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "8"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "44"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "7"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "41"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "17"
+    }
+  ],
+  "awards": []
+}

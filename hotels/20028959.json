@@ -1,0 +1,275 @@
+{
+  "location_id": "20028959",
+  "name": "Staybridge Suites Dubai Al-Maktoum Airport, an IHG hotel",
+  "description": "More home than just a hotel, Staybridge Suites Dubai Al-Maktoum Airport has all you need for comfortable living. Whether you are coming for a business visit, or to enjoy some leisure time with your family, this is where you want to enjoy your extended stay. The studio suites, one-bedroom suites and two-bedroom apartments have a blend of contemporary design with spacious and well-lit layouts. Every unit features its own fully equipped kitchen and inter-connecting rooms offer greater flexibility for families or small groups travelling together. The Breakfast Room offers complimentary breakfast for all guests. The Living Room lounge offers wholesome meals and snacks throughout the day. Where you can cook, work, and entertain friends in style. When work is over, you can soak up in the outdoor pool, take advantage of the state-of-the-art health club, socialize or relax in the living room.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d20028959-Reviews-Staybridge_Suites_Dubai_Al_Maktoum_Airport_an_IHG_hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Aviation City A",
+    "street2": "Near Al-Maktoum International Airport",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Aviation City A Near Al-Maktoum International Airport, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "24.868284",
+  "longitude": "55.14594",
+  "timezone": "Asia/Dubai",
+  "phone": "18778595095",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d20028959-Staybridge_Suites_Dubai_Al_Maktoum_Airport_an_IHG_hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#98 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "98"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "506",
+  "review_rating_count": {
+    "1": "5",
+    "2": "5",
+    "3": "7",
+    "4": "29",
+    "5": "460"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "188",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d20028959-m66827-Reviews-Staybridge_Suites_Dubai_Al_Maktoum_Airport_an_IHG_hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Kitchenette",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Microwave",
+    "Refrigerator in room",
+    "Babysitting",
+    "Safe",
+    "Rooftop Pool",
+    "Breakfast Buffet",
+    "Indoor pool",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Free Shuttle or Taxi Services",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Arabic",
+    "Bath / Shower",
+    "Bathrobes",
+    "BBQ Facilities",
+    "Blackout Curtains",
+    "Bottled Water",
+    "24-Hour Check-in",
+    "Clothes Dryer",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Convenience Store",
+    "Currency Exchange",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kitchenware",
+    "Outdoor Furniture",
+    "Pool / Beach Towels",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shoeshine",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Telephone",
+    "Public Wifi",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Flatscreen TV",
+    "Adult pool",
+    "Parking",
+    "Afrikaans",
+    "Cable / Satellite TV",
+    "Children's Television Networks",
+    "Dining Area",
+    "Dishwasher",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Free Wifi in the Business Center",
+    "Hindi",
+    "Newspaper",
+    "Oven",
+    "Pool View",
+    "Private Bathrooms",
+    "Radio",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Sofa",
+    "Sofa Bed",
+    "Soundproof Rooms",
+    "Stovetop",
+    "Sun Deck",
+    "Taxi Service",
+    "Tile / Marble Floor",
+    "Umbrella",
+    "Urdu",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Washing Machine"
+  ],
+  "parent_brand": "InterContinental",
+  "brand": "InterContinental",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Romantic",
+    "Charming"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "152"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "41"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "88"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "148"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "43"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

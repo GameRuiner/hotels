@@ -1,0 +1,241 @@
+{
+  "location_id": "600103",
+  "name": "Jaz Makadi Star & Spa",
+  "description": "This property is 4 minutes walk from the beach. Located by the Red Sea in Madinat Makadi, this resort is 5 minutes’ walk from its own private beach. Facilities include regular nightly entertainment, a diving centre and outdoor pool. The elegant rooms at Jaz Makadi Star & Spa feature private balconies that overlook the garden or pool. Each room is spacious and offers a tea/coffee maker and satellite TV. Guests can enjoy a wide range of food and beverage options, with over 10 different restaurants and bars. Drinks and light refreshments are available at the El Negma beach bar. Jaz Makadi has a scuba diving, snorkeling center on site, allowing guests to explore the coral reefs of the Red Sea; water sport facilities, windsurfing, diving, snorkeling, canoeing and also horse riding all are applicable to the guest convenience with an extra charge. Feel light and beautiful with our Mividaspa, which includes offers reviving and reinvigorating treatments, water therapies, massages.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297550-d600103-Reviews-Jaz_Makadi_Star_Spa-Makadi_Bay_Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Madinat Makadi",
+    "city": "Makadi Bay",
+    "country": "Egypt",
+    "postalcode": "1960501",
+    "address_string": "Madinat Makadi, Makadi Bay, Hurghada 1960501 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Makadi Bay",
+      "location_id": "297550"
+    },
+    {
+      "level": "Municipality",
+      "name": "Hurghada",
+      "location_id": "297549"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "26.9909",
+  "longitude": "33.8987",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297550-d600103-Jaz_Makadi_Star_Spa-Makadi_Bay_Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297550",
+    "ranking_string": "#1 of 37 hotels in Makadi Bay",
+    "geo_location_name": "Makadi Bay",
+    "ranking_out_of": "37",
+    "ranking": "1"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "2607",
+  "review_rating_count": {
+    "1": "9",
+    "2": "16",
+    "3": "55",
+    "4": "354",
+    "5": "2173"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1441",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297550-d600103-m66827-Reviews-Jaz_Makadi_Star_Spa-Makadi_Bay_Hurghada_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Room service",
+    "Free parking",
+    "Restaurant",
+    "Fitness center",
+    "Internet",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Suites",
+    "Free Internet",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Golf course",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Minibar",
+    "Safe",
+    "Swimup Bar",
+    "Heated pool",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Infinity Pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Aerobics",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bathrobes",
+    "Billiards",
+    "Bottled Water",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Coffee Shop",
+    "Complimentary Tea",
+    "Darts",
+    "Desk",
+    "Diving",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "24-Hour Front Desk",
+    "German",
+    "Hammam",
+    "Ironing Service",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Nightclub / DJ",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Snorkeling",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Wine / Champagne",
+    "Wifi",
+    "Family Rooms",
+    "Conference Facilities",
+    "Flatscreen TV",
+    "Children's Playground",
+    "Electric Kettle",
+    "Complimentary Welcome Drink",
+    "Highchairs Available",
+    "Outdoor Dining Area",
+    "Sofa",
+    "Tennis Court Off-site",
+    "Walk-in Shower",
+    "Wardrobe / Closet"
+  ],
+  "parent_brand": "Jaz Hotel Group",
+  "brand": "Jaz Hotel Group",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Charming",
+    "Luxury"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "20"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1344"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "102"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "670"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "299"
+    }
+  ],
+  "awards": []
+}

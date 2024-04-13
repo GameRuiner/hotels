@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "id": 891556743,
+      "lang": "en",
+      "location_id": 24089395,
+      "published_date": "2023-05-23T04:17:25Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d24089395-r891556743-Reviews-Gran_Via_Alsancak-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review891556743",
+      "text": "İ f you just need a bed to sleep in,it is enough, and you are not fussy, then it May be ok.\nBut there are serious barbecue oders comıng ınto the rooms, which doesnnot enable you to OPEn Windows, also very dark lighting in certain rooms.\nThe maın reception phone not operatıng in room, also no heating in bathroom.\nNo lifts to floors, hv to carry your own luggage.\nThe only good point location, perfect.\nI think upgrading could work.\n",
+      "title": "Ok for öne night, otherwise wld like a little more amenities.",
+      "trip_type": "Family",
+      "travel_date": "2023-05-31",
+      "user": {
+        "username": "SUTCU",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/48/default-avatar-2020-15.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 890828202,
+      "lang": "en",
+      "location_id": 24089395,
+      "published_date": "2023-05-18T04:34:07Z",
+      "rating": 3,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d24089395-r890828202-Reviews-Gran_Via_Alsancak-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review890828202",
+      "text": "Location is wonderful, by sea side\nLoads of restaurants and cafes around\nEasy to walk to many locations \nHotel concept is bohemian and sweet, but shower is leaking, room wasn’t clean, full of hair and cigarette ashes (we don’t smoke), electric sockets and night lamps are falling apart. Hotel requires some serious refurbishment. \nGenerally it is a nice place with some cons that could be fixed easily. If management takes comments into consideration, it would be a great hotel to stay at",
+      "title": "Sweet but not clean",
+      "trip_type": "Couples",
+      "travel_date": "2022-08-31",
+      "user": {
+        "username": "alinakC1819SF",
+        "user_location": {
+          "id": "670324",
+          "name": "Turkmenbashi, Balkan Province"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/13/2a/aa/cb/alina-k.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/13/2a/aa/cb/alina-k.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/13/2a/aa/cb/alina-k.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/13/2a/aa/cb/alina-k.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

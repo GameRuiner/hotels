@@ -1,0 +1,157 @@
+{
+  "location_id": "1943693",
+  "name": "Grand Ocakoglu Hotel",
+  "description": "Finding an ideal romantic hotel in Izmir does not have to be difficult. Welcome to Ocakoglu Hotel & Residence, a nice option for travelers like you.\nOcakoglu Hotel & Residence features room service. Plus, guests can enjoy a fitness center and free breakfast, which have made this a popular choice among travelers visiting Izmir. For guests with a vehicle, free parking is available.\nFor those interested in checking out popular landmarks while visiting Izmir, Ocakoglu Hotel & Residence is located a short distance from Old Smyrna (1.7 mi) and Ataturk Stadyumu (1.8 mi).\nDuring your visit, be sure to check out one of Izmir's popular cafes such as Two Cups Coffee Bar & Roastery, Saray Pastanesi, and The Qantin restaurant cafe, all a short distance from Ocakoglu Hotel & Residence.\nBest of all, Ocakoglu Hotel & Residence makes it easy to experience some great Izmir attractions like Natural History Museum, which is a popular natural history museum.\nOcakoglu Hotel & Residence puts the best of Izmir at your fingertips, making your stay both relaxing and enjoyable.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d1943693-Reviews-Grand_Ocakoglu_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Ankara Asfalti No:61",
+    "street2": "middle of Bornova and Bayrakli districts",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "",
+    "address_string": "Ankara Asfalti No:61 middle of Bornova and Bayrakli districts, Izmir Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.449284",
+  "longitude": "27.183586",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d1943693-Grand_Ocakoglu_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#147 of 218 hotels in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "218",
+    "ranking": "147"
+  },
+  "rating": "3.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.0-66827-5.svg",
+  "num_reviews": "87",
+  "review_rating_count": {
+    "1": "40",
+    "2": "4",
+    "3": "0",
+    "4": "12",
+    "5": "31"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    }
+  },
+  "photo_count": "80",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d1943693-m66827-Reviews-Grand_Ocakoglu_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Internet",
+    "Kids Activities",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Restaurant",
+    "Bar/Lounge",
+    "Pets Allowed",
+    "Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Fitness center"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Romantic",
+    "Budget"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "41"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "8"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "4"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "18"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "8"
+    }
+  ],
+  "awards": []
+}

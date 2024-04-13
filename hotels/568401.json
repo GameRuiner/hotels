@@ -1,0 +1,307 @@
+{
+  "location_id": "568401",
+  "name": "Liberty Hotels Lara",
+  "description": "Situated within close proximity to Antalya International airport, the Liberty Hotels Lara is one of the most desirable 'child friendly' all-inclusive hotels in the Antalya region. Located on the Mediterranean Sea, the Liberty hotels Lara boasts an impressive pool area set within delightfully landscaped tropical gardens with palm trees and water slides. The contemporary, linear rooms offer air conditioning, private bathroom, satellite TV, free Wi-Fi, limited sea views and sea views.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g20116893-d568401-Reviews-Liberty_Hotels_Lara-Kemeragzi_Antalya_Turkish_Mediterranean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Kemeragzi Mah. Yasar Sobutay Bulv. No: 64",
+    "city": "Kemeragzi",
+    "state": "Antalya Province",
+    "country": "Turkiye",
+    "postalcode": "07235",
+    "address_string": "Kemeragzi Mah. Yasar Sobutay Bulv. No: 64, Kemeragzi, Antalya 07235 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Kemeragzi",
+      "location_id": "20116893"
+    },
+    {
+      "level": "Municipality",
+      "name": "Antalya",
+      "location_id": "297962"
+    },
+    {
+      "level": "Province",
+      "name": "Antalya Province",
+      "location_id": "297960"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Mediterranean Coast",
+      "location_id": "658661"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "36.856155",
+  "longitude": "30.889359",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g20116893-d568401-Liberty_Hotels_Lara-Kemeragzi_Antalya_Turkish_Mediterranean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "20116893",
+    "ranking_string": "#2 of 16 hotels in Kemeragzi",
+    "geo_location_name": "Kemeragzi",
+    "ranking_out_of": "16",
+    "ranking": "2"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "7172",
+  "review_rating_count": {
+    "1": "91",
+    "2": "99",
+    "3": "300",
+    "4": "937",
+    "5": "5745"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "7617",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g20116893-d568401-m66827-Reviews-Liberty_Hotels_Lara-Kemeragzi_Antalya_Turkish_Mediterranean_Coast.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Fitness center",
+    "Tennis Court",
+    "Internet",
+    "Suites",
+    "Free Internet",
+    "Free parking",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Laundry Service",
+    "Air conditioning",
+    "Minibar",
+    "Conference Facilities",
+    "Meeting rooms",
+    "Kids Activities",
+    "Beachfront",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Business center",
+    "Concierge",
+    "Banquet Room",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Babysitting",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Water Park",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Sauna",
+    "Additional Bathroom",
+    "Aerobics",
+    "Allergy-free Room",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Billiards",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Car Hire",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Convenience Store",
+    "Couples Massage",
+    "Currency Exchange",
+    "Darts",
+    "Desk",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Extra Long Beds",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Game Room",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Head Massage",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Karaoke",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Laptop Safe",
+    "Massage",
+    "Nightclub / DJ",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Special Diet Menus",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Turkish",
+    "Wake Up Service / Alarm Clock",
+    "Beach Access",
+    "Kids pool",
+    "Breakfast Available",
+    "Archery",
+    "Cable / Satellite TV",
+    "Children's Playground",
+    "Electric Kettle",
+    "Farsi",
+    "Complimentary Welcome Drink",
+    "Full Body Massage",
+    "Hand Massage",
+    "Highchairs Available",
+    "Makeup Services",
+    "Manicure",
+    "Neck Massage",
+    "Outdoor Dining Area",
+    "Patio",
+    "Pedicure",
+    "Pool View",
+    "Private Bathrooms",
+    "Sofa",
+    "Sofa Bed",
+    "Sun Deck",
+    "Ukrainian",
+    "Waterslide",
+    "Water Sport Equipment Rentals",
+    "Waxing Services"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Family Resort",
+    "Green"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "30"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "2133"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "107"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "3504"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "652"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice Best of the Best",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png"
+      },
+      "categories": [
+        "AllInclusive"
+      ],
+      "display_name": "Travelers Choice Best of the Best"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

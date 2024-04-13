@@ -1,0 +1,207 @@
+{
+  "location_id": "234578",
+  "name": "Park Hotel Barcelona",
+  "description": "ARCHITECTURE, DESIGN AND COMFORT IN THE MOST EXCITING HAPPENING AREA OF BARCELONA Park Hotel is a 3-star historic hotel located in one of the most emblematic quarters of Barcelona, el Born. The quarter where the art and the fashion have always been merged to, it is an area full of live, museums and wonderful gastronomy. The Born quarter is the area where the old tow lives with the latest trends. The building was built between 1950 and 1953 by the Architect Antoni de Moragas I Gallissa. It was one of the first buildings of the neoracionalism movement of postwar Europe. The interior design made by Eulalia Calaveras was done to the last detail, to make guests feel at home while in Barcelona. ROOMS The hotel offers 91 welcoming rooms, all of which are exterior. The furniture, combination of wood and textiles and clever lighting all create an atmosphere of warmth and light. Our security system combines the use of magnetic strip key cards and motion detectors to provide greater security and intimacy during your stay. The presence sensors will then switch off the lights as you leave, in keeping with our commitment to sustainability. Guest Room Amenities: Air-conditioning, heating Direct telephone line Safe LCD and LED televisions Satellite channels Digital+ Mini-bar Laundry service Wi-Fi Internet service, free of charge Handicapped rooms RESTAURANT 10's In the heart of the Born district, right where the ABaC Restaurant began its journey 20 years ago ( to be found in Avenida TIbidabo and currently holding 3 Michelin Stars) 10's offers an informal and casual ambience with capacity for 60 guests. It distances itself from the stereotypical Spanish tapas bars with a fresh image Offers tapas and side dishes true to the philosophy of ABaC; tradition and modernity in equal measure. Jordi Cruz defines them as \"Uncomplicated creations, packed with flavour and impact. The idea is one of an orchestra where the excellent \"patatas bravas\" - always in their skins, or \"calamares a la andaluza\" play permanently and invite an exclusive ABaC guest star to play each week; such as the Cherry Ceviche or the Figs with Foie Gras. Generous portions, quality produce and inspired creativity are all offered on a plate at a good price.\" To complete the experience there are two terraces and one reserved for 20 guests MEETING ROOMS The hotel offers a meeting rooms, from 2 to 50 people, with day light and views to Avenida Marques de Argentera, equipped with the most modern technology. For whatever event you may wish to undertake, our highly qualified personnel will take care of every detail and will work with you in all aspects regarding organisation to guarantee a memorable experience. OTHER SERVICES: Car park 24-hour reception Bar from 11.00 To midnight Meeting room Room service (16 hours) Breakfast: buffet service Mobile Business center Wi-Fi throughout the building, complimentary",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d234578-Reviews-Park_Hotel_Barcelona-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Av Marques de L'Argentera 11",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08003",
+    "address_string": "Av Marques de L'Argentera 11, 08003 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.38427",
+  "longitude": "2.18425",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d234578-Park_Hotel_Barcelona-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#246 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "246"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "859",
+  "review_rating_count": {
+    "1": "25",
+    "2": "31",
+    "3": "116",
+    "4": "418",
+    "5": "269"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "347",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d234578-m66827-Reviews-Park_Hotel_Barcelona-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Restaurant",
+    "Wheelchair access",
+    "Internet",
+    "Free Internet",
+    "Bar/Lounge",
+    "Wifi",
+    "Free Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Breakfast Available",
+    "Housekeeping",
+    "Baggage Storage",
+    "Catalan",
+    "English",
+    "Hair Dryer",
+    "Taxi Service",
+    "Parking",
+    "Car Hire",
+    "Coffee Shop",
+    "French",
+    "24-Hour Front Desk",
+    "Ironing Service",
+    "Italian",
+    "Outdoor Furniture",
+    "Parking Garage",
+    "Pool / Beach Towels",
+    "Paid Private Parking Nearby",
+    "Solarium",
+    "Spanish",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Wine / Champagne",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Family",
+    "Mid-range"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230966",
+      "name": "El Born / La Ribera"
+    },
+    {
+      "location_id": "21228685",
+      "name": "Sant Pere"
+    },
+    {
+      "location_id": "15565874",
+      "name": "Ciutat Vella (Old Town)"
+    },
+    {
+      "location_id": "15565882",
+      "name": "Sant Pere, Santa Caterina i la Ribera"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "91"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "381"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "69"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "105"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "134"
+    }
+  ],
+  "awards": []
+}

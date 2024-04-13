@@ -1,0 +1,272 @@
+{
+  "data": [
+    {
+      "id": 945917831,
+      "lang": "en",
+      "location_id": 5415101,
+      "published_date": "2024-04-09T02:59:17Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d5415101-r945917831-Reviews-Hotel_Sofitel_Dubai_Downtown-Dubai_Emirate_of_Dubai.html?m=66827#review945917831",
+      "text": "It’s very accessible for everything. Train, Dubai mall, Emaar square, etc. We got lucky with our room view of the burg Khalifa. It was an amazing experience. Though our bed is too small for a family, we didn't get our welcome gift as our agency promised. \nBreakfast is Good. The location of this hotel is incredible.",
+      "title": "Amazing Location",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "fam_staubli",
+        "user_location": {
+          "id": "188045",
+          "name": "Switzerland"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/29/e4/4b/8d/caption.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/29/e4/4b/8d/caption.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/29/e4/4b/8d/caption.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/29/e4/4b/8d/caption.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/29/e4/4b/8d/caption.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 945832384,
+      "lang": "en",
+      "location_id": 5415101,
+      "published_date": "2024-04-08T09:21:15Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d5415101-r945832384-Reviews-Hotel_Sofitel_Dubai_Downtown-Dubai_Emirate_of_Dubai.html?m=66827#review945832384",
+      "text": "Our 2nd stay at the Sofitel Downtown Dubai was amazing. We had a beautiful king room located at the 22nd floor facing the Burj Khalifa. All the staff were super friendly and greeted us with a smile:) Robert was very helpful accommodating us during our check in and also we met him at the end of our stay. \nDuring our visit we had access to l’apéro for the daily afternoon tea and the pre dinner buffet. The food was delicious and the cocktails super yummy. The amenities were very good and the breakfast had always many options to enjoy! This is definitely a great place to enjoy and we will definitely go back!",
+      "title": "Our 2nd stay at the Sofitel Downtown Dubai",
+      "trip_type": "Couples",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "JohanK1507",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ed/ce/default-avatar-2020-7.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 945812568,
+      "lang": "en",
+      "location_id": 5415101,
+      "published_date": "2024-04-08T06:25:58Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d5415101-r945812568-Reviews-Hotel_Sofitel_Dubai_Downtown-Dubai_Emirate_of_Dubai.html?m=66827#review945812568",
+      "text": "Good location, service, the rooms r very comfortable, have everything for a good long stay. Laundry service, the food, all very satisfying. Thanks to Sakhey for bringing a good mood everyday with my coffee:) they also let me check out later thanks for that",
+      "title": "Recommended!",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "F9169OOsashak",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e7/7b/default-avatar-2020-56.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e7/7b/default-avatar-2020-56.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e7/7b/default-avatar-2020-56.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e7/7b/default-avatar-2020-56.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/7b/default-avatar-2020-56.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 945802995,
+      "lang": "en",
+      "location_id": 5415101,
+      "published_date": "2024-04-08T05:01:46Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d5415101-r945802995-Reviews-Hotel_Sofitel_Dubai_Downtown-Dubai_Emirate_of_Dubai.html?m=66827#review945802995",
+      "text": "Manuhar.  From.  House keeps. Very good service, his very respectful and nice, always make sure everything my fiancé and i need was given to up, I will definitely be coming back, the way they clean the room is really nice, thank you for your service",
+      "title": "Very nice I enjoy every bit of my vacation with my fiancée",
+      "trip_type": "Couples",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "joyo622",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ea/2e/default-avatar-2020-67.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945824545,
+        "title": "Owner response",
+        "text": "Dear Valued Guest,\n\nThank you for sharing your positive experience from your recent stay at Sofitel Dubai Downtown. \n\nWe are delighted to learn that you had a pleasant time at our hotel and that the overall cleanliness of your room, and the hotel was top notch. Manuhar is happy to see your kind compliments. \n\nWe are excited to have the opportunity to welcome you back in future. \n\nWarm regards,\nLusine Iskandaryan\nGuest Experience Manager\nSofitel Dubai Downtown",
+        "lang": "en",
+        "author": "Sofitel Dubai Downtown",
+        "published_date": "2024-04-08T08:13:39Z"
+      }
+    },
+    {
+      "id": 945785181,
+      "lang": "en",
+      "location_id": 5415101,
+      "published_date": "2024-04-08T01:58:46Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d5415101-r945785181-Reviews-Hotel_Sofitel_Dubai_Downtown-Dubai_Emirate_of_Dubai.html?m=66827#review945785181",
+      "text": "I have been staying in that hotel every month since February 2023 and I always enjoy staying there. \nThe staff is the nicest and became as family and it’s a pleasure specially for my long stays.\nFrom the reception, the various restaurants and the wonderful housekeeping guys.\nThanks to Shashi, Ayechan and Manohar for always leaving our bathroom spotless despite all my daughter skincare on the display! \n\nDubai has hundreds of high-end hotels but I won’t choose any other, as for me, Sofitel remains the number one hotel in Dubai thanks to its fantastic staff.\n\nPS: During Ramadan period, Iftar and sahoor as room service is a treat! 👌🏾\n\nHighly recommend!",
+      "title": "Greatest staff in Dubai!",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "Mouna2504",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/11/default-avatar-2020-41.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945824117,
+        "title": "Owner response",
+        "text": "Dear Valued Guest,\n\nWe wanted to extend our heartfelt thanks for your thoughtful acknowledgment of the extra care provided by our team during your time at Sofitel Dubai Downtown. Your kind words mean a great deal to us, as we always strive to go above and beyond to ensure our guests feel welcome and well-cared for.\n\nIt brings us immense joy to hear that you enjoyed the Iftar experience during your stay. Our team puts a lot of effort into creating memorable dining experiences, and your positive feedback serves as a testament to their dedication and hard work.\n\nYour satisfaction is our utmost priority, and we are truly grateful for the opportunity to have hosted you. \n\nThank you once again for choosing Sofitel Dubai Downtown. Your appreciation means the world to us.\n\nWarm regards,\nLusine Iskandaryan\nGuest Experience Manager \nSofitel Dubai Downtown \n",
+        "lang": "en",
+        "author": "Sofitel Dubai Downtown",
+        "published_date": "2024-04-08T08:10:06Z"
+      }
+    }
+  ]
+}

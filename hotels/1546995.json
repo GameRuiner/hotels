@@ -1,0 +1,244 @@
+{
+  "location_id": "1546995",
+  "name": "Citymax Hotel Bur Dubai",
+  "description": "If you’re planning to visit the towering pride of Dubai, the Burj Khalifa, or perhaps the Dubai Opera, or maybe the historic Dubai Museum, then you’re in the perfect spot at Citymax. Nestled comfortably in the heart of the city, just a mere 20-minute drive from Dubai Airport, Citymax has plenty of vibrant entertainment and dining options, including The Huddle Sports Bar, Claypot Indian restaurant, Sizzling Wok, our Pan Asian restaurant, our all-day dining restaurant City Café, 24-hour Lavazza coffee and the Aqua Pool Bar. All 691 guestrooms provide free WiFi. Citymax also offers a neat and nifty rooftop pool and a rough and rigged gymnasium. Whether you’re in town for leisure or work, Citymax has everything you need for a fun and cost-effective stay.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1546995-Reviews-Citymax_Hotel_Bur_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Kuwait Street",
+    "street2": "Mankhool Rd",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Kuwait Street Mankhool Rd, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.250952",
+  "longitude": "55.291954",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1546995-Citymax_Hotel_Bur_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#318 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "318"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "6279",
+  "review_rating_count": {
+    "1": "280",
+    "2": "190",
+    "3": "649",
+    "4": "1440",
+    "5": "3720"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "1859",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1546995-m66827-Reviews-Citymax_Hotel_Bur_Dubai-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Free parking",
+    "Non-smoking rooms",
+    "Shuttle Bus Service",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Conference Facilities",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Adult pool",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Express Check-in / Check-out",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Desk",
+    "English",
+    "Entertainment Staff",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Newspaper",
+    "Nightclub / DJ",
+    "Parking Garage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shoeshine",
+    "Snack Bar",
+    "Taxi Service",
+    "Wake Up Service / Alarm Clock",
+    "Public Wifi",
+    "Cable / Satellite TV",
+    "Clothes Rack",
+    "Complimentary Welcome Drink",
+    "Free Wifi in the Business Center",
+    "Happy Hour",
+    "Highchairs Available",
+    "Nepali",
+    "Private Bathrooms",
+    "Paid Public Parking Nearby",
+    "Tamil",
+    "Tile / Marble Floor",
+    "Urdu",
+    "Vending Machine",
+    "Walk-in Shower",
+    "Wardrobe / Closet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Budget",
+    "City View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620564",
+      "name": "Al Mankhool"
+    },
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "1164"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1137"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "660"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1792"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "832"
+    }
+  ],
+  "awards": []
+}

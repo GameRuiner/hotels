@@ -1,0 +1,289 @@
+{
+  "location_id": "2322457",
+  "name": "Jumeirah Creekside Hotel",
+  "description": "Jumeirah Creekside Hotel is located just moments away from Dubai International Airport in the heart of old Dubai, combining comfort and unrivalled connectivity with true Arabian hospitality for those looking for the ultimate business and leisure experience. A contemporary hotel, it is set in landscaped grounds overlooking Dubai Creek and was designed from the outset to connect the hotel to the region’s vibrant arts and cultural heritage. Jumeirah Creekside Hotel houses one of Dubai’s largest art collections – a specially commissioned collection of 482 pieces by 52 artists with roots from the Middle East. The hotel offers access to The Aviation Club with a fully-equipped gym and complimentary soft mini-bar replenished on a daily basis. Guests staying in Club Room or Suite can enjoy access to Jumeirah's private beach, once per person per stay, inclusive of shuttle service. *Kosher meals are not included in the room packages, to enjoy delightful kosher meals please book directly at the restaurant The Kosher Place.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d2322457-Reviews-Jumeirah_Creekside_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Garhoud",
+    "street2": "Opp Emirate Aviation College ",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "",
+    "address_string": "Al Garhoud Opp Emirate Aviation College, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.242682",
+  "longitude": "55.340824",
+  "timezone": "Asia/Dubai",
+  "phone": "01197180058634724",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d2322457-Jumeirah_Creekside_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#295 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "295"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "3746",
+  "review_rating_count": {
+    "1": "85",
+    "2": "73",
+    "3": "205",
+    "4": "792",
+    "5": "2592"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "2483",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d2322457-m66827-Reviews-Jumeirah_Creekside_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Free parking",
+    "Meeting rooms",
+    "Tennis Court",
+    "Fitness center",
+    "Pool",
+    "Room service",
+    "Bar/Lounge",
+    "Spa",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Business center",
+    "Laundry Service",
+    "Banquet Room",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Conference Facilities",
+    "Babysitting",
+    "Shuttle Bus Service",
+    "Suites",
+    "Wheelchair access",
+    "Restaurant",
+    "Airport transportation",
+    "Concierge",
+    "Safe",
+    "Rooftop Bar",
+    "Swimup Bar",
+    "Rooftop Pool",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Sauna",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "24-Hour Check-in",
+    "Coffee / Tea Maker",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Iron",
+    "Massage",
+    "Seating Area",
+    "24-Hour Security",
+    "Sun Loungers / Beach Chairs",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Kids pool",
+    "ATM On Site",
+    "Bathrobes",
+    "Bidet",
+    "Blackout Curtains",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "Express Check-in / Check-out",
+    "Chinese",
+    "Coffee Shop",
+    "Desk",
+    "Dining Area",
+    "Electric Kettle",
+    "Extra Long Beds",
+    "First Aid Kit",
+    "Fitness Classes",
+    "Free Wifi in the Business Center",
+    "Full Body Massage",
+    "Hammam",
+    "Hand Massage",
+    "Happy Hour",
+    "Head Massage",
+    "Highchairs Available",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Kids' Meals",
+    "Landmark View",
+    "Laptop Safe",
+    "Manicure",
+    "Newspaper",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Personal Trainer",
+    "Private Bathrooms",
+    "Salon",
+    "Secured Parking",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Sofa",
+    "Soundproof Rooms",
+    "Squash",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Tile / Marble Floor",
+    "Valet Parking",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Water Park Off-site",
+    "Whirlpool Bathtub",
+    "Wine / Champagne",
+    "Photo Copier / Fax In Business Center",
+    "Yoga Classes"
+  ],
+  "parent_brand": "Jumeirah Group",
+  "brand": "Jumeirah",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Green",
+    "Park View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620553",
+      "name": "Al Garhoud"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "724"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1012"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "143"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1248"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "246"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

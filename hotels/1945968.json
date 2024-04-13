@@ -1,0 +1,265 @@
+{
+  "location_id": "1945968",
+  "name": "The Ritz-Carlton, Dubai International Financial Centre",
+  "description": "The Ritz-Carlton, Dubai International Financial Centre is located in Dubai’s most vibrant destination for business, restaurants, leisure and the arts. Standing 14 stories high, our hotel in Dubai, United Arab Emirates epitomizes understated luxury and elegance behind the handsome limestone façade. The Ritz-Carlton Spa, indoor and outdoor pools and 3 lounges make the hotel a dynamic setting and opulent retreat for any affluent traveler. Guests can enjoy our outstanding business and leisure facilities, whilst benefiting from a direct walkway to The Gate, at the heart of DIFC, plus the added convenience of the city of Dubai at their fingertips. Premier attractions including Dubai Mall, Burj Khalifa and the World Trade Centre are just minutes away, along with two metro stations and the diverse downtown Dubai nightlife. The Ritz-Carlton, Dubai International Financial Centre is the perfect spot from which to explore the Middle East’s most exciting city.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1945968-Reviews-The_Ritz_Carlton_Dubai_International_Financial_Centre-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "DIFC, Off Sheikh Zayed Road",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "DIFC, Off Sheikh Zayed Road, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.213243",
+  "longitude": "55.27926",
+  "timezone": "Asia/Dubai",
+  "phone": "18446310595",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1945968-The_Ritz_Carlton_Dubai_International_Financial_Centre-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#30 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "30"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "3478",
+  "review_rating_count": {
+    "1": "49",
+    "2": "37",
+    "3": "101",
+    "4": "332",
+    "5": "2959"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "1510",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1945968-m66827-Reviews-The_Ritz_Carlton_Dubai_International_Financial_Centre-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Restaurant",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Wifi",
+    "Paid Wifi",
+    "Paid Internet",
+    "Wheelchair access",
+    "Pool",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Indoor pool",
+    "Butler Service",
+    "Outdoor pool",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Sauna",
+    "Electric vehicle charging station",
+    "Additional Bathroom",
+    "Afrikaans",
+    "Allergy-free Room",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Car Hire",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Hair Dryer",
+    "Head Massage",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Italian",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Massage",
+    "Newspaper",
+    "On-Demand Movies",
+    "Parking Garage",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shoeshine",
+    "Shops",
+    "Snack Bar",
+    "Special Diet Menus",
+    "Steam Room",
+    "Taxi Service",
+    "Telephone",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Wine / Champagne",
+    "Breakfast Available",
+    "Clothes Rack",
+    "Couples Massage",
+    "Executive Lounge Access",
+    "Complimentary Welcome Drink",
+    "Happy Hour",
+    "Manicure",
+    "Outdoor Dining Area",
+    "Patio",
+    "Personal Trainer",
+    "Private Bathrooms",
+    "Sofa",
+    "Walk-in Shower",
+    "Yoga Classes"
+  ],
+  "parent_brand": "Marriott",
+  "brand": "The Ritz-Carlton",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Value",
+    "Centrally Located"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620627",
+      "name": "Dubai International Financial Centre (DIFC)"
+    },
+    {
+      "location_id": "15620671",
+      "name": "Trade Centre"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "1467"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "402"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "273"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "498"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "674"
+    }
+  ],
+  "awards": []
+}

@@ -1,0 +1,176 @@
+{
+  "location_id": "24009680",
+  "name": "Sonder Business Bay",
+  "description": "Your unforgettable Dubai experience starts at Business Bay. Where the breathtaking glass exterior stands tall amongst the Dubai skyline. Each space features a fully equipped kitchen and in-suite laundry. Leave your curtains open and allow the natural light to flow through the floor-to-ceiling windows. Hungry? Grab a snack from our café downstairs. Or head to the on-site restaurant for buffet breakfast, and à la carte lunch and dinner. The cabanas lining the crystal-clear pool are a great spot to lounge around with a drink from the juice bar. Or break a sweat in the newly renovated fitness center. And Jumeirah Beach is just a 15-minute drive away. Sit back and relax at Business Bay.\n\nUse the Sonder app to navigate your stay from start to finish. Check in. Request amenities. Connect to WiFi. Contact customer support. All via our small (but mighty) app. Whatever you need, we’ve got you covered.\n\nThis Sonder has a front desk which is staffed 24/7. Our on-site team is available to ensure you have a better stay.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d24009680-Reviews-Sonder_Business_Bay-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "6B Marasi Drive",
+    "street2": "Business Bay",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "",
+    "address_string": "6B Marasi Drive Business Bay, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.183165",
+  "longitude": "55.27289",
+  "timezone": "Asia/Dubai",
+  "phone": "16173977397",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d24009680-Sonder_Business_Bay-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#41 of 766 Specialty lodging in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "766",
+    "ranking": "41"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "57",
+  "review_rating_count": {
+    "1": "4",
+    "2": "1",
+    "3": "0",
+    "4": "4",
+    "5": "48"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "136",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d24009680-m66827-Reviews-Sonder_Business_Bay-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Free parking",
+    "Restaurant",
+    "Bar/Lounge",
+    "Kitchenette",
+    "Spa",
+    "Wifi",
+    "Free Wifi",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Concierge",
+    "Air conditioning",
+    "Self-Serve Laundry",
+    "Microwave",
+    "Refrigerator in room",
+    "Flatscreen TV",
+    "Parking",
+    "Kids Club",
+    "ATM On Site",
+    "Bath / Shower",
+    "Cable / Satellite TV",
+    "24-Hour Check-in",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Dining Area",
+    "Dishwasher",
+    "English",
+    "Facial Treatments",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Kids' Outdoor Play Equipment",
+    "Kitchenware",
+    "Massage",
+    "Oven",
+    "Secured Parking",
+    "Spanish",
+    "Stovetop",
+    "Washing Machine"
+  ],
+  "parent_brand": "Sonder Holdings Inc.",
+  "brand": "Sonder",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "4"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "11"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "5"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "23"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "8"
+    }
+  ],
+  "awards": []
+}

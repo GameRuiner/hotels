@@ -1,0 +1,119 @@
+{
+  "location_id": "12395100",
+  "name": "Bianca Residence Hotel",
+  "description": "Looking for a place to stay in Izmir? Then look no further than Bianca Residence Hotel, a small hotel that brings the best of Izmir to your doorstep.\nRooms at Bianca Residence Hotel offer a refrigerator, air conditioning, and a seating area.\nClose to some of Izmir's most popular landmarks, such as Saint Polycarp Church (0.2 mi) and Synagogue Street (Havra Sokagi) (0.3 mi), Bianca Residence Hotel is a great destination for tourists.\nWhen you’re feeling hungry, be sure to check out Yasam Vegan Cafe and Less Ordinary, which are some diners that are popular with locals and out-of-towners alike.\nIf you’re looking for something to do, Kordonboyu (0.8 mi), Konak Square (0.6 mi), and Saat Kulesi (Clock Tower) (0.6 mi) are a nice way to spend some time, and they are all within walking distance of Bianca Residence Hotel.\nWe’re sure you’ll enjoy your stay at Bianca Residence Hotel as you experience everything Izmir has to offer.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d12395100-Reviews-Bianca_Residence_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Ismet Kaptan Mahallesi, 1370. Sk. No:24",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35230",
+    "address_string": "Ismet Kaptan Mahallesi, 1370. Sk. No:24, Izmir 35230 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.423653",
+  "longitude": "27.138391",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d12395100-Bianca_Residence_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#32 of 136 B&Bs / Inns in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "136",
+    "ranking": "32"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "6",
+  "review_rating_count": {
+    "1": "1",
+    "2": "0",
+    "3": "0",
+    "4": "0",
+    "5": "5"
+  },
+  "subratings": {},
+  "photo_count": "14",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d12395100-m66827-Reviews-Bianca_Residence_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "amenities": [
+    "Air conditioning",
+    "Family Rooms",
+    "Refrigerator in room",
+    "Safe",
+    "Bath / Shower",
+    "Bathrobes",
+    "Coffee / Tea Maker",
+    "Desk",
+    "English",
+    "Extra Long Beds",
+    "Finnish",
+    "Complimentary Toiletries",
+    "Hair Dryer",
+    "Iron",
+    "Mosquito Net",
+    "Seating Area",
+    "Soundproof Rooms"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "bb",
+      "localized_name": "Bed and Breakfast"
+    }
+  ],
+  "styles": [],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "3"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "2"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "0"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "0"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "1"
+    }
+  ],
+  "awards": []
+}

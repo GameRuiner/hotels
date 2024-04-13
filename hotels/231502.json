@@ -1,0 +1,229 @@
+{
+  "location_id": "231502",
+  "name": "INNSiDE by Melia Barcelona Apolo",
+  "description": "On the busy Avenida del Paral·lel in Barcelona, our hotel is the ideal base for enjoying the most cultural and artistic side of Barcelona. A modern and multifunctional hotel from which to visit Las Ramblas, the port and the Fira, to work in comfort or host the best events in Barcelona. Make your way up to our lovely outdoor terrace and enjoy the summer evenings.\n\nEnjoy an urban, dog-friendly hotel in the heart of Barcelona with avant-garde decoration and numerous versatile spaces that adapt to the way you travel. It provides a 24-hour gym, an open-air indoor terrace to savour whatever you wish and really comfortable rooms, fully soundproofed and with Chromecast technology to make everything even easier. A world of the most sustainable facilities designed to make you smile. Discover the INNSiDE Barcelona Apolo. You’ll never want to leave.\n\nPets are welcome but only dogs. Maximum weight 15kg. At a cost of 45€ per pet per day. Always in consultation with the hotel and subject to availability. One dog per room is allowed. Material included: Food bowl + drinking bowl, 1 small canned water bottle per day, 1 small bed, 1 toy (which can be taken as a gift), 1 toilet bag holder (with bags), towel for dogs.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d231502-Reviews-INNSiDE_by_Melia_Barcelona_Apolo-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Avenida del Paralelo 57-59",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08004",
+    "address_string": "Avenida del Paralelo 57-59, 08004 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.374752",
+  "longitude": "2.170721",
+  "timezone": "Europe/Madrid",
+  "phone": "19292071033",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d231502-INNSiDE_by_Melia_Barcelona_Apolo-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#142 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "142"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "83",
+  "review_rating_count": {
+    "1": "1",
+    "2": "1",
+    "3": "4",
+    "4": "11",
+    "5": "66"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "113",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d231502-m66827-Reviews-INNSiDE_by_Melia_Barcelona_Apolo-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pets Allowed",
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Suites",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Wifi",
+    "Business center",
+    "Fitness center",
+    "Multilingual Staff",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Breakfast in the Room",
+    "Catalan",
+    "24-Hour Check-in",
+    "Desk",
+    "Doorperson",
+    "English",
+    "French",
+    "24-Hour Front Desk",
+    "German",
+    "Hair Dryer",
+    "Interconnected room(s) available",
+    "Kid-Friendly Buffet",
+    "Parking Garage",
+    "Portuguese",
+    "Paid Public Parking Nearby",
+    "24-Hour Security",
+    "Spanish",
+    "Taxi Service",
+    "Wake Up Service / Alarm Clock",
+    "Public Wifi",
+    "Cable / Satellite TV",
+    "Express Check-in / Check-out",
+    "Coffee Shop",
+    "Currency Exchange",
+    "Complimentary Toiletries",
+    "Complimentary Welcome Drink",
+    "Italian",
+    "Outdoor Dining Area",
+    "Outdoor Furniture",
+    "Private Bathrooms",
+    "Paid Public Parking On-site",
+    "Radio",
+    "Secured Parking",
+    "Sofa Bed",
+    "Soundproof Rooms",
+    "Sun Terrace",
+    "Umbrella",
+    "Vending Machine",
+    "VIP Room Facilities",
+    "Wardrobe / Closet",
+    "Beach Access"
+  ],
+  "parent_brand": "Melia Hotels International",
+  "brand": "INNSiDE by Melia",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "City View",
+    "Green"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15565875",
+      "name": "Sants-Montjuic"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "10"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "37"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "1"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "22"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "6"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "location_id": "24141431",
+  "name": "Vista Boutique Hotel & Restaurant",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297962-d24141431-Reviews-Vista_Boutique_Hotel_Restaurant-Antalya_Turkish_Mediterranean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Selcuk Mah. Mermerli Sok.",
+    "city": "Antalya",
+    "state": "Antalya Province",
+    "country": "Turkiye",
+    "postalcode": "7100",
+    "address_string": "Selcuk Mah. Mermerli Sok., Antalya 7100 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Antalya",
+      "location_id": "297962"
+    },
+    {
+      "level": "Province",
+      "name": "Antalya Province",
+      "location_id": "297960"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Mediterranean Coast",
+      "location_id": "658661"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "36.8841",
+  "longitude": "30.704",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297962-d24141431-Vista_Boutique_Hotel_Restaurant-Antalya_Turkish_Mediterranean_Coast.html?m=66827",
+  "num_reviews": "0",
+  "subratings": {},
+  "photo_count": "0",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297962-d24141431-m66827-Reviews-Vista_Boutique_Hotel_Restaurant-Antalya_Turkish_Mediterranean_Coast.html#photos",
+  "amenities": [],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "0"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "0"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "0"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "0"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "0"
+    }
+  ],
+  "awards": []
+}

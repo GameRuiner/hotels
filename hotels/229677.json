@@ -1,0 +1,227 @@
+{
+  "location_id": "229677",
+  "name": "Hotel Condes De Barcelona",
+  "description": "HOTEL CONDES DE BARCELONA 4* is ideally located in a magnificent corner on Paseo de Gracia, in the heart of modernist Barcelona, ​​opposite to the famous building \"La Pedrera\" of Gaudi, a few minutes from Plaza Catalunya and the historic city center. The hotel is housed in a former esplendid 19th century building, enlarged and renovated to create a modern Hotel with where art and uniqueness of the past cohexist with the most modern facilities. The accommodation has a range of 127 rooms of very contemporary style, bright and spacious to provide maximum comfort. The hotel offers a wide range of function rooms for all kind of meeting and Events, outdoor pool and ALAIRE TERRACE BAR , one of the trendiest places in the city with spectacular views for casual outdoor dining or take a luxurious evening drink with good background music.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d229677-Reviews-Hotel_Condes_De_Barcelona-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Passeig De Gracia, 73",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08008",
+    "address_string": "Passeig De Gracia, 73, 08008 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.39355",
+  "longitude": "2.1627",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d229677-Hotel_Condes_De_Barcelona-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#161 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "161"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "1985",
+  "review_rating_count": {
+    "1": "70",
+    "2": "75",
+    "3": "210",
+    "4": "759",
+    "5": "871"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "832",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d229677-m66827-Reviews-Hotel_Condes_De_Barcelona-Barcelona_Catalonia.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Suites",
+    "Meeting rooms",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Pets Allowed",
+    "Spa",
+    "Wifi",
+    "Public Wifi",
+    "Business center",
+    "Fitness center",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Baggage Storage",
+    "Catalan",
+    "English",
+    "24-Hour Front Desk",
+    "Ironing Service",
+    "24-Hour Security",
+    "Spanish",
+    "Taxi Service",
+    "Wake Up Service / Alarm Clock"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Green",
+    "Great View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230970",
+      "name": "Eixample"
+    },
+    {
+      "location_id": "15565885",
+      "name": "La Dreta de l'Eixample"
+    },
+    {
+      "location_id": "15565927",
+      "name": "Passeig de Gracia"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "324"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "804"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "58"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "327"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "268"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

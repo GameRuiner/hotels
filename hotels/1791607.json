@@ -1,0 +1,175 @@
+{
+  "location_id": "1791607",
+  "name": "Susuzlu Otel",
+  "description": "Susuzlu Otel is an excellent choice for travelers visiting Izmir, offering many helpful amenities designed to enhance your stay.\nClose to some of Izmir's most popular landmarks, such as Synagogue Street (Havra Sokagi) (0.3 mi) and Saint Polycarp Church (0.3 mi), Susuzlu Otel is a great destination for tourists.\nSusuzlu Otel is a small hotel offering air conditioning and a minibar in the rooms, and it is easy to stay connected during your stay as free wifi is offered to guests.\nThe small hotel features a 24 hour front desk, room service, and a concierge. Plus, guests can enjoy an on-site restaurant, which has made this a popular choice among travelers visiting Izmir. For guests with a vehicle, there is free private parking available nearby.\nTravelers looking to enjoy some tapas can head to ARGO. Otherwise, you may want to check out an Asian restaurant such as Sushico, Tea&Pot, or Red Dragon.\nIf you’re looking for something to do, Kordonboyu (0.9 mi), Konak Square (0.7 mi), and Saat Kulesi (Clock Tower) (0.6 mi) are a nice way to spend some time, and they are all within walking distance of Susuzlu Otel.\nEnjoy your stay in Izmir!\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d1791607-Reviews-Susuzlu_Otel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Fevzi Bulvari No 160",
+    "street2": "",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35240",
+    "address_string": "Fevzi Bulvari No 160, Izmir 35240 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.42231",
+  "longitude": "27.13982",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d1791607-Susuzlu_Otel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#46 of 136 B&Bs / Inns in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "136",
+    "ranking": "46"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "28",
+  "review_rating_count": {
+    "1": "4",
+    "2": "2",
+    "3": "5",
+    "4": "12",
+    "5": "5"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "9",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d1791607-m66827-Reviews-Susuzlu_Otel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Internet",
+    "Room service",
+    "Free Internet",
+    "Restaurant",
+    "Bar/Lounge",
+    "Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Minibar",
+    "Non-smoking hotel",
+    "Safe",
+    "Baggage Storage",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Car Hire",
+    "Express Check-in / Check-out",
+    "Currency Exchange",
+    "Darts",
+    "English",
+    "Free Private Parking Nearby",
+    "24-Hour Front Desk",
+    "Ironing Service",
+    "Newspaper",
+    "Private Check-in / Check-out",
+    "Shoeshine",
+    "Turkish"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "bb",
+      "localized_name": "Bed and Breakfast"
+    }
+  ],
+  "styles": [
+    "Modern",
+    "Romantic"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "9"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "7"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "1"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "5"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "4"
+    }
+  ],
+  "awards": []
+}

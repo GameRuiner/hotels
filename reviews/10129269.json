@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "id": 387196879,
+      "lang": "en",
+      "location_id": 10129269,
+      "published_date": "2016-06-28T17:13:53Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d10129269-r387196879-Reviews-Merkez_Otel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review387196879",
+      "text": "I like this hotel very much because in this hotel I felt as I'm at home with my family , Mr. Cemal and Mr. Nedim both are very generous people they treat the guest as a friend or more, I stayed in Ramadan for three nights they used to wake me up for suhur, Mr. Nedim cooked very nice iftar for me and all the fasting guests, I just felt the smell of the house in this hotel the cleanliness, the treatment all can make you come back again and again, for sure I well be back again whenever I can.\nMy regards to you merkez hotel, Mr. Nedim and Mr. Cemal you are my family in Izmir \nI wish you all the best ",
+      "title": "My  second home in zmir",
+      "trip_type": "Solo travel",
+      "travel_date": "2016-06-30",
+      "user": {
+        "username": "anghamq",
+        "user_location": {
+          "id": "2630227",
+          "name": "Emirate of Abu Dhabi"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/43/default-avatar-2020-11.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 371519963,
+      "lang": "en",
+      "location_id": 10129269,
+      "published_date": "2016-05-09T14:06:46Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d10129269-r371519963-Reviews-Merkez_Otel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review371519963",
+      "text": "Merkez Oteli is a new hotel in Izmir with very well designed bedrooms, which have character, elegance and cosiness. It is situated between two supermarkets. Basmane Gar/Train Station and Basmane Corapakki Camii/Mosque are within walking distance. Cemal (Manager) and Nedim are pleasant and helpful. Wifi is available throughout the Hotel and it is cleaned on a daily basis. Breakfast is only basic and there is no lift access. Highly recommended for it's ambience and reasonable price!",
+      "title": "A Charming & Economical  Hotel",
+      "trip_type": "Solo travel",
+      "travel_date": "2016-05-31",
+      "user": {
+        "username": "hHanif",
+        "user_location": {
+          "id": "186402",
+          "name": "Birmingham, West Midlands, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e8/ea/default-avatar-2020-63.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e8/ea/default-avatar-2020-63.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e8/ea/default-avatar-2020-63.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e8/ea/default-avatar-2020-63.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e8/ea/default-avatar-2020-63.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 372069260,
+        "title": "Owner response",
+        "text": "Thank you very much sir.for your good wishes",
+        "lang": "en",
+        "author": "Cemal G",
+        "published_date": "2016-05-11T11:18:04Z"
+      }
+    }
+  ]
+}

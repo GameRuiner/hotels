@@ -1,0 +1,193 @@
+{
+  "location_id": "301055",
+  "name": "Otel Kilim",
+  "description": "See why so many travelers make Kilim Hotel their hotel of choice when visiting Izmir. Providing an ideal mix of value, comfort and convenience, it offers a family-friendly setting with an array of amenities designed for travelers like you.\nClose to some of Izmir's most popular landmarks, such as Saint Polycarp Church (0.2 mi) and Synagogue Street (Havra Sokagi) (0.5 mi), Kilim Hotel is a great destination for tourists.\nYou’ll enjoy relaxing rooms that offer a flat screen TV, a minibar, and a refrigerator, and you can stay connected during your stay as Kilim Hotel offers guests free wifi.\nThe hotel features a 24 hour front desk, a concierge, and room service. Plus, Kilim Hotel offers a lounge, providing a pleasant respite from your busy day. For guests with a vehicle, free parking is available.\nTravelers looking for Mediterranean restaurants can head to Cafe La Cigale, Windows On The Bay Restaurant, or Kordon Yengec Restaurant.\nIzmir is also known for some great art galleries, including Arkas Art Center, Ahmed Adnan Saygun Arts Center, and Sabanci Kultur Merkezi, which are not too far from Kilim Hotel.\nAt Kilim Hotel, your comfort and satisfaction come first, and they look forward to welcoming you to Izmir.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d301055-Reviews-Otel_Kilim-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Akdeniz Mahallesi, Ataturk Cd.",
+    "street2": "",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35210",
+    "address_string": "Akdeniz Mahallesi, Ataturk Cd., Izmir 35210 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.42611",
+  "longitude": "27.132223",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d301055-Otel_Kilim-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#54 of 218 hotels in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "218",
+    "ranking": "54"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "127",
+  "review_rating_count": {
+    "1": "8",
+    "2": "9",
+    "3": "24",
+    "4": "47",
+    "5": "39"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "68",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d301055-m66827-Reviews-Otel_Kilim-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Internet",
+    "Beachfront",
+    "Free Internet",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Air conditioning",
+    "Minibar",
+    "Flatscreen TV",
+    "Beach Access",
+    "Free parking",
+    "Restaurant",
+    "Bar/Lounge",
+    "Wifi",
+    "Public Wifi",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Refrigerator in room",
+    "Safe",
+    "Breakfast Buffet",
+    "Housekeeping",
+    "Allergy-free Room",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bicycles Available",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Children's Television Networks",
+    "Coffee Shop",
+    "Currency Exchange",
+    "Desk",
+    "English",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Highchairs Available",
+    "Hiking",
+    "Iron",
+    "Ironing Service",
+    "Newspaper",
+    "Seating Area",
+    "Shared Lounge / TV Area",
+    "Shoeshine",
+    "Soundproof Rooms",
+    "Telephone",
+    "Turkish",
+    "Wake Up Service / Alarm Clock"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Great View",
+    "Romantic"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "43"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "27"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "24"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "17"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "10"
+    }
+  ],
+  "awards": []
+}

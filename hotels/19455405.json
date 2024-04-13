@@ -1,0 +1,240 @@
+{
+  "location_id": "19455405",
+  "name": "Lavender Hotel And Hotel Apartments",
+  "description": "Lavender Hotel & Hotel Apartments Al Nahda Dubai stands as a landmark of the modern hospitality. This towering 4 Star Hotel of 143 rooms and 116 Superior Apartments is located on Itihad Road after the Mamzar bridge taking exit 69, Serving both the global city & business hub of the Middle East – Dubai and the cultural capital Sharjah. We are located just 10 minutes away from the green line metro station (The Stadium) & approximately 10 minutes away from the Terminal 2 Dubai International Airport.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d19455405-Reviews-Lavender_Hotel_And_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "15th Street Community 231, Al Nahda 1",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "27867",
+    "address_string": "15th Street Community 231, Al Nahda 1, Dubai 27867 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.291956",
+  "longitude": "55.365513",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d19455405-Lavender_Hotel_And_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#529 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "529"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "11",
+  "review_rating_count": {
+    "1": "1",
+    "2": "0",
+    "3": "0",
+    "4": "2",
+    "5": "8"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss1.0.svg",
+      "value": "1.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "47",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d19455405-m66827-Reviews-Lavender_Hotel_And_Hotel_Apartments-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Free Wifi",
+    "Pool",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Restaurant",
+    "Kitchenette",
+    "Spa",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Microwave",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Poolside Bar",
+    "Kids pool",
+    "Breakfast Available",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Sauna",
+    "Additional Bathroom",
+    "Azerbaijani",
+    "Bath / Shower",
+    "Bathrobes",
+    "Bidet",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Cable / Satellite TV",
+    "24-Hour Check-in",
+    "Express Check-in / Check-out",
+    "Chinese",
+    "Clothes Rack",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Desk",
+    "Dining Area",
+    "Dishwasher",
+    "Electric Kettle",
+    "English",
+    "Extra Long Beds",
+    "Filipino",
+    "First Aid Kit",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "Complimentary Welcome Drink",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Happy Hour",
+    "Hindi",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Italian",
+    "Kitchenware",
+    "Laptop Safe",
+    "Nepali",
+    "Newspaper",
+    "Oven",
+    "Private Bathrooms",
+    "Private Check-in / Check-out",
+    "Russian",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Separate Living Room",
+    "Shoeshine",
+    "Shops",
+    "Sofa",
+    "Sofa Bed",
+    "Soundproof Rooms",
+    "Stovetop",
+    "Tamil",
+    "Taxi Service",
+    "Telephone",
+    "Umbrella",
+    "Urdu",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet",
+    "Washing Machine",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quaint",
+    "Luxury"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620572",
+      "name": "Al Nahda"
+    },
+    {
+      "location_id": "15620573",
+      "name": "Al Nahda 1"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "2"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "0"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "1"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "3"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "1"
+    }
+  ],
+  "awards": []
+}

@@ -1,0 +1,186 @@
+{
+  "location_id": "6468635",
+  "name": "DoubleTree by Hilton Izmir - Alsancak",
+  "description": "See why so many travelers make DoubleTree by Hilton Izmir - Alsancak their hotel of choice when visiting Izmir. Providing an ideal mix of value, comfort and convenience, it offers a family-friendly setting with an array of amenities designed for travelers like you.\nNearby landmarks such as Synagogue Street (Havra Sokagi) (0.5 mi) and Hisar Mosque (1.5 mi) make DoubleTree by Hilton Izmir - Alsancak a great place to stay when visiting Izmir.\nDoubleTree by Hilton Izmir - Alsancak is a family-friendly hotel offering a flat screen TV, air conditioning, and a minibar in the rooms, and it is easy to stay connected during your stay as free wifi is offered to guests.\nThe hotel features room service, a rooftop terrace, and a concierge. Plus, guests can enjoy a pool and free breakfast, which have made this a popular choice among travelers visiting Izmir. For guests with a vehicle, free parking is available.\nIf you’re looking for an Indian restaurant, consider a visit to The Gastro State or Ohannes Burger, which are all conveniently located a short distance from DoubleTree by Hilton Izmir - Alsancak.\nLooking to explore? Then look no further than Kordonboyu (0.6 mi), Konak Square (0.8 mi), and Saat Kulesi (Clock Tower) (0.8 mi), which are some popular Izmir attractions – all conveniently located within walking distance of the hotel.\nAt DoubleTree by Hilton Izmir - Alsancak, your comfort and satisfaction come first, and they look forward to welcoming you to Izmir.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d6468635-Reviews-DoubleTree_by_Hilton_Izmir_Alsancak-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "1373 Sok. No. 5",
+    "street2": "Ismet Kaptan",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35210",
+    "address_string": "1373 Sok. No. 5 Ismet Kaptan, Izmir 35210 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.427",
+  "longitude": "27.14",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d6468635-DoubleTree_by_Hilton_Izmir_Alsancak-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#25 of 218 hotels in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "218",
+    "ranking": "25"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "882",
+  "review_rating_count": {
+    "1": "83",
+    "2": "66",
+    "3": "124",
+    "4": "234",
+    "5": "375"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "496",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d6468635-m66827-Reviews-DoubleTree_by_Hilton_Izmir_Alsancak-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Pool",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Public Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Sauna",
+    "Baggage Storage",
+    "Breakfast in the Room",
+    "English",
+    "24-Hour Front Desk",
+    "Ironing Service",
+    "Turkish",
+    "Smoking rooms available"
+  ],
+  "parent_brand": "Hilton Worldwide",
+  "brand": "DoubleTree by Hilton",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quiet",
+    "Business"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "366"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "146"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "43"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "192"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "81"
+    }
+  ],
+  "awards": []
+}

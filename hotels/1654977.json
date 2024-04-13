@@ -1,0 +1,213 @@
+{
+  "location_id": "1654977",
+  "name": "Premier Inn Dubai Silicon Oasis Hotel",
+  "description": "Premier Inn Dubai Silicon Oasis is the most centrally located of our hotels in Dubai, with a host of attractions just a short journey away. At the heart of Dubai Silicon Oasis Authority, with a host of attractions on your doorstep. From the thrills of IMG World, to watching a game at the nearby Sports City, your day is filled with excitement. Love to shop? Head to Dubai Outlet Mall and Global Village to grab a bargain! Nearby Academic City is home to Dubai’s best schools and universities, whilst hosting the Knowledge and Human Development Authority all within easy reach of the hotel. Business hubs of Dubai Internal Finance Centre (DIFC) and Dubai World Trade Centre (DWTC) are also within easy reach. Our Premier Inn Shuttle Bus connects guests to Centrpoint Metro Station in Rashidiya throughout the day. 230 comfy bedrooms all offer free 24-hour free Wi-Fi access to keep you connected throughout your stay. Each room features an en-suite bathroom, a flat screen TV, tea and coffee making facilities and a work desk. Great value, spacious family rooms where kids aged 15 and under stay for free and get a free breakfast. (Up to two children under 16 years of age stay for free when staying with family, and get a free breakfast for every adult who orders a Premier Inn Breakfast). Our super-comfy Hypnos beds, and a choice of pillows guarantee a good night’s sleep.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1654977-Reviews-Premier_Inn_Dubai_Silicon_Oasis_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Mohammed Bin Zayed Rd E311",
+    "street2": "",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "35118",
+    "address_string": "Sheikh Mohammed Bin Zayed Rd E311, Dubai 35118 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.122828",
+  "longitude": "55.374474",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1654977-Premier_Inn_Dubai_Silicon_Oasis_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#231 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "231"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "2595",
+  "review_rating_count": {
+    "1": "44",
+    "2": "58",
+    "3": "184",
+    "4": "701",
+    "5": "1608"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "372",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1654977-m66827-Reviews-Premier_Inn_Dubai_Silicon_Oasis_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Restaurant",
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Free parking",
+    "Business center",
+    "Room service",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Pool",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Kids Stay Free",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bottled Water",
+    "Desk",
+    "English",
+    "Filipino",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Ironing Service",
+    "Kids' Meals",
+    "Pool / Beach Towels",
+    "24-Hour Security",
+    "Taxi Service",
+    "Electric Kettle",
+    "Happy Hour",
+    "Private Bathrooms",
+    "Wardrobe / Closet"
+  ],
+  "parent_brand": "Whitbread PLC",
+  "brand": "Premier Inn",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Family",
+    "Quiet"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620634",
+      "name": "Dubai Silicon Oasis (DSO)"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "970"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "311"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "326"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "577"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "203"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

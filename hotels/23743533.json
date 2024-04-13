@@ -1,0 +1,280 @@
+{
+  "location_id": "23743533",
+  "name": "Hyde Hotel Dubai",
+  "description": "Hyde Hotel Dubai provides a sanctuary, a hideaway destination for those in-the-know, presenting a new kind of bespoke hospitality. Intuitively dialed into our guests’ interests, needs and aspirations, Hyde celebrates the true spirit of discovery and the adventure of human connection. Authentically personal and captivating iconic moments, Hyde is much more than a brand – it is a state of mind.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d23743533-Reviews-Hyde_Hotel_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Marasi Drive",
+    "street2": "Business Bay",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "213208",
+    "address_string": "Marasi Drive Business Bay, Dubai 213208 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.18178",
+  "longitude": "55.27908",
+  "timezone": "Asia/Dubai",
+  "phone": "48711111",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d23743533-Hyde_Hotel_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#146 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "146"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "274",
+  "review_rating_count": {
+    "1": "5",
+    "2": "4",
+    "3": "4",
+    "4": "20",
+    "5": "241"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "498",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d23743533-m66827-Reviews-Hyde_Hotel_Dubai-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Accessible rooms",
+    "Safe",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Housekeeping",
+    "Sauna",
+    "Allergy-free Room",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Coffee Shop",
+    "Complimentary Tea",
+    "Doorperson",
+    "English",
+    "Facial Treatments",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Internet",
+    "Shuttle Bus Service",
+    "Free Internet",
+    "Free parking",
+    "Wifi",
+    "Public Wifi",
+    "Breakfast included",
+    "Business center",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Conference Facilities",
+    "Flatscreen TV",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Azerbaijani",
+    "Bidet",
+    "Bicycles Available",
+    "Board Games / Puzzles",
+    "Body Wrap",
+    "Cable / Satellite TV",
+    "24-Hour Check-in",
+    "Couples Massage",
+    "Currency Exchange",
+    "Desk",
+    "Evening Entertainment",
+    "Extra Long Beds",
+    "Filipino",
+    "Foot Bath",
+    "Foot Massage",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Georgian",
+    "Hair Dryer",
+    "Hammam",
+    "Hand Massage",
+    "Head Massage",
+    "Highchairs Available",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Landmark View",
+    "Laptop Safe",
+    "Massage",
+    "Massage Chair",
+    "Neck Massage",
+    "Newspaper",
+    "Nightclub / DJ",
+    "Outdoor Dining Area",
+    "Outdoor Furniture",
+    "Parking Garage",
+    "Personal Trainer",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Portuguese",
+    "Private Bathrooms",
+    "Paid Private Parking Nearby",
+    "Paid Public Parking Nearby",
+    "Russian",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shoeshine",
+    "Snack Bar",
+    "Sofa",
+    "Spanish",
+    "Steam Room",
+    "Street Parking",
+    "Sun Deck",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Tile / Marble Floor",
+    "Turkish",
+    "Valet Parking",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Wine / Champagne"
+  ],
+  "parent_brand": "Accor",
+  "brand": "HYDE",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quaint",
+    "City View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "45"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "63"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "28"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "47"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "56"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

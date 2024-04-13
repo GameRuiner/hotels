@@ -1,0 +1,309 @@
+{
+  "location_id": "1949597",
+  "name": "Jumeirah Zabeel Saray",
+  "description": "Jumeirah Zabeel Saray is an excellent choice for travelers visiting Dubai, offering a romantic environment alongside many helpful amenities designed to enhance your stay.\nFor those interested in checking out popular landmarks while visiting Dubai, Jumeirah Zabeel Saray is located a short distance from Flying Cup (1.5 mi) and The Walk At JBR (1.6 mi).\nThe rooms offer a flat screen TV, a refrigerator, and air conditioning, and getting online is possible, as free wifi is available, allowing you to rest and refresh with ease.\nJumeirah Zabeel Saray features room service and a concierge. In addition, as a valued Jumeirah Zabeel Saray guest, you can enjoy a pool and breakfast that are available on-site. Guests arriving by vehicle have access to free parking.\nWhile in Dubai, you may want to check out some of the restaurants that are a short walk away from Jumeirah Zabeel Saray Hotel, including 101 Dining Lounge and Bar (0.8 mi), Imperium (0.0 mi), and Al Nafoorah (0.0 mi).\nEnjoy your stay in Dubai!\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1949597-Reviews-Jumeirah_Zabeel_Saray-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "West Crescent Road",
+    "street2": "The Palm Jumeirah",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "West Crescent Road The Palm Jumeirah, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.098427",
+  "longitude": "55.12346",
+  "timezone": "Asia/Dubai",
+  "phone": "01197180058634724",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1949597-Jumeirah_Zabeel_Saray-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#299 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "299"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "9451",
+  "review_rating_count": {
+    "1": "210",
+    "2": "216",
+    "3": "520",
+    "4": "1149",
+    "5": "7356"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "9290",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1949597-m66827-Reviews-Jumeirah_Zabeel_Saray-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Internet",
+    "Beachfront",
+    "Free Internet",
+    "Free parking",
+    "Restaurant",
+    "Wifi",
+    "Free Wifi",
+    "Fitness center",
+    "Beach Access",
+    "Suites",
+    "Room service",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Pool",
+    "Kids Activities",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Tennis Court",
+    "Business center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Butler Service",
+    "Infinity Pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Allergy-free Room",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Car Hire",
+    "Coffee / Tea Maker",
+    "Couples Massage",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Head Massage",
+    "Hindi",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Massage",
+    "Pool / Beach Towels",
+    "Portuguese",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shoeshine",
+    "Shops",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Turkish",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Kids pool",
+    "Afrikaans",
+    "ATM On Site",
+    "Bidet",
+    "Billiards",
+    "Bulgarian",
+    "Burmese",
+    "Cable / Satellite TV",
+    "Children's Television Networks",
+    "Children's Playground",
+    "Chinese",
+    "Dutch",
+    "Electric Kettle",
+    "Executive Lounge Access",
+    "First Aid Kit",
+    "Happy Hour",
+    "Highchairs Available",
+    "Indonesian",
+    "Italian",
+    "Kitchenware",
+    "Nepali",
+    "Pedicure",
+    "Personal Trainer",
+    "Pool View",
+    "Pool with View",
+    "Sofa",
+    "Sofa Bed",
+    "Strollers",
+    "Swahili",
+    "Tamil",
+    "Tennis Court Off-site",
+    "Tile / Marble Floor",
+    "Walk-in Shower",
+    "Wardrobe / Closet"
+  ],
+  "parent_brand": "Jumeirah Group",
+  "brand": "Jumeirah",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Lagoon View",
+    "Ocean View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620663",
+      "name": "Palm Jumeirah"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "259"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "3333"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "177"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "3634"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "713"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

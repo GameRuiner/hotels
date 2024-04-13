@@ -1,0 +1,222 @@
+{
+  "location_id": "10902390",
+  "name": "Vincci Mae",
+  "description": "Welcome to Vincci Mae 4 stars, our hotel on Barcelona's Avenida Diagonal, one of the city's main arteries. Our hotel is located next to the square of Francesc Macia, well-known as one of the most emblematic and lively squares in the city since it is the area's shopping center. Dark tones and wood are the common denominator of the hotel's common spaces.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d10902390-Reviews-Vincci_Mae-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Avenida Diagonal, 596",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08021",
+    "address_string": "Avenida Diagonal, 596, 08021 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.39339",
+  "longitude": "2.146173",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d10902390-Vincci_Mae-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#121 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "121"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "369",
+  "review_rating_count": {
+    "1": "9",
+    "2": "6",
+    "3": "25",
+    "4": "106",
+    "5": "223"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "233",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d10902390-m66827-Reviews-Vincci_Mae-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Minibar",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Housekeeping",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Catalan",
+    "24-Hour Check-in",
+    "Desk",
+    "English",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Kids Activities",
+    "Restaurant",
+    "Concierge",
+    "Private Balcony",
+    "Breakfast in the Room",
+    "Coffee Shop",
+    "German",
+    "Ironing Service",
+    "Laptop Safe",
+    "Newspaper",
+    "Seating Area",
+    "Spanish",
+    "Sun Terrace",
+    "Telephone",
+    "Wake Up Service / Alarm Clock"
+  ],
+  "parent_brand": "Vincci",
+  "brand": "Vincci",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Romantic",
+    "Trendy"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "13191268",
+      "name": "Sant Gervasi-Galvany"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "86"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "140"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "28"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "44"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "37"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

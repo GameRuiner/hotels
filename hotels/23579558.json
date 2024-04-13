@@ -1,0 +1,279 @@
+{
+  "location_id": "23579558",
+  "name": "Al Khoory Sky Garden Hotel",
+  "description": "Stay at the new Al Khoory Sky Garden and enjoy the perfect blend of comfort, convenience and casual elegance, just 4.7KM away from the Dubai International Airport (DXB) Terminal 1 and 2. Whether you're traveling to Dubai for leisure or visiting for business, our 279 spacious rooms and suites with premium amenities and interconnecting facilities will suit your every need. When at the hotel, elevate your culinary senses with a choice from our wide range of restaurants, that serve up specialty Indian, Arabic and continental buffet. Al Khoory Sky Garden offers a remarkable blend of elegance, comfort and convenience. Al Khoory Sky Garden's location provides easy access to important business and leisure venues such as Dubai World Trade Centre, Dubai Expo 2020, Dubai Airport Free Zone, Port Rashid. For travelers looking to explore the city, the hotel is a short distance away from major shopping malls like Deira and Mirdif City Centre, Dubai Festival City, Dubai Mall, iconic destinations such as Burj Khalifa, Dubai Frame, Dubai Fountain and entertainment hubs like Dubai Museum, Al Seef, City Walk, La Mer, Kite Beach, Dubai Aquarium and more. Our rooms and suites have been thoughtfully designed with vibrant colors of white, green, black and natural wood to add a pep in your step before you leave for a day of sightseeing or meetings. With complimentary high-speed Wi-Fi and premium amenities, this is your space to connect or disconnect - the choice is yours.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d23579558-Reviews-Al_Khoory_Sky_Garden_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Airport Road",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "1234",
+    "address_string": "Airport Road, Dubai 1234 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.257563",
+  "longitude": "55.33543",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d23579558-Al_Khoory_Sky_Garden_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#120 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "120"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "617",
+  "review_rating_count": {
+    "1": "14",
+    "2": "8",
+    "3": "9",
+    "4": "34",
+    "5": "553"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "245",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d23579558-m66827-Reviews-Al_Khoory_Sky_Garden_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Airport transportation",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Accessible rooms",
+    "Minibar",
+    "Safe",
+    "Heated pool",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Housekeeping",
+    "Sauna",
+    "Allergy-free Room",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Board Games / Puzzles",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Currency Exchange",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Entertainment Staff",
+    "Facial Treatments",
+    "Fitness / Spa Locker Rooms",
+    "Free Public Parking Nearby",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Game Room",
+    "Hindi",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Massage",
+    "Newspaper",
+    "Outdoor Furniture",
+    "Parking Garage",
+    "Pool / Beach Towels",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Telephone",
+    "Internet",
+    "Kids Activities",
+    "Free Internet",
+    "Spa",
+    "Wifi",
+    "Breakfast included",
+    "Banquet Room",
+    "Family Rooms",
+    "Conference Facilities",
+    "Flatscreen TV",
+    "Kids pool",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Kids Club",
+    "Bathrobes",
+    "Bidet",
+    "Body Wrap",
+    "Cable / Satellite TV",
+    "Children's Television Networks",
+    "Clothes Rack",
+    "Dining Area",
+    "Evening Entertainment",
+    "First Aid Kit",
+    "Foot Massage",
+    "Free Wifi in the Business Center",
+    "Full Body Massage",
+    "Hair Dryer",
+    "Hammam",
+    "Hand Massage",
+    "Head Massage",
+    "Iron",
+    "Manicure",
+    "Neck Massage",
+    "Outdoor Dining Area",
+    "Patio",
+    "Pedicure",
+    "Personal Trainer",
+    "Pool View",
+    "Private Bathrooms",
+    "Salon",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Shallow End",
+    "Shoeshine",
+    "Sofa",
+    "Sofa Bed",
+    "Special Diet Menus",
+    "Steam Room",
+    "Taxi Service",
+    "Video Game Console",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Water Park Off-site",
+    "Waxing Services",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quaint",
+    "Luxury"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620665",
+      "name": "Port Saeed"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "108"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "118"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "79"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "134"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "137"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

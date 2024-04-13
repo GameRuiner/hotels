@@ -1,0 +1,321 @@
+{
+  "location_id": "17839666",
+  "name": "Delta Hotels Jumeirah Beach, Dubai",
+  "description": "A four-star hotel perched between The Walk, JBR and the awe-inspiring Dubai Marina.This perfectly placed hotel features a sleek and contemporary design with amenities that are perfect for short stays and extended stays.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d17839666-Reviews-Delta_Hotels_Jumeirah_Beach_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Jumeirah Beach Residence, Bahar 7",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "118555",
+    "address_string": "Jumeirah Beach Residence, Bahar 7, Dubai 118555 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.077852",
+  "longitude": "55.135845",
+  "timezone": "Asia/Dubai",
+  "phone": "01197144398888",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d17839666-Delta_Hotels_Jumeirah_Beach_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#139 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "139"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "3684",
+  "review_rating_count": {
+    "1": "112",
+    "2": "129",
+    "3": "322",
+    "4": "940",
+    "5": "2181"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "2359",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d17839666-m66827-Reviews-Delta_Hotels_Jumeirah_Beach_Dubai-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Kids Activities",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Meeting rooms",
+    "Fitness center",
+    "Concierge",
+    "Shuttle Bus Service",
+    "Suites",
+    "Wheelchair access",
+    "Kitchenette",
+    "Spa",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Rooftop Bar",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Butler Service",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Sauna",
+    "Additional Bathroom",
+    "Arabic",
+    "Baggage Storage",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Pool / Beach Towels",
+    "Russian",
+    "24-Hour Security",
+    "Taxi Service",
+    "Breakfast Available",
+    "Valet Parking"
+  ],
+  "parent_brand": "Marriott",
+  "brand": "Delta Hotels",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Marina View",
+    "Mid-range"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620642",
+      "name": "Jumeirah Beach Residence (JBR)"
+    },
+    {
+      "location_id": "7282432",
+      "name": "The Marina"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "413"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "825"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "141"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1534"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "463"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

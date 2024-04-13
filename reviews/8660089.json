@@ -1,0 +1,160 @@
+{
+  "data": [
+    {
+      "id": 921193035,
+      "lang": "en",
+      "location_id": 8660089,
+      "published_date": "2023-10-14T02:30:35Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d8660089-r921193035-Reviews-Svalinn_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review921193035",
+      "text": "We arrived to the hotel , they told us to came later because the room is not ready\nWe came after two hours and the they told us that our reservation is cancelled without any explanation, we stayed in the lobby for 2 more hour while we tried to find new hotel , they didn’t even offer us glas of water . \nVery very bed experience ",
+      "title": "Very bed experience ",
+      "trip_type": "Business",
+      "travel_date": "2023-10-31",
+      "user": {
+        "username": "Climber05389238130",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ef/9c/default-avatar-2020-14.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ef/9c/default-avatar-2020-14.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ef/9c/default-avatar-2020-14.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ef/9c/default-avatar-2020-14.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ef/9c/default-avatar-2020-14.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Location"
+        },
+        "1": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 920139882,
+      "lang": "en",
+      "location_id": 8660089,
+      "published_date": "2023-10-07T04:22:53Z",
+      "rating": 3,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d8660089-r920139882-Reviews-Svalinn_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review920139882",
+      "text": "This hotel was chosen for me by the dental company I used.\nGood points: pleasant looking hotel, close to supermarket and optimum mall. Lovely big room and very comfortable bed. Hotel always smelt nice and was very clean! Two small complementary bottles of water per day which was a nice touch. Usual complementary shower gels etc.\nBad points: on a very busy road and not really the place for peace and quiet! Hotel is advertised with sun terrace and there are pictures of it on the website. However I was told ‘conference only’ so very disappointing that there was no outdoor space. Your website is inaccurate and needs changing. Only a very small balcony where you could only get half a chair on! Overlooked back of supermarket and busy side street. No proper swimming pool even though advertised with one!\nThe first 7 nights were included in my dental treatment plan so I stayed an extra 4 nights and I was told by the dental company it would be a certain amount but the hotel would not honour this price so I ended up paying extra. Not much but still not very good customer service from hotel.\nHotel served a purpose but would not stay here again through choice.",
+      "title": "Dental treatment visit",
+      "trip_type": "Solo travel",
+      "travel_date": "2023-09-30",
+      "user": {
+        "username": "stephneym_13",
+        "user_location": {
+          "id": "190761",
+          "name": "Worthing, West Sussex, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1f/36/38/36/stephneym-13.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1f/36/38/36/stephneym-13.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1f/36/38/36/stephneym-13.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1f/36/38/36/stephneym-13.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1f/36/38/36/stephneym-13.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 918531295,
+      "lang": "en",
+      "location_id": 8660089,
+      "published_date": "2023-09-26T11:33:22Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d8660089-r918531295-Reviews-Svalinn_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review918531295",
+      "text": "Really nice hotel. Room were really big. Very clean. All the people that worked there very nice. Very few spoke English. \nThere is a big shopping mall in walking distance with a big food court. Kebab restaurant just near the hotel if u turn right outside. Good food quite cheap. This hotel is quite expensive.",
+      "title": "Nice hotel.",
+      "trip_type": "Family",
+      "travel_date": "2023-09-30",
+      "user": {
+        "username": "angelkim",
+        "user_location": {
+          "id": "2089670",
+          "name": "Dagenham, Barking and Dagenham, Greater London, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/de/5a/default-avatar-2020-36.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/de/5a/default-avatar-2020-36.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/de/5a/default-avatar-2020-36.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/de/5a/default-avatar-2020-36.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/de/5a/default-avatar-2020-36.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 871337055,
+      "lang": "en",
+      "location_id": 8660089,
+      "published_date": "2022-12-11T04:53:56Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d8660089-r871337055-Reviews-Svalinn_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review871337055",
+      "text": "Good things:\n1. Very near the airport\n2. Nearby food places, supermarket and mall (all within 5-15mins walking)\n3. Variety for breakfast\n4. Room space (A room of four adults -  1 king bed,q single bed and 1 sofa bed)\n\nNot so good things:\n1. Would have expected the staffs to speak a little bit more English as it is a hotel near the airport\n2. On our last night, the hot water for shower became cold water.\n3. A little far from tourist locations",
+      "title": "Would recommend staying this hotel",
+      "trip_type": "Family",
+      "travel_date": "2022-11-30",
+      "user": {
+        "username": "nzworld95_95",
+        "user_location": {
+          "id": "294265",
+          "name": "Singapore"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/13/a9/b9/47/nzworld95-95.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/13/a9/b9/47/nzworld95-95.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/13/a9/b9/47/nzworld95-95.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/13/a9/b9/47/nzworld95-95.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/13/a9/b9/47/nzworld95-95.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 847539202,
+      "lang": "en",
+      "location_id": 8660089,
+      "published_date": "2022-07-12T13:51:11Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d8660089-r847539202-Reviews-Svalinn_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review847539202",
+      "text": "Stayed 2 nights with my family as base to visit Ephesus and Pamukkale. Hotel is clean. Centrally located, next to Supermarket, 5 minutes to Kebab restaurant and 10 minutes to Optimum mall ( large mall with ice skating ⛸ ring, cinema, food court, cafes )\nSpacious room, double bed, twin bed & sofa bed.\nThe best assets of this hotel are  the staffs , from front desk staffs, bellman, housekeeper are friendly and accommodating.\nHighly recommend this hotel!",
+      "title": "Excellent service urban hotel",
+      "trip_type": "Family",
+      "travel_date": "2022-07-31",
+      "user": {
+        "username": "pathways_to_heaven",
+        "user_location": {
+          "id": "60763",
+          "name": "New York City, New York"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/17/89/80/f5/caption.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/17/89/80/f5/caption.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/17/89/80/f5/caption.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/17/89/80/f5/caption.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

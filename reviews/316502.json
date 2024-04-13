@@ -1,0 +1,261 @@
+{
+  "data": [
+    {
+      "id": 945923947,
+      "lang": "en",
+      "location_id": 316502,
+      "published_date": "2024-04-09T04:13:09Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g303855-d316502-r945923947-Reviews-Pickalbatros_Laguna_Vista_Hotel-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review945923947",
+      "text": "Very nice and clean hotel. Service was very good. Animation team did very good job and had very nice shows. At the terac bar Salah Salem is the best barman, he provided good service and was very friendly. You can have a good chat with him. Pool areas were very nice and clean also.",
+      "title": "Rewiew",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "markkusm2024",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/9f/default-avatar-2020-16.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945944357,
+        "title": "Owner response",
+        "text": "Dear markkus m ,\nOn behalf of the entire management of the Albatros Laguna Vista Hotel, we would like to thank you for visiting our hotel and for your constructive feedback!\nWe are very glad that you had a good time and were satisfied with the service of the hotel. We are also very pleased that you noted the good work of our employees.\nWe will be glad to see you in our hotel again!\nBest regards, \nPickalbatros Laguna Vista Management. \n",
+        "lang": "en",
+        "author": "Pickalbatros Laguna Vista Management",
+        "published_date": "2024-04-09T07:48:10Z"
+      }
+    },
+    {
+      "id": 945874045,
+      "lang": "en",
+      "location_id": 316502,
+      "published_date": "2024-04-08T15:10:04Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g303855-d316502-r945874045-Reviews-Pickalbatros_Laguna_Vista_Hotel-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review945874045",
+      "text": "We have been to this hotel 6 times in the last 3 years and will be going back again later this year. The staff are very good and nothing is too much trouble. There is so much choice on the food you will always find something you like and the drink selection is very good. They have a new water park at the hotel too this has been a great addition.",
+      "title": "Great hotel",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "Aubrey2",
+        "user_location": {
+          "id": "186363",
+          "name": "Reading, Berkshire, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/de/0a/default-avatar-2020-35.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/de/0a/default-avatar-2020-35.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/de/0a/default-avatar-2020-35.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/de/0a/default-avatar-2020-35.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/de/0a/default-avatar-2020-35.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945918387,
+        "title": "Owner response",
+        "text": "Dear Aubrey2,\n\nWe first would like to thank you for making our Pickalbatros Laguna Vista your preferred choice for your holidays , it is always a pleasure to welcome back our most loyal guests year after year. \nWe also appreciate your kind words for our staff, their kindness and helpfulness being undoubtedly one of our hotel's main assets we will definitely will thank them all on your behalf for their contribution to your wellbeing whilst staying among us.\nWe also greatly appreciate your comments on the quality and variety of our buffets because our talented team of Chefs strive to ensure a wide variety of both local and international delicacies for each service to please all palates, it is indeed very rewarding to read that we were able to conquer yours.\nOnce more we thank you for sharing your experience with us and look forward to serving you again soon.\nBest regards, \nPickalbatros Laguna Vista Management\n",
+        "lang": "en",
+        "author": "Pickalbatros Laguna Vista Management",
+        "published_date": "2024-04-09T03:07:00Z"
+      }
+    },
+    {
+      "id": 945803365,
+      "lang": "en",
+      "location_id": 316502,
+      "published_date": "2024-04-08T05:05:04Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g303855-d316502-r945803365-Reviews-Pickalbatros_Laguna_Vista_Hotel-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review945803365",
+      "text": "We have been to the hotel 6 times now and every time we come we have enjoyed it the staff are very helpful the food is plentiful and lots of choice. The all inclusive really is all inclusive. The hotel rooms are very clean Nd generous in size. The swimming pools are numerous some heated some not with lots of pool bars. Will be back again",
+      "title": "Albatross Laguna vista hotel",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "juliemV8192HB",
+        "user_location": {
+          "id": "186363",
+          "name": "Reading, Berkshire, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ed/7b/default-avatar-2020-6.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ed/7b/default-avatar-2020-6.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ed/7b/default-avatar-2020-6.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ed/7b/default-avatar-2020-6.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ed/7b/default-avatar-2020-6.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945827846,
+        "title": "Owner response",
+        "text": "Dear Julie M! \nWe are being extremely grateful that you picked the time and posted a review on your vacation here with us.\nWe would like to seize this very opportunity and extend our cordial gratitude for your positive outlines concerning our facilities and services.\nWe look forward to welcoming you back again.\nBest regards, \nPickalbatros Laguna Vista Management. ",
+        "lang": "en",
+        "author": "Pickalbatros Laguna Vista Management",
+        "published_date": "2024-04-08T08:42:13Z"
+      }
+    },
+    {
+      "id": 945802513,
+      "lang": "en",
+      "location_id": 316502,
+      "published_date": "2024-04-08T04:57:47Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g303855-d316502-r945802513-Reviews-Pickalbatros_Laguna_Vista_Hotel-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review945802513",
+      "text": "The hotel really offers everything the family needs. The staff are lovely and made a fuss of my daughters, the food has plenty of variety and caters for all our needs. The hotel rooms are spacious and the beds are comfy. There are plenty of pools to choose from and the bonus of the water park now as well as the beach. Really can’t fault this hotel and will be returning.",
+      "title": "3rd Visit",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "926laurak",
+        "user_location": {
+          "id": "186363",
+          "name": "Reading, Berkshire, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f3/23/default-avatar-2020-28.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f3/23/default-avatar-2020-28.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f3/23/default-avatar-2020-28.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f3/23/default-avatar-2020-28.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f3/23/default-avatar-2020-28.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945827792,
+        "title": "Owner response",
+        "text": "Dear Laura K! \nThanks a lot for posting a positive review on your vacation, we appreciate your cordial praises of our facilities and staff members which are indicative of the fact that our sunny property does meet your expectations.\nIt is an honor for us to host our guests and our hotel team is working their skills out to provide them with a high class service and utmost comfort.\nBest regards, \nPickalbatros Laguna Vista Management. ",
+        "lang": "en",
+        "author": "Pickalbatros Laguna Vista Management",
+        "published_date": "2024-04-08T08:41:48Z"
+      }
+    },
+    {
+      "id": 945771386,
+      "lang": "en",
+      "location_id": 316502,
+      "published_date": "2024-04-07T21:50:23Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g303855-d316502-r945771386-Reviews-Pickalbatros_Laguna_Vista_Hotel-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review945771386",
+      "text": "Hello laguna I enjoyed the weekend with my friends in this hotel. It was a nice hotel. The service was good and the rooms were clean the food was fantastic and we agreed that we were going to again I am also grateful to all the hotel staff and supervisors for their good hospitality♥️",
+      "title": "Great reception. We will repeat the trip thanks laguna",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-01-31",
+      "user": {
+        "username": "ahmedhF6871FB",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ec/a2/default-avatar-2020-3.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ec/a2/default-avatar-2020-3.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ec/a2/default-avatar-2020-3.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ec/a2/default-avatar-2020-3.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ec/a2/default-avatar-2020-3.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945806571,
+        "title": "Owner response",
+        "text": "Dear Ahmed H ,\nOn behalf of the entire management of the Albatros Laguna Vista Hotel, we would like to thank you for visiting our hotel and for your constructive feedback!\nWe are very glad that you had a good time and were satisfied with the service of the hotel. We are also very pleased that you noted the good work of our employees.\nWe will be glad to see you in our hotel again!\nBest regards, \nPickalbatros Laguna Vista Management. \n",
+        "lang": "en",
+        "author": "Pickalbatros Laguna Vista Management",
+        "published_date": "2024-04-08T05:33:58Z"
+      }
+    }
+  ]
+}

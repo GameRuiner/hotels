@@ -1,0 +1,184 @@
+{
+  "location_id": "12701699",
+  "name": "Ona Hotels Mosaic",
+  "description": "The 53 Double Rooms and Suites of Mosaic by Ona Hotels offer its guests the chance to experience the authentic Barcelona. The building, built in 1888, with a modernist essence, represents the soul of this charming hotel. Its historic and modern style will make of your stay an original and unique experience from the moment you arrive.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d12701699-Reviews-Ona_Hotels_Mosaic-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "84 Rambla de Catalunya",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08008",
+    "address_string": "84 Rambla de Catalunya, 08008 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.39254",
+  "longitude": "2.161598",
+  "timezone": "Europe/Madrid",
+  "phone": "01134935220420",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d12701699-Ona_Hotels_Mosaic-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#267 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "267"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "246",
+  "review_rating_count": {
+    "1": "11",
+    "2": "6",
+    "3": "28",
+    "4": "75",
+    "5": "126"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "196",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d12701699-m66827-Reviews-Ona_Hotels_Mosaic-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Non-smoking rooms",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Housekeeping",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Catalan",
+    "English",
+    "French",
+    "24-Hour Front Desk",
+    "Spanish",
+    "Wheelchair access",
+    "Family Rooms",
+    "Soundproof Rooms"
+  ],
+  "parent_brand": "Ona Corporation",
+  "brand": "Ona Hotels",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Romantic",
+    "Boutique"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15565885",
+      "name": "La Dreta de l'Eixample"
+    },
+    {
+      "location_id": "15565927",
+      "name": "Passeig de Gracia"
+    },
+    {
+      "location_id": "7230970",
+      "name": "Eixample"
+    },
+    {
+      "location_id": "15565928",
+      "name": "Rambla de Catalunya"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "6"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "102"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "10"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "73"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "21"
+    }
+  ],
+  "awards": []
+}

@@ -1,0 +1,222 @@
+{
+  "location_id": "306636",
+  "name": "Dubai Marine Beach Resort & Spa",
+  "description": "Located at the beginning of the most prominent area of the city, the Jumeirah Beach Road, Dubai Marine Beach Resort & Spa is only minutes away from the Burj Khalifa and the Dubai Mall, 15 minutes from Dubai International Airport. Other exclusive shopping malls are within walking distance as well as some of the Dubai’s most magnificent sightseeing locations.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d306636-Reviews-Dubai_Marine_Beach_Resort_Spa-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Jumeira Rd",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "5182",
+    "address_string": "Jumeira Rd, Dubai 5182 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.234259",
+  "longitude": "55.26253",
+  "timezone": "Asia/Dubai",
+  "phone": "01197143461111",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d306636-Dubai_Marine_Beach_Resort_Spa-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#367 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "367"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "1335",
+  "review_rating_count": {
+    "1": "88",
+    "2": "75",
+    "3": "166",
+    "4": "361",
+    "5": "645"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1087",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d306636-m66827-Reviews-Dubai_Marine_Beach_Resort_Spa-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Beachfront",
+    "Shuttle Bus Service",
+    "Free Internet",
+    "Free Wifi",
+    "Beach Access",
+    "Internet",
+    "Kids Activities",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Swimup Bar",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Butler Service",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Kids Club",
+    "Arabic",
+    "Baggage Storage",
+    "Bathrobes",
+    "Currency Exchange",
+    "English",
+    "Facial Treatments",
+    "Filipino",
+    "French",
+    "Hindi",
+    "Ironing Service",
+    "Nightclub / DJ",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Kids pool",
+    "Wardrobe / Closet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Family Resort",
+    "Park View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7282434",
+      "name": "Jumeirah"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "166"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "348"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "98"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "362"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "195"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

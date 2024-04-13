@@ -1,0 +1,291 @@
+{
+  "location_id": "669302",
+  "name": "Bodrium Otel & Spa",
+  "description": "Bodrium Hotel & SPA; 2006 yılında kurulmuş, 4000 m2 alanda, tarihi Myndos Kapısı’nın hemen yanında konumlanmaktadır. Bodrum şehir merkezi ve Bodrum Marina’ya 950 m, Oasis Alışveriş Merkezine 400 m, Bodrum Havalimanına ise 35 km uzaklıkta bulunmaktadır. Bodrium Hotel & SPA; tarihin kalbinde, sakin ortamı aynı zamanda konum itibariyle Bodrum merkeze yakınlığıyla, havuzu ve yeşil alanlarla çevrili doğal güzellikleriyle misafirlerine evlerindeki rahatlığı ve konforu Oda & Kahvaltı konsepti ile dört mevsim yaşatmaktadır. SPA ve Sağlık Merkezi’nin son derece sakin, rahatlatıcı egzotik ortamında bedeninizi ve zihninizi özel terapilerimizle canlandırabilir, vücudunuzdaki tüm gerilim ve negatif enerjiden arınabilir, sağlıklı bir yaşama adım atabilirsiniz.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298658-d669302-Reviews-Bodrium_Otel_Spa-Bodrum_City_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Eskicesme Mahallesi, Buyuk Iskender Cad. No:13",
+    "street2": "",
+    "city": "Bodrum City",
+    "state": "Mugla Province",
+    "country": "Turkiye",
+    "postalcode": "48400",
+    "address_string": "Eskicesme Mahallesi, Buyuk Iskender Cad. No:13, Bodrum City 48400 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Bodrum City",
+      "location_id": "298658"
+    },
+    {
+      "level": "District",
+      "name": "Bodrum District",
+      "location_id": "298020"
+    },
+    {
+      "level": "Province",
+      "name": "Mugla Province",
+      "location_id": "298019"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "37.03683",
+  "longitude": "27.411964",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298658-d669302-Bodrium_Otel_Spa-Bodrum_City_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298658",
+    "ranking_string": "#6 of 164 hotels in Bodrum City",
+    "geo_location_name": "Bodrum City",
+    "ranking_out_of": "164",
+    "ranking": "6"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "551",
+  "review_rating_count": {
+    "1": "9",
+    "2": "5",
+    "3": "22",
+    "4": "100",
+    "5": "415"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "635",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298658-d669302-m66827-Reviews-Bodrium_Otel_Spa-Bodrum_City_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Room service",
+    "Free parking",
+    "Restaurant",
+    "Fitness center",
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Bar/Lounge",
+    "Breakfast included",
+    "Suites",
+    "Spa",
+    "Airport transportation",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Parking",
+    "Housekeeping",
+    "Sauna",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "24-Hour Check-in",
+    "Coffee / Tea Maker",
+    "Couples Massage",
+    "Doorperson",
+    "English",
+    "Facial Treatments",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Hair Dryer",
+    "Hammam",
+    "Head Massage",
+    "Ironing Service",
+    "Massage",
+    "Outdoor Furniture",
+    "Pool / Beach Towels",
+    "24-Hour Security",
+    "Shared Lounge / TV Area",
+    "Steam Room",
+    "Street Parking",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Turkish",
+    "Wake Up Service / Alarm Clock",
+    "Wifi",
+    "Family Rooms",
+    "Accessible rooms",
+    "Minibar",
+    "Kids pool",
+    "Adult pool",
+    "Breakfast Available",
+    "Allergy-free Room",
+    "Blackout Curtains",
+    "Boating",
+    "Body Wrap",
+    "Bridal Suite",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "Express Check-in / Check-out",
+    "Clothes Dryer",
+    "Clothes Rack",
+    "Currency Exchange",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Fitness Classes",
+    "Complimentary Welcome Drink",
+    "Free Wifi in the Business Center",
+    "Free Wired Internet in the Business Center",
+    "French",
+    "German",
+    "Hand Massage",
+    "Highchairs Available",
+    "Hiking",
+    "Iron",
+    "Laptop Safe",
+    "Neck Massage",
+    "Outdoor Dining Area",
+    "Patio",
+    "Personal Trainer",
+    "Pool View",
+    "Portuguese",
+    "Private Check-in / Check-out",
+    "Paid Private Parking Nearby",
+    "Paid Public Parking Nearby",
+    "Seating Area",
+    "Secured Parking",
+    "Separate Living Room",
+    "Sofa",
+    "Sun Deck",
+    "Sun Terrace",
+    "Umbrella",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Walking Tours",
+    "Wardrobe / Closet",
+    "Wine / Champagne",
+    "Photo Copier / Fax In Business Center",
+    "Yoga Room",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Modern",
+    "Quaint"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "93"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "199"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "37"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "93"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "79"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "data": [
+    {
+      "id": 942200124,
+      "lang": "en",
+      "location_id": 4263293,
+      "published_date": "2024-03-13T15:07:35Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d4263293-r942200124-Reviews-Renaissance_Izmir_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review942200124",
+      "text": "Very clean comfortable rooms, helpful staff. Lots of interesting things to do, beautiful places to visit. Izmir itself is an exciting buzzing city plenty places to eat and drink, not very expensive. Lovely sea to swim in or stay by the pool.",
+      "title": "Happy travels",
+      "trip_type": "Solo travel",
+      "travel_date": "2023-09-30",
+      "user": {
+        "username": "K512PZanner",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e4/a9/default-avatar-2020-50.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 942250358,
+        "title": "Owner response",
+        "text": "Dear Guests,\nThank you for your kind comments and taking the time to share your recent experience at the Renaissance İzmir Hotel with us. We would be delighted to welcome you back and look forward to providing you with the delightful Renaissance service at your next stay.\nBest Regards\nGuest Experience Agent\n",
+        "lang": "en",
+        "author": "Renaissance Izmir Hotel Guest Experience Agent",
+        "published_date": "2024-03-14T03:51:10Z"
+      }
+    },
+    {
+      "id": 940940059,
+      "lang": "en",
+      "location_id": 4263293,
+      "published_date": "2024-03-05T14:37:27Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d4263293-r940940059-Reviews-Renaissance_Izmir_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review940940059",
+      "text": "It is a wonderful place in Izmir. We had the oppportunity to stay 3 weeks here and my daughters and I were sick and everyone at the hotel tried their best to make us feel good, at home\nA special thank to all the Breakfast restaurantvream, esp. Mr.Ilgin, who went all out of their ways to make us feel at home.",
+      "title": "Wonderful hotel in Izmir",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "sweetklara",
+        "user_location": {
+          "id": "274873",
+          "name": "Ljubljana, Upper Carniola Region"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e4/a9/default-avatar-2020-50.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 940997920,
+        "title": "Owner response",
+        "text": "Dear Guest,\nThank you for your kind comments and taking the time to share your recent experience at the Renaissance İzmir Hotel with us. \nWe would be delighted to welcome you back and look forward to providing you with the delightful Renaissance service at your next stay.\nBest Regards\nGuest Experience Agent",
+        "lang": "en",
+        "author": "Renaissance Izmir Hotel Guest Experience Agent",
+        "published_date": "2024-03-06T05:37:00Z"
+      }
+    },
+    {
+      "id": 940630985,
+      "lang": "en",
+      "location_id": 4263293,
+      "published_date": "2024-03-03T03:51:56Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d4263293-r940630985-Reviews-Renaissance_Izmir_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review940630985",
+      "text": "Near the Promenade, a comfortable venue with attractive interior decoration and helpful staff (thank you, Pelin!). Spacious and clean room, yet water pipelines should be cleaned more often. Worth recommendation - the nearby competition is tough: Movenpick, Swissotel, Double Tree in the radius of not more than 500 meters each.\nAirport prick up overpriced: 2000 TRY offered vs. less than 500 TRY is you take a regular taxi from arrivals!",
+      "title": "A 5-minute walk to the Izmir Promenade",
+      "trip_type": "Business",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "Radebak",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/21/b9/15/52/ra-b.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/21/b9/15/52/ra-b.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-o/21/b9/15/52/ra-b.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/21/b9/15/52/ra-b.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 940760522,
+        "title": "Owner response",
+        "text": "Dear Guest,\nThank you for your kind comments and  taking the time to share your recent experience at the Renaissance İzmir Hotel with us. We would be delighted to welcome you back and look forward to providing you with the delightful Renaissance service at your next stay.\nBest Regards\nGuest Experience Agent",
+        "lang": "en",
+        "author": "Renaissance Izmir Hotel Guest Experience Agent",
+        "published_date": "2024-03-04T04:09:37Z"
+      }
+    },
+    {
+      "id": 940619723,
+      "lang": "en",
+      "location_id": 4263293,
+      "published_date": "2024-03-03T01:16:56Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d4263293-r940619723-Reviews-Renaissance_Izmir_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review940619723",
+      "text": "Thank you for a very pleasant stay. We upgraded this time to a spacious club room with club room access.  It was light, clean, comfy bed and pillows, great walk in shower, well maintained as is expected of 5 star rating. All staff in all areas were friendly, helpful and efficient.  Many speak good English.  Good selection of breakfast items to suit all. Made porridge and omelettes for us.  Location good for exploring the different areas of Izmir. We used the ferries to explore.  They are very regular and cost less than £1 per trip.  Just swiped credit card as we couldn’t understand the ticket machines. Thank you to all staff👏👏",
+      "title": "Return visit",
+      "trip_type": "Couples",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "arnold739",
+        "user_location": {
+          "id": "186356",
+          "name": "Nottingham, Nottinghamshire, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/b8/default-avatar-2020-26.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 940760474,
+        "title": "Owner response",
+        "text": "Dear Guests,\nThank you for your kind comments and taking the time to share your recent experience at the Renaissance İzmir Hotel with us. We would be delighted to welcome you back and look forward to providing you with the delightful Renaissance service at your next stay.\nBest Regards\nGuest Experience Agent",
+        "lang": "en",
+        "author": "Renaissance Izmir Hotel Guest Experience Agent",
+        "published_date": "2024-03-04T04:09:10Z"
+      }
+    },
+    {
+      "id": 939982284,
+      "lang": "en",
+      "location_id": 4263293,
+      "published_date": "2024-02-27T09:58:18Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d4263293-r939982284-Reviews-Renaissance_Izmir_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review939982284",
+      "text": "My stay here was great.All employees were very friendly. The room was very beautiful, huge and comfy. On the roof there is a restaurant/bar called skyfire with a beautiful view ( small seaview). Thank you for the nice stay. Highly recomme ded.",
+      "title": "Beautiful",
+      "trip_type": "Family",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "Koftegirl1",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/43/default-avatar-2020-11.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 940061322,
+        "title": "Owner response",
+        "text": "Dear Precious Guest,\nThank you for your kind comments and taking the time to share your recent experience at the Renaissance İzmir Hotel with us. We would be delighted to welcome you back and look forward to providing you with the delightful Renaissance service at your next stay.\nBest Regards\nGuest Experience Agent",
+        "lang": "en",
+        "author": "Renaissance Izmir Hotel Guest Experience Agent",
+        "published_date": "2024-02-28T04:12:03Z"
+      }
+    }
+  ]
+}

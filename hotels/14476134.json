@@ -1,0 +1,350 @@
+{
+  "location_id": "14476134",
+  "name": "Hotel Indigo Dubai Downtown, An IHG Hotel",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d14476134-Reviews-Hotel_Indigo_Dubai_Downtown_An_IHG_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Marasi Drive",
+    "street2": "Al Abraj Street, Business Bay",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "24666",
+    "address_string": "Marasi Drive Al Abraj Street, Business Bay, Dubai 24666 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.192575",
+  "longitude": "55.286842",
+  "timezone": "Asia/Dubai",
+  "phone": "18778595095",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d14476134-Hotel_Indigo_Dubai_Downtown_An_IHG_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#10 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "10"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "1488",
+  "review_rating_count": {
+    "1": "4",
+    "2": "3",
+    "3": "7",
+    "4": "89",
+    "5": "1385"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "1474",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d14476134-m66827-Reviews-Hotel_Indigo_Dubai_Downtown_An_IHG_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Pets Allowed",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Minibar",
+    "Babysitting",
+    "Non-smoking hotel",
+    "Safe",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Afrikaans",
+    "Allergy-free Room",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Bulgarian",
+    "Chinese",
+    "Currency Exchange",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "Fitness Classes",
+    "Free Private Parking Nearby",
+    "Free Public Parking Nearby",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Italian",
+    "Kids' Meals",
+    "Nightclub / DJ",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Portuguese",
+    "Romanian",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Secured Parking",
+    "Snack Bar",
+    "Soundproof Rooms",
+    "Spanish",
+    "Steam Room",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Family Rooms",
+    "Conference Facilities",
+    "Flatscreen TV",
+    "Cable / Satellite TV",
+    "Clothes Rack",
+    "Electric Kettle",
+    "Free Wifi in the Business Center",
+    "Georgian",
+    "Highchairs Available",
+    "Landmark View",
+    "Outdoor Dining Area",
+    "Personal Trainer",
+    "Pool View",
+    "Private Bathrooms",
+    "Sun Deck",
+    "Ukrainian",
+    "Wardrobe / Closet",
+    "Photo Copier / Fax In Business Center",
+    "Yoga Classes",
+    "Yoga Room"
+  ],
+  "parent_brand": "InterContinental",
+  "brand": "Hotel Indigo",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Boutique",
+    "Charming"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620621",
+      "name": "Business Bay"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "245"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "344"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "117"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "370"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "266"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

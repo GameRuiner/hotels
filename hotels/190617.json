@@ -1,0 +1,251 @@
+{
+  "location_id": "190617",
+  "name": "Hotel El Palace Barcelona",
+  "description": "Hotel El Palace Barcelona was totally refurbished and reopened late 2009. The works preserved the classic spirit that has always characterised this property, distinguished as a symbol of Barcelona’s hotel tradition. Set in the heart of the city centre, close to Las Ramblas and in the most prestigious shopping area, it is surrounded by boulevards, theatres and main banks. It has an excellent transport connections and it is just 20 min from el Prat Airport.After the restoration, the Hotel has 120 rooms, 42 of which are suites and junior suites, all equipped with last-generation technology. A new room design, a soft interior re-decoration of public areas and lounges and the realignment and optimisation of the architectural infrastructure enhances the beauty and majesty of our Hotel like in the 20’s.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d190617-Reviews-Hotel_El_Palace_Barcelona-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Gran Via de les Corts Catalanes, 668",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08010",
+    "address_string": "Gran Via de les Corts Catalanes, 668, 08010 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.3914",
+  "longitude": "2.171451",
+  "timezone": "Europe/Madrid",
+  "phone": "01134935101130",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d190617-Hotel_El_Palace_Barcelona-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#19 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "19"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "2515",
+  "review_rating_count": {
+    "1": "26",
+    "2": "35",
+    "3": "76",
+    "4": "302",
+    "5": "2076"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "1869",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d190617-m66827-Reviews-Hotel_El_Palace_Barcelona-Barcelona_Catalonia.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Suites",
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Butler Service",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Allergy-free Room",
+    "Baggage Storage",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Catalan",
+    "Couples Massage",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Facial Treatments",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Ironing Service",
+    "Italian",
+    "Kid-Friendly Buffet",
+    "Massage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Private Check-in / Check-out",
+    "24-Hour Security",
+    "Shoeshine",
+    "Soundproof Rooms",
+    "Spanish",
+    "Special Diet Menus",
+    "Sun Terrace",
+    "Taxi Service",
+    "Wake Up Service / Alarm Clock",
+    "Outdoor pool"
+  ],
+  "parent_brand": "The Leading Hotels of the World, Ltd",
+  "brand": "The Leading Hotels of the World",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Romantic",
+    "Luxury"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230970",
+      "name": "Eixample"
+    },
+    {
+      "location_id": "15565885",
+      "name": "La Dreta de l'Eixample"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "166"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1247"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "75"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "545"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "213"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

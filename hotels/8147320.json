@@ -1,0 +1,251 @@
+{
+  "location_id": "8147320",
+  "name": "The View Al Barsha Hotel Apartments",
+  "description": "The View Al Barsha is located directly on Shiehk Zayed Road and a few minutes away from Mall of the Emirates. It offers self-catering accommodation. Apartments at The View Al Barsha have a balcony and a living area along with a flat screen television as well as a dining area. All our apartments feature a shower, private bath. Out door pool on rooftop. The View Al Barsha Hotel apartments is situated in Al Barsha, next to Mall of the Emirates, which offers fun attractions & activities such as Magic Planet, VOX Cinemas & Ski Dubai. It is conveniently located 30 minutes' drive away from Dubai International Airport and within close proximity to the Dubai Expo 2020 site. We offered you a free parking. Stay connected with our complimentary WIFI . Located 5 min walk from Mashreq Dubai metro station and Mall of the Emirates Dubai metro station, you will have a hassle-free transportation to Outlet Mall . We are in close proximity to Burj Khalifa in Downtown Dubai, the new Dubai Water Canal, Dubai Marina, Palm Jumeirah, Media City, Internet City and just minutes from Jumeirah Beach, Wild Wadi Waterpark and 15 min from Jebel Ali Free Zone.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d8147320-Reviews-The_View_Al_Barsha_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Zayed Road",
+    "street2": "Near Mall Of The Emirates",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "6237",
+    "address_string": "Sheikh Zayed Road Near Mall Of The Emirates, Dubai 6237 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.116623",
+  "longitude": "55.194065",
+  "timezone": "Asia/Dubai",
+  "phone": "01197143951665",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d8147320-The_View_Al_Barsha_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#65 of 766 Specialty lodging in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "766",
+    "ranking": "65"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "59",
+  "review_rating_count": {
+    "1": "7",
+    "2": "4",
+    "3": "6",
+    "4": "14",
+    "5": "28"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "137",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d8147320-m66827-Reviews-The_View_Al_Barsha_Hotel_Apartments-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Free parking",
+    "Kitchenette",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Microwave",
+    "Refrigerator in room",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Outdoor pool",
+    "Arabic",
+    "Filipino",
+    "Hindi",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Suites",
+    "Wheelchair access",
+    "Airport transportation",
+    "Dry Cleaning",
+    "Business center",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Heated pool",
+    "Private Balcony",
+    "Kids pool",
+    "Adult pool",
+    "Parking",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Additional Bathroom",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Bidet",
+    "Bottled Water",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Express Check-in / Check-out",
+    "Clothes Dryer",
+    "Clothes Rack",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Convenience Store",
+    "Currency Exchange",
+    "Dining Area",
+    "Electric Kettle",
+    "English",
+    "First Aid Kit",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "Complimentary Welcome Drink",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Iron",
+    "Ironing Service",
+    "Kitchenware",
+    "Landmark View",
+    "Nepali",
+    "Newspaper",
+    "Oven",
+    "Parking Garage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Private Bathrooms",
+    "Private Check-in / Check-out",
+    "Paid Private Parking On-site",
+    "Paid Private Parking Nearby",
+    "Paid Public Parking Nearby",
+    "Paid Public Parking On-site",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Shoeshine",
+    "Sofa",
+    "Steam Room",
+    "Stovetop",
+    "Street Parking",
+    "Sun Umbrellas",
+    "Swahili",
+    "Tamil",
+    "Taxi Service",
+    "Telephone",
+    "Tile / Marble Floor",
+    "Urdu",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Washing Machine"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [
+    "City View",
+    "Mid-range"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620543",
+      "name": "Al Barsha"
+    },
+    {
+      "location_id": "15620544",
+      "name": "Al Barsha 1"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "6"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "10"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "3"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "22"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "10"
+    }
+  ],
+  "awards": []
+}

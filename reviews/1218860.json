@@ -1,0 +1,242 @@
+{
+  "data": [
+    {
+      "id": 939057781,
+      "lang": "en",
+      "location_id": 1218860,
+      "published_date": "2024-02-20T15:55:58Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d1218860-r939057781-Reviews-Hotel_Teatre_Auditori-Barcelona_Catalonia.html?m=66827#review939057781",
+      "text": "Great hotel and a very good position for visiting all the city and atractions.Our room was clean and it had all you need for staying a few days. Sunny, the receptionist, was very empathic, communicative and had a positive attitude with us! This hotel is clearly a good choice for a holiday in Barcelona!",
+      "title": "Great hotel",
+      "trip_type": "Couples",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "tasianag2024",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/11/default-avatar-2020-41.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 939106019,
+        "title": "Owner response",
+        "text": "Dear Tasiana,\n\nLet me start by thanking you for completing our Guest Survey regarding your recent stay at our property.\n\t\nYour feedback is very much appreciated and we can assure you we will use this information to do everything possible to create an enjoyable experience for each of our guests.  We hope to see you again.\n\nAgain, thanks for taking the time and have a great day!\n\nSincerely,\n\nSM Hotel Teatre Auditori\n",
+        "lang": "en",
+        "author": "ELISABETH CARRERAS",
+        "published_date": "2024-02-21T04:49:44Z"
+      }
+    },
+    {
+      "id": 932761361,
+      "lang": "en",
+      "location_id": 1218860,
+      "published_date": "2024-01-07T14:57:39Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d1218860-r932761361-Reviews-Hotel_Teatre_Auditori-Barcelona_Catalonia.html?m=66827#review932761361",
+      "text": "This hotel is outstanding, it is immaculately clean, extremely comfortable and the guys Sunny, Ariadna, Omar and Sergio were nothing but helpful, couteous and made me feel totally at ease. Please stay here, the location is amazing, quiet but close enough to everything and everywhere you could want. Thankyou so much Hotel Teatre Auditori, you made my first solo trip one to remember...",
+      "title": "Outstanding",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-01-31",
+      "user": {
+        "username": "Happiness57266786736",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e9/ef/default-avatar-2020-66.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 932850119,
+        "title": "Owner response",
+        "text": "Dear Sir,\n\nLet me start by thanking you for completing our Guest Survey regarding your recent stay at our property.\n\t\nYour feedback is very much appreciated and we can assure you we will use this information to do everything possible to create an enjoyable experience for each of our guests.  We hope to see you again.\n\nAgain, thanks for taking the time and have a great day!\n\nSincerely,\n\nSM Hotel Teatre Auditori\n",
+        "lang": "en",
+        "author": "ELISABETH CARRERAS",
+        "published_date": "2024-01-08T09:46:18Z"
+      }
+    },
+    {
+      "id": 931666209,
+      "lang": "en",
+      "location_id": 1218860,
+      "published_date": "2023-12-30T17:10:41Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d1218860-r931666209-Reviews-Hotel_Teatre_Auditori-Barcelona_Catalonia.html?m=66827#review931666209",
+      "text": "We’ve just come back from a 3 night stay at Hotel Teatre Auditori. It was a lovely stay, rooms were very clean and maintained well. Clean towels daily and room spotless. \nBreakfast was included and was fresh and plentiful. Fresh fruit, selections of breads, cereals, continental meats/cheeses and hot food. \nWalking distance to La Rambla and Sagrada Família with lots of bars and restaurants on the way. \nDefinitely recommend and would go back. Thank you to the staff!",
+      "title": "Really good hotel in a great central location.",
+      "trip_type": "Family",
+      "travel_date": "2023-12-31",
+      "user": {
+        "username": "Steph1408",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f4/5d/default-avatar-2020-32.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 932347941,
+        "title": "Owner response",
+        "text": "Dear Steph,\n\nThank you for your evaluations and comments. \nWe hope to see you again very soon! \n\nSincerely SM Hotel Teatre Auditori \n",
+        "lang": "en",
+        "author": "ELISABETH CARRERAS",
+        "published_date": "2024-01-05T02:41:42Z"
+      }
+    },
+    {
+      "id": 927647868,
+      "lang": "en",
+      "location_id": 1218860,
+      "published_date": "2023-11-27T18:49:28Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d1218860-r927647868-Reviews-Hotel_Teatre_Auditori-Barcelona_Catalonia.html?m=66827#review927647868",
+      "text": "The staff was very helpful, the room was clean and the breakfast options were great. The hotel was central to our travels and close to several metro stops. Omar and Ari were particularly helpful as this was my first time to Barcelona. They helped me and my son get where we needed and wanted to go. I'll stay there again.",
+      "title": "Great staff, great place to stay!",
+      "trip_type": "Family",
+      "travel_date": "2023-10-31",
+      "user": {
+        "username": "martybW3285WV",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/df/2b/default-avatar-2020-39.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 927895545,
+        "title": "Owner response",
+        "text": "Dear Sir,\n\nLet me start by thanking you for completing our Guest Survey regarding your recent stay at our property.\n\t\nYour feedback is very much appreciated and we can assure you we will use this information to do everything possible to create an enjoyable experience for each of our guests.  We hope to see you again.\n\nAgain, thanks for taking the time and have a great day!\n\nSincerely,\n\nSM Hotel Teatre Auditori\n",
+        "lang": "en",
+        "author": "ELISABETH CARRERAS",
+        "published_date": "2023-11-30T02:41:13Z"
+      }
+    },
+    {
+      "id": 925884398,
+      "lang": "en",
+      "location_id": 1218860,
+      "published_date": "2023-11-14T14:12:07Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d1218860-r925884398-Reviews-Hotel_Teatre_Auditori-Barcelona_Catalonia.html?m=66827#review925884398",
+      "text": "Perfect location for our 4 day stay in Barcelona, 10 mins from a Barcelona City Tour green bus stop. The hotel was spotlessly clean and good choice of breakfast.\nMissed having a chair to sit on in the room, to watch TV. \nStaff were all helpful, particularly Sunny, who arranged our taxi pick up from hotel to airport.",
+      "title": "Great location, close to National Theatre",
+      "trip_type": "Friends getaway",
+      "travel_date": "2023-11-30",
+      "user": {
+        "username": "shazzamorgan",
+        "user_location": {
+          "id": "1096775",
+          "name": "Potters Bar, Hertfordshire, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ed/7b/default-avatar-2020-6.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ed/7b/default-avatar-2020-6.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ed/7b/default-avatar-2020-6.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ed/7b/default-avatar-2020-6.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ed/7b/default-avatar-2020-6.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 925933262,
+        "title": "Owner response",
+        "text": "Dear Guests,\n\nThanks for your review regarding your recent stay at our Hotel.\n\t\nYour feedback is very much appreciated and we can assure you we will use this information to do everything possible to create an enjoyable experience for each of our guests.  We hope to see you again.\n\nIf we can be of assistance in the future, don't hesitate to contact us. \n\nAgain, thanks for taking the time and have a great day!\n\nSincerely,\n\nsM Hotel Teatre Auditori\n",
+        "lang": "en",
+        "author": "ELISABETH CARRERAS",
+        "published_date": "2023-11-15T03:10:00Z"
+      }
+    }
+  ]
+}

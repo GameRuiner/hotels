@@ -1,0 +1,204 @@
+{
+  "location_id": "231520",
+  "name": "H10 Itaca Hotel",
+  "description": "The H10 Itaca is ideally situated in the heart of the Eixample neighbourhood, very close to Sants Station (AVE) and the Montjuïc exhibition centre. You´ll be impressed by the hotel´s recent refurbishment with modern and innovative touches to the front entrance, Front Desk and Lobby Bar. The hotel´s new features include a plunge pool on the revamped Chill-Out Terrace and the Itaca Restaurant, which offers select signature cuisine in the evenings",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d231520-Reviews-H10_Itaca_Hotel-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Avenida de Roma 22",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08015",
+    "address_string": "Avenida de Roma 22, 08015 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.381077",
+  "longitude": "2.145506",
+  "timezone": "Europe/Madrid",
+  "phone": "01134932204494",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d231520-H10_Itaca_Hotel-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#233 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "233"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "1575",
+  "review_rating_count": {
+    "1": "41",
+    "2": "48",
+    "3": "184",
+    "4": "649",
+    "5": "653"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "527",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d231520-m66827-Reviews-H10_Itaca_Hotel-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Room service",
+    "Restaurant",
+    "Business center",
+    "Fitness center",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Meeting rooms",
+    "Pool",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Suites",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Minibar",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Outdoor pool",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Catalan",
+    "English",
+    "Accessible rooms",
+    "Parking",
+    "Sauna",
+    "Beach Access"
+  ],
+  "parent_brand": "H10 Hotels",
+  "brand": "H10 Hotels",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Mid-range",
+    "Green"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230970",
+      "name": "Eixample"
+    },
+    {
+      "location_id": "15565887",
+      "name": "La Nova Esquerra de l'Eixample"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "154"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "783"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "64"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "195"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "204"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

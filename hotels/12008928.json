@@ -1,0 +1,267 @@
+{
+  "location_id": "12008928",
+  "name": "Al Habtoor Polo Resort",
+  "description": "The Al Habtoor Polo Resort marks the legendary first ever equestrian-inspired resort worldwide and introduces a serene level of sophistication to a world-class city. Ideally located in Dubailand and in close proximity to the city’s key touristic attractions, the landmark resort extends timeless Andalusian elegance within an oasis of excellence and luxury.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d12008928-Reviews-Al_Habtoor_Polo_Resort-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Wadi Al Safa 5, Emirates Road",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "611",
+    "address_string": "Wadi Al Safa 5, Emirates Road, Dubai 611 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.08101",
+  "longitude": "55.36754",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d12008928-Al_Habtoor_Polo_Resort-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#277 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "277"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "604",
+  "review_rating_count": {
+    "1": "62",
+    "2": "24",
+    "3": "22",
+    "4": "51",
+    "5": "447"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "546",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d12008928-m66827-Reviews-Al_Habtoor_Polo_Resort-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Kids Activities",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Conference Facilities",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Outdoor pool",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Sauna",
+    "Additional Bathroom",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Billiards",
+    "Bottled Water",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "Fitness Classes",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Horseback Riding",
+    "Iron",
+    "Ironing Service",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Outdoor Furniture",
+    "24-Hour Security",
+    "Airport transportation",
+    "Minibar",
+    "Babysitting",
+    "Non-smoking hotel",
+    "Safe",
+    "Poolside Bar",
+    "Butler Service",
+    "Kids pool",
+    "Breakfast Available",
+    "Archery",
+    "Badminton",
+    "Bicycle Rental",
+    "Bidet",
+    "Books, DVDs, Music for Children",
+    "Children's Television Networks",
+    "Children's Playground",
+    "Clothes Rack",
+    "Coffee / Tea Maker",
+    "Couples Massage",
+    "Darts",
+    "Desk",
+    "Foot Massage",
+    "Complimentary Welcome Drink",
+    "Full Body Massage",
+    "Hair Dryer",
+    "Hand Massage",
+    "Happy Hour",
+    "Head Massage",
+    "Highchairs Available",
+    "Hindi",
+    "Mini Golf",
+    "Neck Massage",
+    "Picnic Area",
+    "Private Bathrooms",
+    "Seating Area",
+    "Steam Room",
+    "Taxi Service",
+    "Telephone",
+    "Umbrella",
+    "Urdu",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Trendy",
+    "Luxury"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "70"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "80"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "59"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "191"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "144"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

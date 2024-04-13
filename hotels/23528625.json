@@ -1,0 +1,212 @@
+{
+  "location_id": "23528625",
+  "name": "Ecos Dubai Hotel at Al Furjan",
+  "description": "ECOS Dubai Hotel at Al Furjan is a millennial-centric lifestyle hotspot managed by Hospitality Management Holding (HMH). True to its brand, ECOS Dubai Hotel at Al Furjan offers unparalleled hospitality services to modern-day travellers who seek enriching experiences without limitations. It’s the perfect home away from home for all our guests, city adventurers, families on a relaxing break, and business travellers seeking a contemporary hotel. Featuring ultramodern design standards, and cutting-edge technology, at affordable rates, ECOS Dubai Hotel at Al Furjan is the perfect fusion of comfort, value, and practicality within a responsive lifestyle environment. The hotel features a mix of 304 trendy bedrooms, each fitted with essential amenities coupled with in vogue décor and smart in-room facilities. ECOS Dubai Hotel at Al Furjan offers an exciting range of facilities aimed at enhancing the connected live, work, and play experience. This includes the signature restaurant, Palettes, inspired by local and global cuisine that offers special dietary and fresh health-conscious options, in addition to an inspirational menu of culinary delicacies. Meeting traveller needs for a relaxing, productive, and convenient stay, ECOS Dubai Hotel at Al Furjan guests can work out at Gymology, a fully equipped trendy fitness centre, chill out by the Sun Deck Infinity Pool with stunning rooftop views, or socialise in the laidback courtyard. Coffea’s baristas exceed taste expectations with freshly brewed hot and cold beverage specialities, and the Melt Cart surprises guests with its refreshing mobile pop-up while offering tasty ice cream treats. There is even a fully equipped self- service laundrette for guests who wish to stay a while. The ECOS Dubai Hotel at Al Furjan’s exceptional location is approximately 17km from the EXPO 2020 site or just 3 metro stations away, 40 KM from Dubai International Airport, and 31 km from Downtown Dubai.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d23528625-Reviews-Ecos_Dubai_Hotel_at_Al_Furjan-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Jebel Ali 1 Al Furjan",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Jebel Ali 1 Al Furjan, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.020742",
+  "longitude": "55.15325",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d23528625-Ecos_Dubai_Hotel_at_Al_Furjan-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#68 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "68"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "274",
+  "review_rating_count": {
+    "1": "4",
+    "2": "0",
+    "3": "2",
+    "4": "10",
+    "5": "258"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "340",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d23528625-m66827-Reviews-Ecos_Dubai_Hotel_at_Al_Furjan-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Self-Serve Laundry",
+    "Safe",
+    "Rooftop Pool",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Housekeeping",
+    "Arabic",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Coffee Shop",
+    "Doorperson",
+    "English",
+    "French",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Kids' Meals",
+    "Russian",
+    "24-Hour Security",
+    "Secured Parking",
+    "Telephone",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Public Wifi",
+    "Business center",
+    "Family Rooms",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Parking",
+    "Kids Stay Free",
+    "Electric vehicle charging station",
+    "Cable / Satellite TV",
+    "Currency Exchange",
+    "Free Wifi in the Business Center",
+    "Laptop Safe",
+    "Nepali",
+    "Newspaper",
+    "Outdoor Dining Area",
+    "Private Bathrooms",
+    "Sun Deck",
+    "Taxi Service",
+    "Vending Machine",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "City View",
+    "Business"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "51"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "57"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "56"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "47"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "45"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

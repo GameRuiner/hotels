@@ -1,0 +1,169 @@
+{
+  "location_id": "7225136",
+  "name": "Avin Hotel",
+  "description": "Elegantly decorated rooms at Hotel Avin are soundproofed and feature a seating area and a flat-screen TV with satellite and cable channels. Each has a safety deposit box. The private bathrooms come with a shower, hairdryer and free toiletries.Daily breakfast is served at the hotel’s restaurant. Numerous dining options are available in the surrounding area. Room service is provided. For our foreign guest, we also provide concierge service to help them finding their needs in no time.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d7225136-Reviews-Avin_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Etiler Mahallesi 1265 Sokak No:7 Kahramanlar Konak",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35230",
+    "address_string": "Etiler Mahallesi 1265 Sokak No:7 Kahramanlar Konak, Izmir 35230 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.42387",
+  "longitude": "27.14702",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d7225136-Avin_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#26 of 136 B&Bs / Inns in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "136",
+    "ranking": "26"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "15",
+  "review_rating_count": {
+    "1": "2",
+    "2": "0",
+    "3": "2",
+    "4": "5",
+    "5": "6"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    }
+  },
+  "photo_count": "12",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d7225136-m66827-Reviews-Avin_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Internet",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Non-smoking rooms",
+    "Concierge",
+    "Air conditioning",
+    "Smoking rooms available",
+    "Minibar",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking hotel",
+    "Safe",
+    "Baggage Storage",
+    "Express Check-in / Check-out",
+    "Currency Exchange",
+    "English",
+    "Free Public Parking Nearby",
+    "24-Hour Front Desk",
+    "German",
+    "Ironing Service",
+    "Newspaper",
+    "Private Check-in / Check-out",
+    "Shared Lounge / TV Area",
+    "Soundproof Rooms",
+    "Turkish"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "bb",
+      "localized_name": "Bed and Breakfast"
+    }
+  ],
+  "styles": [
+    "Charming",
+    "Romantic"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "3"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "7"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "0"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "4"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "0"
+    }
+  ],
+  "awards": []
+}

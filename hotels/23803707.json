@@ -1,0 +1,321 @@
+{
+  "location_id": "23803707",
+  "name": "Millennium Place Mirdif",
+  "description": "Located in Mirdif Hills, Millennium Place Mirdif is the first hotel in this Dubai neighborhood, overlooking the beautiful Mushrif Park. The home of more than 70,000 trees offers a fantastic range of family fun adventures from zip-lining, children's playgrounds, horseback riding, cycle track, BBQ Areas, and much more.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d23803707-Reviews-Millennium_Place_Mirdif-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Mirdif Hills Avenue, 78th Street",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Mirdif Hills Avenue, 78th Street, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.226126",
+  "longitude": "55.441353",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d23803707-Millennium_Place_Mirdif-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#183 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "183"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "541",
+  "review_rating_count": {
+    "1": "12",
+    "2": "8",
+    "3": "11",
+    "4": "32",
+    "5": "478"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "162",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d23803707-m66827-Reviews-Millennium_Place_Mirdif-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Pool",
+    "Kids Activities",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Kitchenette",
+    "Spa",
+    "Airport transportation",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Refrigerator in room",
+    "Minibar",
+    "Babysitting",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Infinity Pool",
+    "Outdoor pool",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Additional Bathroom",
+    "Arabic",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Convenience Store",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Italian",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Newspaper",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shops",
+    "Telephone",
+    "Free Internet",
+    "Wifi",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Conference Facilities",
+    "Flatscreen TV",
+    "Kids pool",
+    "Adult pool",
+    "Parking",
+    "Bathrobes",
+    "Bicycle Rental",
+    "Clothes Rack",
+    "Dining Area",
+    "Electric Kettle",
+    "Happy Hour",
+    "Nepali",
+    "Outdoor Dining Area",
+    "Parking Garage",
+    "Portuguese",
+    "Private Bathrooms",
+    "Paid Private Parking On-site",
+    "Radio",
+    "Seating Area",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Sofa",
+    "Spanish",
+    "Valet Parking",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Wine / Champagne"
+  ],
+  "parent_brand": "Millennium & Copthorne Hotels",
+  "brand": "Millennium",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quaint",
+    "Business"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "129"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "49"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "75"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "119"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "114"
+    }
+  ],
+  "awards": []
+}

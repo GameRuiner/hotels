@@ -1,0 +1,164 @@
+{
+  "data": [
+    {
+      "id": 923288338,
+      "lang": "en",
+      "location_id": 12160041,
+      "published_date": "2023-10-28T04:52:00Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d12160041-r923288338-Reviews-Perla_Arya_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review923288338",
+      "text": "We stayed at this hotel for one night. From check-in through check-out everything went smoothly. The room was quiet and clean, the bed is big enough and comfortable. The buffet breakfast was hearty and there is a bathroom near the restaurant. It is very convenient for people to wash hands after meal. \nOverall, it was a great experience for me. Everything was perfect. \nThe staff at the front desk was very friendly.\nHighly recommend and I will definitely stay here again when I visit Izmir in the future.",
+      "title": "Everything was perfect",
+      "trip_type": "Couples",
+      "travel_date": "2023-10-31",
+      "user": {
+        "username": "Zhaohui_Bai",
+        "user_location": {
+          "id": "294212",
+          "name": "Beijing"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/15/78/7c/c7/zhaohui-bai.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/15/78/7c/c7/zhaohui-bai.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/15/78/7c/c7/zhaohui-bai.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/15/78/7c/c7/zhaohui-bai.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/15/78/7c/c7/zhaohui-bai.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 915312888,
+      "lang": "en",
+      "location_id": 12160041,
+      "published_date": "2023-09-07T08:52:54Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d12160041-r915312888-Reviews-Perla_Arya_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review915312888",
+      "text": "The staff were so friendly and helpful.\nThe Rooms were very clean and comfortable. \nThe breakfast was good.\nThe neighborhood wasn't very convenient, it was about 20 minutes walk to restaurant and cafes and there were a lot of night clubs.\nTrain station and bus station were near by which was a good thing.",
+      "title": "A nice clean hotel with helpful staff!",
+      "trip_type": "Friends getaway",
+      "travel_date": "2023-08-31",
+      "user": {
+        "username": "7parisar",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e9/bb/default-avatar-2020-65.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 873011368,
+      "lang": "en",
+      "location_id": 12160041,
+      "published_date": "2022-12-28T00:27:37Z",
+      "rating": 2,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d12160041-r873011368-Reviews-Perla_Arya_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review873011368",
+      "text": "We stayed here on our second trip to Izmir. First impression of the room was okay, but the shower head exploded on the first day. Breakfast provision was limited with the only protein on offer being boiled eggs and a sliced cold meat. The juice was unchilled and left out for who knows how long which was disturbing.\n\nBased on low expectations all of this would have been fine, but on our last day they insisted on charging us for a cup that was left in another room and removed by the cleaner the next day. This admittedly left a very bad taste in the mouth. We won’t be returning on our next stay in Izmir and would not recommend.",
+      "title": "Dishonest establishment",
+      "trip_type": "Family",
+      "travel_date": "2022-12-31",
+      "user": {
+        "username": "argonp",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/27/a0/76/e9/caption.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/27/a0/76/e9/caption.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/27/a0/76/e9/caption.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/27/a0/76/e9/caption.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/27/a0/76/e9/caption.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 840707966,
+      "lang": "en",
+      "location_id": 12160041,
+      "published_date": "2022-05-30T15:26:46Z",
+      "rating": 3,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d12160041-r840707966-Reviews-Perla_Arya_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review840707966",
+      "text": "Our stay here was mixed. Lovely room, but a hard bed and pillows didn’t make sleeping easy. The shower was great as was the wifi.\nThere was a bit of confusion in the morning as breakfast started at 0730, but we asked if it was possible to get it slightly earlier as our tour was picking us up at 0730. After telling us no, we went and brought food off a street vendor to come back 5mins later and have the cold meze dished up for us… but weird but maybe it was a breakdown in communication due to the language barrier? Either way, decent stay, but not perfect.",
+      "title": "Decent stay",
+      "trip_type": "Couples",
+      "travel_date": "2022-05-31",
+      "user": {
+        "username": "MFC31",
+        "user_location": {
+          "id": "186338",
+          "name": "London, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/15/90/40/b5/caption.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/15/90/40/b5/caption.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/15/90/40/b5/caption.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/15/90/40/b5/caption.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 728389646,
+      "lang": "en",
+      "location_id": 12160041,
+      "published_date": "2019-11-23T11:27:35Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d12160041-r728389646-Reviews-Perla_Arya_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review728389646",
+      "text": "I stayed for 3 nights. The Hotel is a little far from the tourist attractions but overall in a good location. They have free parking spaces. Hotel rooms are spacious and clean. Breakfast was good. The hotel staffs are very friendly and helpful.",
+      "title": "Nice and tidy Hotel",
+      "trip_type": "Couples",
+      "travel_date": "2019-10-31",
+      "user": {
+        "username": "fahim49",
+        "user_location": {
+          "id": "294002",
+          "name": "Kuwait"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/0d/34/4d/caption.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/0d/34/4d/caption.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/0d/34/4d/caption.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/1a/0d/34/4d/caption.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

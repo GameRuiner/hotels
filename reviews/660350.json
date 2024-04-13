@@ -1,0 +1,276 @@
+{
+  "data": [
+    {
+      "id": 942255296,
+      "lang": "en",
+      "location_id": 660350,
+      "published_date": "2024-03-14T04:52:45Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d660350-r942255296-Reviews-Catalonia_Avinyo-Barcelona_Catalonia.html?m=66827#review942255296",
+      "text": "Staying here at present and wanted to say what a fabulous little hotel this is .\nRight in the middle of the gothic quarter and great for exploring the city.\nThe standard rooms are really good and although our room faces onto an internal courtyard instead of out over onto the street we actually prefer this as it’s unbelievably quiet.\nThe room is immaculately clean and very well appointed, the bed is huge and the most comfortable bed I have ever slept in.\nThe shower room is excellent and has a large step in shower.\nBreakfast is excellent and has a very good selection of both cooked and cold food including fruits and juices.\nI think you would struggle to find better or more reasonable if you walked out for breakfast.\nThe staff are brilliant and spotted that it was my partners Birthday whim we were here and we returned from a day out to find a bottle of bubbly and some chocolates in the room with a lovely note wishing her a happy birthday.\nI would stop here again in a heartbeat when we return to this wonderful city.",
+      "title": "Brilliant Hotel",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "chrishI8298GC",
+        "user_location": {
+          "id": "190832",
+          "name": "Durham, County Durham, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e4/a9/default-avatar-2020-50.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 942250451,
+      "lang": "en",
+      "location_id": 660350,
+      "published_date": "2024-03-14T03:52:40Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d660350-r942250451-Reviews-Catalonia_Avinyo-Barcelona_Catalonia.html?m=66827#review942250451",
+      "text": "We really enjoyed our stay at this hotel. The staff provided excellent customer service throughout our stay, our bedroom was comfortable and cleaned daily, the breakfast was faultless and the location was perfect. We will definitely stay here again.",
+      "title": "Our Stay at Hotel Catalonia Avinyo",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Teeturn",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e7/99/default-avatar-2020-57.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e7/99/default-avatar-2020-57.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e7/99/default-avatar-2020-57.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e7/99/default-avatar-2020-57.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/99/default-avatar-2020-57.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 942218702,
+      "lang": "en",
+      "location_id": 660350,
+      "published_date": "2024-03-13T18:20:05Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d660350-r942218702-Reviews-Catalonia_Avinyo-Barcelona_Catalonia.html?m=66827#review942218702",
+      "text": "Perfect place if you want to be in the gothic quarter. You are right in the middle of it with this hotel. Very close to the Barcelona Cathedral. The staff were friendly and helpful and the place was very clean.",
+      "title": "Nice hotel",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "mypyrodanni",
+        "user_location": {
+          "id": "1756675",
+          "name": "Middleton, Rochdale, Greater Manchester, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/2b/59/5e/a8/dannielle-f.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/2b/59/5e/a8/dannielle-f.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/2b/59/5e/a8/dannielle-f.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/2b/59/5e/a8/dannielle-f.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2b/59/5e/a8/dannielle-f.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 938913834,
+      "lang": "en",
+      "location_id": 660350,
+      "published_date": "2024-02-19T12:28:47Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d660350-r938913834-Reviews-Catalonia_Avinyo-Barcelona_Catalonia.html?m=66827#review938913834",
+      "text": "Loved my room after moving from another hotel. The receptionist was very cordial and professional. The location is perfect. Close to the Rambla about 4 mins walking. Budget friendly and the area it’s nice. Please stay at this place and don’t trust unknown hotel chains.",
+      "title": "Loved my honeymoon stay at Catalonia Avinyó",
+      "trip_type": "Couples",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "353zamiral",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/d0/default-avatar-2020-33.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/d0/default-avatar-2020-33.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f4/d0/default-avatar-2020-33.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f4/d0/default-avatar-2020-33.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f4/d0/default-avatar-2020-33.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 936911070,
+      "lang": "en",
+      "location_id": 660350,
+      "published_date": "2024-02-05T04:08:53Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d660350-r936911070-Reviews-Catalonia_Avinyo-Barcelona_Catalonia.html?m=66827#review936911070",
+      "text": "Perfect location in the heart of the old city. Staff most helpful from the moment of arrival until checkout. Indeed we were allowed to keep the room until 4.30pm on the day of departure for no extra charge! This was great as we spent the day sightseeing and then returned to the hotel to freshen up and pick up our luggage, before travelling home.",
+      "title": "Excellent location",
+      "trip_type": "NONE",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "281fergusd",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e4/59/default-avatar-2020-49.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e4/59/default-avatar-2020-49.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e4/59/default-avatar-2020-49.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e4/59/default-avatar-2020-49.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e4/59/default-avatar-2020-49.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    }
+  ]
+}

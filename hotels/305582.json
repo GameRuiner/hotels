@@ -1,0 +1,256 @@
+{
+  "location_id": "305582",
+  "name": "Axel Hotel Barcelona",
+  "description": "Faithful to the concept and style of Axel-design, comfortable, cosmopolitan atmosphere, is a good value for price. The 101 rooms combine the touch of decoration from Modernism with the warmth and elegance of the Mediterranean. New spaces at Axel Hotel Barcelona, will become the urban meeting point of the heterofriendly.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d305582-Reviews-Axel_Hotel_Barcelona-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Aribau 33",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08011",
+    "address_string": "Aribau 33, 08011 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.38735",
+  "longitude": "2.160496",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d305582-Axel_Hotel_Barcelona-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#90 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "90"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "3646",
+  "review_rating_count": {
+    "1": "151",
+    "2": "235",
+    "3": "429",
+    "4": "926",
+    "5": "1905"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1358",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d305582-m66827-Reviews-Axel_Hotel_Barcelona-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Suites",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Business center",
+    "Laundry Service",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Fitness center",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Adult pool",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Sauna",
+    "Adults Only",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Breakfast in the Room",
+    "Catalan",
+    "24-Hour Check-in",
+    "Couples Massage",
+    "English",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "French",
+    "24-Hour Front Desk",
+    "German",
+    "Hammam",
+    "Ironing Service",
+    "Italian",
+    "Massage",
+    "Nightclub / DJ",
+    "Parking Garage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Paid Public Parking Nearby",
+    "24-Hour Security",
+    "Secured Parking",
+    "Snack Bar",
+    "Solarium",
+    "Soundproof Rooms",
+    "Spanish",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Taxi Service",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Portuguese",
+    "Paid Private Parking Nearby"
+  ],
+  "parent_brand": "Grupo Axel",
+  "brand": "Axel Hotels",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Hidden Gem",
+    "Trendy"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230970",
+      "name": "Eixample"
+    },
+    {
+      "location_id": "15565886",
+      "name": "L'Antiga Esquerra de l'Eixample"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "189"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1526"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "691"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "78"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "741"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

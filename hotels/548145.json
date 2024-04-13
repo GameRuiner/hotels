@@ -1,0 +1,305 @@
+{
+  "location_id": "548145",
+  "name": "Park Regency Sharm El Sheikh Resort",
+  "description": "Tipped as one of Egypt’s most lavish hospitality resort, Park Regency Sharm El Sheikh combines ultimate luxury and exotic style on the edge of an aqua oasis in South Sinai. Three beach coves lead to one of the most spectacular diving sites, the Gardens Bay. The rooms are large and comfortable, with stunning sea views and all the comforts of modern living presented at the highest standards. Park Regency Sharm El Sheikh’s many and various in-house facilities offer something for everyone; the array of bars and restaurants will satisfy the most discriminating gourmand, the Kid’s Club will keep the younger guests entertained while Club Olympus houses a fully equipped gym and aerobics studio and its Moorish style spa area offers a sauna, steam bath, whirlpool and plunge pools.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d548145-Reviews-Park_Regency_Sharm_El_Sheikh_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Gardens Bay",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "address_string": "Gardens Bay, Sharm El Sheikh Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.91512",
+  "longitude": "34.35071",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d548145-Park_Regency_Sharm_El_Sheikh_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#67 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "67"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "4596",
+  "review_rating_count": {
+    "1": "116",
+    "2": "152",
+    "3": "264",
+    "4": "813",
+    "5": "3252"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "5385",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d548145-m66827-Reviews-Park_Regency_Sharm_El_Sheikh_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Fitness center",
+    "Room service",
+    "Beachfront",
+    "Restaurant",
+    "Business center",
+    "Suites",
+    "Free parking",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Internet",
+    "Kids Activities",
+    "Free Internet",
+    "Spa",
+    "Wifi",
+    "Free Wifi",
+    "Laundry Service",
+    "Shuttle Bus Service",
+    "Airport transportation",
+    "Public Wifi",
+    "Paid Internet",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Butler Service",
+    "Infinity Pool",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Private Pools",
+    "Parking",
+    "Free airport transportation",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Sauna",
+    "Aerobics",
+    "Allergy-free Room",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Billiards",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Car Hire",
+    "Coffee / Tea Maker",
+    "Couples Massage",
+    "Currency Exchange",
+    "Darts",
+    "Desk",
+    "Diving",
+    "Doorperson",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Karaoke",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Nightclub / DJ",
+    "Outdoor Furniture",
+    "Parking Garage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Private Check-in / Check-out",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shops",
+    "Snack Bar",
+    "Snorkeling",
+    "Squash",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Kids pool",
+    "Breakfast Available",
+    "Boating",
+    "Body Wrap",
+    "Cable / Satellite TV",
+    "Children's Television Networks",
+    "Children's Playground",
+    "Electric Kettle",
+    "Executive Lounge Access",
+    "First Aid Kit",
+    "Foot Massage",
+    "Complimentary Welcome Drink",
+    "Full Body Massage",
+    "Happy Hour",
+    "Highchairs Available",
+    "Neck Massage",
+    "Outdoor Dining Area",
+    "Personal Trainer",
+    "Plunge Pool",
+    "Private Bathrooms",
+    "Tile / Marble Floor",
+    "Ukrainian",
+    "Umbrella",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Waterslide",
+    "Water Sport Equipment Rentals",
+    "Photo Copier / Fax In Business Center",
+    "Yoga Classes",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Green",
+    "Marina View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "177"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1585"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "184"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1491"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "590"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

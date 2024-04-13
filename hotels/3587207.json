@@ -1,0 +1,202 @@
+{
+  "location_id": "3587207",
+  "name": "Grand Corner Boutique Hotel",
+  "description": "Grand Corner Boutique Hotel is an excellent choice for travelers visiting Izmir, offering a boutique environment alongside many helpful amenities designed to enhance your stay.\nClose to some of Izmir's most popular landmarks, such as Usakizade Kosku (0.1 mi) and Synagogue Street (Havra Sokagi) (0.3 mi), Grand Corner Boutique Hotel is a great destination for tourists.\nRooms at Grand Corner Boutique Hotel provide air conditioning and a minibar, and guests can stay connected with free wifi.\nIn addition, while staying at Grand Corner Boutique Hotel guests have access to a 24 hour front desk, room service, and a concierge. You can also enjoy a hot tub and an on-site restaurant. Need a place to park? Free parking is available at Grand Corner Boutique Hotel.\nWhile in Izmir be sure to experience local tapas favorites at ARGO.\nShould time allow, Tarihi Asansor, Konak Square, and Saat Kulesi (Clock Tower) are some popular attractions that are within walking distance.\nEnjoy your stay in Izmir!\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d3587207-Reviews-Grand_Corner_Boutique_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Anafartalar Caddesi No:783",
+    "street2": "Basmane",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "address_string": "Anafartalar Caddesi No:783 Basmane, Izmir Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.418472",
+  "longitude": "27.130007",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d3587207-Grand_Corner_Boutique_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#86 of 218 hotels in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "218",
+    "ranking": "86"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "92",
+  "review_rating_count": {
+    "1": "17",
+    "2": "6",
+    "3": "20",
+    "4": "30",
+    "5": "19"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    }
+  },
+  "photo_count": "34",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d3587207-m66827-Reviews-Grand_Corner_Boutique_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Restaurant",
+    "Air conditioning",
+    "Breakfast Buffet",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Room service",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Smoking rooms available",
+    "Minibar",
+    "Non-smoking hotel",
+    "Safe",
+    "Private Balcony",
+    "Housekeeping",
+    "Sauna",
+    "Baggage Storage",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Car Hire",
+    "Express Check-in / Check-out",
+    "Currency Exchange",
+    "English",
+    "Facial Treatments",
+    "Foot Massage",
+    "Free Private Parking Nearby",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Hammam",
+    "Iron",
+    "Ironing Service",
+    "Massage",
+    "Neck Massage",
+    "Newspaper",
+    "Parking Garage",
+    "Salon",
+    "Secured Parking",
+    "Shoeshine",
+    "Snack Bar",
+    "Soundproof Rooms",
+    "Steam Room",
+    "Turkish",
+    "VIP Room Facilities",
+    "Wine / Champagne"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Boutique",
+    "Centrally Located"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "22"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "16"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "9"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "16"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "17"
+    }
+  ],
+  "awards": []
+}

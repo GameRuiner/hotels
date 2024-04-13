@@ -1,0 +1,296 @@
+{
+  "data": [
+    {
+      "id": 945814512,
+      "lang": "en",
+      "location_id": 2545026,
+      "published_date": "2024-04-08T06:42:06Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d2545026-r945814512-Reviews-Andante_Hotel-Barcelona_Catalonia.html?m=66827#review945814512",
+      "text": "Located 4 mins from La Rambla, this hotel provides an excellent venue for sightseeing. Friendly staff, very clean, and modern. The small plunge pool on the rooftop is nice, but unheated. So not for everyone! All in all, very good. Plenty of restaurants and cafes near by, so didn’t try the hotel food.",
+      "title": "Great location",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "RazNe",
+        "user_location": {
+          "id": "186338",
+          "name": "London, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/19/6d/dd/62/razne.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/19/6d/dd/62/razne.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/19/6d/dd/62/razne.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/19/6d/dd/62/razne.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/19/6d/dd/62/razne.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945839491,
+        "title": "Owner response",
+        "text": "Dear RazNe,\nThank you for sharing your feedback! We're glad to hear that you enjoyed our convenient location, friendly staff, and modern facilities. Your comments about the rooftop pool are noted, and we appreciate your understanding. We hope you had a great time exploring the nearby attractions, and we'd love to welcome you back in the future!",
+        "lang": "en",
+        "author": "Andante  Hotel",
+        "published_date": "2024-04-08T10:15:00Z"
+      }
+    },
+    {
+      "id": 945551871,
+      "lang": "en",
+      "location_id": 2545026,
+      "published_date": "2024-04-06T07:10:52Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d2545026-r945551871-Reviews-Andante_Hotel-Barcelona_Catalonia.html?m=66827#review945551871",
+      "text": "Amazing hotel with such helpful and friendly staff.  We chose this hotel for location and the rooftop bar and pool.  Perfect location, 5 mins walk to La Rambla and less than 5 mins walk to 3 metro stations, Drassenes, Liceau and Para el(which takes you to the cable car). My daughter left her teddy bear, the staff could not be more helpful in ensuring the sentimental item was returned to us in the UK after we arrived home.",
+      "title": "Great hotel, spotlessly clean, amazing views and lovely breakfast.",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "rebeccapU5118XQ",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/43/default-avatar-2020-11.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945569895,
+        "title": "Owner response",
+        "text": "Dear Rebecca,\nWe're delighted to hear that you had an amazing experience at our hotel and that our staff were able to assist you with such care, especially in ensuring the safe return of your daughter's teddy bear. \nOur convenient location near La Rambla and multiple metro stations, along with our rooftop bar and pool, aim to enhance your overall experience. \nThank you for choosing to stay with us, and we hope to welcome you back again in the future!",
+        "lang": "en",
+        "author": "Andante  Hotel",
+        "published_date": "2024-04-06T09:59:51Z"
+      }
+    },
+    {
+      "id": 944374280,
+      "lang": "en",
+      "location_id": 2545026,
+      "published_date": "2024-03-29T09:22:24Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d2545026-r944374280-Reviews-Andante_Hotel-Barcelona_Catalonia.html?m=66827#review944374280",
+      "text": "This is an excellent hotel in an ideal location. 3 minute walk to the metro station. 4 mins walk to Las Ramblas. The hotel is clean and we had an ideal interconnected room which was ideal for a family of 4. The rooftop pool was stunning with an incredible view. Sadly the pool was too cold in March to swim in. The only negative I have is the AC in one of the rooms went down to 19° and we wanted it to be cooler. This was reported to reception but the problem wasn't rectified. Not a major issue but would have been nice if they rectified this as promised. But overall very satisfied and will definitely book again. ",
+      "title": "Great hotel in an excellent location ",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "mazharg2014",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/06/e1/23/a5/mazhar-g.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/06/e1/23/a5/mazhar-g.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/06/e1/23/a5/mazhar-g.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/06/e1/23/a5/mazhar-g.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 944499863,
+        "title": "Owner response",
+        "text": "Dear Mazharali, \nThank you for sharing your detailed feedback about your recent stay with us. We're delighted to hear that you found our hotel excellent and enjoyed the ideal location, cleanliness, and amenities such as the rooftop pool with its stunning view. We apologize for the inconvenience caused by the AC issue in one of the rooms and any lapse in rectifying it promptly. Your comments are valuable to us, and we will use them to improve our services passing this information on to the maintenance department. \n We look forward to welcoming you back on your next visit, and we'll strive to make your stay even more enjoyable.\nGuest service department - Andante Hotel",
+        "lang": "en",
+        "author": "Andante  Hotel",
+        "published_date": "2024-03-30T08:42:42Z"
+      }
+    },
+    {
+      "id": 944104036,
+      "lang": "en",
+      "location_id": 2545026,
+      "published_date": "2024-03-27T07:46:07Z",
+      "rating": 3,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d2545026-r944104036-Reviews-Andante_Hotel-Barcelona_Catalonia.html?m=66827#review944104036",
+      "text": "The room was very nice however the walls are very thin so I could hear people in the hallway and sometimes the room across from me. The pool was smaller than I thought it was going to be and super shallow, however the views were amazing from the roof. The staff was very kind! And it’s super close to metro stops which was nice",
+      "title": "Great location",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "meganv750",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/7c/01/default-avatar-2020-5.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944254888,
+        "title": "Owner response",
+        "text": "Dear Megan\nThank you for sharing your feedback with us! We're glad you enjoyed our great location and the overall experience. We apologize for any inconvenience caused by noise from the hallway and neighboring rooms. Your comments are valuable to us, and we'll take them into consideration for future improvements. We're pleased to hear that you appreciated the stunning views from the rooftop and found our staff kind and helpful. We hope to welcome you back for another pleasant stay in the future!",
+        "lang": "en",
+        "author": "Andante  Hotel",
+        "published_date": "2024-03-28T09:53:52Z"
+      }
+    },
+    {
+      "id": 943985537,
+      "lang": "en",
+      "location_id": 2545026,
+      "published_date": "2024-03-27T05:58:17Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d2545026-r943985537-Reviews-Andante_Hotel-Barcelona_Catalonia.html?m=66827#review943985537",
+      "text": "Smart, clean hotel which could not have been in a better position. Less than 5 mins to Metro, supermarket, bars, shops restaurants. The room inc bathroom was ample with a good size shower. We loved the clear signage on everything. The position was quiet and felt safe. The roof terrace was great and if it had been a bit warmer we would definitely have enjoyed a dip in the pool. Our room rate included breakfast which was good with plenty of choice. Efficient, helpful, and cheerful staff throughout. I only have one very, very minor suggestion (not criticisms), please add an entertainment TV channel in English. The only English speaking channel was a news channel I'd never heard of. After walking the city sights all day I'd have appreciated a bit of telly before heading out for the evening. The bag storage was a great bonus and saved us dragging our bags around with us after checkout, allowing us to enjoy a whole extra day.",
+      "title": "Great location, service and facilities",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "michellebQ7513OG",
+        "user_location": {
+          "id": "499568",
+          "name": "Wigton, Cumbria, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e8/5b/default-avatar-2020-61.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e8/5b/default-avatar-2020-61.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e8/5b/default-avatar-2020-61.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e8/5b/default-avatar-2020-61.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e8/5b/default-avatar-2020-61.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944254748,
+        "title": "Owner response",
+        "text": "Dear Michelle,\nThank you for your positive feedback! We're delighted to hear that you enjoyed our great location, clean facilities, and helpful staff. Your suggestion regarding the TV channel has been noted for consideration. We look forward to welcoming you back for another enjoyable stay in the future!",
+        "lang": "en",
+        "author": "Andante  Hotel",
+        "published_date": "2024-03-28T09:52:36Z"
+      }
+    }
+  ]
+}

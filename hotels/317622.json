@@ -1,0 +1,274 @@
+{
+  "location_id": "317622",
+  "name": "Sun Beach Resort",
+  "description": "Sun Beach Resort is an exceptional 4* family hotel located in a prime beachfront location in the heart of the cosmopolitan resort of Ialyssos, just 10 km away from both Rhodes’ international airport and Rhodes town. The resort spreads over an area of 35000 m2 of land filled with palm trees and beautiful gardens and consists of 2 separate buildings: the beachfront wing and the garden wing. An extensive range of recreational facilities and stylish accommodation, fine cuisine with numerous restaurants & bars, daily entertainment suitable for all age groups and above all an unrivalled standard of warm and personal service ensures that the Sun Beach Hotel is the perfect match for those seeking a complete holiday experience out of their holiday in Rhodes!",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g635614-d317622-Reviews-Sun_Beach_Resort-Ialyssos_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "city": "Ialyssos",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "85101",
+    "address_string": "Ialyssos 85101 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Ialyssos",
+      "location_id": "635614"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.423195",
+  "longitude": "28.152828",
+  "timezone": "Europe/Athens",
+  "phone": "011302241093821",
+  "write_review": "https://www.tripadvisor.com/UserReview-g635614-d317622-Sun_Beach_Resort-Ialyssos_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "635614",
+    "ranking_string": "#14 of 43 hotels in Ialyssos",
+    "geo_location_name": "Ialyssos",
+    "ranking_out_of": "43",
+    "ranking": "14"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "1522",
+  "review_rating_count": {
+    "1": "46",
+    "2": "66",
+    "3": "208",
+    "4": "554",
+    "5": "648"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1456",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g635614-d317622-m66827-Reviews-Sun_Beach_Resort-Ialyssos_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Free parking",
+    "Pool",
+    "Fitness center",
+    "Beachfront",
+    "Restaurant",
+    "Wifi",
+    "Wheelchair access",
+    "Kids Activities",
+    "Room service",
+    "Bar/Lounge",
+    "Suites",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Microwave",
+    "Refrigerator in room",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Billiards",
+    "Blackout Curtains",
+    "Car Hire",
+    "Convenience Store",
+    "Desk",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Free Public Parking Nearby",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Game Room",
+    "Greek",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Pool / Beach Towels",
+    "Salon",
+    "Shops",
+    "Snack Bar",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Swedish",
+    "Taxi Service",
+    "Telephone",
+    "Kitchenette",
+    "Meeting rooms",
+    "Family Rooms",
+    "Conference Facilities",
+    "Safe",
+    "Kids pool",
+    "Aerobics",
+    "Archery",
+    "Bicycle Rental",
+    "Books, DVDs, Music for Children",
+    "Cable / Satellite TV",
+    "Children's Television Networks",
+    "Children's Playground",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Currency Exchange",
+    "Darts",
+    "Electric Kettle",
+    "Foot Massage",
+    "Complimentary Toiletries",
+    "French",
+    "Gift Shop",
+    "Hair Dryer",
+    "Head Massage",
+    "Highchairs Available",
+    "Interconnected room(s) available",
+    "Kids' Meals",
+    "Kitchenware",
+    "Manicure",
+    "Mountain View",
+    "Neck Massage",
+    "Pedicure",
+    "Pool View",
+    "Radio",
+    "Sofa",
+    "Sofa Bed",
+    "Soundproof Rooms",
+    "Special Diet Menus",
+    "Swimming Pool Toys",
+    "Table Tennis",
+    "Tile / Marble Floor",
+    "Video Game Console",
+    "Wardrobe / Closet",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Lagoon View",
+    "Family Resort"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "8"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "356"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "29"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "840"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "106"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

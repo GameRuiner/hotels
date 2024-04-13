@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": 887569341,
+      "lang": "en",
+      "location_id": 20302817,
+      "published_date": "2023-04-24T13:53:19Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g1192097-d20302817-r887569341-Reviews-Hotel_Rudis-Narlidere_Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review887569341",
+      "text": "Can't thank the staff enough..each and everyone of them were fabulous management should be proud...cleaners chefs front of house reception.....just need a swimming pool 😁..menu could change...same food daily",
+      "title": "Brilliant",
+      "trip_type": "Solo travel",
+      "travel_date": "2023-04-30",
+      "user": {
+        "username": "sammbroon",
+        "user_location": {
+          "id": "186394",
+          "name": "Newcastle upon Tyne, Tyne and Wear, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/b8/default-avatar-2020-26.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    }
+  ]
+}

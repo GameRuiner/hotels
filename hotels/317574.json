@@ -1,0 +1,168 @@
+{
+  "location_id": "317574",
+  "name": "Amar Sina Boutique Village",
+  "description": "\"Amarsina is an authentic Egyptian village, one of which a visitor would feel home. Within its genuine architecture, one can find some of the best inherited methods of construction in Egyptian heritage. Some Green Architecture principles was applied fifteen years ago during the construction of the village. So, as you walk through its two-hundred year old wooden door towards the lobby, you slowly start to discover the essence of the place. The handmade-brick decorated domes, colored marble floors, inner courtyard where the main swimming pool is located, village’s backyard farm with its iconic Pharonic statues, walkways, paths and corridors. We bring Egypt on a silver plate right to your grip.”",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d317574-Reviews-Amar_Sina_Boutique_Village-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Motels Street, Om Elsid Cliff",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "postalcode": "46619",
+    "address_string": "Motels Street, Om Elsid Cliff, Sharm El Sheikh 46619 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.869843",
+  "longitude": "34.3096",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d317574-Amar_Sina_Boutique_Village-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#153 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "153"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "1098",
+  "review_rating_count": {
+    "1": "210",
+    "2": "99",
+    "3": "165",
+    "4": "254",
+    "5": "370"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    }
+  },
+  "photo_count": "1163",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d317574-m66827-Reviews-Amar_Sina_Boutique_Village-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Paid Wifi",
+    "Paid Internet",
+    "Restaurant",
+    "Shuttle Bus Service",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Sauna",
+    "Arabic",
+    "24-Hour Front Desk",
+    "Nightclub / DJ",
+    "Russian",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Breakfast Available"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Boutique",
+    "Budget"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "7"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "350"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "170"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "196"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "225"
+    }
+  ],
+  "awards": []
+}

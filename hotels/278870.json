@@ -1,0 +1,256 @@
+{
+  "location_id": "278870",
+  "name": "Helea Lifestyle Beach Resort",
+  "description": "Helea Lifestyle Beach Resort, Rhodes’ newest 5* resort, offers laidback luxury for guests of \nall ages, while proving spectacular views across the sea, beautifully landscaped gardens & \nshimmering turquoise pools.\nThe resort features a variety of family-oriented facilities, as well as grounds dedicated to \nadults’ and couples’ recreation (including parents), becoming a place where everyone has fun! \n503 rooms and suites, inspired by contemporary design and Rhodian interiors and spacious \nin layout, provide a relaxing environment for up to four guests, each with a private terrace, \nbalcony, garden or even a swim-up pool views.\nGuests can choose among 4 restaurants & 4 bars, offering local & international cuisine, as \nwell as signature cocktails and branded beverages. Its excellent facilities & services, provide \na playground retreat for all ages with a plethora of activities, culinary & cultural workshops, \nsports and entertainment, leaving parents plenty of time to relax.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g1188087-d278870-Reviews-Helea_Lifestyle_Beach_Resort-Koskinou_Kallithea_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street1": "Leof. Kallitheas 215",
+    "city": "Koskinou",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "85100",
+    "address_string": "Leof. Kallitheas 215, Koskinou, Kallithea 85100 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Koskinou",
+      "location_id": "1188087"
+    },
+    {
+      "level": "Municipality",
+      "name": "Kallithea",
+      "location_id": "1012852"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.195526",
+  "longitude": "27.97348",
+  "timezone": "Europe/Athens",
+  "phone": "011302241054400",
+  "write_review": "https://www.tripadvisor.com/UserReview-g1188087-d278870-Helea_Lifestyle_Beach_Resort-Koskinou_Kallithea_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "1188087",
+    "ranking_string": "#2 of 9 hotels in Koskinou",
+    "geo_location_name": "Koskinou",
+    "ranking_out_of": "9",
+    "ranking": "2"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "475",
+  "review_rating_count": {
+    "1": "61",
+    "2": "22",
+    "3": "43",
+    "4": "81",
+    "5": "268"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    }
+  },
+  "photo_count": "943",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g1188087-d278870-m66827-Reviews-Helea_Lifestyle_Beach_Resort-Koskinou_Kallithea_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Room service",
+    "Free parking",
+    "Restaurant",
+    "Business center",
+    "Fitness center",
+    "Suites",
+    "Kids Activities",
+    "Bar/Lounge",
+    "Internet",
+    "Beachfront",
+    "Free Internet",
+    "Wheelchair access",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Paid Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Aerobics",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Car Hire",
+    "Coffee Shop",
+    "Darts",
+    "Desk",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Game Room",
+    "German",
+    "Greek",
+    "Hair Dryer",
+    "Hammam",
+    "Head Massage",
+    "Indoor Play Area for Children",
+    "Ironing Service",
+    "Italian",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Nightclub / DJ",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "Shops",
+    "Snack Bar",
+    "Soundproof Rooms",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Beach Access",
+    "Clothes Rack",
+    "Dining Area",
+    "Executive Lounge Access",
+    "Pool View",
+    "Sofa",
+    "Sofa Bed",
+    "Sun Deck",
+    "Umbrella",
+    "Walk-in Shower",
+    "Wardrobe / Closet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Business",
+    "Great View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "26"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "110"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "2"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "256"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "42"
+    }
+  ],
+  "awards": []
+}

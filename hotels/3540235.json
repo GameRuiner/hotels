@@ -1,0 +1,193 @@
+{
+  "location_id": "3540235",
+  "name": "Generator Barcelona",
+  "description": "You’ll find Generator Barcelona conveniently located just a 5 minute walk from two main metro stations, Diagonal and Verdaguer. Travelling to and from the hostel to all the must see sights is a piece of cake. The beautiful sandy beaches are just a 15 minute metro journey away, and only a short walk away are the maze of small streets of the Eixample district, home to Barcelona’s trendy shops, bars and restaurants. Generator is the perfect place for those looking to combine style with great atmosphere. You’ll find great beds for sleepy heads, a communal TV room with outdoor patio to a chill out lounge/café that serves the best drinks and snacks for miles around. Choose from a great selection of rooms, from Dorms, to Quads, to Private en-suites with your own power socket and LED light for late night reading. Fast and free Wi-Fi is all yours too. To get the most out of your stay, visit the travel shop and our city experts will help you devise an itinerary that will take you to all the hidden treasures this dynamic city has to offer. Barcelona is the latest edition to the Generator family, We will see you there.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d3540235-Reviews-Generator_Barcelona-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Carrer De Corsega, 373",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08037",
+    "address_string": "Carrer De Corsega, 373, 08037 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.3992",
+  "longitude": "2.162859",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d3540235-Generator_Barcelona-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#100 of 1,202 Specialty lodging in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "1202",
+    "ranking": "100"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "2309",
+  "review_rating_count": {
+    "1": "122",
+    "2": "93",
+    "3": "224",
+    "4": "698",
+    "5": "1172"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "857",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d3540235-m66827-Reviews-Generator_Barcelona-Barcelona_Catalonia.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Bar/Lounge",
+    "Wifi",
+    "Free Wifi",
+    "Wheelchair access",
+    "Restaurant",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Non-smoking hotel",
+    "Breakfast Buffet",
+    "Baggage Storage",
+    "Bath / Shower",
+    "24-Hour Check-in",
+    "English",
+    "Evening Entertainment",
+    "24-Hour Front Desk",
+    "Nightclub / DJ",
+    "Snack Bar",
+    "Spanish",
+    "Family Rooms",
+    "Bicycle Rental",
+    "Billiards",
+    "Catalan",
+    "Coffee Shop",
+    "Desk",
+    "Dutch",
+    "French",
+    "Game Room",
+    "German",
+    "Italian",
+    "Portuguese",
+    "Paid Public Parking Nearby",
+    "Russian",
+    "24-Hour Security",
+    "Shared Lounge / TV Area",
+    "Shops",
+    "Special Diet Menus",
+    "Table Tennis",
+    "Vending Machine"
+  ],
+  "parent_brand": "Generator Hostels",
+  "brand": "Generator Hostels",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [
+    "Modern",
+    "Trendy"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230968",
+      "name": "Gracia"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "83"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "238"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "535"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "210"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "927"
+    }
+  ],
+  "awards": []
+}

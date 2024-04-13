@@ -1,0 +1,261 @@
+{
+  "location_id": "557049",
+  "name": "Lara Barut Collection",
+  "description": "Like every collection owner, Lara Barut Collection develops its unique assembly with happiness, a richness of choices and creative touches. Lara Barut Collection welcomes its guests with an original, stylish and brand new holiday concept.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g15300585-d557049-Reviews-Lara_Barut_Collection-Muratpasa_Antalya_Turkish_Mediterranean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Guzeloba Mahallesi Yasar Sobutay Bulvari, No: 30",
+    "street2": "",
+    "city": "Muratpasa",
+    "state": "Antalya Province",
+    "country": "Turkiye",
+    "postalcode": "07235",
+    "address_string": "Guzeloba Mahallesi Yasar Sobutay Bulvari, No: 30, Muratpasa, Antalya 07235 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Muratpasa",
+      "location_id": "15300585"
+    },
+    {
+      "level": "Municipality",
+      "name": "Antalya",
+      "location_id": "297962"
+    },
+    {
+      "level": "Province",
+      "name": "Antalya Province",
+      "location_id": "297960"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Mediterranean Coast",
+      "location_id": "658661"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "36.856026",
+  "longitude": "30.856567",
+  "timezone": "Europe/Istanbul",
+  "phone": "011904449600",
+  "write_review": "https://www.tripadvisor.com/UserReview-g15300585-d557049-Lara_Barut_Collection-Muratpasa_Antalya_Turkish_Mediterranean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "15300585",
+    "ranking_string": "#1 of 59 hotels in Muratpasa",
+    "geo_location_name": "Muratpasa",
+    "ranking_out_of": "59",
+    "ranking": "1"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "9531",
+  "review_rating_count": {
+    "1": "68",
+    "2": "61",
+    "3": "239",
+    "4": "821",
+    "5": "8342"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "13268",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g15300585-d557049-m66827-Reviews-Lara_Barut_Collection-Muratpasa_Antalya_Turkish_Mediterranean_Coast.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Room service",
+    "Free parking",
+    "Internet",
+    "Beachfront",
+    "Free Internet",
+    "Free Wifi",
+    "Business center",
+    "Beach Access",
+    "Suites",
+    "Tennis Court",
+    "Shuttle Bus Service",
+    "Kids Activities",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Water Park",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Butler Service",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Sauna",
+    "Additional Bathroom",
+    "Aerobics",
+    "Allergy-free Room",
+    "Arabic",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Car Hire",
+    "Convenience Store",
+    "Couples Massage",
+    "Currency Exchange",
+    "Darts",
+    "Doorperson",
+    "Dutch",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Complimentary Instant Cofffee",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Hammam",
+    "Head Massage",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Laptop Safe",
+    "Massage",
+    "Mini Golf",
+    "Nightclub / DJ",
+    "Pool / Beach Towels",
+    "Private Check-in / Check-out",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Special Diet Menus",
+    "Squash",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Turkish",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock"
+  ],
+  "parent_brand": "Barut Hotels Group",
+  "brand": "Barut Hotels",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Luxury",
+    "Great View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "138"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "2722"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "170"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "4498"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "690"
+    }
+  ],
+  "awards": []
+}

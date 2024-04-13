@@ -1,0 +1,224 @@
+{
+  "location_id": "660350",
+  "name": "Catalonia Avinyo",
+  "description": "Catalonia Avinyo hotel stands in a privileged location in the centre of Barcelona. Only a few metres from Ferran and Ample street and very close to Las Ramblas and Plaza Sant Jaume. This hotel is situated on Avinyo street plenty of tradition and character and with a wide variety of modern shops and boutiques and located in the real heart of the Gothic Quarter. Other places of interest near the hotel include the Cathedral and Liceu.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d660350-Reviews-Catalonia_Avinyo-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Carrer d'Avinyo, 16",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08002",
+    "address_string": "Carrer d'Avinyo, 16, 08002 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.381237",
+  "longitude": "2.176337",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d660350-Catalonia_Avinyo-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#187 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "187"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "1550",
+  "review_rating_count": {
+    "1": "47",
+    "2": "65",
+    "3": "194",
+    "4": "622",
+    "5": "622"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "418",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d660350-m66827-Reviews-Catalonia_Avinyo-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Room service",
+    "Free Internet",
+    "Free Wifi",
+    "Pool",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Minibar",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Baggage Storage",
+    "Catalan",
+    "24-Hour Check-in",
+    "English",
+    "French",
+    "24-Hour Front Desk",
+    "Bicycle Rental",
+    "Currency Exchange",
+    "Ironing Service",
+    "Newspaper",
+    "Pool with View",
+    "Solarium",
+    "Soundproof Rooms",
+    "Spanish",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Beach Access"
+  ],
+  "parent_brand": "Hoteles Catalonia",
+  "brand": "Catalonia",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Mid-range",
+    "Family"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230963",
+      "name": "Barrio Gotico (Barri Gotic)"
+    },
+    {
+      "location_id": "15565874",
+      "name": "Ciutat Vella (Old Town)"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "102"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "661"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "96"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "280"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "285"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

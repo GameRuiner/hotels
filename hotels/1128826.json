@@ -1,0 +1,206 @@
+{
+  "location_id": "1128826",
+  "name": "The Grand Hotel Sharm El Sheikh",
+  "description": "The Grand Hotel enjoys an unrivalled location, with its buildings nestled in stunning gardens set into the hillside, affording guests outstanding views across the Red Sea to Tiran Island. From the lobby bar with its commanding view, to the clifftop restaurant, and the beach terrace, the Grand Hotel provides a perfect location to relax and savour the atmosphere. An excellent diversity of cuisines - with many a la carte options - and several bars, ensure guests are spoilt for choice after a relaxing day soaking up the sun by any of the hotel's eight freeform pools.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d1128826-Reviews-The_Grand_Hotel_Sharm_El_Sheikh-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "El Fanar Street",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "postalcode": "",
+    "address_string": "El Fanar Street, Sharm El Sheikh Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.87199",
+  "longitude": "34.318657",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d1128826-The_Grand_Hotel_Sharm_El_Sheikh-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#136 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "136"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "5853",
+  "review_rating_count": {
+    "1": "248",
+    "2": "286",
+    "3": "593",
+    "4": "1564",
+    "5": "3162"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "6171",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d1128826-m66827-Reviews-The_Grand_Hotel_Sharm_El_Sheikh-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Restaurant",
+    "Bar/Lounge",
+    "Pool",
+    "Suites",
+    "Public Wifi",
+    "Laundry Service",
+    "Shuttle Bus Service",
+    "Room service",
+    "Free parking",
+    "Airport transportation",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Concierge",
+    "Banquet Room",
+    "Multilingual Staff",
+    "Conference Facilities",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Infinity Pool",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Free airport transportation",
+    "Housekeeping",
+    "Kids Club",
+    "Arabic",
+    "Currency Exchange",
+    "English",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Massage",
+    "Russian",
+    "Salon",
+    "Shops",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Telephone"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Family Resort",
+    "Park View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "26"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "2675"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "166"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1204"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "1016"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice Best of the Best",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png"
+      },
+      "categories": [
+        "AllInclusive"
+      ],
+      "display_name": "Travelers Choice Best of the Best"
+    }
+  ]
+}

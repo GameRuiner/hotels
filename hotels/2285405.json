@@ -1,0 +1,282 @@
+{
+  "location_id": "2285405",
+  "name": "The Makadi Spa Hotel",
+  "description": "An oasis of peace, relaxation and tranquility. The Makadi Spa*is the Red Sea’s largest custom-built Wellness resort. It focuses firmly on all aspects of wellness, with its accommodation,and dining tailored specifically to the needs of the most discerning of its adult-only clientele. *The Spa is as yet not in operation, awaiting construction completion within the next months to come.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297550-d2285405-Reviews-The_Makadi_Spa_Hotel-Makadi_Bay_Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Safaga Road",
+    "city": "Makadi Bay",
+    "country": "Egypt",
+    "postalcode": "1960540",
+    "address_string": "Safaga Road, Makadi Bay, Hurghada 1960540 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Makadi Bay",
+      "location_id": "297550"
+    },
+    {
+      "level": "Municipality",
+      "name": "Hurghada",
+      "location_id": "297549"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.000454",
+  "longitude": "33.9093",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297550-d2285405-The_Makadi_Spa_Hotel-Makadi_Bay_Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297550",
+    "ranking_string": "#2 of 37 hotels in Makadi Bay",
+    "geo_location_name": "Makadi Bay",
+    "ranking_out_of": "37",
+    "ranking": "2"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "4821",
+  "review_rating_count": {
+    "1": "32",
+    "2": "57",
+    "3": "201",
+    "4": "663",
+    "5": "3868"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "8267",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297550-d2285405-m66827-Reviews-The_Makadi_Spa_Hotel-Makadi_Bay_Hurghada_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Beachfront",
+    "Beach Access",
+    "Pool",
+    "Internet",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Public Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Infinity Pool",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Private Pools",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Adults Only",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "24-Hour Check-in",
+    "Clothes Rack",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Convenience Store",
+    "Currency Exchange",
+    "Diving",
+    "Doorperson",
+    "English",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Free Private Parking Nearby",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Ironing Service",
+    "Italian",
+    "Massage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Snorkeling",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Breakfast Available",
+    "Cable / Satellite TV",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Foot Massage",
+    "Complimentary Welcome Drink",
+    "Hand Massage",
+    "Happy Hour",
+    "Head Massage",
+    "Infirmary",
+    "Manicure",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Personal Trainer",
+    "Pool View",
+    "Private Bathrooms",
+    "Separate Living Room",
+    "Sofa",
+    "Sun Deck",
+    "Tile / Marble Floor",
+    "Umbrella",
+    "VIP Room Facilities",
+    "Walk-in Shower",
+    "Walking Tours",
+    "Wardrobe / Closet",
+    "Yoga Classes"
+  ],
+  "parent_brand": "Red Sea Hotels",
+  "brand": "Red Sea Hotels",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Romantic",
+    "Quiet"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "11"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "3126"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "166"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "541"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "566"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice Best of the Best",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png"
+      },
+      "categories": [
+        "Romance"
+      ],
+      "display_name": "Travelers Choice Best of the Best"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

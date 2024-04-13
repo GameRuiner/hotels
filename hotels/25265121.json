@@ -1,0 +1,194 @@
+{
+  "location_id": "25265121",
+  "name": "Concorde Palace Hotel",
+  "description": "Concorde Palace Hotel is a typical city Centre hotel, with all its facilities located in the hotel building. It offers guests a choice of 120 elegant guest rooms and suites spread on seven floors with modern up-to-date amenities. This Three Star Hotel caters the need in general, demanded by both business and leisure traveler. Guests at the hotel can choose from a variety of spacious rooms and suites.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d25265121-Reviews-Concorde_Palace_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Khalid Bin Waleed Street",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "44099",
+    "address_string": "Khalid Bin Waleed Street, Dubai 44099 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.256933",
+  "longitude": "55.299854",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d25265121-Concorde_Palace_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#422 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "422"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "26",
+  "review_rating_count": {
+    "1": "0",
+    "2": "0",
+    "3": "0",
+    "4": "0",
+    "5": "26"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "27",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d25265121-m66827-Reviews-Concorde_Palace_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Free Wifi",
+    "Air conditioning",
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Laundry Service",
+    "Concierge",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Conference Facilities",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Breakfast Available",
+    "Housekeeping",
+    "Air Purifier",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Bidet",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Cable / Satellite TV",
+    "Express Check-in / Check-out",
+    "Clothes Rack",
+    "Coffee Shop",
+    "Currency Exchange",
+    "Desk",
+    "Doorperson",
+    "Electric Kettle",
+    "English",
+    "Extra Long Beds",
+    "Facial Treatments",
+    "First Aid Kit",
+    "Foot Massage",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hand Massage",
+    "Head Massage",
+    "Hindi",
+    "Iron",
+    "Ironing Service",
+    "Makeup Services",
+    "Manicure",
+    "Massage",
+    "Massage Chair",
+    "Neck Massage",
+    "Nepali",
+    "Nightclub / DJ",
+    "Pedicure",
+    "Private Bathrooms",
+    "Paid Private Parking On-site",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Shops",
+    "Steam Room",
+    "Tamil",
+    "Telephone",
+    "Tile / Marble Floor",
+    "Urdu",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Waxing Services",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "13"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "0"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "2"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "7"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "4"
+    }
+  ],
+  "awards": []
+}

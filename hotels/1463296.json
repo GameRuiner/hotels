@@ -1,0 +1,198 @@
+{
+  "location_id": "1463296",
+  "name": "Falcon Naama Star Hotel",
+  "description": "Welcome to Falcon Naama Star, your Sharm El Sheikh “home away from home.” Falcon Naama Star aims to make your visit as relaxing and enjoyable as possible, which is why so many guests continue to come back year after year.\nFor those interested in checking out popular landmarks while visiting Sharm El Sheikh, Falcon Naama Star is located a short distance from Al Mustafa Mosque (1.6 mi) and Ghibli Raceway (1.8 mi).\nRooms at Falcon Naama Star provide air conditioning, and guests can stay connected with internet access.\nIn addition, while staying at Falcon Naama Star Hotel guests have access to room service. You can also enjoy a pool and free breakfast.\nDuring your visit, be sure to check out one of Sharm El Sheikh's popular ribs restaurants such as Fairuz and TGI Friday's, all a short distance from Falcon Naama Star.\nLooking to explore? Then look no further than The Heavenly Cathedral (1.2 mi), which is a popular Sharm El Sheikh attraction – and it is conveniently located within walking distance of the hotel.\nFalcon Naama Star puts the best of Sharm El Sheikh at your fingertips, making your stay both relaxing and enjoyable.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d1463296-Reviews-Falcon_Naama_Star_Hotel-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "King Abdallah Street",
+    "street2": "Naama Bay",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "postalcode": "46619",
+    "address_string": "King Abdallah Street Naama Bay, Sharm El Sheikh 46619 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.90944",
+  "longitude": "34.31902",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d1463296-Falcon_Naama_Star_Hotel-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#69 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "69"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "2438",
+  "review_rating_count": {
+    "1": "175",
+    "2": "113",
+    "3": "237",
+    "4": "566",
+    "5": "1347"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "1823",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d1463296-m66827-Reviews-Falcon_Naama_Star_Hotel-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Internet",
+    "Room service",
+    "Paid Internet",
+    "Pool",
+    "Kids Activities",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Breakfast included",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Safe",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Adult pool",
+    "Outdoor pool",
+    "Kids Club",
+    "Arabic",
+    "Car Hire",
+    "Darts",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "24-Hour Front Desk",
+    "German",
+    "Head Massage",
+    "Massage",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shops",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Centrally Located",
+    "Charming"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "18"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "672"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "273"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "514"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "740"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

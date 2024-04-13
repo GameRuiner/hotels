@@ -1,0 +1,328 @@
+{
+  "data": [
+    {
+      "id": 944741162,
+      "lang": "en",
+      "location_id": 306636,
+      "published_date": "2024-04-01T02:58:27Z",
+      "rating": 3,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d306636-r944741162-Reviews-Dubai_Marine_Beach_Resort_Spa-Dubai_Emirate_of_Dubai.html?m=66827#review944741162",
+      "text": "Many thanks to the team: from the room staff (Mae, Sue and Rajnesh), to the Taverna staff, to the front desk team and porters. Always going out of their way to make your stay enjoyable. Everyone always makes an effort and all take pride in their work and it shows!!",
+      "title": "Great team",
+      "trip_type": "Business",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "SharkAddison",
+        "user_location": {
+          "id": "312595",
+          "name": "Durban, KwaZulu-Natal"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/3d/default-avatar-2020-55.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 943581447,
+      "lang": "en",
+      "location_id": 306636,
+      "published_date": "2024-03-24T03:41:22Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d306636-r943581447-Reviews-Dubai_Marine_Beach_Resort_Spa-Dubai_Emirate_of_Dubai.html?m=66827#review943581447",
+      "text": "This was our second trip to this hotel, which was good and enjoyable like the previous experience, although the management of two of the restaurants was changed during this trip, which did not have the previous quality, but overall I was satisfied with the trip.",
+      "title": "Dubai Marine rate",
+      "trip_type": "NONE",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "arming278",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/d0/default-avatar-2020-33.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/d0/default-avatar-2020-33.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f4/d0/default-avatar-2020-33.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f4/d0/default-avatar-2020-33.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f4/d0/default-avatar-2020-33.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 943296035,
+      "lang": "en",
+      "location_id": 306636,
+      "published_date": "2024-03-21T14:49:08Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d306636-r943296035-Reviews-Dubai_Marine_Beach_Resort_Spa-Dubai_Emirate_of_Dubai.html?m=66827#review943296035",
+      "text": "It was fantastic vacation and very helpful staff specially Ahmed Ali from reception,he always helpful and attentive we will come back soon with our families and we recommended this hotel for all thanks again to management all was the best ❤️❤️❤️",
+      "title": "Fantastic vacation",
+      "trip_type": "Couples",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "914hanys",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/11/default-avatar-2020-23.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 944678777,
+        "title": "Owner response",
+        "text": "Dear Valued Guest , \nThank you for taking time to share your feedback. It is with great pleasure to hear that you had a wonderful experience with us during your recent stay. We will share this with the rest of the team because words of appreciation never fail to inspire us to be consistent in providing excellent service. We look forward to welcome you back soon. \nSincerely,\n Arthur Dimaculangan \nAssistant Front Office Manager",
+        "lang": "en",
+        "author": "Rahul Sharma",
+        "published_date": "2024-03-31T13:53:23Z"
+      }
+    },
+    {
+      "id": 942994183,
+      "lang": "en",
+      "location_id": 306636,
+      "published_date": "2024-03-20T06:37:53Z",
+      "rating": 3,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d306636-r942994183-Reviews-Dubai_Marine_Beach_Resort_Spa-Dubai_Emirate_of_Dubai.html?m=66827#review942994183",
+      "text": "The hotel was a decent price, and with its own private beach seemed like a real find. It was very quiet, which was nice to find in Dubai. The hotel itself was a little tired, but clean. the spa had been closed, but we were not informed ahead of our stay. There was sufficient staff, and they were always friendly. However, a lack of training and poor management just meant we had so many challenges with any requests, even basic asks like getting the shampoo filled in the room, getting drinks that were on the menu, but told they weren't available (they were available in one of the other bars in the hotel). Dubai tends to have a good level of service. If you don't have high expectations this hotel will serve a basic level of good clean rooms at a decent price.",
+      "title": "Should be a great gem, but poor management and lack of staff training make this hotel average at best",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "emmacC7968RY",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/a3/default-avatar-2020-38.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 942977851,
+      "lang": "en",
+      "location_id": 306636,
+      "published_date": "2024-03-20T03:19:12Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d306636-r942977851-Reviews-Dubai_Marine_Beach_Resort_Spa-Dubai_Emirate_of_Dubai.html?m=66827#review942977851",
+      "text": "Must be one of Dubai 's true gems 💎. We will definitely recommend our family and friends. The staff were very helpful and friendly. The location is perfect and the outdoor pool were well maintained and great to just relax or to have a few laps. The views and beach were amazing. We tried out most of the restaurants and the quality of service were of a very high standard. Cocktails were amazing.Thanks for an amazing stay ❤️. See you soon 😊 ",
+      "title": "Best vacation 👌❤️.",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "cfebru155545",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/a7/default-avatar-2020-44.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944678686,
+        "title": "Owner response",
+        "text": "Dear Valued Guest , \nThank you for taking time to share your feedback. It is with great pleasure to hear that you had a wonderful experience with us during your recent stay. We will share this with the rest of the team because words of appreciation never fail to inspire us to be consistent in providing excellent service. We look forward to welcome you back soon. \nSincerely,\n Arthur Dimaculangan\n Assistant Front Office Manager",
+        "lang": "en",
+        "author": "Rahul Sharma",
+        "published_date": "2024-03-31T13:52:46Z"
+      }
+    }
+  ]
+}

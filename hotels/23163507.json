@@ -1,0 +1,213 @@
+{
+  "location_id": "23163507",
+  "name": "Parrotel Lagoon Waterpark Resort.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g303855-d23163507-Reviews-Parrotel_Lagoon_Waterpark_Resort-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sin.html?m=66827",
+  "address_obj": {
+    "street1": "EL Sheikh Zayed Street",
+    "city": "Nabq Bay",
+    "country": "Egypt",
+    "postalcode": "8752601",
+    "address_string": "EL Sheikh Zayed Street, Nabq Bay, Sharm El Sheikh 8752601 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Nabq Bay",
+      "location_id": "303855"
+    },
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "28.024504",
+  "longitude": "34.428448",
+  "timezone": "Africa/Cairo",
+  "phone": "01120693710315",
+  "write_review": "https://www.tripadvisor.com/UserReview-g303855-d23163507-Parrotel_Lagoon_Waterpark_Resort-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "303855",
+    "ranking_string": "#25 of 41 hotels in Nabq Bay",
+    "geo_location_name": "Nabq Bay",
+    "ranking_out_of": "41",
+    "ranking": "25"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "548",
+  "review_rating_count": {
+    "1": "57",
+    "2": "20",
+    "3": "27",
+    "4": "51",
+    "5": "393"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    }
+  },
+  "photo_count": "816",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g303855-d23163507-m66827-Reviews-Parrotel_Lagoon_Waterpark_Resort-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sin.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Minibar",
+    "Safe",
+    "Water Park",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Private Beaches",
+    "Housekeeping",
+    "Kids Club",
+    "Arabic",
+    "Bath / Shower",
+    "Bottled Water",
+    "Coffee / Tea Maker",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "German",
+    "Russian",
+    "Seating Area",
+    "Sun Umbrellas",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Conference Facilities",
+    "Heated pool",
+    "Kids pool",
+    "Adult pool",
+    "24-Hour Check-in",
+    "Children's Playground",
+    "Couples Massage",
+    "Dining Area",
+    "Dutch",
+    "Electric Kettle",
+    "English",
+    "Executive Lounge Access",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Hair Dryer",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Pool View",
+    "Private Bathrooms",
+    "Snack Bar",
+    "Wardrobe / Closet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Budget",
+    "Luxury"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "7"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "56"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "21"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "290"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "109"
+    }
+  ],
+  "awards": []
+}

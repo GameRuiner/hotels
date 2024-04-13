@@ -1,0 +1,234 @@
+{
+  "location_id": "23209473",
+  "name": "Revier Dubai",
+  "description": "Experience Swiss hospitality at the newly opened Revier Hotel - Dubai. Located in Business Bay with close proximity to the iconic Burj Khalifa and Dubai Mall, the 4-star lifestyle hotel offers a city retreat like no other and a meeting point for the modern and tireless explorers. The 230 rooms & suites are edgy, cosy and functionally designed with everything the modern nomads need - flexibility, Instagram-able spots and fast Wi-Fi. If you are on a business trip or just need to catch up on work, our meeting rooms and workstations are available 24/7. The gorgeous 30-meter long outdoor swimming pool offers the perfect setting for some fun in the sun. Sip on your favourite cocktail and savor the delicious snacks from the bar, while simply enjoying life. If you still have some energy to spare, the fitness center will keep you active and in shape during your stay. Our international menu and Swiss signature dishes will tickle your fancy and tantalise your tastebuds. Whether you choose to spend some time at the Bar, the Lounge or the Restaurant, Revier always promises an unforgettable experience. Allow yourself to indulge in the little pleasures, reminiscent of days past and present in a truly edgy and contemporary environment. Along with a high-quality service and a welcoming spirit, our mission is to make you love your travels again.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d23209473-Reviews-Revier_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Asayel Street",
+    "street2": "Business Bay",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "214340",
+    "address_string": "Al Asayel Street Business Bay, Dubai 214340 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.179333",
+  "longitude": "55.27143",
+  "timezone": "Asia/Dubai",
+  "phone": "01197145747555",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d23209473-Revier_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#303 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "303"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "230",
+  "review_rating_count": {
+    "1": "12",
+    "2": "5",
+    "3": "6",
+    "4": "26",
+    "5": "181"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "301",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d23209473-m66827-Reviews-Revier_Dubai-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Free Wifi",
+    "Business center",
+    "Fitness center",
+    "Concierge",
+    "Air conditioning",
+    "Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Smoking rooms available",
+    "Safe",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Arabic",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Coffee / Tea Maker",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Hair Dryer",
+    "Interconnected room(s) available",
+    "Family Rooms",
+    "Minibar",
+    "Babysitting",
+    "Flatscreen TV",
+    "Cable / Satellite TV",
+    "Express Check-in / Check-out",
+    "Clothes Rack",
+    "Currency Exchange",
+    "Dining Area",
+    "German",
+    "Happy Hour",
+    "Hindi",
+    "Ironing Service",
+    "Outdoor Dining Area",
+    "Parking Garage",
+    "Pool / Beach Towels",
+    "Private Bathrooms",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Sofa",
+    "Special Diet Menus",
+    "Telephone",
+    "Umbrella",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Wine / Champagne"
+  ],
+  "parent_brand": "Archipelago International",
+  "brand": "Powered By Archipelago",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Mid-range",
+    "Charming"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7282435",
+      "name": "Al Quoz"
+    },
+    {
+      "location_id": "15620579",
+      "name": "Al Quoz Industrial Area"
+    },
+    {
+      "location_id": "15620583",
+      "name": "Al Quoz Industrial Area 4"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "45"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "48"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "26"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "45"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "34"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

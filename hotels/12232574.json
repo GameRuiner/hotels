@@ -1,0 +1,175 @@
+{
+  "location_id": "12232574",
+  "name": "Madi Hotel Izmir",
+  "description": "Everyone needs a place to lay their weary head. For travelers visiting Izmir, Madi Hotel Izmir is an excellent choice for rest and rejuvenation. Well-known for its proximity to great restaurants and attractions, Madi Hotel Izmir makes it easy to enjoy the best of Izmir.\nThe rooms offer air conditioning, allowing you to rest and refresh with ease.\nMadi Hotel Izmir features a 24 hour front desk, room service, and a concierge. Guests arriving by vehicle have access to secured parking.\nWhile staying at Madi Hotel Izmir, visitors can check out Saint Polycarp Church (0.4 mi) and Synagogue Street (Havra Sokagi) (0.4 mi), some of Izmir's top attractions.\nWhile visiting Izmir, you may want to try some souvlaki at one of the nearby restaurants, such as Antepli Ramazan Usta.\nPlus, during your trip, don't forget to check out a military museum, such as Izmir Muze Gemiler Mudurlugu.\nWhether you’re traveling for business, pleasure or both, Madi Hotel Izmir is sure to make your visit to Izmir one worth remembering.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d12232574-Reviews-Madi_Hotel_Izmir-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Ismet Kaptan, 1367. Sk. No:6",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35320",
+    "address_string": "Ismet Kaptan, 1367. Sk. No:6, Izmir 35320 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.422977",
+  "longitude": "27.141512",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d12232574-Madi_Hotel_Izmir-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#67 of 218 hotels in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "218",
+    "ranking": "67"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "32",
+  "review_rating_count": {
+    "1": "5",
+    "2": "0",
+    "3": "4",
+    "4": "10",
+    "5": "13"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "32",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d12232574-m66827-Reviews-Madi_Hotel_Izmir-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Bath / Shower",
+    "Kids Activities",
+    "Room service",
+    "Restaurant",
+    "Airport transportation",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Business center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Non-smoking hotel",
+    "Safe",
+    "Housekeeping",
+    "Arabic",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Express Check-in / Check-out",
+    "Currency Exchange",
+    "English",
+    "Farsi",
+    "French",
+    "24-Hour Front Desk",
+    "Hebrew",
+    "Ironing Service",
+    "Newspaper",
+    "Private Check-in / Check-out",
+    "Secured Parking",
+    "Shared Lounge / TV Area",
+    "Shoeshine",
+    "Soundproof Rooms",
+    "Turkish"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Budget",
+    "Business"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "5"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "8"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "3"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "9"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "3"
+    }
+  ],
+  "awards": []
+}

@@ -1,0 +1,262 @@
+{
+  "location_id": "506721",
+  "name": "Atlantica Aegean Blue Resort",
+  "description": "The location of this hotel offers the most amazing views of the sapphire Mediterranean seas. The perfect place for families and children of all ages. So much to do, no one will ever be bored. If you're travelling with little ones, they'll have a ball splashing around in the children's pool and letting off steam in the playground. Direct access to the beach, club- style facilities and organized activities make the Atlantica Agean Blue the ideal holiday for everyone! Number of rooms :396",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g635615-d506721-Reviews-Atlantica_Aegean_Blue_Resort-Kolimbia_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street1": "Parision street, Kolymbia",
+    "street2": "",
+    "city": "Kolimbia",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "85103",
+    "address_string": "Parision street, Kolymbia, Kolimbia 85103 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Kolimbia",
+      "location_id": "635615"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.243916",
+  "longitude": "28.159979",
+  "timezone": "Europe/Athens",
+  "write_review": "https://www.tripadvisor.com/UserReview-g635615-d506721-Atlantica_Aegean_Blue_Resort-Kolimbia_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "635615",
+    "ranking_string": "#9 of 33 hotels in Kolimbia",
+    "geo_location_name": "Kolimbia",
+    "ranking_out_of": "33",
+    "ranking": "9"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "3040",
+  "review_rating_count": {
+    "1": "23",
+    "2": "53",
+    "3": "239",
+    "4": "695",
+    "5": "2030"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "4157",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g635615-d506721-m66827-Reviews-Atlantica_Aegean_Blue_Resort-Kolimbia_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Family Rooms",
+    "Minibar",
+    "Pool",
+    "Internet",
+    "Beachfront",
+    "Free Internet",
+    "Free parking",
+    "Restaurant",
+    "Wifi",
+    "Free Wifi",
+    "Fitness center",
+    "Kids Activities",
+    "Bar/Lounge",
+    "Dry Cleaning",
+    "Laundry Service",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Safe",
+    "Swimup Bar",
+    "Flatscreen TV",
+    "Lazy River",
+    "Water Park",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Infinity Pool",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Housekeeping",
+    "Kids Club",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Billiards",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Coffee / Tea Maker",
+    "Darts",
+    "Desk",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "French",
+    "24-Hour Front Desk",
+    "Game Room",
+    "German",
+    "Greek",
+    "Hair Dryer",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Italian",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Parking Garage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Shops",
+    "Snack Bar",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Kids pool",
+    "Children's Playground",
+    "Couples Massage",
+    "Foot Massage",
+    "Full Body Massage",
+    "Hand Massage",
+    "Highchairs Available",
+    "Laptop Safe",
+    "Mountain View",
+    "Neck Massage",
+    "Outdoor Dining Area",
+    "Pool View",
+    "Private Bathrooms",
+    "Shallow End",
+    "Sofa",
+    "Strollers",
+    "Wardrobe / Closet",
+    "Waterslide",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Family",
+    "Green"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "4"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "396"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "6"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "2175"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "92"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "location_id": "1109941",
+  "name": "The Radisson Blu Residence, Dubai Marina",
+  "description": "Situated along the gorgeous waters of the Persian Gulf, our hotel overlooks the beautiful coastline and spectacular architectural masterpieces of Dubai. Visitors can enjoy the beach year round thanks to constant warm temperatures and impressive malls make the city a retail oasis in the Arabian Desert.\n\nOur rooms and long-lease apartments feature a minimalist design by Matteo Nunziati along with essential conveniences like a kitchen. Dubai has an amazing transportation system and the Radisson Blu offers ample parking to simplify your visit. The well-equipped Al Marsa conference room makes the perfect venue for gatherings of up to 40 attendees. Our meeting specialist is happy to assist with catering and logistics.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1109941-Reviews-The_Radisson_Blu_Residence_Dubai_Marina-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Plot No. 392-260, Street K",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "73029",
+    "address_string": "Plot No. 392-260, Street K, Dubai 73029 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.18436",
+  "longitude": "55.225567",
+  "timezone": "Asia/Dubai",
+  "phone": "01197144355000",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1109941-The_Radisson_Blu_Residence_Dubai_Marina-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#250 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "250"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1340",
+  "review_rating_count": {
+    "1": "36",
+    "2": "35",
+    "3": "113",
+    "4": "324",
+    "5": "832"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "585",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1109941-m66827-Reviews-The_Radisson_Blu_Residence_Dubai_Marina-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Fitness center",
+    "Free parking",
+    "Internet",
+    "Free Internet",
+    "Wheelchair access",
+    "Kitchenette",
+    "Wifi",
+    "Free Wifi",
+    "Meeting rooms",
+    "Concierge",
+    "Pool",
+    "Restaurant",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Suites",
+    "Airport transportation",
+    "Business center",
+    "Air conditioning",
+    "Microwave",
+    "Refrigerator in room",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Additional Bathroom",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Coffee / Tea Maker",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Iron",
+    "Ironing Service",
+    "Kids' Outdoor Play Equipment",
+    "Kitchenware",
+    "Parking Garage",
+    "Pool / Beach Towels",
+    "Seating Area",
+    "24-Hour Security",
+    "Shoeshine",
+    "Soundproof Rooms",
+    "Sun Terrace",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Washing Machine",
+    "Family Rooms",
+    "Conference Facilities",
+    "Kids pool",
+    "Electric vehicle charging station",
+    "Bathrobes",
+    "Clothes Rack",
+    "Dining Area",
+    "Electric Kettle",
+    "First Aid Kit",
+    "German",
+    "Landmark View",
+    "Nepali",
+    "Oven",
+    "Pool View",
+    "Private Bathrooms",
+    "Russian",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Sofa",
+    "Tile / Marble Floor",
+    "Urdu",
+    "Wardrobe / Closet"
+  ],
+  "parent_brand": "Carlson Rezidor",
+  "brand": "Radisson",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Mid-range",
+    "Marina View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7282432",
+      "name": "The Marina"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "441"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "188"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "103"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "356"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "112"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

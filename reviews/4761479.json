@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": 804764518,
+      "lang": "en",
+      "location_id": 4761479,
+      "published_date": "2021-08-18T16:47:30Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d4761479-r804764518-Reviews-The_White_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review804764518",
+      "text": "- staff is very friendly and helpful\n- location is in the center\n- atmosphere is very energetic\n- breakfast was fixed menu, but very delightful with variety\n- room had terrace where you can enjoy night time\n- not comfortable for people who doesn’t like noisy places, night club is just next to hotel",
+      "title": "Friendly place with great location",
+      "trip_type": "NONE",
+      "travel_date": "2021-08-31",
+      "user": {
+        "username": "d_kanan",
+        "user_location": {
+          "id": "293934",
+          "name": "Baku, Absheron Region"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/0c/c1/96/d5/kanan-d.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/0c/c1/96/d5/kanan-d.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/0c/c1/96/d5/kanan-d.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/0c/c1/96/d5/kanan-d.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/0c/c1/96/d5/kanan-d.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    }
+  ]
+}

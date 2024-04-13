@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 941839100,
+      "lang": "en",
+      "location_id": 227464,
+      "published_date": "2024-03-11T20:24:10Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d227464-r941839100-Reviews-Hotel_Regina_Barcelona-Barcelona_Catalonia.html?m=66827#review941839100",
+      "text": "Great stay at hotel Regina. We had a family room and it was a decent size. Robes and slippers were a nice touch. Hotel centrally located with easy walking to a lot of sights. We especially enjoyed lovely breakfast buffet. We would love to recommend hotel Regina Barcelona as a nice option for families to stay while visiting the city.",
+      "title": "Lovely stay",
+      "trip_type": "Family",
+      "travel_date": "2024-01-31",
+      "user": {
+        "username": "165natallias",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ee/db/default-avatar-2020-10.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "location_id": "618752",
+  "name": "Jaz Mirabel Resort",
+  "description": "Party all night and relax all day as you take in the stunning vistas of the lovely Nabq Bay, just 10 minutes away from Sharm El-Sheikh International Airport. It’s a family affair at the five star \"Jaz Mirabel Beach\", where you and your brood will be treated like superstars, with the warm Egyptian-style hospitality that defines this alluring sweet escape. A medley of cultures comes alive here: contemporary, Tuscan architecture; divine meals and sweet flavours from across the Middle East at \"Sofra\"; the international beats at Jaz’s trendy nightspot, Glow. With much more to explore, from shopping souks to exquisite eateries, your fun-filled stay is a sophisticated soiree.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g303855-d618752-Reviews-Jaz_Mirabel_Resort-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "city": "Nabq Bay",
+    "country": "Egypt",
+    "postalcode": "377",
+    "address_string": "Nabq Bay, Sharm El Sheikh 377 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Nabq Bay",
+      "location_id": "303855"
+    },
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "28.05803",
+  "longitude": "34.43517",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g303855-d618752-Jaz_Mirabel_Resort-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "303855",
+    "ranking_string": "#10 of 41 hotels in Nabq Bay",
+    "geo_location_name": "Nabq Bay",
+    "ranking_out_of": "41",
+    "ranking": "10"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "9944",
+  "review_rating_count": {
+    "1": "213",
+    "2": "311",
+    "3": "675",
+    "4": "1680",
+    "5": "7065"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "9578",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g303855-d618752-m66827-Reviews-Jaz_Mirabel_Resort-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Room service",
+    "Restaurant",
+    "Fitness center",
+    "Bar/Lounge",
+    "Suites",
+    "Kids Activities",
+    "Internet",
+    "Beachfront",
+    "Shuttle Bus Service",
+    "Spa",
+    "Beach Access",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Airport transportation",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Business center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Sauna",
+    "Aerobics",
+    "Arabic",
+    "Blackout Curtains",
+    "Car Hire",
+    "Currency Exchange",
+    "Darts",
+    "Diving",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "24-Hour Front Desk",
+    "Gift Shop",
+    "Hammam",
+    "Head Massage",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Nightclub / DJ",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shops",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service"
+  ],
+  "parent_brand": "Jaz Hotel Group",
+  "brand": "Jaz Hotel Group",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Bay View",
+    "Modern"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "83"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "3870"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "190"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "3540"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "1345"
+    }
+  ],
+  "awards": []
+}

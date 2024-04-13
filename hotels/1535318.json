@@ -1,0 +1,212 @@
+{
+  "location_id": "1535318",
+  "name": "Pickalbatros Jungle Aqua Park Resort - Neverland",
+  "description": "Jungle Aqua Park offers the largest water theme park in Hurghada. It is an amazing resort of endless choices at Red Sea coast. Being an Aqua Park, it is popular for its water slides, varied swimming pools, besides a multiple range of sports and social activities for people of all ages. You will find something for everyone at the Jungle Aqua Park, whether you are planning an active holiday or a family vacation combined with a most exquisite theme of water sports and leisure.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297549-d1535318-Reviews-Pickalbatros_Jungle_Aqua_Park_Resort_Neverland-Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Ismailia District",
+    "street2": "",
+    "city": "Hurghada",
+    "country": "Egypt",
+    "postalcode": "1961510",
+    "address_string": "Ismailia District, Hurghada 1961510 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Hurghada",
+      "location_id": "297549"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.0904",
+  "longitude": "33.824394",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297549-d1535318-Pickalbatros_Jungle_Aqua_Park_Resort_Neverland-Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297549",
+    "ranking_string": "#77 of 325 hotels in Hurghada",
+    "geo_location_name": "Hurghada",
+    "ranking_out_of": "325",
+    "ranking": "77"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "5904",
+  "review_rating_count": {
+    "1": "126",
+    "2": "127",
+    "3": "344",
+    "4": "1104",
+    "5": "4203"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "6765",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297549-d1535318-m66827-Reviews-Pickalbatros_Jungle_Aqua_Park_Resort_Neverland-Hurghada_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Shuttle Bus Service",
+    "Free parking",
+    "Bar/Lounge",
+    "Spa",
+    "Kids Activities",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Airport transportation",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Babysitting",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Lazy River",
+    "Water Park",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Arabic",
+    "Baggage Storage",
+    "Convenience Store",
+    "Currency Exchange",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness / Spa Locker Rooms",
+    "24-Hour Front Desk",
+    "Game Room",
+    "German",
+    "Gift Shop",
+    "Hammam",
+    "Head Massage",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Nightclub / DJ",
+    "Russian",
+    "Salon",
+    "Shops",
+    "Special Diet Menus",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Public Wifi"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Park View",
+    "Quaint"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "8"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "877"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "48"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "3855"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "429"
+    }
+  ],
+  "awards": []
+}

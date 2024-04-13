@@ -1,0 +1,251 @@
+{
+  "data": [
+    {
+      "id": 945813843,
+      "lang": "en",
+      "location_id": 21275006,
+      "published_date": "2024-04-08T06:36:27Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d21275006-r945813843-Reviews-Al_Jaddaf_Rotana_Suite_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945813843",
+      "text": "I would like to commend Ganshaym and Sabina for their diligent and meticulous cleaning of our room, which they do with such loving care. They consistently go above and beyond their responsibilities, a testament to the leadership of Mr Bhanu who oversees his staff like a family.",
+      "title": "Simply exemplary !",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "223sherylp",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/3d/default-avatar-2020-55.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 945579501,
+      "lang": "en",
+      "location_id": 21275006,
+      "published_date": "2024-04-06T11:22:23Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d21275006-r945579501-Reviews-Al_Jaddaf_Rotana_Suite_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945579501",
+      "text": "Very friendly staff the atmosphere is very good love the hotel! The life guard zulqarnain is very helpful and makes sure the guest is happy! The pool area is very lively with good Arabian music and the Iftar vibe seeing the culture of Ramadan celebrated in Rotana so well!",
+      "title": "Amazing stay",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "V3535KGhassanm",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ef/73/default-avatar-2020-13.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945819556,
+        "title": "Owner response",
+        "text": "Dear Hassan M,\n\nThank you very much for your review on [INSERT SOURCE NAME].\n\nI am glad to read your wonderful comments regarding your experience. Your feedback and ratings are important to us as these will assist us to ensure we exceed our guests' expectations.\n\nThank you for your kind feedback and we look forward to welcoming you back at Al Jaddaf Rotana Suite Hotel.\n\nBest regards,\n\nStefan Schmid\nComplex General Manager",
+        "lang": "en",
+        "author": "Marketing Al Jaddaf Rotana",
+        "published_date": "2024-04-08T07:29:51Z"
+      }
+    },
+    {
+      "id": 945421880,
+      "lang": "en",
+      "location_id": 21275006,
+      "published_date": "2024-04-05T05:04:54Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d21275006-r945421880-Reviews-Al_Jaddaf_Rotana_Suite_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945421880",
+      "text": "It was clean, stylish, roomy with excellent service in where we had breakfast. Food was very delicious and service was attentive and efficient. I would like to mention some staff name who was really amazing personality,friendly and helpful mr navin,kasuni,Karim, and akram thank you so much guys to making my stay comfortable and rememberable🤗🥰",
+      "title": "Grate service 🙏",
+      "trip_type": "Couples",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "srek2022",
+        "user_location": {
+          "id": "295424",
+          "name": "Dubai, Emirate of Dubai"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/de/5a/default-avatar-2020-36.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/de/5a/default-avatar-2020-36.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/de/5a/default-avatar-2020-36.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/de/5a/default-avatar-2020-36.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/de/5a/default-avatar-2020-36.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945531385,
+        "title": "Owner response",
+        "text": "Dear sre k,\n\nThank you for your positive review on TripAdvisor\n\nIt gives me much pleasure to read your comments. I must say, I am very proud to have such a team like ours as we work together in creating amazing experiences and everlasting memories for our guests.\n\nI am certain that the whole team looks forward to having the opportunity to welcome you back here at Al Jaddaf Rotana Suite Hotel.\n\nBest regards,\n\nStefan Schmid\nComplex General Manager\n",
+        "lang": "en",
+        "author": "Marketing Al Jaddaf Rotana",
+        "published_date": "2024-04-06T03:15:54Z"
+      }
+    },
+    {
+      "id": 945333451,
+      "lang": "en",
+      "location_id": 21275006,
+      "published_date": "2024-04-04T10:11:23Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d21275006-r945333451-Reviews-Al_Jaddaf_Rotana_Suite_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945333451",
+      "text": "Al jaddaf Rotana hotel is home away from home. Always looking forward to staying in this hotel anytime I am in dubai. The services are exceptional. \nOnce you enter the reception,  you are welcomed with warm greetings and lovely smiles. Check-in is swift. The ambience is awesomely beautiful and inviting.  The rooms are spacious, beautifully decorated and sparkling clean always. Housekeeping is on point and the whole property is well maintained.\nAll the staffs are so dedicated and always willing to make you comfortable to have an enjoyable stay. \nI will definitely go back to Al jaddaf anytime I am in dubai.",
+      "title": "Great Hotel",
+      "trip_type": "Family",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "tolulopea235",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ee/db/default-avatar-2020-10.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945531485,
+        "title": "Owner response",
+        "text": "Dear Tolulope A, \n\nThank you for sharing your feedback on TripAdvisor\n\nI truly appreciate your feedback and I am happy to read that our colleagues, products and services have exceeded your expectations.\n\nWe look forward to welcoming you back. \n\nBest regards,\n\nStefan Schmid\nComplex General Manager\n",
+        "lang": "en",
+        "author": "Marketing Al Jaddaf Rotana",
+        "published_date": "2024-04-06T03:17:11Z"
+      }
+    },
+    {
+      "id": 944833881,
+      "lang": "en",
+      "location_id": 21275006,
+      "published_date": "2024-04-01T14:26:30Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d21275006-r944833881-Reviews-Al_Jaddaf_Rotana_Suite_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review944833881",
+      "text": "Great food and drinks with friends. The customer service is also excellent. The staffs are nice and they were very accommodating during their service. The hotel and resto bar also feel luxurious and looks like a good place to book a room or have a quick staycation.",
+      "title": "Customer service is excellent",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "F363FPalaina",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/a3/default-avatar-2020-38.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945287241,
+        "title": "Owner response",
+        "text": "Dear Alain A, \n\nThank you for sharing your feedback on TripAdvisor.com\n\nwe strive to offer the best experiences for our guests and I am happy to learn that our efforts had reflected on your recent visit. I will ensure that your positive feedback is passed on to the team. \n\nWe look forward to hosting you again.\n\nBest regards,\n\nStefan Schmid\nComplex General Manager",
+        "lang": "en",
+        "author": "Stefan  Schmid ",
+        "published_date": "2024-04-04T01:55:20Z"
+      }
+    }
+  ]
+}

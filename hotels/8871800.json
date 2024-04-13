@@ -1,0 +1,211 @@
+{
+  "location_id": "8871800",
+  "name": "Ramada by Wyndham Dubai Barsha Heights",
+  "description": "Ramada by Wyndham Dubai Barsha Heights Hotel is a charming and intimate establishment that provides guests with a comprehensive experience. Boasting 145 well-appointed rooms and suites, two fully equipped meeting rooms, a business center, two restaurants, a coffee shop, shisha terraces, and an outdoor terrace, this hotel has everything you need for a comfortable stay. Their all-day dining restaurant, Didon, offers international and Arabic cuisine options for à la carte and buffet dining. For those who enjoy Japanese fare, UCCI restaurant is an excellent choice. Guests can also enjoy 24-hour room service. The hotel also offers modern gym facilities, an outdoor terrace, and a swimming pool for guests to relax and unwind. Additionally, free parking and WiFi are provided for guests' convenience.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d8871800-Reviews-Ramada_by_Wyndham_Dubai_Barsha_Heights-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "56 Al Fosool Street",
+    "street2": "Bashra Heights",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "500679",
+    "address_string": "56 Al Fosool Street Bashra Heights, Dubai 500679 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.09448",
+  "longitude": "55.176964",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d8871800-Ramada_by_Wyndham_Dubai_Barsha_Heights-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#221 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "221"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "669",
+  "review_rating_count": {
+    "1": "30",
+    "2": "16",
+    "3": "39",
+    "4": "140",
+    "5": "444"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "456",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d8871800-m66827-Reviews-Ramada_by_Wyndham_Dubai_Barsha_Heights-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Babysitting",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Arabic",
+    "Baggage Storage",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Ironing Service",
+    "Taxi Service"
+  ],
+  "parent_brand": "Wyndham Hotel Group",
+  "brand": "Ramada",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Modern",
+    "Trendy"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620543",
+      "name": "Al Barsha"
+    },
+    {
+      "location_id": "15620547",
+      "name": "Al Barsha Heights (Tecom)"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "84"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "166"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "76"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "138"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "143"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "data": [
+    {
+      "id": 945800138,
+      "lang": "en",
+      "location_id": 1879023,
+      "published_date": "2024-04-08T04:36:54Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d1879023-r945800138-Reviews-TIME_Grand_Plaza_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945800138",
+      "text": "All the staff very kind and always very helpful with everything! The bell man Sunin and Sachin so kind and easy to help with luggage on check in and checkout. Clean room, good smell and great\nAtmosphere. Very happy with all their service, it was my second time stayed and I am looking forward to be back as soon I need stay around the Dubai airport .",
+      "title": "Helpful staff",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "luanadR4478ZK",
+        "user_location": {
+          "id": "294013",
+          "name": "Abu Dhabi, Emirate of Abu Dhabi"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/48/default-avatar-2020-15.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945825706,
+        "title": "Owner response",
+        "text": "Dear Luana d,\n\nIt is always encouraging to receive positive feedback from our guests as this goes a long way in motivating our team in our aim to provide the highest quality service and facilities.\n\nThank you for your review and we look forward to welcoming you back to TIME Grand Plaza Hotel for another relaxing vacation in Dubai.\n\nKind Regards,\nSoha Metwally\nGeneral Manager, TIME Grand Plaza Hotel",
+        "lang": "en",
+        "author": "TIME Grand Plaza Hotel",
+        "published_date": "2024-04-08T08:23:55Z"
+      }
+    },
+    {
+      "id": 945606179,
+      "lang": "en",
+      "location_id": 1879023,
+      "published_date": "2024-04-06T15:18:36Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d1879023-r945606179-Reviews-TIME_Grand_Plaza_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945606179",
+      "text": "What a relaxing stay we had at TIME Grand plaza hotel. My family enjoyed a lot specially at pool we love splashing. Perfect place for family bonding. Our room is huge and bery spacious. Love the balcony. We ate at their restaurant and the food is superb. Thanks Yunus for always assisting us. We really enjoyed our staycation.\nWe are staying at Time grand plaza hotel very nice hospitality. Huge room and spacious we are enjoyed with family. We ate at their restaurant the food was yummy and thanks Yunus for assisting us. We are really enjoyed our staycation.",
+      "title": "What a relaxing stay we had at TIME Grand plaza hotel. My family enjoyed a lot specially at pool we love splashing. Perf",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "931hashimj",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/a7/default-avatar-2020-44.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945825863,
+        "title": "Owner response",
+        "text": "Dear 931hashimj,\n\nThank you so much for taking the time and writing reviews about your experience at our hotel during your recent stay. We are very glad to read that you enjoyed your stay. It is always very rewarding to receive such compliments as the team's endeavor is to ensure that every guest leaves with great satisfaction.\n\nWe appreciate your kind words about our colleague Yunus the same will be shared with him, which for sure will make him very motivated.\n\nWe look for to welcoming you again to TIME Grand Plaza Hotel for your future stays.\n\nKind Regards,\nSoha Metwally\nGeneral Manager, TIME Grand Plaza Hotel",
+        "lang": "en",
+        "author": "TIME Grand Plaza Hotel",
+        "published_date": "2024-04-08T08:25:15Z"
+      }
+    },
+    {
+      "id": 945539862,
+      "lang": "en",
+      "location_id": 1879023,
+      "published_date": "2024-04-06T04:56:24Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d1879023-r945539862-Reviews-TIME_Grand_Plaza_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945539862",
+      "text": "The peope working there were nice and helpful. especially Mr edgar  very welcoming and warm .  Our room was quiet, of good size and comfortable bed, nice and clean. Safe location. can do walking outside even at night. Lobby is huge and super cold ac. gonna recommend this hotel to all",
+      "title": "Hospitable",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-01-31",
+      "user": {
+        "username": "78rodrod",
+        "user_location": {
+          "id": "293931",
+          "name": "Armenia"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/81/default-avatar-2020-43.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945553737,
+        "title": "Owner response",
+        "text": "Dear 78rodrod,\n\nThank you so much for taking the time and writing reviews about your experience at our hotel during your recent stay. It was a pleasure having you as our guest. We appreciate your kind words about our colleagues the same will be shared with them, which for sure will make them very motivated.\n\nWe are looking forward to welcoming you back to our hotel soon!\n\nKind Regards,\nSoha Metwally\nGeneral Manager, TIME Grand Plaza Hotel",
+        "lang": "en",
+        "author": "TIME Grand Plaza Hotel",
+        "published_date": "2024-04-06T07:30:24Z"
+      }
+    },
+    {
+      "id": 945329710,
+      "lang": "en",
+      "location_id": 1879023,
+      "published_date": "2024-04-04T09:40:47Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d1879023-r945329710-Reviews-TIME_Grand_Plaza_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945329710",
+      "text": "It was actually a great experience to stay with such a wonderful hotel. 1 thing I have noticed is how organized it is not only the things inside but also the accomodations as well. Nothing much to say or complain because we are treated nicely and thanks to Edward for assisting us and doing his job very well. Thank you",
+      "title": "A great experience",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "grng2024",
+        "user_location": {
+          "id": "298460",
+          "name": "Cebu City, Cebu Island, Visayas"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/6d/default-avatar-2020-19.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/6d/default-avatar-2020-19.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/6d/default-avatar-2020-19.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/6d/default-avatar-2020-19.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/6d/default-avatar-2020-19.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945416222,
+        "title": "Owner response",
+        "text": "Dear grng2024,\n\nFirst of all, we appreciate the time you took to complete our hotel review. We are delighted to hear that you enjoyed your stay with us.\n\nRest assured that your positive comments will be shared with our team members, which will encourage them to maintain their efforts and improve our quality of service every day.\n\nIt is always a pleasure to have you as our guests and we look forward to welcoming you back soon!\n\nKind Regards,\nSoha Metwally\nGeneral Manager, TIME Grand Plaza Hotel",
+        "lang": "en",
+        "author": "TIME Grand Plaza Hotel",
+        "published_date": "2024-04-05T04:01:40Z"
+      }
+    },
+    {
+      "id": 945325085,
+      "lang": "en",
+      "location_id": 1879023,
+      "published_date": "2024-04-04T09:01:55Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d1879023-r945325085-Reviews-TIME_Grand_Plaza_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945325085",
+      "text": "I had the pleasure of interacting with their staff, Edgar Sorita during my recent stay at TIME Grand Plaza Hotel, and I must say, their exceptional service truly stood out. Their warm and welcoming demeanor made me feel valued as a guest. Will surely come back again for my next vacation.",
+      "title": "Satisfied",
+      "trip_type": "Couples",
+      "travel_date": "2023-12-31",
+      "user": {
+        "username": "shielamariep2024",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e8/91/default-avatar-2020-62.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945416142,
+        "title": "Owner response",
+        "text": "Dear shielamariep2024,\n\nThank you so much for taking the time and writing reviews about your experience at our hotel during your recent stay. We are very glad to read that you enjoyed your stay. It is always very rewarding to receive such compliments as the team's endeavor is to ensure that every guest leaves with great satisfaction.\n\nWe appreciate your kind words about our colleague Edgar the same will be shared with him, which for sure will make him very motivated.\n\nWe look for to welcoming you again to TIME Grand Plaza Hotel for your future stays.\n\nKind Regards,\nSoha Metwally\nGeneral Manager, TIME Grand Plaza Hotel",
+        "lang": "en",
+        "author": "TIME Grand Plaza Hotel",
+        "published_date": "2024-04-05T04:00:41Z"
+      }
+    }
+  ]
+}

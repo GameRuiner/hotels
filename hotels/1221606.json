@@ -1,0 +1,216 @@
+{
+  "location_id": "1221606",
+  "name": "Titanic Resort & Aqua Park",
+  "description": "Titanic Resort & Aqua Park is an amazing resort of endless choices on the Village Road Red Sea coast. Being an Aqua Park, it is popular for its water slides, located on an area of 61.000 m2 varied swimming pools, besides a multiple range of sports and social activities for people of all ages Located only at 16 minutes from center of Hurghada and 10 minutes from the airport. Titanic Resort & Aqua Park offers all the comforts of a charming Red Sea resort with a unique combination of casual elegance and affordability. Titanic Resort & Aqua Park combines active and family vacation with an exquisite theme of water sports and leisure.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297549-d1221606-Reviews-Titanic_Resort_Aqua_Park-Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "El Geesh - Hurghada Rd",
+    "street2": "",
+    "city": "Hurghada",
+    "country": "Egypt",
+    "postalcode": "84511",
+    "address_string": "El Geesh - Hurghada Rd, Hurghada 84511 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Hurghada",
+      "location_id": "297549"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.104523",
+  "longitude": "33.82389",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297549-d1221606-Titanic_Resort_Aqua_Park-Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297549",
+    "ranking_string": "#58 of 325 hotels in Hurghada",
+    "geo_location_name": "Hurghada",
+    "ranking_out_of": "325",
+    "ranking": "58"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "3801",
+  "review_rating_count": {
+    "1": "99",
+    "2": "83",
+    "3": "180",
+    "4": "439",
+    "5": "3001"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "4794",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297549-d1221606-m66827-Reviews-Titanic_Resort_Aqua_Park-Hurghada_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Restaurant",
+    "Internet",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Suites",
+    "Free parking",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Public Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Babysitting",
+    "Safe",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Lazy River",
+    "Water Park",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Aerobics",
+    "Arabic",
+    "Baggage Storage",
+    "Billiards",
+    "Car Hire",
+    "Convenience Store",
+    "Currency Exchange",
+    "Darts",
+    "Diving",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "24-Hour Front Desk",
+    "Game Room",
+    "German",
+    "Gift Shop",
+    "Hammam",
+    "Indoor Play Area for Children",
+    "Ironing Service",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Nightclub / DJ",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shops",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Wifi",
+    "Conference Facilities",
+    "Breakfast Available",
+    "Waterslide"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Family",
+    "Quiet"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "17"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "599"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "104"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "2286"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "480"
+    }
+  ],
+  "awards": []
+}

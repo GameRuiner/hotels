@@ -1,0 +1,292 @@
+{
+  "location_id": "15134820",
+  "name": "Steigenberger Pure Lifestyle Hotel",
+  "description": "Steigenberger Pure Lifestyle is the new premium hotel of the Steigenberger ALDAU Resort. The all-white, all-suite, all-adults boutique hotel with Mediterranean vibes and stunning modernity offers a new dimension of luxury and lifestyle. Have an unforgettable vacation with loungy chill-out music in the morning, hip vibes in the afternoon as well as a varied entertainment program with house and guest DJs at the pool/beach, varied live music and pool parties.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297549-d15134820-Reviews-Steigenberger_Pure_Lifestyle_Hotel-Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Yousef Afifi Road",
+    "city": "Hurghada",
+    "country": "Egypt",
+    "postalcode": "84511",
+    "address_string": "Yousef Afifi Road, Hurghada 84511 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Hurghada",
+      "location_id": "297549"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.162476",
+  "longitude": "33.82486",
+  "timezone": "Africa/Cairo",
+  "phone": "01120653465400",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297549-d15134820-Steigenberger_Pure_Lifestyle_Hotel-Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297549",
+    "ranking_string": "#2 of 325 hotels in Hurghada",
+    "geo_location_name": "Hurghada",
+    "ranking_out_of": "325",
+    "ranking": "2"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "2751",
+  "review_rating_count": {
+    "1": "19",
+    "2": "17",
+    "3": "28",
+    "4": "122",
+    "5": "2566"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "4679",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297549-d15134820-m66827-Reviews-Steigenberger_Pure_Lifestyle_Hotel-Hurghada_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Beachfront",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Refrigerator in room",
+    "Minibar",
+    "Safe",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Butler Service",
+    "Outdoor pool",
+    "Private Beaches",
+    "Private Pools",
+    "Sauna",
+    "Adults Only",
+    "Aerobics",
+    "Arabic",
+    "Baggage Storage",
+    "Car Hire",
+    "Doorperson",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "German",
+    "Ironing Service",
+    "Laptop Safe",
+    "Massage",
+    "Nightclub / DJ",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Snack Bar",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Beach Access"
+  ],
+  "parent_brand": "Deutsche Hospitality",
+  "brand": "Steigenberger Hotels and Resorts",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Romantic",
+    "Luxury"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "22"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1716"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "104"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "301"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "334"
+    }
+  ],
+  "awards": []
+}

@@ -1,0 +1,222 @@
+{
+  "data": [
+    {
+      "id": 945448009,
+      "lang": "en",
+      "location_id": 503136,
+      "published_date": "2024-04-05T09:35:39Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d503136-r945448009-Reviews-Hotel_Constanza_Barcelona-Barcelona_Catalonia.html?m=66827#review945448009",
+      "text": "Just returned from a 3 night stay, a short city break with my family of 4. I don't normally write reviews, however, as this was our first experience of a European family break (outside of our annual summer holiday), thought I'd share my experience of the Hotel Constanza, as we really had an enjoyable trip.\n\nI highly recommend this hotel for anyone that is looking for value for money and wanting to stay in a central location, where access to most of the city is possible by foot or easy access to public transport and the variety of bars, cafes & restaurants on your doorstep!...certainly save yourself a few quid as taxis are really not required (not even from the airport).\n\nIt's a small 2 star hotel in the lovely neighbourhood of Dreta de l'Eixample, which is 'punching above' in terms of what it offers for a reasonable price considering the city center location. The staff are friendly and helpful. The rooms are modern, spacious and very clean (and even cleaned daily). The free wifi is ok. Can't comment on the breakfast as we decided to eat out at various local cafes. I requested a 'quiet room' when booking knowing that the front of the hotel is on the street where traffic passes through. We were given a family room at the back of the hotel and really quiet. The room had a balcony which over looked rooftops and back of other buildings so not too much to see but nice to sit out and enjoy the warm sun late afternoon/early evening. The bathroom again was spacious, especially the shower area (no bath). We all really enjoyed the quality of the shower, especially after long days on foot, moving around this wonderful city!\n\nEating out in the evenings we decided to mix it up & work within our budget of around 300 euros over the 3-4 nights. With a little research prior to trip, I can say we all thoroughly enjoyed our evening meals, all restaurants within 10 min walk of the hotel - I would recommend all:\n\nKebabs at  Agababaa..halal. Doner Kebab.Grill - late dinner on 1st night, nothing fancy but really delicious and good value for money\n\nItalian at Luigi Ristorante - Roger de Llúria - lovely restaurant which we dressed up for, food served really quick! The most expensive of our meals just under 100 euros (with a bottle of wine).\n\nChinese at Restaurante chino Yue Lai (near Arc de Triomf) - late change as the restaurant we wanted to book was not open on the day, however this was my favourite :-) Small but staff very friendly & helpful and food again was served really quick! Great food, value for money (less than 70 euros, included a bottle of wine)\n\nOther options where we had lunches, are: \n\nBurgers at INKA BURG (near Parc Guell)\nBrunch at Belliny Brunch (near Urgell metro)\nTapas at El Mercat (next to hotel)\n\nIn terms of travel (again after lots of research pre-trip), we decided to buy a 3 day Hola travel card which more or less allows you to travel throughout the city on all forms of public transport...we mainly used the metro which is really easy to use. With the Hola pass we were able to get from airport to hotel with only 1 connection and a few minutes walk to hotel, approx 45 min door to door.\n\nWe did purchase a 24hr ticket for the hop on/hop off bus, as our boys really enjoy these buses as it saves their feet and they get to see the majority of the city from the open top bus. This ticket was part of a package which also allowed us access to La Sagrada Familia and Port Cable Car trip from Montjuïc to Port (Barceloneta beach).\n\nAll in all a great trip and I would highly recommend a visit to Barcelona at this time of the year, weather was great, not too hot!",
+      "title": "Great hotel in a great location.",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "D431TLbenc",
+        "user_location": {
+          "id": "187069",
+          "name": "Manchester, Greater Manchester, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/10/65/3c/4b/ben-c.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/10/65/3c/4b/ben-c.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/10/65/3c/4b/ben-c.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/10/65/3c/4b/ben-c.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/10/65/3c/4b/ben-c.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 937438697,
+      "lang": "en",
+      "location_id": 503136,
+      "published_date": "2024-02-08T09:38:28Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d503136-r937438697-Reviews-Hotel_Constanza_Barcelona-Barcelona_Catalonia.html?m=66827#review937438697",
+      "text": "We stayed here for three nights and couldn’t have asked for a better hotel! The room was spacious and clean, the bed comfy and the staff were super helpful and friendly. There can be slight noise at night due to slightly thinner walls but nothing that would stop you sleeping. We would definitely come back to this hotel when visiting Barcelona again as it is close to everything you could hope. Nothing was further than a 20/25 minute walk - it’s very central! Would definitely rate it more than a 2 star!! For the price, this place is a winner.",
+      "title": "Great Hotel, Great Staff, Great Price",
+      "trip_type": "Couples",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "Eveworkmann",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ea/74/default-avatar-2020-68.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ea/74/default-avatar-2020-68.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ea/74/default-avatar-2020-68.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ea/74/default-avatar-2020-68.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ea/74/default-avatar-2020-68.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 923271612,
+      "lang": "en",
+      "location_id": 503136,
+      "published_date": "2023-10-28T01:14:27Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d503136-r923271612-Reviews-Hotel_Constanza_Barcelona-Barcelona_Catalonia.html?m=66827#review923271612",
+      "text": "Stayed in room no 501 which was bigger than european standards neat and clean perfect location close to everything. \nCon - you can hear other people talk in neighbouring rooms.\nI would definitely recommend this hotel .\nI stayed in this hotel only for 1 night",
+      "title": "Perfect location ",
+      "trip_type": "Family",
+      "travel_date": "2023-10-31",
+      "user": {
+        "username": "syed24",
+        "user_location": {
+          "id": "297628",
+          "name": "Bengaluru, Bangalore District, Karnataka"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ed/00/default-avatar-2020-4.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ed/00/default-avatar-2020-4.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ed/00/default-avatar-2020-4.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ed/00/default-avatar-2020-4.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ed/00/default-avatar-2020-4.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 918814202,
+      "lang": "en",
+      "location_id": 503136,
+      "published_date": "2023-09-28T07:37:00Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d503136-r918814202-Reviews-Hotel_Constanza_Barcelona-Barcelona_Catalonia.html?m=66827#review918814202",
+      "text": "This a gem of a hotel in central Barcelona. The rooms are large, comfortable, very clean, and ours had a nice balcony. The included breakfast was very good and the staff friendly and helpful. The location was very good — close enough to walk to most places and close to buses and metro. It was also close to some good restaurants and away from the large crowds. Would definitely stay here again.",
+      "title": "A wonderful stay",
+      "trip_type": "Couples",
+      "travel_date": "2023-09-30",
+      "user": {
+        "username": "Heidilmj",
+        "user_location": {
+          "id": "155021",
+          "name": "Windsor, Ontario"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/9f/default-avatar-2020-16.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 914732826,
+      "lang": "en",
+      "location_id": 503136,
+      "published_date": "2023-09-04T03:53:43Z",
+      "rating": 4,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d503136-r914732826-Reviews-Hotel_Constanza_Barcelona-Barcelona_Catalonia.html?m=66827#review914732826",
+      "text": "I booked the Hotel Constanza not only for the reasonable price for central Barcelona but for its location being near two Metro stations and near bus links. It’s also a pleasant walk to some of the local sights like La Rambla for instance.\n\nThe staff in the hotel were very friendly and helpful and answered any questions I had. On my last day I was able to store my bag as I wasn’t leaving until later.\n\nThe breakfast was good and some food for example eggs are cooked to order.\n\nI had a small internal single room which was ok but it was a little noisy during the night and the hotel arranged for me to change rooms to a different single room. The area where the hotel is, is quite quiet and not busy with traffic of an evening.\n\nI would be happy to stay there again if visiting Barcelona.",
+      "title": "Great location in Barcelona",
+      "trip_type": "Solo travel",
+      "travel_date": "2023-05-31",
+      "user": {
+        "username": "raysK542YW",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f3/7c/default-avatar-2020-29.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f3/7c/default-avatar-2020-29.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f3/7c/default-avatar-2020-29.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f3/7c/default-avatar-2020-29.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f3/7c/default-avatar-2020-29.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "location_id": "6946259",
+  "name": "Four Seasons Resort Dubai at Jumeirah Beach",
+  "description": "Welcome to the new Four Seasons Resort Dubai at Jumeirah Beach - a green oasis perfectly located just minutes from all the pleasures and key business hubs of this open, modern city by the Arabian Gulf. Everything is right here - warm and elegant service, an astonishing array of dining temptations, a truly luxe pool and beach experience, beautiful spaces to do business or celebrate special occasions, an indulgent spa that is a destination unto itself, and the quiet retreat of light, airy guest rooms and suites. At five stories, Four Seasons Resort Dubai at Jumeirah Beach is comparatively low rise amid the city's soaring towers, in keeping with the surrounding coastal community. The prestigious Jumeirah neighbourhood - sometimes compared to Beverly Hills with its mansions and celebrity hotspots - is mostly residential, with cafes, shops and galleries within strolling distance. Flanked by Dubai's longest stretch of natural beachfront, it's also just ten minutes from the commercial district on Sheikh Zayed Road and the Dubai International Finance Centre, and well as Burj Khalifa - the world's tallest building - and the tourist attractions of Downtown Dubai.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d6946259-Reviews-Four_Seasons_Resort_Dubai_at_Jumeirah_Beach-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Jumeirah Beach Road",
+    "street2": "Jumeirah 2",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "128777",
+    "address_string": "Jumeirah Beach Road Jumeirah 2, Dubai 128777 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.202366",
+  "longitude": "55.23979",
+  "timezone": "Asia/Dubai",
+  "phone": "01197142707777",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d6946259-Four_Seasons_Resort_Dubai_at_Jumeirah_Beach-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#285 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "285"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1604",
+  "review_rating_count": {
+    "1": "41",
+    "2": "26",
+    "3": "69",
+    "4": "160",
+    "5": "1308"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "1786",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d6946259-m66827-Reviews-Four_Seasons_Resort_Dubai_at_Jumeirah_Beach-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Pool",
+    "Beachfront",
+    "Free parking",
+    "Meeting rooms",
+    "Fitness center",
+    "Kids Activities",
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Business center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Multilingual Staff",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Rooftop Bar",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Butler Service",
+    "Infinity Pool",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Additional Bathroom",
+    "Aerobics",
+    "Allergy-free Room",
+    "Arabic",
+    "Baggage Storage",
+    "Bathrobes",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Car Hire",
+    "Couples Massage",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Full Body Massage",
+    "Head Massage",
+    "Iron",
+    "Ironing Service",
+    "Massage",
+    "Newspaper",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shoeshine",
+    "Snack Bar",
+    "Spanish",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Turkish",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Chinese",
+    "Filipino",
+    "French",
+    "German",
+    "Hindi",
+    "Indonesian",
+    "Italian",
+    "Japanese",
+    "Portuguese",
+    "Ukrainian",
+    "Beach Access"
+  ],
+  "parent_brand": "Four Seasons Hotels & Resorts",
+  "brand": "Four Seasons",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Luxury",
+    "Family Resort"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7282434",
+      "name": "Jumeirah"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "224"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "469"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "66"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "457"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "191"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

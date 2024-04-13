@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 819655614,
+      "lang": "en",
+      "location_id": 23700469,
+      "published_date": "2021-11-22T08:00:55Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d23700469-r819655614-Reviews-Mithras_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review819655614",
+      "text": "I was so happy with my find, a beautiful cosy hotel very close to the train station, ideal to visit Izmir and have it as a base point for day trips nearby such as Ephesus or Alaçati. \nMy room was beautifully decorated, very functional and clean. Both receptionists, although their English was not perfect, did everything they could to help me out with all my questions. \nThe breakfast was delicious too. \nI was very very happy with everything! ",
+      "title": "Cosy, beautiful hotel in a great location",
+      "trip_type": "Solo travel",
+      "travel_date": "2021-10-31",
+      "user": {
+        "username": "carinamp",
+        "user_location": {
+          "id": "187497",
+          "name": "Barcelona, Catalonia"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1b/f2/5a/5b/avatar.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1b/f2/5a/5b/avatar.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1b/f2/5a/5b/avatar.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/1b/f2/5a/5b/avatar.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

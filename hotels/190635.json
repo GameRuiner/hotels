@@ -1,0 +1,345 @@
+{
+  "location_id": "190635",
+  "name": "Hotel Arts Barcelona",
+  "description": "Hotel Arts Barcelona is a landmark with perfect credentials as a premier destination within a destination. An urban resort that stands as the tallest hotel on the coast, overlooking the beachfront offering panoramic city and beach views. The hotel effortlessly combines tranquility and genuine luxury with individual and personalized service provided by a well-connected and passionate team. Offering panoramic city and beach views, the guestrooms, suites and luxury, serviced penthouses are light-filled, luxuriously comfortable. Gastronomy is an inherent part of Hotel Arts Barcelona offering five gastronomic restaurants and a cocktail bar. The hotel has a unique collection of open and leisure spaces exceptional in Barcelona. The artfully designed Infinity Pool and family pool overlook the gardens, offering an oasis of calm by day and vibrant hot spot at night. 43 The Spa, located on the 43rd floor, floating high above the city, captures organic luxury and a sense of well-being.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d190635-Reviews-Hotel_Arts_Barcelona-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Marina 19 - 21",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08005",
+    "address_string": "Marina 19 - 21, 08005 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.38675",
+  "longitude": "2.196823",
+  "timezone": "Europe/Madrid",
+  "phone": "18446310595",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d190635-Hotel_Arts_Barcelona-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#208 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "208"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "5847",
+  "review_rating_count": {
+    "1": "180",
+    "2": "197",
+    "3": "461",
+    "4": "1240",
+    "5": "3769"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "3774",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d190635-m66827-Reviews-Hotel_Arts_Barcelona-Barcelona_Catalonia.html#photos",
+  "price_level": "$$$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Pool",
+    "Room service",
+    "Restaurant",
+    "Fitness center",
+    "Bar/Lounge",
+    "Wheelchair access",
+    "Spa",
+    "Suites",
+    "Meeting rooms",
+    "Internet",
+    "Wifi",
+    "Paid Wifi",
+    "Paid Internet",
+    "Concierge",
+    "Free Internet",
+    "Airport transportation",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Butler Service",
+    "Adult pool",
+    "Outdoor pool",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Sauna",
+    "Additional Bathroom",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Catalan",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Head Massage",
+    "Ironing Service",
+    "Italian",
+    "Massage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Paid Private Parking On-site",
+    "Salon",
+    "24-Hour Security",
+    "Spanish",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Taxi Service",
+    "Telephone",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Breakfast Available",
+    "Arabic",
+    "Blackout Curtains",
+    "Car Hire",
+    "Desk",
+    "Evening Entertainment",
+    "German",
+    "Interconnected room(s) available",
+    "Iron",
+    "Laptop Safe",
+    "Manicure",
+    "Pool View",
+    "Portuguese",
+    "Private Bathrooms",
+    "Walk-in Shower",
+    "Beach Access"
+  ],
+  "parent_brand": "Marriott",
+  "brand": "The Ritz-Carlton",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Great View",
+    "Luxury"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15565934",
+      "name": "Port Olimpic"
+    },
+    {
+      "location_id": "7230969",
+      "name": "Ciutadella / Vila Olimpica"
+    },
+    {
+      "location_id": "15565874",
+      "name": "Ciutat Vella (Old Town)"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "1333"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "2006"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "169"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1330"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "480"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

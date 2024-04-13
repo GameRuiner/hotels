@@ -1,0 +1,285 @@
+{
+  "location_id": "21191933",
+  "name": "Jumeirah Living Marina Gate",
+  "description": "Experience a carefree life at Jumeirah living Marina Gate serviced apartments in Dubai's upbeat Marina where we offer the city's most exclusive living.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d21191933-Reviews-Jumeirah_Living_Marina_Gate-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Khayay Street",
+    "street2": "Dubai Marina",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Al Khayay Street Dubai Marina, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.087448",
+  "longitude": "55.14658",
+  "timezone": "Asia/Dubai",
+  "phone": "01197180058634724",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d21191933-Jumeirah_Living_Marina_Gate-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#401 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "401"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "108",
+  "review_rating_count": {
+    "1": "6",
+    "2": "4",
+    "3": "1",
+    "4": "8",
+    "5": "89"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "180",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d21191933-m66827-Reviews-Jumeirah_Living_Marina_Gate-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Kitchenette",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Babysitting",
+    "Private Balcony",
+    "Infinity Pool",
+    "Outdoor pool",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Additional Bathroom",
+    "Filipino",
+    "Free Private Parking Nearby",
+    "Steam Room",
+    "Pets Allowed",
+    "Airport transportation",
+    "Public Wifi",
+    "Family Rooms",
+    "Self-Serve Laundry",
+    "Smoking rooms available",
+    "Microwave",
+    "Refrigerator in room",
+    "Non-smoking hotel",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Kids pool",
+    "Breakfast Available",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Sauna",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Bidet",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "Children's Television Networks",
+    "Children's Playground",
+    "Clothes Dryer",
+    "Clothes Rack",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Convenience Store",
+    "Currency Exchange",
+    "Desk",
+    "Dining Area",
+    "Dishwasher",
+    "Electric Kettle",
+    "English",
+    "First Aid Kit",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "Complimentary Welcome Drink",
+    "Free Wifi in the Business Center",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Happy Hour",
+    "Hindi",
+    "Iron",
+    "Ironing Service",
+    "Kitchenware",
+    "Newspaper",
+    "Outdoor Dining Area",
+    "Outdoor Furniture",
+    "Personal Trainer",
+    "Plunge Pool",
+    "Pool / Beach Towels",
+    "Pool View",
+    "Pool with View",
+    "Private Bathrooms",
+    "Radio",
+    "Russian",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Separate Living Room",
+    "Shoeshine",
+    "Sofa",
+    "Sofa Bed",
+    "Soundproof Rooms",
+    "Special Diet Menus",
+    "Stovetop",
+    "Sun Deck",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Telephone",
+    "Ukrainian",
+    "Valet Parking",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Washing Machine",
+    "Water Park Off-site",
+    "Wine / Champagne",
+    "Photo Copier / Fax In Business Center",
+    "Yoga Classes"
+  ],
+  "parent_brand": "Jumeirah Group",
+  "brand": "Jumeirah",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Luxury",
+    "Charming"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7282432",
+      "name": "The Marina"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "14"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "20"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "5"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "34"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "13"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "location_id": "306642",
+  "name": "Grand Hyatt Dubai",
+  "description": "Award-winning city resort hotel in Dubai, towering majestically over the edge of Dubai's historic creek or overlooking the glorious Dubai skyline. This city resort offers the comfort and convenience that you seek. With contemporary guestrooms, suites and serviced hotel apartments, experience the luxury of Dubai like never before. Once checked in, be escorted to your spacious guestroom and/or suites. Enjoy in-house activities such as visiting our Ahasees Spa & Fitness Club. Take a stroll through our lavish gardens, bask in the Dubai sun by one of our 4 swimming pools or head out for an evening jog along our jogging track. Conclude your day with an authentic meal at one of our 13 food & beverage outlets spread around the property. If you're here on business, we offer a 24-hour business centre to get your work done. Our hotel also features over 11,000 square meters of event space featuring a state of the art Exhibition Centre, 2 ballrooms, 22 live kitchens, 14 meeting rooms & several outdoor venues to host events.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d306642-Reviews-Grand_Hyatt_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Riyadh Street",
+    "street2": "Sheikh Rashid Road",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Riyadh Street Sheikh Rashid Road, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.228159",
+  "longitude": "55.327927",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d306642-Grand_Hyatt_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#240 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "240"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "8932",
+  "review_rating_count": {
+    "1": "208",
+    "2": "141",
+    "3": "316",
+    "4": "1414",
+    "5": "6853"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "5836",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d306642-m66827-Reviews-Grand_Hyatt_Dubai-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Free parking",
+    "Suites",
+    "Free Internet",
+    "Free Wifi",
+    "Shuttle Bus Service",
+    "Internet",
+    "Kids Activities",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Indoor pool",
+    "Butler Service",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Sauna",
+    "Electric vehicle charging station",
+    "Allergy-free Room",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Chinese",
+    "Coffee Shop",
+    "Convenience Store",
+    "Couples Massage",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Free Public Parking Nearby",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Head Massage",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Laptop Safe",
+    "Massage",
+    "On-Demand Movies",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shops",
+    "Snack Bar",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Body Wrap",
+    "Bowling Off-site",
+    "Express Check-in / Check-out",
+    "First Aid Kit",
+    "Foot Bath",
+    "Hand Massage",
+    "Happy Hour",
+    "Landmark View",
+    "Makeup Services",
+    "Manicure",
+    "Massage Chair",
+    "Neck Massage",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Pool View",
+    "Valet Parking"
+  ],
+  "parent_brand": "Hyatt Hotels",
+  "brand": "Grand Hyatt",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Park View",
+    "Green"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620675",
+      "name": "Umm Hurair"
+    },
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    },
+    {
+      "location_id": "15620677",
+      "name": "Umm Hurair 2"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "1834"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1951"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "318"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "2670"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "520"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "location_id": "10544475",
+  "name": "Sun and Sands Sea View Hotel",
+  "description": "See why so many travelers make Sun & Sands Sea View Hotel their hotel of choice when visiting Dubai. Providing an ideal mix of value, comfort and convenience, it offers a budget friendly setting with an array of amenities designed for travelers like you.\nWhile staying at Sun & Sands Sea View Hotel, visitors can check out Bur Dubai Abra Dock (1.4 mi) and Deira Old Souk Abra Station (1.6 mi), some of Dubai's top attractions.\nRooms at Sun & Sands Sea View Hotel offer air conditioning, a minibar, and a sofa providing exceptional comfort and convenience, and guests can go online with free internet access.\nA 24 hour front desk, a concierge, and room service are some of the conveniences offered at this hotel. A rooftop pool and an on-site restaurant will also help to make your stay even more special.\nIf you like Asian restaurants, Sun & Sands Sea View Hotel is conveniently located near Alfonso X Sushi Bar, Spice Island, and Creekside Japanese Restaurant.\nBest of all, Sun & Sands Sea View Hotel makes it easy to experience many great Dubai attractions like Dubai Miracle Garden and Dubai Butterfly Garden, which are some popular gardens.\nAt Sun & Sands Sea View Hotel, your comfort and satisfaction come first, and they look forward to welcoming you to Dubai.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d10544475-Reviews-Sun_and_Sands_Sea_View_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Khaleej Road",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "93499",
+    "address_string": "Al Khaleej Road, Dubai 93499 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.282642",
+  "longitude": "55.316715",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d10544475-Sun_and_Sands_Sea_View_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#515 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "515"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "206",
+  "review_rating_count": {
+    "1": "23",
+    "2": "18",
+    "3": "43",
+    "4": "75",
+    "5": "47"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "88",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d10544475-m66827-Reviews-Sun_and_Sands_Sea_View_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Restaurant",
+    "Free Wifi",
+    "Paid Internet",
+    "Air conditioning",
+    "Breakfast Buffet",
+    "Pool",
+    "Internet",
+    "Kids Activities",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Airport transportation",
+    "Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Business center",
+    "Concierge",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Minibar",
+    "Safe",
+    "Breakfast Available",
+    "Housekeeping",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Car Hire",
+    "Coffee Shop",
+    "Convenience Store",
+    "Currency Exchange",
+    "Desk",
+    "English",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Russian",
+    "24-Hour Security",
+    "Sofa",
+    "Taxi Service",
+    "Telephone"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Budget",
+    "Business"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620542",
+      "name": "Al Baraha"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "37"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "55"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "27"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "40"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "28"
+    }
+  ],
+  "awards": []
+}

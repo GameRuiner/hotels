@@ -1,0 +1,237 @@
+{
+  "location_id": "658938",
+  "name": "Reef Oasis Blue Bay Resort & Spa",
+  "description": "The Reef Oasis Blue Bay Resort and Spa is one of the most beautiful resorts of Sharm El Sheikh with the magnificent views of the Sinai Mountains hidden amongst the colorful shades of the desert. The Hotel is overlooking the famous Red Sea with clear crystal blue waters and beautiful corals with the most amazing colored tropical fish. Our highly experienced trained staff and Management Team are available 24 hrs with extended knowledge of the resort and qualified to provide our Guests with the most professional and exceptional service. Our Priority is you at all times during the day and night to help make the most of an excellent and enjoyable holiday. We have a wide range of facilities including a 24hr bar serving drinks and snacks, a beautiful Panorama Terrace to capture the most amazing sunset views for those perfect kodak moments to save a lifetime of memories. We have many Swimming pools to meet everyone's tastes, have fun in the sun with the family's at the leisure pool or relax reading a book chilling by our adults pool at the Relax we have it for all ages. Teens hangout room including play stations, games machines, air hockey and billiards or join in the activities with the Animation Team. Treat your self with one of our Royal Tents with complete privacy, waiter service, direct access to the sea for relax time including drinks, fruit for a small additional charge or lounge on your sun bed at the beach at your leisure with 350 m of sand and try our snorkeling from the jetty to spot little Nemo with a trained instructor the choice is yours. If you would like to make your stay extra special we have many other room types to upgrade, our Honeymoon Suite being the most popular choice and highest category. This option is by far the best choice and we can guarantee you won't be disappointed, pure luxury with direct sea view, the moon the stars the sunset all in one. Your very on private double jacuzzi, separate living room, walk in wardrobe, marble bathroom, DVD player with surround sound and wifi with many other benefits included. All for a small supplement. Easy access to the other resort areas to visit during your stay by taxi or shuttle you will be anywhere in a short time to grab your bargains shop till you drop or chill in one of the famous shisha cafes we can direct you. Upload your memorable photos on Facebook, Twitter or Instagram whilst enjoying your holiday with our new extended wifi or Skype your friends at home to show them the wonderful Hotel your staying in now available in various areas of the Hotel free of charge. If you fell active during your stay why not try a discover scuba dive or complete your padi and become a certified diver with our very own dive centre on the beach or get active in our amazing gym and learn all the exercises with a trained and qualified fitness instructor ,. If you prefer to pamper your self relax in our steam room or sauna free of charge. Don't forget to reserve your Ala Carte Restaurants with our Guest Relation Team who are available in the lobby to make your dining experience the most enjoyable one, sample our tasty delicious 4. Course meal with complete tranquility in our La Romantique Restaurant special offers apply. We are truly confident by choosing the Reef Oasis Blue Bay Resort and Spa you will not be disappointed. If you have any further questions or queries we would love to hear from you. We look forward to welcoming our Guests soon. Management.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d658938-Reviews-Reef_Oasis_Blue_Bay_Resort_Spa-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Pasha Bay",
+    "street2": "",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "postalcode": "8763314",
+    "address_string": "Pasha Bay, Sharm El Sheikh 8763314 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.916426",
+  "longitude": "34.36133",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d658938-Reef_Oasis_Blue_Bay_Resort_Spa-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#35 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "35"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "8433",
+  "review_rating_count": {
+    "1": "119",
+    "2": "195",
+    "3": "516",
+    "4": "1540",
+    "5": "6063"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "11565",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d658938-m66827-Reviews-Reef_Oasis_Blue_Bay_Resort_Spa-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Restaurant",
+    "Internet",
+    "Beachfront",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Fitness center",
+    "Beach Access",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Free parking",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Paid Internet",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Water Park",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Infinity Pool",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Aerobics",
+    "Arabic",
+    "Darts",
+    "Diving",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "French",
+    "Gift Shop",
+    "Hammam",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Italian",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Nightclub / DJ",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shops",
+    "Snorkeling",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Modern",
+    "Family Resort"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "34"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "3796"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "186"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "2594"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "975"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

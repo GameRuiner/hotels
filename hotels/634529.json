@@ -1,0 +1,184 @@
+{
+  "location_id": "634529",
+  "name": "Blue Butik Otel",
+  "description": "Finding an ideal luxury hotel in Izmir does not have to be difficult. Welcome to Blue Boutique Hotel, a nice option for travelers like you.\nWhile staying at Blue Boutique Hotel, visitors can check out Synagogue Street (Havra Sokagi) (1.2 mi) and Kemeralti Market (1.3 mi), some of Izmir's top attractions.\nThe rooms offer air conditioning, a minibar, and a refrigerator, and getting online is possible, as free wifi is available, allowing you to rest and refresh with ease.\nBlue Boutique Hotel features a 24 hour front desk, a concierge, and room service. In addition, as a valued Blue Boutique Hotel guest, you can enjoy an on-site restaurant that is available on-site.\nIf you like Mediterranean restaurants, Blue Boutique Hotel is conveniently located near Cafe La Cigale, Windows On The Bay Restaurant, and Akbiyik Doner.\nPlus, during your trip, don't forget to check out Kordonboyu (1.0 mi), Kadifekale (1.2 mi), and Arkas Art Center (1.0 mi), some attractions that are a short walk from Blue Boutique Hotel.\nBlue Boutique Hotel looks forward to welcoming you on your visit to Izmir.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g15263864-d634529-Reviews-Blue_Butik_Otel-Konak_Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Mursel Pasa BulvarI, 1265 Sokak, No:13",
+    "city": "Konak",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35240",
+    "address_string": "Mursel Pasa BulvarI, 1265 Sokak, No:13, Konak, Izmir 35240 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Konak",
+      "location_id": "15263864"
+    },
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.42886",
+  "longitude": "27.15504",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g15263864-d634529-Blue_Butik_Otel-Konak_Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "15263864",
+    "ranking_string": "#2 of 12 hotels in Konak",
+    "geo_location_name": "Konak",
+    "ranking_out_of": "12",
+    "ranking": "2"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "14",
+  "review_rating_count": {
+    "1": "1",
+    "2": "1",
+    "3": "0",
+    "4": "4",
+    "5": "8"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "11",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g15263864-d634529-m66827-Reviews-Blue_Butik_Otel-Konak_Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "amenities": [
+    "Internet",
+    "Room service",
+    "Free Internet",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Refrigerator in room",
+    "Minibar",
+    "Non-smoking hotel",
+    "Safe",
+    "Baggage Storage",
+    "Bathrobes",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Currency Exchange",
+    "Desk",
+    "English",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "German",
+    "Hair Dryer",
+    "Ironing Service",
+    "Massage",
+    "Newspaper",
+    "Seating Area",
+    "Telephone",
+    "Turkish",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Luxury",
+    "Business"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "4"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "2"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "1"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "2"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "1"
+    }
+  ],
+  "awards": []
+}

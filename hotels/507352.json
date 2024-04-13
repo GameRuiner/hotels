@@ -1,0 +1,303 @@
+{
+  "location_id": "507352",
+  "name": "Grosvenor House, A Luxury Collection Hotel, Dubai",
+  "description": "Grosvenor House, a Luxury Collection Hotel, Dubai and its two iconic 45 storey towers, Tower One and Tower Two, redefine the world of luxury in Dubai, United Arab Emirates. The hotel's glittering twin towers are an instantly recognizable landmark in the Dubai Marina. The hotel features 749 spacious, contemporary guest rooms, suites, and apartments with signature Luxury Collection beds, large windows with spectacular views of the Marina, complimentary Wi-Fi and attentive on-call butler service. The area's first true social destination, the hotel is located just minutes from the beach, golf clubs, malls, Dubai Internet City, Media City and more, offering an exceptional setting for business, leisure and exploration. Welcome to the finer side of sophistication. Step into a world of refined heritage, suave elegance and effortless chic.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d507352-Reviews-Grosvenor_House_A_Luxury_Collection_Hotel_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Emreef Street",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "118500",
+    "address_string": "Al Emreef Street, Dubai 118500 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.08567",
+  "longitude": "55.143894",
+  "timezone": "Asia/Dubai",
+  "phone": "18446310595",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d507352-Grosvenor_House_A_Luxury_Collection_Hotel_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#4 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "4"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "7096",
+  "review_rating_count": {
+    "1": "28",
+    "2": "34",
+    "3": "128",
+    "4": "626",
+    "5": "6280"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "6111",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d507352-m66827-Reviews-Grosvenor_House_A_Luxury_Collection_Hotel_Dubai-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Business center",
+    "Room service",
+    "Free parking",
+    "Restaurant",
+    "Fitness center",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Suites",
+    "Wheelchair access",
+    "Meeting rooms",
+    "Shuttle Bus Service",
+    "Bar/Lounge",
+    "Spa",
+    "Dry Cleaning",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Babysitting",
+    "Airport transportation",
+    "Conference Facilities",
+    "Safe",
+    "Rooftop Bar",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Butler Service",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Sauna",
+    "Additional Bathroom",
+    "Allergy-free Room",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Chinese",
+    "Clothes Rack",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Convenience Store",
+    "Couples Massage",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Head Massage",
+    "Hindi",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Italian",
+    "Laptop Safe",
+    "Massage",
+    "Newspaper",
+    "Nightclub / DJ",
+    "On-Demand Movies",
+    "Outdoor Furniture",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shoeshine",
+    "Shops",
+    "Soundproof Rooms",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Public Wifi",
+    "Bidet",
+    "Cable / Satellite TV",
+    "Children's Playground",
+    "Electric Kettle",
+    "Executive Lounge Access",
+    "First Aid Kit",
+    "Happy Hour",
+    "Makeup Services",
+    "Manicure",
+    "Neck Massage",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Sofa Bed",
+    "Valet Parking",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Photo Copier / Fax In Business Center",
+    "Beach Access"
+  ],
+  "parent_brand": "Marriott",
+  "brand": "Luxury Collection",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Harbor View",
+    "Great View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7282432",
+      "name": "The Marina"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "946"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "2927"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "298"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1453"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "657"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice Best of the Best",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png"
+      },
+      "categories": [
+        "Luxury"
+      ],
+      "display_name": "Travelers Choice Best of the Best"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

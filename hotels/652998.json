@@ -1,0 +1,206 @@
+{
+  "location_id": "652998",
+  "name": "Number One Tower Suites",
+  "description": "If you’re looking for a family-friendly hotel in Dubai, look no further than Number One Tower Suites.\nFor those interested in checking out popular landmarks while visiting Dubai, Number One Tower Hotel is located a short distance from Sheikh Zayed Road (0.2 mi) and Emirates Towers (0.7 mi).\nNumber One Tower Hotel offers guests an array of room amenities including a flat screen TV, a minibar, and air conditioning, and getting online is possible, as free wifi is available.\nThe hotel offers a 24 hour front desk, a concierge, and room service, to make your visit even more pleasant. The property also features a pool and free breakfast. Guests arriving by vehicle have access to free parking.\nIf you are looking for a good steakhouse, you may want to check out Nusr-Et Steakhouse, Asado Restaurant, or Chamas Churrascaria and Bar while staying at Number One Tower Hotel.\nDuring your visit, be sure to check out popular attractions like Burj Khalifa (1.0 mi) and Dubai Fountains (1.1 mi), which are all within walking distance of the hotel.\nThe staff at Number One Tower Suites looks forward to serving you during your upcoming visit.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d652998-Reviews-Number_One_Tower_Suites-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Zayed Rd",
+    "street2": "Trade Centre 1",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "",
+    "address_string": "Sheikh Zayed Rd Trade Centre 1, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.210443",
+  "longitude": "55.273525",
+  "timezone": "Asia/Dubai",
+  "phone": "01197143434666",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d652998-Number_One_Tower_Suites-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#497 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "497"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "400",
+  "review_rating_count": {
+    "1": "40",
+    "2": "41",
+    "3": "105",
+    "4": "153",
+    "5": "61"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "402",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d652998-m66827-Reviews-Number_One_Tower_Suites-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Free parking",
+    "Kitchenette",
+    "Pool",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Wheelchair access",
+    "Restaurant",
+    "Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Microwave",
+    "Refrigerator in room",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Indoor pool",
+    "Parking",
+    "Bath / Shower",
+    "Coffee Shop",
+    "Currency Exchange",
+    "Desk",
+    "English",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Smoking rooms available",
+    "Breakfast Available",
+    "Sauna",
+    "Arabic",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Coffee / Tea Maker",
+    "Filipino",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Iron",
+    "Kitchenware",
+    "Seating Area",
+    "24-Hour Security",
+    "Separate Dining Area",
+    "Shops",
+    "Taxi Service",
+    "Telephone"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Mid-range",
+    "Centrally Located"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620627",
+      "name": "Dubai International Financial Centre (DIFC)"
+    },
+    {
+      "location_id": "15620671",
+      "name": "Trade Centre"
+    },
+    {
+      "location_id": "15620672",
+      "name": "Trade Centre 1"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "106"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "65"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "28"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "123"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "39"
+    }
+  ],
+  "awards": []
+}

@@ -1,0 +1,264 @@
+{
+  "data": [
+    {
+      "id": 940176621,
+      "lang": "en",
+      "location_id": 228626,
+      "published_date": "2024-02-29T05:09:12Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d228626-r940176621-Reviews-Abba_Sants_Hotel-Barcelona_Catalonia.html?m=66827#review940176621",
+      "text": "Good hotel with a fantastic location. Front office people were very helpful in giving us an early check in. Room had all the luxury amenities. Also they provided us with an electric kettle on request. Though we had not booked our breakfast but they provided the same at a discount.",
+      "title": "Fantastic",
+      "trip_type": "Family",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "M9568WUrohits",
+        "user_location": {
+          "id": "297628",
+          "name": "Bengaluru, Bangalore District, Karnataka"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e5/2b/default-avatar-2020-52.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e5/2b/default-avatar-2020-52.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e5/2b/default-avatar-2020-52.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e5/2b/default-avatar-2020-52.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e5/2b/default-avatar-2020-52.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 940437458,
+        "title": "Owner response",
+        "text": "Dear Rohit,\nThank you for this review.\n\nWe're thrilled to hear our front office team assisted you with an early check-in, ensuring a smooth start to your stay. It's wonderful that you appreciated the luxury amenities in your room, reflecting our commitment to comfort and quality. We're also glad to have accommodated your request for an electric kettle, as we aim to meet our guests' needs promptly. Your kind words on the discounted breakfast offer are much appreciated, as we strive to provide value alongside our diverse culinary options.\n\nWe look forward to welcoming you back on a future occasion. \nBest wishes,\n\nabba Sants Hotel",
+        "lang": "en",
+        "author": "Hotel- cmanager",
+        "published_date": "2024-03-01T09:50:51Z"
+      }
+    },
+    {
+      "id": 919915572,
+      "lang": "en",
+      "location_id": 228626,
+      "published_date": "2023-10-05T12:51:53Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d228626-r919915572-Reviews-Abba_Sants_Hotel-Barcelona_Catalonia.html?m=66827#review919915572",
+      "text": "Easy walk from Sants Station. Metro stop right outside the hotel to connect to anywhere in the city. Generously proportioned room, which was particularly welcome as we were 3 adults sharing, with luggage etc. Exceptionally comfortable beds. Good wifi.",
+      "title": "Prime location",
+      "trip_type": "Friends getaway",
+      "travel_date": "2023-10-31",
+      "user": {
+        "username": "ZA_world",
+        "user_location": {
+          "id": "312578",
+          "name": "Johannesburg, Greater Johannesburg, Gauteng"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ea/b2/default-avatar-2020-69.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 920008330,
+        "title": "Owner response",
+        "text": "Dear Za,\nThank you for letting us know that you enjoyed your stay.\n\nWe're delighted to hear that you enjoyed our prime location, just a short walk from Sants Station and with easy access to the metro. It's great to know that our generously proportioned room was comfortable for your group of three adults, and that you found the beds exceptionally comfortable. We're also glad that our WiFi met your expectations.\n\nThe whole team hope we have the pleasure of seeing you again on another occasion. \nKind regards,\n\nabba Sants Hotel",
+        "lang": "en",
+        "author": "Hotel- cmanager",
+        "published_date": "2023-10-06T06:43:00Z"
+      }
+    },
+    {
+      "id": 912628691,
+      "lang": "en",
+      "location_id": 228626,
+      "published_date": "2023-08-24T11:23:23Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d228626-r912628691-Reviews-Abba_Sants_Hotel-Barcelona_Catalonia.html?m=66827#review912628691",
+      "text": "Excellent location very close to a metro and cloae also to the Sants train station. Quiet area, air con in room. Really good burger!\nWiFi was sufficient. Breakfast was good also. Staff professional. Definitely recommend for business",
+      "title": "Pleasant stay",
+      "trip_type": "Business",
+      "travel_date": "2023-06-30",
+      "user": {
+        "username": "Turasoirglic",
+        "user_location": {
+          "id": "658662",
+          "name": "Western Ireland"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/02/6a/52/1f/turasoirglic.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/02/6a/52/1f/turasoirglic.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/02/6a/52/1f/turasoirglic.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/02/6a/52/1f/turasoirglic.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 912777204,
+        "title": "Owner response",
+        "text": "Dear Guest,\nWe would like to thank you for this positive review of your experience in our hotel.\n\nThank you for commenting on our prices; we are very glad that you were satisfied in this regard. \n\nWe are also pleased to hear that you appreciated our team's service. This motivates us to continue upholding the high standards we set for ourselves.\n\nWe would be delighted to welcome you back on another occasion.\nKind regards,\n\nabba Sants Hotel",
+        "lang": "en",
+        "author": "Hotel- cmanager",
+        "published_date": "2023-08-25T05:01:08Z"
+      }
+    },
+    {
+      "id": 900733237,
+      "lang": "en",
+      "location_id": 228626,
+      "published_date": "2023-07-05T19:23:49Z",
+      "rating": 4,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d228626-r900733237-Reviews-Abba_Sants_Hotel-Barcelona_Catalonia.html?m=66827#review900733237",
+      "text": "We stayed here with a tour group. It wouldn’t be my first choice, since it’s not exactly central to tourist activities, and I prefer to stay at a more central location. That said, it’s right next to a metro stop so it’s easy enough to get where you need to go. The rooms were clean and comfortable. Breakfast buffet was good, though I would not recommend them for lunch or dinner (we had two issues with over- and under-cooked food for many in our group). The staff was fairly helpful though!",
+      "title": "Nice hotel, but not central",
+      "trip_type": "Friends getaway",
+      "travel_date": "2023-06-30",
+      "user": {
+        "username": "TravelingDiva51",
+        "user_location": {
+          "id": "50226",
+          "name": "Columbus, Ohio"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e8/91/default-avatar-2020-62.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 905478768,
+        "title": "Owner response",
+        "text": "Hi Aveli,\nThank you for this positive review.\n\nIt means a lot to know that you appreciated our high standards and comfortable rooms. \n\nThank you for highlighting the good access to transport which makes visiting the city center easy; our team are always happy to help with advice on the best way to reach your destination.\n\nIt would be a pleasure to welcome you again. \nBest regards,\n\nabba Sants Hotel",
+        "lang": "en",
+        "author": "Hotel- cmanager",
+        "published_date": "2023-07-25T09:30:46Z"
+      }
+    },
+    {
+      "id": 875386929,
+      "lang": "en",
+      "location_id": 228626,
+      "published_date": "2023-01-17T04:03:56Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d228626-r875386929-Reviews-Abba_Sants_Hotel-Barcelona_Catalonia.html?m=66827#review875386929",
+      "text": "I stayed for two nights for a work trip. The room itself was clean and a good size. However, there was no outlets next to my bed and the doors are pretty thin, could hear every footstep outside like they were in the room. The breakfast however, was fantastic - so many options and really nice space. It was very close to Estació de Sants and Metro but otherwise pretty far away from Barcelona Central for tourist needs.",
+      "title": "Fine stay, great breakfast a little out of the center.",
+      "trip_type": "Business",
+      "travel_date": "2023-01-31",
+      "user": {
+        "username": "elleirbagj",
+        "user_location": {
+          "id": "3298395",
+          "name": "Windsor, New Hampshire"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/26/56/7b/b2/gabbyjack28.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/26/56/7b/b2/gabbyjack28.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/26/56/7b/b2/gabbyjack28.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/26/56/7b/b2/gabbyjack28.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/26/56/7b/b2/gabbyjack28.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Rooms"
+        },
+        "1": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 875608080,
+        "title": "Owner response",
+        "text": "Dear Gabby,\nWe appreciate the time you took to provide this review.\n\nWe are sorry to hear that you were disturbed during your stay and wish that we'd known while you were here. Our team will always do everything that we can to make sure that you're as comfortable as possible and we would have been happy to change your room if one was available.\n\nWe hope to welcome you back on another occasion. \nBest wishes,\n\nabba Sants Hotel",
+        "lang": "en",
+        "author": "Hotel- cmanager",
+        "published_date": "2023-01-19T04:59:44Z"
+      }
+    }
+  ]
+}

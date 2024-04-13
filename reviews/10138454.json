@@ -1,0 +1,109 @@
+{
+  "data": [
+    {
+      "id": 841257630,
+      "lang": "en",
+      "location_id": 10138454,
+      "published_date": "2022-06-03T08:36:33Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d10138454-r841257630-Reviews-Spil_Suites-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review841257630",
+      "text": "It is located next to Kultur Parki, which is the biggest park in Izmir (AFAIK), with plenty of cultural and sporting events happening all the time. It is within walking distance to the shore, Kordon, ferry piers, cafes and eateries. The owner and the staff go above and beyond to provide the best possible service. The room was clean, spacious, well-furnished and comfortable. The only thing that I couldn't comprehend was the bathroom doors - why are there glass, semi-transparent doors to the bathroom? Make sure you are comfortable with that before you book, or get in touch and enquire.",
+      "title": "Awesome stay.. with a disclaimer",
+      "trip_type": "NONE",
+      "travel_date": "2022-04-30",
+      "user": {
+        "username": "AydinS_11",
+        "user_location": {
+          "id": "255060",
+          "name": "Sydney, New South Wales"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/02/32/e6/6f/aydin-s.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/02/32/e6/6f/aydin-s.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/02/32/e6/6f/aydin-s.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/02/32/e6/6f/aydin-s.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 650382640,
+      "lang": "en",
+      "location_id": 10138454,
+      "published_date": "2019-02-05T15:48:02Z",
+      "rating": 4,
+      "helpful_votes": 3,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d10138454-r650382640-Reviews-Spil_Suites-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review650382640",
+      "text": "I’ve never stayed anywhere that had “free services” coffee, tea, bottled water, soaps etc. They did our laundry which we were desperate to do, not to mention parking (while limited) was free as well. For the 35 euros it cost, we stayed an extra night. \nRooms are large and well equipped with lighted mirrors and lovely hot showers - nicely decorated and a kitchenette. Staff went out of their way to help us.",
+      "title": "If you have a vehicle, I highly recommend",
+      "trip_type": "Family",
+      "travel_date": "2019-02-28",
+      "user": {
+        "username": "Tanyankd",
+        "user_location": {
+          "id": "154958",
+          "name": "Moncton, New Brunswick"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/e6/default-avatar-2020-45.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 581420820,
+      "lang": "en",
+      "location_id": 10138454,
+      "published_date": "2018-05-20T10:40:33Z",
+      "rating": 4,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d10138454-r581420820-Reviews-Spil_Suites-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review581420820",
+      "text": "This was a bit hard to locate, given also that we did not have GPS help and somewhat after midnight.  Reception open through the night. They helped with free car parking and bags to the room.  The room was spacious with King, rollaway and sofa bed, kitchenette.  Bathroom is very modern - should have a curtain as it has frosted glass with gaps on the sides. No breakfast.  Hospitable folks.  Would call this a functional 1-2 nights stop.",
+      "title": "Large room, small hotel, functional",
+      "trip_type": "Family",
+      "travel_date": "2018-05-31",
+      "user": {
+        "username": "travtk",
+        "user_location": {
+          "id": "297628",
+          "name": "Bengaluru, Bangalore District, Karnataka"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ee/db/default-avatar-2020-10.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

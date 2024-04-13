@@ -1,0 +1,241 @@
+{
+  "data": [
+    {
+      "id": 943158361,
+      "lang": "en",
+      "location_id": 23583463,
+      "published_date": "2024-03-20T10:54:03Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23583463-r943158361-Reviews-HE_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827#review943158361",
+      "text": "After a bit of a shakey start 2am check-in!\nJames the manager & his team were excellant, they couldnt  be more helpful.\nWe were moved to a bigger room which was amzing.\nThe Hotel is spotlessly clean everywhere. Breakfast has a good variety of hot& cold options to suit all tastes.\nComplimentry waters left everyday in the room.\nIts location is about 20mins in a taxi from almost anywhere & taxi are cheap on the \nCareem app.",
+      "title": "Small friendly super clean stay!",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "jilllily",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/d0/default-avatar-2020-33.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/d0/default-avatar-2020-33.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f4/d0/default-avatar-2020-33.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f4/d0/default-avatar-2020-33.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f4/d0/default-avatar-2020-33.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 945445557,
+        "title": "Owner response",
+        "text": "Dear Jilly,\n\"I am thrilled to hear that you had a wonderful experience at the HE Hotel by Gewan. Your gracious comments about our products and services are greatly appreciated, and we hope to have the pleasure of welcoming you back soon. Best regards,\"\nManagement.",
+        "lang": "en",
+        "author": "HE Hotel",
+        "published_date": "2024-04-05T09:13:13Z"
+      }
+    },
+    {
+      "id": 930034753,
+      "lang": "en",
+      "location_id": 23583463,
+      "published_date": "2023-12-17T05:24:43Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23583463-r930034753-Reviews-HE_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827#review930034753",
+      "text": "This is not an actual hotel, but an apartment building with everything that comes with it. The property is marketed as a five star hotel, which is absolutely not the case in reality. It is just an ordinary apartment building, located far from anything interesting in Dubai and surrounded by construction sites, so that noise and dust will be present at any moment during your stay. \nThere is really nothing which will stand as a good argument in favor of this property.",
+      "title": "Stay away",
+      "trip_type": "Family",
+      "travel_date": "2023-12-31",
+      "user": {
+        "username": "ggabi",
+        "user_location": {
+          "id": "294457",
+          "name": "Romania"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/02/3d/58/84/ggabi.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/02/3d/58/84/ggabi.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/02/3d/58/84/ggabi.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/02/3d/58/84/ggabi.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 930449259,
+        "title": "Owner response",
+        "text": "Dear Mr. Gabi,\nThank you for your valuable feedback following your recent stay with us.\nOnly with the feedback from our guests we are able to constantly optimize our service. It is not our intention to disappoint our guest and it is obvious, that we did not meet your expectations in this occasion. We have shared your feedback with the relevant department.\nWe are looking forward to the possibility of welcoming you back to our Hotel\nBest Regards,\nManagements.",
+        "lang": "en",
+        "author": "HE Hotel",
+        "published_date": "2023-12-21T03:27:24Z"
+      }
+    },
+    {
+      "id": 925187096,
+      "lang": "en",
+      "location_id": 23583463,
+      "published_date": "2023-11-09T09:15:18Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23583463-r925187096-Reviews-HE_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827#review925187096",
+      "text": "I’d like to thank the great, friendly, professional front office staff James and Mohamed Mahmoud, I liked the professional housekeeping service by the polite Noman and Sanaullah, add to all the cheerful, excellent service by Abdul Naser, Mohamed Abu HInd, Fidaa, Tejesri and Mariem at the restaurant lounge.\nThe only issue was the construction sound from the area around the hotel unfortunately.\nعبد الناصر في Leo Lounge من أجمل الشخصيات في المكان، شكر خاص للاحترافية وحسن الاستقبال",
+      "title": "Great",
+      "trip_type": "Solo travel",
+      "travel_date": "2023-11-30",
+      "user": {
+        "username": "sallytI723DZ",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/2a/45/98/83/sally-t.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/2a/45/98/83/sally-t.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/2a/45/98/83/sally-t.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/2a/45/98/83/sally-t.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/2a/45/98/83/sally-t.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 930448205,
+        "title": "Owner response",
+        "text": "Dear Ms. Sally ,\nThank you for choosing HE Hotel by Gewan and sharing your flattering feedback with us on TripAdvisor.com.\nWe are very delighted to hear that you enjoyed your stay with us.\n\nPlease be sure that your valued feedback will be shared with the relevant departments, Please be sure that your valued feedback will be shared with the relevant departments,\nDelivering the best hospitality service to our guests is our main goal and we are truly delighted that we have achieved it.We are looking forward to welcome you back to HE Hotel in the near future.\nBest Regards.\nManagements.",
+        "lang": "en",
+        "author": "HE Hotel",
+        "published_date": "2023-12-21T03:13:14Z"
+      }
+    },
+    {
+      "id": 923145847,
+      "lang": "en",
+      "location_id": 23583463,
+      "published_date": "2023-10-27T03:19:30Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23583463-r923145847-Reviews-HE_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827#review923145847",
+      "text": "Every thing is good spicaly Breck fast i fell like home thank u for spicaly Tejasri and oshi feedar will visitagain its really good experience and room very clean pool every thing i enjoy i suggest and it is near to metro station thak you everyonethank you",
+      "title": "Good",
+      "trip_type": "Business",
+      "travel_date": "2023-09-30",
+      "user": {
+        "username": "879nassimg",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/11/default-avatar-2020-23.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 924753818,
+        "title": "Owner response",
+        "text": "Dear Mr Nassim ,\nThank you for sharing such an excellent review on TripAdvisor following your stay with HE Hotel by Gewan.\nWe are pleased that you had a wonderful stay at HE Hotel and that you enjoyed our property and our service.\nyour encouraging compliments will be forwarded to the team and we are looking forward to welcome you again as our guest at HE Hotel.\nBest Regards ,\nManagement.",
+        "lang": "en",
+        "author": "HE Hotel",
+        "published_date": "2023-11-06T04:26:08Z"
+      }
+    },
+    {
+      "id": 920846615,
+      "lang": "en",
+      "location_id": 23583463,
+      "published_date": "2023-10-11T14:48:40Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23583463-r920846615-Reviews-HE_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827#review920846615",
+      "text": "I injoyed my time at the hotel, I would like to thank the Housekeeping who cleaned my room, the breakfast was excellent. I would like to thank all the staff for there welcome. Shisha Lounge it was very good service special thank to Mr. Abdo for his professional service",
+      "title": "Good place",
+      "trip_type": "Couples",
+      "travel_date": "2023-10-31",
+      "user": {
+        "username": "Million765",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e6/ea/default-avatar-2020-54.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e6/ea/default-avatar-2020-54.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e6/ea/default-avatar-2020-54.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e6/ea/default-avatar-2020-54.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e6/ea/default-avatar-2020-54.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 924754611,
+        "title": "Owner response",
+        "text": "Dear Valued Guest,\nThank you for choosing HE Hotel by Gewan and sharing your flattering feedback with us on TripAdvisor.com.\nIt was a real pleasure having you as our guest. \nyour encouraging compliments will be forwarded to the team and we are looking forward to welcome you again as our guest at HE Hotel.\nWe look forward to your next visit in HE Hotel\nKind regards,\nManagement",
+        "lang": "en",
+        "author": "HE Hotel",
+        "published_date": "2023-11-06T04:33:33Z"
+      }
+    }
+  ]
+}

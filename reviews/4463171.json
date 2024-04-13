@@ -1,0 +1,289 @@
+{
+  "data": [
+    {
+      "id": 945763028,
+      "lang": "en",
+      "location_id": 4463171,
+      "published_date": "2024-04-07T19:04:25Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d4463171-r945763028-Reviews-Hotel_Royal_Passeig_de_Gracia-Barcelona_Catalonia.html?m=66827#review945763028",
+      "text": "Everything fine, excellent room and breakfast, very clean, nice location.\nOnly exception are the elevators. Need to improve in this.\nOne of the elevators was simply not working during most of our stay (6 days).\nThe other 2 elevators are small and noisy, and unable to supply the demand.\nWe even got stuck in one of them for a few minutes, which is unnaceptable.",
+      "title": "Everything very excellent, except the elevators",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "deniom2024",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e9/bb/default-avatar-2020-65.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 944529893,
+      "lang": "en",
+      "location_id": 4463171,
+      "published_date": "2024-03-30T12:43:06Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d4463171-r944529893-Reviews-Hotel_Royal_Passeig_de_Gracia-Barcelona_Catalonia.html?m=66827#review944529893",
+      "text": "Good location in Town.  Front-Desk, Cleaning and Breakfast Staff were very friendly and more than helpful.  Terrace Bar was the only very-slight let-down, a bit too noisy and the bar-snack selection was a little limited on the evening we tried it  Other than that, brilliant.",
+      "title": "Best Stay, thanks...",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "johnnX5055OA",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e6/ea/default-avatar-2020-54.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e6/ea/default-avatar-2020-54.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e6/ea/default-avatar-2020-54.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e6/ea/default-avatar-2020-54.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e6/ea/default-avatar-2020-54.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945238901,
+        "title": "Owner response",
+        "text": "Dear Johnnx. \nThank you for taking the time to review your recent stay.\n\nWe are thrilled to hear that our central location and the friendliness of our staff made a positive impact on your stay. Our team strives to deliver an exceptional experience, and it's gratifying to know that we were able to make you feel welcome.\nWe regret to hear that your experience at our 83.3 Terrace Bar did not meet your expectations. While it is a popular spot known for its vibrant atmosphere and stunning views, we understand that the noise levels and snack selection might not be to everyone's taste. We appreciate your comments and will consider them as we continuously work to enhance our guest experience.\nOnce again, we are pleased that the positive aspects of your stay shined through, and we hope that the overall experience has left you with fond memories of Barcelona.\n\nWe look forward to welcoming you for an another pleasant stay. \nBest wishes.\n\nMireia, Guest Relations Manager",
+        "lang": "en",
+        "author": "Hotel- cmanager",
+        "published_date": "2024-04-03T13:47:04Z"
+      }
+    },
+    {
+      "id": 944326650,
+      "lang": "en",
+      "location_id": 4463171,
+      "published_date": "2024-03-28T22:58:11Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d4463171-r944326650-Reviews-Hotel_Royal_Passeig_de_Gracia-Barcelona_Catalonia.html?m=66827#review944326650",
+      "text": "We really enjoyed our 5 night stay. For starters, the location is perfect for the sites we were most interested in visiting, especially the Gaudi buildings. The staff was among the best I've ever experienced. Gianmarco was particularly helpful and friendly, though I guess he moved on right around the end of our visit...too bad for future guests. The bed was excellent. My only nitpicky criticisms: We had a junior suite, but none of the furniture besides the bed was comfortable to sit on. There was nowhere near the sink to hang a hand towel. The light switches were in odd places. We liked the terrace bar, but it seemed to be a little understaffed; it was sometimes hard to get their attention. But overall, we were very pleased and I would not hesitate to recommend this hotel to anybody visiting Barcelona.",
+      "title": "Excellent staff and location",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "291bobj",
+        "user_location": {
+          "id": "60859",
+          "name": "Madison, Wisconsin"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/7a/default-avatar-2020-25.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945238938,
+        "title": "Owner response",
+        "text": "Dear Guest,\nThank you for taking the time to provide us your feedback.\n\nWe are delighted to hear that our staff's dedication left a lasting impression on you, and that our location served as the perfect base for your Barcelona explorations. It's wonderful to know that the comfort of our beds contributed to a restful experience.\nWe appreciate your candid feedback regarding the comfort of the furniture in your junior suite, as well as the bathroom design and placement of light switches. Please rest assured that we take all guest comments into account as part of our commitment to continuous improvement. Additionally, we do take note of your experience at our terrace bar and will look into ensuring our service remains attentive and prompt.\nIt's gratifying to learn that you enjoyed the vibrant atmosphere of our terrace bar, and we hope those memories will be part of the many positive takeaways from your visit.\n\nWe hope that we have the opportunity to see you again soon. \nKind regards,\n\nMireia, Guest Relations Manager",
+        "lang": "en",
+        "author": "Hotel- cmanager",
+        "published_date": "2024-04-03T13:47:20Z"
+      }
+    },
+    {
+      "id": 944214973,
+      "lang": "en",
+      "location_id": 4463171,
+      "published_date": "2024-03-28T02:48:18Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d4463171-r944214973-Reviews-Hotel_Royal_Passeig_de_Gracia-Barcelona_Catalonia.html?m=66827#review944214973",
+      "text": "A superb location amongst the best shopping avenue in Spain with comfortable amenities and excellent staff who were eager to help plus the rooftop restaurant and lounge space was a perfect place to end each day (hint: get the chicken tacos)",
+      "title": "Barcelona’s Hotel Royal 5 Stars!",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "drto2021",
+        "user_location": {
+          "id": "154933",
+          "name": "Kelowna, Okanagan Valley, British Columbia"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/27/4d/24/13/drto2021.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/27/4d/24/13/drto2021.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/27/4d/24/13/drto2021.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/27/4d/24/13/drto2021.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/27/4d/24/13/drto2021.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945238958,
+        "title": "Owner response",
+        "text": "Dear Guest,\nThank you for taking the time to share your review.\n\nWe are overjoyed to hear that our prime location enhanced your stay, offering the convenience and charm that only Passeig de Gracia can provide. \nIt is wonderful to know that the amenities, particularly our rooftop restaurant and lounge, served as the perfect backdrop to end your evenings in Barcelona. The chicken tacos, a favorite among our guests, are just one example of the culinary delights we strive to offer. \nFurthermore, your kind words regarding our staff fill us with pride, as their dedication to service is paramount in creating memorable experiences for our valued guests like yourself.\n\nWe hope to welcome you back. \nBest wishes,\n\nMireia, Guest Relations Manager",
+        "lang": "en",
+        "author": "Hotel- cmanager",
+        "published_date": "2024-04-03T13:47:32Z"
+      }
+    },
+    {
+      "id": 943583521,
+      "lang": "en",
+      "location_id": 4463171,
+      "published_date": "2024-03-24T04:06:43Z",
+      "rating": 3,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d4463171-r943583521-Reviews-Hotel_Royal_Passeig_de_Gracia-Barcelona_Catalonia.html?m=66827#review943583521",
+      "text": "Stayed here for my 60th birthday celebration with my wife and two children, the had adjoining rooms which were lovely and spacious. The hotel is in a great location for exploring the city’s many attractions mostly walking distance from the hotel and the rooftop bar is a lovely area for an aperitif with great views. however the breakfast was a real letdown, on the first day all was fine but on the second and third days when the hotel was more full the staff couldn’t cope. They ran out of bread for toast, no pastries, no orange juice, no eggs, no water and when I asked when they were to be refilled I was met with blank looks, I had to go up to reception to complain and to be fair they refunded the breakfast for my entire stay.\nI would stay there again but room only.",
+      "title": "Nice hotel but breakfast is a real let down",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "joncoops",
+        "user_location": {
+          "id": "186278",
+          "name": "Essex, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1b/a3/9f/06/caption.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1b/a3/9f/06/caption.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1b/a3/9f/06/caption.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/1b/a3/9f/06/caption.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945559957,
+        "title": "Owner response",
+        "text": "Dear Guest, \nPlease accept our thanks for your review.\n\nWe're delighted to hear that our adjoining rooms provided a spacious and comfortable experience for your 60th birthday celebration, and that you found our rooftop bar to be a lovely spot for an aperitif with its stunning city views. It's also great to know that our location served as an excellent base for exploring Barcelona's attractions. However, we regret to hear of the issues you encountered during breakfast. While we strive to provide an exceptional dining experience, it seems we fell short during busier times. We appreciate your feedback as it is invaluable in our constant efforts to improve our service. Please rest assured that your comments have been shared with our hospitality team.\n\nIt would be a pleasure to welcome you back in the future. \nKind regards,\n\nDiego Vilar, General Manager",
+        "lang": "en",
+        "author": "Hotel- cmanager",
+        "published_date": "2024-04-06T08:30:42Z"
+      }
+    }
+  ]
+}

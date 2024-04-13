@@ -1,0 +1,213 @@
+{
+  "location_id": "23988790",
+  "name": "Concorde El Salam Sport Hotel Sharm El Sheikh",
+  "description": "This property is a 6-minute walk from the beach. Just a 5-minute walk from Soho Square, Concorde El Salam Sharm El Sheikh offers an outdoor pool, 2 squash courts and 2 equestrian tracks. It also has a private beach access with free transportation. Free WiFi access is available in the hotel lobby. All rooms are fitted with pale wooden furniture and decorated in warm tones. Each one offers a satellite TV, a mini-bar and a balcony or patio. The bathroom is fitted with a bath, a shower and a hairdryer. A wide range of dishes are available at the Italian Restaurant and Waterfalls Restaurant. International cuisines can be enjoyed in Flame Restaurant and Vendome Bar on the beach. There is a piano bar overlooking the pool area and the Normandy II club, offering international music and live shows. At Concorde El Salam Sport Hotel, you will find a fitness center and a spa including sauna, a hot tub and massage treatments. Other facilities offered include a games room, a tour desk and luggage storage. An array of activities can be enjoyed on site or in the surroundings, including skiing, a water park and billiards. The hotel is 9.9 mi from Naama Bay and Sharm El Sheikh International Airport is 0.6 mi away",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d23988790-Reviews-Concorde_El_Salam_Sport_Hotel_Sharm_El_Sheikh-Sharm_El_Sheikh_South_Sinai_Red_Sea_and.html?m=66827",
+  "address_obj": {
+    "street1": "White Knight Beach, 91",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "address_string": "White Knight Beach, 91, Sharm El Sheikh Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.914366",
+  "longitude": "34.327927",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d23988790-Concorde_El_Salam_Sport_Hotel_Sharm_El_Sheikh-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#4 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "4"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "657",
+  "review_rating_count": {
+    "1": "14",
+    "2": "1",
+    "3": "8",
+    "4": "16",
+    "5": "619"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "493",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d23988790-m66827-Reviews-Concorde_El_Salam_Sport_Hotel_Sharm_El_Sheikh-Sharm_El_Sheikh_South_Sinai_Red_Sea_and.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Kids Activities",
+    "Beachfront",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Restaurant",
+    "Bar/Lounge",
+    "Pets Allowed",
+    "Kitchenette",
+    "Spa",
+    "Airport transportation",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Tennis Court",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Babysitting",
+    "Safe",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Adult pool",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Kids Club",
+    "Sauna",
+    "Arabic",
+    "ATM On Site",
+    "BBQ Facilities",
+    "Billiards",
+    "Breakfast in the Room",
+    "24-Hour Check-in",
+    "Coffee Shop",
+    "Currency Exchange",
+    "Diving",
+    "English",
+    "Evening Entertainment",
+    "Fitness Classes",
+    "Free Public Parking Nearby",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "German",
+    "Gift Shop",
+    "Hammam",
+    "Horseback Riding",
+    "Ironing Service",
+    "Kids' Meals",
+    "Pool / Beach Towels",
+    "Russian",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Snorkeling",
+    "Soundproof Rooms",
+    "Squash",
+    "Steam Room",
+    "Table Tennis",
+    "Taxi Service",
+    "Washing Machine",
+    "Beach Access",
+    "Wheelchair access",
+    "Public Wifi",
+    "Meeting rooms",
+    "Kids pool",
+    "Express Check-in / Check-out",
+    "Children's Playground",
+    "Complimentary Welcome Drink",
+    "Outdoor Dining Area",
+    "Pool View"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Business"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "69"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "107"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "13"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "303"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "129"
+    }
+  ],
+  "awards": []
+}

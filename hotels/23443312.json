@@ -1,0 +1,108 @@
+{
+  "location_id": "23443312",
+  "name": "BedRed Inn Boutique Hotel",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g15263864-d23443312-Reviews-BedRed_Inn_Boutique_Hotel-Konak_Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Fatih, Halil RIfat Pasa Cd. No:13",
+    "city": "Konak",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35260",
+    "address_string": "Fatih, Halil RIfat Pasa Cd. No:13, Konak, Izmir 35260 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Konak",
+      "location_id": "15263864"
+    },
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.413235",
+  "longitude": "27.127745",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g15263864-d23443312-BedRed_Inn_Boutique_Hotel-Konak_Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "15263864",
+    "ranking_string": "#4 of 12 hotels in Konak",
+    "geo_location_name": "Konak",
+    "ranking_out_of": "12",
+    "ranking": "4"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "1",
+  "review_rating_count": {
+    "1": "0",
+    "2": "0",
+    "3": "0",
+    "4": "0",
+    "5": "1"
+  },
+  "subratings": {},
+  "photo_count": "1",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g15263864-d23443312-m66827-Reviews-BedRed_Inn_Boutique_Hotel-Konak_Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "amenities": [],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Boutique",
+    "Business"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "0"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "0"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "0"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "0"
+    }
+  ],
+  "awards": []
+}

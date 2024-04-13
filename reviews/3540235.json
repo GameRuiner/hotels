@@ -1,0 +1,294 @@
+{
+  "data": [
+    {
+      "id": 944381571,
+      "lang": "en",
+      "location_id": 3540235,
+      "published_date": "2024-03-29T10:20:16Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d3540235-r944381571-Reviews-Generator_Barcelona-Barcelona_Catalonia.html?m=66827#review944381571",
+      "text": "We have been enjoying our stay in Barcelona.\nThe location is handy. About 30 minutes walk from interesting tourist attractions.\nPublic transportation nearby.\nRestaurants and bar are nice and good value.\nBed is comfortable. ",
+      "title": "Wonderful stay in Barcelona",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "DianS445",
+        "user_location": {
+          "id": "188590",
+          "name": "Amsterdam, North Holland Province"
+        },
+        "avatar": {
+          "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-l/01/2a/fd/9c/avatar.jpg?w=100&h=100&s=1",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/01/2a/fd/9c/avatar.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944970980,
+        "title": "Owner response",
+        "text": "Hola! Thank you for sharing your experience at Generator Barcelona. We are glad to know that you enjoyed the city and your stay with us. We hope to see you back in the future!\n",
+        "lang": "en",
+        "author": "Generator Hostels",
+        "published_date": "2024-04-02T14:56:12Z"
+      }
+    },
+    {
+      "id": 943616446,
+      "lang": "en",
+      "location_id": 3540235,
+      "published_date": "2024-03-24T09:32:24Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d3540235-r943616446-Reviews-Generator_Barcelona-Barcelona_Catalonia.html?m=66827#review943616446",
+      "text": "Fantastic experience, very clean and well looked after.\nThe people working there were kind and clearly dedicated to provide a good service.\nSpecial mention to Mohammed and Grace at the desk who were very welcoming and helpful! 👌\nWould highly recommend.",
+      "title": "A great place to stay",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "S1445CWbarts",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/d5/default-avatar-2020-17.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 944958146,
+        "title": "Owner response",
+        "text": "Thank you for your amazing comment! We're happy our staff was both helpful and friendly. We hope to see you again soon!",
+        "lang": "en",
+        "author": "Generator Hostels",
+        "published_date": "2024-04-02T12:58:52Z"
+      }
+    },
+    {
+      "id": 942177913,
+      "lang": "en",
+      "location_id": 3540235,
+      "published_date": "2024-03-13T11:41:42Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d3540235-r942177913-Reviews-Generator_Barcelona-Barcelona_Catalonia.html?m=66827#review942177913",
+      "text": "The location is very good, close to a lot of attractions. I felt very welcomed, there are a lot places in the hostel were you can relaxe and enjoy. I booked the breakfast which paid off very well. The bar is nice and you have the possibility to eat something there like pizza or burger.",
+      "title": "Friendly and good location",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "matteasara",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ec/a2/default-avatar-2020-3.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ec/a2/default-avatar-2020-3.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ec/a2/default-avatar-2020-3.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ec/a2/default-avatar-2020-3.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ec/a2/default-avatar-2020-3.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 942253029,
+        "title": "Owner response",
+        "text": "Thank you for making the effort to write about your experience with us. We are glad you had an overall good stay",
+        "lang": "en",
+        "author": "Generator Hostels",
+        "published_date": "2024-03-14T04:25:30Z"
+      }
+    },
+    {
+      "id": 941821366,
+      "lang": "en",
+      "location_id": 3540235,
+      "published_date": "2024-03-11T16:17:01Z",
+      "rating": 3,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d3540235-r941821366-Reviews-Generator_Barcelona-Barcelona_Catalonia.html?m=66827#review941821366",
+      "text": "Breakfast was really good, a hotel double room in this hostel for over 150€/night is way too expensive. Bathroom door was loud at the beginning, was fixed afterwards, door of shower was only moveable with quite some power, pressure of the shower was really low. The room could be more cleaner. Rooms are furnished poorly, therefore more space in the rooms. ",
+      "title": "There’s room for improvement",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Eva0386",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/6d/default-avatar-2020-19.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/6d/default-avatar-2020-19.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/6d/default-avatar-2020-19.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/6d/default-avatar-2020-19.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/6d/default-avatar-2020-19.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Rooms"
+        },
+        "1": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Cleanliness"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 942252981,
+        "title": "Owner response",
+        "text": "Thank you for taking the time to review us. We appreciate it. We hope you will give us another chance.",
+        "lang": "en",
+        "author": "Generator Hostels",
+        "published_date": "2024-03-14T04:24:54Z"
+      }
+    },
+    {
+      "id": 940654639,
+      "lang": "en",
+      "location_id": 3540235,
+      "published_date": "2024-03-03T08:02:55Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d3540235-r940654639-Reviews-Generator_Barcelona-Barcelona_Catalonia.html?m=66827#review940654639",
+      "text": "I’m giving a five star review to this place because of the bar staff’s incredible recommendation of a local establishment that some of my friends and I had the pleasure of frequenting on our last evening in Barcelona. As promised, and upon arrival, the tits were simply plentiful. The Eastern European women who welcomed us were incredibly generous with the time and attention they gave us and never left my side, often helpfully reminding me how to use the cash machine. It truly was a lesson in how to spend money. The plastic bedding was a tad uncomfortable, almost as disappointing as the faces of my new acquaintances once they saw my flaccid micropenis. However, we all laughed about it over our third bottle of champagne (on my tab, naturally) and made memories that I think  my newly found friends will have forgotten as quickly as they met me. A wonderful time had by all.\n\nAs for the hostel, bang average. Never let the truth get in the way of a good review. Would recommend nonetheless.",
+      "title": "A magical weekend",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "danvX4187KN",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f1/79/default-avatar-2020-21.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f1/79/default-avatar-2020-21.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f1/79/default-avatar-2020-21.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f1/79/default-avatar-2020-21.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/79/default-avatar-2020-21.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 942252927,
+        "title": "Owner response",
+        "text": "Thank you very much for your kind words. We hope to see you again very soon. ",
+        "lang": "en",
+        "author": "Generator Hostels",
+        "published_date": "2024-03-14T04:24:13Z"
+      }
+    }
+  ]
+}

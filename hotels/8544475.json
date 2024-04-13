@@ -1,0 +1,184 @@
+{
+  "location_id": "8544475",
+  "name": "Caves Beach Resort Hurghada",
+  "description": "The hotel exterior design is in a unique and wonderful Stone-Rock - Mountain style same the landscape and pool areas with integrated lights and plants around the pool and in all public areas. All the rooms are also fully cave-style in a high quality finish and made in wood and rock.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297549-d8544475-Reviews-Caves_Beach_Resort_Hurghada-Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "KM 10 El Ahyaa Road",
+    "city": "Hurghada",
+    "country": "Egypt",
+    "postalcode": "84517",
+    "address_string": "KM 10 El Ahyaa Road, Hurghada 84517 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Hurghada",
+      "location_id": "297549"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.31825",
+  "longitude": "33.71003",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297549-d8544475-Caves_Beach_Resort_Hurghada-Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297549",
+    "ranking_string": "#106 of 325 hotels in Hurghada",
+    "geo_location_name": "Hurghada",
+    "ranking_out_of": "325",
+    "ranking": "106"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1557",
+  "review_rating_count": {
+    "1": "125",
+    "2": "73",
+    "3": "109",
+    "4": "195",
+    "5": "1055"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    }
+  },
+  "photo_count": "2067",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297549-d8544475-m66827-Reviews-Caves_Beach_Resort_Hurghada-Hurghada_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Beachfront",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Minibar",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Private Beaches",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Aerobics",
+    "Arabic",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "German",
+    "Gift Shop",
+    "Massage",
+    "Nightclub / DJ",
+    "Russian",
+    "Salon",
+    "Shops",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Beach Access",
+    "Pool View"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quirky Hotels",
+    "Romantic"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "19"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "680"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "102"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "213"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "429"
+    }
+  ],
+  "awards": []
+}

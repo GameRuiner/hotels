@@ -1,0 +1,224 @@
+{
+  "location_id": "653073",
+  "name": "Queen Sharm Resort",
+  "description": "Finding an ideal family-friendly hotel in Sharm El Sheikh does not have to be difficult. Welcome to Queen Sharm Resort, a nice option for travelers like you.\nYou’ll enjoy relaxing rooms that offer a refrigerator and air conditioning, and you can stay connected during your stay as Veraclub Queen Sharm Hotel offers guests internet access.\nThe hotel features a concierge. Plus, Veraclub Queen Sharm Hotel offers a pool and free breakfast, providing a pleasant respite from your busy day. For guests with a vehicle, free parking is available.\nWhile staying at Veraclub Queen Sharm Hotel, visitors can check out Al Mustafa Mosque (2.5 mi) and The Heavenly Cathedral (2.5 mi), some of Sharm El Sheikh's top attractions.\nDuring your visit, be sure to check out one of Sharm El Sheikh's popular lobster restaurants such as Fares Seafood, Fares Seafood - IL Mercato, and sinai star, all a short distance from Veraclub Queen Sharm Hotel.\nQueen Sharm Resort puts the best of Sharm El Sheikh at your fingertips, making your stay both relaxing and enjoyable.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d653073-Reviews-Queen_Sharm_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Om El Sid Hill",
+    "street2": "",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "postalcode": "11511",
+    "address_string": "Om El Sid Hill, Sharm El Sheikh 11511 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.860353",
+  "longitude": "34.316093",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d653073-Queen_Sharm_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#101 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "101"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "2682",
+  "review_rating_count": {
+    "1": "188",
+    "2": "164",
+    "3": "308",
+    "4": "766",
+    "5": "1257"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "2907",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d653073-m66827-Reviews-Queen_Sharm_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Restaurant",
+    "Pool",
+    "Beachfront",
+    "Wifi",
+    "Paid Wifi",
+    "Paid Internet",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Free parking",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Refrigerator in room",
+    "Minibar",
+    "Safe",
+    "Swimup Bar",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Private Beaches",
+    "Housekeeping",
+    "Kids Club",
+    "Arabic",
+    "ATM On Site",
+    "Bath / Shower",
+    "Billiards",
+    "Blackout Curtains",
+    "24-Hour Check-in",
+    "Diving",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Free Private Parking Nearby",
+    "24-Hour Front Desk",
+    "Gift Shop",
+    "Italian",
+    "Massage",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shops",
+    "Snorkeling",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Telephone",
+    "Internet",
+    "Public Wifi",
+    "Family Rooms",
+    "Kids pool",
+    "Cable / Satellite TV",
+    "Pool View",
+    "Wardrobe / Closet",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Residential Neighborhood",
+    "Ocean View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "21"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "794"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "137"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "785"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "661"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

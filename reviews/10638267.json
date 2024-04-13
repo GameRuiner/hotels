@@ -1,0 +1,238 @@
+{
+  "data": [
+    {
+      "id": 945751899,
+      "lang": "en",
+      "location_id": 10638267,
+      "published_date": "2024-04-07T16:41:39Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d10638267-r945751899-Reviews-Le_Palacete_powered_by_Sonder-Barcelona_Catalonia.html?m=66827#review945751899",
+      "text": "Love the spaciousness. We enjoyed spending time on the patio with our grandson. We were pleasantly surprised that breakfast was offered each morning. The bathroom is the largest we’ve seen in Barcelona. It’s just a great place for us to stay with lots of attractions nearby. It’s our first choice to stay every time we go to Barcelona.",
+      "title": "Best Place to Stay in Gracia!",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "P6820FBjeanetteb",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ee/10/default-avatar-2020-8.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 941529739,
+      "lang": "en",
+      "location_id": 10638267,
+      "published_date": "2024-03-09T10:45:27Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d10638267-r941529739-Reviews-Le_Palacete_powered_by_Sonder-Barcelona_Catalonia.html?m=66827#review941529739",
+      "text": "The staff here was excellent. Everyone was friendly and inviting and was there to help with my many wants.(towels, toilet paper, where to eat, safe places within walking distance), even what to do when you lose your key. The unit was clean quite and walking distance to many points of interest. I would recommend staying here if you visit Spain",
+      "title": "Best place to stay in Barcelona",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "sheilabJ6467PC",
+        "user_location": {
+          "id": "45963",
+          "name": "Las Vegas, Nevada"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/9f/default-avatar-2020-16.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 942618441,
+        "title": "Owner response",
+        "text": "Thank you for your feedback, Sheila. We're delighted to hear that our city team assisted you with all your needs. We're thrilled that you found our unit clean and conveniently located. Your recommendation means a lot to us, and we would love to welcome you back if you visit Spain again in the future. ",
+        "lang": "en",
+        "author": "Sonder Team",
+        "published_date": "2024-03-17T07:37:20Z"
+      }
+    },
+    {
+      "id": 914386407,
+      "lang": "en",
+      "location_id": 10638267,
+      "published_date": "2023-09-02T05:55:03Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d10638267-r914386407-Reviews-Le_Palacete_powered_by_Sonder-Barcelona_Catalonia.html?m=66827#review914386407",
+      "text": "Great place nice garden and very silence \nPeople are very kind and responded perfectly well to my request  when  we had a problem with the check in  \nVery good ubícated \nClose to the best part of Gracia ",
+      "title": "Great",
+      "trip_type": "Couples",
+      "travel_date": "2023-08-31",
+      "user": {
+        "username": "682mariafernandar",
+        "user_location": {
+          "id": "312741",
+          "name": "Buenos Aires, Capital Federal District"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/10/9d/60/f4/mariafracana.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/10/9d/60/f4/mariafracana.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/10/9d/60/f4/mariafracana.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/10/9d/60/f4/mariafracana.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 914646852,
+        "title": "Owner response",
+        "text": "Hola Maria Fernanda! Muchas gracias por tus comentarios, nos contenta mucho saber que has tenido tan grata experiencia con nosotros, que nuestro equipo ha sido amable y hayan sido de ayuda en tu check-in, además de que nuestra ubicación en Gràcia haya sido de tu agrado. Esperamos poder verles pronto en Sonder!",
+        "lang": "es",
+        "author": "Sonder Team",
+        "published_date": "2023-09-03T14:27:45Z"
+      }
+    },
+    {
+      "id": 867549079,
+      "lang": "en",
+      "location_id": 10638267,
+      "published_date": "2022-11-07T06:01:52Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d10638267-r867549079-Reviews-Le_Palacete_powered_by_Sonder-Barcelona_Catalonia.html?m=66827#review867549079",
+      "text": "extremely recommendable. Comfortable, big room, clean, good place (near Joanic metro station) near supermarket. Locker available. When I needed ask anything by app I was quickly answered. Definitely I’d back in another trip.",
+      "title": "Just perfect",
+      "trip_type": "Family",
+      "travel_date": "2022-11-30",
+      "user": {
+        "username": "CASTROFBCC",
+        "user_location": {
+          "id": "303374",
+          "name": "Belo Horizonte, State of Minas Gerais"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/11/e1/98/d5/external-avatar.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/11/e1/98/d5/external-avatar.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/11/e1/98/d5/external-avatar.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/11/e1/98/d5/external-avatar.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 868257623,
+        "title": "Owner response",
+        "text": "Thank you for your review, we really appreciate it! We are thrilled to hear you had a good experience and that you enjoyed the room, location and the service via the App. We definitely look forward to hosting you again in future travel.\nBest, Sonder Barcelona Team.",
+        "lang": "en",
+        "author": "Sonder Team",
+        "published_date": "2022-11-13T08:00:33Z"
+      }
+    },
+    {
+      "id": 861884121,
+      "lang": "en",
+      "location_id": 10638267,
+      "published_date": "2022-09-25T14:38:57Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d10638267-r861884121-Reviews-Le_Palacete_powered_by_Sonder-Barcelona_Catalonia.html?m=66827#review861884121",
+      "text": "Foto is not representative (room was darker and smaller) - but it was a nice stay anyway. Some space for improvements, but good comfort:  clean shower and toilet. good wifi. missing a refrigerator - but a cork screwer was available.",
+      "title": "Foto is not representative - but it was a nice stay anyway",
+      "trip_type": "NONE",
+      "travel_date": "2022-09-30",
+      "user": {
+        "username": "berndkI3793YD",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ed/ce/default-avatar-2020-7.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        }
+      }
+    }
+  ]
+}

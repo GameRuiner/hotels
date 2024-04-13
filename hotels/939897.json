@@ -1,0 +1,184 @@
+{
+  "location_id": "939897",
+  "name": "Emirates Stars Hotel Apartments Dubai",
+  "description": "Emirates Stars Hotel Apartments is an excellent choice for travelers visiting Dubai, offering many helpful amenities designed to enhance your stay.\nFor those interested in checking out United Christian Church of Dubai (1.8 mi) while visiting Dubai, Emirates Stars Hotel Apartments is a short distance away.\nGuest rooms offer amenities such as a flat screen TV, air conditioning, and a refrigerator, and guests can go online with free wifi offered by the hotel.\nEmirates Stars Hotel Apartments features room service and a concierge, to help make your stay more enjoyable. The property also boasts a pool and free breakfast. If you are driving to Emirates Stars Hotel Apartments, free parking is available.\nWhile in Dubai, you may want to check out some of the restaurants that are a short walk away from Emirates Stars Hotel Apartments, including Al Seefah (0.8 mi), Bikanervala (0.9 mi), and Salkara Restaurant (0.8 mi).\nPlus, during your trip, don't forget to check out a government building, such as Dubai Smart Police Station.\nEnjoy your stay in Dubai!\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d939897-Reviews-Emirates_Stars_Hotel_Apartments_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Amman Street",
+    "street2": "Al Nahda 2, Al Qusais",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "86880",
+    "address_string": "Amman Street Al Nahda 2, Al Qusais, Dubai 86880 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.288824",
+  "longitude": "55.368935",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d939897-Emirates_Stars_Hotel_Apartments_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#454 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "454"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "202",
+  "review_rating_count": {
+    "1": "23",
+    "2": "12",
+    "3": "27",
+    "4": "71",
+    "5": "69"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "187",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d939897-m66827-Reviews-Emirates_Stars_Hotel_Apartments_Dubai-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Free parking",
+    "Pool",
+    "Restaurant",
+    "Kitchenette",
+    "Internet",
+    "Suites",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Concierge",
+    "Air conditioning",
+    "Refrigerator in room",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Arabic",
+    "Room service",
+    "Wheelchair access",
+    "Airport transportation",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Babysitting",
+    "Outdoor pool",
+    "Sauna",
+    "Baggage Storage",
+    "Car Hire",
+    "Coffee Shop",
+    "Currency Exchange",
+    "24-Hour Front Desk"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Mid-range",
+    "Great View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620574",
+      "name": "Al Nahda 2"
+    },
+    {
+      "location_id": "15620572",
+      "name": "Al Nahda"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "37"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "21"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "15"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "93"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "11"
+    }
+  ],
+  "awards": []
+}

@@ -1,0 +1,253 @@
+{
+  "data": [
+    {
+      "id": 944188648,
+      "lang": "en",
+      "location_id": 280861,
+      "published_date": "2024-03-27T18:41:04Z",
+      "rating": 2,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d280861-r944188648-Reviews-Hotel_Best_Auto_Hogar-Barcelona_Catalonia.html?m=66827#review944188648",
+      "text": "Tiny rooms accessed through an underground car park. The rooms are hot and stuffy with no option for aircon as they are still on winter heating time in March. When you open the small window that looks onto rusty pipes all can hear is what sounds like the laundry or the kitchen. So a hot night. The phones to call reception do not work. My shower had no cold water so scorching hot. You can hear every step from above.",
+      "title": "Not what I expected.",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "X670KEclairen",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/81/default-avatar-2020-43.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 942262704,
+      "lang": "en",
+      "location_id": 280861,
+      "published_date": "2024-03-14T06:18:00Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d280861-r942262704-Reviews-Hotel_Best_Auto_Hogar-Barcelona_Catalonia.html?m=66827#review942262704",
+      "text": "Good location,clean room,very nice personal at the reception.I had a small problem with the toilet when we arrived but the problem was solved in the morning.The breakfast was delicious,and it was the same every day.The hotel is situated near La Rambla street(aprox 400m)",
+      "title": "Reiew",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Coastal23282245332",
+        "user_location": {
+          "id": "1852994",
+          "name": "Lasithi Prefecture, Crete"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e9/60/default-avatar-2020-64.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e9/60/default-avatar-2020-64.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e9/60/default-avatar-2020-64.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e9/60/default-avatar-2020-64.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e9/60/default-avatar-2020-64.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 943279912,
+        "title": "Owner response",
+        "text": "Dear guest,\nWe are glad to read you enjoyed your recent stay in our Hotel.\nWe wait to see you soon again in barcelona.\nBest regards,\nHotel Best Auto Hogar",
+        "lang": "en",
+        "author": "Pilar Rios",
+        "published_date": "2024-03-21T12:10:14Z"
+      }
+    },
+    {
+      "id": 928977370,
+      "lang": "en",
+      "location_id": 280861,
+      "published_date": "2023-12-09T17:20:22Z",
+      "rating": 2,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d280861-r928977370-Reviews-Hotel_Best_Auto_Hogar-Barcelona_Catalonia.html?m=66827#review928977370",
+      "text": "The hotel room was quite well equipped with a kettle and powdered milk, coffee and tea bags. These were not replaced on 2nd day of stay which was disappointing. \nThe fridge was ok in the room and 2 single beds which were a bit hard... appreciate that each person is different  ..\nThe reason for the rating is that housekeeping  bleached clothing of my husbands and although the reception staff took photos,  nothing was done about it. An email address was given to me that bounced back!!!!! So I messaged hotel directly and yet again no reply..\nReally poor customer service and care  ...\nBasically didn't give a toss and bluffed us onto the manager.   Still waiting for a response...\nNot a cheap hotel but would have expected better customer service..",
+      "title": "Disappointed and felt neglected ",
+      "trip_type": "Couples",
+      "travel_date": "2023-12-31",
+      "user": {
+        "username": "littlewhitepaws",
+        "user_location": {
+          "id": "609075",
+          "name": "Comrie, Perth and Kinross, Scotland"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/6d/default-avatar-2020-19.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/6d/default-avatar-2020-19.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/6d/default-avatar-2020-19.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/6d/default-avatar-2020-19.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/6d/default-avatar-2020-19.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 934093331,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nAlthough hospitality and attention to detail are normally something that we do very well it would seem that we are not doing enough in other areas. We will indeed focus our attention in this direction.\n\nKind regards,\nBest Auto Hogar",
+        "lang": "en",
+        "author": "Werner Francis",
+        "published_date": "2024-01-15T04:44:43Z"
+      }
+    },
+    {
+      "id": 925619314,
+      "lang": "en",
+      "location_id": 280861,
+      "published_date": "2023-11-12T11:15:11Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d280861-r925619314-Reviews-Hotel_Best_Auto_Hogar-Barcelona_Catalonia.html?m=66827#review925619314",
+      "text": "Great hotel. The room is nice and clean. In the bathroom, we were greeted by toothbrushes, toothpaste, and a comb. Body shampoo, hair and body milk. In the room there was also a kettle with coffee without and with caffeine, milk powder, several types of tea. Every day the room was cleaned and towels were changed. Breakfast was exceptional, several types of salami, cheeses, eggs in various ways, sausages, fruit, various pastries, sweet and savory. The location of the hotel is perfect, only a few minutes from the center. The staff is extremely friendly and happy to help. Overjoyed.",
+      "title": "Beautiful ",
+      "trip_type": "Family",
+      "travel_date": "2023-11-30",
+      "user": {
+        "username": "ivanavN5017DP",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/4a/default-avatar-2020-42.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/4a/default-avatar-2020-42.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/4a/default-avatar-2020-42.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/4a/default-avatar-2020-42.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/4a/default-avatar-2020-42.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 927219913,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nAt Best hotels we aim to offer our guests the very best holiday experience possible and so we are very pleased to hear that the hotel and our staff where a 100%. \n\nKind regards,\nThe Hotel Management",
+        "lang": "en",
+        "author": "Werner Francis",
+        "published_date": "2023-11-24T11:10:44Z"
+      }
+    },
+    {
+      "id": 925593196,
+      "lang": "en",
+      "location_id": 280861,
+      "published_date": "2023-11-12T07:18:16Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d280861-r925593196-Reviews-Hotel_Best_Auto_Hogar-Barcelona_Catalonia.html?m=66827#review925593196",
+      "text": "Hotel..Clean,basic room..staff very friendly..Good selection for breakfast..\n   Get off the plane,jump on the train..buy a multi-travel card for public transport,train,underground metro,tram and buses,proper bargain.\n      Visit,indoor markets,a must,cheap food and drink.",
+      "title": "Brilliant Barcelona ",
+      "trip_type": "Family",
+      "travel_date": "2023-11-30",
+      "user": {
+        "username": "N6207NNandrewl",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/7a/default-avatar-2020-25.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 927219809,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nI want to thank you for your comments about your vacation in the Best Auto Hogar hotel. I'm glad you passed a pleasant holiday with us and I hope to see you again in the future.\n\nKind regards,\nThe Hotel Management",
+        "lang": "en",
+        "author": "Werner Francis",
+        "published_date": "2023-11-24T11:09:59Z"
+      }
+    }
+  ]
+}

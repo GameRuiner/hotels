@@ -1,0 +1,280 @@
+{
+  "data": [
+    {
+      "id": 944265153,
+      "lang": "en",
+      "location_id": 2026811,
+      "published_date": "2024-03-28T11:22:34Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d2026811-r944265153-Reviews-Howard_Johnson_by_Wyndham_Bur_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review944265153",
+      "text": "Thank you for very accommodating nice place good service and friendly staff .rooms is clean wifi is very strong  good service warm welcome for guest foodies are all good breakfast lunch and dinner thanks",
+      "title": "Thank you so much",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "altarezjimson",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/d5/default-avatar-2020-17.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944485496,
+        "title": "Owner response",
+        "text": "Dear Altarezjimson,\n\nThank you for staying at Howard Johnson Hotel Bur Dubai and we hope to welcome you again soon.\n\n-Hotel Response",
+        "lang": "en",
+        "author": "Hotel Response",
+        "published_date": "2024-03-30T06:05:05Z"
+      }
+    },
+    {
+      "id": 943960374,
+      "lang": "en",
+      "location_id": 2026811,
+      "published_date": "2024-03-26T23:46:16Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d2026811-r943960374-Reviews-Howard_Johnson_by_Wyndham_Bur_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review943960374",
+      "text": "The room is luxury and with a good road view. The staff really helped in everything and gave good information about the tour and everything. Breakfast Food is great and delicious. All good hotel. Easy to catch metro and taxis. In bur dubai with good quality food.",
+      "title": "Great service and staff",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "aanchaling",
+        "user_location": {
+          "id": "304555",
+          "name": "Jaipur, Jaipur District, Rajasthan"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f1/42/default-avatar-2020-20.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f1/42/default-avatar-2020-20.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f1/42/default-avatar-2020-20.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f1/42/default-avatar-2020-20.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/42/default-avatar-2020-20.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 944485458,
+        "title": "Owner response",
+        "text": "Dear Aanchaling,\n\nThank you for staying at Howard Johnson Hotel Bur Dubai and we hope to welcome you again soon.\n\n-Hotel Response",
+        "lang": "en",
+        "author": "Hotel Response",
+        "published_date": "2024-03-30T06:04:38Z"
+      }
+    },
+    {
+      "id": 942963781,
+      "lang": "en",
+      "location_id": 2026811,
+      "published_date": "2024-03-19T22:54:28Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d2026811-r942963781-Reviews-Howard_Johnson_by_Wyndham_Bur_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review942963781",
+      "text": "Overall the stay was pleasant and the service was really good. Breakfast was good but can be better. The location is convenient to go local shopping and there are good restaurants in closeby. Good for family staying with kids.",
+      "title": "Good stay with pleasant view",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "vk_neni",
+        "user_location": {
+          "id": "297586",
+          "name": "Hyderabad, Hyderabad District, Telangana"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ef/73/default-avatar-2020-13.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 943865399,
+        "title": "Owner response",
+        "text": "Dear Vk_neni,\n\nThank you for staying at Howard Johnson Hotel Bur Dubai.  We hope to welcome you again soon.\n\n-Hotel Response",
+        "lang": "en",
+        "author": "Hotel Response",
+        "published_date": "2024-03-26T06:13:15Z"
+      }
+    },
+    {
+      "id": 941532558,
+      "lang": "en",
+      "location_id": 2026811,
+      "published_date": "2024-03-09T11:11:49Z",
+      "rating": 3,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d2026811-r941532558-Reviews-Howard_Johnson_by_Wyndham_Bur_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review941532558",
+      "text": "A budget hotel in the corner of Bur dubai.  Location was good but average as it slightly away from Meena Bazaar and other commercial establishments in Bur.  The problem is that these places were not at a very short walk but also not too far away for hiring a taxi.  The nearest station was Sharaf DG which is about a km away.  But all that said, there are a few eateries including vegetarian options nearby. Check-in process takes a long time.  The hotel is popular with Indian tour operators and many Indian tourists stay here and accordingly the buffet spread is also typically offers excellent Indian options-completely vegetarian option, however, there is a huge section for continental option also separately with a wide spread of non-veg options. Two mineral water bottles are provided daily. Toiletries offered are bare minimum. All tour operators pickup and drop off options from the hotel.  In non-peak season hotel offers, free airport pickup and drop and Desert Safari, with a minimum number of nights.  Overall the deal was OK for budget travellers",
+      "title": "Budget stay with decent options",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "735rajav",
+        "user_location": {
+          "id": "304554",
+          "name": "Mumbai, Maharashtra"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/d0/default-avatar-2020-33.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/d0/default-avatar-2020-33.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f4/d0/default-avatar-2020-33.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f4/d0/default-avatar-2020-33.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f4/d0/default-avatar-2020-33.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 943865298,
+        "title": "Owner response",
+        "text": "Dear 735rajav,\n\nThank you for sharing your experience during your stay at Howard Johnson Hotel Bur Dubai.    We hope to welcome you again soon.\n\n-Hotel Response",
+        "lang": "en",
+        "author": "Hotel Response",
+        "published_date": "2024-03-26T06:12:29Z"
+      }
+    },
+    {
+      "id": 941455058,
+      "lang": "en",
+      "location_id": 2026811,
+      "published_date": "2024-03-08T17:21:07Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d2026811-r941455058-Reviews-Howard_Johnson_by_Wyndham_Bur_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review941455058",
+      "text": "Had an amazing vacation in March 2024. Great value! Staff were welcoming and helpful. Spacious, immaculate rooms. Prime location, just a 10-minute stroll to the main bus station or metro. Breakfast offered a wide selection. Highly recommend!",
+      "title": "Good hotel",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "valeriak690",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/d5/default-avatar-2020-17.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 943864924,
+        "title": "Owner response",
+        "text": "Dear Valeria,\n\nThank you for sharing your experience during your stay at Howard Johnson Hotel Bur Dubai.  We're glad that you had am amazing stay with us.  We hope to welcome you again soon.\n\n-Hotel Response",
+        "lang": "en",
+        "author": "Hotel Response",
+        "published_date": "2024-03-26T06:09:05Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "location_id": "582976",
+  "name": "Kempinski Hotel Mall Of The Emirates",
+  "description": "With its ideal location directly connected to the Mall of the Emirates, this hotel offers convenience to both business and leisure guests with world-class shopping, dining and entertainment a stone throw away. The mall itself includes more than 520 stores of prestigious international labels, a 14-screen multiplex VOX cinema and numerous food and beverage outlets - and not to forget the world's first indoor Ski dome. During more serene hours, guests can rejuvenate at Sensasia Stories Spa or simply sit back and relax by the outdoor infinity-edge pool. Indulge in authentic Spanish restaurant or enjoy Levantine cuisine at Olea. After shopping, have a sumptuous afternoon tea at Aspen. In short, limitless possibilities are offered here and there is something for everyone to enjoy.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d582976-Reviews-Kempinski_Hotel_Mall_Of_The_Emirates-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Zayed Road",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "120679",
+    "address_string": "Sheikh Zayed Road, Dubai 120679 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.119003",
+  "longitude": "55.197506",
+  "timezone": "Asia/Dubai",
+  "phone": "01197143410000",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d582976-Kempinski_Hotel_Mall_Of_The_Emirates-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#7 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "7"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "5455",
+  "review_rating_count": {
+    "1": "63",
+    "2": "54",
+    "3": "116",
+    "4": "503",
+    "5": "4722"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "3081",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d582976-m66827-Reviews-Kempinski_Hotel_Mall_Of_The_Emirates-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Suites",
+    "Free parking",
+    "Free Internet",
+    "Free Wifi",
+    "Spa",
+    "Pool",
+    "Internet",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Rooftop Bar",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Butler Service",
+    "Infinity Pool",
+    "Adult pool",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Sauna",
+    "Additional Bathroom",
+    "Afrikaans",
+    "Allergy-free Room",
+    "Arabic",
+    "Baggage Storage",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Express Check-in / Check-out",
+    "Chinese",
+    "Couples Massage",
+    "Currency Exchange",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Entertainment Staff",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "French",
+    "24-Hour Front Desk",
+    "German",
+    "Gift Shop",
+    "Hammam",
+    "Head Massage",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Laptop Safe",
+    "Massage",
+    "Newspaper",
+    "On-Demand Movies",
+    "Pool / Beach Towels",
+    "Private Check-in / Check-out",
+    "Russian",
+    "24-Hour Security",
+    "Shops",
+    "Skiing",
+    "Soundproof Rooms",
+    "Spanish",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Taxi Service",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Wine / Champagne",
+    "Kids pool",
+    "Foot Massage",
+    "Full Body Massage",
+    "Hand Massage",
+    "Landmark View",
+    "Lithuanian",
+    "Outdoor Dining Area",
+    "Pool View",
+    "Sun Deck"
+  ],
+  "parent_brand": "Kempinski Hotels",
+  "brand": "Kempinski",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Art Deco Style",
+    "Business"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620543",
+      "name": "Al Barsha"
+    },
+    {
+      "location_id": "15620544",
+      "name": "Al Barsha 1"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "1325"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "861"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "333"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1996"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "552"
+    }
+  ],
+  "awards": []
+}

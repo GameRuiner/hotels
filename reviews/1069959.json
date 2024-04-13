@@ -1,0 +1,202 @@
+{
+  "data": [
+    {
+      "id": 945617807,
+      "lang": "en",
+      "location_id": 1069959,
+      "published_date": "2024-04-06T16:57:19Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g303855-d1069959-r945617807-Reviews-Tamra_Beach-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review945617807",
+      "text": "We had an amazing time at the hotel. The staff was polite, good entertainment at night, clean and nice beach and pool and delicious food. The animation team made sure everyone was entertained and had various shows every day. We got upgraded to a room with sea view at arrival. Would highly recommend !",
+      "title": "A wonderful vacation in amazing hotel. It is worth visiting!",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "Dream18182945204",
+        "user_location": {
+          "id": "294452",
+          "name": "Sofia, Sofia Region"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/4a/default-avatar-2020-42.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/4a/default-avatar-2020-42.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/4a/default-avatar-2020-42.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/4a/default-avatar-2020-42.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/4a/default-avatar-2020-42.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 944632340,
+      "lang": "en",
+      "location_id": 1069959,
+      "published_date": "2024-03-31T08:13:52Z",
+      "rating": 4,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g303855-d1069959-r944632340-Reviews-Tamra_Beach-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review944632340",
+      "text": "We ( polish guests ) LIKED the wonderful atmosphere of the hotel, beautiful architecture, gardens, alleys with rows of palm trees and flowers, and the interesting layout of the hotel grounds. BEAUTIFUL hotel buildings. The hotel staff is great.\nThe guests are cultured people (most of them are Italians), the cuisine is tasty and the restaurant is nice.\nUnfortunately, the (quiet) part of the beach has little space for sun loungers, and many of the beach loungers are old. The beach bar is closed, probably for a long time, :-(\nThe large area around the main pools is unused for people who want to sunbathe and use the pools - it is occupied all day long with a music station and bar tables.\nAttention ! :-(((\nThe hotel has built two new buildings right next to the main entrance, which are an architectural nightmare, they are far from the sea, there is also a not serious swimming pool and a funny, not serious bar.\nGetting a room in these new buildings is a bummer, it has nothing to do with the \"Tamra Beach hotel vibe\".",
+      "title": "There are many advantages, but there are also potential disad...s",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "750jaceka",
+        "user_location": {
+          "id": "274856",
+          "name": "Warsaw, Mazovia Province, Central Poland"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/df/2b/default-avatar-2020-39.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 943802471,
+      "lang": "en",
+      "location_id": 1069959,
+      "published_date": "2024-03-25T15:41:56Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g303855-d1069959-r943802471-Reviews-Tamra_Beach-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review943802471",
+      "text": "Room was very clean. Food is delicious and everyone will find something they like, there is very big variations of different food types. Animation team is super friendly and fun. Teritory is green and clean. Personal is smiley and kind. We loved staying here.",
+      "title": "It was the best experience in Egypt. We love Tamra Beach Hotel!",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "robertsg928",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/d5/default-avatar-2020-17.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 942874107,
+      "lang": "en",
+      "location_id": 1069959,
+      "published_date": "2024-03-19T06:20:23Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g303855-d1069959-r942874107-Reviews-Tamra_Beach-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review942874107",
+      "text": "Nice rooms looking over a garden, great food and entertainment team. Very good access to the reef. Fast, quite reliable wifi. The place seemed very clean and looked after. Very short drive from the airport. All in all very good value for money.",
+      "title": "Very good value for money.",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "baltykt",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ea/b2/default-avatar-2020-69.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 939392794,
+      "lang": "en",
+      "location_id": 1069959,
+      "published_date": "2024-02-22T12:58:38Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g303855-d1069959-r939392794-Reviews-Tamra_Beach-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review939392794",
+      "text": "We are in her for one week in this hotel but really all everything its great Restaurant and bar so good and also room so clean and of cours animation team helpful and the best thank you Joba and Łabę thank you tamra🐫🫶🏻❤️we will come back agian 🕊️🕊️🕊️",
+      "title": "Tamra beach hotel the best alwasy🫶🏻",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "300matyldas",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e8/91/default-avatar-2020-62.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    }
+  ]
+}

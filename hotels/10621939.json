@@ -1,0 +1,195 @@
+{
+  "location_id": "10621939",
+  "name": "Park Side Suites Hotel Apartments",
+  "description": "Parkside Hotel Apartments - Discovery Gardens with its 169 beautifully furnished suites is the right spot for tourists and business travelers. Our Deluxe Hotel Apartments property has a reputation for its friendly atmosphere and excellent service. Dubai is a beautiful, modern city - friendly, safe and secure and we’re just 30 kilometers from Dubai International Airport and 12 kilometers from Mall of Emirates. Parkside Hotel Apartments in Discovery Gardens is just a short walk from Ibn Battuta Mall & Metro Station. The property features deluxe studio and deluxe one bedroom apartments. All apartments have fully equipped kitchens. We cater for families, business, and leisure guests, for both short- and long-term stays. With a prime location in the Discovery Gardens area, we offer refined self-catering accommodation in walking distance to the Ibn Battuta Red Line Metro Station.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d10621939-Reviews-Park_Side_Suites_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Street 1, Building No.12",
+    "street2": "Discovery Gardens",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Street 1, Building No.12 Discovery Gardens, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.0494",
+  "longitude": "55.1313",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d10621939-Park_Side_Suites_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#225 of 766 Specialty lodging in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "766",
+    "ranking": "225"
+  },
+  "rating": "3.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.0-66827-5.svg",
+  "num_reviews": "46",
+  "review_rating_count": {
+    "1": "14",
+    "2": "7",
+    "3": "3",
+    "4": "15",
+    "5": "7"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss2.5.svg",
+      "value": "2.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss2.0.svg",
+      "value": "2.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss2.0.svg",
+      "value": "2.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss2.5.svg",
+      "value": "2.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss1.5.svg",
+      "value": "1.5"
+    }
+  },
+  "photo_count": "46",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d10621939-m66827-Reviews-Park_Side_Suites_Hotel_Apartments-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Suites",
+    "Wheelchair access",
+    "Kitchenette",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Microwave",
+    "Refrigerator in room",
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Free parking",
+    "Spa",
+    "Airport transportation",
+    "Dry Cleaning",
+    "Golf course",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Non-smoking hotel",
+    "Safe",
+    "Breakfast Available",
+    "Parking",
+    "Housekeeping",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Express Check-in / Check-out",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Currency Exchange",
+    "Desk",
+    "English",
+    "Filipino",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Iron",
+    "Ironing Service",
+    "Seating Area",
+    "Snack Bar",
+    "Soundproof Rooms",
+    "Urdu",
+    "Washing Machine"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [
+    "Budget",
+    "Quaint"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620624",
+      "name": "Discovery Gardens"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "14"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "6"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "5"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "8"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "8"
+    }
+  ],
+  "awards": []
+}

@@ -1,0 +1,242 @@
+{
+  "data": [
+    {
+      "id": 945819958,
+      "lang": "en",
+      "location_id": 2322457,
+      "published_date": "2024-04-08T07:33:28Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d2322457-r945819958-Reviews-Jumeirah_Creekside_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945819958",
+      "text": "Visited for 4 nights on travel to Japan \nOverlooking Dubai Creek, Jumeirah Creekside Hotel accommodations with 2 outdoor pools, 5 restaurants, gym and spa. Guests receive great quality service , great food . Friendly chefs and tailored for children if needed hence why I went back again after 2016 first visit .\nCan use metro station near by everything is accessible . Airport only 12 mins",
+      "title": "Amazing stay ",
+      "trip_type": "Business",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "333hediaa",
+        "user_location": {
+          "id": "186216",
+          "name": "United Kingdom"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/48/default-avatar-2020-15.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945919651,
+        "title": "Owner response",
+        "text": "Dear Hadia A\n\nWe appreciate your loyalty to Jumeirah Creekside Hotel and thank you for your pleasant review on Trip Advisor.\n\nWe are very delighted to read that you were satisfied with your overall experience with us. Thank you for your kind acknowledgements of our hotel, exquisite facilities and high level of customer service provided by our team.\n\nWe look forward to welcoming you back again in the not too distant future.\n\nYours sincerely, \n\nAndy Cuthbert \nGeneral Manager\n",
+        "lang": "en",
+        "author": "Jumeirah Creekside Hotel",
+        "published_date": "2024-04-09T03:23:21Z"
+      }
+    },
+    {
+      "id": 944351607,
+      "lang": "en",
+      "location_id": 2322457,
+      "published_date": "2024-03-29T05:37:33Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d2322457-r944351607-Reviews-Jumeirah_Creekside_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review944351607",
+      "text": "This was by far the best hotel we have used in Dubai. Easy access from the airport, quick access into the heart of Dubai. \n\nSuperb service and attention to detail means that we will definitely be back again. ",
+      "title": "Superb hotel",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "markb1244",
+        "user_location": {
+          "id": "186370",
+          "name": "Bath, Somerset, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/b8/default-avatar-2020-22.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944530659,
+        "title": "Owner response",
+        "text": "Dear markb1244\n\nWe appreciate your loyalty to Jumeirah Creekside Hotel and thank you for your pleasant review on Trip Advisor.\n\nWe are very delighted to read that you were satisfied with your overall experience with us. Thank you for your kind acknowledgements of our hotel and high level of customer service provided by our team.\n\nWe look forward to welcoming you back again in the not too distant future.\n\nYours sincerely, \n\nAndy Cuthbert \nGeneral Manager\n",
+        "lang": "en",
+        "author": "Jumeirah Creekside Hotel",
+        "published_date": "2024-03-30T12:48:43Z"
+      }
+    },
+    {
+      "id": 944016316,
+      "lang": "en",
+      "location_id": 2322457,
+      "published_date": "2024-03-27T07:13:21Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d2322457-r944016316-Reviews-Jumeirah_Creekside_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review944016316",
+      "text": "At march 2024, I was training at Emirates CAE, I stayed 1 week, everythink was wonderfool. Breakfest, dining, room cleaning, servis, all person so professional, so lovely, so helpfull. Reception was so helpfull, business center was so professional, there was computers, printers so modern,",
+      "title": "Nice otel",
+      "trip_type": "Business",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "P1529YPhasant",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/b8/default-avatar-2020-22.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 944249300,
+        "title": "Owner response",
+        "text": "Dear P1529YPhasant\n\nWe appreciate your loyalty to Jumeirah Creekside Hotel and thank you for your pleasant review on Trip Advisor.\n\nWe are very delighted to read that you were satisfied with your overall experience with us. Thank you for your kind acknowledgements of our hotel, facilities and high level of customer service provided by our team.\n\nWe look forward to welcoming you back again in the not too distant future.\n\nYours sincerely, \n\nAndy Cuthbert \nGeneral Manager\n",
+        "lang": "en",
+        "author": "Jumeirah Creekside Hotel",
+        "published_date": "2024-03-28T09:02:01Z"
+      }
+    },
+    {
+      "id": 943867925,
+      "lang": "en",
+      "location_id": 2322457,
+      "published_date": "2024-03-26T06:37:40Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d2322457-r943867925-Reviews-Jumeirah_Creekside_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review943867925",
+      "text": "After a few  mishaps had a good stay here at the jumeriah creekside hotel. It a great place to stay near the airport and it’s part of the jumeriah hotels brand so the quality of the rooms is of high standards.\n\nThe housekeeping and reception are excellent.\n\nYousaf in house keeping was brilliant and the rest of the housekeeping staff. They offered extra towels extra coffee extra soft drinks (free by the way) extra water and a daily turnover service in the evening. \n\nFor the price the hotel is excellent just a shame about some individuals in the outsourced valet team but I did not let this effect my stay.\n\nOne again Yousaf was excellent",
+      "title": "Great stay",
+      "trip_type": "Business",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "alexanderbL3406QL",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e7/99/default-avatar-2020-57.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e7/99/default-avatar-2020-57.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e7/99/default-avatar-2020-57.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e7/99/default-avatar-2020-57.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/99/default-avatar-2020-57.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 943988717,
+        "title": "Owner response",
+        "text": "Dear alexanderbL3406QL\n\nWe appreciate your loyalty to Jumeirah Creekside Hotel and thank you for your pleasant review on Trip Advisor.\n\nWe are very delighted to read that you were satisfied with your overall experience with us. Thank you for your kind acknowledgements of our hotel, facilities and high level of customer service provided by our team.\n\nThank you for staying with us and for recognizing Yousaf from Housekeeping and Reception Team. We look forward to welcoming you back again in the not too distant future.\n\nYours sincerely, \n\nAndy Cuthbert \nGeneral Manager\n",
+        "lang": "en",
+        "author": "Jumeirah Creekside Hotel",
+        "published_date": "2024-03-27T06:34:28Z"
+      }
+    },
+    {
+      "id": 943465609,
+      "lang": "en",
+      "location_id": 2322457,
+      "published_date": "2024-03-23T05:00:23Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d2322457-r943465609-Reviews-Jumeirah_Creekside_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review943465609",
+      "text": "Room interior was renovated and looked nice and modern.  Why I like this hotel is that we can stay with my puppy as well.  Even pet friendly hotel, room is very clean.  And house keeping attendant Zeeshan was good hospitality and professional.  Thank you.",
+      "title": "Happy Ramadan Stay",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "manabun2024",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ec/3d/default-avatar-2020-1.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ec/3d/default-avatar-2020-1.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ec/3d/default-avatar-2020-1.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ec/3d/default-avatar-2020-1.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ec/3d/default-avatar-2020-1.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 943735845,
+        "title": "Owner response",
+        "text": "Dear manabun2024\n\nThank you for sharing your experience at Jumeirah Creekside Hotel through Trip Advisor.\n\nI am delighted to read that overall you had a great stay experienced with us and I am pleased that you appreciated the hospitality that you received from our colleagues.\n\nThank you for staying with us and for recognizing Zeeshan in particular. We look forward to welcoming you back to Jumeirah Creekside Hotel.\n\nYours sincerely, \n\nAndy Cuthbert \nGeneral Manager\n",
+        "lang": "en",
+        "author": "Jumeirah Creekside Hotel",
+        "published_date": "2024-03-25T06:40:15Z"
+      }
+    }
+  ]
+}

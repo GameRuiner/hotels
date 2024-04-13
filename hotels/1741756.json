@@ -1,0 +1,194 @@
+{
+  "location_id": "1741756",
+  "name": "Mio Bianco Resort",
+  "description": "Welcome to Mio Bianco Resort, your Akyarlar “home away from home.” Mio Bianco Resort aims to make your visit as relaxing and enjoyable as possible, which is why so many guests continue to come back year after year.\nGuest rooms offer a flat screen TV, a refrigerator, and a minibar, and Mio Bianco Hotel makes getting online easy as free internet access is available.\nYou can also take advantage of some of the amenities offered by the hotel, including a 24 hour front desk, a concierge, and baggage storage. In addition, guests can enjoy a pool and free breakfast during their visit. As an added convenience, there is free parking available to guests.\nTravelers looking for Mediterranean restaurants can head to Kardesler Balik, Mehtap Fish Restaurant, or Castello di Akyarlar.\nBest of all, Mio Bianco Hotel makes it easy to experience some great Akyarlar attractions like Akyarlar Marina, which is a popular marina.\nMio Bianco Resort puts the best of Akyarlar at your fingertips, making your stay both relaxing and enjoyable.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g951437-d1741756-Reviews-Mio_Bianco_Resort-Akyarlar_Turgutreis_Bodrum_District_Mugla_Province_Turkish_Aegean_Co.html?m=66827",
+  "address_obj": {
+    "street1": "Ataturk Cad. No: 141",
+    "street2": "Akyarlar Köyü, Akçabük Mevki",
+    "city": "Akyarlar",
+    "state": "Mugla Province",
+    "country": "Turkiye",
+    "postalcode": "48980",
+    "address_string": "Ataturk Cad. No: 141 Akyarlar Köyü, Akçabük Mevki, Akyarlar, Turgutreis 48980 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Akyarlar",
+      "location_id": "951437"
+    },
+    {
+      "level": "Municipality",
+      "name": "Turgutreis",
+      "location_id": "298664"
+    },
+    {
+      "level": "District",
+      "name": "Bodrum District",
+      "location_id": "298020"
+    },
+    {
+      "level": "Province",
+      "name": "Mugla Province",
+      "location_id": "298019"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "36.966953",
+  "longitude": "27.283703",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g951437-d1741756-Mio_Bianco_Resort-Akyarlar_Turgutreis_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "951437",
+    "ranking_string": "#12 of 24 hotels in Akyarlar",
+    "geo_location_name": "Akyarlar",
+    "ranking_out_of": "24",
+    "ranking": "12"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "169",
+  "review_rating_count": {
+    "1": "45",
+    "2": "10",
+    "3": "3",
+    "4": "6",
+    "5": "105"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    }
+  },
+  "photo_count": "214",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g951437-d1741756-m66827-Reviews-Mio_Bianco_Resort-Akyarlar_Turgutreis_Bodrum_District_Mugla_Province_Turkish_Aegean_Co.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Restaurant",
+    "Bar/Lounge",
+    "Free Wifi",
+    "Kids Activities",
+    "Beachfront",
+    "Suites",
+    "Free parking",
+    "Wheelchair access",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Babysitting",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Private Beaches",
+    "Parking",
+    "Sauna",
+    "Baggage Storage",
+    "Darts",
+    "Entertainment Staff",
+    "24-Hour Front Desk",
+    "Hammam",
+    "Massage",
+    "Salon",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Turkish",
+    "Valet Parking",
+    "Wifi",
+    "Public Wifi",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Mountain View",
+    "Modern"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "0"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "27"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "3"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "63"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "72"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

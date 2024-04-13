@@ -1,0 +1,275 @@
+{
+  "location_id": "471832",
+  "name": "Magic World Sharm – Club by Jaz",
+  "description": "See why so many travelers make MAGIC WORLD Sharm their hotel of choice when visiting Sharm El Sheikh. Providing an ideal mix of value, comfort and convenience, it offers a family-friendly setting with an array of amenities designed for travelers like you. Guest rooms offer amenities such as a flat screen TV, air conditioning, and a minibar, and guests can go online with free internet access offered by the hotel. MAGIC WORLD Sharm features a concierge, to help make your stay more enjoyable. The property also boasts 2 pools - Activity one, integrated with the Kids Pool area and Relax Pool and an on-site restaurant. If you are driving to MAGIC WORLD Sharm-Club by Jaz, free parking is available. Travelers looking for cafes can head to Arab Bucks, Alhambra Cafe & Restaurant, or Makani Cafe & Restaurant. We’re sure you’ll enjoy your stay at MAGIC WORLD Sharm as you experience all of the things Sharm El Sheikh has to offer.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d471832-Reviews-Magic_World_Sharm_Club_by_Jaz-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Nabq Bay",
+    "street2": "",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "postalcode": "70770",
+    "address_string": "Nabq Bay, Sharm El Sheikh 70770 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "28.032413",
+  "longitude": "34.438507",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d471832-Magic_World_Sharm_Club_by_Jaz-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#56 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "56"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "4740",
+  "review_rating_count": {
+    "1": "56",
+    "2": "72",
+    "3": "288",
+    "4": "1032",
+    "5": "3295"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "5391",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d471832-m66827-Reviews-Magic_World_Sharm_Club_by_Jaz-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Beachfront",
+    "Free parking",
+    "Restaurant",
+    "Fitness center",
+    "Beach Access",
+    "Internet",
+    "Suites",
+    "Free Internet",
+    "Spa",
+    "Airport transportation",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Business center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Aerobics",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bottled Water",
+    "24-Hour Check-in",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Darts",
+    "Diving",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "German",
+    "Hair Dryer",
+    "Head Massage",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Polish",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Snorkeling",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Public Wifi",
+    "Kids pool",
+    "Archery",
+    "Cable / Satellite TV",
+    "Children's Playground",
+    "Couples Massage",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Foot Massage",
+    "Free Wired Internet in the Business Center",
+    "Full Body Massage",
+    "Hand Massage",
+    "Highchairs Available",
+    "Landmark View",
+    "Manicure",
+    "Neck Massage",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Pool View",
+    "Private Bathrooms",
+    "Radio",
+    "Sofa Bed",
+    "Tennis Court Off-site",
+    "Ukrainian",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Waxing Services",
+    "Yoga Classes"
+  ],
+  "parent_brand": "Jaz Hotel Group",
+  "brand": "Jaz Hotel Group",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Green",
+    "Mid-range"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "7"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "2683"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "69"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "986"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "462"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

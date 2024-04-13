@@ -1,0 +1,237 @@
+{
+  "location_id": "1961531",
+  "name": "Two Seasons Hotel & Apartments",
+  "description": "Featuring 1010 elegant suites and apartments, the 4-star Two Seasons Hotel & Apartments offers comfortable accommodation in Dubai for traveling executives, families, holidaymakers as well as long staying guests. It is located in convenient proximity to some important business addresses, popular social hubs and key leisure destinations. The Hotel is situated on the doorstep of Dubai Internet City metro station, while Dubai International Airport and Dubai World Trade Centre are 30 and 20 minutes’ drive respectively. The property offers a wide range of dining options, state-of-the-art recreational and extensive meeting facilities. Two Seasons Hotel & Apartments is a family-oriented hotel that does not serve alcohol.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1961531-Reviews-Two_Seasons_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Zayed Rd",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "",
+    "address_string": "Sheikh Zayed Rd, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.103117",
+  "longitude": "55.172005",
+  "timezone": "Asia/Dubai",
+  "phone": "01197143996666",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1961531-Two_Seasons_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#315 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "315"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1505",
+  "review_rating_count": {
+    "1": "25",
+    "2": "28",
+    "3": "83",
+    "4": "317",
+    "5": "1052"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "924",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1961531-m66827-Reviews-Two_Seasons_Hotel_Apartments-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Free parking",
+    "Kitchenette",
+    "Suites",
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Microwave",
+    "Refrigerator in room",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Butler Service",
+    "Infinity Pool",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Sauna",
+    "Additional Bathroom",
+    "Arabic",
+    "Baggage Storage",
+    "Billiards",
+    "Car Hire",
+    "Currency Exchange",
+    "Doorperson",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "24-Hour Front Desk",
+    "Gift Shop",
+    "Hindi",
+    "Ironing Service",
+    "Salon",
+    "24-Hour Security",
+    "Shoeshine",
+    "Steam Room",
+    "Taxi Service",
+    "VIP Room Facilities",
+    "Squash"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Family",
+    "Marina View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620603",
+      "name": "Al Sufouh"
+    },
+    {
+      "location_id": "15620628",
+      "name": "Dubai Internet City"
+    },
+    {
+      "location_id": "15620605",
+      "name": "Al Sufouh 2"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "444"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "165"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "98"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "504"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "125"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

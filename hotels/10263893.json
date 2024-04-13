@@ -1,0 +1,265 @@
+{
+  "location_id": "10263893",
+  "name": "dusitD2 Kenz Hotel",
+  "description": "Located in the Barsha Heights district of Dubai facing Sheikh Zayed Road, the dusitD2 kenz hotel is an upscale, contemporary hotel that caters to both business and leisure travelers. The hotel is strategically located next to Dubai Internet City Metro Station, with major leisure and business destinations such as Dubai World Trade Centre, Dubai international Airport, Dubai Marina and Dubai Mall within easy reach. This contemporary hotel comprises of 237 rooms and suites, an executive floor, a rooftop pool, a spa and a fitness centre. With a natural passion for the finest ingredients, exquisite flavors and modern presentation, dusitD2 kenz hotel offers unique dining options at our restaurants, Ostro and Wise Kwai, taking diners on a memorable journey defined by Mediterranean cuisine and Thai market street food.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d10263893-Reviews-DusitD2_Kenz_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Zayed Road",
+    "street2": "Barsha Heights, Near Internet City Metro Station",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Sheikh Zayed Road Barsha Heights, Near Internet City Metro Station, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.099",
+  "longitude": "55.17289",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d10263893-DusitD2_Kenz_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#24 of 766 Specialty lodging in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "766",
+    "ranking": "24"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1511",
+  "review_rating_count": {
+    "1": "51",
+    "2": "33",
+    "3": "69",
+    "4": "289",
+    "5": "1069"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "935",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d10263893-m66827-Reviews-DusitD2_Kenz_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Sauna",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Chinese",
+    "Coffee Shop",
+    "Currency Exchange",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Extra Long Beds",
+    "Filipino",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "German",
+    "Hair Dryer",
+    "Hindi",
+    "Indonesian",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Outdoor Furniture",
+    "Pool with View",
+    "Russian",
+    "Seating Area",
+    "24-Hour Security",
+    "Special Diet Menus",
+    "Taxi Service",
+    "Telephone",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Clothes Rack",
+    "Dining Area",
+    "First Aid Kit",
+    "Highchairs Available",
+    "Landmark View",
+    "Outdoor Dining Area",
+    "Private Bathrooms",
+    "Separate Living Room",
+    "Sofa",
+    "Tile / Marble Floor",
+    "Urdu",
+    "Valet Parking",
+    "Walk-in Shower",
+    "Wardrobe / Closet"
+  ],
+  "parent_brand": "Dusit International",
+  "brand": "Dusit Hotels and Resorts",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [
+    "Value",
+    "Centrally Located"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620543",
+      "name": "Al Barsha"
+    },
+    {
+      "location_id": "15620547",
+      "name": "Al Barsha Heights (Tecom)"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "447"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "368"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "143"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "250"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "145"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

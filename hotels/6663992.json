@@ -1,0 +1,211 @@
+{
+  "location_id": "6663992",
+  "name": "Solymar Naama Bay",
+  "description": "Trendy four star hotel located at the heart of Naama Bay & only 10 minutes away from Sharm El Sheikh's International Airport, featuring 195 guest rooms that include standard, superior, deluxe & family rooms. Solymar Naama Bay offers all inclusive concept served at the main restaurant, a lounge bar & a pool bar. Leisure facilities are abundant for adults & kids all the same.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d6663992-Reviews-Solymar_Naama_Bay-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Naama Bay",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "postalcode": "46628",
+    "address_string": "Naama Bay, Sharm El Sheikh 46628 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.917065",
+  "longitude": "34.328583",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d6663992-Solymar_Naama_Bay-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#36 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "36"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "3452",
+  "review_rating_count": {
+    "1": "55",
+    "2": "50",
+    "3": "84",
+    "4": "291",
+    "5": "2972"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "3308",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d6663992-m66827-Reviews-Solymar_Naama_Bay-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Public Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Safe",
+    "Swimup Bar",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Parking",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Arabic",
+    "Bath / Shower",
+    "Diving",
+    "Doorperson",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Ironing Service",
+    "Massage",
+    "Russian",
+    "Seating Area",
+    "24-Hour Security",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Beach Access"
+  ],
+  "parent_brand": "Jaz Hotel Group",
+  "brand": "Jaz Hotel Group",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Historic Hotel",
+    "Charming"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "44"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "735"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "297"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1103"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "1098"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

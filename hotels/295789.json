@@ -1,0 +1,191 @@
+{
+  "location_id": "295789",
+  "name": "Su Hotel",
+  "description": "The Su Hotel Bodrum is in an intimate oasis located close to the harbour in the quieter Western Bay of Bodrum Turkey. Our hotel is close enough to walk easily to the centre of Bodrum Harbour but far enough away to ensure your stay is quiet and uninterrupted.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298658-d295789-Reviews-Su_Hotel-Bodrum_City_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Tepecik Mahallesi, 1201. Sokak, Turgut Reis Cd.",
+    "city": "Bodrum City",
+    "state": "Mugla Province",
+    "country": "Turkiye",
+    "postalcode": "48400",
+    "address_string": "Tepecik Mahallesi, 1201. Sokak, Turgut Reis Cd., Bodrum City 48400 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Bodrum City",
+      "location_id": "298658"
+    },
+    {
+      "level": "District",
+      "name": "Bodrum District",
+      "location_id": "298020"
+    },
+    {
+      "level": "Province",
+      "name": "Mugla Province",
+      "location_id": "298019"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "37.037716",
+  "longitude": "27.42737",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298658-d295789-Su_Hotel-Bodrum_City_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298658",
+    "ranking_string": "#12 of 164 hotels in Bodrum City",
+    "geo_location_name": "Bodrum City",
+    "ranking_out_of": "164",
+    "ranking": "12"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "426",
+  "review_rating_count": {
+    "1": "8",
+    "2": "5",
+    "3": "30",
+    "4": "100",
+    "5": "283"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "337",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298658-d295789-m66827-Reviews-Su_Hotel-Bodrum_City_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Public Wifi",
+    "Breakfast included",
+    "Non-smoking rooms",
+    "Air conditioning",
+    "Refrigerator in room",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Baggage Storage",
+    "Bath / Shower",
+    "English",
+    "Complimentary Toiletries",
+    "Hair Dryer",
+    "Pool / Beach Towels",
+    "Sun Umbrellas",
+    "Turkish",
+    "Suites",
+    "Restaurant",
+    "Bar/Lounge",
+    "Wifi",
+    "Dry Cleaning",
+    "Laundry Service",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "Electric Kettle",
+    "24-Hour Front Desk",
+    "Outdoor Furniture",
+    "Pool View",
+    "Private Bathrooms",
+    "Paid Private Parking Nearby",
+    "Paid Public Parking Nearby",
+    "Seating Area",
+    "Sofa",
+    "Sofa Bed",
+    "Soundproof Rooms",
+    "Sun Deck",
+    "Sun Loungers / Beach Chairs",
+    "Wardrobe / Closet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quirky Hotels",
+    "Mid-range"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "5"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "164"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "28"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "88"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "83"
+    }
+  ],
+  "awards": []
+}

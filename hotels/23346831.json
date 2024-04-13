@@ -1,0 +1,190 @@
+{
+  "location_id": "23346831",
+  "name": "Citadines Culture Village Dubai",
+  "description": "Elevating that experience with a contemporary take, our 81-units serviced residence offers the guests a unique stay, awed by the hues of vibrant colours and sensorial decor with traditional spices and local patterns. A 10-minute drive from the Dubai International Airport, Citadines Culture Village Dubai is located within an integrated community and surrounded by retail and commercial establishments. These include art galleries, performing arts centre, museums, restaurants and designer boutiques. The area also features urban landscaping of waterways, bridges and parks. With Studio apartments in four different dimensions that overlook the mesmerising Dubai Creek, the property offers well-optimised and vibrant serviced living with the calm and comfort of a home. With an array of health and leisure facilities that include a gymnasium, resident lounge, swimming pool, internet corner and breakfast lounge, the property offers pampering and indulging moments to ensure a vibrant lifestyle.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d23346831-Reviews-Citadines_Culture_Village_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Jaddaf,Culture Village",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Al Jaddaf,Culture Village, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.22964",
+  "longitude": "55.337276",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d23346831-Citadines_Culture_Village_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#168 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "168"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "89",
+  "review_rating_count": {
+    "1": "1",
+    "2": "0",
+    "3": "0",
+    "4": "3",
+    "5": "85"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "77",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d23346831-m66827-Reviews-Citadines_Culture_Village_Dubai-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Free parking",
+    "Free Wifi",
+    "Fitness center",
+    "Air conditioning",
+    "Safe",
+    "Rooftop Pool",
+    "Bath / Shower",
+    "Hindi",
+    "Pool / Beach Towels",
+    "Pool",
+    "Room service",
+    "Restaurant",
+    "Airport transportation",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Business center",
+    "Laundry Service",
+    "Refrigerator in room",
+    "Flatscreen TV",
+    "Breakfast Available",
+    "Arabic",
+    "Bathrobes",
+    "Bicycle Rental",
+    "Bottled Water",
+    "Cable / Satellite TV",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Desk",
+    "English",
+    "Extra Long Beds",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Landmark View",
+    "Pool with View",
+    "24-Hour Security",
+    "Secured Parking",
+    "Street Parking",
+    "Taxi Service",
+    "Walk-in Shower",
+    "Walking Tours"
+  ],
+  "parent_brand": "The Ascott Limited",
+  "brand": "Citadines Apart hotel",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quaint",
+    "City View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    },
+    {
+      "location_id": "15620557",
+      "name": "Al Jaddaf"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "10"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "24"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "14"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "9"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "12"
+    }
+  ],
+  "awards": []
+}

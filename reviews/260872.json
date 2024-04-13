@@ -1,0 +1,202 @@
+{
+  "data": [
+    {
+      "id": 945252804,
+      "lang": "en",
+      "location_id": 260872,
+      "published_date": "2024-04-03T15:57:27Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g635613-d260872-r945252804-Reviews-Semiramis_City_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827#review945252804",
+      "text": "This hotel has been great. Staff are super friendly. Yanis the bartender makes the best cocktails. Especially the “Miami Vice!”\n\nThe breakfast was nice! \nI stayed here with my partner and we had a good time! The hotel is close to the Old town! Only 10/15 min walk away! \nThe beach is also 2 mins away!\n\nWe travelled here in the beginning of April, so it wasn’t the season and lots of places were closed. Unfortunately, the pool here was closed!",
+      "title": "Great stay!",
+      "trip_type": "Couples",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "M3478PFmaram",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f4/20/default-avatar-2020-31.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 944845122,
+      "lang": "en",
+      "location_id": 260872,
+      "published_date": "2024-04-01T15:50:25Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g635613-d260872-r944845122-Reviews-Semiramis_City_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827#review944845122",
+      "text": "The hotel was great rooms were clean had a good view of the sea staff were very welcoming , especially elektra and vesious that worked at the bar every night were amazing, so lovely and friendly! Thanks! \n\nWoooooooooooooooooooooooooooooooh!",
+      "title": "Elektra and vesious",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "C6997WOlaurad",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f4/5d/default-avatar-2020-32.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 930243794,
+      "lang": "en",
+      "location_id": 260872,
+      "published_date": "2023-12-19T03:17:18Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g635613-d260872-r930243794-Reviews-Semiramis_City_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827#review930243794",
+      "text": "Brilliant place to stay...\n \nSemaranis City Hotel at Rhodes -- was have a very rich Luxury hotel..it was a very descent place...Senaranis City Hotel -- it was a \" gift of the sea\" ( in Sumarian ) known Semaranis City) \nThis hotelis - a family - friendly a walking of the Medieval city.. between Rhodes and Acropolis.\nRhides -- Island of the night..\nA nice facilities of a business Center... the pool of a beautiful bay views around the place.. theres an umbrella. Sundeck at the pool for stay of the visitors to relaxing.. a bar and lounge a lively music . Very fanrmtastic restaurant greatful and delicious gastronomy ..good for apoetizer.. there mus a free breakfast. Breakfast buffet. Choise at the food selection food bar. Super foods \nA large room clean and accomodating. To stay..its a nice slide curtain with a city views you've satisfy to stay...perfect..",
+      "title": "Semaranis City Hotel ",
+      "trip_type": "Friends getaway",
+      "travel_date": "2023-12-31",
+      "user": {
+        "username": "rodalitab",
+        "user_location": {
+          "id": "14971809",
+          "name": "Francisco I. Madero Municipality, Central Mexico and Gulf Coast"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ea/74/default-avatar-2020-68.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ea/74/default-avatar-2020-68.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ea/74/default-avatar-2020-68.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ea/74/default-avatar-2020-68.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ea/74/default-avatar-2020-68.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 927900298,
+      "lang": "en",
+      "location_id": 260872,
+      "published_date": "2023-11-30T03:38:19Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g635613-d260872-r927900298-Reviews-Semiramis_City_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827#review927900298",
+      "text": "Lovely hotel,beautiful room.great food,great service.Hotel staff are lovely.The pool is only small and not very big for sun bathing,so get up early to get your beds.This hotel is not far from the beach.but is on a hill.not for disabled,who struggle with walking.\n",
+      "title": "Semiramis hotel",
+      "trip_type": "Family",
+      "travel_date": "2023-06-30",
+      "user": {
+        "username": "KayS1323",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/3d/default-avatar-2020-55.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 924899727,
+      "lang": "en",
+      "location_id": 260872,
+      "published_date": "2023-11-07T08:06:25Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g635613-d260872-r924899727-Reviews-Semiramis_City_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827#review924899727",
+      "text": "Our tour operator dropped us here in July '23 when our original hotel became unavailable. The Semiramis hotel staff had no idea we were coming and (it being peak summer season..) no rooms for us to use. \nThe welcome we recieved was extrodinary, with the hotel and staff doing everything they could for us and hundreds of other stranded holiday makers. \n\nA great location for walking to explore Rhodes or visiting the beach. Not only will we never forget the kindness we recieved here, we will be back to enjoy another stay in future. ",
+      "title": "The most welcoming city hotel you could wish for",
+      "trip_type": "Family",
+      "travel_date": "2023-07-31",
+      "user": {
+        "username": "RichInOxford",
+        "user_location": {
+          "id": "186361",
+          "name": "Oxford, Oxfordshire, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/77/ae/default-avatar-2020-2.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/77/ae/default-avatar-2020-2.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/77/ae/default-avatar-2020-2.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/77/ae/default-avatar-2020-2.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/77/ae/default-avatar-2020-2.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    }
+  ]
+}

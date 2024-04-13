@@ -1,0 +1,365 @@
+{
+  "data": [
+    {
+      "id": 944373949,
+      "lang": "en",
+      "location_id": 258755,
+      "published_date": "2024-03-29T09:19:49Z",
+      "rating": 2,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d258755-r944373949-Reviews-HCC_Montblanc-Barcelona_Catalonia.html?m=66827#review944373949",
+      "text": "The website and all listings state that the hotel has air conditioning. Nowhere does it state that it’s not accessible all year round. Neither heat nor cooling was available in the rooms and if we knew this we would not have booked it. Staff stated they don’t know what’s on the website but that’s the way it is and too bad. They changed our room so we would have a door to allow additional air flow into the room but this doesn’t remove the misleading/false advertising. Also, the pool was under renovation (we would not have used anyway but again, this wasn’t communicated to us, not even during check in) but it’s tiny for a hotel of this size.",
+      "title": "Misleading advertising",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "swoods8",
+        "user_location": {
+          "id": "255060",
+          "name": "Sydney, New South Wales"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1b/01/b0/c7/caption.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1b/01/b0/c7/caption.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1b/01/b0/c7/caption.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/1b/01/b0/c7/caption.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 943501003,
+      "lang": "en",
+      "location_id": 258755,
+      "published_date": "2024-03-23T11:12:49Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d258755-r943501003-Reviews-HCC_Montblanc-Barcelona_Catalonia.html?m=66827#review943501003",
+      "text": "A good hotel with great location, easy to walk to the old town, and there are good local restaurants in the aream so, good food to explore.Rooms are ok, not big, but enough for 3 people, and keep very clean in the room, and all the hotel.  ",
+      "title": "A good hotel with great location",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "jieyu123",
+        "user_location": {
+          "id": "181740",
+          "name": "Richmond Hill, Ontario"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ee/db/default-avatar-2020-10.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944141539,
+        "title": "Owner response",
+        "text": "Thank you so much for this  comment!\nWe are so happy to read that your stay fulfiled your expectations and thank you for highlight our cleaning , one of our strengths\nWe always work to provide our guests with the best memorable stays possible.\nIt will be a pleasure to host you in the future.\nKind regards,\n",
+        "lang": "en",
+        "author": "Silvia Armengol",
+        "published_date": "2024-03-27T10:49:26Z"
+      }
+    },
+    {
+      "id": 942441101,
+      "lang": "en",
+      "location_id": 258755,
+      "published_date": "2024-03-15T17:32:44Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d258755-r942441101-Reviews-HCC_Montblanc-Barcelona_Catalonia.html?m=66827#review942441101",
+      "text": "Very nice stay. Excellent location. Friendly staff. Nice, big room. Great breakfast. Cleaning service schedule was right during our kids afternoon nap, so we had our room cleaned only once during our 4 nigths stay. ",
+      "title": "Very nice stay",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "IonutC135",
+        "user_location": {
+          "id": "294458",
+          "name": "Bucharest"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/06/f0/bd/80/ionut-c.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/06/f0/bd/80/ionut-c.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/06/f0/bd/80/ionut-c.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/06/f0/bd/80/ionut-c.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-w/06/f0/bd/80/ionut-c.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944142184,
+        "title": "Owner response",
+        "text": "Thank you very much for your excellent comment !!! \nWe have shared it with all our staff! We work to provide excellent stays to our guests\nMany thanks also for highlighting the comfort of our room and cleaning and above all our staff!!\nFor future ocassions you can advise about the best time to clean your room. We would have note without problem. \nWe will be happy to welcome you again!!\nThank you once again!\n",
+        "lang": "en",
+        "author": "Silvia Armengol",
+        "published_date": "2024-03-27T10:54:37Z"
+      }
+    },
+    {
+      "id": 942178704,
+      "lang": "en",
+      "location_id": 258755,
+      "published_date": "2024-03-13T11:48:46Z",
+      "rating": 3,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d258755-r942178704-Reviews-HCC_Montblanc-Barcelona_Catalonia.html?m=66827#review942178704",
+      "text": "Overall, our stay at HCC Montblanc was fine. \nPros: The staff were wonderful and it was clean. The room was very large. There was also a mini fridge. The best part about the hotel is its location! We would stay in this location again hands down.\n\nCons: SO LOUD!! Our room faced an alley that was extremely loud, even with the window closed. Our neighbour might as well have joined us in our room as we could hear his entire phone conversation through the very thin walls. Additionally, despite being far from the elevator, every time someone took it, we could hear squeaking and squealing in our room (sounded like someone was dragging furniture in the room above - strange how sound travels!). Other small things to note: no fan in bathroom, glass bathroom door (hello, lack of privacy), and only one chair (easily room for 2). Also, the shower drained very slowly and water got everywhere.\n\nWe can’t speak to the breakfast as we didn’t purchase (it was cheaper to get food elsewhere). We were allowed to check in early, but did notify the hotel in advance.",
+      "title": "Great location, but very noisy",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "suzJ8444NI",
+        "user_location": {
+          "id": "154943",
+          "name": "Vancouver, British Columbia"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/11/default-avatar-2020-41.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 942363630,
+        "title": "Owner response",
+        "text": "Muchisimas gracias por su opinion. \nGracias por destacar nuestro confort asi como nuestra limpieza y servicio, sin duda dos de nuestros puntos fuertes. \nLamentamos las incidencias que nos comentan, pues de haberlo sabido hubiesemos podido darle una habitación en otra zona del hotel, animamos a nuestros clientes a que nos informen de todos los inconvenientes durante su estancia, precisamente para poder solventarlos en el momento.\nAl respecto ce los ventiladores, tenemos en todos los baños un sistema de extracción central que sustituye con mayor efectividad a los ventiladores. \nEsperamos volver a verles muy pronto y no olviden informar de cualquier inconveniente siempre durante su estancia. \nSaludos cordiales. \n",
+        "lang": "es",
+        "author": "Silvia Armengol",
+        "published_date": "2024-03-15T04:11:12Z"
+      }
+    },
+    {
+      "id": 940179017,
+      "lang": "en",
+      "location_id": 258755,
+      "published_date": "2024-02-29T05:39:25Z",
+      "rating": 4,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d258755-r940179017-Reviews-HCC_Montblanc-Barcelona_Catalonia.html?m=66827#review940179017",
+      "text": "Met or exceeded all of my expectations.  Breakfast buffet has a very good selection of hot, room temperature and cold foods, juices and a coffee machine that dispenses very hot water from a separate nozzle for tea. I detest the taste of coffee so this was a big bonus for me.  Having said that there are two cafes roughly two hundred meters away if you want something small for breakfast at half of the buffet cost. We had a double bed that was two twin mattresses. One mattress was medium and the other was medium-firm. We couldn't figure out the air conditioning unit settings for the room to blow anything other than warm air so we opened the window that first night and slept well enough that we didn't bother to report it to the front desk. No mosquitos or bugs found us on the sixth floor in February.  And we always travel with sleep masks and earplugs.",
+      "title": "Great location, service and value",
+      "trip_type": "NONE",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "tazforna",
+        "user_location": {
+          "id": "33020",
+          "name": "San Jose, California"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/11/default-avatar-2020-41.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 942363155,
+        "title": "Owner response",
+        "text": "Dear Mr. Renee\nThank you so much for your comment!\nWe are so happy to read that your stay fulfiled your expectations \nWe always work to provide our guests with the best memorable stays possible.\nIt will be a pleasure to host you in the future.\nKind regards,\n",
+        "lang": "en",
+        "author": "Silvia Armengol",
+        "published_date": "2024-03-15T04:05:21Z"
+      }
+    }
+  ]
+}

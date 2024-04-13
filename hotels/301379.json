@@ -1,0 +1,314 @@
+{
+  "location_id": "301379",
+  "name": "Dusit  Thani Dubai",
+  "description": "Dusit Thani Dubai hotel combines the latest in luxury amenities with traditional Thai hospitality in all 321 superbly furnished rooms and suites providing the comforts expected of a luxurious international five star hotel. The Dusit Club Rooms, Executive Club Suite and The Dusit Suite are supported by the Dusit Club Lounge and offer additional facilities including complimentary breakfast, complimentary afternoon tea, non-alcoholic beverages all day, butler services, pressing and laundry facilities and limousine airport transfers. Seven food and beverage outlets offer a superb choice of dining options from the best Thai restaurant in Dubai, Asian street food to our 24-hour contemporary artisan cafe and enjoy a lovely evening at our outdoor terrace lounge and much more.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d301379-Reviews-Dusit_Thani_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "133 Sheikh Zayed Road",
+    "street2": "",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "",
+    "address_string": "133 Sheikh Zayed Road, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.20628",
+  "longitude": "55.27289",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d301379-Dusit_Thani_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#83 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "83"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "5460",
+  "review_rating_count": {
+    "1": "90",
+    "2": "80",
+    "3": "221",
+    "4": "974",
+    "5": "4096"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "3464",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d301379-m66827-Reviews-Dusit_Thani_Dubai-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Room service",
+    "Pool",
+    "Free parking",
+    "Restaurant",
+    "Fitness center",
+    "Business center",
+    "Suites",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Shuttle Bus Service",
+    "Wheelchair access",
+    "Kitchenette",
+    "Spa",
+    "Airport transportation",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Rooftop Pool",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Indoor pool",
+    "Butler Service",
+    "Outdoor pool",
+    "Parking",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Sauna",
+    "Afrikaans",
+    "Allergy-free Room",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Car Hire",
+    "Chinese",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Convenience Store",
+    "Currency Exchange",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Gift Shop",
+    "Hair Dryer",
+    "Head Massage",
+    "Hindi",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Kitchenware",
+    "Massage",
+    "On-Demand Movies",
+    "Parking Garage",
+    "Pool / Beach Towels",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shops",
+    "Snack Bar",
+    "Soundproof Rooms",
+    "Special Diet Menus",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Taxi Service",
+    "Telephone",
+    "Thai",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Breakfast Available",
+    "Air Purifier",
+    "Bidet",
+    "Cable / Satellite TV",
+    "Children's Television Networks",
+    "Children's Playground",
+    "Couples Massage",
+    "Dining Area",
+    "Electric Kettle",
+    "Executive Lounge Access",
+    "First Aid Kit",
+    "Foot Massage",
+    "Full Body Massage",
+    "Hand Massage",
+    "Highchairs Available",
+    "Indonesian",
+    "Landmark View",
+    "Makeup Services",
+    "Malay",
+    "Manicure",
+    "Neck Massage",
+    "Nepali",
+    "Outdoor Dining Area",
+    "Oven",
+    "Pedicure",
+    "Private Bathrooms",
+    "Raquetball",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Sofa",
+    "Stovetop",
+    "Sun Deck",
+    "Tamil",
+    "Valet Parking",
+    "Vietnamese",
+    "Walk-in Shower",
+    "Walking Tours",
+    "Wardrobe / Closet",
+    "Water Park Off-site",
+    "Waxing Services",
+    "Photo Copier / Fax In Business Center",
+    "Yoga Classes"
+  ],
+  "parent_brand": "Dusit International",
+  "brand": "Dusit Thani",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Value",
+    "City View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620627",
+      "name": "Dubai International Financial Centre (DIFC)"
+    },
+    {
+      "location_id": "15620671",
+      "name": "Trade Centre"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "1457"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "937"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "475"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1575"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "630"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

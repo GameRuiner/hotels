@@ -1,0 +1,204 @@
+{
+  "location_id": "291367",
+  "name": "Belair Beach Hotel",
+  "description": "Belair Beach Hotel is an excellent choice for travelers visiting Rhodes Town, offering a quiet environment alongside many helpful amenities designed to enhance your stay.\nGiven the close proximity of popular landmarks, such as The Acropolis of Rhodes (1.6 mi) and Ancient Olympic Stadium - Rhodes (1.7 mi), guests of Belair Beach Hotel can easily experience some of Rhodes Town's most well known attractions.\nRooms at Belair Beach Hotel provide air conditioning, and getting online is easy, with free internet access available.\nIn addition, Belair Beach Hotel offers a pool and free breakfast, which will help make your Rhodes Town trip additionally gratifying. And, as an added convenience, there is free parking available to guests.\nTravelers looking to enjoy some crab can head to Nireas. Otherwise, you may want to check out a seafood restaurant such as Mama Sofia's, Ronda Restaurant & Beach Bar, or Kerasma Restaurant.\nIf you’re looking for something to do, Cave Archangel Michael Panormitis (0.9 mi) and Temple of Athena Polias and Zeus Polieus (1.0 mi) are a nice way to spend some time, and they are all within walking distance of Belair Beach Hotel.\nEnjoy your stay in Rhodes Town!\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g635614-d291367-Reviews-Belair_Beach_Hotel-Ialyssos_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street1": "Ialyssos Avenue",
+    "street2": "",
+    "city": "Ialyssos",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "85101",
+    "address_string": "Ialyssos Avenue, Ialyssos 85101 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Ialyssos",
+      "location_id": "635614"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.42291",
+  "longitude": "28.192888",
+  "timezone": "Europe/Athens",
+  "write_review": "https://www.tripadvisor.com/UserReview-g635614-d291367-Belair_Beach_Hotel-Ialyssos_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "635614",
+    "ranking_string": "#18 of 43 hotels in Ialyssos",
+    "geo_location_name": "Ialyssos",
+    "ranking_out_of": "43",
+    "ranking": "18"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "1587",
+  "review_rating_count": {
+    "1": "65",
+    "2": "104",
+    "3": "304",
+    "4": "515",
+    "5": "599"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1694",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g635614-d291367-m66827-Reviews-Belair_Beach_Hotel-Ialyssos_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Restaurant",
+    "Internet",
+    "Beachfront",
+    "Free parking",
+    "Bar/Lounge",
+    "Wifi",
+    "Paid Wifi",
+    "Beach Access",
+    "Free Internet",
+    "Airport transportation",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Laundry Service",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Refrigerator in room",
+    "Safe",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Baggage Storage",
+    "Car Hire",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Free Private Parking Nearby",
+    "24-Hour Front Desk",
+    "German",
+    "Greek",
+    "Pool / Beach Towels",
+    "Salon",
+    "Snack Bar",
+    "Street Parking",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Ocean View",
+    "Bay View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "13"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "767"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "47"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "375"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "203"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

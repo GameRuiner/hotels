@@ -1,0 +1,212 @@
+{
+  "location_id": "1065229",
+  "name": "Bellagio Beach Resort & Spa",
+  "description": "Finding an ideal family-friendly hotel in Hurghada does not have to be difficult. Welcome to Bellagio Luxury Beach Resort & Spa a nice option for travelers like you. While staying at Bellagio Luxury Beach Resort & Spa, visitors can check out El Dahar (2.9 mi), which is a popular Hurghada attraction. Rooms at Bellagio Luxury Beach Resort & Spa provide a flat screen TV and air conditioning, and guests can stay connected with internet access. In addition, while staying at Bellagio Luxury Beach Resort & Spa guests have access to room service, a rooftop terrace, and a concierge. You can also enjoy a pool and free breakfast. When you’re feeling hungry, be sure to check out miami pub, which is a pub that is popular with locals and out-of-towners alike. Bellagio Luxury Beach Resort & Spa looks forward to welcoming you on your visit to Hurghada.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297549-d1065229-Reviews-Bellagio_Beach_Resort_Spa-Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "16 Km Ayhaa Road",
+    "street2": "",
+    "city": "Hurghada",
+    "country": "Egypt",
+    "postalcode": "84599",
+    "address_string": "16 Km Ayhaa Road, Hurghada 84599 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Hurghada",
+      "location_id": "297549"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.307837",
+  "longitude": "33.72043",
+  "timezone": "Africa/Cairo",
+  "phone": "01120653502300",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297549-d1065229-Bellagio_Beach_Resort_Spa-Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297549",
+    "ranking_string": "#274 of 325 hotels in Hurghada",
+    "geo_location_name": "Hurghada",
+    "ranking_out_of": "325",
+    "ranking": "274"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "3568",
+  "review_rating_count": {
+    "1": "258",
+    "2": "161",
+    "3": "253",
+    "4": "539",
+    "5": "2357"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "4030",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297549-d1065229-m66827-Reviews-Bellagio_Beach_Resort_Spa-Hurghada_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Beachfront",
+    "Restaurant",
+    "Bar/Lounge",
+    "Beach Access",
+    "Room service",
+    "Fitness center",
+    "Internet",
+    "Wheelchair access",
+    "Spa",
+    "Public Wifi",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Kids Activities",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Safe",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Water Park",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Arabic",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Car Hire",
+    "Currency Exchange",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Head Massage",
+    "Indoor Play Area for Children",
+    "Ironing Service",
+    "Karaoke",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Nightclub / DJ",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shops",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Mountain View",
+    "Pool View",
+    "Walk-in Shower"
+  ],
+  "parent_brand": "TUI Group",
+  "brand": "FUN&SUN",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Bay View",
+    "Quiet"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "16"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "864"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "212"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1438"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "810"
+    }
+  ],
+  "awards": []
+}

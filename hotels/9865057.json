@@ -1,0 +1,405 @@
+{
+  "location_id": "9865057",
+  "name": "Titanic Luxury Collection Bodrum",
+  "description": "Titanic Luxury Collection Bodrum is located in Güvercinlik, Pina Peninsula which is one of the most beautiful bays of Bodrum. The is touched by the architectural features of two sides of Aegean; Bodrum and Mikanos presenting a concept design for ultimate comfort. With Titanic Luxury Collection Bodrum, your heart will remain in Aegean.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g1467782-d9865057-Reviews-Titanic_Luxury_Collection_Bodrum-Guvercinlik_Bodrum_District_Mugla_Province_Turkish_A.html?m=66827",
+  "address_obj": {
+    "street1": "Comca Mevkii Sok. No:8",
+    "street2": "Meşelik Mah.",
+    "city": "Guvercinlik",
+    "state": "Mugla Province",
+    "country": "Turkiye",
+    "postalcode": "48200",
+    "address_string": "Comca Mevkii Sok. No:8 Meşelik Mah., Guvercinlik 48200 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Guvercinlik",
+      "location_id": "1467782"
+    },
+    {
+      "level": "District",
+      "name": "Bodrum District",
+      "location_id": "298020"
+    },
+    {
+      "level": "Province",
+      "name": "Mugla Province",
+      "location_id": "298019"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "37.13832",
+  "longitude": "27.563122",
+  "timezone": "Europe/Istanbul",
+  "phone": "011902523115252",
+  "write_review": "https://www.tripadvisor.com/UserReview-g1467782-d9865057-Titanic_Luxury_Collection_Bodrum-Guvercinlik_Bodrum_District_Mugla_Province_Turkish_Aegean_Coas.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "1467782",
+    "ranking_string": "#1 of 13 hotels in Guvercinlik",
+    "geo_location_name": "Guvercinlik",
+    "ranking_out_of": "13",
+    "ranking": "1"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "5669",
+  "review_rating_count": {
+    "1": "119",
+    "2": "106",
+    "3": "196",
+    "4": "453",
+    "5": "4796"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "6319",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g1467782-d9865057-m66827-Reviews-Titanic_Luxury_Collection_Bodrum-Guvercinlik_Bodrum_District_Mugla_Province_Turkish_A.html#photos",
+  "price_level": "$$$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "All-Inclusive",
+    "Pool",
+    "Internet",
+    "Kids Activities",
+    "Beachfront",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Water Park",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Butler Service",
+    "Outdoor pool",
+    "Private Pools",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Additional Bathroom",
+    "Aerobics",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Board Games / Puzzles",
+    "Bottled Water",
+    "Bridal Suite",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Children's Television Networks",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Convenience Store",
+    "Couples Massage",
+    "Darts",
+    "Desk",
+    "Doorperson",
+    "Dutch",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Extra Long Beds",
+    "Facial Treatments",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Game Room",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Head Massage",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Newspaper",
+    "Nightclub / DJ",
+    "Outdoor Furniture",
+    "Parking Garage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Snorkeling",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Telephone",
+    "Turkish",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Wine / Champagne",
+    "Beach Access",
+    "Kids pool",
+    "Bidet",
+    "Boating",
+    "Cable / Satellite TV",
+    "Canoeing",
+    "Children's Playground",
+    "Clothes Rack",
+    "Dining Area",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Foot Massage",
+    "Complimentary Welcome Drink",
+    "Full Body Massage",
+    "Hand Massage",
+    "Highchairs Available",
+    "Infirmary",
+    "Laptop Safe",
+    "Light Therapy",
+    "Makeup Services",
+    "Manicure",
+    "Neck Massage",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Pool View",
+    "Private Bathrooms",
+    "Sofa",
+    "Sofa Bed",
+    "Strollers",
+    "Sun Deck",
+    "Swimming Pool Toys",
+    "Tile / Marble Floor",
+    "Valet Parking",
+    "Video Game Console",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Waterslide",
+    "Water Sport Equipment Rentals",
+    "Windsurfing"
+  ],
+  "parent_brand": "Titanic Hotels Group",
+  "brand": "Titanic Hotels",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Ocean View",
+    "Mountain View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "128"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1310"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "76"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "3097"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "572"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

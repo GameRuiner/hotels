@@ -1,0 +1,291 @@
+{
+  "location_id": "19739438",
+  "name": "Radisson Red Dubai Silicon Oasis",
+  "description": "Discover a refreshingly different way to stay in Dubai's tech playground at Radisson RED Hotel Dubai Silicon Oasis. Located in Silicon Park, Dubai's first smart city project built with the latest AI and IOT technologies, our cool spaces are packed with personality and style. Energize with fresh, seasonal and sustainable food and in comfortable rooms, suites and apartments. Chill out in our rooftop bar and pool, in our fitness center or over a game of table tennis. With boundless free Wi-Fi and 24-hour food and drink, you decide when the party starts and stops. Choose from 10 high-tech meeting venues and a huge 600 square-meter multi-event space, perfect for throwing epic parties or getting meetings off autopilot.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d19739438-Reviews-Radisson_Red_Dubai_Silicon_Oasis-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Dubai Digital Park",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Dubai Digital Park, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.118946",
+  "longitude": "55.380024",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d19739438-Radisson_Red_Dubai_Silicon_Oasis-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#57 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "57"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "1303",
+  "review_rating_count": {
+    "1": "18",
+    "2": "12",
+    "3": "11",
+    "4": "64",
+    "5": "1198"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "457",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d19739438-m66827-Reviews-Radisson_Red_Dubai_Silicon_Oasis-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Internet",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Room service",
+    "Free parking",
+    "Spa",
+    "Free Wifi",
+    "Pool",
+    "Suites",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Pets Allowed",
+    "Kitchenette",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Minibar",
+    "Babysitting",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Sauna",
+    "Electric vehicle charging station",
+    "Arabic",
+    "Baggage Storage",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Doorperson",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Filipino",
+    "Hindi",
+    "Ironing Service",
+    "Nightclub / DJ",
+    "Pool / Beach Towels",
+    "Private Check-in / Check-out",
+    "Russian",
+    "24-Hour Security",
+    "Snack Bar",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Taxi Service",
+    "Wake Up Service / Alarm Clock",
+    "Free Internet",
+    "Flatscreen TV"
+  ],
+  "parent_brand": "Carlson Rezidor",
+  "brand": "Radisson Red",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quaint",
+    "Charming"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620634",
+      "name": "Dubai Silicon Oasis (DSO)"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "203"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "163"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "116"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "135"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "597"
+    }
+  ],
+  "awards": []
+}

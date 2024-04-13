@@ -1,0 +1,204 @@
+{
+  "location_id": "631950",
+  "name": "Falcon Hills Hotel",
+  "description": "Ras Um El Sid Plateau, The Famous Under Water Park For Scuba Diving And Snorkeling.350 Meters From Amphoros Beach And Diving Site, 05 KM South Naama Bay And 17 KM To Airport.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d631950-Reviews-Falcon_Hills_Hotel-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Um El Sid",
+    "street2": "",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "postalcode": "BP 310",
+    "address_string": "Um El Sid, Sharm El Sheikh BP 310 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.87002",
+  "longitude": "34.31356",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d631950-Falcon_Hills_Hotel-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#57 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "57"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "2750",
+  "review_rating_count": {
+    "1": "115",
+    "2": "130",
+    "3": "245",
+    "4": "615",
+    "5": "1645"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "2384",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d631950-m66827-Reviews-Falcon_Hills_Hotel-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Room service",
+    "Restaurant",
+    "Fitness center",
+    "Internet",
+    "Free parking",
+    "Wifi",
+    "Paid Wifi",
+    "Paid Internet",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Spa",
+    "Airport transportation",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Safe",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Kids Club",
+    "Arabic",
+    "Currency Exchange",
+    "Darts",
+    "Diving",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "24-Hour Front Desk",
+    "German",
+    "Ironing Service",
+    "Karaoke",
+    "Massage",
+    "Pool / Beach Towels",
+    "Russian",
+    "24-Hour Security",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Family Rooms"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Charming",
+    "Family"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "17"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "811"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "293"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "739"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "654"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

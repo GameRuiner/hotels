@@ -1,0 +1,209 @@
+{
+  "location_id": "306606",
+  "name": "Al Bustan Centre & Residence",
+  "description": "Al Bustan Centre & Residence has a well-equipped fitness centre, an outdoor pool and relaxing massage therapies. It is located a 5-minute drive from Dubai Creek Golf & Yachtclub. The spacious accommodation features kitchenettes equipped with a refrigerator and a tea/coffee maker. Each is air conditioned and fitted with satellite TV.Guests can enjoy a game of tennis on the court or relax in the sauna. Staff at the tour desk can offer information about Al Bustan’s car rental service. The reception desk is available 24/7.At the Fountain Restaurant & Café, guests can choose from a range of regional and international specialities. The on-site Pastry Shop and Coffee Lounge offer light snacks and refreshing beverages.The Al Bustan Centre& Residence complex has a shopping mall and a large indoor amusement arcade. Dubai International Airport is just 2 km away and free parking is offered at the property.Apartment Facilities• 24-Hour Front Desk, • Elevator, • Safety Deposit Box, • Newspapers, • Restaurant, • All Public and Private spaces non-smoking, • Fitness Centre, Massage, Sauna, Outdoor Swimming Pool (all year), Tennis Court, Children's Playground, Games Room• Currency Exchange, • Laundry, Dry Cleaning, • Meeting/Banquet Facilities, • Tour Desk,• Ironing Service, • ATM/Cash Machine on site, • Shuttle Service (free)• Wi-fi • private parking",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d306606-Reviews-Al_Bustan_Centre_Residence-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Nahda Road",
+    "street2": "Al Bustan Centre, Al Qusais 1",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "20107",
+    "address_string": "Al Nahda Road Al Bustan Centre, Al Qusais 1, Dubai 20107 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.275211",
+  "longitude": "55.368107",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d306606-Al_Bustan_Centre_Residence-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#14 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "14"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1397",
+  "review_rating_count": {
+    "1": "20",
+    "2": "18",
+    "3": "38",
+    "4": "205",
+    "5": "1116"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "591",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d306606-m66827-Reviews-Al_Bustan_Centre_Residence-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Free parking",
+    "Internet",
+    "Free Internet",
+    "Kitchenette",
+    "Free Wifi",
+    "Kids Activities",
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Conference Facilities",
+    "Babysitting",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Parking",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Kids Club",
+    "Kids Stay Free",
+    "Arabic",
+    "Baggage Storage",
+    "Car Hire",
+    "Doorperson",
+    "Hindi",
+    "Ironing Service",
+    "Salon",
+    "24-Hour Security",
+    "Taxi Service",
+    "Family Rooms"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Business",
+    "Classic"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620584",
+      "name": "Al Qusais"
+    },
+    {
+      "location_id": "15620585",
+      "name": "Al Qusais 1"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "453"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "161"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "124"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "340"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "218"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

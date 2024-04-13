@@ -1,0 +1,242 @@
+{
+  "location_id": "1079054",
+  "name": "Ascott Park Place Dubai",
+  "description": "Ascott Park Place Dubai provides luxury residences with comprehensive services and modern facilities in the iconic 56-story Park Place Tower. The floor to ceiling windows in each apartment overlooks breathtaking views of the city or the Arabian Gulf. Ideal for corporate housing, the spacious apartments have elegant furnishings and many contemporary features including wireless internet access, LCD televisions and iPod docking stations. The apartments are soundproofed to ensure tranquility and peace. After a day of business or shopping, take advantage of the temperature controlled 40-metre swimming pool and work out with state of the art Precor equipment. Live on the exclusive Sheikh Zayed Road, home to Dubai's most valuable real estate and business district centre. The Dubai International Convention & Exhibition Centre, Dubai International Finance Centre and other many exclusive shops and restaurants are just a walk away. The Park Place Tower also accommodates 19 floors of commercial offices such as the Pictet & Cie and The Royal Bank of Scotland. The Dubai World Trade Centre Metro Station is just across the road for destinations throughout the city. With the business, shopping areas and beaches close at hand, enjoy the efficiency of location and the excellence at Ascott Park Place Dubai.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1079054-Reviews-Ascott_Park_Place_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Zayed Rd",
+    "street2": "Park Place Tower",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "117452",
+    "address_string": "Sheikh Zayed Rd Park Place Tower, Dubai 117452 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.2247",
+  "longitude": "55.283333",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1079054-Ascott_Park_Place_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#101 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "101"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "667",
+  "review_rating_count": {
+    "1": "14",
+    "2": "14",
+    "3": "40",
+    "4": "141",
+    "5": "459"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "372",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1079054-m66827-Reviews-Ascott_Park_Place_Dubai-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Free parking",
+    "Free Internet",
+    "Free Wifi",
+    "Laundry Service",
+    "Internet",
+    "Kids Activities",
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Kitchenette",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Microwave",
+    "Refrigerator in room",
+    "Babysitting",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Outdoor pool",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Kids Club",
+    "Additional Bathroom",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Clothes Dryer",
+    "Dishwasher",
+    "English",
+    "Filipino",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Iron",
+    "Ironing Service",
+    "24-Hour Security",
+    "Shared Lounge / TV Area",
+    "Washing Machine",
+    "Chapel / Shrine",
+    "First Aid Kit"
+  ],
+  "parent_brand": "The Ascott Limited",
+  "brand": "Ascott the Residence",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Modern",
+    "City View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620671",
+      "name": "Trade Centre"
+    },
+    {
+      "location_id": "15620672",
+      "name": "Trade Centre 1"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "182"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "54"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "33"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "280"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "72"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice Best of the Best",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png"
+      },
+      "categories": [
+        "Top"
+      ],
+      "display_name": "Travelers Choice Best of the Best"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

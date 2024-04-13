@@ -1,0 +1,202 @@
+{
+  "data": [
+    {
+      "id": 944787711,
+      "lang": "en",
+      "location_id": 240860,
+      "published_date": "2024-04-01T09:23:18Z",
+      "rating": 2,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d240860-r944787711-Reviews-Eurostars_Grand_Marina-Barcelona_Catalonia.html?m=66827#review944787711",
+      "text": "Designer handbag and cash taken from the room! Not what you expect from a 5* hotel! Management didn’t seem bothered. \nHotel was clean. Dinner in the restaurant is recommended. Not too far from shops and restaurants. However make sure everything is locked away in the safe!",
+      "title": "Good but wouldn’t return",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "michellecS6959XS",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ee/10/default-avatar-2020-8.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 943799106,
+      "lang": "en",
+      "location_id": 240860,
+      "published_date": "2024-03-25T15:11:35Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d240860-r943799106-Reviews-Eurostars_Grand_Marina-Barcelona_Catalonia.html?m=66827#review943799106",
+      "text": "Absolutely awful experience at EuroStars Grand Marina. Had my passport stolen from my room! Reported it to the staff who didn't seem to care at all. Made me feel like this wasn't the first time it happened. If you're a traveller, especially with a foreign passport (like British), avoid this hotel at all costs. Their security seems nonexistent, and the staff is extremely unhelpful. Look elsewhere for your safety and peace of mind.",
+      "title": "Lost my passport here - Avoid at all costs",
+      "trip_type": "Business",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "UsmanK344",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/4a/default-avatar-2020-42.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/4a/default-avatar-2020-42.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/4a/default-avatar-2020-42.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/4a/default-avatar-2020-42.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/4a/default-avatar-2020-42.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 942468643,
+      "lang": "en",
+      "location_id": 240860,
+      "published_date": "2024-03-16T01:47:15Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d240860-r942468643-Reviews-Eurostars_Grand_Marina-Barcelona_Catalonia.html?m=66827#review942468643",
+      "text": "Me and my husband stayed for 3 days and nights at this hotel. The room is clean. The service is absolutely amazing. I have to mention na the woman who serves food at our room I asked her name was Jaycelyn her smile is so pretty and very friendly. We will definitely come and book again in this hotel. Thank you. Keep it up.",
+      "title": "Amazing Hotel",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "RILLIAMS",
+        "user_location": {
+          "id": "60763",
+          "name": "New York City, New York"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/de/e7/default-avatar-2020-37.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/de/e7/default-avatar-2020-37.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/de/e7/default-avatar-2020-37.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/de/e7/default-avatar-2020-37.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/de/e7/default-avatar-2020-37.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 938681577,
+      "lang": "en",
+      "location_id": 240860,
+      "published_date": "2024-02-17T18:46:03Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d240860-r938681577-Reviews-Eurostars_Grand_Marina-Barcelona_Catalonia.html?m=66827#review938681577",
+      "text": "Poor service. The power to our door went out, so we could not enter our room in the middle of night. It took 1 hour to fix the problem. Missed a good night sleep without instant compensation. Will not come back here again. I do not understand why it took so long time to chance a battery for The door.",
+      "title": "Poor service",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "thomasjJ7045EV",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e6/ea/default-avatar-2020-54.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e6/ea/default-avatar-2020-54.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e6/ea/default-avatar-2020-54.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e6/ea/default-avatar-2020-54.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e6/ea/default-avatar-2020-54.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 933871830,
+      "lang": "en",
+      "location_id": 240860,
+      "published_date": "2024-01-13T04:02:35Z",
+      "rating": 3,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d240860-r933871830-Reviews-Eurostars_Grand_Marina-Barcelona_Catalonia.html?m=66827#review933871830",
+      "text": "My husband said I’ve just booked us a 5 star hotel in the Marina \nJust to let you know this isn’t a 5 star hotel \nWe were at the front of the hotel and the noise from the ferries was horrendous- lucky I had ear plugs \n\nThe room was ok nothing special other than a muffin in a box on the bed \n\nNice to walk into La Rambles but we came back and ordered food via an app\n\nThe breakfast was really good alot of variety \n\nBed was ok pillows nice and comfy \n\nI definitely wouldn’t stay here again \n\nThe only reason we booked was because of the location of the ship and to travel the next day",
+      "title": "Definitely not a 5 Star",
+      "trip_type": "Couples",
+      "travel_date": "2024-01-31",
+      "user": {
+        "username": "Dotty198",
+        "user_location": {
+          "id": "1097091",
+          "name": "Tredegar, Blaenau Gwent, South Wales, Wales"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/a7/default-avatar-2020-44.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

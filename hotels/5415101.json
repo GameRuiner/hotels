@@ -1,0 +1,287 @@
+{
+  "location_id": "5415101",
+  "name": "Hotel Sofitel Dubai Downtown",
+  "description": "The French elegance in the heart of the iconic Downtown Dubai. Apart from the immediate proximity to The Dubai Mall and Burj Khalifa, the hotel is a few minutes away from Coca-Cola Arena, Dubai Opera, City Walk and also offers shuttle bus service to Kite Beach, La Mer Beach, The Mall of the Emirates and other destinations. Sofitel Dubai Downtown guests can avail of special offers at some of Dubai’s most famous attractions that include KidZAnia Dubai, Dubai Aquarium, Reel Cinemas, and Virtual Reality Park. The hotel offers an exceptional setting for business, leisure and exploration within the New and Old Dubai. Welcome to the finer side of sophistication where you can step into a world of refined European heritage linked to a local culture, elegance and seamless luxury.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d5415101-Reviews-Hotel_Sofitel_Dubai_Downtown-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Zayed Rd",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Sheikh Zayed Rd, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.199974",
+  "longitude": "55.269157",
+  "timezone": "Asia/Dubai",
+  "phone": "01197145036666",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d5415101-Hotel_Sofitel_Dubai_Downtown-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#690 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "690"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "7504",
+  "review_rating_count": {
+    "1": "84",
+    "2": "100",
+    "3": "208",
+    "4": "886",
+    "5": "6228"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "5186",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d5415101-m66827-Reviews-Hotel_Sofitel_Dubai_Downtown-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Pool",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Hot Tub",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Kids Activities",
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Multilingual Staff",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Butler Service",
+    "Infinity Pool",
+    "Outdoor pool",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Sauna",
+    "Allergy-free Room",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Books, DVDs, Music for Children",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Chinese",
+    "Clothes Rack",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Couples Massage",
+    "Currency Exchange",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Evening Entertainment",
+    "Extra Long Beds",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Hair Dryer",
+    "Head Massage",
+    "Hindi",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Laptop Safe",
+    "Massage",
+    "Nightclub / DJ",
+    "Parking Garage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Shoeshine",
+    "Snack Bar",
+    "Sofa",
+    "Soundproof Rooms",
+    "Spanish",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "VIP Room Facilities",
+    "Breakfast Available",
+    "Cable / Satellite TV",
+    "Children's Playground",
+    "Dining Area",
+    "Electric Kettle",
+    "Executive Lounge Access",
+    "Free Wifi in the Business Center",
+    "Happy Hour",
+    "Highchairs Available",
+    "Infirmary",
+    "Landmark View",
+    "Outdoor Dining Area",
+    "Private Bathrooms",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Sun Deck",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Photo Copier / Fax In Business Center",
+    "Yoga Room"
+  ],
+  "parent_brand": "Accor",
+  "brand": "Sofitel",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Modern",
+    "Green"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7282431",
+      "name": "Downtown Dubai"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "1704"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1954"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "507"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1712"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "949"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

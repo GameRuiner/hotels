@@ -1,0 +1,272 @@
+{
+  "data": [
+    {
+      "id": 945609476,
+      "lang": "en",
+      "location_id": 559387,
+      "published_date": "2024-04-06T15:45:42Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d559387-r945609476-Reviews-Hilton_Diagonal_Mar_Barcelona-Barcelona_Catalonia.html?m=66827#review945609476",
+      "text": "What a great hotel experience.  From the clean, modern and spacious rooms, to the elite customer service, to the absolutely decadent breakfast to the utterly breathtaking pool, it was one of the best Hilton stays I've had.  The customer service was unmatched, as they constantly strove to provide the best of the best service.  The breakfast is a hidden gem, as you have omelets cooked to order, fresh batch of bacon, sausage and eggs.  A whole table dedicated to fresh bread.  Drink stations filtered throughout, coffee stations throughout and of course, for those who prefer the healthier options, a giant fruit, yogurt and deli section.  Really, am amazing experience!",
+      "title": "Amazing Stay - Simply the Best",
+      "trip_type": "Couples",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "Franz_Blanchard",
+        "user_location": {
+          "id": "59292",
+          "name": "Martinsburg, West Virginia"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/de/0a/default-avatar-2020-35.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/de/0a/default-avatar-2020-35.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/de/0a/default-avatar-2020-35.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/de/0a/default-avatar-2020-35.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/de/0a/default-avatar-2020-35.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 945018954,
+      "lang": "en",
+      "location_id": 559387,
+      "published_date": "2024-04-03T03:25:05Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d559387-r945018954-Reviews-Hilton_Diagonal_Mar_Barcelona-Barcelona_Catalonia.html?m=66827#review945018954",
+      "text": "I like a hotel with a good Executive Lounge but am often disappointed with the offerings, this was one of the better lounges. A great array of food and drinks during my one night stay. Very friendly staff throughout the hotel and a comfortable room - I can ask for no more so would stay here in my next visit to Barcelona.",
+      "title": "Good Barcelona hotel",
+      "trip_type": "Friends getaway",
+      "travel_date": "2023-12-31",
+      "user": {
+        "username": "158JohnR",
+        "user_location": {
+          "id": "186487",
+          "name": "Aberdeen, Aberdeenshire, Scotland"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/06/a8/d3/8f/john-r.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/06/a8/d3/8f/john-r.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/06/a8/d3/8f/john-r.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/06/a8/d3/8f/john-r.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/06/a8/d3/8f/john-r.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945035984,
+        "title": "Owner response",
+        "text": "We're delighted to hear that you found our Executive Lounge to be one of the better ones, with a great array of food and drinks during your stay. It's fantastic to know that you experienced very friendly staff throughout the hotel and enjoyed a comfortable room. Your satisfaction means the world to us, and we look forward to welcoming you back on your next visit to Barcelona!",
+        "lang": "en",
+        "author": "Hilton Diagonal Mar Barcelona",
+        "published_date": "2024-04-03T06:35:05Z"
+      }
+    },
+    {
+      "id": 944959249,
+      "lang": "en",
+      "location_id": 559387,
+      "published_date": "2024-04-02T13:08:50Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d559387-r944959249-Reviews-Hilton_Diagonal_Mar_Barcelona-Barcelona_Catalonia.html?m=66827#review944959249",
+      "text": "My wife and I loved staying at this hotel.   We were put on the 13th floor and we had a fantastic view of the ocean.   Our room was clean and had everything we needed.   Bell staff were awesome in helping to park our car and bring our things to the room.   Breakfast the next morning was very nice.   Highly recommended when in Barcelona. ",
+      "title": "Great place by the beach ",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "BDS62",
+        "user_location": {
+          "id": "55931",
+          "name": "Greenville, Texas"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/24/fe/bd/34/bds62.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/24/fe/bd/34/bds62.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/24/fe/bd/34/bds62.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/24/fe/bd/34/bds62.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/24/fe/bd/34/bds62.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945035964,
+        "title": "Owner response",
+        "text": "Thank you for sharing your positive experience with us! We're thrilled to hear that you and your wife enjoyed your stay, especially with the fantastic ocean view from the 13th floor. It's great to know that your room was clean and well-equipped, and that our bell staff provided excellent service in assisting with parking and luggage. We're delighted that you also enjoyed our breakfast offerings. Your recommendation means a lot to us, and we look forward to welcoming you back on your next visit to Barcelona!",
+        "lang": "en",
+        "author": "Hilton Diagonal Mar Barcelona",
+        "published_date": "2024-04-03T06:34:53Z"
+      }
+    },
+    {
+      "id": 944170710,
+      "lang": "en",
+      "location_id": 559387,
+      "published_date": "2024-03-27T15:28:56Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d559387-r944170710-Reviews-Hilton_Diagonal_Mar_Barcelona-Barcelona_Catalonia.html?m=66827#review944170710",
+      "text": "We highly recommend the Hilton Diagonal Mar. The service was excellent! We were very impressed with the quality of food and the incredible hospitality from the staff. The views of the sea from our room and the city from executive lounge were fantastic! Aürt and Mai were fantastic restaurants. \n\nWhile this hotel is a little further from the touristy areas, it was an easy metro ride to town. The metro was clean and reliable.",
+      "title": "Excellent service, food, and views",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "lauragE8502UB",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e5/66/default-avatar-2020-53.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e5/66/default-avatar-2020-53.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e5/66/default-avatar-2020-53.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e5/66/default-avatar-2020-53.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e5/66/default-avatar-2020-53.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944234176,
+        "title": "Owner response",
+        "text": "Thank you for recommending Hilton Diagonal Mar! We're delighted you enjoyed our excellent service, food quality, and breathtaking views, despite the hotel's slightly distant location from tourist spots.",
+        "lang": "en",
+        "author": "Hilton Diagonal Mar Barcelona",
+        "published_date": "2024-03-28T06:25:26Z"
+      }
+    },
+    {
+      "id": 942650078,
+      "lang": "en",
+      "location_id": 559387,
+      "published_date": "2024-03-17T12:08:15Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d559387-r942650078-Reviews-Hilton_Diagonal_Mar_Barcelona-Barcelona_Catalonia.html?m=66827#review942650078",
+      "text": "This is a hotel that I stayed in a while back.  I recently made a new reservation with them on my Hilton Honors app. The reservation was flexible with a 24-hour cancellation policy. I then canceled the reservation 4-days ahead of the check-in date, in my Hilton Honors app. Later on, I discovered that the hotel still charged me for one night penalty. Despite the cancellation proof from my app and the cancellation email from Hilton Honors, the hotel is still refusing to refund. This is a highly unprofessional and disorganized hotel. I am still dealing with them and also disputing the charge through my credit card company. All that hassle and wasted time. I would never stay there again and never recommend the place to anybody.",
+      "title": "Charged for a stay canceled ahead of cancelation deadline",
+      "trip_type": "Business",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "traveldocNY",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ef/32/default-avatar-2020-12.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ef/32/default-avatar-2020-12.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ef/32/default-avatar-2020-12.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ef/32/default-avatar-2020-12.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ef/32/default-avatar-2020-12.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 942992204,
+        "title": "Owner response",
+        "text": "We deeply apologize for the inconvenience you encountered regarding your canceled reservation. Your feedback is crucial, and we take such matters seriously. Our team is actively investigating this issue to rectify it promptly. We understand your frustration and are committed to resolving the situation to your satisfaction. If you need further assistance, please don't hesitate to reach out to us directly. We sincerely hope to have the opportunity to regain your trust in the future.",
+        "lang": "en",
+        "author": "Hilton Diagonal Mar Barcelona",
+        "published_date": "2024-03-20T06:14:27Z"
+      }
+    }
+  ]
+}

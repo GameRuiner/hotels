@@ -1,0 +1,121 @@
+{
+  "location_id": "26626566",
+  "name": "The First Collection Waterfront",
+  "description": "Discover the heart of Dubai at The First Collection Waterfront. Nestled by the coveted canal in the lively Business Bay district, this city sanctuary sits amid a wealth of world-famous attractions, boutiques, restaurants, and cafes. The First Collection Waterfront brims with energy and elegance. Stunning city views from the rooftop pool, an exciting array of dining options, and 327 serene guest rooms overlooking the peaceful Dubai Canal, all combine to create an experience beyond the ordinary.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d26626566-Reviews-The_First_Collection_Waterfront-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Marasi Drive",
+    "street2": "Business Bay ",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "213208",
+    "address_string": "Marasi Drive Business Bay, Dubai 213208 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.183146",
+  "longitude": "55.272938",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d26626566-The_First_Collection_Waterfront-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#81 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "81"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "82",
+  "review_rating_count": {
+    "1": "0",
+    "2": "0",
+    "3": "0",
+    "4": "5",
+    "5": "77"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "87",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d26626566-m66827-Reviews-The_First_Collection_Waterfront-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Restaurant",
+    "Dry Cleaning",
+    "Air conditioning"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "31"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "9"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "10"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "22"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "10"
+    }
+  ],
+  "awards": []
+}

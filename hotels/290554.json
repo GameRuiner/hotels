@@ -1,0 +1,181 @@
+{
+  "location_id": "290554",
+  "name": "Hotel Barcelona House",
+  "description": "Everyone needs a place to lay their weary head. For travelers visiting Barcelona, Hotel Barcelona House is an excellent choice for rest and rejuvenation. Well-known for its proximity to great restaurants and attractions, Hotel Barcelona House makes it easy to enjoy the best of Barcelona.\nThe rooms offer a flat screen TV, air conditioning, and blackout curtains, and getting online is possible, as free wifi is available, allowing you to rest and refresh with ease.\nHotel Barcelona House features a 24 hour front desk, 24 hour check-in, and a coffee shop. In addition, as a valued Hotel Barcelona House guest, you can enjoy breakfast buffet that is available on-site.\nClose to some of Barcelona's most popular landmarks, such as Montjuic Castle (1.2 mi) and Magic Fountain (Font Magica) (1.4 mi), Hotel Barcelona House is a great destination for tourists.\nWhile you’re here, be sure to check out some of the sushi restaurants, including Koy Shunka, Shunka, and Robata, all of which are a short distance from Hotel Barcelona House.\nIf you’re looking for something to do, Casa Batllo (1.0 mi), Las Ramblas (0.1 mi), and Gothic Quarter (Barri Gotic) (0.2 mi) are a nice way to spend some time, and they are all within walking distance of Hotel Barcelona House.\nWhether you’re traveling for business, pleasure or both, Hotel Barcelona House is sure to make your visit to Barcelona one worth remembering.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d290554-Reviews-Hotel_Barcelona_House-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Carrer Dels Escudellers, 19",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "8002",
+    "address_string": "Carrer Dels Escudellers, 19, 8002 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.379444",
+  "longitude": "2.17589",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d290554-Hotel_Barcelona_House-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#349 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "349"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "1811",
+  "review_rating_count": {
+    "1": "90",
+    "2": "139",
+    "3": "383",
+    "4": "783",
+    "5": "416"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "605",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d290554-m66827-Reviews-Hotel_Barcelona_House-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Wheelchair access",
+    "Wifi",
+    "Free Wifi",
+    "Non-smoking rooms",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Catalan",
+    "24-Hour Check-in",
+    "Desk",
+    "English",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "24-Hour Security",
+    "Spanish",
+    "Telephone",
+    "Public Wifi",
+    "French",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Centrally Located",
+    "Modern"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230963",
+      "name": "Barrio Gotico (Barri Gotic)"
+    },
+    {
+      "location_id": "15565874",
+      "name": "Ciutat Vella (Old Town)"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "29"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "848"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "37"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "296"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "414"
+    }
+  ],
+  "awards": []
+}

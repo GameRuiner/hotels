@@ -1,0 +1,280 @@
+{
+  "data": [
+    {
+      "id": 945793404,
+      "lang": "en",
+      "location_id": 478659,
+      "published_date": "2024-04-08T03:36:40Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g25352701-d478659-r945793404-Reviews-Esperos_Village_Blue_Spa-Ammoudes_Rhodes_Dodecanese_South_Aegean.html?m=66827#review945793404",
+      "text": "Amazing place to relax. Lovely, friendly team and an outstanding cuisine. Thank you chef and the whole kitchen team. Thank you also to the great service, desk and room teams. You made our stay outstanding and very enjoyable. We will be back!",
+      "title": "Easter hols",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "svenolafh",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e9/ef/default-avatar-2020-66.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 945666560,
+      "lang": "en",
+      "location_id": 478659,
+      "published_date": "2024-04-07T04:56:07Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g25352701-d478659-r945666560-Reviews-Esperos_Village_Blue_Spa-Ammoudes_Rhodes_Dodecanese_South_Aegean.html?m=66827#review945666560",
+      "text": "This was a lovely place to stay at with nice staffs and service.The room was amazing and the facilities was very accessible, they had many good food options that caters for everyone and were many places to escape from crowd but also managed to meet amazing people and have a great relaxing holiday, couldn’t be any happier with this place!!",
+      "title": "One of the best hotels!",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "arthikak2024",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/a7/default-avatar-2020-44.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 945414000,
+      "lang": "en",
+      "location_id": 478659,
+      "published_date": "2024-04-05T03:33:43Z",
+      "rating": 5,
+      "helpful_votes": 2,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g25352701-d478659-r945414000-Reviews-Esperos_Village_Blue_Spa-Ammoudes_Rhodes_Dodecanese_South_Aegean.html?m=66827#review945414000",
+      "text": "This is one of the most beautiful and stunning hotels I’ve ever had the privilege of staying in. The cleanliness of the rooms, the food of the restaurant is exquisite and the staff are outstanding.\n\nAny couple looking for a dream location with amazing views l, this is the hotel for you! Souzana was a an incredible help with a personal matter! 🥰",
+      "title": "Amazing Resort!!!",
+      "trip_type": "Couples",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "nigelbR7726XF",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/df/99/default-avatar-2020-40.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/df/99/default-avatar-2020-40.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/df/99/default-avatar-2020-40.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/df/99/default-avatar-2020-40.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/df/99/default-avatar-2020-40.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945428549,
+        "title": "Owner response",
+        "text": "Dear Nigel,\nThank you so much for taking the time to share your wonderful experience at Esperos Village Blue & Blue! We are absolutely thrilled to hear that your stay with us exceeded your expectations.\n\nOur team works tirelessly to ensure that every aspect of our guests' experience is nothing short of exceptional, from the cleanliness of our rooms to the quality of our dining options. It's fantastic to hear that you found our staff outstanding and that Souzana went above and beyond in order to assist you. We will make sure to pass on your kind words to her and the rest of our team.\n\nWe truly appreciate your recommendation to other couples seeking a dream location with amazing views. It was our pleasure to host you, and we look forward to welcoming you back to Esperos Village Blue & Blue in the future!\n\nKind Regards,\nChris Zamagia\nPublic Relations & Communications Director\nEsperia Group",
+        "lang": "en",
+        "author": "Chrisoula Zamagia",
+        "published_date": "2024-04-05T06:15:41Z"
+      }
+    },
+    {
+      "id": 943259571,
+      "lang": "en",
+      "location_id": 478659,
+      "published_date": "2024-03-21T08:52:06Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g25352701-d478659-r943259571-Reviews-Esperos_Village_Blue_Spa-Ammoudes_Rhodes_Dodecanese_South_Aegean.html?m=66827#review943259571",
+      "text": "From the moment we arrived, we were greeted with warmth and hospitality. The serene ambiance of the place immediately set a tranquil tone, providing a much-needed escape from the hustle and bustle of everyday life. The peaceful surroundings created a perfect setting for relaxation and rejuvenation.",
+      "title": "Oasis",
+      "trip_type": "Couples",
+      "travel_date": "2023-08-31",
+      "user": {
+        "username": "bennV1044BL",
+        "user_location": {
+          "id": "28930",
+          "name": "Florida"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/a3/default-avatar-2020-38.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 943475964,
+        "title": "Owner response",
+        "text": "Dear bennV1044BL\n\nThank you for taking the time to share your experience with us! We're delighted to hear that your stay with us was filled with warmth and hospitality right from the moment you arrived. It's wonderful to know that you enjoyed the peaceful surroundings and that they contributed to making your stay memorable. We hope to have the pleasure of welcoming you back for another rejuvenating experience soon! Here's to more tranquil moments with us!\n\nBest regards,\nStathis Barbagiannis\nGuest Services Department?\nEsperia Group",
+        "lang": "en",
+        "author": "Chrisoula Zamagia",
+        "published_date": "2024-03-23T07:09:00Z"
+      }
+    },
+    {
+      "id": 926928464,
+      "lang": "en",
+      "location_id": 478659,
+      "published_date": "2023-11-22T18:17:24Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g25352701-d478659-r926928464-Reviews-Esperos_Village_Blue_Spa-Ammoudes_Rhodes_Dodecanese_South_Aegean.html?m=66827#review926928464",
+      "text": "Incredible stay!!! Superb service, friendly staff and really good facilities. \n\nGreat breakfast, lunch and dinner choices, amazing evening entertainment almost every night by the pool! Incredible drinks selection, wines, cocktails and beers! \n\nThe only improvement I would add, is maybe bed frames as ours had a bit of an issue, didn’t affect the trip or sleep but one of the connected sides kept dipping at one side. ",
+      "title": "Superb Experience!",
+      "trip_type": "Couples",
+      "travel_date": "2023-10-31",
+      "user": {
+        "username": "577albertasm",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ea/2e/default-avatar-2020-67.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 926977145,
+        "title": "Owner response",
+        "text": "Dear 577albertasm,\n\nThank you for the time you dedicated to share your fantastic review! We're delighted to hear that you had an incredible stay and enjoyed our superb service, friendly staff, and excellent facilities. It's great to know that you appreciated the delicious choices for breakfast, lunch, and dinner, as well as the amazing evening entertainment by the pool. We appreciate your feedback on the bed frames, and we'll certainly take it into consideration. We look forward to hosting you again for another memorable experience!\n\nWarm Regards,\nStathis Barbagiannis\nGuest Services Department\nEsperia Group",
+        "lang": "en",
+        "author": "Chrisoula Zamagia",
+        "published_date": "2023-11-23T02:20:43Z"
+      }
+    }
+  ]
+}

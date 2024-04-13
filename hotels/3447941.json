@@ -1,0 +1,351 @@
+{
+  "location_id": "3447941",
+  "name": "JW Marriott Marquis Hotel Dubai",
+  "description": "Dubai is a city of awe-inspiring ambition and unsurpassed luxury, home to the world's tallest building, the largest shopping mall, the iconic Palm, and JW Marriott Marquis Hotel Dubai - the worlds tallest hotel. It is a place where dreams come true, as is our hotel in Dubai. JW Marriott Marquis Hotel Dubai offers a spectrum of business facilities for the most discerning travelers. We are a hotel in Dubai, United Arab Emirates synonymous with intuitive service and refined taste, and our luxury hotel's title is given only to the finest properties in the Marriott portfolio. Elevated above Dubai's business district, on Sheikh Zayed Road, JW Marriott Marquis Hotel Dubai resides in the Business Bay area and is a top choice for 5-star hotels in Dubai. Spread across 2 iconic towers, our hotel features exceptional event and business facilities, an enticing array of bars and restaurants, and the sublime Saray Spa and Health Club.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d3447941-Reviews-JW_Marriott_Marquis_Hotel_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Zayed Road",
+    "street2": "Business Bay",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "121000",
+    "address_string": "Sheikh Zayed Road Business Bay, Dubai 121000 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.185402",
+  "longitude": "55.258087",
+  "timezone": "Asia/Dubai",
+  "phone": "18446310595",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d3447941-JW_Marriott_Marquis_Hotel_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#55 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "55"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "15221",
+  "review_rating_count": {
+    "1": "175",
+    "2": "127",
+    "3": "326",
+    "4": "1589",
+    "5": "13004"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "11007",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d3447941-m66827-Reviews-JW_Marriott_Marquis_Hotel_Dubai-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Meeting rooms",
+    "Internet",
+    "Room service",
+    "Spa",
+    "Wifi",
+    "Paid Wifi",
+    "Paid Internet",
+    "Laundry Service",
+    "Concierge",
+    "Free parking",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Banquet Room",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Conference Facilities",
+    "Babysitting",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Public Wifi",
+    "Business center",
+    "Fitness center",
+    "Safe",
+    "Rooftop Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Butler Service",
+    "Outdoor pool",
+    "Parking",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Sauna",
+    "Additional Bathroom",
+    "Afrikaans",
+    "Allergy-free Room",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Express Check-in / Check-out",
+    "Chinese",
+    "Coffee Shop",
+    "Couples Massage",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Complimentary Instant Cofffee",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Head Massage",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Korean",
+    "Laptop Safe",
+    "Massage",
+    "Newspaper",
+    "Nightclub / DJ",
+    "On-Demand Movies",
+    "Parking Garage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Private Check-in / Check-out",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shared Lounge / TV Area",
+    "Shoeshine",
+    "Snack Bar",
+    "Soundproof Rooms",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Taxi Service",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Breakfast Available"
+  ],
+  "parent_brand": "Marriott",
+  "brand": "JW Marriott",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Business",
+    "Modern"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620621",
+      "name": "Business Bay"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "4984"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "3037"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "867"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "3192"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "1826"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice Best of the Best",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png"
+      },
+      "categories": [
+        "Luxury",
+        "Spa",
+        "Top"
+      ],
+      "display_name": "Travelers Choice Best of the Best"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

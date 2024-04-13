@@ -1,0 +1,246 @@
+{
+  "data": [
+    {
+      "id": 945889373,
+      "lang": "en",
+      "location_id": 1536366,
+      "published_date": "2024-04-08T17:55:16Z",
+      "rating": 3,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d1536366-r945889373-Reviews-Hotel_Spa_Villa_Olimpica_Suites-Barcelona_Catalonia.html?m=66827#review945889373",
+      "text": "They gave us check in early. They only give u one bottle of water on arrival. They charge you spare Slipper, towels & water. The staff work at the spa counter is so rude. The 1st night, there isn’t much hot water and they didn’t give us towels or slippers. The location can be very noisy, it is easy reach to the beach. The spa is okay",
+      "title": "Everything cost money",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "Inspire41224643366",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ea/b2/default-avatar-2020-69.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 943669504,
+      "lang": "en",
+      "location_id": 1536366,
+      "published_date": "2024-03-24T16:18:52Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d1536366-r943669504-Reviews-Hotel_Spa_Villa_Olimpica_Suites-Barcelona_Catalonia.html?m=66827#review943669504",
+      "text": "Rooms are amazing and modern!\nBest price deal..the Spa is a plus! Free entrance and saund and hammam are really good. 5 minutes walking distance for the metro, quite area...I was not expecting so much when I booked it..thank you a lot! Everything was perfecr",
+      "title": "Excellent Deal!!",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "631susyv",
+        "user_location": {
+          "id": "187849",
+          "name": "Milan, Lombardy"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/18/8c/79/af/susy-v.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/18/8c/79/af/susy-v.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/18/8c/79/af/susy-v.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-o/18/8c/79/af/susy-v.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 940956960,
+      "lang": "en",
+      "location_id": 1536366,
+      "published_date": "2024-03-05T18:00:19Z",
+      "rating": 1,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d1536366-r940956960-Reviews-Hotel_Spa_Villa_Olimpica_Suites-Barcelona_Catalonia.html?m=66827#review940956960",
+      "text": "My recent stay at this hotel left much to be desired. I encountered two significant issues that significantly impacted my overall experience:\n\nUnbearable Heat in the Room: The room temperature was unbearably high, making it impossible to get a good night’s sleep. We promptly requested assistance from the staff to check the heating system. Their response was disheartening—they informed us that the heater was broken and couldn’t be adjusted. When we asked for a room change, the options provided were not feasible for us. Consequently, we had no choice but to endure three sleepless nights in that sweltering room. Our holiday was marred by discomfort and exhaustion.\n\nUnfriendly Staff Communication: To our surprise, the staff was not friendly. Despite our expectations that they would communicate in English, they didn't. We had to rely on a Spanish-speaking friend to bridge the communication gap. This lack of friendliness and language barrier further added to our frustration.\n\nIn summary, this hotel failed to meet basic expectations in terms of comfort and service. I strongly advise potential guests to consider other options. A welcoming atmosphere and attentive staff are essential for a pleasant stay, and unfortunately, this hotel fell short in both areas.\n\nPlease note that this review reflects my personal experience and observations during my stay. Others may have different encounters, but I felt it was important to share my perspective.",
+      "title": "Disappointing Experience at This Hotel",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "N7909TZmuhammadu",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ea/b2/default-avatar-2020-69.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 930232427,
+      "lang": "en",
+      "location_id": 1536366,
+      "published_date": "2023-12-18T23:51:36Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d1536366-r930232427-Reviews-Hotel_Spa_Villa_Olimpica_Suites-Barcelona_Catalonia.html?m=66827#review930232427",
+      "text": "Utterly beautiful and fabulous \nVery friendly staff name Carlota and Carlos they deserve appraisal as they know how to deal good with their costumers well done guys hope all\nStaff will\nBe like yous two we definitely coming back again !!!!",
+      "title": "Amazing place to stay n celebrate my birthday!!! ",
+      "trip_type": "Friends getaway",
+      "travel_date": "2023-11-30",
+      "user": {
+        "username": "kabsatt",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/7a/default-avatar-2020-25.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 930348446,
+        "title": "Owner response",
+        "text": "Thank you very much for your review. We hope to see you again soon at our hotel.",
+        "lang": "en",
+        "author": "Ada Z",
+        "published_date": "2023-12-20T03:46:26Z"
+      }
+    },
+    {
+      "id": 927795576,
+      "lang": "en",
+      "location_id": 1536366,
+      "published_date": "2023-11-29T05:43:41Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d1536366-r927795576-Reviews-Hotel_Spa_Villa_Olimpica_Suites-Barcelona_Catalonia.html?m=66827#review927795576",
+      "text": "Absolutely amazing hotel and great reception from all staff, especially Josep.\nThank you Josep for making our trip and stay so memorable.\nThe breakfast was outstanding and the maids were very friendly and thorough with the cleaning.\nThank you. \nWe will be returning for sure 1000000%",
+      "title": "Thank you very much.",
+      "trip_type": "Friends getaway",
+      "travel_date": "2023-10-31",
+      "user": {
+        "username": "anthonymarvell2016",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/9f/default-avatar-2020-16.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

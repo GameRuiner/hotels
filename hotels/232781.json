@@ -1,0 +1,235 @@
+{
+  "location_id": "232781",
+  "name": "Hotel Europark",
+  "description": "Hotel Europark is a fantastic choice for visitors to Barcelona, whether they are travelling for business or pleasure, as it is located in the centre of the city and has a wonderful atmosphere, as well as offering a range of services designed to improve your stay.\n\nThe rooms include a flat-screen TV, air-conditioning, minibar, laundry service, safe and free Wi-Fi internet connection.\n\nYou can also make the most of the services offered by the hotel, including the concierge, room service, business centre and car parking facilities just 300 metres away. During their stay, guests can also enjoy the swimming pool and solarium with a chill-out area, fitness room and varied breakfast buffet.\n\nWith the unmissable attractions all nearby, including Passeig de Gracia (0.6 km), Plaça Catalunya (1.2km)  and the Magic Fountain (3.2 km), the Hotel Europark is a fantastic place to stay during your trip to Barcelona.\nDuring your stay, be sure not to miss the popular historical landmarks, such as Casa Batlló, Palau Güell and the Basilica of Santa Maria del Mar.\n\nEnjoy your stay in Barcelona!",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d232781-Reviews-Hotel_Europark-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Arago, 323-325",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08009",
+    "address_string": "Arago, 323-325, 08009 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.396236",
+  "longitude": "2.170033",
+  "timezone": "Europe/Madrid",
+  "phone": "01134934579205",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d232781-Hotel_Europark-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#41 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "41"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "5597",
+  "review_rating_count": {
+    "1": "23",
+    "2": "48",
+    "3": "207",
+    "4": "1577",
+    "5": "3742"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1814",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d232781-m66827-Reviews-Hotel_Europark-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Suites",
+    "Non-smoking rooms",
+    "Room service",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Catalan",
+    "24-Hour Check-in",
+    "Complimentary Tea",
+    "English",
+    "Complimentary Instant Cofffee",
+    "French",
+    "24-Hour Front Desk",
+    "German",
+    "Hair Dryer",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Laptop Safe",
+    "Parking Garage",
+    "Pool / Beach Towels",
+    "Spanish",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Green",
+    "Family"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230970",
+      "name": "Eixample"
+    },
+    {
+      "location_id": "15565885",
+      "name": "La Dreta de l'Eixample"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "247"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "3072"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "201"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "781"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "688"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

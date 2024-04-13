@@ -1,0 +1,190 @@
+{
+  "location_id": "505533",
+  "name": "Pyramisa Beach Resort Sharm El Sheikh",
+  "description": "A 5 star All Inclusive resort ideally located on the heart of magnificent Sharks Bay. Resort facilities include 861 rooms, chalets and villas with exotic sea and pool views, the largest swimming-pool in Sharm with artificial waves, indoor swimming-pool, 5 restaurants, bars, disco, kids club and SPA.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d505533-Reviews-Pyramisa_Beach_Resort_Sharm_El_Sheikh-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Sharks Bay",
+    "street2": "",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "postalcode": "46617",
+    "address_string": "Sharks Bay, Sharm El Sheikh 46617 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.94779",
+  "longitude": "34.382526",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d505533-Pyramisa_Beach_Resort_Sharm_El_Sheikh-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#116 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "116"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1353",
+  "review_rating_count": {
+    "1": "113",
+    "2": "68",
+    "3": "73",
+    "4": "158",
+    "5": "941"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    }
+  },
+  "photo_count": "2029",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d505533-m66827-Reviews-Pyramisa_Beach_Resort_Sharm_El_Sheikh-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Room service",
+    "Pool",
+    "Restaurant",
+    "Fitness center",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Internet",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Suites",
+    "Free parking",
+    "Spa",
+    "Airport transportation",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Business center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Adult pool",
+    "Outdoor pool",
+    "Kids Club",
+    "Sauna",
+    "Arabic",
+    "Baggage Storage",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Russian",
+    "Free Internet",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Breakfast Available"
+  ],
+  "parent_brand": "Pyramisa Group",
+  "brand": "Pyramisa Hotels & Resorts",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Great View",
+    "Bay View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "15"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "245"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "65"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "571"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "334"
+    }
+  ],
+  "awards": []
+}

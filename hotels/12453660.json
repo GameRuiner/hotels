@@ -1,0 +1,146 @@
+{
+  "location_id": "12453660",
+  "name": "Vita Park Boutique Hotel",
+  "description": "Looking for a place to stay in Izmir? Then look no further than Vita Park Butik Otel, a hotel that brings the best of Izmir to your doorstep.\nVita Park Butik Otel features room service. Plus, guests can enjoy free breakfast, which has made this a popular choice among travelers visiting Izmir.\nGiven the close proximity of popular landmarks, such as Synagogue Street (Havra Sokagi) (1.4 mi) and Konak Square (1.6 mi), guests of Vita Park Butik Otel can easily experience some of Izmir's most well known attractions.\nDuring your visit, be sure to check out one of Izmir's popular shrimp restaurants such as Kordon Yengec Restaurant, Deniz Restaurant, and Sakiz Alsancak, all a short distance from Vita Park Butik Otel.\nDuring your visit, be sure to check out popular attractions like Kordonboyu (0.4 mi), Arkas Art Center (0.6 mi), and Saint Polycarp Church (1.0 mi), which are all within walking distance of the hotel.\nWe’re sure you’ll enjoy your stay at Vita Park Butik Otel as you experience everything Izmir has to offer.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d12453660-Reviews-Vita_Park_Boutique_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "1485 Sokak No: 10",
+    "street2": "Alsancak",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35220",
+    "address_string": "1485 Sokak No: 10 Alsancak, Izmir 35220 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.438763",
+  "longitude": "27.144299",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d12453660-Vita_Park_Boutique_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#123 of 218 hotels in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "218",
+    "ranking": "123"
+  },
+  "rating": "3.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.0-66827-5.svg",
+  "num_reviews": "3",
+  "review_rating_count": {
+    "1": "1",
+    "2": "0",
+    "3": "1",
+    "4": "0",
+    "5": "1"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss2.0.svg",
+      "value": "2.0"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss1.0.svg",
+      "value": "1.0"
+    },
+    "2": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss2.0.svg",
+      "value": "2.0"
+    },
+    "3": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss1.0.svg",
+      "value": "1.0"
+    },
+    "4": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss1.0.svg",
+      "value": "1.0"
+    }
+  },
+  "photo_count": "1",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d12453660-m66827-Reviews-Vita_Park_Boutique_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Internet",
+    "Room service",
+    "Free Internet",
+    "Bar/Lounge",
+    "Spa",
+    "Wifi",
+    "Free Wifi",
+    "Breakfast included"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Boutique",
+    "Quaint"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "1"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "2"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "0"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "0"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "0"
+    }
+  ],
+  "awards": []
+}

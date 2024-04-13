@@ -1,0 +1,239 @@
+{
+  "location_id": "1661298",
+  "name": "Address Montgomerie",
+  "description": "If you’re looking for a charming hotel in Dubai, look no further than Address Montgomerie.\nFor those interested in checking out popular landmarks while visiting Dubai, Address Montgomerie is located a short distance from Dubai Water Canal (1.6 mi) and Cayan Tower (1.8 mi).\nRooms at Address Montgomerie provide a flat screen TV, a minibar, and air conditioning, and guests can stay connected with free wifi.\nIn addition, while staying at Address Montgomerie guests have access to a concierge and room service. You can also enjoy a pool and breakfast. Need a place to park? Free parking is available at The Address Montgomerie Dubai Hotel.\nTravelers looking to enjoy some tempura can head to Buddha-Bar, Zengo, or Asia Asia. Otherwise, you may want to check out a seafood restaurant such as 101 Dining Lounge and Bar, Sloane's, or Brasserie 2.0.\nLooking to explore? Then look no further than Jumeirah Lake Towers (1.2 mi), which is a popular Dubai attraction – and it is conveniently located within walking distance of the hotel.\nThe staff at Address Montgomerie looks forward to serving you during your upcoming visit.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1661298-Reviews-Address_Montgomerie-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Emirates Hills Rd",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "36700",
+    "address_string": "Emirates Hills Rd, Dubai 36700 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.067514",
+  "longitude": "55.164562",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1661298-Address_Montgomerie-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#258 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "258"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "888",
+  "review_rating_count": {
+    "1": "16",
+    "2": "7",
+    "3": "27",
+    "4": "115",
+    "5": "723"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "400",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1661298-m66827-Reviews-Address_Montgomerie-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Fitness center",
+    "Room service",
+    "Restaurant",
+    "Internet",
+    "Suites",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Free parking",
+    "Wheelchair access",
+    "Kids Activities",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Golf course",
+    "Non-smoking rooms",
+    "Business center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Butler Service",
+    "Outdoor pool",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Electric vehicle charging station",
+    "Baggage Storage",
+    "Bathrobes",
+    "Couples Massage",
+    "English",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Hindi",
+    "Ironing Service",
+    "Laptop Safe",
+    "Massage",
+    "24-Hour Security",
+    "Steam Room",
+    "Breakfast Available",
+    "Parking"
+  ],
+  "parent_brand": "Emaar Hospitality Group",
+  "brand": "Address Hotels + Resorts",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Park View",
+    "Charming"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620635",
+      "name": "Emirates Hills"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "153"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "243"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "114"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "187"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "135"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice Best of the Best",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png"
+      },
+      "categories": [
+        "Small"
+      ],
+      "display_name": "Travelers Choice Best of the Best"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

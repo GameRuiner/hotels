@@ -1,0 +1,397 @@
+{
+  "location_id": "12831800",
+  "name": "Radisson Blu Hotel, Dubai Waterfront",
+  "description": "Welcome to the incredible 5-star Radisson Blu Hotel, Dubai Waterfront. With outstanding facilities and friendly, professional service, we aim to make your stay memorable and become your new home away from home. Our \"Yes I Can!\" philosophy means you'll always receive outstanding service with a smile. From our rooms to our restaurants and everything in between, we guarantee an unforgettable Dubai hotel experience.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d12831800-Reviews-Radisson_Blu_Hotel_Dubai_Waterfront-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Marasi Drive, Business Bay",
+    "street2": "Business Bay",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Marasi Drive, Business Bay Business Bay, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.186441",
+  "longitude": "55.268047",
+  "timezone": "Asia/Dubai",
+  "phone": "01197142497800",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d12831800-Radisson_Blu_Hotel_Dubai_Waterfront-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#340 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "340"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1748",
+  "review_rating_count": {
+    "1": "68",
+    "2": "62",
+    "3": "99",
+    "4": "258",
+    "5": "1262"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "940",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d12831800-m66827-Reviews-Radisson_Blu_Hotel_Dubai_Waterfront-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Pool",
+    "Kids Activities",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Clothes Dryer",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "Free Private Parking Nearby",
+    "Free Public Parking Nearby",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Iron",
+    "Kid-Friendly Buffet",
+    "Massage",
+    "Parking Garage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shoeshine",
+    "Soundproof Rooms",
+    "Special Diet Menus",
+    "Steam Room",
+    "Street Parking",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Shuttle Bus Service",
+    "Public Wifi",
+    "Family Rooms",
+    "Sauna",
+    "Electric vehicle charging station",
+    "Allergy-free Room",
+    "ATM On Site",
+    "Bathrobes",
+    "Bidet",
+    "Body Wrap",
+    "Cable / Satellite TV",
+    "Express Check-in / Check-out",
+    "Children's Television Networks",
+    "Clothes Rack",
+    "Convenience Store",
+    "Couples Massage",
+    "Dining Area",
+    "Electric Kettle",
+    "Executive Lounge Access",
+    "Extra Long Beds",
+    "Facial Treatments",
+    "Fireplace",
+    "First Aid Kit",
+    "Foot Bath",
+    "Foot Massage",
+    "Free Wifi in the Business Center",
+    "Free Wired Internet in the Business Center",
+    "Full Body Massage",
+    "Hand Massage",
+    "Happy Hour",
+    "Head Massage",
+    "Indoor Play Area for Children",
+    "iPod Docking Station",
+    "Ironing Service",
+    "Landmark View",
+    "Laptop Safe",
+    "Makeup Services",
+    "Manicure",
+    "Neck Massage",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Pool View",
+    "Private Bathrooms",
+    "Radio",
+    "Separate Living Room",
+    "Sofa",
+    "Sun Deck",
+    "Valet Parking",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Waxing Services",
+    "Wine / Champagne",
+    "Yoga Classes",
+    "Yoga Room"
+  ],
+  "parent_brand": "Carlson Rezidor",
+  "brand": "Radisson Blu",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Trendy",
+    "Harbor View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620621",
+      "name": "Business Bay"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "461"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "351"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "112"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "390"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "181"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

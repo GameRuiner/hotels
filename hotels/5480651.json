@@ -1,0 +1,184 @@
+{
+  "location_id": "5480651",
+  "name": "No Limit Hostel Central",
+  "description": "No Limit Barcelona Central will surprise you with its excellent location. You can enjoy Las Ramblas, Plaça de Catalunya, visit bars and shops on Passeig de Gràcia, Gaudi's works such as Casa Batlló, La Pedrera and Sagrada Família. The hostel is closely located to the city's local transport options giving easy access to beaches and almost direct services to and from the airport or train stations. If you are looking for a modern hostel that is convenient, brand new, clean, safe, quiet and with very competitive prices, No Limit Barcelona Central is your place to enjoy after a day in Barcelona.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d5480651-Reviews-No_Limit_Hostel_Central-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Carrer Consell de Cent, 355",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "8007",
+    "address_string": "Carrer Consell de Cent, 355, 8007 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.39189",
+  "longitude": "2.166415",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d5480651-No_Limit_Hostel_Central-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#124 of 1,202 Specialty lodging in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "1202",
+    "ranking": "124"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "225",
+  "review_rating_count": {
+    "1": "7",
+    "2": "14",
+    "3": "34",
+    "4": "67",
+    "5": "103"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "50",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d5480651-m66827-Reviews-No_Limit_Hostel_Central-Barcelona_Catalonia.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Kitchenette",
+    "Wifi",
+    "Free Wifi",
+    "Non-smoking rooms",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Laundry Service",
+    "Air conditioning",
+    "Non-smoking hotel",
+    "Flatscreen TV",
+    "Baggage Storage",
+    "Board Games / Puzzles",
+    "Books, DVDs, Music for Children",
+    "Desk",
+    "English",
+    "Entertainment Staff",
+    "24-Hour Front Desk",
+    "Hungarian",
+    "Outdoor Furniture",
+    "Polish",
+    "Shared Kitchen",
+    "Shared Lounge / TV Area",
+    "Slovenian",
+    "Spanish",
+    "Telephone",
+    "Vending Machine"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [
+    "Budget",
+    "Modern"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230970",
+      "name": "Eixample"
+    },
+    {
+      "location_id": "15565885",
+      "name": "La Dreta de l'Eixample"
+    },
+    {
+      "location_id": "15565927",
+      "name": "Passeig de Gracia"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "5"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "39"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "61"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "36"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "74"
+    }
+  ],
+  "awards": []
+}

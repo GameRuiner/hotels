@@ -1,0 +1,298 @@
+{
+  "location_id": "316720",
+  "name": "Dionysos Hotel",
+  "description": "Tropical meets Mediterranean\n\nWhat if you had a choice between a getaway in the tropics with cocktails by the pool or an escape to a Greek island with culinary delights made in heaven? Luckily, you’ll be enjoying both at Dionysos Hotel. Set on the island of Rhodes and blessed by the sun god Helios, the property boasts tropical gardens, a large lagoon-like pool with a swim-up cocktail bar, leisurely cafés and truly delicious gastronomy.\n\nYou’ll find a culinary scene that provides the freedom of multiple a-la-carte dining options, an award-winning breakfast buffet, and several room types to choose from. In-house activities and outdoor tours come together to make the vacation experience better than ever, against a backdrop of warm Greek hospitality and the nicest, friendliest staff members. \n\nOur four-star property will captivate you with its charm and intimate atmosphere, in addition to being just a five-minute walk from a gorgeous beach and a quick ride away from an entire medieval town with an impressive castle. This is what we’re all about out, and this is our what our island, Rhodes, is made of. Come see for yourself.\n\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g635614-d316720-Reviews-Dionysos_Hotel-Ialyssos_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street1": "1 Iliadon Street",
+    "street2": "Ixia",
+    "city": "Ialyssos",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "85 100",
+    "address_string": "1 Iliadon Street Ixia, Ialyssos 85 100 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Ialyssos",
+      "location_id": "635614"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.42313",
+  "longitude": "28.19858",
+  "timezone": "Europe/Athens",
+  "phone": "011302241023021",
+  "write_review": "https://www.tripadvisor.com/UserReview-g635614-d316720-Dionysos_Hotel-Ialyssos_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "635614",
+    "ranking_string": "#3 of 43 hotels in Ialyssos",
+    "geo_location_name": "Ialyssos",
+    "ranking_out_of": "43",
+    "ranking": "3"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1721",
+  "review_rating_count": {
+    "1": "25",
+    "2": "41",
+    "3": "155",
+    "4": "534",
+    "5": "966"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1834",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g635614-d316720-m66827-Reviews-Dionysos_Hotel-Ialyssos_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Beachfront",
+    "Suites",
+    "Kitchenette",
+    "Babysitting",
+    "Indoor pool",
+    "Beach Access",
+    "Pool",
+    "Free parking",
+    "Restaurant",
+    "Room service",
+    "Bar/Lounge",
+    "Internet",
+    "Wifi",
+    "Free Internet",
+    "Airport transportation",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Business center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Refrigerator in room",
+    "Safe",
+    "Swimup Bar",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Parking",
+    "Housekeeping",
+    "Sauna",
+    "Allergy-free Room",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Billiards",
+    "Blackout Curtains",
+    "Board Games / Puzzles",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Coffee Shop",
+    "Complimentary Tea",
+    "Convenience Store",
+    "Desk",
+    "English",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Gift Shop",
+    "Greek",
+    "Hair Dryer",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Outdoor Furniture",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shared Lounge / TV Area",
+    "Shops",
+    "Snack Bar",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Smoking rooms available",
+    "Conference Facilities",
+    "Flatscreen TV",
+    "Kids pool",
+    "Breakfast Available",
+    "Boating",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Express Check-in / Check-out",
+    "Children's Television Networks",
+    "Children's Playground",
+    "Coffee / Tea Maker",
+    "Couples Massage",
+    "Currency Exchange",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Foot Massage",
+    "Complimentary Instant Cofffee",
+    "French",
+    "Full Body Massage",
+    "Game Room",
+    "German",
+    "Hammam",
+    "Head Massage",
+    "Highchairs Available",
+    "Hiking",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Italian",
+    "Kitchenware",
+    "Massage",
+    "Mini Golf",
+    "Mountain View",
+    "Neck Massage",
+    "Outdoor Dining Area",
+    "Patio",
+    "Pool View",
+    "Private Bathrooms",
+    "Radio",
+    "Saltwater Pool",
+    "Shallow End",
+    "Sofa",
+    "Special Diet Menus",
+    "Squash Off-site",
+    "Stovetop",
+    "Sun Deck",
+    "Table Tennis",
+    "Tile / Marble Floor",
+    "Umbrella",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Windsurfing",
+    "Yoga Classes"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Park View",
+    "Mid-range"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "23"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "756"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "38"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "503"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "223"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

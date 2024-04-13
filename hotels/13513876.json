@@ -1,0 +1,216 @@
+{
+  "location_id": "13513876",
+  "name": "Gevora Hotel",
+  "description": "Located in the heart of Dubai in close proximity of Dubai’s main business hubs such as Trade Centre (WTC), Financial Centre (DIFC) and Business Bay (Downtown), our hotel is the perfect address for a business trip or leisure stay. The hotel features 529 rooms, ranging from deluxe rooms to two-bedroom suites.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d13513876-Reviews-Gevora_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Zayed Road",
+    "street2": "Trade Center Area",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Sheikh Zayed Road Trade Center Area, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.213238",
+  "longitude": "55.277466",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d13513876-Gevora_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#363 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "363"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "1558",
+  "review_rating_count": {
+    "1": "130",
+    "2": "91",
+    "3": "130",
+    "4": "230",
+    "5": "977"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "2318",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d13513876-m66827-Reviews-Gevora_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Kitchenette",
+    "Spa",
+    "Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Sauna",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Doorperson",
+    "Filipino",
+    "Hindi",
+    "Ironing Service",
+    "Pool with View",
+    "24-Hour Security",
+    "Shuttle Bus Service",
+    "Smoking rooms available",
+    "Refrigerator in room",
+    "Poolside Bar",
+    "Kids pool",
+    "Housekeeping",
+    "Bidet",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Desk",
+    "Dining Area",
+    "English",
+    "Farsi",
+    "Complimentary Toiletries",
+    "Complimentary Welcome Drink",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Massage",
+    "Nepali",
+    "Outdoor Dining Area",
+    "Russian",
+    "Sofa",
+    "Tamil",
+    "Telephone",
+    "Valet Parking",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "City View",
+    "Great View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620627",
+      "name": "Dubai International Financial Centre (DIFC)"
+    },
+    {
+      "location_id": "15620671",
+      "name": "Trade Centre"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "212"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "446"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "119"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "330"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "257"
+    }
+  ],
+  "awards": []
+}

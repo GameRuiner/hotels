@@ -1,0 +1,263 @@
+{
+  "location_id": "557020",
+  "name": "Lindos Princess Beach Resort & Spa",
+  "description": "Looking for a place to stay in Lardos? Then look no further than Lindos Princess Beach Hotel, a family-friendly hotel that brings the best of Lardos to your doorstep.\nYou’ll enjoy relaxing rooms that offer a flat screen TV, a refrigerator, and a minibar, and you can stay connected during your stay as Lindos Princess Beach Hotel offers guests free internet access.\nThe hotel features a concierge and room service. Plus, Lindos Princess Beach Hotel offers a pool and free breakfast, providing a pleasant respite from your busy day. For guests with a vehicle, free parking is available.\nWhile in Lardos be sure to experience local gyros favorites at Savvas or Mamas Gyros.\nDuring your visit, be sure to check out Folklore Museum of Lardos Village (0.6 mi), which is a popular attraction within walking distance of the hotel.\nWe’re sure you’ll enjoy your stay at Lindos Princess Beach Hotel as you experience everything Lardos has to offer.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g776010-d557020-Reviews-Lindos_Princess_Beach_Resort_Spa-Lardos_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street1": "Pros Pefkous",
+    "street2": "Nr Lindos",
+    "city": "Lardos",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "851 09",
+    "address_string": "Pros Pefkous Nr Lindos, Lardos 851 09 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Lardos",
+      "location_id": "776010"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.078995",
+  "longitude": "28.019207",
+  "timezone": "Europe/Athens",
+  "phone": "011302244029230",
+  "write_review": "https://www.tripadvisor.com/UserReview-g776010-d557020-Lindos_Princess_Beach_Resort_Spa-Lardos_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "776010",
+    "ranking_string": "#2 of 15 hotels in Lardos",
+    "geo_location_name": "Lardos",
+    "ranking_out_of": "15",
+    "ranking": "2"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "3587",
+  "review_rating_count": {
+    "1": "60",
+    "2": "97",
+    "3": "276",
+    "4": "926",
+    "5": "2228"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "3889",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g776010-d557020-m66827-Reviews-Lindos_Princess_Beach_Resort_Spa-Lardos_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Restaurant",
+    "Fitness center",
+    "Internet",
+    "Suites",
+    "Free parking",
+    "Wifi",
+    "Paid Wifi",
+    "Paid Internet",
+    "Beachfront",
+    "Wheelchair access",
+    "Tennis Court",
+    "Beach Access",
+    "Kids Activities",
+    "Room service",
+    "Free Internet",
+    "Bar/Lounge",
+    "Spa",
+    "Public Wifi",
+    "Breakfast included",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Business center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Water Park",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Aerobics",
+    "Car Hire",
+    "Convenience Store",
+    "Darts",
+    "Desk",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "French",
+    "24-Hour Front Desk",
+    "Game Room",
+    "German",
+    "Gift Shop",
+    "Greek",
+    "Head Massage",
+    "Ironing Service",
+    "Italian",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Mini Golf",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "Shops",
+    "Snack Bar",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Family Rooms",
+    "Kids pool",
+    "Children's Playground",
+    "Highchairs Available"
+  ],
+  "parent_brand": "H Hotels Group",
+  "brand": "H Hotel Collection",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Ocean View",
+    "Great View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "15"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "544"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "21"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "2430"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "177"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

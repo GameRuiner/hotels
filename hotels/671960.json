@@ -1,0 +1,203 @@
+{
+  "location_id": "671960",
+  "name": "Ivy Cyrene Island Resort",
+  "description": "Ivy Cyrene Island Resort has been totally renovated such as, room furnisher; curtains; mattress; LCD, etc.. with modern style and restaurant and public areas and suitable design to comfort the clients, re-opening on 02nd of May 2022 Cyrene Island Hotel offers 2 outdoor pools, a private beach and spacious rooms with air conditioning. The rooms at Ivy Cyrene Island Resort are warmly decorated and include satellite TV, a minibar and a private bathroom. Room service is available. Guests at the Cyrene Island Hotel can enjoy a variety of buffets and menus in the resort’s restaurants. The Al Baida Pool Bar offers cocktails and features regular entertainment, such as live music and karaoke parties. Guests can relax around 1 of the large outdoor pools, enjoy the spa and join in with water aerobics or yoga classes. Ivy Cyrene Island Resort animation team will keep children entertained all day with face paints and basketball games. The 24-hour reception staff can arrange snorkelling trips in Nosrani’s coral reef and shuttle services to Sharm El Sheikh Airport, a 10-minute drive away.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d671960-Reviews-Ivy_Cyrene_Island_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "El Monatzah Area - Ras Nusrani",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "address_string": "El Monatzah Area - Ras Nusrani, Sharm El Sheikh Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.979462",
+  "longitude": "34.4175",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d671960-Ivy_Cyrene_Island_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#115 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "115"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "1164",
+  "review_rating_count": {
+    "1": "111",
+    "2": "63",
+    "3": "123",
+    "4": "238",
+    "5": "629"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "1192",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d671960-m66827-Reviews-Ivy_Cyrene_Island_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Room service",
+    "Pool",
+    "Restaurant",
+    "Internet",
+    "Beachfront",
+    "Free parking",
+    "Wifi",
+    "Paid Wifi",
+    "Paid Internet",
+    "Fitness center",
+    "Beach Access",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Breakfast included",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Conference Facilities",
+    "Safe",
+    "Swimup Bar",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Aerobics",
+    "Arabic",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "24-Hour Front Desk",
+    "Gift Shop",
+    "Nightclub / DJ",
+    "Russian",
+    "Shops",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Free Internet",
+    "Wheelchair access",
+    "Concierge",
+    "Family Rooms"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Trendy",
+    "Business"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "9"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "274"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "75"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "424"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "309"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

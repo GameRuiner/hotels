@@ -1,0 +1,218 @@
+{
+  "location_id": "614395",
+  "name": "H10 Casanova",
+  "description": "Just a few metres from Placa Catalunya, Passeig de Gracia and Les Rambles, H10 Casanova is located in a beautifully refurbished 18th century building. The hotel’s services include the new Sky Bar terrace with views of Barcelona, bright, elegant rooms, the delightful Ona Lounge, a Despacio Spa Centre and 7 meeting rooms.​ The comfortable rooms at the H10 Casanova have very modern and functional decor and are equipped with all the amenities needed to ensure a pleasant stay. The Ona Lounge offers a selection of fusion tapas and a menu specialising in cocktails and premium gin and tonics. Weekends are party time with live DJ sessions. And on summer evenings, relax with a cocktail at our 8th floor Sky Bar, as you admire the sunset over Barcelona.​",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d614395-Reviews-H10_Casanova-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Gran Via de les Corts Catalanes, 559",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08011",
+    "address_string": "Gran Via de les Corts Catalanes, 559, 08011 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.38402",
+  "longitude": "2.160808",
+  "timezone": "Europe/Madrid",
+  "phone": "01134932202465",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d614395-H10_Casanova-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#146 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "146"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "2218",
+  "review_rating_count": {
+    "1": "37",
+    "2": "49",
+    "3": "152",
+    "4": "845",
+    "5": "1135"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1033",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d614395-m66827-Reviews-H10_Casanova-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Room service",
+    "Free Internet",
+    "Spa",
+    "Wifi",
+    "Free Wifi",
+    "Suites",
+    "Fitness center",
+    "Pool",
+    "Internet",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Catalan",
+    "24-Hour Check-in",
+    "English",
+    "Fitness / Spa Locker Rooms",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer"
+  ],
+  "parent_brand": "H10 Hotels",
+  "brand": "H10 Hotels",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Green",
+    "Mid-range"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230970",
+      "name": "Eixample"
+    },
+    {
+      "location_id": "15565886",
+      "name": "L'Antiga Esquerra de l'Eixample"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "170"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1095"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "70"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "357"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "335"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

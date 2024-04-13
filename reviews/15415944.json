@@ -1,0 +1,155 @@
+{
+  "data": [
+    {
+      "id": 888905132,
+      "lang": "en",
+      "location_id": 15415944,
+      "published_date": "2023-05-04T03:20:53Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g15263864-d15415944-r888905132-Reviews-Hotel_86_By_Katipoglu-Konak_Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review888905132",
+      "text": "Very convenient hotel to get anywhere. Basmane train station is close, as well as the metro station. Many restaurants around. Easy walking to the sea. The breakfast is very basic, the rooms are big enough and the personnel was very helpful. The place is clean. the only challenge is that there is no parking on the premises, so the staff takes the car to. parking somewhere and brings it back when you ask them for it (takes round 20 min)",
+      "title": "A week's stay",
+      "trip_type": "Business",
+      "travel_date": "2023-04-30",
+      "user": {
+        "username": "pavlek2017",
+        "user_location": {
+          "id": "295110",
+          "name": "Skopje, Skopje Region"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/0e/6a/81/cb/pavle-k.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/0e/6a/81/cb/pavle-k.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/0e/6a/81/cb/pavle-k.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/0e/6a/81/cb/pavle-k.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 847685977,
+      "lang": "en",
+      "location_id": 15415944,
+      "published_date": "2022-07-13T11:28:46Z",
+      "rating": 1,
+      "helpful_votes": 2,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g15263864-d15415944-r847685977-Reviews-Hotel_86_By_Katipoglu-Konak_Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review847685977",
+      "text": "Terrible. They charge us for triple room but we got standard twin room. The said the hotel is full and there are no available rooms!!!They did not agree to pay some of our money back. Do not recommend. Not good customers service at all.Not friendly faces etc.Ercan the man in the reception is so rude, not suitable to work in a hotel. The hotel is supposed to be only 1 star not 3. Stay away from this hotel!",
+      "title": "Stay away",
+      "trip_type": "Family",
+      "travel_date": "2022-06-30",
+      "user": {
+        "username": "NiluferKazim",
+        "user_location": {
+          "id": "189934",
+          "name": "Helsinki, Uusimaa"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/10/13/b2/c5/niluferkazim.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/10/13/b2/c5/niluferkazim.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/10/13/b2/c5/niluferkazim.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-o/10/13/b2/c5/niluferkazim.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 668797004,
+      "lang": "en",
+      "location_id": 15415944,
+      "published_date": "2019-04-24T03:33:05Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g15263864-d15415944-r668797004-Reviews-Hotel_86_By_Katipoglu-Konak_Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review668797004",
+      "text": "The hotel has very good location, very close to Alsancak by walk also in front of Çankaya metro station. \nIn addition, isolation is not good..That's why it's a little bit noisy. You can hear street sounds other guests voices. Small hotel only four room in every floor.  Breakfast is very satisfying, very clean room and kind staff. ",
+      "title": "Good hotel",
+      "trip_type": "Friends getaway",
+      "travel_date": "2019-04-30",
+      "user": {
+        "username": "ceyhan75",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e5/66/default-avatar-2020-53.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e5/66/default-avatar-2020-53.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e5/66/default-avatar-2020-53.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e5/66/default-avatar-2020-53.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e5/66/default-avatar-2020-53.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 659128046,
+      "lang": "en",
+      "location_id": 15415944,
+      "published_date": "2019-03-17T19:18:39Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g15263864-d15415944-r659128046-Reviews-Hotel_86_By_Katipoglu-Konak_Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review659128046",
+      "text": "Hotel 86 by Katipoglu is a wonderful place to stay in the city center of Izmir City. It has has gone through a recent major renovation and is lovely. We stayed in a triple room which was just a bit tight for three people but it was very nice, clean and a welcome place to rest after a busy day shopping in the Bazaar or touring the city and area attractions. The beds were good and linens fresh and clean. The views of the city and bay from the restaurant on the seventh floor are amazing. The employees were very friendly and went out of their way to help you in every way possible. We especially enjoyed the service we received in the restaurant at breakfast by Mss. Gamze and Mr. Musa, they were wonderful. The access to the Metro is right in front of the building and the closest tram stop about a 5 minute walk away, very convenient. Across the street is a mini-market where you can purchase food, snacks, drinks and even the IZMIRIM KART, the card you can put money on and use to pay for train, bus, tram and ferry rides. The neighborhood was very peaceful and at no time did we feel uncomfortable or in any type of danger.  It’s the center of a large city, just be city wise.  We will definitely be staying here again and again.",
+      "title": "Great Hotel in a Great Location",
+      "trip_type": "Couples",
+      "travel_date": "2019-02-28",
+      "user": {
+        "username": "paulnisa91",
+        "user_location": {
+          "id": "35805",
+          "name": "Chicago, Illinois"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/de/5a/default-avatar-2020-36.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/de/5a/default-avatar-2020-36.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/de/5a/default-avatar-2020-36.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/de/5a/default-avatar-2020-36.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/de/5a/default-avatar-2020-36.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "1": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "2": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    }
+  ]
+}

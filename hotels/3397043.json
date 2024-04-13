@@ -1,0 +1,193 @@
+{
+  "location_id": "3397043",
+  "name": "Volley Hotel Izmir",
+  "description": "Finding an ideal family-friendly boutique hotel in Izmir does not have to be difficult. Welcome to Volley Hotel Izmir, a nice option for travelers like you.\nYou’ll enjoy relaxing rooms that offer a flat screen TV, air conditioning, and a minibar, and you can stay connected during your stay as Volley Hotel Izmir offers guests free wifi.\nThe boutique hotel features a 24 hour front desk, room service, and baggage storage. Plus, Volley Hotel Izmir offers a pool and an on-site restaurant, providing a pleasant respite from your busy day. For guests with a vehicle, free parking is available.\nFor those interested in checking out popular landmarks while visiting Izmir, Volley Hotel Izmir is located a short distance from Saint Polycarp Church (0.9 mi) and Kadifekale (1.4 mi).\nWhile in Izmir be sure to experience local tapas favorites at ARGO.\nIf you’re looking for something to do, Kordonboyu (0.5 mi), Arkas Art Center (0.6 mi), and Synagogue Street (Havra Sokagi) (1.2 mi) are a nice way to spend some time, and they are all within walking distance of Volley Hotel Izmir.\nVolley Hotel Izmir puts the best of Izmir at your fingertips, making your stay both relaxing and enjoyable.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d3397043-Reviews-Volley_Hotel_Izmir-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "1486 Sok.",
+    "street2": "Mimar Sinan Mahallesi, Alsancak",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35220",
+    "address_string": "1486 Sok. Mimar Sinan Mahallesi, Alsancak, Izmir 35220 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.434063",
+  "longitude": "27.148064",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d3397043-Volley_Hotel_Izmir-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#120 of 218 hotels in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "218",
+    "ranking": "120"
+  },
+  "rating": "3.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.0-66827-5.svg",
+  "num_reviews": "146",
+  "review_rating_count": {
+    "1": "33",
+    "2": "21",
+    "3": "27",
+    "4": "27",
+    "5": "38"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "93",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d3397043-m66827-Reviews-Volley_Hotel_Izmir-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Restaurant",
+    "Free Wifi",
+    "Suites",
+    "Bar/Lounge",
+    "Meeting rooms",
+    "Air conditioning",
+    "Refrigerator in room",
+    "Minibar",
+    "Flatscreen TV",
+    "Room service",
+    "Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Safe",
+    "Rooftop Pool",
+    "Housekeeping",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bicycle Rental",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Express Check-in / Check-out",
+    "Children's Television Networks",
+    "Clothes Rack",
+    "Currency Exchange",
+    "Dutch",
+    "English",
+    "Extra Long Beds",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "German",
+    "Hair Dryer",
+    "Iron",
+    "Ironing Service",
+    "Newspaper",
+    "Private Check-in / Check-out",
+    "Seating Area",
+    "Snack Bar",
+    "Soundproof Rooms",
+    "Sun Terrace",
+    "Telephone",
+    "Turkish",
+    "VIP Room Facilities"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quiet",
+    "Modern"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "43"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "34"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "6"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "30"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "14"
+    }
+  ],
+  "awards": []
+}

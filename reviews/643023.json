@@ -1,0 +1,238 @@
+{
+  "data": [
+    {
+      "id": 925396082,
+      "lang": "en",
+      "location_id": 643023,
+      "published_date": "2023-11-10T12:00:17Z",
+      "rating": 2,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298658-d643023-r925396082-Reviews-Aegean_Gate_Hotel-Bodrum_City_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html?m=66827#review925396082",
+      "text": "This hotel is empty when we  stayed, no one there, even no reception, we need to wait the owner come by car to open the room. no Internet. The area is in the housing complex not near the harbour, but you still can see the sea from far a way. If you dont have car, not easy to get there, only small rood in the hill. Not clean enough. Check with hotel if they are open before booking online\n",
+      "title": "Not what I expected",
+      "trip_type": "Couples",
+      "travel_date": "2023-11-30",
+      "user": {
+        "username": "endahz2022",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f3/e4/default-avatar-2020-30.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 920261500,
+      "lang": "en",
+      "location_id": 643023,
+      "published_date": "2023-10-07T22:47:32Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298658-d643023-r920261500-Reviews-Aegean_Gate_Hotel-Bodrum_City_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html?m=66827#review920261500",
+      "text": "A very beautiful and comfortable hotel.  The grounds and pool area are lovely and the view is to die for!!  Beds were comfortable and we loved the sitting area and balcony.  The breakfast was wonderful.  A very peaceful and relaxing stay.",
+      "title": "The best stay in Bodrum",
+      "trip_type": "Family",
+      "travel_date": "2023-09-30",
+      "user": {
+        "username": "kenzie9",
+        "user_location": {
+          "id": "52024",
+          "name": "Portland, Oregon"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f3/e4/default-avatar-2020-30.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 914232915,
+      "lang": "en",
+      "location_id": 643023,
+      "published_date": "2023-09-01T08:37:29Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298658-d643023-r914232915-Reviews-Aegean_Gate_Hotel-Bodrum_City_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html?m=66827#review914232915",
+      "text": "Wow! Great place to be when I was in Bodrum. We went as a couple and enjoyed our stay. Cozy hotel, with a great view, and very helpful staff. The location is close to the city center, if you don't have a car also no problem because close to public transportation.  The breakfast they serve is delicious. Very friendly and kind staff make you comfortable at any time. The rooms were clean and good for two people. Next visit I'll be here!!",
+      "title": "See You Next Time For Sure!",
+      "trip_type": "Couples",
+      "travel_date": "2023-08-31",
+      "user": {
+        "username": "cenkarikan2019",
+        "user_location": {
+          "id": "298006",
+          "name": "Izmir, Izmir Province, Turkish Aegean Coast"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/eb/2f/77/avatar.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/eb/2f/77/avatar.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/eb/2f/77/avatar.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/1a/eb/2f/77/avatar.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 910013887,
+      "lang": "en",
+      "location_id": 643023,
+      "published_date": "2023-08-13T10:47:11Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298658-d643023-r910013887-Reviews-Aegean_Gate_Hotel-Bodrum_City_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html?m=66827#review910013887",
+      "text": "This is a fabulous property. We stayed in July for 11 nights. The outside space is so tranquil. It feels like you’re staying in your own private Villa. Hotice and the staff are such lovely people. Thanks for a fab stay! ",
+      "title": "Feels like a private Villa ",
+      "trip_type": "Family",
+      "travel_date": "2023-07-31",
+      "user": {
+        "username": "sasadoc",
+        "user_location": {
+          "id": "186534",
+          "name": "Glasgow, Scotland"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f3/e4/default-avatar-2020-30.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 912396303,
+        "title": "Owner response",
+        "text": "Dear Guest,                                 \n\nWe would like to thank you for your interest in our hotel. \nIt is glad to hear that you enjoyed your stay us and this review is a source of a motivation to us. \nOn behalf of our entire team, thank you for your sincere and kind comments. We will be happy to host you again in our hotel as soon as possible.\n\nAegean Gate Hotel Management",
+        "lang": "en",
+        "author": "Aegean Gate Hotel",
+        "published_date": "2023-08-23T09:44:19Z"
+      }
+    },
+    {
+      "id": 904269523,
+      "lang": "en",
+      "location_id": 643023,
+      "published_date": "2023-07-20T03:05:56Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298658-d643023-r904269523-Reviews-Aegean_Gate_Hotel-Bodrum_City_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html?m=66827#review904269523",
+      "text": "Wonderful hotel, we had a special time. large room with everything you need, breakfast is varied, served in the magnificent garden overlooking the sea. but the aspect that I would like to underline is the kindness of the staff, despite having some difficulty with the language they did everything to make us feel at ease. Special thanks to the manager, my kids had a little trouble in the pool and he was understanding and very nice. We can't wait to go back.",
+      "title": "special time in Bodrum",
+      "trip_type": "Family",
+      "travel_date": "2023-07-31",
+      "user": {
+        "username": "glermarGenova",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/7a/default-avatar-2020-25.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 905450850,
+        "title": "Owner response",
+        "text": "Dear Guest,                                 \n\nWe would like to thank you for your interest in our hotel. \nIt is glad to hear that you enjoyed your stay us and this review is a source of a motivation to us. \nOn behalf of our entire team, thank you for your sincere and kind comments. We will be happy to host you again in our hotel as soon as possible.\n\nAegean Gate Hotel Management",
+        "lang": "en",
+        "author": "Aegean Gate Hotel",
+        "published_date": "2023-07-25T07:08:36Z"
+      }
+    }
+  ]
+}

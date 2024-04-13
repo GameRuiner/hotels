@@ -1,0 +1,222 @@
+{
+  "data": [
+    {
+      "id": 945268700,
+      "lang": "en",
+      "location_id": 305584,
+      "published_date": "2024-04-03T19:25:09Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d305584-r945268700-Reviews-Sercotel_Caspe-Barcelona_Catalonia.html?m=66827#review945268700",
+      "text": "Nice quiet rooms, friendly reception staff, bathroom with amenities and bath/shower. Breakfast is great, with local products and the usual international food. It is a couple of blocks away from the metro station and close to the regional bus station.",
+      "title": "Nice quiet modern hotel",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "brunov874",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/07/2e/f8/4d/bruno-v.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/07/2e/f8/4d/bruno-v.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/07/2e/f8/4d/bruno-v.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/07/2e/f8/4d/bruno-v.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/07/2e/f8/4d/bruno-v.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945420282,
+        "title": "Owner response",
+        "text": "Dear Bruno,\n\nWe are glad to hear that you enjoyed your stay at our hotel. Thank you for your review and for choosing us as your place of accommodation. We hope you have another opportunity to visit us and enjoy our hospitality once again.\nBest regards,\n",
+        "lang": "en",
+        "author": "Sandra Rabal",
+        "published_date": "2024-04-05T04:46:54Z"
+      }
+    },
+    {
+      "id": 936700385,
+      "lang": "en",
+      "location_id": 305584,
+      "published_date": "2024-02-03T07:58:13Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d305584-r936700385-Reviews-Sercotel_Caspe-Barcelona_Catalonia.html?m=66827#review936700385",
+      "text": "Stayed 5 nights for business trip. The hotel staff are friendly and the hotel is clean.  My room was also clean and the welcome chocolates were nice surprise.   Would be happy to stay again for either business or personal trip. Good location. Location is also good and plenty of transport options.",
+      "title": "Business Trip",
+      "trip_type": "Business",
+      "travel_date": "2024-01-31",
+      "user": {
+        "username": "andrewj633",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/16/b5/5e/ec/caption.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/16/b5/5e/ec/caption.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/16/b5/5e/ec/caption.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/16/b5/5e/ec/caption.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 937016361,
+        "title": "Owner response",
+        "text": "Dear Andrew,\n\nThank you for choosing to stay with us during your business trip. We're delighted to hear that you found our staff friendly, our hotel clean, and your room comfortable. It's wonderful to know that you appreciated the welcome chocolates as a nice surprise.\n\nWe're glad you found our location convenient, with plenty of transport options nearby. We look forward to welcoming you back, whether for business or personal travel.\n\nThank you for your kind words and we hope to see you again soon.\n\nBest regards,\n\nCristian\nSercotel Caspe",
+        "lang": "en",
+        "author": "Sandra Rabal",
+        "published_date": "2024-02-06T02:24:47Z"
+      }
+    },
+    {
+      "id": 934904474,
+      "lang": "en",
+      "location_id": 305584,
+      "published_date": "2024-01-21T12:33:19Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d305584-r934904474-Reviews-Sercotel_Caspe-Barcelona_Catalonia.html?m=66827#review934904474",
+      "text": "We visited this hotel for 5 nights in January and found it to be extremely clean and all staff were really welcoming and always willing to help. Rooms were modern and spacious. One thing that we observed was that the hotel is accessible for individuals with reduced mobility as the showers were walk in and there were lifts to all floors. \n\nThe hotel is situated approximately a 25 minute walk to the Sagrada Familia, a 15 minute walk to the Arc d’triomph, a 35/40 minute walk to Barceloneta and a 50 minute walk to Park Guell. If you prefer to not walk, the closest metro station is across from the arc d’triomph which will take you all around the city. \n\nThe only issue was with the air conditioning, it didn’t seem to blow out air cold enough to cool the room down. This wasn’t an issue as we visited in January, however, in the summer months this will be a problem. \n\nWe are unable to comment on the breakfast as we decided to visit local bakeries in the mornings.",
+      "title": "A nice stay",
+      "trip_type": "Couples",
+      "travel_date": "2024-01-31",
+      "user": {
+        "username": "Dylan_Sagar",
+        "user_location": {
+          "id": "186411",
+          "name": "Leeds, West Yorkshire, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/29/a5/20/83/caption.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/29/a5/20/83/caption.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/29/a5/20/83/caption.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/29/a5/20/83/caption.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/29/a5/20/83/caption.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 935081730,
+        "title": "Owner response",
+        "text": "Dear Dylan,\n\nThank you for your time and feedback. \n\nWe hope to see you soon.\n\nSincerely,",
+        "lang": "en",
+        "author": "Sandra Rabal",
+        "published_date": "2024-01-23T03:49:25Z"
+      }
+    },
+    {
+      "id": 932243109,
+      "lang": "en",
+      "location_id": 305584,
+      "published_date": "2024-01-04T05:50:31Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d305584-r932243109-Reviews-Sercotel_Caspe-Barcelona_Catalonia.html?m=66827#review932243109",
+      "text": "The hotel is a ten min walk from Sagrada de Familia and L Arc de Triumph. However its  a cab ride from Las Ramblas and the beach.\nBarcelona is pretty well connected with Metros, Buses and Cabs so travelling in Barcelona is not a worry at all. You can stay at whatever area its not an issue.\nFor me this hotel was the costliest amongst all my hotels in Spain, I just thought it was not worth the price that they are asking. The breakfast was nice, however not exceptional.\nWhat I did not like about the breakfast entry was there is a barricade before you enter into the breakfast seating which as a guest I found not so welcoming.\nWhy would you put a barricade for a hotel guest. There is an attendant in all hotels to take your hotel room no's down when you enter. Then why do you have to go through this.\nAlso -on the first day I wanted hot water from the coffee machine -I did not know how to operate the machine. The person in the coat did explain to me but I switched off the machine by mistake again,.....His reaction.... he folded his hands and got irritated that I made the same mistake again. \nI thought that was not nice. You don't want such staff at the breakfast table.\nAlso when I was outside my hotel Room and went to communicate something to my sister 2 rooms away, since we were talking in the hallway ….not so loudly -a hotel guest ranted her frustration in Spanish showing me the DND sign.\nDon't know if the hotel rooms are sound proof or no.\nAlso I paid a city tax of Euros- 29 for a 2 day stay-which I thought was quite a bit after paying so much for the hotel room.\nThe positives the reception staff is very welcoming and so is the lady at the breakfast table. She was very courteous.\nThe rooms are decent and clean.\nTo sum it up this hotel is very pricey for the facilities and services they offer.\n\n",
+      "title": "PRICEY HOTEL CAN DO BETTER",
+      "trip_type": "Family",
+      "travel_date": "2023-12-31",
+      "user": {
+        "username": "bijalkadam",
+        "user_location": {
+          "id": "304554",
+          "name": "Mumbai, Maharashtra"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/02/47/6b/46/bijalkadam.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/02/47/6b/46/bijalkadam.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/02/47/6b/46/bijalkadam.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/02/47/6b/46/bijalkadam.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 932477015,
+        "title": "Owner response",
+        "text": "Dear Bijakadam,\n\nFirst of all, we would like to thank you for choosing our hotel and for taking the time to leave your feedback. \nWe're sorry to hear that you didn't have a better experience at our hotel, and we have taken note of your comments to improve the areas that didn't meet your expectations.\nWe are glad as well that you enjoyed our location, close to both Sagrada Familia and city center. Also we would like to thank you for your kind words about our reception staff.\nRegarding the barrier in the breakfast entrance, we apologize if you found it inconvenient. Our breakfast buffet is a public service, open for everybody and not only for guests. This is why we need it, in order to control the access. However, one of our colleagues is regularly controlling the access, to make the proccess as quick as possible.\nWe strive to offer an exceptional experience to our guests every day, and it's clear that we fell short this time. We would appreciate the opportunity to welcome you back, and you can be sure that we'll do our best to provide you with an excellent experience at our hotel.\nSincerely,\n\n ",
+        "lang": "en",
+        "author": "Sandra Rabal",
+        "published_date": "2024-01-06T02:03:41Z"
+      }
+    },
+    {
+      "id": 930756264,
+      "lang": "en",
+      "location_id": 305584,
+      "published_date": "2023-12-23T15:28:45Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d305584-r930756264-Reviews-Sercotel_Caspe-Barcelona_Catalonia.html?m=66827#review930756264",
+      "text": "Lovely clean hotel,  perfect location,  easy access to all Barcelona has to offer. \nVery nice staff, especially on reception. \nBuffet breakfast not the best, not alot of choice,  toaster not working the whole of our visit.\nI would definitely give the restaurant a miss, food expensive and very poor quality ingredients,  we tried it once and it was very poor quality,  the fish and chips was barely edible.  We walked down the street on to the main road and ate in the restaurants down there instead,  very good value and lots of choice. \nWe would definitely visit again but eat out for sure\n",
+      "title": "Lovely hotel,  perfect located ",
+      "trip_type": "Couples",
+      "travel_date": "2023-12-31",
+      "user": {
+        "username": "9mrsf",
+        "user_location": {
+          "id": "186334",
+          "name": "Leicester, Leicestershire, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/03/7a/5f/c5/mrsfenner.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/03/7a/5f/c5/mrsfenner.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/03/7a/5f/c5/mrsfenner.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/03/7a/5f/c5/mrsfenner.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/03/7a/5f/c5/mrsfenner.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 930942233,
+        "title": "Owner response",
+        "text": "Dear guest,\n\nThank you for sharing your comments about your stay at our hotel. We regret that our restaurant did not meet your expectations, and we appreciate your constructive feedback to help us improve.We hope to have the opportunity to serve you again in the future and demonstrate our dedication to exceeding your expectations.\nSincerely,\n",
+        "lang": "en",
+        "author": "Sandra Rabal",
+        "published_date": "2023-12-25T02:25:15Z"
+      }
+    }
+  ]
+}

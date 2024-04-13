@@ -1,0 +1,377 @@
+{
+  "location_id": "13141282",
+  "name": "Bulgari Hotel & Resorts, Dubai",
+  "description": "Welcome to the Bulgari Hotel & Resorts, Dubai.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d13141282-Reviews-Bulgari_Hotel_Resorts_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.214384",
+  "longitude": "55.23651",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d13141282-Bulgari_Hotel_Resorts_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#270 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "270"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "516",
+  "review_rating_count": {
+    "1": "24",
+    "2": "5",
+    "3": "10",
+    "4": "30",
+    "5": "447"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "729",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d13141282-m66827-Reviews-Bulgari_Hotel_Resorts_Dubai-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Fitness center",
+    "Pool",
+    "Internet",
+    "Kids Activities",
+    "Beachfront",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Business center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Flatscreen TV",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Butler Service",
+    "Outdoor pool",
+    "Private Beaches",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Sauna",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "24-Hour Check-in",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Couples Massage",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Facial Treatments",
+    "Complimentary Toiletries",
+    "French",
+    "Head Massage",
+    "Hindi",
+    "Iron",
+    "Italian",
+    "Salon",
+    "VIP Room Facilities",
+    "Breakfast included",
+    "Banquet Room",
+    "Family Rooms",
+    "Babysitting",
+    "Heated pool",
+    "Kids pool",
+    "Breakfast Available",
+    "Kids Club",
+    "ATM On Site",
+    "Bidet",
+    "Bicycles Available",
+    "Boating",
+    "Body Wrap",
+    "Express Check-in / Check-out",
+    "Children's Playground",
+    "Chinese",
+    "Clothes Rack",
+    "Croatian",
+    "Desk",
+    "Dutch",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Hair Dryer",
+    "Hammam",
+    "Highchairs Available",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Japanese",
+    "Kids' Meals",
+    "Kids' Outdoor Play Equipment",
+    "Korean",
+    "Massage",
+    "Neck Massage",
+    "Outdoor Dining Area",
+    "Outdoor Furniture",
+    "Personal Trainer",
+    "Pool / Beach Towels",
+    "Portuguese",
+    "Private Bathrooms",
+    "Private Check-in / Check-out",
+    "Romanian",
+    "Russian",
+    "Seating Area",
+    "24-Hour Security",
+    "Shoeshine",
+    "Shops",
+    "Snack Bar",
+    "Sofa",
+    "Spanish",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Swimming Pool Toys",
+    "Telephone",
+    "Ukrainian",
+    "Umbrella",
+    "Valet Parking",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Water Sport Equipment Rentals",
+    "Wine / Champagne",
+    "Yoga Classes",
+    "Beach Access"
+  ],
+  "parent_brand": "Marriott",
+  "brand": "Bulgari Hotels & Resorts",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Marina View",
+    "Luxury"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "30"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "114"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "29"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "138"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "136"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

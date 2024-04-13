@@ -1,0 +1,345 @@
+{
+  "location_id": "1760699",
+  "name": "Sheraton Mall of the Emirates Hotel Dubai",
+  "description": "Directly connected to the world-renowned Mall of the Emirates in Dubai, United Arab Emirates, Sheraton Mall of the Emirates Hotel, Dubai is a gathering place for corporate travelers, vacationers, and shoppers alike. The hotel is centrally located, with easy access to such destinations as Jumeirah, Dubai Marina, Jebel Ali Free Zone, and Dubai World Trade Center. Dubai International Airport (DXB) is only 20 minutes away by car.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1760699-Reviews-Sheraton_Mall_of_the_Emirates_Hotel_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Zayed Road, Al Barsha 1",
+    "street2": "Mall of the Emirates",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "283825",
+    "address_string": "Sheikh Zayed Road, Al Barsha 1 Mall of the Emirates, Dubai 283825 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.119297",
+  "longitude": "55.203148",
+  "timezone": "Asia/Dubai",
+  "phone": "18446310595",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1760699-Sheraton_Mall_of_the_Emirates_Hotel_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#96 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "96"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "3601",
+  "review_rating_count": {
+    "1": "61",
+    "2": "52",
+    "3": "189",
+    "4": "831",
+    "5": "2468"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "2236",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1760699-m66827-Reviews-Sheraton_Mall_of_the_Emirates_Hotel_Dubai-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Free parking",
+    "Fitness center",
+    "Pool",
+    "Internet",
+    "Room service",
+    "Free Internet",
+    "Restaurant",
+    "Spa",
+    "Wifi",
+    "Free Wifi",
+    "Suites",
+    "Public Wifi",
+    "Meeting rooms",
+    "Wheelchair access",
+    "Concierge",
+    "Airport transportation",
+    "Dry Cleaning",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Adult pool",
+    "Outdoor pool",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Kids Stay Free",
+    "Sauna",
+    "Additional Bathroom",
+    "Afrikaans",
+    "Allergy-free Room",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Express Check-in / Check-out",
+    "Coffee Shop",
+    "Couples Massage",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Head Massage",
+    "Hindi",
+    "Indonesian",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Massage",
+    "Newspaper",
+    "Parking Garage",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Soundproof Rooms",
+    "Special Diet Menus",
+    "Steam Room",
+    "Taxi Service",
+    "Breakfast Available"
+  ],
+  "parent_brand": "Marriott",
+  "brand": "Sheraton",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Green",
+    "Quiet"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620543",
+      "name": "Al Barsha"
+    },
+    {
+      "location_id": "15620544",
+      "name": "Al Barsha 1"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "958"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "842"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "259"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "894"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "368"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

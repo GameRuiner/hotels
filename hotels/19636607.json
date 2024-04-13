@@ -1,0 +1,233 @@
+{
+  "location_id": "19636607",
+  "name": "Sonder at JBR The Walk",
+  "description": "Between the Palm Jumeirah and Ain Dubai — welcome to your Dubai dream at JBR The Walk. Unwind at the pool or on the private-access beach. Our Azure Beach partner serves drinks and Asian-fusion dishes directly to your sunbed or cabana. Or choose from nine award-winning outlets for dine-in or delivery to your space. Get your endorphin boost at NatureLife Spa or the sauna and steam room. And have your pick of free weights and machines in the fitness center. Inside your open-plan apartment, there's a fully-equipped kitchen, in-suite laundry, and a spare private bedroom and bathroom. Plus, laundry service and on-site parking are available for your convenience. Whatever brings you to Dubai, you won't want to leave JBR The Walk.\n\nUse the Sonder app to navigate your stay from start to finish. Check in. Request amenities. Connect to WiFi. Contact customer support. All via our small (but mighty) app. Whatever you need, we’ve got you covered.\n\nThis Sonder has a front desk which is staffed 24/7. Our on-site team is available to ensure you have a better stay.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d19636607-Reviews-Sonder_at_JBR_The_Walk-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "The Walk",
+    "street2": "Al Fattan Crystal Tower B",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "34HP+VG",
+    "address_string": "The Walk Al Fattan Crystal Tower B, Dubai 34HP+VG United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.079905",
+  "longitude": "55.135616",
+  "timezone": "Asia/Dubai",
+  "phone": "16173000417",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d19636607-Sonder_at_JBR_The_Walk-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#17 of 766 Specialty lodging in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "766",
+    "ranking": "17"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "353",
+  "review_rating_count": {
+    "1": "22",
+    "2": "8",
+    "3": "11",
+    "4": "19",
+    "5": "294"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "336",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d19636607-m66827-Reviews-Sonder_at_JBR_The_Walk-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Suites",
+    "Free parking",
+    "Internet",
+    "Beachfront",
+    "Free Internet",
+    "Restaurant",
+    "Bar/Lounge",
+    "Wifi",
+    "Free Wifi",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Concierge",
+    "Air conditioning",
+    "Self-Serve Laundry",
+    "Microwave",
+    "Refrigerator in room",
+    "Non-smoking hotel",
+    "Flatscreen TV",
+    "Outdoor pool",
+    "Sauna",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Cable / Satellite TV",
+    "Express Check-in / Check-out",
+    "Clothes Dryer",
+    "Clothes Rack",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Desk",
+    "Dining Area",
+    "Dishwasher",
+    "Electric Kettle",
+    "English",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "Hair Dryer",
+    "Iron",
+    "Kitchenware",
+    "Outdoor Furniture",
+    "Oven",
+    "Pool with View",
+    "Private Bathrooms",
+    "Paid Public Parking Nearby",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Sofa",
+    "Spanish",
+    "Steam Room",
+    "Stovetop",
+    "Sun Loungers / Beach Chairs",
+    "Valet Parking",
+    "Wardrobe / Closet",
+    "Washing Machine",
+    "Beach Access"
+  ],
+  "parent_brand": "Sonder Holdings Inc.",
+  "brand": "Sonder",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [
+    "Quaint"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620642",
+      "name": "Jumeirah Beach Residence (JBR)"
+    },
+    {
+      "location_id": "7282432",
+      "name": "The Marina"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "27"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "19"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "8"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "133"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "32"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

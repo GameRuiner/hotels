@@ -1,0 +1,238 @@
+{
+  "data": [
+    {
+      "id": 924826926,
+      "lang": "en",
+      "location_id": 228592,
+      "published_date": "2023-11-06T15:06:07Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d228592-r924826926-Reviews-Apartamentos_Hesperia_Barcelona_Sant_Joan-Barcelona_Catalonia.html?m=66827#review924826926",
+      "text": "Noise!!!! I can hear my neighbors conversation as if we were in the same room. The noise from the corridor reminds me of kids dormitories. Doors are banging all the time. The sound echoes. People talking in the corridor, don't care about making noise. Amazing. Not worth the price at all.\nAnd I'm not the kind of being cold, but the temperature in the room is cold.",
+      "title": "Extremely noisy!!!!",
+      "trip_type": "Business",
+      "travel_date": "2023-11-30",
+      "user": {
+        "username": "Excursion05699563303",
+        "user_location": {
+          "id": "188663",
+          "name": "Namur, The Ardennes, Wallonia"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/d5/default-avatar-2020-17.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 926676156,
+        "title": "Owner response",
+        "text": "Dear Guest,\nThank you for choosing Apartments Hesperia Sant Joan during your visit to Barcelona and for taking the time to share your feedback with us.\nWe regret we did not cover your expectations. \nThank you again for your time and feedback about your experience. \nBest Regards\n",
+        "lang": "en",
+        "author": "Marta  Casco",
+        "published_date": "2023-11-20T11:28:21Z"
+      }
+    },
+    {
+      "id": 919763004,
+      "lang": "en",
+      "location_id": 228592,
+      "published_date": "2023-10-04T11:36:45Z",
+      "rating": 3,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d228592-r919763004-Reviews-Apartamentos_Hesperia_Barcelona_Sant_Joan-Barcelona_Catalonia.html?m=66827#review919763004",
+      "text": "Clean and spacious room, had everything we needed. \nDrawback is the 24 hour reception which is only manned 12-8! Then it’s a check in machine that didn’t work and I had to call the emergency number for help. A man then appeared from a door behind reception and he managed to get the machine to check us in. \nRestaurant never open and didn’t see another member of staff the whole 4 days we were there!! \nIf you are looking for a base to sleep in and that’s it, this is fine. ",
+      "title": "Clean & spacious but no staff and no restaurant ",
+      "trip_type": "Friends getaway",
+      "travel_date": "2023-10-31",
+      "user": {
+        "username": "sarahpZ1901HE",
+        "user_location": {
+          "id": "499476",
+          "name": "Dunstable, Bedfordshire, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e7/fe/default-avatar-2020-58.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e7/fe/default-avatar-2020-58.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e7/fe/default-avatar-2020-58.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e7/fe/default-avatar-2020-58.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/fe/default-avatar-2020-58.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 918706697,
+      "lang": "en",
+      "location_id": 228592,
+      "published_date": "2023-09-27T12:45:13Z",
+      "rating": 1,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d228592-r918706697-Reviews-Apartamentos_Hesperia_Barcelona_Sant_Joan-Barcelona_Catalonia.html?m=66827#review918706697",
+      "text": "Dirty, smelly and moldy. Just stay away. This hotel is so disgusting. My room is so dirty and the roof is black mild. The pictures speak for themself. However, the receptionist (a man) was Nice. The reception area is old and worn out. Pls see the attached photos.",
+      "title": "Dirty, smelly and moldy.",
+      "trip_type": "Business",
+      "travel_date": "2023-09-30",
+      "user": {
+        "username": "danmarkdejligst",
+        "user_location": {
+          "id": "285705",
+          "name": "Skagen, North Jutland, Jutland"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e8/24/default-avatar-2020-60.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e8/24/default-avatar-2020-60.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e8/24/default-avatar-2020-60.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e8/24/default-avatar-2020-60.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e8/24/default-avatar-2020-60.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 919095066,
+        "title": "Owner response",
+        "text": "Dear Guest, \nThank you for having taken some of your valuable time to send us your feedback about some points of our hotel. We are sorry if your experience with us was not as pleasant as we wish and if our service didn’t reach all your expectations. We do our best to exceed our guest expectations and we are sorry to know that we have not reached yours. We will take good notice of all your impressions to try to avoid these incidents in the future and give our guests the best quality of service and product. We would be glad to have the opportunity to receive you once again in our hotel and change your last impression.\nBest Regards\n",
+        "lang": "en",
+        "author": "Marta  Casco",
+        "published_date": "2023-09-30T05:43:06Z"
+      }
+    },
+    {
+      "id": 912690495,
+      "lang": "en",
+      "location_id": 228592,
+      "published_date": "2023-08-24T16:33:37Z",
+      "rating": 3,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d228592-r912690495-Reviews-Apartamentos_Hesperia_Barcelona_Sant_Joan-Barcelona_Catalonia.html?m=66827#review912690495",
+      "text": "We booked our holiday as a reasonably priced getaway and unfortunatley things weren't as we had expected. On arrival we were not aware that we would have to self check in (our reference number didn't work) and that no one manned the front desk until 12pm and leaves at 8pm every day. Luckily as we landed at 11am and got to the hotel before lunchtime another guest let us into the lobby (as there is a code to gain entry) we waited for the gentleman staffing the desk to arrive and we asked if we could drop our bags at reception so we could at least explore rather than waiting 3 hours to check in ( the man on the front desk assisted us using the check in machine when we returned to chek in and also arranged us an extra key card). He kindly took our bags and we went out to explore the area. If you don't want to walk alot then this isn't the best place to stay. There are a couple of supermarkets in a short distance from the hotel, a small one and a bigger one for all your daily needs. \nThe hotel itself, unfortunately, was lacking in many areas- the sauna is not there to use any longer which we didn't realise when booking and the pool is only accessibly 12pm- 8pm when the desk is manned. The gym is generally OK but the cardio equipment stopped working on our 3rd day and didn't get repaired during out stay. The pool is very busy with teenagers and young children and is in between buildings so not that great for sunbathing as at times there is no sun reaching the area. It seemed that the locals came to use the pool too. The other quire disappointing thing was that there is a restaurant but it was never open so no option for meals here, only a vending machine I'm the lobby.\nThe room was fine it was clean and had a fridge, hob and microwave and some utensils so we made our own food at times. \nThe good thing about the travelling from the hotel is you can get a travel card from the tram stop by the hospital and it covers the metro/buses and tram for however many days you want to book a ticket for, we did 4 days and travelled to Barcelona on multiple occasions. \nThere are beaches with stones and without the further you go from the city pass the harbour about 1mipe down the beach is a better beach with a life guard and less people trying to sell you stuff when your sunbathing.\nWe visited the wax museum which was great fun and enjoyed eating at makamaka and another restaurant a bit further down both reasonably priced and great food. \nOther than these challenges we had a lovely stay and made the best of it, I hope this information is useful for your holiday if you are visiting and any questions feel free to ask. \nHappy holidays 😊",
+      "title": "Lacking amenities but had a great holiday",
+      "trip_type": "Couples",
+      "travel_date": "2023-07-31",
+      "user": {
+        "username": "statham1",
+        "user_location": {
+          "id": "790318",
+          "name": "Charlbury, Cotswolds, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e8/5b/default-avatar-2020-61.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e8/5b/default-avatar-2020-61.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e8/5b/default-avatar-2020-61.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e8/5b/default-avatar-2020-61.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e8/5b/default-avatar-2020-61.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 919094006,
+        "title": "Owner response",
+        "text": "Dear Guest,\nThank you for your review. \nWe are really happy to know that you enjoyed your holidays.\nWe hope to see you again.\nBest Regards\n",
+        "lang": "en",
+        "author": "Marta  Casco",
+        "published_date": "2023-09-30T05:32:50Z"
+      }
+    },
+    {
+      "id": 900673716,
+      "lang": "en",
+      "location_id": 228592,
+      "published_date": "2023-07-05T14:36:04Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d228592-r900673716-Reviews-Apartamentos_Hesperia_Barcelona_Sant_Joan-Barcelona_Catalonia.html?m=66827#review900673716",
+      "text": "Travelers beware! \n\nWe staid here a few nights on family business. \n\nThe hotel is terrible. Dirty room, corridors, elevators… the check in process is done thru a machine, clumsy and difficult to manage. The street door is terribly hard to open, and the whole place is just terrible.\n\nPlan your trip somewhere else.",
+      "title": "Travelers beware!",
+      "trip_type": "Family",
+      "travel_date": "2023-06-30",
+      "user": {
+        "username": "BluePlanetNomad",
+        "user_location": {
+          "id": "187497",
+          "name": "Barcelona, Catalonia"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e4/ca/default-avatar-2020-51.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e4/ca/default-avatar-2020-51.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e4/ca/default-avatar-2020-51.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e4/ca/default-avatar-2020-51.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e4/ca/default-avatar-2020-51.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 906969722,
+        "title": "Owner response",
+        "text": "Dear Guest,\nThank you for your opinion in reference to our Apartments.\nAll the  team work hard every day to offer the best service. Let's try to find out what could have happened.\nWe hope to receive you again and give you a better experience.\nSincerely\n",
+        "lang": "en",
+        "author": "Marta  Casco",
+        "published_date": "2023-07-31T09:43:25Z"
+      }
+    }
+  ]
+}

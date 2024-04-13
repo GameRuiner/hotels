@@ -1,0 +1,299 @@
+{
+  "location_id": "291378",
+  "name": "Rhodes Bay Hotel & Spa",
+  "description": "The five-star Rhodes Bay Hotel & Spa (formerly knows as Amathus Beach Hotel) is the perfect place to enjoy an island escape. With forest to one side and the sparkling Aegean Sea and mountainous coastline to the other, accommodation is modern comfortable and spacious offering freshly renovated rooms and suites. Along with delicious dining options, fabulous outdoor spaces and a state of the art spa centre, it ticks all the right boxes. The hotel is open from April – end October each year.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g635614-d291378-Reviews-Rhodes_Bay_Hotel_Spa-Ialyssos_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street1": "100 Iraklidon Avenue",
+    "city": "Ialyssos",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "85101",
+    "address_string": "100 Iraklidon Avenue, Ialyssos 85101 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Ialyssos",
+      "location_id": "635614"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.420513",
+  "longitude": "28.188238",
+  "timezone": "Europe/Athens",
+  "phone": "011302241089900",
+  "write_review": "https://www.tripadvisor.com/UserReview-g635614-d291378-Rhodes_Bay_Hotel_Spa-Ialyssos_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "635614",
+    "ranking_string": "#4 of 43 hotels in Ialyssos",
+    "geo_location_name": "Ialyssos",
+    "ranking_out_of": "43",
+    "ranking": "4"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "3644",
+  "review_rating_count": {
+    "1": "81",
+    "2": "117",
+    "3": "331",
+    "4": "915",
+    "5": "2200"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "3155",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g635614-d291378-m66827-Reviews-Rhodes_Bay_Hotel_Spa-Ialyssos_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Beachfront",
+    "Room service",
+    "Free parking",
+    "Business center",
+    "Fitness center",
+    "Beach Access",
+    "Suites",
+    "Restaurant",
+    "Internet",
+    "Kids Activities",
+    "Free Internet",
+    "Spa",
+    "Wifi",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Rooftop Bar",
+    "Swimup Bar",
+    "Rooftop Pool",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Private Pools",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Additional Bathroom",
+    "Aerobics",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Bicycle Rental",
+    "Blackout Curtains",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Clothes Rack",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Couples Massage",
+    "Currency Exchange",
+    "Dutch",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Free Public Parking Nearby",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Greek",
+    "Hair Dryer",
+    "Hammam",
+    "Head Massage",
+    "Ironing Service",
+    "Italian",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Outdoor Furniture",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Salon",
+    "Seating Area",
+    "Shops",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Kids pool",
+    "Body Wrap",
+    "Cable / Satellite TV",
+    "Children's Playground",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Happy Hour",
+    "Highchairs Available",
+    "Manicure",
+    "Mountain View",
+    "Neck Massage",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Pool View",
+    "Private Bathrooms",
+    "Shallow End",
+    "Sofa",
+    "Sofa Bed",
+    "Sun Deck",
+    "Windsurfing"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Bay View",
+    "Mountain View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "47"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1672"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "83"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1097"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "339"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

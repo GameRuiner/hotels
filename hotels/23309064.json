@@ -1,0 +1,221 @@
+{
+  "location_id": "23309064",
+  "name": "Old Town Point Hotel & Spa Antalya",
+  "description": "Sahili bir gölge gibi izleyen tepelerin sudaki aksi, yolu buralara düşenleri bir çırpıda kendine aşık ediverir. Kral Attalos Antalya için ‘yeryüzündeki cennet’ ibaresini kullanırken, M. Kemal Atatürk ise “Hiç şüphesiz ki Antalya, dünyanın en güzel yeridir.” diyerek Antalya’nın önemini en güzel şekilde ifade etmişlerdir. Antalya’nın tarihi dokusu ile bütünleşmiş bir noktasında bulunan Old Town Point Hotel & Spa, içi ve dışı surlarla kaplı, eksi kent merkezi Kaleiçi, muhteşem manzarasıyla Antik Liman (Yat limanı), Hadrian Kapısı (Üç Kapılar), Yivli Minare Külliyesi, Antalya Müzesi gibi şehrin en tarihi ve turistik yerlerine yürüyüş mesafesinde bulunmaktadır. Ülkemizin en ünlü plajları olan Konyaaltı ve Lara Plajlarına kolay ulaşımıyla denizin ve güneşin tadını çıkarabilirsiniz. Modern tasarım, şık, ferah ve hijyenik koşullarda sizleri evinizde hissettiren Old Town Point Hotel, vintage ve modernitenin buluştuğu noktadadır.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g15300585-d23309064-Reviews-Old_Town_Point_Hotel_Spa_Antalya-Muratpasa_Antalya_Turkish_Mediterranean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "AltIndag Mah. Gulluk Cad. No:63",
+    "city": "Muratpasa",
+    "state": "Antalya Province",
+    "country": "Turkiye",
+    "postalcode": "07050",
+    "address_string": "AltIndag Mah. Gulluk Cad. No:63, Muratpasa, Antalya 07050 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Muratpasa",
+      "location_id": "15300585"
+    },
+    {
+      "level": "Municipality",
+      "name": "Antalya",
+      "location_id": "297962"
+    },
+    {
+      "level": "Province",
+      "name": "Antalya Province",
+      "location_id": "297960"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Mediterranean Coast",
+      "location_id": "658661"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "36.889935",
+  "longitude": "30.695229",
+  "timezone": "Europe/Istanbul",
+  "phone": "011905412416767",
+  "write_review": "https://www.tripadvisor.com/UserReview-g15300585-d23309064-Old_Town_Point_Hotel_Spa_Antalya-Muratpasa_Antalya_Turkish_Mediterranean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "15300585",
+    "ranking_string": "#8 of 59 hotels in Muratpasa",
+    "geo_location_name": "Muratpasa",
+    "ranking_out_of": "59",
+    "ranking": "8"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "156",
+  "review_rating_count": {
+    "1": "13",
+    "2": "5",
+    "3": "2",
+    "4": "11",
+    "5": "125"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "236",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g15300585-d23309064-m66827-Reviews-Old_Town_Point_Hotel_Spa_Antalya-Muratpasa_Antalya_Turkish_Mediterranean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Free parking",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Air conditioning",
+    "Breakfast Buffet",
+    "Breakfast Available",
+    "Housekeeping",
+    "Sauna",
+    "Coffee / Tea Maker",
+    "Desk",
+    "Outdoor Furniture",
+    "Street Parking",
+    "Suites",
+    "Free Internet",
+    "Restaurant",
+    "Wifi",
+    "Laundry Service",
+    "Family Rooms",
+    "Minibar",
+    "Non-smoking hotel",
+    "Flatscreen TV",
+    "Bath / Shower",
+    "Bicycle Rental",
+    "Bicycle Tours",
+    "Boating",
+    "Bottled Water",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "Express Check-in / Check-out",
+    "Clothes Rack",
+    "Currency Exchange",
+    "Diving",
+    "Electric Kettle",
+    "English",
+    "Executive Lounge Access",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hammam",
+    "Interconnected room(s) available",
+    "Massage",
+    "Newspaper",
+    "Paid Private Parking Nearby",
+    "Russian",
+    "Skiing",
+    "Sun Deck",
+    "Sun Loungers / Beach Chairs",
+    "Taxi Service",
+    "Telephone",
+    "Turkish",
+    "Wake Up Service / Alarm Clock",
+    "Walking Tours",
+    "Wardrobe / Closet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "City View",
+    "Quaint"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "16"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "42"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "8"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "52"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "27"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

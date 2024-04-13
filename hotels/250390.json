@@ -1,0 +1,200 @@
+{
+  "location_id": "250390",
+  "name": "Oriente Atiram Hotel",
+  "description": "Looking for a place to stay in Barcelona? Then look no further than Oriente Atiram, a hotel that brings the best of Barcelona to your doorstep. As your “home away from home,” the hotel rooms offer a flat screen TV, air conditioning, and a desk, and getting online is easy, with free wifi available. Guests have access to a 24 hour front desk, room service, and 24 hour check-in while staying at Oriente Atiram. While you’re here, be sure to check out some of the French restaurants, including Ginette, L'Escale Bistrot, and Patachou, all of which are a short distance from Oriente. During your visit, be sure to check out popular attractions like Casa Batllo (1.0 mi), Las Ramblas (0.1 mi), and Gothic Quarter (Barri Gotic) (0.2 mi), which are all within walking distance of the hotel. We’re sure you’ll enjoy your stay at Oriente Atiram as you experience everything Barcelona has to offer.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d250390-Reviews-Oriente_Atiram_Hotel-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Rambla dels Caputxins, 45",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08002",
+    "address_string": "Rambla dels Caputxins, 45, 08002 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.379875",
+  "longitude": "2.174258",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d250390-Oriente_Atiram_Hotel-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#334 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "334"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "2383",
+  "review_rating_count": {
+    "1": "129",
+    "2": "139",
+    "3": "390",
+    "4": "967",
+    "5": "758"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1001",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d250390-m66827-Reviews-Oriente_Atiram_Hotel-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Restaurant",
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Laundry Service",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Catalan",
+    "24-Hour Check-in",
+    "Desk",
+    "English",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Ironing Service",
+    "Italian",
+    "24-Hour Security",
+    "Spanish",
+    "Taxi Service",
+    "Telephone",
+    "Family Rooms",
+    "Express Check-in / Check-out",
+    "Paid Public Parking Nearby",
+    "Vending Machine",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Classic",
+    "Historic Hotel"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230964",
+      "name": "La Rambla"
+    },
+    {
+      "location_id": "15565874",
+      "name": "Ciutat Vella (Old Town)"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "74"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "940"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "75"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "648"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "438"
+    }
+  ],
+  "awards": []
+}

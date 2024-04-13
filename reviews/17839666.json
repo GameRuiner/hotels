@@ -1,0 +1,260 @@
+{
+  "data": [
+    {
+      "id": 945361856,
+      "lang": "en",
+      "location_id": 17839666,
+      "published_date": "2024-04-04T14:32:11Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d17839666-r945361856-Reviews-Delta_Hotels_Jumeirah_Beach_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review945361856",
+      "text": "Never disappoint you 🤩🤩🤩 one of the favorite hotels of mine. Very friendly staff and service is top notch. Great hospitality… enjoyed the time here and will be back again.. thank you Delta JBR !!! Very spacious room and had a incredible time with the friends 🥳🥳🥳",
+      "title": "Amazing 🤩 relax 😌",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "409kumart",
+        "user_location": {
+          "id": "294013",
+          "name": "Abu Dhabi, Emirate of Abu Dhabi"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/29/a9/c4/15/caption.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/29/a9/c4/15/caption.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/29/a9/c4/15/caption.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/29/a9/c4/15/caption.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/29/a9/c4/15/caption.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945646138,
+        "title": "Owner response",
+        "text": "Dear Kumar T,\n\nThank you for your wonderful review! We're thrilled you had an amazing and relaxing stay with us at Delta JBR. It's fantastic to hear you enjoyed the friendly staff, top-notch service, and spacious rooms. We can't wait to welcome you back soon for another memorable experience!\n\nWarm regards,\nHussien Emara \nFront Office Manager",
+        "lang": "en",
+        "author": "hussien emara",
+        "published_date": "2024-04-07T00:38:05Z"
+      }
+    },
+    {
+      "id": 944470178,
+      "lang": "en",
+      "location_id": 17839666,
+      "published_date": "2024-03-30T03:03:22Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d17839666-r944470178-Reviews-Delta_Hotels_Jumeirah_Beach_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review944470178",
+      "text": "Excellent stay at the Delta. Firstly the staff were so friendly, helpful and they couldn't do enough to ensure you had a fantastic stay.\nThe room was spacious and we were delighted when our request for a balcony room was met, this made our holiday extra special.\nThe food at the hotel was lovely and the restaurant staff were brilliant. Stefany was so kind always finding us a nice table. The views from the roof terrace are lovely.\nIt was sometimes busy but the staff worked so hard to ensure that you had everything you needed. On our last day we even had a happy journey cake which was a lovely gesture.\nThe location of the hotel was perfect for us. Located between the beach and the marina and only a 5 minute walk from both. The hotel provides towels and umbrellas for your visit to the beach. You can also pay for sunbeds on the beach from a private company and there is a massive inflatable aqua park in the sea which my son enjoyed.\nI will definitely stay at the Delta again on any future trips to Dubai.",
+      "title": "Excellent stay at the Delta",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "D1540NVkarlah",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f3/23/default-avatar-2020-28.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f3/23/default-avatar-2020-28.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f3/23/default-avatar-2020-28.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f3/23/default-avatar-2020-28.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f3/23/default-avatar-2020-28.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944678834,
+        "title": "Owner response",
+        "text": "\nDear D1540NVkarlah,\n\nThank you for your glowing review! We're thrilled you had an excellent stay at our amazing hotel. It's fantastic to hear you enjoyed our friendly staff, spacious room with a balcony, delicious food, and convenient location. We're glad your son had fun at the aqua park too! We can't wait to welcome you back on your future trips to Dubai.\n\nBest regards,\nHussien Emara\nFront Office Manager",
+        "lang": "en",
+        "author": "hussien emara",
+        "published_date": "2024-03-31T13:53:53Z"
+      }
+    },
+    {
+      "id": 943597918,
+      "lang": "en",
+      "location_id": 17839666,
+      "published_date": "2024-03-24T06:33:39Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d17839666-r943597918-Reviews-Delta_Hotels_Jumeirah_Beach_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review943597918",
+      "text": "The best hotel ever we enjoyed every bit of it and the view is amazing.Iftar did an amazing job in cleaning our room.Thank so much Delta.the cleaning is topnotch ..made our stay lovely every single day.whenever will be in Dubai will always lounge here",
+      "title": "Amazing loved every bit of it",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Y4002RWestherk",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e7/99/default-avatar-2020-57.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e7/99/default-avatar-2020-57.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e7/99/default-avatar-2020-57.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e7/99/default-avatar-2020-57.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/99/default-avatar-2020-57.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 943704290,
+        "title": "Owner response",
+        "text": "Dear Y4002RWestherk,\n\nThank you so much for taking the time to share your wonderful feedback with us! We are thrilled to hear that you had such an amazing experience during your stay at our hotel.\n\nIt's fantastic to know that you enjoyed every bit of your time with us, and we're delighted that you found our view to be amazing. We will definitely pass on your kind words to Iftar for doing such an amazing job in keeping your room clean throughout your stay.\n\nAt Delta, we strive to provide top-notch service to all our guests, and we are delighted to hear that our efforts made your stay lovely every single day. Your appreciation means the world to us!\n\nWe look forward to welcoming you back whenever your travels bring you to Dubai. Until then, safe travels!\n\nWarm regards,\nHussien Emara\nFront Office Manager",
+        "lang": "en",
+        "author": "hussien emara",
+        "published_date": "2024-03-25T00:35:02Z"
+      }
+    },
+    {
+      "id": 942995412,
+      "lang": "en",
+      "location_id": 17839666,
+      "published_date": "2024-03-20T06:53:32Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d17839666-r942995412-Reviews-Delta_Hotels_Jumeirah_Beach_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review942995412",
+      "text": "We had a pleasant stay at Delta Hotel. The hotel's location is great, just a 5-minute walk from JBR beach to plenty of restaurants and shops. There was a tasty range of different varieties for breakfast. Thank you to Chef Vaishaark, who would always check up on my grandmother to see if she had gotten her Indian breakfast, which was kindly made, as she is a pure vegetarian. All the staff at Delta Hotel are excellent and accommodating—a special shoutout to Umang and Payiush, who are helpful and friendly to us every morning. Our housekeeper, Joane, was very polite and made our stay more comfortable. \nDelta Hotel made our stay feel special, and I recommend this hotel for your stay in Dubai.",
+      "title": "Great Staff and Wonderful Stay",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "08bhav",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/3d/default-avatar-2020-55.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 943225226,
+        "title": "Owner response",
+        "text": "Dear 08bhav,\n\nThank you very much for taking the time to share your experience at Delta Hotel. We're delighted to hear that you had a wonderful stay with us and that our staff made your visit special.\n\nWe're thrilled to know that you enjoyed our convenient location near JBR beach and appreciated the diverse breakfast options available. It's heartwarming to hear about Chef Vaishaark's attentive service, especially towards your grandmother's dietary preferences. Providing personalized experiences is something we take great pride in, and it's fantastic to hear that our team went above and beyond to ensure your satisfaction.\n\nWe will be sure to pass along your kind words to Chef Vaishaark, Umang, Payiush, Joane, and the rest of our team. Your recognition means the world to us and serves as motivation to continue delivering exceptional service to all our guests.\n\nThank you once again for choosing Delta Hotel for your stay in Dubai. We look forward to welcoming you back for another memorable experience in the near future.\n\nWarm regards,\nHussien Emara\nFront Office Manager",
+        "lang": "en",
+        "author": "hussien emara",
+        "published_date": "2024-03-21T01:28:14Z"
+      }
+    },
+    {
+      "id": 941866145,
+      "lang": "en",
+      "location_id": 17839666,
+      "published_date": "2024-03-12T04:29:23Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d17839666-r941866145-Reviews-Delta_Hotels_Jumeirah_Beach_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review941866145",
+      "text": "Joan is very beautiful woman ❤️ Every day she did an excellent job cleaning our room. very friendly and sweet girl. She was very attentive to us and did a good job of cleaning. in the bathroom, the room was clean when we arrived from the beach. bed linen was changed almost every day. She wiped away the dust efficiently. She left fresh water every day.",
+      "title": "excellent cleaning",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "814alanat",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/11/default-avatar-2020-41.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 941890960,
+        "title": "Owner response",
+        "text": "Dear 814alanat,\n\nThank you for sharing your feedback with us. We're thrilled to hear that Joan provided you with excellent cleaning service during your stay. Your kind words about her friendliness and attention to detail are truly appreciated. We're glad that you found your room clean and well-maintained, with fresh linens and amenities daily.\n\nWe'll be sure to pass along your compliments to Joan, and we look forward to welcoming you back for another enjoyable stay in the future.\n\nWarm regards,\nHussien Emara\nFront Office Manager",
+        "lang": "en",
+        "author": "hussien emara",
+        "published_date": "2024-03-12T08:02:23Z"
+      }
+    }
+  ]
+}

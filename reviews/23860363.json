@@ -1,0 +1,181 @@
+{
+  "data": [
+    {
+      "id": 945599945,
+      "lang": "en",
+      "location_id": 23860363,
+      "published_date": "2024-04-06T14:23:28Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23860363-r945599945-Reviews-Ramee_Dream_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945599945",
+      "text": "Amazing dinning experience in Mamma Maria and I highly recommend visiting this place for traditional Italian cuisine . Try salmon Tartar and their signature pasta 🍝 . Thank you for kind and attentive staff 😊😊😊😊😊😊😊😊😊😊😊😊😊😊",
+      "title": "Amazing Italian restaurant",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "Sunshine65777538396",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ec/3d/default-avatar-2020-1.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ec/3d/default-avatar-2020-1.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ec/3d/default-avatar-2020-1.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ec/3d/default-avatar-2020-1.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ec/3d/default-avatar-2020-1.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 944660977,
+      "lang": "en",
+      "location_id": 23860363,
+      "published_date": "2024-03-31T11:49:56Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23860363-r944660977-Reviews-Ramee_Dream_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review944660977",
+      "text": "Planed to have Iftar at this hotel , when we reached there they said it’s a buffet and than was surprised that is à la carte . No choice with poor menu with only Indian cuisine , my wife asked for Cesar salad and she received  water melon one , waiters was confused and with very low level of product knowledge and communication , very annoying also . \nMy car unfortunately in the parking had and issue and coudin’t start it , went to reception and asked a lady at the guest relation desk on Iftar time  if she can ask hotel maintenance team to help me out and she simply said we don’t have anyone check outside , by myself was asking the valet parking and they guided me to a gentleman in basement 4 who tried to help me and I want to thank him at least for his effort .\n \nWent up to the restaurant again and asked for bill and I paid by card. While exiting the restaurant my self and my wife , waiter was shouting ( wait .. wait .. wait .. ). Very rudely  , and it’s like we are arrested there , the gentleman didn’t change the paper roll In his POS machine and the slip was not printed properly which is obviously his mistake while I showed them the transaction deducted already from my account , than a supervisor tried to apologize after having this mess . \n\nWent down to parking after calling pick up car assistance and valet parking was not helpful , straight he was asking me about a Mercedes car parked there long time ago which I don’t know at all and I’m not concerned ( he was thinking that it belong to me ) which really very annoying  , he made us waiting and was shooting even saying bad words just because he want priorities other guest cars to exit the parking . \n\nTo the higher management, your hotel is catastrophic, your services are the lowest , your team are bellow the minimum levels . \n\nIt’s beautiful hotel in the heart of Dubai and you are going to affect the nice image of services and hospitality  that we all know in the country .",
+      "title": "Catastrophic staff and service",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "585khanm",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e8/5b/default-avatar-2020-61.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e8/5b/default-avatar-2020-61.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e8/5b/default-avatar-2020-61.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e8/5b/default-avatar-2020-61.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e8/5b/default-avatar-2020-61.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 943802509,
+      "lang": "en",
+      "location_id": 23860363,
+      "published_date": "2024-03-25T15:42:18Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23860363-r943802509-Reviews-Ramee_Dream_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review943802509",
+      "text": "I have been in a Funny Cat Sport Bar and it is really a great place to go and enjoy time with friends, especially if you want to see a footbal match. The food and drinks are really nice. Atmosphere and music was one of the best and of course a very lovely staff! Highly recommend this place 👍",
+      "title": "Wonderful sport bar",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "oksanasN9877PI",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f6/0d/default-avatar-2020-34.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 943355792,
+      "lang": "en",
+      "location_id": 23860363,
+      "published_date": "2024-03-22T05:47:38Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23860363-r943355792-Reviews-Ramee_Dream_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review943355792",
+      "text": "I have met the hotel, wow, so nice hotel. Including that it has an amazing and fully equipped ZOLOTO gym, they also offer a great personal, it was amazing to be in Dubai and have this facility. I'd like to come back more, what amazing time. Great hotel.",
+      "title": "The nice hotel with a really nice GYM",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "andrezar953",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/81/default-avatar-2020-43.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 942417072,
+      "lang": "en",
+      "location_id": 23860363,
+      "published_date": "2024-03-15T13:31:29Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23860363-r942417072-Reviews-Ramee_Dream_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review942417072",
+      "text": "I love this hotel and how many food restaurants ,bars and clubs it has. My personal favourite is “Mamma Mia” restaurant and “Cavo” night club and restaurant. A high recommend to visit your friends to enjoy your night! It has an amazing location in business bay with a delightful Burj Khalifa view.",
+      "title": "A high recommend to visit with your friends for a fun night",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "marianakG8693ED",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/7c/01/default-avatar-2020-5.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "location_id": "23239676",
+  "name": "Villa Sunset AlacatI",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d23239676-Reviews-Villa_Sunset_AlacatI-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "AlacatI mahallesi 16131 sokak No:6/1 Cesme",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35000",
+    "address_string": "AlacatI mahallesi 16131 sokak No:6/1 Cesme, Izmir 35000 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.28872",
+  "longitude": "26.377834",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d23239676-Villa_Sunset_AlacatI-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#13 of 194 Specialty lodging in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "194",
+    "ranking": "13"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "5",
+  "review_rating_count": {
+    "1": "0",
+    "2": "0",
+    "3": "0",
+    "4": "0",
+    "5": "5"
+  },
+  "subratings": {},
+  "photo_count": "37",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d23239676-m66827-Reviews-Villa_Sunset_AlacatI-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "amenities": [],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "0"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "2"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "0"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "2"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "1"
+    }
+  ],
+  "awards": []
+}

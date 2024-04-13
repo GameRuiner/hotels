@@ -1,0 +1,366 @@
+{
+  "location_id": "301570",
+  "name": "Le Meridien Mina Seyahi Beach Resort & Waterpark",
+  "description": "Boasting a 1,200 m sandy beach, Le Meridien Mina Seyahi Beach Resort & Waterpark is located in Dubai Marina. This 5-star luxury resort has several swimming pools situated amidst lush gardens, 5 dining and entertainment venues, and Jungle Bay Waterpark. Featuring a classic chic décor, Le Meridien rooms are air-conditioned. Each room offers free WiFi, a flat-screen TV and a safety deposit box. They all offer panoramic views of the Arabian Gulf or Dubai's skyline. All our sea-facing rooms have recently been sound-proofed in order to ensure our guests have a relaxing stay. Leisure facilities at the Mina Seyahi include a water sports centre and Club Mina fitness centre. Younger guests can enjoy Le Meridien Family Club which offers activities programme, beach games as well as 2 separate and shaded kids' pools. Guests can enjoy a wide range of international classic and hearty dishes at the Latest Recipe. Horizon offers casual snacks and cocktails by the pool. Gourmet by Kcal offers a variety of healthy dishes in an entirely gluten-free kitchen. For more upbeat evening, Barasti Bar offers live entertainment. Le Meridien Mina Seyahi Beach Resort and Waterpark is a 10-minute drive from Emirates Golf Course. Mall of The Emirates is 8 km from the resort and Dubai International Airport is 31 km away. Mina Seyahi is a great choice for travellers interested in beaches, relaxation and food.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d301570-Reviews-Le_Meridien_Mina_Seyahi_Beach_Resort_Waterpark-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Dubai Marina",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Dubai Marina, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.091726",
+  "longitude": "55.1472",
+  "timezone": "Asia/Dubai",
+  "phone": "18446310595",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d301570-Le_Meridien_Mina_Seyahi_Beach_Resort_Waterpark-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#186 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "186"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "4949",
+  "review_rating_count": {
+    "1": "116",
+    "2": "99",
+    "3": "260",
+    "4": "827",
+    "5": "3647"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "4037",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d301570-m66827-Reviews-Le_Meridien_Mina_Seyahi_Beach_Resort_Waterpark-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Free parking",
+    "Beachfront",
+    "Room service",
+    "Restaurant",
+    "Kids Activities",
+    "Wheelchair access",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Hot Tub",
+    "Tennis Court",
+    "Concierge",
+    "Babysitting",
+    "Pool",
+    "Suites",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Public Wifi",
+    "Paid Internet",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Butler Service",
+    "Infinity Pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Allergy-free Room",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Couples Massage",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Entertainment Staff",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "24-Hour Front Desk",
+    "Gift Shop",
+    "Hindi",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Nightclub / DJ",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Wake Up Service / Alarm Clock",
+    "Breakfast Available",
+    "Beach Access"
+  ],
+  "parent_brand": "Marriott",
+  "brand": "Le Méridien",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Family Resort",
+    "Harbor View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620603",
+      "name": "Al Sufouh"
+    },
+    {
+      "location_id": "7282432",
+      "name": "The Marina"
+    },
+    {
+      "location_id": "15620605",
+      "name": "Al Sufouh 2"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "363"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1352"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "168"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1952"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "469"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice Best of the Best",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png"
+      },
+      "categories": [
+        "Family"
+      ],
+      "display_name": "Travelers Choice Best of the Best"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

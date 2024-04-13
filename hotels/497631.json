@@ -1,0 +1,226 @@
+{
+  "location_id": "497631",
+  "name": "Golden Tulip Deira",
+  "description": "Centrally located in downtown Dubai, Golden Tulip Hotel in Deira offers deluxe accommodations with roof-top pool and Jacuzzi. It also features a well-equipped gym with sauna. Decorated with European-style furnishings and fabrics. There is a spacious sitting area with cable TV channels and private bathroom with bathtub. Guests can choose among different dining outlets: Gabbar Restaurant focuses on diverse international specialties. The on-site Dublin Arms Bistro Lounge, Night Clubs offers Lagers and Spirits until late in the evenings. The popular Gold Souk is a 10-minute drive from the hotel Golden Tulip Deira. The Dubai Creek 5 mins While Dubai Marina is 30 mins from the Hotel. The Al Rigga Metro Station is walk able distance from the Hotel, and Dubai International Airports are also close by .",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d497631-Reviews-Golden_Tulip_Deira-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "40C Street",
+    "street2": "Near Deira Clock Tower Roundabout",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "33214",
+    "address_string": "40C Street Near Deira Clock Tower Roundabout, Dubai 33214 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.259731",
+  "longitude": "55.326015",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d497631-Golden_Tulip_Deira-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#462 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "462"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "490",
+  "review_rating_count": {
+    "1": "44",
+    "2": "57",
+    "3": "118",
+    "4": "195",
+    "5": "149"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "256",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d497631-m66827-Reviews-Golden_Tulip_Deira-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Fitness center",
+    "Bar/Lounge",
+    "Suites",
+    "Airport transportation",
+    "Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Minibar",
+    "Conference Facilities",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Room service",
+    "Free Internet",
+    "Restaurant",
+    "Spa",
+    "Free Wifi",
+    "Hot Tub",
+    "Business center",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Safe",
+    "Rooftop Bar",
+    "Breakfast Available",
+    "Housekeeping",
+    "Sauna",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bottled Water",
+    "Cable / Satellite TV",
+    "Express Check-in / Check-out",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Currency Exchange",
+    "Electric Kettle",
+    "English",
+    "Facial Treatments",
+    "Filipino",
+    "Foot Massage",
+    "Complimentary Toiletries",
+    "Complimentary Welcome Drink",
+    "Free Wifi in the Business Center",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Hair Dryer",
+    "Happy Hour",
+    "Head Massage",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Iron",
+    "Landmark View",
+    "Laptop Safe",
+    "Makeup Services",
+    "Massage",
+    "Neck Massage",
+    "Newspaper",
+    "Nightclub / DJ",
+    "Paid Private Parking On-site",
+    "Paid Private Parking Nearby",
+    "Salon",
+    "24-Hour Security",
+    "Sinhala",
+    "Steam Room",
+    "Telephone",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Waxing Services",
+    "Whirlpool Bathtub"
+  ],
+  "parent_brand": "Louvre Hotels Group",
+  "brand": "Golden Tulip",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Classic",
+    "Centrally Located"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620596",
+      "name": "Al Rigga"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "106"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "154"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "93"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "108"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "66"
+    }
+  ],
+  "awards": []
+}

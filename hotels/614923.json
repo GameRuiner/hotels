@@ -1,0 +1,225 @@
+{
+  "location_id": "614923",
+  "name": "Arabian Park Dubai, An Edge by Rotana Hotel",
+  "description": "Arabian Park Dubai is an Edge by Rotana managed property, conveniently located in the vibrant Al Jaddaf district, a fast-growing premier business and lifestyle community just 10 minutes from Dubai International Airport and key commercial hubs including Dubai International Financial Centre and Dubai World Trade Centre. Ideal for business or leisure guests, the modern, three-star hotel is adjacent to the five-star Al Jaddaf Rotana Dubai and close to the upscale Culture Village, as well as major malls and attractions including Dubai Festival City, Dubai Frame and Dubai Mall. Benefitting from a recent refurbishment, the 328 guestrooms are modern, bright and offer space to work or rest in comfort, with large windows maximising natural daylight and pool or city views providing a stunning outlook on dynamic Dubai. Stylishly designed with contemporary furnishings and featuring the latest in-room technology, rooms meet the needs of today’s on-the-go traveller. Guest dining needs are covered around the clock with four diverse venues including a 24-hour lobby lounge café, APD Deli, with a takeaway service available. Enjoy international flavours for breakfast, lunch and dinner at all-day dining restaurant, Gardenia, tasty bar bites, mocktails and cocktails at Cheers Pub, or sip a drink in the sun, or shade, at The Blue Lounge Bar. For small group gatherings and business engagements the hotel’s two meeting rooms offer flexible set-ups and the latest audio-visual technology. When it’s time to switch off, a fully equipped gym with cardio and resistance-training equipment, and an outdoor temperature-controlled swimming pool are available.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d614923-Reviews-Arabian_Park_Dubai_An_Edge_by_Rotana_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Jaddaf Street",
+    "street2": "Behind Latifa Hospital",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Al Jaddaf Street Behind Latifa Hospital, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.2217",
+  "longitude": "55.32908",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d614923-Arabian_Park_Dubai_An_Edge_by_Rotana_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#297 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "297"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "263",
+  "review_rating_count": {
+    "1": "11",
+    "2": "5",
+    "3": "8",
+    "4": "32",
+    "5": "207"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "254",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d614923-m66827-Reviews-Arabian_Park_Dubai_An_Edge_by_Rotana_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Free parking",
+    "Internet",
+    "Shuttle Bus Service",
+    "Free Internet",
+    "Free Wifi",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Conference Facilities",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Doorperson",
+    "English",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "24-Hour Security",
+    "Telephone",
+    "Billiards",
+    "Blackout Curtains",
+    "Currency Exchange",
+    "Filipino",
+    "French",
+    "Hair Dryer",
+    "Happy Hour",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Pool View",
+    "Russian",
+    "Seating Area",
+    "Snack Bar",
+    "Sofa",
+    "Table Tennis",
+    "Tamil",
+    "Walk-in Shower",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "parent_brand": "Rotana Hotel Management Corporation Ltd.",
+  "brand": "Rotana",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Family",
+    "Quiet"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    },
+    {
+      "location_id": "15620557",
+      "name": "Al Jaddaf"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "24"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "45"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "33"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "51"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "48"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

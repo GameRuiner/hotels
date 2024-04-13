@@ -1,0 +1,196 @@
+{
+  "location_id": "2532220",
+  "name": "Icon Hotel Apartments",
+  "description": "Looking for a place to stay in Dubai? Then look no further than Icon Hotel Apartments, a budget friendly hotel that brings the best of Dubai to your doorstep.\nRooms at Icon Hotel Apartments provide air conditioning, a minibar, and a refrigerator, and guests can stay connected with free wifi.\nIn addition, while staying at Icon Hotel Apartments guests have access to a 24 hour front desk, room service, and a concierge. You can also enjoy a pool. Need a place to park? Free parking is available at Icon Hotel Apartments.\nWhile staying at Icon Hotel Apartments, visitors can check out Bur Dubai Abra Dock (1.0 mi) and Sheikh Mohammed Centre for Cultural Understanding (1.2 mi), some of Dubai's top attractions.\nWhile visiting Dubai, you may want to try some shrimp at one of the nearby restaurants, such as The Cheesecake Factory, Al Dawaar, or Fish Hut Local Seafood Restaurant.\nPlus, during your trip, don’t forget to check out some of the popular architectural buildings, such as Burj Khalifa, Pier 7, and Burj Khalifa - At The Top.\nWe’re sure you’ll enjoy your stay at Icon Hotel Apartments as you experience everything Dubai has to offer.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d2532220-Reviews-Icon_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Muteena St",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "34047",
+    "address_string": "Al Muteena St, Dubai 34047 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.272858",
+  "longitude": "55.317177",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d2532220-Icon_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#677 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "677"
+  },
+  "rating": "3.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.0-66827-5.svg",
+  "num_reviews": "66",
+  "review_rating_count": {
+    "1": "13",
+    "2": "10",
+    "3": "14",
+    "4": "21",
+    "5": "8"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    }
+  },
+  "photo_count": "33",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d2532220-m66827-Reviews-Icon_Hotel_Apartments-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Kitchenette",
+    "Air conditioning",
+    "Pool",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Family Rooms",
+    "Self-Serve Laundry",
+    "Refrigerator in room",
+    "Minibar",
+    "Non-smoking hotel",
+    "Safe",
+    "Kids pool",
+    "Outdoor pool",
+    "Parking",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Arabic",
+    "ATM On Site",
+    "Bath / Shower",
+    "Express Check-in / Check-out",
+    "Clothes Rack",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Currency Exchange",
+    "English",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Iron",
+    "Ironing Service",
+    "Massage Chair",
+    "Parking Garage",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shared Lounge / TV Area",
+    "Shoeshine",
+    "Telephone",
+    "Urdu",
+    "Washing Machine"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Budget"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620571",
+      "name": "Al Muteena"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "11"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "15"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "5"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "22"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "9"
+    }
+  ],
+  "awards": []
+}

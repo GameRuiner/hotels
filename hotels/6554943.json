@@ -1,0 +1,153 @@
+{
+  "location_id": "6554943",
+  "name": "Alya Pansiyon",
+  "description": "Finding an ideal charming inn in Izmir does not have to be difficult. Welcome to Alya Pansiyon, a nice option for travelers like you.\nAlya Pansiyon offers guests an array of room amenities including a kitchenette, and getting online is possible, as free wifi is available.\nThe inn offers room service, to make your visit even more pleasant. The property also features a lounge. Guests arriving by vehicle have access to free parking.\nIf you are looking for a nearby place to eat, Alya Pansiyon is within walking distance of Uzum Cafe & Restaurant (0.1 mi), a popular restaurant in the area.\nDuring your visit, be sure to check out a popular ancient ruins like Trajan Fountain, which is a short distance from the inn.\nAlya Pansiyon puts the best of Izmir at your fingertips, making your stay both relaxing and enjoyable.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d6554943-Reviews-Alya_Pansiyon-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Sirince Mah 203 Sok, No23",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35925",
+    "address_string": "Sirince Mah 203 Sok, No23, Izmir 35925 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "37.943237",
+  "longitude": "27.432173",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d6554943-Alya_Pansiyon-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#13 of 136 B&Bs / Inns in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "136",
+    "ranking": "13"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "27",
+  "review_rating_count": {
+    "1": "1",
+    "2": "0",
+    "3": "0",
+    "4": "5",
+    "5": "21"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "28",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d6554943-m66827-Reviews-Alya_Pansiyon-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "amenities": [
+    "Internet",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Restaurant",
+    "Bar/Lounge",
+    "Pets Allowed",
+    "Kitchenette",
+    "Wifi",
+    "Free Wifi",
+    "Business center"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "bb",
+      "localized_name": "Bed and Breakfast"
+    }
+  ],
+  "styles": [
+    "Mid-range",
+    "Charming"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "0"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "15"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "1"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "3"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "6"
+    }
+  ],
+  "awards": []
+}

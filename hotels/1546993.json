@@ -1,0 +1,243 @@
+{
+  "location_id": "1546993",
+  "name": "Citymax Hotel Al Barsha at the Mall",
+  "description": "Jump right into all the city has to offer when you stay with Citymax Hotel Al Barsha at the Mall, located in the heart of Al Barsha community. Care for a skiing vacation in the desert? How about shopping for gold or catching a movie in IMAX? When you’re staying at Citymax, it’s all just a few moments away. Focusing on both the business traveller and the wandering nomad, Citymax makes sure your stay is just perfect. With several options such as the Huddle Sports Bar & Grill for a pint, Maxx Music Bar for a live performance, our all-day dining restaurant City Café, 24-hour Lavazza coffee shop and the Aqua Pool Bar. Each and every one of its 376 guest rooms provide contemporary comforts such as free WiFi and much more. Citymax also offers a neat and nifty rooftop pool and a sophisticated gym. Whether you’re in town for leisure or work, Citymax has everything you need for a fun and cost-effective stay.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1546993-Reviews-Citymax_Hotel_Al_Barsha_at_the_Mall-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Barsha 1",
+    "street2": "Behind Mall of Emirates",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "337-1500",
+    "address_string": "Al Barsha 1 Behind Mall of Emirates, Dubai 337-1500 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.115665",
+  "longitude": "55.203842",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1546993-Citymax_Hotel_Al_Barsha_at_the_Mall-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#325 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "325"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "3381",
+  "review_rating_count": {
+    "1": "119",
+    "2": "104",
+    "3": "318",
+    "4": "968",
+    "5": "1872"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1281",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1546993-m66827-Reviews-Citymax_Hotel_Al_Barsha_at_the_Mall-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Free parking",
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Shuttle Bus Service",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Billiards",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Express Check-in / Check-out",
+    "Clothes Rack",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Desk",
+    "English",
+    "Evening Entertainment",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Newspaper",
+    "Nightclub / DJ",
+    "Parking Garage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Paid Public Parking Nearby",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shoeshine",
+    "Snack Bar",
+    "Special Diet Menus",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Cable / Satellite TV",
+    "Happy Hour",
+    "Highchairs Available",
+    "Private Bathrooms",
+    "Tile / Marble Floor",
+    "Vending Machine",
+    "Wardrobe / Closet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Residential Neighborhood",
+    "Classic"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620543",
+      "name": "Al Barsha"
+    },
+    {
+      "location_id": "15620544",
+      "name": "Al Barsha 1"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "707"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "765"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "351"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "459"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "481"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

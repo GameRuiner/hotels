@@ -1,0 +1,207 @@
+{
+  "location_id": "623280",
+  "name": "Regency Plaza Aqua Park & Spa Resort",
+  "description": "Perfectly located in the heart of the Sinai Peninsula, a step into a whole new world of the most exquisite rare combination of Kite surfing fun activities , turquoise blue water, crimson mountains and desert landscapes of inspiring beauty, considered one of the best water spots and Kite surfing spots worldwide. Regency Plaza Resort, a superb Local 5 star deluxe hotel majestically and directly located on the beautiful, coral beach of Nabq Bay. the hotel is built on an area covering over 167.000 SQM. Regency Plaza Resort is located within 10 minutes from Sharm El-Sheikh international airport and 25 minutes from the famous Neama Bay city centerRegency is running a 24 hours all inclusive system with free access to a la carte restaurant ; with a Aqua Fun area fully equipped with five adult Aqua Slides with Heated Swimming pool during winter and Kids Aqua heated aqua zone equipped with different mini aqua slides for kids.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d623280-Reviews-Regency_Plaza_Aqua_Park_Spa_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Peace Road",
+    "street2": "On The Beach Of Nabq Bay",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "postalcode": "46619",
+    "address_string": "Peace Road On The Beach Of Nabq Bay, Sharm El Sheikh 46619 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "28.05471",
+  "longitude": "34.43562",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d623280-Regency_Plaza_Aqua_Park_Spa_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#104 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "104"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "4413",
+  "review_rating_count": {
+    "1": "301",
+    "2": "294",
+    "3": "538",
+    "4": "1017",
+    "5": "2264"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "5255",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d623280-m66827-Reviews-Regency_Plaza_Aqua_Park_Spa_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Fitness center",
+    "Internet",
+    "Beachfront",
+    "Restaurant",
+    "Bar/Lounge",
+    "Beach Access",
+    "Suites",
+    "Room service",
+    "Family Rooms",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Free parking",
+    "Spa",
+    "Public Wifi",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Wheelchair access",
+    "Airport transportation",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Tennis Court",
+    "Banquet Room",
+    "Multilingual Staff",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Swimup Bar",
+    "Water Park",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Free airport transportation",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Arabic",
+    "Baggage Storage",
+    "Car Hire",
+    "Currency Exchange",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "24-Hour Front Desk",
+    "Gift Shop",
+    "Hammam",
+    "Ironing Service",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Nightclub / DJ",
+    "Russian",
+    "Salon",
+    "Shops",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Paid Internet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Family",
+    "Great View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "23"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1121"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "160"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1792"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "920"
+    }
+  ],
+  "awards": []
+}

@@ -1,0 +1,165 @@
+{
+  "location_id": "7255283",
+  "name": "Al Sarab Hotel",
+  "description": "Finding an ideal small hotel in Dubai does not have to be difficult. Welcome to Al Sarab Hotel, a nice option for travelers like you.\nRooms at Al Sarab Hotel provide air conditioning, and guests can stay connected with free wifi.\nIn addition, while staying at Al Sarab Hotel guests have access to a concierge. You can also enjoy a pool and a lounge.\nNearby landmarks such as Bur Dubai Abra Dock (1.3 mi) and Deira Old Souk Abra Station (1.6 mi) make Al Sarab Hotel a great place to stay when visiting Dubai.\nWhen you’re feeling hungry, be sure to check out The Cheesecake Factory, EST! by Signor Pomidor, and The Boardwalk, which are some Italian restaurants that are popular with locals and out-of-towners alike.\nDuring your visit, be sure to check out popular attractions like Dream Journey (0.8 mi) and Museum of Illusions (1.1 mi), which are all within walking distance of the small hotel.\nAl Sarab Hotel puts the best of Dubai at your fingertips, making your stay both relaxing and enjoyable.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d7255283-Reviews-Al_Sarab_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Riggat Al-Buteen",
+    "street2": "Near Taj Palce Hotel",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "113330",
+    "address_string": "Riggat Al-Buteen Near Taj Palce Hotel, Dubai 113330 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.26272",
+  "longitude": "55.322334",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d7255283-Al_Sarab_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#9 of 140 B&Bs / Inns in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "140",
+    "ranking": "9"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "95",
+  "review_rating_count": {
+    "1": "11",
+    "2": "9",
+    "3": "22",
+    "4": "26",
+    "5": "27"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "97",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d7255283-m66827-Reviews-Al_Sarab_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Restaurant",
+    "Bar/Lounge",
+    "Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Air conditioning",
+    "Flatscreen TV",
+    "Spa",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Concierge",
+    "Non-smoking hotel",
+    "Breakfast Buffet",
+    "Salon"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "bb",
+      "localized_name": "Bed and Breakfast"
+    }
+  ],
+  "styles": [
+    "Trendy",
+    "Mid-range"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620596",
+      "name": "Al Rigga"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "21"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "34"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "12"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "13"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "8"
+    }
+  ],
+  "awards": []
+}

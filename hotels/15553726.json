@@ -1,0 +1,264 @@
+{
+  "location_id": "15553726",
+  "name": "Premier Inn Dubai Al Jaddaf",
+  "description": "Experience Dubai’s culture, both old and new, from your base at Premier Inn Al Jaddaf. Explore Dubai Creek, embracing the sights and sounds of Festival City and WAFI Mall. Or hop on the Metro for a speedy trip to Dubai International Financial Centre, Dubai Mall and the Burj Khalifa. Located within Al Jaddaf Culture Village, you can zip along on the free shuttle bus service to Dubai Festival City Mall for more restaurants, shops and sights along the Dubai Creek.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d15553726-Reviews-Premier_Inn_Dubai_Al_Jaddaf-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Culture Village",
+    "street2": "Al Jaddaf",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "35118",
+    "address_string": "Culture Village Al Jaddaf, Dubai 35118 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.225069",
+  "longitude": "55.337852",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d15553726-Premier_Inn_Dubai_Al_Jaddaf-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#171 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "171"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1771",
+  "review_rating_count": {
+    "1": "23",
+    "2": "15",
+    "3": "36",
+    "4": "257",
+    "5": "1441"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "578",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d15553726-m66827-Reviews-Premier_Inn_Dubai_Al_Jaddaf-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Conference Facilities",
+    "Safe",
+    "Rooftop Pool",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Billiards",
+    "Blackout Curtains",
+    "Bottled Water",
+    "24-Hour Check-in",
+    "Clothes Rack",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Darts",
+    "Desk",
+    "English",
+    "Extra Long Beds",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "French",
+    "24-Hour Front Desk",
+    "German",
+    "Hair Dryer",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Kids' Meals",
+    "Polish",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "24-Hour Security",
+    "Shops",
+    "Soundproof Rooms",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Taxi Service",
+    "Telephone",
+    "Breakfast Available",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Free Wifi in the Business Center",
+    "Happy Hour",
+    "Highchairs Available",
+    "Italian",
+    "Landmark View",
+    "Laptop Safe",
+    "Nepali",
+    "Outdoor Dining Area",
+    "Private Bathrooms",
+    "Russian",
+    "Sofa",
+    "Sofa Bed",
+    "Special Diet Menus",
+    "Sun Deck",
+    "Swahili",
+    "Urdu",
+    "Vending Machine",
+    "Walk-in Shower",
+    "Wardrobe / Closet"
+  ],
+  "parent_brand": "Whitbread PLC",
+  "brand": "Premier Inn",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Modern",
+    "Budget"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    },
+    {
+      "location_id": "15620557",
+      "name": "Al Jaddaf"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "438"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "255"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "251"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "465"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "191"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

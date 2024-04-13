@@ -1,0 +1,237 @@
+{
+  "location_id": "1390312",
+  "name": "City Seasons Hotel Dubai",
+  "description": "The City Seasons Hotel Dubai is a deluxe hotel with 180 rooms, situated close to Deira City Centre Shopping and Entertainment Complex, minutes from the Dubai Metro, Dubai International Airport and the city’s main business and leisure centres. The City Seasons Hotel Dubai is situated close to Deira City Centre shopping mall and just minutes from the Dubai Metro, Dubai International Airport and the city's business and leisure districts. Dining and Entertainment With three great restaurants you don't need to venture far from the hotel for breakfast lunch or dinner.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1390312-Reviews-City_Seasons_Hotel_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Airport Road",
+    "street2": "Deira",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "182002",
+    "address_string": "Airport Road Deira, Dubai 182002 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.256464",
+  "longitude": "55.334995",
+  "timezone": "Asia/Dubai",
+  "phone": "01197142942777",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1390312-City_Seasons_Hotel_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#281 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "281"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "828",
+  "review_rating_count": {
+    "1": "33",
+    "2": "34",
+    "3": "89",
+    "4": "238",
+    "5": "435"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "508",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1390312-m66827-Reviews-City_Seasons_Hotel_Dubai-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Restaurant",
+    "Business center",
+    "Fitness center",
+    "Room service",
+    "Internet",
+    "Free Internet",
+    "Free parking",
+    "Wifi",
+    "Free Wifi",
+    "Shuttle Bus Service",
+    "Suites",
+    "Wheelchair access",
+    "Airport transportation",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Kids Stay Free",
+    "Afrikaans",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bottled Water",
+    "Car Hire",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Desk",
+    "English",
+    "Complimentary Instant Cofffee",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Ironing Service",
+    "Newspaper",
+    "24-Hour Security",
+    "Shoeshine",
+    "Taxi Service",
+    "Telephone",
+    "VIP Room Facilities",
+    "Spa",
+    "Sauna",
+    "Arabic",
+    "Bathrobes",
+    "Bidet",
+    "Breakfast in the Room",
+    "Cable / Satellite TV",
+    "Clothes Rack",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Toiletries",
+    "French",
+    "Full Body Massage",
+    "Gift Shop",
+    "Hair Dryer",
+    "Interconnected room(s) available",
+    "Iron",
+    "Massage",
+    "Private Bathrooms",
+    "Paid Public Parking On-site",
+    "Walk-in Shower",
+    "Wardrobe / Closet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quiet",
+    "City View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620665",
+      "name": "Port Saeed"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "196"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "168"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "66"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "240"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "105"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

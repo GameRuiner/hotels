@@ -1,0 +1,256 @@
+{
+  "location_id": "8698388",
+  "name": "Nikki Beach Resort & Spa Dubai",
+  "description": "Luxury lifestyle beachfront resort located on Pearl Jumeira. Spanning over 52,000 sqm on a private beach, the resort comprises 132 keys including 117 rooms and suites and 15 private pool villas. The complex houses 4 food & beverage venues as well as Nikki Spa. Located off Jumeirah Beach Road, this exclusive resort is perfectly placed for accessing Dubai's spectacular shopping malls and tourist attractions, as well as the city's key business districts and Dubai International Airport. Pearl Jumeira's location, just minutes from Dubai's major transport arteries facilitates the exploration of the UAE. Within six miles of Dubai Mall, cultural sites, City Walk, and Dubai International Airport.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d8698388-Reviews-Nikki_Beach_Resort_Spa_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Pearl Jumeira",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Pearl Jumeira, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.245888",
+  "longitude": "55.25615",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d8698388-Nikki_Beach_Resort_Spa_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#2 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "2"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "3376",
+  "review_rating_count": {
+    "1": "15",
+    "2": "15",
+    "3": "46",
+    "4": "174",
+    "5": "3126"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "3012",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d8698388-m66827-Reviews-Nikki_Beach_Resort_Spa_Dubai-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Beachfront",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Butler Service",
+    "Infinity Pool",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Private Pools",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Sauna",
+    "Additional Bathroom",
+    "Aerobics",
+    "Arabic",
+    "Baggage Storage",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Couples Massage",
+    "Currency Exchange",
+    "Doorperson",
+    "Entertainment Staff",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "French",
+    "Full Body Massage",
+    "Head Massage",
+    "Hindi",
+    "Ironing Service",
+    "Laptop Safe",
+    "Massage",
+    "Nightclub / DJ",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Value",
+    "Lagoon View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7282434",
+      "name": "Jumeirah"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "211"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "813"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "282"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "601"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "1196"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice Best of the Best",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png"
+      },
+      "categories": [
+        "Luxury",
+        "Spa",
+        "Top"
+      ],
+      "display_name": "Travelers Choice Best of the Best"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "id": 926608200,
+      "lang": "en",
+      "location_id": 23425940,
+      "published_date": "2023-11-19T23:49:49Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g15306079-d23425940-r926608200-Reviews-Avwan_Hotel_Cigli-Cigli_Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review926608200",
+      "text": "I've ended up staying in Turkey longer than planned. The staff here have been so welcoming and accommodating. I can't fault them on this. The top 2 floors have lovely views across the city and also come equipped with queen size beds. They literally cater to your every demand. The toilet door wouldn't close in my room, so the very next day that was fixed! They have a lovely onsite handyman that does it all! The cleaners are fantastic, the reception staff are just as amazing ohhh, and let's not forget the food and the guy that serves it! 10/10 and we will be coming back! I can honestly say I will miss this place :)",
+      "title": "Highly recommend!",
+      "trip_type": "Solo travel",
+      "travel_date": "2023-11-30",
+      "user": {
+        "username": "Speedybee83",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/b8/default-avatar-2020-22.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    }
+  ]
+}

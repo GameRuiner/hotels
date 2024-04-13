@@ -1,0 +1,278 @@
+{
+  "data": [
+    {
+      "id": 944823017,
+      "lang": "en",
+      "location_id": 3853285,
+      "published_date": "2024-04-01T13:10:31Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d3853285-r944823017-Reviews-Movenpick_Hotel_Apartments_Al_Mamzar_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review944823017",
+      "text": "I had a stay room 520.it was a great and amazing stay. Everything was well arrange and groomed. The service and hospitality I have received beginning from the reception is amazing. I would like to have specially thank for miss Darshi who checked in on me. And thank you so much for the Concierge Ifran for my luggage assistance. Everything was perfect . Highly recommend for everything",
+      "title": "Amazing hospitality",
+      "trip_type": "Couples",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "salehs579",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e7/fe/default-avatar-2020-58.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e7/fe/default-avatar-2020-58.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e7/fe/default-avatar-2020-58.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e7/fe/default-avatar-2020-58.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/fe/default-avatar-2020-58.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945529861,
+        "title": "Owner response",
+        "text": "Dear Mr. Saleh,\n\nWarm greetings from Mövenpick Hotel Apartments Al Mamzar Dubai.\nI would like to take this opportunity to thank you for taking the time to give us your feedback.\nI truly appreciate your kind words about our team members. It's definitely a boost for us every time we hear positive reviews such as this. We will Front office and concierge team know that they  made an impact during your stay.\nThank you once again for your wonderful review. We look forward to welcoming you back to the hotel in the near future.\nYours Sincerely,\nDamir Kartal\nCluster General Manager of Mövenpick Hotel Apartments Al Mamzar Dubai & Mövenpick Hotel & Apartments Bur Dubai\n",
+        "lang": "en",
+        "author": "Damir  Kartal ",
+        "published_date": "2024-04-06T02:55:57Z"
+      }
+    },
+    {
+      "id": 944611445,
+      "lang": "en",
+      "location_id": 3853285,
+      "published_date": "2024-03-31T04:39:21Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d3853285-r944611445-Reviews-Movenpick_Hotel_Apartments_Al_Mamzar_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review944611445",
+      "text": "The people who cleaned our room ( Semanda and Qasim and Emta) did an amazing job! Everything was spotless and we always came back from a long day of exploring to a big smile on our faces because of how inviting our beds looked ! They never moved our things but always organised them. Very happy with the service.",
+      "title": "AMAZING SERVICE",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "salihab573",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ec/a2/default-avatar-2020-3.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ec/a2/default-avatar-2020-3.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ec/a2/default-avatar-2020-3.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ec/a2/default-avatar-2020-3.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ec/a2/default-avatar-2020-3.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945529385,
+        "title": "Owner response",
+        "text": "Dear Mr.Salihab,\n\nWarm greetings from Mövenpick Hotel Apartments Al Mamzar Dubai.\nI would like to take this opportunity to thank you for taking the time to give us your feedback.\nI truly appreciate your kind words about our team members. It's definitely a boost for us every time we hear positive reviews such as this. We will certainly  semanda ,Qasim and Emta know  that they  made an impact during your stay.\nThank you once again for your wonderful review. We look forward to welcoming you back to the hotel in the near future.\nYours Sincerely,\nDamir Kartal\nCluster General Manager of Mövenpick Hotel Apartments Al Mamzar Dubai & Mövenpick Hotel & Apartments Bur Dubai\n\n",
+        "lang": "en",
+        "author": "Damir  Kartal ",
+        "published_date": "2024-04-06T02:49:35Z"
+      }
+    },
+    {
+      "id": 942535684,
+      "lang": "en",
+      "location_id": 3853285,
+      "published_date": "2024-03-16T14:00:14Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d3853285-r942535684-Reviews-Movenpick_Hotel_Apartments_Al_Mamzar_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review942535684",
+      "text": "An amazing hotel with an amazing staff.\n\nI found the receptionist, Ablbdelatif, to be extremely helpful and I will certainly return.\n\nWe also enjoyed the food very much.\n\nIn addition, the location is convenient \n\nThe pool area was also enjoyable and relaxing.",
+      "title": "Amazing Stay",
+      "trip_type": "Business",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "N2010-G",
+        "user_location": {
+          "id": "295424",
+          "name": "Dubai, Emirate of Dubai"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1b/dc/75/48/avatar.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1b/dc/75/48/avatar.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1b/dc/75/48/avatar.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/1b/dc/75/48/avatar.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 943475874,
+        "title": "Owner response",
+        "text": " Dear Guest,\nWarm greetings from Mövenpick Hotel Apartments Al Mamzar Dubai.\nWe would like to take this opportunity to thank you for taking the time to give us your feedback. \nWe are pleased to read that you enjoyed the quality of rooms, services and the facilities as well as the location of the hotel. It is very motivational for all the team to receive such positive comments. \nThank you for staying with us and we look forward to welcoming you back to the hotel in the near future.\nYours Sincerely,\nDamir Kartal\t\nCluster General Manager of Mövenpick Hotel Apartments Al Mamzar Dubai & Mövenpick Hotel & Apartments Bur Dubai\n",
+        "lang": "en",
+        "author": "Damir  Kartal ",
+        "published_date": "2024-03-23T07:07:53Z"
+      }
+    },
+    {
+      "id": 942297638,
+      "lang": "en",
+      "location_id": 3853285,
+      "published_date": "2024-03-14T12:14:32Z",
+      "rating": 4,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d3853285-r942297638-Reviews-Movenpick_Hotel_Apartments_Al_Mamzar_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review942297638",
+      "text": "Nice ambience, food is awsome (international cuisin), parking also available no hassle for search, and marvellous staff and corporative staff named mubeen, rashila and insaf and chef. I had iftar buffet and i like it.\nstrongly recommend 👌",
+      "title": "Positive review",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "mukkarams2024",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ed/ce/default-avatar-2020-7.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 942380619,
+        "title": "Owner response",
+        "text": "Dear Mr.Mukkarams,\nWarm greetings from Mövenpick Hotel Apartments Al Mamzar Dubai.\nThank you for sharing your positive dining experience with us.  \nWe were happy to read that you thoroughly enjoyed the iftar  buffet and the excellent service by Food and beverage team at the Spices restaurant. We will certainly share your positive comments with the entire team.\nThank you and we look forward to hosting you again in the near future.\nYours Sincerely\nDamir Kartal\nCluster General Manager of Mövenpick Hotel Apartments Al Mamzar Dubai & Mövenpick Hotel & Apartments Bur Dubai\n",
+        "lang": "en",
+        "author": "Damir  Kartal ",
+        "published_date": "2024-03-15T07:43:08Z"
+      }
+    },
+    {
+      "id": 942176498,
+      "lang": "en",
+      "location_id": 3853285,
+      "published_date": "2024-03-13T11:29:24Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d3853285-r942176498-Reviews-Movenpick_Hotel_Apartments_Al_Mamzar_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review942176498",
+      "text": "Came here for Iftar with my family; the food was quite good! The spread of dishes contained a variety, so it was quite nice to experience overall. The hospitality of the staff definitely was appreciated! Special mention to Mubeen for the great service, as well. Thank you!",
+      "title": "Iftar At Movenpick Hotel Apart.",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Relax43073663735",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/a3/default-avatar-2020-38.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 942379239,
+        "title": "Owner response",
+        "text": "Dear Guest \nWarm greetings from Mövenpick Hotel Apartments Al Mamzar Dubai.\nThank you for sharing your positive dining experience with us.  \nWe were happy to read that you thoroughly enjoyed the iftar  buffet and the excellent service by Food and beverage team at the Spices restaurant. We will certainly share your positive comments with the entire team.\nThank you and we look forward to hosting you again in the near future.\nYours Sincerely\nDamir Kartal\nCluster General Manager of Mövenpick Hotel Apartments Al Mamzar Dubai & Mövenpick Hotel & Apartments Bur Dubai\n",
+        "lang": "en",
+        "author": "Damir  Kartal ",
+        "published_date": "2024-03-15T07:25:43Z"
+      }
+    }
+  ]
+}

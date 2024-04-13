@@ -1,0 +1,154 @@
+{
+  "data": [
+    {
+      "id": 600043769,
+      "lang": "en",
+      "location_id": 13298652,
+      "published_date": "2018-07-27T02:22:27Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d13298652-r600043769-Reviews-Diasos_Otel_Buca-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review600043769",
+      "text": "Got this place last minute at night.  When i came here i was surprised about the hotel.  It was much better then I expected. Has been open for 8 months.  Location is near the airport and the highway rooms are very comfortable and clean.  I would suggest for anyone to stay. The price was very good as well.  You will be pleased ",
+      "title": "Very comfortable and cosy",
+      "trip_type": "Business",
+      "travel_date": "2018-07-31",
+      "user": {
+        "username": "kramdeniie",
+        "user_location": {
+          "id": "297990",
+          "name": "Denizli Province"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/10/78/aa/5d/ahmet-s.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/10/78/aa/5d/ahmet-s.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/10/78/aa/5d/ahmet-s.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/10/78/aa/5d/ahmet-s.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 574391379,
+      "lang": "en",
+      "location_id": 13298652,
+      "published_date": "2018-04-19T13:45:33Z",
+      "rating": 3,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d13298652-r574391379-Reviews-Diasos_Otel_Buca-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review574391379",
+      "text": "Hotel is really nice, clean and comfiortable. Rooms are big and clean. But location is very bad, there is nothing to do around. They also doesnt have car park. But if you are only looking clean and nice place to have rest after a tiring day, it will be good choice. ",
+      "title": "Nice but boring",
+      "trip_type": "Business",
+      "travel_date": "2018-04-30",
+      "user": {
+        "username": "aliaO7283QY",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/22/04/ce/ce/aliao7283qy.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/22/04/ce/ce/aliao7283qy.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-o/22/04/ce/ce/aliao7283qy.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/22/04/ce/ce/aliao7283qy.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 561888092,
+      "lang": "en",
+      "location_id": 13298652,
+      "published_date": "2018-02-21T07:09:08Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d13298652-r561888092-Reviews-Diasos_Otel_Buca-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review561888092",
+      "text": "Hello there,\nI came to Izmir for vacation. My friend and I have stayed for 3 days. We left very happy from the hotel. The hotel's dishes are very tasty.We love Turkey very much and we come back  again.",
+      "title": "Thanks",
+      "trip_type": "Friends getaway",
+      "travel_date": "2018-01-31",
+      "user": {
+        "username": "lindaaD7107FL",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ee/68/default-avatar-2020-9.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ee/68/default-avatar-2020-9.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ee/68/default-avatar-2020-9.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ee/68/default-avatar-2020-9.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ee/68/default-avatar-2020-9.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 557779601,
+      "lang": "en",
+      "location_id": 13298652,
+      "published_date": "2018-02-01T14:45:12Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d13298652-r557779601-Reviews-Diasos_Otel_Buca-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review557779601",
+      "text": "We stayed here for three nights in early January and cannot fault the class and service of this hotel from reception staff through to the cleaning lady. It's a small hotel hidden away from the main streets and we were left really impressed at the quality of the decor, furnishings and the small little details in the room, the staff mentioned that it was a newly built hotel. It's professionally run with the warmest of staff members and so close to one of the larger shopping malls and 10 mins from the airport.",
+      "title": "Hidden Gem",
+      "trip_type": "Family",
+      "travel_date": "2018-01-31",
+      "user": {
+        "username": "KapYal",
+        "user_location": {
+          "id": "186338",
+          "name": "London, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/e6/default-avatar-2020-45.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "2": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "data": [
+    {
+      "id": 945970886,
+      "lang": "en",
+      "location_id": 296169,
+      "published_date": "2024-04-09T11:51:28Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298658-d296169-r945970886-Reviews-Salmakis_Resort_Spa-Bodrum_City_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html?m=66827#review945970886",
+      "text": "Lovely little all inclusive break away for my birthday.\nWe couldnt have asked for anything more - beach, pool, scenary, nice food and attentive hotel staff. Perfect time to relax and recoup\n\nThe room we stayed in was very big with a beautiful sea view. Bed was very comfortable, the room would be cleaned everyday and mini bar was topped up each day. \n\nThe pool and beach were clean and very relaxing. We arrived at the start of season so it was lovely not having to many people around. \n\nShoutout to our waiter Samet who was very accommodating and attentive. We received amazing service from him throughout our whole stay. \n\nGood variety of food throughout our stay\n\nThe hotel was a short taxi ride to the marina, I would recommend taking a trip out. \n\nWould definitely return for a long stay.",
+      "title": "Birthday trip away",
+      "trip_type": "Couples",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "Aarti_C04",
+        "user_location": {
+          "id": "186338",
+          "name": "London, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1d/af/4a/f6/aarti-c.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1d/af/4a/f6/aarti-c.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1d/af/4a/f6/aarti-c.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1d/af/4a/f6/aarti-c.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1d/af/4a/f6/aarti-c.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 945969423,
+      "lang": "en",
+      "location_id": 296169,
+      "published_date": "2024-04-09T11:37:07Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298658-d296169-r945969423-Reviews-Salmakis_Resort_Spa-Bodrum_City_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html?m=66827#review945969423",
+      "text": "Salmakis hotel was the best hotel, everyone was so kind I really enjoyed my stay here so much. The respect that the staffs and receptionist had was amazing, the food was beautiful as well with a variety of things. A really special shout-out to Ramazan he kept coming to our table making sure everything was good and helping us whenever needed. He had such a kind soul. All staffs had a smile on their face whenever someone entered and I found that so welcoming. I really had such an amazing experience.",
+      "title": "Respect and kindness",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "mellisak2024",
+        "user_location": {
+          "id": "186402",
+          "name": "Birmingham, West Midlands, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e8/24/default-avatar-2020-60.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e8/24/default-avatar-2020-60.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e8/24/default-avatar-2020-60.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e8/24/default-avatar-2020-60.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e8/24/default-avatar-2020-60.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 923672836,
+      "lang": "en",
+      "location_id": 296169,
+      "published_date": "2023-10-30T12:22:30Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298658-d296169-r923672836-Reviews-Salmakis_Resort_Spa-Bodrum_City_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html?m=66827#review923672836",
+      "text": "We had an excellent stay at the Salmakis Resort and Spa. Beautiful beach area and outlook across to Bodrum. Made use of the great water taxi.\nAll of the staff were very friendly and helpful. My daughter has a Gluten allergy and they were happy to provide gluten free cereal / bread and even cooked special meals of GF pasta and pizza. A massive thankyou to Omer who organized this for her every day ( even going out to get special ingredients in for her).",
+      "title": "Excellent stay",
+      "trip_type": "Family",
+      "travel_date": "2023-10-31",
+      "user": {
+        "username": "H606ODnicolab",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e3/1f/default-avatar-2020-46.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 923127256,
+      "lang": "en",
+      "location_id": 296169,
+      "published_date": "2023-10-26T22:42:35Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298658-d296169-r923127256-Reviews-Salmakis_Resort_Spa-Bodrum_City_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html?m=66827#review923127256",
+      "text": "We have just spent our half term week at Salmakis hotel and we're very impressed. From the moment we got there the staff were accommodating and friendly. The hotel is beautiful and makes you feel like you are in a Turkish paradise. The location is great and we made use of the water taxi to go into Bodrum town which was a lovely day out. The food was delicious with a great variety, we particularly enjoyed the pastries and fresh salads. Staff clearly work very hard to give guests the best experience, a special shout out to Bilal who is a great bar man!",
+      "title": "Great experience ",
+      "trip_type": "Couples",
+      "travel_date": "2023-10-31",
+      "user": {
+        "username": "charlotteaH3999BS",
+        "user_location": {
+          "id": "186299",
+          "name": "Southampton, Hampshire, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/9f/default-avatar-2020-16.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 923326485,
+        "title": "Owner response",
+        "text": "Dear Guest,\nWe would like to thank you for choosing us and taking your valuable time to share your feelings and experiences about your stay at Salmakis Resort & Spa. We are so pleased to hear that you enjoyed your holiday experience with us.\nYour compliments about your experience are very valuable and your kind words about our staff will be shared with our workmates.\nWe look forward to welcoming you back to our hotel in the near future.\nKind Regards,\nGuest Relations Manager\nGökçe Yılmaz\n",
+        "lang": "en",
+        "author": "Salmakis Resort Spa Salmakis",
+        "published_date": "2023-10-28T10:43:52Z"
+      }
+    },
+    {
+      "id": 921921599,
+      "lang": "en",
+      "location_id": 296169,
+      "published_date": "2023-10-18T18:12:07Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298658-d296169-r921921599-Reviews-Salmakis_Resort_Spa-Bodrum_City_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html?m=66827#review921921599",
+      "text": "This hotel probably has the best views in Bodrum. All the public areas, the bars and restaurants have views across the bay towards the castle.  The gardens and walkways are beautiful,  with flowers everywhere \nUnlike it's neighbours,  this hotel had a beach, and the snorkeling is fantastic due to several banks of seaweed. I saw multiple species of fish. There was a constant lifeguard presence. We were brought drinks on the beach. \nWe particularly loved the fresh fruits  from the hut on the level above the beach, where you could also get ice-cream throughout the day. \nThe swimming pool was interesting,  big enough for water polo, but also interesting to swim around.  Far bigger than the pools at neighbouring hotels.\nWe loved the taxi across the bay, both in the day and by night. I would also recommend a walk along the city walls,  opposite the hotel,  with lovely views across both bays.\nThe spa and haman were lovely, and reasonably priced.\nThe staff were friendly but not intrusive. Good at remembering preferences and kind. \nThe food was good and interesting.  We always found plenty of options.  Salad bar was always interesting and well stoked. Cakes were beautiful. \nSo why not 5 stars? Although nearly perfect the room let it down. The bathroom had been refurbished and looked lovely but water temperature and pressure varied.  The main room furniture was tired \nThe wardrobe was too short for any of my dresses to hang without touching the floor. There were no drawers . The fridge was restocked every day, but door was slightly dodgy.\n\nIt was so nearly perfect..............I think however I wouldn't be able to afford it if it was!  Definitely recommend. ",
+      "title": "Location, location,  location ",
+      "trip_type": "Couples",
+      "travel_date": "2023-10-31",
+      "user": {
+        "username": "denisewN7010CC",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e8/ea/default-avatar-2020-63.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e8/ea/default-avatar-2020-63.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e8/ea/default-avatar-2020-63.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e8/ea/default-avatar-2020-63.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e8/ea/default-avatar-2020-63.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 923326402,
+        "title": "Owner response",
+        "text": "Dear Guest,\nFirst of all we would like to thank you for choosing us and taking your valuable time to share your feelings and experiences about your stay at Salmakis Resort & Spa.\nWe are so pleased that you enjoyed your holiday experience with us.\nWe look forward to welcoming you back in the near future.\nKind Regards,\nGuest Relations Manager\nGökçe Yılmaz \n\n",
+        "lang": "en",
+        "author": "Salmakis Resort Spa Salmakis",
+        "published_date": "2023-10-28T10:43:03Z"
+      }
+    }
+  ]
+}

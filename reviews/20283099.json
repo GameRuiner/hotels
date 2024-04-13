@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "id": 760434141,
+      "lang": "en",
+      "location_id": 20283099,
+      "published_date": "2020-07-17T19:18:30Z",
+      "rating": 3,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d20283099-r760434141-Reviews-Caba_Hotel_Spa-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review760434141",
+      "text": "We had a one night stay before going to Cesme.\nHotel gave free upgrade which was nice. We ended up in a 2 room suite.\nThe aircondition was bad, since only one room was cooled, the bed room for adults was too hot. We had to move in and sleep uncomfortably in the cooled room, all 4 of us.\nBreakfast is below average. The cafee area where breakfast is served is old.\nWe had free parking but no available parking area when we arrived.",
+      "title": "Average hotel for short stay",
+      "trip_type": "NONE",
+      "travel_date": "2020-07-31",
+      "user": {
+        "username": "173ercanb",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/11/default-avatar-2020-41.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "1": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Service"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "location_id": "1462990",
+  "name": "Zacosta Villa Hotel",
+  "description": "Small Villa Hotel consisiting of one suite and two rooms with a graphic courtyard, set in a quiet neighbourhood of the Medieval City. A charming establishment where the traditional has been blended with the luxurious. This together with the unique atmosphere of the Medieval City will make your stay a memorable one.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g635613-d1462990-Reviews-Zacosta_Villa_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street1": "Xenofontos 23",
+    "street2": "Medieval City",
+    "city": "Rhodes Town",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "85100",
+    "address_string": "Xenofontos 23 Medieval City, Rhodes Town 85100 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Rhodes Town",
+      "location_id": "635613"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.44316",
+  "longitude": "28.223007",
+  "timezone": "Europe/Athens",
+  "write_review": "https://www.tripadvisor.com/UserReview-g635613-d1462990-Zacosta_Villa_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "635613",
+    "ranking_string": "#5 of 122 hotels in Rhodes Town",
+    "geo_location_name": "Rhodes Town",
+    "ranking_out_of": "122",
+    "ranking": "5"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "242",
+  "review_rating_count": {
+    "1": "0",
+    "2": "0",
+    "3": "1",
+    "4": "13",
+    "5": "228"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "121",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g635613-d1462990-m66827-Reviews-Zacosta_Villa_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Suites",
+    "Free Internet",
+    "Free Wifi",
+    "Breakfast included",
+    "Air conditioning",
+    "Refrigerator in room",
+    "Non-smoking hotel",
+    "Complimentary Toiletries",
+    "Hair Dryer",
+    "Seating Area",
+    "Wifi",
+    "Public Wifi",
+    "Non-smoking rooms",
+    "Multilingual Staff",
+    "Safe",
+    "Flatscreen TV",
+    "Housekeeping",
+    "Baggage Storage",
+    "Bottled Water",
+    "Car Hire",
+    "English",
+    "Greek",
+    "Outdoor Fireplace",
+    "Outdoor Furniture",
+    "Street Parking",
+    "Sun Terrace",
+    "Wine / Champagne",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quaint",
+    "Hidden Gem"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "5"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "163"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "10"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "27"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "11"
+    }
+  ],
+  "awards": []
+}

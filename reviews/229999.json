@@ -1,0 +1,280 @@
+{
+  "data": [
+    {
+      "id": 941979554,
+      "lang": "en",
+      "location_id": 229999,
+      "published_date": "2024-03-13T02:39:07Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d229999-r941979554-Reviews-Best_Western_Premier_Hotel_Dante-Barcelona_Catalonia.html?m=66827#review941979554",
+      "text": "The hotel is in a great location. Great restaurants near by. Most sights are walking distance. Staff is friendly and helpful. Beds are very comfortable. The room is clean with plenty of space. Breakfast is available. We didn’t try it but looked delicious. I would stay here again!",
+      "title": "Highly recommend",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "595juliek",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/81/default-avatar-2020-43.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 943712107,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nWe are very happy to hear that you had a pleasant experience with us. Your comment has made our day! Our entire team works very hard to keep our customers happy, but we can only do that because of amazing customers like you. \nThanks again, and we hope to see you again soon.\nHave a good day!,\n",
+        "lang": "en",
+        "author": "Veronica Garcia",
+        "published_date": "2024-03-25T02:48:18Z"
+      }
+    },
+    {
+      "id": 939939341,
+      "lang": "en",
+      "location_id": 229999,
+      "published_date": "2024-02-27T02:24:12Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d229999-r939939341-Reviews-Best_Western_Premier_Hotel_Dante-Barcelona_Catalonia.html?m=66827#review939939341",
+      "text": "It is a very enjoyable experience for me.Hotel was close to center.Staffs are very helpful.I loved the rest area of the hotel.They have free candies and water.I am glad to stay here.Thank you very much to  every staff of the hotel.Regards",
+      "title": "Very glad to stay here.",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "yildizoztas",
+        "user_location": {
+          "id": "25166543",
+          "name": "Istanbuldere, Sakarya Province"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e8/24/default-avatar-2020-60.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e8/24/default-avatar-2020-60.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e8/24/default-avatar-2020-60.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e8/24/default-avatar-2020-60.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e8/24/default-avatar-2020-60.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 940982017,
+        "title": "Owner response",
+        "text": "Dear yildizoztas,\n\nThank you for choosing us for your stay and for taking the time to share your wonderful experience! We are delighted to know that you enjoyed your stay with us.\n\nWe look forward to welcoming you again in the future. If you have any special requests for your next visit, please do not hesitate to let us know. \nWe are here to make sure your stay is as pleasant as possible.\n\nSincerely,\n",
+        "lang": "en",
+        "author": "Veronica Garcia",
+        "published_date": "2024-03-06T02:21:44Z"
+      }
+    },
+    {
+      "id": 939498099,
+      "lang": "en",
+      "location_id": 229999,
+      "published_date": "2024-02-23T11:44:42Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d229999-r939498099-Reviews-Best_Western_Premier_Hotel_Dante-Barcelona_Catalonia.html?m=66827#review939498099",
+      "text": "Bedroom were very modern and comfortable\nCentral location, walked to all main buildings\nVery helpful staff\nGood internet\nWould recommend, parking next door if you need\nSafe area\nDidn’t try the breakfast so can’t comment\n",
+      "title": "Short stay good location",
+      "trip_type": "NONE",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "lisamC2106UF",
+        "user_location": {
+          "id": "3963703",
+          "name": "Boughton, Nottinghamshire, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ea/b2/default-avatar-2020-69.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 939938060,
+        "title": "Owner response",
+        "text": "Dear Lisa,\n\nThank you very much for this wonderful comment!\n\nWe are glad to know that you enjoyed your stay and the attention of our Staff. Your words fill us with pride and excitement!\n\nWe hope to have the pleasure of seeing you very soon.\n\nSincerely,\n",
+        "lang": "en",
+        "author": "Veronica Garcia",
+        "published_date": "2024-02-27T02:03:32Z"
+      }
+    },
+    {
+      "id": 937773413,
+      "lang": "en",
+      "location_id": 229999,
+      "published_date": "2024-02-11T13:38:28Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d229999-r937773413-Reviews-Best_Western_Premier_Hotel_Dante-Barcelona_Catalonia.html?m=66827#review937773413",
+      "text": "Helpful and friendly staff. Kudos to Tomas and Leandro! Locations was excellent with many eateries. I prefer to walk when I travel but it's close to public transportation. Walkable to las ramblas and la Sagrada. Clean and spacious rooms. Nice breakfast buffets.",
+      "title": "Good stay in Barcelona",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "Martini5411",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/81/default-avatar-2020-43.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 938050753,
+        "title": "Owner response",
+        "text": "Dear Guest, \n\nIt is great to know that you have had a positive experience with us.\nOur team will be happy to hear that our hard work has paid off. \nIf there is anything we can do to improve on your next visit, please let us know.\n\nHope to see you soon, \n\nBest regards, ",
+        "lang": "en",
+        "author": "Veronica Garcia",
+        "published_date": "2024-02-14T02:13:47Z"
+      }
+    },
+    {
+      "id": 937045143,
+      "lang": "en",
+      "location_id": 229999,
+      "published_date": "2024-02-06T08:17:55Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d229999-r937045143-Reviews-Best_Western_Premier_Hotel_Dante-Barcelona_Catalonia.html?m=66827#review937045143",
+      "text": "I will recommend this hotel. \n1 ) Really good beds\n2) clean room\n3) staff from reception to breakfast buffet was professional and just wanted us to fell good\n4) location, you can walk to most of the sights and it´s near the metro\n5) tons of restaurants near by",
+      "title": "I will recommend this hotel",
+      "trip_type": "Business",
+      "travel_date": "2024-01-31",
+      "user": {
+        "username": "missgmia79",
+        "user_location": {
+          "id": "274707",
+          "name": "Prague, Bohemia"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/77/ae/default-avatar-2020-2.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/77/ae/default-avatar-2020-2.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/77/ae/default-avatar-2020-2.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/77/ae/default-avatar-2020-2.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/77/ae/default-avatar-2020-2.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 938050701,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nWe are very grateful that you have taken the time to share your opinion with us. \nIt is a pleasure for all our Staff to serve clients like you.\n\nWe hope to see you again soon!\n\nBest regards, ",
+        "lang": "en",
+        "author": "Veronica Garcia",
+        "published_date": "2024-02-14T02:12:59Z"
+      }
+    }
+  ]
+}

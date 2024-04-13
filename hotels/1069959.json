@@ -1,0 +1,253 @@
+{
+  "location_id": "1069959",
+  "name": "Tamra Beach",
+  "description": "The Luxury 5-star Tamra Beach Resort is ideal for single travelers, couples and families looking to avoid long airport transfers and for somewhere they can relax and have everything catered for without the need to leave the resort. Tamra Beach resort is in the Nabq Bay area and on the beach front only a 10-minute drive from Sharm el Sheikh International Airport. It also offers 24-hour front desk service. The Resort is mainly an Italian Club, but welcomes other nationalities. The resort is located next to Nabq National park which is known for its colourful marine life and its extraordinary Mangrove colonies. All rooms are air conditioned they also have a bathtub, Rooms have modern furnishings and come with cable TV and a safe Deposit box Free of charge. The resort offers rooms with balconies overlooking the Red Sea.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g303855-d1069959-Reviews-Tamra_Beach-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "city": "Nabq Bay",
+    "country": "Egypt",
+    "postalcode": "11231",
+    "address_string": "Nabq Bay, Sharm El Sheikh 11231 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Nabq Bay",
+      "location_id": "303855"
+    },
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "28.01833",
+  "longitude": "34.439217",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g303855-d1069959-Tamra_Beach-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "303855",
+    "ranking_string": "#17 of 41 hotels in Nabq Bay",
+    "geo_location_name": "Nabq Bay",
+    "ranking_out_of": "41",
+    "ranking": "17"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "5310",
+  "review_rating_count": {
+    "1": "127",
+    "2": "138",
+    "3": "336",
+    "4": "1202",
+    "5": "3507"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "6669",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g303855-d1069959-m66827-Reviews-Tamra_Beach-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Restaurant",
+    "Fitness center",
+    "Beachfront",
+    "Bar/Lounge",
+    "Beach Access",
+    "Business center",
+    "Internet",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Suites",
+    "Free parking",
+    "Wheelchair access",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Paid Wifi",
+    "Paid Internet",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Swimup Bar",
+    "Heated pool",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Free airport transportation",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Arabic",
+    "Currency Exchange",
+    "Darts",
+    "Diving",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Hiking",
+    "Indoor Play Area for Children",
+    "Italian",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Russian",
+    "Salon",
+    "Shared Lounge / TV Area",
+    "Shops",
+    "Snack Bar",
+    "Snorkeling",
+    "Special Diet Menus",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Telephone",
+    "Wake Up Service / Alarm Clock"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Park View",
+    "Quaint"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "20"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1703"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "168"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "2046"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "816"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

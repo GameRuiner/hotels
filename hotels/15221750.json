@@ -1,0 +1,273 @@
+{
+  "location_id": "15221750",
+  "name": "Unite Hostel Barcelona",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d15221750-Reviews-Unite_Hostel_Barcelona-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Avinguda Icaria 145",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08005",
+    "address_string": "Avinguda Icaria 145, 08005 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.39101",
+  "longitude": "2.196325",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d15221750-Unite_Hostel_Barcelona-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#221 of 1,202 Specialty lodging in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "1202",
+    "ranking": "221"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "80",
+  "review_rating_count": {
+    "1": "10",
+    "2": "5",
+    "3": "12",
+    "4": "16",
+    "5": "37"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "178",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d15221750-m66827-Reviews-Unite_Hostel_Barcelona-Barcelona_Catalonia.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Non-smoking rooms",
+    "Air conditioning",
+    "Catalan",
+    "English",
+    "Shared Kitchen",
+    "Shared Lounge / TV Area",
+    "Shared Bathroom",
+    "Spanish",
+    "Wheelchair access",
+    "Pets Allowed",
+    "Casino",
+    "Meeting rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Accessible rooms",
+    "Microwave",
+    "Refrigerator in room",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Terrace",
+    "Water Park",
+    "Breakfast Buffet",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Electric vehicle charging station",
+    "Aerobics",
+    "Aerobics Off-site",
+    "Air Purifier",
+    "Allergy-free Room",
+    "Baggage Storage",
+    "BBQ Facilities",
+    "Bicycle Rental",
+    "Bicycle Tours",
+    "Blackout Curtains",
+    "Board Games / Puzzles",
+    "Boating",
+    "Books, DVDs, Music for Children",
+    "Bottled Water",
+    "Cable / Satellite TV",
+    "24-Hour Check-in",
+    "Children's Television Networks",
+    "Clothes Dryer",
+    "Clothes Rack",
+    "Coffee / Tea Maker",
+    "Diving",
+    "Doorperson",
+    "Electric Kettle",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Executive Lounge Access",
+    "Extra Long Beds",
+    "First Aid Kit",
+    "Fitness Classes",
+    "Free Public Parking Nearby",
+    "Complimentary Toiletries",
+    "Complimentary Welcome Drink",
+    "French",
+    "24-Hour Front Desk",
+    "Game Room",
+    "German",
+    "Gift Shop",
+    "Greek",
+    "Hair Dryer",
+    "Highchairs Available",
+    "iPod Docking Station",
+    "Italian",
+    "Karaoke",
+    "Kids' Outdoor Play Equipment",
+    "Kitchenware",
+    "Landmark View",
+    "Laptop Safe",
+    "Newspaper",
+    "Nightclub / DJ",
+    "Outdoor Dining Area",
+    "Outdoor Furniture",
+    "Oven",
+    "Parking Garage",
+    "Personal Trainer",
+    "Portuguese",
+    "Private Bathrooms",
+    "Private Check-in / Check-out",
+    "Paid Private Parking On-site",
+    "Paid Public Parking Nearby",
+    "Russian",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Snorkeling",
+    "Sofa",
+    "Soundproof Rooms",
+    "Stovetop",
+    "Sun Deck",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Taxi Service",
+    "Tile / Marble Floor",
+    "Turkish",
+    "Umbrella",
+    "Vending Machine",
+    "VIP Room Facilities",
+    "Walk-in Shower",
+    "Walking Tours",
+    "Wardrobe / Closet",
+    "Washing Machine",
+    "Water Sport Equipment Rentals",
+    "Windsurfing",
+    "Yoga Classes",
+    "Yoga Room"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [
+    "Ocean View",
+    "Trendy"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15565880",
+      "name": "Sant Marti"
+    },
+    {
+      "location_id": "7230969",
+      "name": "Ciutadella / Vila Olimpica"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "2"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "22"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "3"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "33"
+    }
+  ],
+  "awards": []
+}

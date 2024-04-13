@@ -1,0 +1,332 @@
+{
+  "data": [
+    {
+      "id": 944667397,
+      "lang": "en",
+      "location_id": 1214465,
+      "published_date": "2024-03-31T12:34:59Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d1214465-r944667397-Reviews-TIME_Oak_Hotel_Suites-Dubai_Emirate_of_Dubai.html?m=66827#review944667397",
+      "text": "I’ve had a great time staying at the Time Oak hotel between February & April. The facilities are excellent including the pool, gym and restaurant where the food is superb, they even do a great bbq on a Saturday at the pool!! The staff are the hotels biggest asset.. Thanks to Preeti, Yu Yu and Amor at reception (amongst others), thanks also to the great restaurant and cleaning staff who looked after me & kept my room tidy (too many to name!!).. Looking forward to my next visit.",
+      "title": "Great Hotel",
+      "trip_type": "Business",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "J5838LEoliviac",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/d5/default-avatar-2020-17.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 944770875,
+        "title": "Owner response",
+        "text": "Dear Valued Guest,\n\nThank you for your recent stay at TIME Oak Hotel & Suites.\n\nI am glad to hear that you had a great overall experience at our hotel. We aim to provide amazing experiences to our guests. I will be sure to pass on your compliments to the team personally.\n\nWe are excited to see you again soon.\n\nSincerely,\n\nSoha Metwally\nCluster General Manager",
+        "lang": "en",
+        "author": "TIME Management",
+        "published_date": "2024-04-01T07:21:36Z"
+      }
+    },
+    {
+      "id": 944659487,
+      "lang": "en",
+      "location_id": 1214465,
+      "published_date": "2024-03-31T11:39:47Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d1214465-r944659487-Reviews-TIME_Oak_Hotel_Suites-Dubai_Emirate_of_Dubai.html?m=66827#review944659487",
+      "text": "Upon arrival the booking app I had used had not added the extra bed on my stay for my son, Preeti and Sherif were so helpful and got it all sorted for us on arrival. They were very helpful and once checked in checked that we were happy with our room etc. Amor was also lovely on reception. \nIn the mornings we went for breakfast and Safinah was so lovely she remembered our coffee everyday and put a little heart on top. It really is the small things like this that count. \nAll the staff have been lovely, our stay has been good. The pool is lovely and warm as it is heated and everywhere is clean.",
+      "title": "Excellent stay",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Wanderer61406554532",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/81/default-avatar-2020-43.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944770723,
+        "title": "Owner response",
+        "text": "Dear Valued Guest,\n\nThank you for staying in TIME Oak Hotel & Suites and sharing your feedback.\n\nI'm so happy you had a great stay with us. I am very proud to read that you were satisfied with the services that the team has provided. Your words will inspire them to continue providing the best service experience and rest assured that I will convey your message to all of them.\n\nWe hope to see you again soon.\n\nSincerely,\n\nSoha Metwally\nCluster General Manager",
+        "lang": "en",
+        "author": "TIME Management",
+        "published_date": "2024-04-01T07:20:19Z"
+      }
+    },
+    {
+      "id": 944420012,
+      "lang": "en",
+      "location_id": 1214465,
+      "published_date": "2024-03-29T15:24:07Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d1214465-r944420012-Reviews-TIME_Oak_Hotel_Suites-Dubai_Emirate_of_Dubai.html?m=66827#review944420012",
+      "text": "My experience was at time oak was great, near to metro, great view, humble staff especially Mr Amin and he attitude was very nice and I would love to come here on my next vacation. \nBreakfast is healthy and place was very hygiene.\nThank you so much Amin for your kindness",
+      "title": "Great",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "gokulj679",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f3/7c/default-avatar-2020-29.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f3/7c/default-avatar-2020-29.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f3/7c/default-avatar-2020-29.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f3/7c/default-avatar-2020-29.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f3/7c/default-avatar-2020-29.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944473239,
+        "title": "Owner response",
+        "text": "Dear Valued Guest,\n\nThank you for your great review. \n\nWe are so delighted and proud to read your outstanding feedback. Our goal is to provide genuine hospitality service to all our guests and we are glad that you were completely satisfied on this occasion. I will be sure to pass on your compliments to the team personally. \n\nIt would be our pleasure to see you again. \n\nSincerely, \n\nSoha Metwally \nCluster General Manager",
+        "lang": "en",
+        "author": "TIME Management",
+        "published_date": "2024-03-30T03:43:37Z"
+      }
+    },
+    {
+      "id": 944419125,
+      "lang": "en",
+      "location_id": 1214465,
+      "published_date": "2024-03-29T15:16:40Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d1214465-r944419125-Reviews-TIME_Oak_Hotel_Suites-Dubai_Emirate_of_Dubai.html?m=66827#review944419125",
+      "text": "It was a quick stay but enjoying a lot specially the swimming pool view  I really loved it so much where you can see the swimming pool from your the balcony from the high floor and really I wanted to thank the reception staff were really very excited to help Mahmood and sherif and tharindu were really always smiley and willing to help",
+      "title": "Quick stay",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "654karimanm",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e7/7b/default-avatar-2020-56.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e7/7b/default-avatar-2020-56.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e7/7b/default-avatar-2020-56.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e7/7b/default-avatar-2020-56.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/7b/default-avatar-2020-56.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944473102,
+        "title": "Owner response",
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to post your wonderful note. \n\nI am very happy you had a great overall experience at our hotel and impressed with the service rendered by the team, I would ensure that this compliment would be shared with them. \n\nWe are looking forward to welcoming you soon. \n\nSincerely, \n\nSoha Metwally \nCluster General Manager",
+        "lang": "en",
+        "author": "TIME Management",
+        "published_date": "2024-03-30T03:41:54Z"
+      }
+    },
+    {
+      "id": 944384408,
+      "lang": "en",
+      "location_id": 1214465,
+      "published_date": "2024-03-29T10:42:33Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d1214465-r944384408-Reviews-TIME_Oak_Hotel_Suites-Dubai_Emirate_of_Dubai.html?m=66827#review944384408",
+      "text": "The hotel is really good for families quiet and clean almost in middle of Dubai u will find everything around you the hotel has many facilities gym full of equipments swimming pool is really enjoyable at last the staff are really helpful always willing to help i really don't remember the names but the night staff was really cooperative i think his name is Mahmood is f iam not wrong and another one with glasses at the end surely will come back again",
+      "title": "Lovely stay",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "J9423SRfatmas",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/6d/default-avatar-2020-19.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/6d/default-avatar-2020-19.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/6d/default-avatar-2020-19.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/6d/default-avatar-2020-19.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/6d/default-avatar-2020-19.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944472650,
+        "title": "Owner response",
+        "text": "Dear Valued Guest,\n\nThank you for the great review of our hotel.\n\n I truly appreciate the kind words you have for our team members, as they are a true reflection of our usual heartfelt hospitality. Rest assured that I will personally speak to the team and congratulate them. \n\nWe look forward to welcoming you back soon for another memorable visit. \n\nSincerely, \n\nSoha Metwally \nCluster General Manager\n\nEdit\n \nRemove",
+        "lang": "en",
+        "author": "TIME Management",
+        "published_date": "2024-03-30T03:36:35Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "data": [
+    {
+      "id": 945949276,
+      "lang": "en",
+      "location_id": 10803505,
+      "published_date": "2024-04-09T08:34:01Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d10803505-r945949276-Reviews-Al_Khoory_Atrium_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945949276",
+      "text": "It's our second coming to al khoory atrium hotel and of course everything was amazing! Food & rooms and of course the personel ( especially Isabel, Jerico and Shiv) . Also the pool on the roof is very big and clean! thanks a lot for everything!*****",
+      "title": "Definitely going to come back!",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "769radun",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e7/99/default-avatar-2020-57.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e7/99/default-avatar-2020-57.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e7/99/default-avatar-2020-57.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e7/99/default-avatar-2020-57.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/99/default-avatar-2020-57.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 945915554,
+      "lang": "en",
+      "location_id": 10803505,
+      "published_date": "2024-04-09T02:31:02Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d10803505-r945915554-Reviews-Al_Khoory_Atrium_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945915554",
+      "text": "The place is clean and the breakfast has a variety of food and good. It is near the Mall of Emirates and Metro Station easily accessible. Ifran is a friendly and helpful waiter, look him up next timr you are here! Great place to stay while in Dubai",
+      "title": "Great",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "44hildam",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/a7/default-avatar-2020-44.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945931125,
+        "title": "Owner response",
+        "text": "Dear Valued Guest,\n\nGreetings from al Khoory Atrium Hotel! \n\nThank you for taking the time to provide us with your valuable feedback about your stay with us. Your constructive feedback will help us continually improve the facilities and services offered to all our guests. looking forward to being at your service again in the near future. \n\nYours truly,\nAl Khoory Atrium Hotel Team",
+        "lang": "en",
+        "author": "Jeff Isaacs ",
+        "published_date": "2024-04-09T05:31:08Z"
+      }
+    },
+    {
+      "id": 945815626,
+      "lang": "en",
+      "location_id": 10803505,
+      "published_date": "2024-04-08T06:52:48Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d10803505-r945815626-Reviews-Al_Khoory_Atrium_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945815626",
+      "text": "The staff are very friendly. From receptionist to the lifeguard on the roof top. Among the employees Jericho and Isabel from the  Spices restaturant are my favorites. They know how to communocate well and very pleasing and friendly to us. We are looking forward to come back in this hotel again.\n\nThe food is also amazing and the servings are big and the prices are reasonable.",
+      "title": "Spices Staff are very corteous and friendly.",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "56almai",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/df/2b/default-avatar-2020-39.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945909422,
+        "title": "Owner response",
+        "text": "Dear Valued Guest,\n\nGreetings from al Khoory Atrium Hotel! \n\nThank you for taking the time to provide us with your valuable feedback about your stay with us. Your constructive feedback will help us continually improve the facilities and services offered to all our guests. looking forward to being at your service again in the near future. \n\nYours truly,\nAl Khoory Atrium Hotel Team",
+        "lang": "en",
+        "author": "Jeff Isaacs ",
+        "published_date": "2024-04-09T00:54:41Z"
+      }
+    },
+    {
+      "id": 945815063,
+      "lang": "en",
+      "location_id": 10803505,
+      "published_date": "2024-04-08T06:47:19Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d10803505-r945815063-Reviews-Al_Khoory_Atrium_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945815063",
+      "text": "The room is spacious, the amenities are all good and all the staff are very friendly and accommodating. Special mention to the staff at the restaurant Jericho and Isabel who provided very good service. We will definitely stay again at this hotel.",
+      "title": "Amazing stay and friendly staff",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "F2703NSmf",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f3/e4/default-avatar-2020-30.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945909416,
+        "title": "Owner response",
+        "text": "Dear Valued Guest,\n\nGreetings from al Khoory Atrium Hotel! \n\nThank you for taking the time to provide us with your valuable feedback about your stay with us. Your constructive feedback will help us continually improve the facilities and services offered to all our guests. looking forward to being at your service again in the near future. \n\nYours truly,\nAl Khoory Atrium Hotel Team",
+        "lang": "en",
+        "author": "Jeff Isaacs ",
+        "published_date": "2024-04-09T00:54:30Z"
+      }
+    },
+    {
+      "id": 945788075,
+      "lang": "en",
+      "location_id": 10803505,
+      "published_date": "2024-04-08T02:38:54Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d10803505-r945788075-Reviews-Al_Khoory_Atrium_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945788075",
+      "text": "The rooms were amazing, all the staff are extremely nice always there to help you out whenever you need it. Breakfast is amazing they always have something different everyday, saw someone who needed gluten free optionsand they immediately provided them for her. They're really kind and accommodating, rooms get cleaned everyday and there's a swimming pool, spa and gym on the roof, overall amazing experience my first trip to Dubai.",
+      "title": "First Trip To Dubai,Unforgettable Experience",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "lydiasJ4652BY",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ec/3d/default-avatar-2020-1.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ec/3d/default-avatar-2020-1.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ec/3d/default-avatar-2020-1.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ec/3d/default-avatar-2020-1.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ec/3d/default-avatar-2020-1.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945818563,
+        "title": "Owner response",
+        "text": "Dear Valued Guest,\n\nGreetings from al Khoory Atrium Hotel! \n\nThank you for taking the time to provide us with your valuable feedback about your stay with us. Your constructive feedback will help us continually improve the facilities and services offered to all our guests. looking forward to being at your service again in the near future. \n\nYours truly,\nAl Khoory Atrium Hotel Team",
+        "lang": "en",
+        "author": "Jeff Isaacs ",
+        "published_date": "2024-04-08T07:20:47Z"
+      }
+    }
+  ]
+}

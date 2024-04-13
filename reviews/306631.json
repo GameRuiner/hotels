@@ -1,0 +1,288 @@
+{
+  "data": [
+    {
+      "id": 945789949,
+      "lang": "en",
+      "location_id": 306631,
+      "published_date": "2024-04-08T02:59:25Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d306631-r945789949-Reviews-Ascot_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945789949",
+      "text": "This hotel is a great value for money and is highly recommended .The staff are exceptional, courteous, and professional. The location is perfect, to other tourist attractions. The rooms are comfortable, clean, and well-maintained by the attentive housekeeping staff. The staff always go the extra mile for guests, ensuring they have a pleasant stay.\n \nSpecial thanks to room service staff  ABDUL",
+      "title": "Best for solo travelers",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "203shwetaj",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ef/73/default-avatar-2020-13.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 945018582,
+      "lang": "en",
+      "location_id": 306631,
+      "published_date": "2024-04-03T03:19:54Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d306631-r945018582-Reviews-Ascot_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945018582",
+      "text": "Housekeeping service is very good .. good housekeeping service and good helpful nazeem, subel and Danny supervisor.good experience with guys...good restaurant faclities also and the hotel offers good rooms also near near helpful metro station",
+      "title": "Good stay good experience staff",
+      "trip_type": "Business",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "T9558PD_",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ed/ce/default-avatar-2020-7.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945423046,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nThank you for taking the time to post a review of your stay at the Ascot Hotel. We appreciate receiving your positive feedback and glad to know that you enjoyed your stay with us. Your compliments have been shared with the team.\n\nIt was a pleasure to have you as our guest and we look forward to see you again soon.\n\nBest regards,\nChand Raina\nGeneral Manager",
+        "lang": "en",
+        "author": "Chand Raina",
+        "published_date": "2024-04-05T05:16:53Z"
+      }
+    },
+    {
+      "id": 944741450,
+      "lang": "en",
+      "location_id": 306631,
+      "published_date": "2024-04-01T03:01:39Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d306631-r944741450-Reviews-Ascot_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review944741450",
+      "text": "Abdul did great work and excellent service he is very hardworking and polite I am very much satisfied with his work excellent service by abdul.I highly recommend this employee and give 5 star rating to Abdul. Excellent communication and very cooperative with guests .",
+      "title": "Housekeeping Abdul",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "OnAir08825956962",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/43/default-avatar-2020-11.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945022267,
+        "title": "Owner response",
+        "text": "Dear OnAir08825956962, \n\nThank you for taking the time to share your experience following your recent stay at the Ascot Hotel. We are very pleased to know that you were impressed with the services provided by Abdul. Your kind words are highly appreciated as such flattering remarks continuously inspire the team to excel in providing great service.\n\nIt was a pleasure to have you as our guest and we hope to see you again soon.\n\nBest regards,\nChand Raina\nGeneral Manager",
+        "lang": "en",
+        "author": "Chand Raina",
+        "published_date": "2024-04-03T04:06:34Z"
+      }
+    },
+    {
+      "id": 944664480,
+      "lang": "en",
+      "location_id": 306631,
+      "published_date": "2024-03-31T12:14:15Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d306631-r944664480-Reviews-Ascot_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review944664480",
+      "text": "House keeping staff very pleasant and helpful. Kudos to Nayeem and Danny. This is my 3rd time at Ascot and I just love how easy it is to go places with Bus station METRO and Abra within walking distance. Small restaurants are close by and plenty to choose from.",
+      "title": "March 2424",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "203saeede",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/e3/default-avatar-2020-59.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/e3/default-avatar-2020-59.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/e3/default-avatar-2020-59.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/e3/default-avatar-2020-59.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/e3/default-avatar-2020-59.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944781455,
+        "title": "Owner response",
+        "text": "Dear Mr. Saeed,\n\nThank you for your patronage and for taking the time to share your experience at the Ascot Hotel. We are pleased to know that you enjoyed your stay with us.  Your compliments have been shared with the team.   \n\nIt was a pleasure to have you as our guest and we look forward to welcome you back again soon. \n\nBest regards,\nChand Raina\nGeneral Manager\n\n",
+        "lang": "en",
+        "author": "Chand Raina",
+        "published_date": "2024-04-01T08:39:13Z"
+      }
+    },
+    {
+      "id": 944242135,
+      "lang": "en",
+      "location_id": 306631,
+      "published_date": "2024-03-28T07:50:26Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d306631-r944242135-Reviews-Ascot_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review944242135",
+      "text": "This hotel very nice.\nI can get free and good wifi every single corner on this hotel, my room always cleaned by Housekeeper Abdul is a very kind and polite person, Receptionist nice and polite person, Security polite person, and Menu of this Hotel very complete I like it so much. Also we can swimming, sauna, gym for free. I think you should try",
+      "title": "Housekeeper",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Resort27931836493",
+        "user_location": {
+          "id": "295424",
+          "name": "Dubai, Emirate of Dubai"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/df/99/default-avatar-2020-40.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/df/99/default-avatar-2020-40.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/df/99/default-avatar-2020-40.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/df/99/default-avatar-2020-40.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/df/99/default-avatar-2020-40.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944735944,
+        "title": "Owner response",
+        "text": "Dear PAnD4,\n\nThank you for taking the time to share your experience at the Ascot Hotel.  We appreciate receiving your feedback and glad to know that you enjoyed your stay with us. Your comments have been shared with the team.\n\nIt was a pleasure to have you as our guest and we look forward to see you again soon.\n\nBest regards,\nChand Raina\nGeneral Manager\n",
+        "lang": "en",
+        "author": "Chand Raina",
+        "published_date": "2024-04-01T01:48:31Z"
+      }
+    }
+  ]
+}

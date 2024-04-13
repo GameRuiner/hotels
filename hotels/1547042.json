@@ -1,0 +1,228 @@
+{
+  "location_id": "1547042",
+  "name": "Media One Hotel Dubai",
+  "description": "Media One is an urban lifestyle hotel that believes in doing things differently. It cleverly combines a dynamic sense of style, striking design and an appeal that suits the region's multi-cultural taste. Immaculate meeting rooms and comfortable beds for the hard working executive plus a selection of vibrant outlets to ensure a lively stay every time.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1547042-Reviews-Media_One_Hotel_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Plot No.1 Al Falak St",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "121818 ",
+    "address_string": "Plot No.1 Al Falak St, Dubai 121818 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.089794",
+  "longitude": "55.15259",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1547042-Media_One_Hotel_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#69 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "69"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "6616",
+  "review_rating_count": {
+    "1": "100",
+    "2": "163",
+    "3": "441",
+    "4": "1453",
+    "5": "4459"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "2106",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1547042-m66827-Reviews-Media_One_Hotel_Dubai-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Business center",
+    "Fitness center",
+    "Room service",
+    "Suites",
+    "Restaurant",
+    "Internet",
+    "Free Internet",
+    "Free parking",
+    "Wifi",
+    "Free Wifi",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Butler Service",
+    "Adult pool",
+    "Outdoor pool",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Sauna",
+    "Electric vehicle charging station",
+    "Afrikaans",
+    "Allergy-free Room",
+    "Arabic",
+    "Baggage Storage",
+    "Bicycle Rental",
+    "Blackout Curtains",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Laptop Safe",
+    "Newspaper",
+    "Nightclub / DJ",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Snack Bar",
+    "Special Diet Menus",
+    "Steam Room",
+    "Taxi Service",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Breakfast Available",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Business",
+    "Trendy"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620603",
+      "name": "Al Sufouh"
+    },
+    {
+      "location_id": "15620628",
+      "name": "Dubai Internet City"
+    },
+    {
+      "location_id": "15620605",
+      "name": "Al Sufouh 2"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "3188"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1046"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "621"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "454"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "1026"
+    }
+  ],
+  "awards": []
+}

@@ -1,0 +1,285 @@
+{
+  "location_id": "20355850",
+  "name": "Grand Cosmopolitan Hotel - Dubai",
+  "description": "Located in the Al Barsha area, in the centre of Dubai various commercial and leisure hubs, the hotel is easily accessible from Sheikh Zayed Road. Just 100 meters away from the Mashreq metro station and within walking distance from the Mall of Emirates. Both International Airports and the Expo 2020 site are 30 minutes away. Burj Khalifa and the Dubai World Trade Centre exhibition centre are a short 15 minutes’ drive or easily accessible by metro. The Jumeirah beach front, the Burj Al Arab, Palm Jumeirah, Dubai Marina, Internet City, Media City and the Jebel Ali area are just 10 to 15 minutes away. Space and daylight are the key elements of the hotel design. The facilities have been, equally designed, for the discerning business traveler and the demanding family holiday maker. Whether you are in town for business or leisure, you will find comfort and convenience from the moment you arrive to this city resort",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d20355850-Reviews-Grand_Cosmopolitan_Hotel_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Barsha 1",
+    "street2": "Behind Mashreq Metro Station",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "38250",
+    "address_string": "Al Barsha 1 Behind Mashreq Metro Station, Dubai 38250 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.113358",
+  "longitude": "55.192944",
+  "timezone": "Asia/Dubai",
+  "phone": "01197145122222",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d20355850-Grand_Cosmopolitan_Hotel_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#17 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "17"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "1069",
+  "review_rating_count": {
+    "1": "8",
+    "2": "4",
+    "3": "15",
+    "4": "47",
+    "5": "995"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "1335",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d20355850-m66827-Reviews-Grand_Cosmopolitan_Hotel_Dubai-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Minibar",
+    "Babysitting",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Infinity Pool",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Sauna",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Convenience Store",
+    "Doorperson",
+    "English",
+    "Extra Long Beds",
+    "Filipino",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Free Public Parking Nearby",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hindi",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Parking Garage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Private Check-in / Check-out",
+    "Russian",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shoeshine",
+    "Snack Bar",
+    "Soundproof Rooms",
+    "Special Diet Menus",
+    "Street Parking",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Free Internet",
+    "Wifi",
+    "Public Wifi",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Conference Facilities",
+    "Kids pool",
+    "Parking",
+    "Electric vehicle charging station",
+    "Bidet",
+    "Cable / Satellite TV",
+    "Children's Television Networks",
+    "Children's Playground",
+    "Clothes Dryer",
+    "Clothes Rack",
+    "Currency Exchange",
+    "Dining Area",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Free Wifi in the Business Center",
+    "German",
+    "Highchairs Available",
+    "Indoor Play Area for Children",
+    "Neck Massage",
+    "Outdoor Dining Area",
+    "Private Bathrooms",
+    "Sofa",
+    "Sofa Bed",
+    "Steam Room",
+    "Sun Deck",
+    "Sun Terrace",
+    "Valet Parking",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Charming",
+    "Romantic"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620543",
+      "name": "Al Barsha"
+    },
+    {
+      "location_id": "15620544",
+      "name": "Al Barsha 1"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "87"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "143"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "101"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "249"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "321"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

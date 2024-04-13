@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 668128471,
+      "lang": "en",
+      "location_id": 15018366,
+      "published_date": "2019-04-21T15:29:21Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d15018366-r668128471-Reviews-Alacati_La_Vista-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review668128471",
+      "text": "I came to this hotel with my wife.Its very close to center.They offered the one of the best breakfast i have ever eaten. Owners are very polite and helpful.we felt like home.It brand new hotel. Furnitures are new.Rooms are big and very clean.Five stars quality ⭐️⭐️⭐️⭐️⭐️",
+      "title": "YOU MUST VISIT ",
+      "trip_type": "Couples",
+      "travel_date": "2019-04-30",
+      "user": {
+        "username": "tonyryan1",
+        "user_location": {
+          "id": "60898",
+          "name": "Atlanta, Georgia"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/17/3d/c5/bd/caption.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/17/3d/c5/bd/caption.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/17/3d/c5/bd/caption.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/17/3d/c5/bd/caption.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

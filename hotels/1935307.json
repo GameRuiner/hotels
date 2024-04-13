@@ -1,0 +1,263 @@
+{
+  "location_id": "1935307",
+  "name": "Ramee Rose Hotel",
+  "description": "Ramee Rose Hotel is an excellent choice for travelers visiting Dubai, offering many helpful amenities designed to enhance your stay.\nClose to some of Dubai's most popular landmarks, such as The Palladium (0.8 mi) and Dubai Media City Amphitheatre (1.7 mi), Ramee Rose Hotel is a great destination for tourists.\nAs your “home away from home,” the hotel rooms offer a flat screen TV, a minibar, and air conditioning, and getting online is easy, with free wifi available.\nGuests have access to a concierge and room service while staying at Ramee Rose Hotel. In addition, Ramee Rose Hotel offers a rooftop pool and breakfast, which will help make your Dubai trip additionally gratifying. And, as an added convenience, there is free parking available to guests.\nWhen you’re feeling hungry, be sure to check out Azure Beach, Pierchic, and Shades, which are some Mediterranean restaurants that are popular with locals and out-of-towners alike.\nPlus, during your trip, don't forget to check out a government building, such as Dubai Smart Police Station.\nEnjoy your stay in Dubai!\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1935307-Reviews-Ramee_Rose_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Barsha South, Opp Media Rotana Barsha Heights",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "",
+    "address_string": "Al Barsha South, Opp Media Rotana Barsha Heights, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.098192",
+  "longitude": "55.179577",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1935307-Ramee_Rose_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#380 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "380"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "623",
+  "review_rating_count": {
+    "1": "75",
+    "2": "41",
+    "3": "69",
+    "4": "114",
+    "5": "324"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    }
+  },
+  "photo_count": "206",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1935307-m66827-Reviews-Ramee_Rose_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Fitness center",
+    "Room service",
+    "Free parking",
+    "Suites",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Refrigerator in room",
+    "Conference Facilities",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Housekeeping",
+    "Billiards",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Desk",
+    "English",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Nightclub / DJ",
+    "Ski-In / Ski-Out",
+    "Minibar",
+    "Breakfast Available",
+    "Kids Stay Free",
+    "Arabic",
+    "Baggage Storage",
+    "Bottled Water",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "Express Check-in / Check-out",
+    "Clothes Rack",
+    "Coffee Shop",
+    "Couples Massage",
+    "Currency Exchange",
+    "Doorperson",
+    "Electric Kettle",
+    "Extra Long Beds",
+    "Facial Treatments",
+    "First Aid Kit",
+    "Foot Bath",
+    "Foot Massage",
+    "Complimentary Welcome Drink",
+    "Full Body Massage",
+    "Hand Massage",
+    "Happy Hour",
+    "Head Massage",
+    "Hot Spring Bath",
+    "Indonesian",
+    "Interconnected room(s) available",
+    "Iron",
+    "Kids' Meals",
+    "Landmark View",
+    "Makeup Services",
+    "Manicure",
+    "Massage",
+    "Neck Massage",
+    "Nepali",
+    "Newspaper",
+    "Outdoor Dining Area",
+    "Outdoor Furniture",
+    "Private Bathrooms",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Snack Bar",
+    "Steam Room",
+    "Sun Deck",
+    "Sun Terrace",
+    "Tamil",
+    "Taxi Service",
+    "Telephone",
+    "Thai",
+    "Tile / Marble Floor",
+    "Turkish",
+    "Umbrella",
+    "Urdu",
+    "Vietnamese",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Wine / Champagne",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Mid-range",
+    "Quiet"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620543",
+      "name": "Al Barsha"
+    },
+    {
+      "location_id": "15620547",
+      "name": "Al Barsha Heights (Tecom)"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "157"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "75"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "117"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "88"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "151"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

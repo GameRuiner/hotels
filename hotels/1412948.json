@@ -1,0 +1,243 @@
+{
+  "location_id": "1412948",
+  "name": "Lindos Imperial Resort & Spa",
+  "description": "Lindos Imperial Resort & Spa, a five star establishment on Kiotari Beach, on the southeastern coast of Rhodes Island. A luxurious example of impeccable accommodation and flawless facilities and services. Lindos Imperial Resort & Spa and its unbeatable location immersed in the unspoilt Kiotari bay. The simply unsurpassable services, aim to please and provide a memorable holiday experience.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g1175546-d1412948-Reviews-Lindos_Imperial_Resort_Spa-Kiotari_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "city": "Kiotari",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "851 09",
+    "address_string": "Kiotari 851 09 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Kiotari",
+      "location_id": "1175546"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.06221",
+  "longitude": "27.988516",
+  "timezone": "Europe/Athens",
+  "write_review": "https://www.tripadvisor.com/UserReview-g1175546-d1412948-Lindos_Imperial_Resort_Spa-Kiotari_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "1175546",
+    "ranking_string": "#6 of 16 hotels in Kiotari",
+    "geo_location_name": "Kiotari",
+    "ranking_out_of": "16",
+    "ranking": "6"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "4463",
+  "review_rating_count": {
+    "1": "182",
+    "2": "246",
+    "3": "543",
+    "4": "1160",
+    "5": "2332"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "5130",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g1175546-d1412948-m66827-Reviews-Lindos_Imperial_Resort_Spa-Kiotari_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Beachfront",
+    "Free parking",
+    "Suites",
+    "Internet",
+    "Kids Activities",
+    "Room service",
+    "Free Internet",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Flatscreen TV",
+    "Water Park",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Private Pools",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Kids Club",
+    "Sauna",
+    "Aerobics",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Couples Massage",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Greek",
+    "Head Massage",
+    "Italian",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "VIP Room Facilities",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Bay View",
+    "Park View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "41"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1244"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "63"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "2224"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "368"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

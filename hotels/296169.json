@@ -1,0 +1,273 @@
+{
+  "location_id": "296169",
+  "name": "Salmakis Resort & Spa",
+  "description": "Finding an ideal family-friendly resort in Bodrum City does not have to be difficult. Welcome to Salmakis Resort Bodrum, a nice option for travelers like you.\nGiven the close proximity of popular landmarks, such as Windmills (0.2 mi) and Osmanli Tersanesi Sanat Galerisi (0.5 mi), guests of Salmakis Resort Bodrum can easily experience some of Bodrum City's most well known attractions.\nFree internet access is offered to guests, and rooms at Salmakis Beach Resort offer a flat screen TV, air conditioning, and a minibar.\nDuring your stay, take advantage of some of the amenities offered, including a 24 hour front desk, room service, and a concierge. Guests of Salmakis Resort Bodrum are also welcome to enjoy a pool and free breakfast, located on site. For travelers arriving by car, free parking is available.\nBodrum City has plenty of spots serving up great shrimp dishes. So when you’re here, be sure to check out popular spots like La Pasion Restaurant, Otantik Ocakbasi, and Gemibasi Restaurant.\nIf you’re looking for something to do, Castle of St. Peter (0.8 mi) and Bodrum Amphitheater (0.8 mi) are a nice way to spend some time, and they are all within walking distance of Salmakis Hotel Bodrum.\nSalmakis Resort Bodrum looks forward to welcoming you on your visit to Bodrum City.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298658-d296169-Reviews-Salmakis_Resort_Spa-Bodrum_City_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "BardakcI Koyu, Salmakis Cd. No:7",
+    "city": "Bodrum City",
+    "state": "Mugla Province",
+    "country": "Turkiye",
+    "postalcode": "48400",
+    "address_string": "BardakcI Koyu, Salmakis Cd. No:7, Bodrum City 48400 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Bodrum City",
+      "location_id": "298658"
+    },
+    {
+      "level": "District",
+      "name": "Bodrum District",
+      "location_id": "298020"
+    },
+    {
+      "level": "Province",
+      "name": "Mugla Province",
+      "location_id": "298019"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "37.028408",
+  "longitude": "27.416462",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298658-d296169-Salmakis_Resort_Spa-Bodrum_City_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298658",
+    "ranking_string": "#21 of 164 hotels in Bodrum City",
+    "geo_location_name": "Bodrum City",
+    "ranking_out_of": "164",
+    "ranking": "21"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "2785",
+  "review_rating_count": {
+    "1": "119",
+    "2": "87",
+    "3": "247",
+    "4": "577",
+    "5": "1755"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "2443",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298658-d296169-m66827-Reviews-Salmakis_Resort_Spa-Bodrum_City_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Free parking",
+    "Internet",
+    "Free Internet",
+    "Business center",
+    "Breakfast included",
+    "Kids Activities",
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Kids Club",
+    "Sauna",
+    "Baggage Storage",
+    "Billiards",
+    "Bottled Water",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Coffee / Tea Maker",
+    "Convenience Store",
+    "Couples Massage",
+    "Currency Exchange",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Head Massage",
+    "Ironing Service",
+    "Massage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Shops",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Turkish",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Kids pool",
+    "Boating",
+    "Body Wrap",
+    "Express Check-in / Check-out",
+    "Children's Playground",
+    "Clothes Rack",
+    "Foot Bath",
+    "Hand Massage",
+    "Highchairs Available",
+    "Infirmary",
+    "Manicure",
+    "Neck Massage",
+    "Pedicure",
+    "Sun Deck",
+    "Umbrella",
+    "Wardrobe / Closet",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Great View",
+    "Family"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "84"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "799"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "126"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "914"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "543"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

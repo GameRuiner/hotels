@@ -1,0 +1,210 @@
+{
+  "location_id": "21362659",
+  "name": "Super 8 by Wyndham Dubai Deira",
+  "description": "Explore this magnificent Middle Eastern metropolis while enjoying the dependable comforts of Super 8 by Wyndham Deira, close to metro and bus stops, and just six miles from Dubai International Airport (DXB). Located in the buzzing Deira business district, our contemporary hotel is minutes from the Dubai Cruise Terminal, Dubai Gold and Spice Souks, and Heritage Village.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d21362659-Reviews-Super_8_by_Wyndham_Dubai_Deira-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Maryam Plaza 1, Al Daghaya Rd_ 113",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Maryam Plaza 1, Al Daghaya Rd_ 113, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.273167",
+  "longitude": "55.29854",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d21362659-Super_8_by_Wyndham_Dubai_Deira-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#160 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "160"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "328",
+  "review_rating_count": {
+    "1": "7",
+    "2": "6",
+    "3": "5",
+    "4": "27",
+    "5": "283"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "156",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d21362659-m66827-Reviews-Super_8_by_Wyndham_Dubai_Deira-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Free Wifi",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Air conditioning",
+    "Safe",
+    "Breakfast Buffet",
+    "Housekeeping",
+    "Arabic",
+    "Bath / Shower",
+    "Bottled Water",
+    "Complimentary Tea",
+    "English",
+    "Complimentary Instant Cofffee",
+    "24-Hour Front Desk",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "24-Hour Security",
+    "Telephone",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Flatscreen TV",
+    "ATM On Site",
+    "Bidet",
+    "Blackout Curtains",
+    "Cable / Satellite TV",
+    "Clothes Rack",
+    "Coffee Shop",
+    "Desk",
+    "Filipino",
+    "Hindi",
+    "Iron",
+    "Private Bathrooms",
+    "Seating Area",
+    "Tile / Marble Floor",
+    "Urdu",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Charming",
+    "Budget"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620550",
+      "name": "Al Dhagaya"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "77"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "37"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "51"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "78"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "39"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

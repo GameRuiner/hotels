@@ -1,0 +1,242 @@
+{
+  "location_id": "1522979",
+  "name": "Pickalbatros Royal Grand Resort",
+  "description": "Experience world-class service at Pickalbatros Royal Grand Resort - Adults Only Situated at the edge of the Om El Seid plateau in Sharm el-Sheikh, this 5-star beachfront hotel offers rooms with a private balcony. It features an outdoor pool and a private beach. The air-conditioned rooms at ickalbatros Royal Grand Resort - Adults Only have satellite TV, a minibar, and an en suite bathroom. The rooms feature panoramic views of the pool, the landscaped gardens, or the Red Sea. ickalbatros Royal Grand Resort - Adults Only offers on-site water sports, such as diving and snorkeling. Guests can get a relaxing massage at the spa, which also features a Turkish bath, a sauna, and a fitness center. Restaurant Mediterranean has a smart, casual atmosphere and its buffet-style menu offers local delicacies. Fresh salads and seafood specialties are served at the Gulf Stream, the poolside bar. Pickalbatros Royal Grand Resort - Adults Only is a 10-minute walk away from Il Mercato and NeverLand. Sharm el Sheikh’s center with its famous traditional bazaars is only a 15-minute drive from the hotel. Free private parking is available on site. Couples particularly like the location — they rated it 8.7 for a two-person trip.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d1522979-Reviews-Pickalbatros_Royal_Grand_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Om El Seid Hill",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "postalcode": "8762631",
+    "address_string": "Om El Seid Hill, Sharm El Sheikh 8762631 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.86172",
+  "longitude": "34.316727",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d1522979-Pickalbatros_Royal_Grand_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#7 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "7"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "5043",
+  "review_rating_count": {
+    "1": "45",
+    "2": "81",
+    "3": "243",
+    "4": "892",
+    "5": "3782"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "7427",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d1522979-m66827-Reviews-Pickalbatros_Royal_Grand_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Restaurant",
+    "Beachfront",
+    "Room service",
+    "Bar/Lounge",
+    "Fitness center",
+    "Suites",
+    "Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Paid Internet",
+    "Dry Cleaning",
+    "Free Internet",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Sauna",
+    "Aerobics",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "BBQ Facilities",
+    "Billiards",
+    "Blackout Curtains",
+    "24-Hour Check-in",
+    "Currency Exchange",
+    "Darts",
+    "Desk",
+    "Diving",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Extra Long Beds",
+    "Facial Treatments",
+    "Fitness / Spa Locker Rooms",
+    "24-Hour Front Desk",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Ironing Service",
+    "Italian",
+    "Massage",
+    "Mini Golf",
+    "Picnic Area",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Snorkeling",
+    "Soundproof Rooms",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Bidet",
+    "Express Check-in / Check-out",
+    "Couples Massage",
+    "First Aid Kit",
+    "Foot Bath",
+    "Foot Massage",
+    "Full Body Massage",
+    "Hand Massage",
+    "Head Massage",
+    "Neck Massage",
+    "Pedicure",
+    "Personal Trainer",
+    "Pool View",
+    "Sofa",
+    "Umbrella",
+    "VIP Room Facilities",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Water Sport Equipment Rentals",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Classic",
+    "Harbor View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "18"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1272"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "329"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1459"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "1500"
+    }
+  ],
+  "awards": []
+}

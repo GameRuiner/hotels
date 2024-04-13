@@ -1,0 +1,232 @@
+{
+  "location_id": "23691627",
+  "name": "Hyatt Centric Jumeirah",
+  "description": "Hyatt Centric Jumeirah is your launchpad to explore the best of Dubai – from beautiful beachfront and action-packed adventure to world-class dining and glittering nightlife. The hotel is situated by a world-class beachfront in Dubai called La Mer in Jumeirah 1 that incorporates a minimalist and contemporary design with boutique stores, eclectic restaurants and cafés, and vibrant nightlife along 2.5 kilometers of relaxing white sand. Jumeirah Beach Road connects you to the entire city from the port to the marina.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d23691627-Reviews-Hyatt_Centric_Jumeirah-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "La Mer North, Jumeirah 1",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "0000",
+    "address_string": "La Mer North, Jumeirah 1, Dubai 0000 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.23457",
+  "longitude": "55.26049",
+  "timezone": "Asia/Dubai",
+  "phone": "01197143021234",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d23691627-Hyatt_Centric_Jumeirah-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#342 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "342"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "300",
+  "review_rating_count": {
+    "1": "19",
+    "2": "15",
+    "3": "16",
+    "4": "27",
+    "5": "223"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "400",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d23691627-m66827-Reviews-Hyatt_Centric_Jumeirah-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Private Balcony",
+    "Internet",
+    "Beachfront",
+    "Free Internet",
+    "Wheelchair access",
+    "Wifi",
+    "Public Wifi",
+    "Business center",
+    "Minibar",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Poolside Bar",
+    "Butler Service",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Housekeeping",
+    "Electric vehicle charging station",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Cable / Satellite TV",
+    "24-Hour Check-in",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Desk",
+    "Dining Area",
+    "Doorperson",
+    "Electric Kettle",
+    "Evening Entertainment",
+    "First Aid Kit",
+    "Fitness / Spa Locker Rooms",
+    "Free Public Parking Nearby",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "Free Wifi in the Business Center",
+    "Free Wired Internet in the Business Center",
+    "24-Hour Front Desk",
+    "Gift Shop",
+    "Hair Dryer",
+    "Interconnected room(s) available",
+    "Iron",
+    "Outdoor Dining Area",
+    "Pool / Beach Towels",
+    "Pool View",
+    "Pool with View",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Telephone",
+    "Umbrella",
+    "Valet Parking",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet",
+    "Wine / Champagne",
+    "Beach Access"
+  ],
+  "parent_brand": "Hyatt Hotels",
+  "brand": "Hyatt Centric",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "City View",
+    "Luxury"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "51"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "61"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "20"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "67"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "29"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

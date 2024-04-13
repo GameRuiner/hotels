@@ -1,0 +1,201 @@
+{
+  "location_id": "2160043",
+  "name": "Orty Airport Hotel",
+  "description": "Located at the entrance of the İzmir Adnan Menderes International Airport, this hotel offers rooms with free Wi-Fi and a flat-screen TV. Facilities include a 24-hour reception.The air-conditioned rooms at Orty Airport Hotel feature a modern interior decorated with wooden furniture and warm colours. All rooms have a minibar, and an en suite bathroom.The hotel serves a rich buffet breakfast in the mornings. The Claros Restaurant serves local Turkish dishes as well as international cuisine. Room service is available as well.Guests can benefit from a free shuttle service to and from the airport. The hotel also offers laundry facilities and car rental.Orty Airport Hotel is 18 km from Izmir’s city centre, where guests can visit the Museum of History & Art and the ancient Agora.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d2160043-Reviews-Orty_Airport_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Izmir Adnan Menderes HavalimanI Girisi, Gaziemir",
+    "street2": "",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "",
+    "address_string": "Izmir Adnan Menderes HavalimanI Girisi, Gaziemir, Izmir Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.29614",
+  "longitude": "27.144014",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d2160043-Orty_Airport_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#22 of 218 hotels in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "218",
+    "ranking": "22"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "355",
+  "review_rating_count": {
+    "1": "13",
+    "2": "7",
+    "3": "40",
+    "4": "161",
+    "5": "134"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "112",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d2160043-m66827-Reviews-Orty_Airport_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Shuttle Bus Service",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Pets Allowed",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Non-smoking rooms",
+    "Concierge",
+    "Air conditioning",
+    "Smoking rooms available",
+    "Minibar",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Breakfast Available",
+    "Parking",
+    "Free airport transportation",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Suites",
+    "Free parking",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Laundry Service",
+    "Banquet Room",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "ATM On Site",
+    "Baggage Storage",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Car Hire",
+    "Express Check-in / Check-out",
+    "Coffee Shop",
+    "Currency Exchange",
+    "English",
+    "French",
+    "24-Hour Front Desk",
+    "German",
+    "Ironing Service",
+    "Newspaper",
+    "Private Check-in / Check-out",
+    "Shoeshine",
+    "Snack Bar",
+    "Soundproof Rooms",
+    "Special Diet Menus",
+    "Turkish",
+    "VIP Room Facilities"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Modern",
+    "Quiet"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "71"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "128"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "28"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "68"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "37"
+    }
+  ],
+  "awards": []
+}

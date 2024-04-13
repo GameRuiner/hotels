@@ -1,0 +1,230 @@
+{
+  "location_id": "1879023",
+  "name": "TIME Grand Plaza Hotel",
+  "description": "TIME Grand Plaza Hotel features 232 spacious rooms and suites appointed with every imaginable guest comfort. Savor superb cuisine at two onsite restaurants and at our breezy poolside lounge. Enjoy an invigorating workout in the state-of-the-art Powerzone fitness centre or soothe away stress in the temperature-controlled rooftop pool. For corporate guests, three modern meeting rooms and property-wide wireless Internet access is available to promote productivity and fresh ideas. Whether you're travelling for business or leisure, you're sure to appreciate the unique features and convenient setting of our Al Qusais hotel near Dubai International Airport. The hotel has dedicated non-smoking floors available.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1879023-Reviews-TIME_Grand_Plaza_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Damascus St",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "237844",
+    "address_string": "Damascus St, Dubai 237844 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.270718",
+  "longitude": "55.380486",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1879023-TIME_Grand_Plaza_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#241 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "241"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1392",
+  "review_rating_count": {
+    "1": "36",
+    "2": "24",
+    "3": "89",
+    "4": "348",
+    "5": "896"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "484",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1879023-m66827-Reviews-TIME_Grand_Plaza_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Pool",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Business center",
+    "Fitness center",
+    "Suites",
+    "Room service",
+    "Spa",
+    "Airport transportation",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Facilities for Disabled Guests",
+    "Kids Stay Free",
+    "Arabic",
+    "Baggage Storage",
+    "Car Hire",
+    "Currency Exchange",
+    "Doorperson",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Ironing Service",
+    "Massage",
+    "Salon",
+    "24-Hour Security",
+    "Shoeshine",
+    "Steam Room",
+    "Taxi Service",
+    "VIP Room Facilities"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Residential Neighborhood",
+    "Classic"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620586",
+      "name": "Al Qusais 2"
+    },
+    {
+      "location_id": "15620584",
+      "name": "Al Qusais"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "417"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "307"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "142"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "245"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "177"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

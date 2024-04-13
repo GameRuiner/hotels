@@ -1,0 +1,332 @@
+{
+  "data": [
+    {
+      "id": 945526549,
+      "lang": "en",
+      "location_id": 642623,
+      "published_date": "2024-04-06T02:05:40Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d642623-r945526549-Reviews-Hotel_Boulevard_Autograph_Collection-Dubai_Emirate_of_Dubai.html?m=66827#review945526549",
+      "text": "Excellent hotel,super location near burj khalifa close to all major attractions and the mall of Dubai. Excellent breakfast and very confy rooms with all facilities and amenities. The staff is very helpful and cheerful ..especially Maribeth!!",
+      "title": "Excellent hotel",
+      "trip_type": "Business",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "linoss2024",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/43/default-avatar-2020-11.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945657765,
+        "title": "Owner response",
+        "text": "Hi Linos S!\n\nI’m happy you enjoyed your stay with us and that the accommodations and service provided by our team especially Maribeth were what you expected and deserve. We appreciate your time in sharing your experience with us. We hope to welcome you back soon at Hotel Boulevard!\nRegards,\nAsad Haroon\nGeneral Manager\n",
+        "lang": "en",
+        "author": "Asaad Haroon",
+        "published_date": "2024-04-07T03:27:50Z"
+      }
+    },
+    {
+      "id": 945446764,
+      "lang": "en",
+      "location_id": 642623,
+      "published_date": "2024-04-05T09:23:51Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d642623-r945446764-Reviews-Hotel_Boulevard_Autograph_Collection-Dubai_Emirate_of_Dubai.html?m=66827#review945446764",
+      "text": "The hotel exceeded my expectations with its impeccable service, comfortable and very clean room.the staff were friendly and accommodating especially housekeeping they make my stay truly enjoyable.I highly recommend it to anyone visiting the area.",
+      "title": "Excellent service",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Sprtos",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f4/20/default-avatar-2020-31.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945523360,
+        "title": "Owner response",
+        "text": "Hi Humzii!\nThank you for choosing Hotel Boulevard and for the time to share your experience with us. I'm so glad to know that we exceeded your expectations, and our staff took good care of you. I will make sure to relay the message to the teams in order to ensure we keep valued guests like yourself delighted. Your recommendation is highly appreciated! We hope to welcome you back soon at Hotel Boulevard!\nRegards,\nAsad Haroon\nGeneral Manager\n\n",
+        "lang": "en",
+        "author": "Asaad Haroon",
+        "published_date": "2024-04-06T01:08:00Z"
+      }
+    },
+    {
+      "id": 945305869,
+      "lang": "en",
+      "location_id": 642623,
+      "published_date": "2024-04-04T05:40:14Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d642623-r945305869-Reviews-Hotel_Boulevard_Autograph_Collection-Dubai_Emirate_of_Dubai.html?m=66827#review945305869",
+      "text": "Raymond good guy helped me very well im proud of who raymond has become a hardworking men i wish him all the the best in his life i think he will make it far with his work ethic and good mindset the room is very clean and always quick am super happy with it",
+      "title": "Raymond",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "Resort22713367889",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f1/06/default-avatar-2020-18.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f1/06/default-avatar-2020-18.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f1/06/default-avatar-2020-18.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f1/06/default-avatar-2020-18.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/06/default-avatar-2020-18.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945407964,
+        "title": "Owner response",
+        "text": "Hi Resort22713367889!\n\nThank you for choosing to stay with us and for your time reviewing us here. I'm thrilled to read your generous feedback for Raymond and will make sure to relay the message to the teams in order to ensure we keep valued guests like yourself delighted. Please know that I have shared your comments with our team as we continuously enhance our product whenever possible. Looking forward to welcoming you back at Hotel Boulevard!\n\nRegards,\nAsad Haroon\nGeneral Manager\n",
+        "lang": "en",
+        "author": "Asaad Haroon",
+        "published_date": "2024-04-05T02:16:53Z"
+      }
+    },
+    {
+      "id": 944706062,
+      "lang": "en",
+      "location_id": 642623,
+      "published_date": "2024-03-31T17:33:53Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d642623-r944706062-Reviews-Hotel_Boulevard_Autograph_Collection-Dubai_Emirate_of_Dubai.html?m=66827#review944706062",
+      "text": "I travelled with my family, with my husband and my young daughter in February to Hotel Boulevard, Dubai. Our stay was very nice, the staff are super professional and friendly. The hotel has a boutique hotel atmosphere, the staff knew my daughter by name and we felt relaxed and well taking care all the time. The location is great. Just a few minutes and you are in the middle of the Boulevard. After an active morning, you can spend a relaxing afternoon at the pool. The restaurant is very nice with a nice variety of options. The restaurant staff were really taking care of us and making an extra mile, we found some new friends there..thank you Florence, Linda, Khaled to be so nice! We definitely would like to visit again. Thank you!",
+      "title": "Super location and a Special Hotel",
+      "trip_type": "Family",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "Agi_marbella",
+        "user_location": {
+          "id": "187439",
+          "name": "Marbella, Costa del Sol, Province of Malaga, Andalucia"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/11/ab/22/7f/agi-marbella.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/11/ab/22/7f/agi-marbella.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/11/ab/22/7f/agi-marbella.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/11/ab/22/7f/agi-marbella.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/11/ab/22/7f/agi-marbella.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944743464,
+        "title": "Owner response",
+        "text": "Hi Agi_marbella!\nThank you for choosing Hotel Boulevard and for the time you have taken to share a review. It's amazing to know that you enjoyed your stay with us and our staff especially Florence, Linda and Khaled took good care of you and your family. I will make sure to relay the message to the teams in order to ensure we keep valued guests like yourself delighted. Looking forward to welcoming you back at Hotel Boulevard!\n\nRegards,\nAsad Haroon\nGeneral Manager\n",
+        "lang": "en",
+        "author": "Asaad Haroon",
+        "published_date": "2024-04-01T03:21:52Z"
+      }
+    },
+    {
+      "id": 944475792,
+      "lang": "en",
+      "location_id": 642623,
+      "published_date": "2024-03-30T04:14:00Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d642623-r944475792-Reviews-Hotel_Boulevard_Autograph_Collection-Dubai_Emirate_of_Dubai.html?m=66827#review944475792",
+      "text": "My experience at hotel Boulevard was second to none. The staff was friendly and informative. We felt at home and was actually sad to leave. In particular, the waiters, DJ and Florence did an exemplary job at catering to our needs. \nI would definitely recommend staying in the hotel Boulevard hotel when visiting staying in Dubai.",
+      "title": "Great value hotel and good piece",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "W1083PAandrew",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/13/87/3c/63/andre-w.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/13/87/3c/63/andre-w.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/13/87/3c/63/andre-w.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/13/87/3c/63/andre-w.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944627603,
+        "title": "Owner response",
+        "text": "Hi Andre W!\nThank you for choosing Hotel Boulevard and for your time reviewing us here. We are thrilled to read your generous feedback especially for DJ and Florence. I will make sure to relay the message to the teams in order to ensure we keep valued guests like yourself delighted. Please know that I have shared your comments with our team as we continuously enhance our product whenever possible. Looking forward to welcoming you back at Hotel Boulevard!\n\nRegards,\nAsad Haroon\nGeneral Manager\n",
+        "lang": "en",
+        "author": "Asaad Haroon",
+        "published_date": "2024-03-31T07:29:06Z"
+      }
+    }
+  ]
+}

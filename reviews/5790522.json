@@ -1,0 +1,292 @@
+{
+  "data": [
+    {
+      "id": 945361486,
+      "lang": "en",
+      "location_id": 5790522,
+      "published_date": "2024-04-04T14:27:53Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d5790522-r945361486-Reviews-Hotel_Praktik_Bakery-Barcelona_Catalonia.html?m=66827#review945361486",
+      "text": "Simple but cute and clean accommodation. Location couldn't be more perfect, far away from crowds and tourists, the hotel is within walking distance to most attractions and restaurants. We went to the cafe (Juice dudes) across the street for delicious and healthy breakfast.",
+      "title": "Prime Location",
+      "trip_type": "Couples",
+      "travel_date": "2023-05-31",
+      "user": {
+        "username": "miab599",
+        "user_location": {
+          "id": "189852",
+          "name": "Stockholm"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f4/20/default-avatar-2020-31.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 942785354,
+      "lang": "en",
+      "location_id": 5790522,
+      "published_date": "2024-03-18T11:39:25Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d5790522-r942785354-Reviews-Hotel_Praktik_Bakery-Barcelona_Catalonia.html?m=66827#review942785354",
+      "text": "Beautiful hotel and nice area in Barcelona. We requested a quiet room not facing the street, room was quiet and you could open window for a nice breeze. Great bakery inexpensive and wonderful product. Gaudi (Casa Mila and Casa Batlo around the corner). Would recommemd property. Great value.",
+      "title": "Hotel Praktik Bakery",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "elizabethdB9076SO",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/25/1a/fe/4a/elizabethdb9076so.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/25/1a/fe/4a/elizabethdb9076so.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/25/1a/fe/4a/elizabethdb9076so.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/25/1a/fe/4a/elizabethdb9076so.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/25/1a/fe/4a/elizabethdb9076so.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 943323605,
+        "title": "Owner response",
+        "text": "Dear Elizabeth,\n\nThank you very much for those kind words about our hotel and staff. Knowing that your experience with us was good means a lot for us. Our main goal is to make clients feel like they are home during their stay. \n\nWhat can we say about our bakery... A-M-A-Z-I-N-G! Products made with the best ingredients, fresh from the first our in the morning. In the bakery you can take from a croissant to a pizza slice, the variety is so good.\n\nRegarding our location, we are in the middle of the city center, surrounded by shops, restaurants and touristic attractions, such as la Pedrera, which is located 2 minutes away from our doors. \n\nIt will be a pleasure to have you back here with us! For your next trip to Barcelona, you already know where to find us\n\nBest wishes\n",
+        "lang": "en",
+        "author": "Magaly Julien",
+        "published_date": "2024-03-21T20:44:48Z"
+      }
+    },
+    {
+      "id": 941031033,
+      "lang": "en",
+      "location_id": 5790522,
+      "published_date": "2024-03-06T06:13:08Z",
+      "rating": 2,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d5790522-r941031033-Reviews-Hotel_Praktik_Bakery-Barcelona_Catalonia.html?m=66827#review941031033",
+      "text": "This is the first time I make a hotel review because I feel that this time it is really needed and I will be  honest.\nI have nothing bad to say BUT I would strongly recommend people to choose another hotel. Here is why:\nFirst of all I stayed 3 nights and paid EUR 400 per night (total for 3 nights = EUR 1200). That is the max I have ever paid for a hotel room. I thought it would be worth it BUT IT IS NOT! Far away from it in fact.\nThe room was small. When you enter the room you find yourself in the bathroom. You have the bare minimum. No shower cap, no pen, no notepad, no nothing!\nWhen I open my window there was a white wall in front. I felt in a prison. The hallway on the floor was sad and narrow.\nAlso I had the breakfast buffet only 1 day. They had great pastries from the bakery but I was shocked to find that the coffee pods are not next to the coffee machine. To get them you have to go to the reception! They keep the box there and they open it for you to choose your coffee and then you can go to the coffee machine! I felt like a school kid…\nIf you are looking for a small, clean, centrally located hotel and you don’t mind paying EUR 400 than I encourage you to go. But personally I think that it is way WAY too overpriced!\nIn conclusion: I did not get what I paid for and I felt cheated. I do not recommend this hotel.\nI recommend people to go in an Airbnb as hotels in Barcelona are too pricey.",
+      "title": "You do not get what you pay for",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "lutfia20202020",
+        "user_location": {
+          "id": "188106",
+          "name": "Canton of Vaud"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/a3/default-avatar-2020-38.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 941371051,
+        "title": "Owner response",
+        "text": "Dear Lutfia,\n\nFirst of all, we would like you to understand that we take our clients' criticisms into account, whether good or bad. Our department in charge of complaints from our guests takes into consideration all comments published on our networks.\n\nWe have seen that your review has also been published on other portals and you had received a response, which is why we do not want to repeat ourselves excessively.\n\nWe have analyzed your case and we see that your reservation was in an economy double room; That is why the views from your room were focused on the interior patio of the hotel. These types of rooms are somewhat darker than the exterior ones. That said, we want you to know that we offer a 24-hour reception service and even if you wish, you can call us at any time without leaving the room. Our colleagues would have informed you of the cost of acquiring a room with views of the street.\n\nOn the other hand, the dates of your reservation passed just at the same time that the Mobile World Congress was taking place, one of the most important events in the city of Barcelona, where all the hotels in the city are at higher prices than normal due to the high demand that occurs.\n\nWe understand that on other dates the prices are cheaper but we firmly believe that on those dates, our offer is not as bad as it seems.\n\nFinally, comment that in all our ads, you will find clear and concise information about everything the room offers, along with its size. Photographs are even attached so that the client can have a clearer idea.\n\nWe can only emphasize that we take your comment into account and we hope to have the opportunity to receive your visit in our establishment again, and thus improve your experiences.\n\nBest wishes\n",
+        "lang": "en",
+        "author": "Magaly Julien",
+        "published_date": "2024-03-08T01:41:18Z"
+      }
+    },
+    {
+      "id": 940638015,
+      "lang": "en",
+      "location_id": 5790522,
+      "published_date": "2024-03-03T05:06:37Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d5790522-r940638015-Reviews-Hotel_Praktik_Bakery-Barcelona_Catalonia.html?m=66827#review940638015",
+      "text": "We booked this hotel for a mini break to Barcelona and it did not disappoint. Before we arrived I had great communication with the hotel team who helped us navigate getting from the airport to the hotel. We had a gorgeous room compact but with everything we needed. Clean and fresh with a lovely view of beautiful Barcelona architecture. \nYes the street is noisy at certain times with cleaning and deliveries but what city street isn’t, and you should expect noise on a city break. \nVictor on reception was amazing, we had a passport stolen in Barcelona and he helped sort out what we needed to do to get a replacement. Nothing was a problem from Amazing restaurant recommendations to booking taxis to the airport. \nThe icing on the cake with this hotel is the amazing bakery on the ground floor. Cakes, sandwiches, pastries, pizza you name it they had it & all delicious plus great fresh coffee and orange juice. We would go back in a heartbeat! Well done Praktik Bakery you made our trip ❤️ ❤️❤️",
+      "title": "This Hotel was the icing on the cake!",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "SKLewis-Wells",
+        "user_location": {
+          "id": "190761",
+          "name": "Worthing, West Sussex, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/04/31/6c/c9/sklewis-wells.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/04/31/6c/c9/sklewis-wells.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/04/31/6c/c9/sklewis-wells.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/04/31/6c/c9/sklewis-wells.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/04/31/6c/c9/sklewis-wells.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 940718798,
+        "title": "Owner response",
+        "text": "Dear guest,\n\nThank you for such a positive feedback, it is much appreciated! \n\nOur staff work hard every day to make you feel at home, we are very happy to hear that you felt welcomed and well attended.\nA comfortable bed and a refreshing rains shower effect is perfect to rest after a day exploring the city.\nWhat can we say about or bakery… You are right! Our bakery is amazing! It offers many products and all of quality, fresh from the morning until late afternoon. Wake up to that smell is nice!!\n\nIt will definitely be a pleasure to welcome you back. \n\nBest regards!\n",
+        "lang": "en",
+        "author": "Magaly Julien",
+        "published_date": "2024-03-03T17:12:22Z"
+      }
+    },
+    {
+      "id": 935869185,
+      "lang": "en",
+      "location_id": 5790522,
+      "published_date": "2024-01-28T17:11:32Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d5790522-r935869185-Reviews-Hotel_Praktik_Bakery-Barcelona_Catalonia.html?m=66827#review935869185",
+      "text": "Very unprofessional behaviour of the hotel reception staff, very defensive and unhelpful. Customer here is always wrong. Unpleasant experience- I would not recommend to stay here unless you want to ruin your holiday. \nBesides poor staff behaviour you will be woken up at early hours around 5 am by banging noise in the kitchen and smell of greasy croissants.",
+      "title": "Very unprofessional staff, customer service non existent",
+      "trip_type": "Couples",
+      "travel_date": "2024-01-31",
+      "user": {
+        "username": "73tetyanaw",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ea/b2/default-avatar-2020-69.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 936124611,
+        "title": "Owner response",
+        "text": "Dear Tetyana,\n\nFirst of all we are really sorry for this unfortunate situation. However, two reservations were made under your name, which one of them was a no-show and following our policy cancellation we had to charge the penalty fee as you never notified us of not coming either a modification wasn't made. The typing mistake wasn't ours and Booking does not share the contact information of the guests, so for us it was impossible to know that your mail adress was wrong.\n\nAs we have discussed, our team contacted Booking to clarify what happened to your reservations and Booking made it clear to you and also explained it to you, that you indeed had two reservations .with us, so it is Booking whom you need to contact for any further concerns or assistance.\n\nAgain, we regret that this unfortunate situation happened.\n\nBest regard",
+        "lang": "en",
+        "author": "Magaly Julien",
+        "published_date": "2024-01-31T00:53:28Z"
+      }
+    }
+  ]
+}

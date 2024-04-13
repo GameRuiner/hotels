@@ -1,0 +1,260 @@
+{
+  "data": [
+    {
+      "id": 945364811,
+      "lang": "en",
+      "location_id": 18971042,
+      "published_date": "2024-04-04T15:00:40Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d18971042-r945364811-Reviews-Hyatt_Place_Dubai_Jumeirah-Dubai_Emirate_of_Dubai.html?m=66827#review945364811",
+      "text": "Thank you for a lovely stay! The hotel room was spacious and clean and modern, the staff is very welcomming and helpfull, the food is good and the pool area is lovely both winter (even though the suns disappears early afternoon), spring, summer (chilled pool is a must - so nice) and fall. Special thanks to Kishwor and Samjhana for making me feel at home in my room.",
+      "title": "Home at Hyatt",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "247kajat",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ea/2e/default-avatar-2020-67.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945570500,
+        "title": "Owner response",
+        "text": "Dear 247kajat,\n\nThank you for choosing to stay with us and for taking the time to share your great review! \n\nWe are delighted to know that you enjoyed your stay as well as the service and facilities provided by our team.\n\nFeedback received from guests such as you are huge motivation to our team. I will definitely share your comments with them.\n\nWe look forward to welcoming you again soon! \n\nWarm regards,\nBhishmaraj Singh\nGeneral Manager",
+        "lang": "en",
+        "author": "Bhishmaraj Singh",
+        "published_date": "2024-04-06T10:05:20Z"
+      }
+    },
+    {
+      "id": 944632048,
+      "lang": "en",
+      "location_id": 18971042,
+      "published_date": "2024-03-31T08:11:21Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d18971042-r944632048-Reviews-Hyatt_Place_Dubai_Jumeirah-Dubai_Emirate_of_Dubai.html?m=66827#review944632048",
+      "text": "It was great  staying at the property, the staff was very friendly, special thanks to Mr. Ali who let us extend our check as our flight was delayed, also Mr Kishore and  Samjhana who for keeping our apartment very clean and attending to us whenever required.",
+      "title": "Great experience,",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "138yogeshs",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e3/1f/default-avatar-2020-46.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945212353,
+        "title": "Owner response",
+        "text": "Dear  138yogeshs,\n\nThank you for sharing your great feedback further to your recent visit with us.\n\nI am delighted to know that you enjoyed your stay and the service provided by our team.\n\nWe work very hard to create a wonderful hotel experience and your comments encourage us to be the best we can be. I will be happy to share your review with all our colleagues who took a great care of you.\n\nIt would be our pleasure to have your return soon.\n\nWarm regards,\nBhishmaraj Singh\nGeneral Manager\n",
+        "lang": "en",
+        "author": "Bhishmaraj Singh",
+        "published_date": "2024-04-03T09:59:28Z"
+      }
+    },
+    {
+      "id": 944436120,
+      "lang": "en",
+      "location_id": 18971042,
+      "published_date": "2024-03-29T17:41:59Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d18971042-r944436120-Reviews-Hyatt_Place_Dubai_Jumeirah-Dubai_Emirate_of_Dubai.html?m=66827#review944436120",
+      "text": "NICE HOTEL with GOOD  SERVICE.\n\n We stayed in three hotels in 3 locations during our 11 day stay in Dubai. \tThis hotel turned out to be the best. \n\nThe staff at the front desk were friendly and helpful.\nWe stayed in room 124 which was a large. \nThe only small complaint was that the fridge did not work efficiently. \n\nThere are supermarkets within a 10 min walk from the hotel, otherwise there did not seem much to see or do in this area.",
+      "title": "NICE HOTEL with GOOD  SERVICE.",
+      "trip_type": "Couples",
+      "travel_date": "2023-07-31",
+      "user": {
+        "username": "PPPEssexEngland",
+        "user_location": {
+          "id": "503775",
+          "name": "Chelmsford, Essex, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/10/ab/9b/07/pppessexengland.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/10/ab/9b/07/pppessexengland.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/10/ab/9b/07/pppessexengland.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/10/ab/9b/07/pppessexengland.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/10/ab/9b/07/pppessexengland.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945212075,
+        "title": "Owner response",
+        "text": "Dear PPPEssexEngland,\n\nThank you for choosing to stay with us and for taking the time to share your positive review. \n\nWe are delighted to know that you enjoyed your stay, and we were able to deliver to you the Hyatt Hospitality we proud ourselves on. \n\nI am further glad to read your kind comments about our colleagues.\n\nWe also thank you for your recommendation. We will sincerely take your comment into account and do our best to improve our services. \n\nThe team and I look forward to welcoming you back soon.\n\nWarm regards,\nBhishmaraj Singh,\nGeneral Manager",
+        "lang": "en",
+        "author": "Bhishmaraj Singh",
+        "published_date": "2024-04-03T09:57:07Z"
+      }
+    },
+    {
+      "id": 943981552,
+      "lang": "en",
+      "location_id": 18971042,
+      "published_date": "2024-03-27T05:15:04Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d18971042-r943981552-Reviews-Hyatt_Place_Dubai_Jumeirah-Dubai_Emirate_of_Dubai.html?m=66827#review943981552",
+      "text": "Friendly staff.  My daughter loved the man in the dining room with a turban whose name I forget.  He was very child friendly.  The housekeeper was also very friendly and made sure we had a fresh bottle of water every day.  He also decorated the children's beds with balloons on the last day.  Thank you Devyaiu nagesh ",
+      "title": "child friendly, friendly staff",
+      "trip_type": "Family",
+      "travel_date": "2023-04-30",
+      "user": {
+        "username": "kxrk",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/7c/01/default-avatar-2020-5.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 944149242,
+        "title": "Owner response",
+        "text": "Dear kxrk,\n\nThank you for sharing your feedback further to your recent visit with us.\n\nI am delighted to know that you enjoyed your stay and the service provided by our team. We work very hard to create a wonderful hotel experience and your comments encourage us to be the best we can be. \n\nI'm further glad to learn that our colleagues took great care of you during your stay.  I will be happy to share your review with all our colleagues who took a great care of you.\n\nIt would be our pleasure to have your return soon.\n\nWarm regards,\nBhishmaraj Singh\nGeneral Manager\n",
+        "lang": "en",
+        "author": "Bhishmaraj Singh",
+        "published_date": "2024-03-27T12:01:24Z"
+      }
+    },
+    {
+      "id": 943869040,
+      "lang": "en",
+      "location_id": 18971042,
+      "published_date": "2024-03-26T06:49:11Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d18971042-r943869040-Reviews-Hyatt_Place_Dubai_Jumeirah-Dubai_Emirate_of_Dubai.html?m=66827#review943869040",
+      "text": "If you want to know what a true 4 star hotel is stay in this hotel. It was super clean and elegant. I honestly thought it was a 5 star hotel until I saw the sign. The price was not bad at all. I paid $71 inclusive breakfast and taxes. You can’t beat that for month of March. I encourage everyone to stay there. Very hospitable clean cheap. I would give them 6 stars if I could",
+      "title": "Best 4-star place in Jumaira",
+      "trip_type": "Business",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Coastal33621634505",
+        "user_location": {
+          "id": "293974",
+          "name": "Istanbul"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/7c/01/default-avatar-2020-5.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 944148986,
+        "title": "Owner response",
+        "text": "Dear Coastal33621634606,\n\nThank you for choosing to stay with us and for taking the time to share your great review. \n\nWe are delighted to know that you enjoyed your stay, and we were able to deliver to you the Hyatt Hospitality we proud ourselves on. \n\nThe team and I look forward to welcoming you back soon.\n\nWarm regards,\nBhishmaraj Singh\nGeneral Manager\n\n",
+        "lang": "en",
+        "author": "Bhishmaraj Singh",
+        "published_date": "2024-03-27T11:58:44Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "location_id": "302462",
+  "name": "Jumeirah Beach Hotel",
+  "description": "Experience World-class Service at Jumeirah Beach Hotel This property is 2 minutes walk from the beach. This 5-star luxury Dubai hotel has a private beach and features over 10 restaurant and bars, including 5 swimming pools. Guests staying at any Jumeirah Beach Hotel room can enjoy free unlimited access to Wild Wadi Waterpark™. Jumeirah Beach Hotel’s rooms are spacious and have floor-to-ceiling windows looking out over the Arabian Gulf. Each features a Widescreen Interactive HD LCD TV, evening turndown service and free WiFi access. Jumeirah Beach offers a wide variety of international cuisine. Many restaurants have a children’s menu. Refreshments are offered at the rooftop Lounge. Guests can enjoy refreshments and happy hours at Floor 24 bar overlooking the city skyline. The hotel has recently been renovated and all the rooms, public spaces and few of the restaurants have been upgraded and refurbished. Souk Madinat Jumeirah is a 10-minute stroll from the hotel. Dubai International Airport is 12 mi away.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d302462-Reviews-Jumeirah_Beach_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Jumeirah Beach Road",
+    "street2": "Umm Suqeim",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Jumeirah Beach Road Umm Suqeim, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.141605",
+  "longitude": "55.19128",
+  "timezone": "Asia/Dubai",
+  "phone": "01197180058634724",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d302462-Jumeirah_Beach_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#290 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "290"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "3877",
+  "review_rating_count": {
+    "1": "189",
+    "2": "146",
+    "3": "212",
+    "4": "358",
+    "5": "2972"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "2873",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d302462-m66827-Reviews-Jumeirah_Beach_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Car Hire",
+    "Entertainment Staff",
+    "Complimentary Instant Cofffee",
+    "French",
+    "24-Hour Front Desk",
+    "Gift Shop",
+    "Italian",
+    "Shoeshine",
+    "Shops",
+    "Taxi Service",
+    "Telephone",
+    "Foot Massage",
+    "Shallow End",
+    "Urdu",
+    "Windsurfing"
+  ],
+  "parent_brand": "Jumeirah Group",
+  "brand": "Jumeirah",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Marina View",
+    "Harbor View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620679",
+      "name": "Umm Suqeim"
+    },
+    {
+      "location_id": "15620681",
+      "name": "Umm Suqeim 2"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "161"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "603"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "63"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "2048"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "215"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice Best of the Best",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png"
+      },
+      "categories": [
+        "Family"
+      ],
+      "display_name": "Travelers Choice Best of the Best"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

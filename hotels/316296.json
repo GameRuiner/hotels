@@ -1,0 +1,208 @@
+{
+  "location_id": "316296",
+  "name": "Dubai Grand Hotel By Fortune",
+  "description": "Welcome to Dubai Grand Hotel By Fortune, your Dubai “home away from home.” Dubai Grand Hotel By Fortune aims to make your visit as relaxing and enjoyable as possible, which is why so many guests continue to come back year after year.\nFor those interested in checking out United Christian Church of Dubai (2.6 mi) while visiting Dubai, Grand Hotel Dubai is a short distance away.\nRooms at Dubai Grand Hotel By Fortune provide a flat screen TV, air conditioning, and a minibar, and guests can stay connected with paid internet access.\nIn addition, while staying at Dubai Grand Hotel By Fortune guests have access to a concierge and room service. You can also enjoy a rooftop pool and an on-site restaurant. Need a place to park? Free parking is available at Dubai Grand Hotel By Fortune.\nDubai has plenty of Chinese restaurants. So when you’re here, be sure to check out popular spots like Cho Gao, Long Yin, and Loumi Restaurant, which are serving up some great dishes.\nDubai Grand Hotel By Fortune puts the best of Dubai at your fingertips, making your stay both relaxing and enjoyable.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d316296-Reviews-Dubai_Grand_Hotel_By_Fortune-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Damascus Street",
+    "street2": "Al Qusais",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "49185",
+    "address_string": "Damascus Street Al Qusais, Dubai 49185 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.273605",
+  "longitude": "55.38138",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d316296-Dubai_Grand_Hotel_By_Fortune-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#526 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "526"
+  },
+  "rating": "3.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.0-66827-5.svg",
+  "num_reviews": "172",
+  "review_rating_count": {
+    "1": "42",
+    "2": "14",
+    "3": "59",
+    "4": "69",
+    "5": "42"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    }
+  },
+  "photo_count": "71",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d316296-m66827-Reviews-Dubai_Grand_Hotel_By_Fortune-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Room service",
+    "Restaurant",
+    "Bar/Lounge",
+    "Wifi",
+    "Paid Wifi",
+    "Dry Cleaning",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Refrigerator in room",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Internet",
+    "Kids Activities",
+    "Suites",
+    "Free parking",
+    "Wheelchair access",
+    "Spa",
+    "Airport transportation",
+    "Public Wifi",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Minibar",
+    "Non-smoking hotel",
+    "Safe",
+    "Private Balcony",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Sauna",
+    "Arabic",
+    "Baggage Storage",
+    "Bottled Water",
+    "Bowling",
+    "Clothes Rack",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Currency Exchange",
+    "Electric Kettle",
+    "English",
+    "First Aid Kit",
+    "24-Hour Front Desk",
+    "Gift Shop",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Nightclub / DJ",
+    "Pool View",
+    "Paid Public Parking Nearby",
+    "Salon",
+    "24-Hour Security",
+    "Shoeshine",
+    "Telephone",
+    "Urdu",
+    "Valet Parking",
+    "Wardrobe / Closet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Mid-range",
+    "City View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620584",
+      "name": "Al Qusais"
+    },
+    {
+      "location_id": "15620585",
+      "name": "Al Qusais 1"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "63"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "33"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "27"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "52"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "39"
+    }
+  ],
+  "awards": []
+}

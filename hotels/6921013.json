@@ -1,0 +1,183 @@
+{
+  "location_id": "6921013",
+  "name": "City Premiere Marina Hotel Apartments",
+  "description": "City Premiere Marina Deluxe Hotel Apartments is located in Dubai Marina water-front in the most vibrant area, walking distance to Dubai Marina Mall and Damac Properties Metro Station. It is a 34 storey building consists of 142 units with a range of sleek studio and spacious one, two, three and four bedroom apartments. Each apartment has been designed to suit our guest’s needs, enticing them to make themselves at home. The apartments are appointed with a range of efficient features such as fully equipped kitchens, laundry and comfortable living spaces with a private balcony and floor-to-ceiling windows. City Premiere Marina Deluxe Hotel Apartments features exceptional views of Dubai Marina skyline and the sea. It is an ideal choice for family holidays, business trips, relocation and more. Each apartment has been designed to match your lifestyle and great value giving you the chance to absorb the essence of your chosen getaway destination. Simply enjoy the beautiful marina skyline and feel the comfort of your own home in City Premiere Marina Deluxe Hotel Apartments. Apartments It’s 142 spacious units with a range of one, two, three and four bedroom apartments, each apartment has been elegantly designed with comprehensive facilities to suit all your professional and personal needs as well as enjoy a breath-taking view of the marina skyline. It consists of 1 studio, 55 one bedroom, 58 two bedrooms, 23 three bedrooms and 5 four bedrooms to choose from. It is specially designed for the comfort and convenience of both executive and family with stylish and modern conveniences like free Wi-Fi internet access, flat screen LCD televisions, comfortable bedrooms with en-suite bathroom with full amenities, floor-to-ceiling windows, fully equipped kitchen with washing machine, a separate living and dining area with private balcony and daily housekeeping provided.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d6921013-Reviews-City_Premiere_Marina_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Suwayeb St",
+    "street2": "Near Damac Properties Metro Station, Dubai Marina",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "27372",
+    "address_string": "Al Suwayeb St Near Damac Properties Metro Station, Dubai Marina, Dubai 27372 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.079865",
+  "longitude": "55.142883",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d6921013-City_Premiere_Marina_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#48 of 766 Specialty lodging in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "766",
+    "ranking": "48"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "275",
+  "review_rating_count": {
+    "1": "25",
+    "2": "14",
+    "3": "41",
+    "4": "103",
+    "5": "92"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "313",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d6921013-m66827-Reviews-City_Premiere_Marina_Hotel_Apartments-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Kitchenette",
+    "Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Microwave",
+    "Refrigerator in room",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Outdoor pool",
+    "Housekeeping",
+    "Arabic",
+    "English",
+    "Outdoor Furniture",
+    "Parking Garage",
+    "Family Rooms",
+    "Sauna",
+    "Car Hire",
+    "Filipino",
+    "Hindi",
+    "Ironing Service",
+    "Russian",
+    "Secured Parking",
+    "Shoeshine",
+    "Sun Terrace"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [
+    "Mid-range",
+    "Family"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7282432",
+      "name": "The Marina"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "26"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "54"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "11"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "115"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "34"
+    }
+  ],
+  "awards": []
+}

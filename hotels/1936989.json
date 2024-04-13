@@ -1,0 +1,268 @@
+{
+  "location_id": "1936989",
+  "name": "Park Regis Kris Kin Hotel",
+  "description": "Park Regis Kris Kin is conveniently located opposite Burjuman Shopping Centre, walking distance to the Burjuman Metro station, few minutes’ drive from the Dubai International Airport, and within easy reach of the city’s major leisure and business establishments such as the Burj Khalifa, The Dubai Mall, Dubai Frame, Gold Souk, Spice Souq, Bastakiya Historical District, and Port Rashid. The 384-room upscale hotel is the ideal address for both business and leisure travelers with nine function rooms suitable for small meetings and banquets, a spectacular rooftop swimming pool and leisure facilities, spacious guest rooms, free internet/WIFI throughout the hotel, and genuinely warm and welcoming service. Guests are spoilt for choice with a wide selection of dining experiences from one of Park Regis Kris Kin Hotel’s, five food and beverage outlets.  Marhaba Lounge the new face of Park Regis Kris Kin and located in the main lobby is the ideal meeting place to enjoy a cup of some of the world’s finest tea and coffees together with a light meal or tasty snack. Kris With A View and Kris Lounge located on the 19th floor, serves a delectable breakfast spread while featuring breathtaking views of the Dubai skyline. Come Dinner, one can savor their favorite cocktail or try something new from the extensive menu whilst taking in the views of the city. The Grandstand located at the lobby offers a casual atmosphere to enjoy a variety of delectable bites, a selection of international hops, and prime beverages while enjoying great company and the game. If you are a sports fan this is the place to catch all the action, and lastly discover culinary jewels of Southeast Asia at Tenggara. Stay with confidence at Park Regis Kris Kin as it prioritizes your health and safety through its Bureau Veritas and Dubai Assured certifications for cleanliness and prevention protocols.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1936989-Reviews-Park_Regis_Kris_Kin_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Khalifah Bin Zayed St",
+    "street2": "Opp Burjuman Centre",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "8264",
+    "address_string": "Sheikh Khalifah Bin Zayed St Opp Burjuman Centre, Dubai 8264 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.249163",
+  "longitude": "55.301388",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1936989-Park_Regis_Kris_Kin_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#362 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "362"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "2871",
+  "review_rating_count": {
+    "1": "108",
+    "2": "91",
+    "3": "220",
+    "4": "986",
+    "5": "1466"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1442",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1936989-m66827-Reviews-Park_Regis_Kris_Kin_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Free Internet",
+    "Free Wifi",
+    "Suites",
+    "Free parking",
+    "Internet",
+    "Kids Activities",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Complimentary Tea",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "24-Hour Security",
+    "Taxi Service",
+    "Kids pool",
+    "Sauna",
+    "Bidet",
+    "Breakfast in the Room",
+    "Cable / Satellite TV",
+    "Chinese",
+    "Clothes Rack",
+    "Currency Exchange",
+    "Electric Kettle",
+    "Filipino",
+    "First Aid Kit",
+    "Complimentary Instant Cofffee",
+    "Free Wifi in the Business Center",
+    "French",
+    "Happy Hour",
+    "Highchairs Available",
+    "Indonesian",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Makeup Services",
+    "Malay",
+    "Nepali",
+    "Parking Garage",
+    "Pool / Beach Towels",
+    "Private Bathrooms",
+    "Paid Private Parking Nearby",
+    "Salon",
+    "Seating Area",
+    "Secured Parking",
+    "Soundproof Rooms",
+    "Spanish",
+    "Special Diet Menus",
+    "Sun Deck",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Telephone",
+    "Thai",
+    "Urdu",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet",
+    "Wine / Champagne"
+  ],
+  "parent_brand": "Staywell Group",
+  "brand": "Park Regis",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quiet",
+    "City View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620559",
+      "name": "Al Karama"
+    },
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "806"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "732"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "175"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "549"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "209"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

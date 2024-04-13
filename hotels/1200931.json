@@ -1,0 +1,234 @@
+{
+  "location_id": "1200931",
+  "name": "Ibis Dubai Al Barsha Hotel",
+  "description": "We’ve been expecting you! Proud to offer a completely renovated lobby and dining areas, with common spaces to share experiences and create memories, we know what it means to come from a long and tiring trip. A genuine welcome by our Reception team, a good drink at Jamboree FoodFest and Bar – a concept originally from UK and first time in UAE, offering the most delicious burgers representing the five continents – or a fair trade café latte with freshly baked patisserie at Chill Café, followed by a comfortable bed to stretch out on. If you are an early bird you can enjoy our new fully Technogym equipped gymnasium, right before your breakfast at Baharat Restaurant. Later at night, and after your dinner at one of our outlets, you can join a series of events, including a cocktail enjoying live music or DJs at Casa Latina Bar, or an al fresco movie at our Outdoor Cinema terrace. If you enjoy memorable experiences, you’ve come to the right place! We’re here to make you feel good!",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1200931-Reviews-Ibis_Dubai_Al_Barsha_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Zayed Road",
+    "street2": "",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "450011",
+    "address_string": "Sheikh Zayed Road, Dubai 450011 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.1086",
+  "longitude": "55.183365",
+  "timezone": "Asia/Dubai",
+  "phone": "01197143996699",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1200931-Ibis_Dubai_Al_Barsha_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#145 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "145"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "2896",
+  "review_rating_count": {
+    "1": "137",
+    "2": "153",
+    "3": "425",
+    "4": "589",
+    "5": "1592"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "963",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1200931-m66827-Reviews-Ibis_Dubai_Al_Barsha_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Free parking",
+    "Wifi",
+    "Free Wifi",
+    "Wheelchair access",
+    "Shuttle Bus Service",
+    "Room service",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Parking",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Arabic",
+    "Baggage Storage",
+    "Billiards",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Chinese",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Evening Entertainment",
+    "Filipino",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Game Room",
+    "Hair Dryer",
+    "Hindi",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Newspaper",
+    "Nightclub / DJ",
+    "Private Check-in / Check-out",
+    "Russian",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shoeshine",
+    "Skiing",
+    "Snack Bar",
+    "Special Diet Menus",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Wine / Champagne",
+    "Public Wifi",
+    "Breakfast Available",
+    "Express Check-in / Check-out",
+    "Clothes Rack",
+    "First Aid Kit",
+    "Happy Hour",
+    "Nepali",
+    "Outdoor Dining Area",
+    "Urdu",
+    "Walk-in Shower",
+    "Walking Tours"
+  ],
+  "parent_brand": "Accor",
+  "brand": "ibis",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Green",
+    "Budget"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620543",
+      "name": "Al Barsha"
+    },
+    {
+      "location_id": "15620544",
+      "name": "Al Barsha 1"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "724"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "573"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "610"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "398"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "431"
+    }
+  ],
+  "awards": []
+}

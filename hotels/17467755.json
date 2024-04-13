@@ -1,0 +1,161 @@
+{
+  "location_id": "17467755",
+  "name": "Villa Peri Butik Otel",
+  "description": "Bölgenin tarihi dokusuna uygun şekilde taşlardan inşa edilmiş olan otelimiz, Alaçatı merkeze 5 dk yürüme mesafesinde olmasına rağmen gayet sessiz ve sakin bir bölgede yer almaktadır. Hepsi balkonlu ve modern döşenmiş, 2 veya 3 kişilik olmak üzere toplam 8 odamız ve odalarımızda sabahları kalkmak istemeyeceğiniz rahat yataklar bulunmaktadır. Klorsuz sistemle dezenfekte edilen açık yüzme havuzumuz hepimiz ancak özellikle küçüklerimiz için sağlıklıdır. Rahatınız için düzenlenmiş ön ve arka bahçelere sahip olan otelimiz, misafirlerimize zengin serpme köy kahvaltısı ve çay saati ile birlikte lezzetli ev yapımı ürünler ve çeşitli konforlu imkanlarla oda-kahvaltı hizmeti sunmaktadır. Tesisimiz, merkeze gayet yakın ancak tam merkezde olmadığından, gürültü veya gece geç saatlere kadar devam eden yüksek müzik sesi rahatsızlığı ve ayrıca araç park yeri sorunumuz da yoktur. 2018 yılında inşa edilmiş tesisimizde, 4 ayrı renk (mavi, yeşil, kırmızı ve turuncu) konseptine göre tasarlanmış 3 farklı olmak (double or twin, triple ve superior) üzere toplam 8 odamız bulunmaktadır: Oda 1 → Turuncu Triple oda. 20 m2 odamızda bir çift kişilik ve bir tek kişilik yatak bulunmaktadır. Odamız ön bahçe manzaralıdır. Oda 2 → Yeşil Double oda. 17 m2 odamızda bir çift kişilik yatak bulunmaktadır. Odamız arka bahçe ve havuz manzaralıdır. Oda 3 → Kırmızı Twin or Double oda. 17 m2 odamızda birleştirilebilir iki tek kişilik yatak bulunmaktadır. Odamız arka bahçe ve havuz manzaralıdır. Oda 4 → Mavi Triple oda. 20 m2 odamızda bir çift kişilik ve bir tek kişilik yatak bulunmaktadır. Odamız ön bahçe manzaralıdır. Oda 5 → Kırmızı Superior oda. 20 m2 odamızda bir çift kişilik geniş yatak ve rahatınız için veya yatma amaçlı kullanılabilecek 180 cm’lik koltuk bulunmaktadır. Odamız ön bahçe manzaralıdır. Oda 6 → Mavi Double oda. 17 m2 odamızda bir çift kişilik yatak bulunmaktadır. Odamız arka bahçe ve havuz manzaralıdır. Oda 7 → Yeşil Twin or Double oda. 17 m2 odamızda birleştirilebilir iki tek kişilik yatak bulunmaktadır. Odamız arka bahçe ve havuz manzaralıdır. Oda 8 → Turuncu Superior oda. 20 m2 odamızda bir çift kişilik geniş yatak ve rahatınız için veya yatma amaçlı kullanılabilecek 180 cm’lik koltuk bulunmaktadır. Odamız ön bahçe manzaralıdır. Tüm odalarımıza bebek yatağı veya ek yatak ekleme imkanımız vardır. Tüm odalarımız banyolu ve balkonludur. Ayrıca klima, tavan vantilatörü, TV, mini bar, çay/kahve için su ısıtıcı ve saç kurutma makinası bulunmaktadır.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d17467755-Reviews-Villa_Peri_Butik_Otel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "1092 Sok. No:5/1, Cesme",
+    "street2": "Alacati Mah.",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35930",
+    "address_string": "1092 Sok. No:5/1, Cesme Alacati Mah., Izmir 35930 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.28936",
+  "longitude": "26.37053",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d17467755-Villa_Peri_Butik_Otel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#23 of 136 B&Bs / Inns in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "136",
+    "ranking": "23"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "8",
+  "review_rating_count": {
+    "1": "1",
+    "2": "0",
+    "3": "0",
+    "4": "0",
+    "5": "7"
+  },
+  "subratings": {},
+  "photo_count": "35",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d17467755-m66827-Reviews-Villa_Peri_Butik_Otel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "amenities": [
+    "Pool",
+    "Kids Activities",
+    "Suites",
+    "Free parking",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Non-smoking rooms",
+    "Air conditioning",
+    "Flatscreen TV",
+    "Private Balcony",
+    "Adult pool",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Bath / Shower",
+    "Bottled Water",
+    "Bridal Suite",
+    "Cable / Satellite TV",
+    "Express Check-in / Check-out",
+    "Clothes Rack",
+    "Coffee Shop",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Desk",
+    "Electric Kettle",
+    "English",
+    "Extra Long Beds",
+    "Complimentary Toiletries",
+    "Hair Dryer",
+    "Highchairs Available",
+    "Iron",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Newspaper",
+    "Pool / Beach Towels",
+    "Pool View",
+    "Private Bathrooms",
+    "Private Check-in / Check-out",
+    "Sofa",
+    "Sofa Bed",
+    "Street Parking",
+    "Strollers",
+    "Sun Deck",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Swimming Pool Toys",
+    "Taxi Service",
+    "Tile / Marble Floor",
+    "Turkish",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Wine / Champagne"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "bb",
+      "localized_name": "Bed and Breakfast"
+    }
+  ],
+  "styles": [
+    "Luxury",
+    "Quaint"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "0"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "3"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "0"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "5"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "0"
+    }
+  ],
+  "awards": []
+}

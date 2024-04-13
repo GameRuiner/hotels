@@ -1,0 +1,289 @@
+{
+  "location_id": "1176106",
+  "name": "Address Downtown",
+  "description": "Towering high at 302m across 63 levels, Address Downtown is a veritable landmark of luxury, situated in the very centre of Downtown Dubai. The hotel directly overlooks Burj Khalifa, offers uninterrupted views of the daily Dubai fountain show (the world’s tallest water-music spectacle) and is connected to The Dubai Mall (the world’s largest shopping mall) by a foot-bridge. The 220 guest rooms and suites are equipped with high-speed wireless Internet, interactive TVs with Apple AirPlay devices, an entertainment interface, dressing areas with Hollywood mirrors and L-shaped sofa seating area. The marble bathrooms are fitted with dual sinks, a bathtub and a rain shower. Guests can choose from 9 unique restaurant concepts, serving a variety of cuisines from Asian, European to local Middle Eastern specialties. The hotel’s night lounge, Neos, is located on the 63rd floor and overlooks the ever-changing Dubai skyline and iconic Burj Khalifa.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1176106-Reviews-Address_Downtown-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Mohammed Bin Rashed Boulevard",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "9440",
+    "address_string": "Sheikh Mohammed Bin Rashed Boulevard, Dubai 9440 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.194363",
+  "longitude": "55.27908",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1176106-Address_Downtown-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#54 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "54"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "4372",
+  "review_rating_count": {
+    "1": "86",
+    "2": "63",
+    "3": "99",
+    "4": "373",
+    "5": "3751"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "2581",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1176106-m66827-Reviews-Address_Downtown-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Free Internet",
+    "Free Wifi",
+    "Suites",
+    "Meeting rooms",
+    "Kids Activities",
+    "Kitchenette",
+    "Laundry Service",
+    "Concierge",
+    "Internet",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Butler Service",
+    "Infinity Pool",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Sauna",
+    "Electric vehicle charging station",
+    "Additional Bathroom",
+    "Aerobics",
+    "Afrikaans",
+    "Allergy-free Room",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Chinese",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Couples Massage",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "German",
+    "Hair Dryer",
+    "Hammam",
+    "Head Massage",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kitchenware",
+    "Laptop Safe",
+    "Massage",
+    "Nightclub / DJ",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shoeshine",
+    "Soundproof Rooms",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Taxi Service",
+    "Turkish",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Family Rooms",
+    "Bidet",
+    "Cable / Satellite TV",
+    "Children's Television Networks",
+    "Electric Kettle",
+    "Executive Lounge Access",
+    "First Aid Kit",
+    "Foot Bath",
+    "Foot Massage",
+    "Complimentary Welcome Drink",
+    "Full Body Massage",
+    "Hand Massage",
+    "Happy Hour",
+    "Infirmary",
+    "Landmark View",
+    "Neck Massage",
+    "Oven",
+    "Personal Trainer",
+    "Shallow End",
+    "Stovetop",
+    "Swahili",
+    "Swimming Pool Toys",
+    "Urdu",
+    "Valet Parking",
+    "Walk-in Shower"
+  ],
+  "parent_brand": "Emaar Hospitality Group",
+  "brand": "Address Hotels + Resorts",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Business",
+    "Lake View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7282431",
+      "name": "Downtown Dubai"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "778"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "985"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "535"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1048"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "625"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

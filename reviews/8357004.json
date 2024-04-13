@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": 761161102,
+      "lang": "en",
+      "location_id": 8357004,
+      "published_date": "2020-07-23T04:34:35Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d8357004-r761161102-Reviews-Alacati_Sardunya_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review761161102",
+      "text": "Very clean Hotel. The staff is very friendly. The hotel is very central to all the hotspots. I would for sure go again in this hotel. You feel here like home. Merve and her family are very good hosts. ",
+      "title": "Excellent ",
+      "trip_type": "Friends getaway",
+      "travel_date": "2020-07-31",
+      "user": {
+        "username": "petrosm647",
+        "user_location": {
+          "id": "187291",
+          "name": "Stuttgart, Baden-Württemberg"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/9f/default-avatar-2020-16.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

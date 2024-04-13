@@ -1,0 +1,219 @@
+{
+  "location_id": "13421914",
+  "name": "Al Khoory Inn",
+  "description": "Al Khoory Inn’s convenient location to Dubai’s historic heart and Central Business Districts makes it the number one choice for both business and leisure travelers. Enjoy easy access to popular tourist locations including renovated Historic buildings and Museums, Al Fahidi Souk, the famous Bank Street, Consulate General Offices and renowned Shopping centers. The hotel is also in walking distance from Burjuman and Al Fahidi Metro station. Blending contemporary amenities with personalized services, our elegant as well as attractive rooms ensure guests have a truly welcoming and relaxing retreat every time. Guests can choose to dine-in at Spices, our all-day-dining restaurant serving global cuisines. Enjoy a fizzy international buffet breakfast, while a la carte menu for lunch and dinner. A deli serving freshly brewed coffee and light snacks is also available at the hotel.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d13421914-Reviews-Al_Khoory_Inn-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "7 17th St",
+    "street2": "Al Hamriya",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "6237",
+    "address_string": "7 17th St Al Hamriya, Dubai 6237 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.258425",
+  "longitude": "55.30074",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d13421914-Al_Khoory_Inn-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#294 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "294"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "232",
+  "review_rating_count": {
+    "1": "9",
+    "2": "6",
+    "3": "4",
+    "4": "30",
+    "5": "183"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "124",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d13421914-m66827-Reviews-Al_Khoory_Inn-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Room service",
+    "Free Internet",
+    "Wheelchair access",
+    "Restaurant",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Refrigerator in room",
+    "Safe",
+    "Breakfast Buffet",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Currency Exchange",
+    "English",
+    "24-Hour Front Desk",
+    "Hindi",
+    "24-Hour Security",
+    "Taxi Service",
+    "Free parking",
+    "Paid Internet",
+    "Family Rooms",
+    "Minibar",
+    "Non-smoking hotel",
+    "Arabic",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "Children's Television Networks",
+    "Electric Kettle",
+    "Filipino",
+    "Highchairs Available",
+    "Ironing Service",
+    "Newspaper",
+    "Russian",
+    "Soundproof Rooms",
+    "Wake Up Service / Alarm Clock"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quaint",
+    "Family"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620554",
+      "name": "Al Hamriya"
+    },
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "44"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "66"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "36"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "36"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "24"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "location_id": "26432940",
+  "name": "Holiday Inn Resort Bodrum, an IHG Hotel",
+  "description": "South Aegean Sea and Holiday Inn Resort is meeting in Bodrum Bardakci Bay\nHoliday Inn Resort Bodrum is located on gently sloping hills set in its own private bay enjoying the beauty of the immaculate Aegean Sea, with spectacular views of Bodrum Marina and Bodrum Castle.  \nWith its well-connected location Holiday Inn Resort Bodrum is only 39 km to the Bodrum International Airport and only 1.8 km to Bodrum city centre and Bodrum Marina.\nOur hotel offers modern, spacious, stylish, comfortable rooms where you can relax and enjoy the beautiful views.\nGuests can enjoy La Brise, our sea food à la carte restaurant, the main buffet restaurant and traditional street food which is served by the beach. Why not quench your thirst in one of our five bars.\nSPA & Wellness - Fitness Centre is at your service with our experienced team providing a real far east therapies experience.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298658-d26432940-Reviews-Holiday_Inn_Resort_Bodrum_an_IHG_Hotel-Bodrum_City_Bodrum_District_Mugla_Province_Tur.html?m=66827",
+  "address_obj": {
+    "street1": "Haremtan Sok. No:11",
+    "street2": "Eskicesme Mah.",
+    "city": "Bodrum City",
+    "state": "Mugla Province",
+    "country": "Turkiye",
+    "postalcode": "48400",
+    "address_string": "Haremtan Sok. No:11 Eskicesme Mah., Bodrum City 48400 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Bodrum City",
+      "location_id": "298658"
+    },
+    {
+      "level": "District",
+      "name": "Bodrum District",
+      "location_id": "298020"
+    },
+    {
+      "level": "Province",
+      "name": "Mugla Province",
+      "location_id": "298019"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "37.02387",
+  "longitude": "27.417477",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298658-d26432940-Holiday_Inn_Resort_Bodrum_an_IHG_Hotel-Bodrum_City_Bodrum_District_Mugla_Province_Turkish_Aegea.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298658",
+    "ranking_string": "#7 of 123 Specialty lodging in Bodrum City",
+    "geo_location_name": "Bodrum City",
+    "ranking_out_of": "123",
+    "ranking": "7"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "38",
+  "review_rating_count": {
+    "1": "4",
+    "2": "2",
+    "3": "2",
+    "4": "0",
+    "5": "30"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "215",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298658-d26432940-m66827-Reviews-Holiday_Inn_Resort_Bodrum_an_IHG_Hotel-Bodrum_City_Bodrum_District_Mugla_Province_Tur.html#photos",
+  "price_level": "$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Pool",
+    "Kids Activities",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Breakfast included",
+    "Fitness center",
+    "Laundry Service",
+    "Breakfast Buffet",
+    "Breakfast Available",
+    "Complimentary Tea",
+    "Snack Bar",
+    "Free Internet",
+    "Wifi",
+    "Air conditioning",
+    "Kids pool",
+    "Parking",
+    "Complimentary Instant Cofffee",
+    "Highchairs Available",
+    "Outdoor Dining Area",
+    "Special Diet Menus",
+    "Valet Parking",
+    "Wine / Champagne"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "1"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "12"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "3"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "13"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "9"
+    }
+  ],
+  "awards": []
+}

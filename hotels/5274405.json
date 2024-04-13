@@ -1,0 +1,198 @@
+{
+  "location_id": "5274405",
+  "name": "Ramada Hotel & Suites By Wyndham Kemalpasa Izmir",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d5274405-Reviews-Ramada_Hotel_Suites_By_Wyndham_Kemalpasa_Izmir-Izmir_Izmir_Province_Turkish_Aegean_Coa.html?m=66827",
+  "address_obj": {
+    "street1": "Ankara Asfalti 24 6 Km",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35735",
+    "address_string": "Ankara Asfalti 24 6 Km, Izmir 35735 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.462574",
+  "longitude": "27.36067",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d5274405-Ramada_Hotel_Suites_By_Wyndham_Kemalpasa_Izmir-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#6 of 218 hotels in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "218",
+    "ranking": "6"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "436",
+  "review_rating_count": {
+    "1": "8",
+    "2": "8",
+    "3": "36",
+    "4": "108",
+    "5": "276"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "76",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d5274405-m66827-Reviews-Ramada_Hotel_Suites_By_Wyndham_Kemalpasa_Izmir-Izmir_Izmir_Province_Turkish_Aegean_Coa.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Breakfast Buffet",
+    "Housekeeping",
+    "Sauna",
+    "Breakfast in the Room",
+    "Fitness / Spa Locker Rooms",
+    "24-Hour Front Desk",
+    "Ironing Service",
+    "Turkish",
+    "Kids Activities",
+    "Airport transportation",
+    "Family Rooms",
+    "Babysitting",
+    "Indoor pool",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Baggage Storage"
+  ],
+  "parent_brand": "Wyndham Hotel Group",
+  "brand": "Ramada",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Business",
+    "Modern"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "280"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "36"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "19"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "53"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "35"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "location_id": "12450070",
+  "name": "Gurleyen Apart Hotel Cigli",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d12450070-Reviews-Gurleyen_Apart_Hotel_Cigli-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "8915/1. Sokak 9",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35620",
+    "address_string": "8915/1. Sokak 9, Izmir 35620 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.53339",
+  "longitude": "27.05289",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d12450070-Gurleyen_Apart_Hotel_Cigli-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#24 of 194 Specialty lodging in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "194",
+    "ranking": "24"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "2",
+  "review_rating_count": {
+    "1": "0",
+    "2": "0",
+    "3": "0",
+    "4": "0",
+    "5": "2"
+  },
+  "subratings": {},
+  "photo_count": "70",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d12450070-m66827-Reviews-Gurleyen_Apart_Hotel_Cigli-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "amenities": [
+    "Air conditioning",
+    "Family Rooms"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [
+    "Family"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "0"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "0"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "0"
+    }
+  ],
+  "awards": []
+}

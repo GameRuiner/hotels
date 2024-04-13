@@ -1,0 +1,177 @@
+{
+  "location_id": "1075104",
+  "name": "Spirit of the Knights Boutique Hotel",
+  "description": "Welcome to Spirit of the Knights, an exclusive Eco Friendly Boutique Hotel set in the medieval old town of Rhodes.Tucked away on the highest point of the medieval town on a quiet cobbled street only minutes walk from the Souleiman Mosque, Grand Masters Palace, shops, bars, restaurants and sea the hotel is an ideal place from which to explore the medieval town and island.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g635613-d1075104-Reviews-Spirit_of_the_Knights_Boutique_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street1": "14 Alexandridou",
+    "street2": "",
+    "city": "Rhodes Town",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "851 00",
+    "address_string": "14 Alexandridou, Rhodes Town 851 00 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Rhodes Town",
+      "location_id": "635613"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.44263",
+  "longitude": "28.222816",
+  "timezone": "Europe/Athens",
+  "phone": "011302241039765",
+  "write_review": "https://www.tripadvisor.com/UserReview-g635613-d1075104-Spirit_of_the_Knights_Boutique_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "635613",
+    "ranking_string": "#7 of 122 hotels in Rhodes Town",
+    "geo_location_name": "Rhodes Town",
+    "ranking_out_of": "122",
+    "ranking": "7"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "751",
+  "review_rating_count": {
+    "1": "1",
+    "2": "2",
+    "3": "6",
+    "4": "40",
+    "5": "702"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "447",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g635613-d1075104-m66827-Reviews-Spirit_of_the_Knights_Boutique_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Suites",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Airport transportation",
+    "Breakfast included",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Non-smoking hotel",
+    "Safe",
+    "Housekeeping",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "English",
+    "Complimentary Toiletries",
+    "Hair Dryer",
+    "Bar/Lounge",
+    "Public Wifi",
+    "Flatscreen TV",
+    "Soundproof Rooms",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Historic Hotel",
+    "Romantic"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "12"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "469"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "25"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "149"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "47"
+    }
+  ],
+  "awards": []
+}

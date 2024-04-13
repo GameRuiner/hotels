@@ -1,0 +1,241 @@
+{
+  "location_id": "307373",
+  "name": "Swandor Hotels & Resorts - Topkapi Palace",
+  "description": "Swandor Topkapi Palace – inspired by the great Topkapi Palace in İstanbul will give you the opportunity to move to the times of Sultan Suleiman the Magnificent and his beloved Roxolana. Be ready to be welcomed like sultans in the hotel located in one of the most impressive resorts on the Mediterranean coast – Kundu, which is located 16 km far from Antalya.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g17951017-d307373-Reviews-Swandor_Hotels_Resorts_Topkapi_Palace-Aksu_Antalya_Turkish_Mediterranean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Kundu Mahallesi Yasar, Sobutay BulvarI No 442",
+    "street2": "",
+    "city": "Aksu",
+    "state": "Antalya Province",
+    "country": "Turkiye",
+    "postalcode": "07112",
+    "address_string": "Kundu Mahallesi Yasar, Sobutay BulvarI No 442, Aksu, Antalya 07112 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Aksu",
+      "location_id": "17951017"
+    },
+    {
+      "level": "Municipality",
+      "name": "Antalya",
+      "location_id": "297962"
+    },
+    {
+      "level": "Province",
+      "name": "Antalya Province",
+      "location_id": "297960"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Mediterranean Coast",
+      "location_id": "658661"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "36.856728",
+  "longitude": "30.91618",
+  "timezone": "Europe/Istanbul",
+  "phone": "011902424312600",
+  "write_review": "https://www.tripadvisor.com/UserReview-g17951017-d307373-Swandor_Hotels_Resorts_Topkapi_Palace-Aksu_Antalya_Turkish_Mediterranean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "17951017",
+    "ranking_string": "#4 of 11 hotels in Aksu",
+    "geo_location_name": "Aksu",
+    "ranking_out_of": "11",
+    "ranking": "4"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "3848",
+  "review_rating_count": {
+    "1": "207",
+    "2": "154",
+    "3": "279",
+    "4": "485",
+    "5": "2723"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "5452",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g17951017-d307373-m66827-Reviews-Swandor_Hotels_Resorts_Topkapi_Palace-Aksu_Antalya_Turkish_Mediterranean_Coast.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Free parking",
+    "Restaurant",
+    "Fitness center",
+    "Beachfront",
+    "Room service",
+    "Beach Access",
+    "Internet",
+    "Wifi",
+    "Paid Wifi",
+    "Kids Activities",
+    "Bar/Lounge",
+    "Free Internet",
+    "Wheelchair access",
+    "Spa",
+    "Breakfast included",
+    "Suites",
+    "Airport transportation",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Water Park",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Butler Service",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Sauna",
+    "Aerobics",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "24-Hour Check-in",
+    "Darts",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "German",
+    "Hair Dryer",
+    "Hammam",
+    "Indoor Play Area for Children",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Nightclub / DJ",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Telephone",
+    "Turkish",
+    "Kids pool",
+    "Children's Playground",
+    "Landmark View",
+    "Pool View",
+    "Ukrainian"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quiet",
+    "Family Resort"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "74"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "650"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "28"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "2214"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "378"
+    }
+  ],
+  "awards": []
+}

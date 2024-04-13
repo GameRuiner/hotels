@@ -1,0 +1,333 @@
+{
+  "data": [
+    {
+      "id": 945920050,
+      "lang": "en",
+      "location_id": 548145,
+      "published_date": "2024-04-09T03:28:53Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d548145-r945920050-Reviews-Park_Regency_Sharm_El_Sheikh_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review945920050",
+      "text": "Great resort with water as a prominent feature. Pools on 3 levels with waterfalls between and a private beach with good snorkeling. Great food and a fabulous a la carte Thai restaurant.\nStaff were absolutely brilliant and thanks to Arafa, Fawzy, Ahmed and Mohammed Michael and everyone else. Would go back anytime.",
+      "title": "Great holiday experience",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "stuartdF1101YE",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ec/a2/default-avatar-2020-3.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ec/a2/default-avatar-2020-3.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ec/a2/default-avatar-2020-3.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ec/a2/default-avatar-2020-3.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ec/a2/default-avatar-2020-3.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945940509,
+        "title": "Owner response",
+        "text": "Dear stuartdF1101YE,\n\nThank you very much for sharing this great review of your recent stay at  Park Regency. We are thrilled that you have enjoyed your stay and certainly agree that our dedicated staff plays a key role to our guests' overall experience. The entire team works very hard to ensure that we deliver a high standard of service and a warm, memorable experience. \n\nBest wishes,\n\nPark Regency Team ",
+        "lang": "en",
+        "author": "Park Regency Sharm El Sheikh",
+        "published_date": "2024-04-09T07:07:03Z"
+      }
+    },
+    {
+      "id": 945783332,
+      "lang": "en",
+      "location_id": 548145,
+      "published_date": "2024-04-08T01:27:39Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d548145-r945783332-Reviews-Park_Regency_Sharm_El_Sheikh_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review945783332",
+      "text": "We have stayed in this hotel a four time. The beautiful aria, very responsive and friendly staff for all arias. I would like to mention and thanks Ali who cleaned our room 2317. He is responsible performer and friendly. He always does a good cleaning and a pleasant surprise is flowers. Thank you for a wonderful rest.",
+      "title": "Wonderful rest in Park Regency",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "J9187RD_",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f1/42/default-avatar-2020-20.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f1/42/default-avatar-2020-20.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f1/42/default-avatar-2020-20.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f1/42/default-avatar-2020-20.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/42/default-avatar-2020-20.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945928679,
+        "title": "Owner response",
+        "text": "Dear J9187RD_,\n\nThank you very much for sharing this great review of your recent stay at  Park Regency. We are thrilled that you have enjoyed your stay and certainly agree that our dedicated staff plays a key role to our guests' overall experience. The entire team works very hard to ensure that we deliver a high standard of service and a warm, memorable experience. \n\nBest wishes,\n\nPark Regency Team \n",
+        "lang": "en",
+        "author": "Park Regency Sharm El Sheikh",
+        "published_date": "2024-04-09T05:04:30Z"
+      }
+    },
+    {
+      "id": 945719151,
+      "lang": "en",
+      "location_id": 548145,
+      "published_date": "2024-04-07T12:26:52Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d548145-r945719151-Reviews-Park_Regency_Sharm_El_Sheikh_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review945719151",
+      "text": "This is still the most beautiful place in Sharm, built to be a really grand hotel in every respect. The house reef is amazing with an overwhelming amount of fish and corals. The beach is very nice by Sharm standards. The landscaping is beautiful. The staff is so friendly and they all do their very best. The main restaurant is good. The Thai restaurant is probably the best in the whole of Africa.\n\nWe have been here twice since the hotel lost its Hyatt branding and true; the hotel is a bit tired here and there, but this year is better than last, so the owner is making progress in catching up. We feel very much at home and the kids have a great time. Hope next year also our youngest will have the opportunity to get her PADI open water certificate at the hotel's dive center.\n\nIf I were the owner, I would try to invest in a big overhaul, double the prices, get rid of the Zumba and all other b*llsh*t entertainment and target another type of customer. Maybe add a sea food restaurant of the same level as the Thai place, open a nice new health/fitness/yoga center and somehow create a top of the bill diving experience. I think that would bring back the old Hyatt customers. If you would throw in 1 or 2 nice boats for day-trips with all the extra's to Tiran and other dive/snorkle area's in the vicinity, you might even charge Four Season-prices!\n\nAnyway. I was just thinking. We will come back next year anyway, regardless of the Zumba on the beach and the other customers that we do not always like that much. There is just no other hotel like this in Sharm and there is no other place where we can swim with Nemo in early spring, just 3 hours by plane from where we live.\n\nKeep up the good work!",
+      "title": "Grand old Lady of Sharm with huge potential",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "backtoholland",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e3/6a/default-avatar-2020-47.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e3/6a/default-avatar-2020-47.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e3/6a/default-avatar-2020-47.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e3/6a/default-avatar-2020-47.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e3/6a/default-avatar-2020-47.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945928489,
+        "title": "Owner response",
+        "text": "Dear backtoholland, \n\nFirst of all we would like to express our sincerest gratitude for your trust and loyalty to Park Regency for your holidays and for choosing our hotel this time around, it is indeed a great source of satisfaction to read that once again you had a pleasant stay among us.  We look forward to welcoming you back to our hotel.\n\nBest wishes,\n\nPark Regency Team ",
+        "lang": "en",
+        "author": "Park Regency Sharm El Sheikh",
+        "published_date": "2024-04-09T05:02:50Z"
+      }
+    },
+    {
+      "id": 945662124,
+      "lang": "en",
+      "location_id": 548145,
+      "published_date": "2024-04-07T04:10:22Z",
+      "rating": 3,
+      "helpful_votes": 2,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d548145-r945662124-Reviews-Park_Regency_Sharm_El_Sheikh_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review945662124",
+      "text": "Definitely not 5 star.\n\nIf you like busy, noisy this is for you.  Definitely geared for families with young children.  Souk area has kids entertainment most nights and very loud!  Not for us! \n\nFood in main restaurant isn't great and food quite bland,  Chefs need to be braver with adding flavours.  \n\nIf you pay for all inclusive, be careful as a couple of bars/restaurants are payable and its not obvious.\n\nFabulous Thai restaurant which is payable but very reasonable for quality of food.\n\nWe paid extra for a Club room, this gives access to a separate to main hotel, waiter service small restaurant, lovely pool and beach.  Food served here much better than in main restaurant.  All areas peaceful and staff amazing.  Gardens full of beautiful flowers and small, sweet lizards ? Geckos darting around.\n\nRooms very clean but not of great quality,  tired and in need of updating.   Bed and bedding poor, pillows lumpy and sheets really need replacing with quality Egypt cotton as you'd expect with 5*  Club room. \n Shower could do with a revamp too but did the job.\n\nTea and coffee in room but in horrible little sachets and dried creamer powder.  \n\nAll in all we had a pleasant, relaxing stay and would return on the Club basis 😊",
+      "title": "Wonderful Staff make up for lack of 5 star amenities!",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Inspire744023",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e3/6a/default-avatar-2020-47.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e3/6a/default-avatar-2020-47.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e3/6a/default-avatar-2020-47.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e3/6a/default-avatar-2020-47.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e3/6a/default-avatar-2020-47.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945940343,
+        "title": "Owner response",
+        "text": "Dear Inspire,\n\nThank you for choosing the Park Regency Sharm El Sheikh and for taking the time to give us your feedback.\nIt was particularly disappointing to read your negative feedback and the issues you faced in our hotel.\n\nWe are committed to delivering the highest level of guest service and I can insure you that we are doing extremely efforts to ensure in future these areas are improved and up to our usual high standards.\n\nOnce again, thank you for your time and despite the issues you have raised following your stay, we hope that Park Regency will remain an option for your next holiday and that we will have the opportunity to restore your faith in our company in the near future.\n\nBest regards, \nPark Regency Team",
+        "lang": "en",
+        "author": "Park Regency Sharm El Sheikh",
+        "published_date": "2024-04-09T07:05:09Z"
+      }
+    },
+    {
+      "id": 945593886,
+      "lang": "en",
+      "location_id": 548145,
+      "published_date": "2024-04-06T13:28:23Z",
+      "rating": 5,
+      "helpful_votes": 2,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d548145-r945593886-Reviews-Park_Regency_Sharm_El_Sheikh_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review945593886",
+      "text": "Hello, my family at the Park Regency Hotel, I’m Angela from Armenia, I don’t even know where to start, I have so many words and admiration that it will be difficult. The first time we were in August 2023, my husband (Arthur) and I celebrated my birthday. Cleaner\nMahmud, manager Mahmud,Chef  Khalil and all the waiters (Saad, Ahmed) organized everything so sincerely and beautifully that I even burst into tears. I would like to especially thank the rescuer Hussein, who found my husband’s Apple watch on the high seas, he is our hero.\nEverything was incredibly good, food, cleanliness, staff\n, animations, sea view, room. Chef Mohammed prepared such delicious Italian pasta that I’m sure they don’t even cook like that in Italy.\nThe second time I was with my  sister in law in January 2024. My God, I can’t even describe in words how manager Mahmud, Aiman (administrator), the waiters greeted me like family, my sister in law even said that she felt like the daughter of a sheikh)))). You know how you are all like family to me, I love and miss you very much, because I believe that I have a family in Egypt. Everything was at the highest level, to all those who treated their work and guests so well and so professionally, I'm incredibly grateful. And I'm sure that all this comes from the owners, directors and managers, such treatment and service just sunk into my soul and I will return to you more than once. I recommend this hotel to everyone. You all know how much we love you, We respect and miss you. Cook Mister Khalid, Adel, Sheriff, Khalid Raduan, Ahmed, cleaner Ahmed (at the top), also Mahmoud, our friendly and very good waiters Khalid, Saad, Ahmed, also Shadi, managers Salem, Mosalam ,Mustafa, saved by Hussein.\nSeparately, the manager Mahmud, he is like an older brother, such a professional, friendly and good, Chef Khalil also the best and of course the reception manager Ayman, there are no words at all about him, he is a professional in his field, so good, he helps everyone and in general when you look at him you can see that he is so discreet, always in suits, well, very at his best.\nThanks to all those whose names I didn’t write or didn’t remember. You are the best, Thank you for everything. I send greetings and gratitude also on behalf of Arthur and Ana.\nThanks to the director of the company, Mahmud Sakr.",
+      "title": "This is my home. This is not just a hotel, it’s like my home. Soulful, warm, cozy, chic, everything is mine.",
+      "trip_type": "Family",
+      "travel_date": "2024-01-31",
+      "user": {
+        "username": "639anjelikap",
+        "user_location": {
+          "id": "293932",
+          "name": "Yerevan"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f1/42/default-avatar-2020-20.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f1/42/default-avatar-2020-20.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f1/42/default-avatar-2020-20.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f1/42/default-avatar-2020-20.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/42/default-avatar-2020-20.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945712100,
+        "title": "Owner response",
+        "text": "Dear Anjelikap,\n\nThank you for the great feedback of your recent holiday experience at our hotel; guest satisfaction is our number one goal and there is nothing better than achieving that, we are happy our hotel and staff were able to meet all your needs during your stay. Once again thank you for taking the time to review our hotel.\n\nBest regards,\n\nPark Regency Team ",
+        "lang": "en",
+        "author": "Park Regency Sharm El Sheikh",
+        "published_date": "2024-04-07T11:34:02Z"
+      }
+    }
+  ]
+}

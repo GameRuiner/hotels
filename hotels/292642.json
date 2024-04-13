@@ -1,0 +1,293 @@
+{
+  "location_id": "292642",
+  "name": "The Ixian Grand & All Suites - Adults Only Hotel",
+  "description": "The Ixian Grand & All Suites - Adults Only Hotel, is a five-star beachfront resort on the West coast of Rhodes that offers breathtaking views of Ixia beach and the Aegean Sea. The resort provides relaxing and dreamy experiences in a luxurious setting! Our guests can enjoy several facilities such as large swimming pools, a la carte restaurants, a large Spa, a gym and many more. The resort consists of its main building and the garden complex. The main building features 124 deluxe guestrooms with garden or sea view and with or without a Spa Tub. The garden complex features 122 spacious and comfortable guestrooms with views to the garden or the quiet street in front of the hotel. The Ixian Grand & All Suites - Adults Only Hotel is ideally located just 6km away from Rhodes Town and 7km from the International Airport “Diagoras”, making it the ideal base for you to explore the endless beauties of Rhodes island. It is just few minutes away by car from the protected by UNESCO World Heritage Monument, “Medieval City of Rhodes” and the Mount Filerimos with its breathtaking panoramic views.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g635614-d292642-Reviews-The_Ixian_Grand_All_Suites_Adults_Only_Hotel-Ialyssos_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street1": "Eleftheriou Venizelou",
+    "city": "Ialyssos",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "85101",
+    "address_string": "Eleftheriou Venizelou, Ialyssos 85101 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Ialyssos",
+      "location_id": "635614"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.419624",
+  "longitude": "28.171358",
+  "timezone": "Europe/Athens",
+  "phone": "011302241092944",
+  "write_review": "https://www.tripadvisor.com/UserReview-g635614-d292642-The_Ixian_Grand_All_Suites_Adults_Only_Hotel-Ialyssos_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "635614",
+    "ranking_string": "#13 of 43 hotels in Ialyssos",
+    "geo_location_name": "Ialyssos",
+    "ranking_out_of": "43",
+    "ranking": "13"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "3203",
+  "review_rating_count": {
+    "1": "112",
+    "2": "175",
+    "3": "471",
+    "4": "919",
+    "5": "1526"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "4559",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g635614-d292642-m66827-Reviews-The_Ixian_Grand_All_Suites_Adults_Only_Hotel-Ialyssos_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Room service",
+    "Restaurant",
+    "Internet",
+    "Beachfront",
+    "Free Internet",
+    "Free parking",
+    "Bar/Lounge",
+    "Wheelchair access",
+    "Spa",
+    "Airport transportation",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Refrigerator in room",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Private Pools",
+    "Breakfast Available",
+    "Parking",
+    "Housekeeping",
+    "Adults Only",
+    "Aerobics",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Bicycle Rental",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Convenience Store",
+    "Couples Massage",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Evening Entertainment",
+    "Extra Long Beds",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Free Public Parking Nearby",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Greek",
+    "Hair Dryer",
+    "Head Massage",
+    "Massage",
+    "Outdoor Furniture",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Private Check-in / Check-out",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Special Diet Menus",
+    "Street Parking",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Bowling Off-site",
+    "Cable / Satellite TV",
+    "Express Check-in / Check-out",
+    "Clothes Rack",
+    "Dutch",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Foot Massage",
+    "Complimentary Welcome Drink",
+    "French",
+    "Hammam",
+    "Hand Massage",
+    "Ironing Service",
+    "Laptop Safe",
+    "Manicure",
+    "Mountain View",
+    "Neck Massage",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Pool View",
+    "Private Bathrooms",
+    "Radio",
+    "Russian",
+    "Shallow End",
+    "Snorkeling",
+    "Sofa",
+    "Sofa Bed",
+    "Squash Off-site",
+    "Steam Room",
+    "Sun Deck",
+    "Tennis Court Off-site",
+    "Tile / Marble Floor",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Water Park Off-site",
+    "Whirlpool Bathtub",
+    "Windsurfing",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Trendy",
+    "Great View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "21"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "2082"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "38"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "441"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "280"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

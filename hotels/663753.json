@@ -1,0 +1,219 @@
+{
+  "location_id": "663753",
+  "name": "Sharm Grand Plaza",
+  "description": "Perfectly laid on the shores of the Red Sea, with private 300 meters long sandy beach, own stunning Coral reef, 90 meters away walk on the hotel own jetty, The Sharm Grand Plaza reflects peacfulness, tranquility and comfort.The one and only resort in Sharm featuring a 2 double queen size bed in all rooms \"160 cm wide\", Our aim is for you to relax and enjoy the wide range facilities of pools, entertainment and Dinning experiences.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g303855-d663753-Reviews-Sharm_Grand_Plaza-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "340 El Salam Road",
+    "street2": "8 Km From Sharm Airport",
+    "city": "Nabq Bay",
+    "country": "Egypt",
+    "postalcode": "46619",
+    "address_string": "340 El Salam Road 8 Km From Sharm Airport, Nabq Bay, Sharm El Sheikh 46619 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Nabq Bay",
+      "location_id": "303855"
+    },
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "28.027348",
+  "longitude": "34.440174",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g303855-d663753-Sharm_Grand_Plaza-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "303855",
+    "ranking_string": "#11 of 41 hotels in Nabq Bay",
+    "geo_location_name": "Nabq Bay",
+    "ranking_out_of": "41",
+    "ranking": "11"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "7817",
+  "review_rating_count": {
+    "1": "192",
+    "2": "309",
+    "3": "837",
+    "4": "2103",
+    "5": "4376"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "9385",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g303855-d663753-m66827-Reviews-Sharm_Grand_Plaza-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Beachfront",
+    "Suites",
+    "Room service",
+    "Restaurant",
+    "Fitness center",
+    "Beach Access",
+    "Internet",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Public Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Refrigerator in room",
+    "Conference Facilities",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Free airport transportation",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Aerobics",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Car Hire",
+    "Currency Exchange",
+    "Diving",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "24-Hour Front Desk",
+    "Gift Shop",
+    "Hammam",
+    "Indoor Play Area for Children",
+    "Ironing Service",
+    "Italian",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Russian",
+    "Salon",
+    "Shops",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Bay View",
+    "Lagoon View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "37"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "2327"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "184"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "3037"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "1353"
+    }
+  ],
+  "awards": []
+}

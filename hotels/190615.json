@@ -1,0 +1,255 @@
+{
+  "location_id": "190615",
+  "name": "Claris Hotel & Spa",
+  "description": "This hotel in the centre of Barcelona is ideal for a few days of relaxation or work. Boasting comfort and high-quality service, the hotel enjoys the best location for discovering Barcelona and taking advantage of all the tourist and leisure activities the city has to offer.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d190615-Reviews-Claris_Hotel_Spa-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Pau Claris, 150",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08009",
+    "address_string": "Pau Claris, 150, 08009 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.394367",
+  "longitude": "2.165189",
+  "timezone": "Europe/Madrid",
+  "phone": "01134934876262",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d190615-Claris_Hotel_Spa-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#115 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "115"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "2924",
+  "review_rating_count": {
+    "1": "101",
+    "2": "109",
+    "3": "256",
+    "4": "619",
+    "5": "1839"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1118",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d190615-m66827-Reviews-Claris_Hotel_Spa-Barcelona_Catalonia.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Room service",
+    "Restaurant",
+    "Fitness center",
+    "Business center",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Suites",
+    "Pets Allowed",
+    "Bar/Lounge",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Housekeeping",
+    "Allergy-free Room",
+    "Baggage Storage",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Catalan",
+    "Coffee / Tea Maker",
+    "Couples Massage",
+    "Doorperson",
+    "English",
+    "Facial Treatments",
+    "Foot Massage",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Hair Dryer",
+    "Head Massage",
+    "Ironing Service",
+    "Italian",
+    "Massage",
+    "Pool / Beach Towels",
+    "Paid Private Parking On-site",
+    "Paid Public Parking Nearby",
+    "24-Hour Security",
+    "Soundproof Rooms",
+    "Spanish",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Facilities for Disabled Guests",
+    "Sauna",
+    "Hand Massage",
+    "Laptop Safe",
+    "Neck Massage",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Wardrobe / Closet"
+  ],
+  "parent_brand": "Derby Hotels Collection S.L.",
+  "brand": "Derby Hotels Collection",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Green",
+    "Business"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230970",
+      "name": "Eixample"
+    },
+    {
+      "location_id": "15565885",
+      "name": "La Dreta de l'Eixample"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "312"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1330"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "131"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "493"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "284"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

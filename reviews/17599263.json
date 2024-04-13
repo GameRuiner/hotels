@@ -1,0 +1,256 @@
+{
+  "data": [
+    {
+      "id": 945927823,
+      "lang": "en",
+      "location_id": 17599263,
+      "published_date": "2024-04-09T04:55:29Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d17599263-r945927823-Reviews-Naama_Waves_Hotel-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review945927823",
+      "text": "The hotel is very good and the food is great and the restaurant was nice and the bar is very clean and the restaurant looks very nice and clean and very good and everything is good and the menu looks really nice happy to have the best time with my friends",
+      "title": "The hotel is very good and the food is great and the restaurant was nice and the bar is very clean and the restaurant lo",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "ahbjhd",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/b8/default-avatar-2020-22.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 945813498,
+      "lang": "en",
+      "location_id": 17599263,
+      "published_date": "2024-04-08T06:33:22Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d17599263-r945813498-Reviews-Naama_Waves_Hotel-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review945813498",
+      "text": "The hotelis very good and the food is very varied. The staff are all amazing and they all made this hotel so fantastic the hotel is clean and the position of the hotel is within easy access to the main town. We will definitely be comung back ❤️❤️❤️.",
+      "title": "Excellent",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "marietH5574XS",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/9f/default-avatar-2020-16.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 945675882,
+      "lang": "en",
+      "location_id": 17599263,
+      "published_date": "2024-04-07T06:27:48Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d17599263-r945675882-Reviews-Naama_Waves_Hotel-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review945675882",
+      "text": "The hotel was good 👍 and the restaurant was nice too and we had some drinks and some snacks and we got some food from there and then we went for lunch with my friend who is from there so it wasn’t a big surprise but we were just really happy with how much fun",
+      "title": "The hotel was good 👍 and the restaurant was nice too and we had some drinks and some snacks and we got some food from t",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "dvggd",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e5/66/default-avatar-2020-53.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e5/66/default-avatar-2020-53.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e5/66/default-avatar-2020-53.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e5/66/default-avatar-2020-53.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e5/66/default-avatar-2020-53.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 945547825,
+      "lang": "en",
+      "location_id": 17599263,
+      "published_date": "2024-04-06T06:27:15Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d17599263-r945547825-Reviews-Naama_Waves_Hotel-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review945547825",
+      "text": "Great experience. Great animation! Amazing nightlife. Enjoyable and very nice pool. Recommend this for everyone. Great for families, lads on tour, friends, and all experiences. Good resteranno and great bar staff aswell. Very sunny and good wi-fi.",
+      "title": "Very good",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "matteofY5411VB",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/81/default-avatar-2020-43.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 945477036,
+      "lang": "en",
+      "location_id": 17599263,
+      "published_date": "2024-04-05T14:03:47Z",
+      "rating": 3,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d17599263-r945477036-Reviews-Naama_Waves_Hotel-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review945477036",
+      "text": "We had a nice stay at this hotel for 8 nights. Rooms are large and had nice view but shower in bathroom was not easy to get into as right door was not working properly. Sink is very low. Room kept spotlessly clean daily replenished water tea coffee milk.\n\nPool was nice but music very loud so?after one day we moved up to wave pool area as ypu could still hear music but not as loud. Pool shallow more for children than adults. Wave pool was good as actually felt deeper. \n\nFood was very much catering for Russians do lots and I mean lots! Of dishes in thick sauces all warm rather than hot with exception of the BBQ chicken they cooked outside most days which was really delicious. They did really try to change food when they received complaints from English people so credit to them. We always found something we could eat even though we ate repetitive things. \n\nThe bars vary in drinks. I liked the cocktail list they had and asked if they could make a long island ice tea and they did! It was lovely and every evening we went to the bar he would make me one without even asking and bring it over. My partner drank beer and he liked it.\n\nThe beach area is tiny for the number of people and disappointing but they did have a small bar and put out snack food at certain times. We only used it once as felt like sardines in a can as sunbeds very close together with little personal space. \n\nThe staff definitely make this hotel. They are kind courteous polite and professional and will do everything in their power to make your stay brilliant and enjoyable. We took single Dollars to give as tips which were appreciated by everyone. They really deserve the tips. \n\nI think if they improve the food and repaint and fix tiles around pool and wave pool we would come back to this hotel.",
+      "title": "Pleasant Holiday in March - note they catered mainly to Russians",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "stefkali",
+        "user_location": {
+          "id": "186278",
+          "name": "Essex, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e4/a9/default-avatar-2020-50.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

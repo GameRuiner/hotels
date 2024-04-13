@@ -1,0 +1,236 @@
+{
+  "location_id": "316744",
+  "name": "Nubian Village Hotel",
+  "description": "Everyone needs a place to lay their weary head. For travelers visiting Sharm El Sheikh, Nubian Village Hotel is an excellent choice for rest and rejuvenation. Well-known for its romantic environment and proximity to great restaurants, Nubian Village Hotel makes it easy to enjoy the best of Sharm El Sheikh.\nGuest rooms offer a flat screen TV, a minibar, and a refrigerator, and Nubian Village Sharm El Sheikh makes getting online easy as internet access is available.\nYou can also take advantage of some of the amenities offered by the hotel, including a 24 hour front desk, room service, and a concierge. In addition, guests can enjoy a pool and free breakfast during their visit. As an added convenience, there is free parking available to guests.\nWhile staying at Nubian Village Sharm El Sheikh, if you are feeling hungry, you can find Bar one (0.0 mi) a short walk from the hotel.\nWhether you’re traveling for business, pleasure or both, Nubian Village Hotel is sure to make your visit to Sharm El Sheikh one worth remembering.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g303855-d316744-Reviews-Nubian_Village_Hotel-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Nabq Bay",
+    "city": "Nabq Bay",
+    "country": "Egypt",
+    "postalcode": "46619",
+    "address_string": "Nabq Bay, Nabq Bay, Sharm El Sheikh 46619 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Nabq Bay",
+      "location_id": "303855"
+    },
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "28.023405",
+  "longitude": "34.43737",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g303855-d316744-Nubian_Village_Hotel-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "303855",
+    "ranking_string": "#3 of 41 hotels in Nabq Bay",
+    "geo_location_name": "Nabq Bay",
+    "ranking_out_of": "41",
+    "ranking": "3"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "4358",
+  "review_rating_count": {
+    "1": "114",
+    "2": "120",
+    "3": "277",
+    "4": "748",
+    "5": "3099"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "4505",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g303855-d316744-m66827-Reviews-Nubian_Village_Hotel-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Fitness center",
+    "Beachfront",
+    "Free parking",
+    "Beach Access",
+    "Kids Activities",
+    "Suites",
+    "Room service",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Public Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Water Park",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Adult pool",
+    "Outdoor pool",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Aerobics",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Billiards",
+    "Bottled Water",
+    "Complimentary Tea",
+    "Darts",
+    "Diving",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Complimentary Instant Cofffee",
+    "24-Hour Front Desk",
+    "Gift Shop",
+    "Ironing Service",
+    "Italian",
+    "Karaoke",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Nightclub / DJ",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "Shops",
+    "Snack Bar",
+    "Snorkeling",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Kids pool",
+    "Body Wrap",
+    "Children's Playground",
+    "Electric Kettle",
+    "Full Body Massage",
+    "Highchairs Available",
+    "Landmark View",
+    "Manicure",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Pool View",
+    "Private Bathrooms",
+    "Tile / Marble Floor",
+    "Umbrella",
+    "Wardrobe / Closet",
+    "Waterslide"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Harbor View",
+    "Quaint"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "21"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "856"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "133"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "2265"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "603"
+    }
+  ],
+  "awards": []
+}

@@ -1,0 +1,212 @@
+{
+  "location_id": "7154009",
+  "name": "Jannah Place Dubai Marina",
+  "description": "Created for multi-blenders with 24/7 lifestyles, this upscale full-service hotel will allow you to balance work and play. Jannah Place is a new style of lodging that offers casual hospitality with luxury services in a smartly designed, high-tech and modern environment.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d7154009-Reviews-Jannah_Place_Dubai_Marina-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Nasaq St, Marina Promenade",
+    "street2": "Marina Promenade",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Al Nasaq St, Marina Promenade Marina Promenade, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.069504",
+  "longitude": "55.133076",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d7154009-Jannah_Place_Dubai_Marina-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#232 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "232"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1105",
+  "review_rating_count": {
+    "1": "37",
+    "2": "11",
+    "3": "49",
+    "4": "160",
+    "5": "848"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "469",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d7154009-m66827-Reviews-Jannah_Place_Dubai_Marina-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Pool",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Kitchenette",
+    "Airport transportation",
+    "Dry Cleaning",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Microwave",
+    "Refrigerator in room",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Private Balcony",
+    "Outdoor pool",
+    "Parking",
+    "Sauna",
+    "Arabic",
+    "Baggage Storage",
+    "Car Hire",
+    "English",
+    "Filipino",
+    "French",
+    "Hindi",
+    "Iron",
+    "Ironing Service",
+    "Russian",
+    "24-Hour Security",
+    "Soundproof Rooms",
+    "Sun Terrace",
+    "Taxi Service",
+    "Facilities for Disabled Guests",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Marina View",
+    "Harbor View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7282432",
+      "name": "The Marina"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "149"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "261"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "124"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "247"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "226"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

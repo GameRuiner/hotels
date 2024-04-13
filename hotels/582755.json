@@ -1,0 +1,288 @@
+{
+  "location_id": "582755",
+  "name": "Desert Rose Resort",
+  "description": "Just a fifteen-minute drive from Hurghada Airport and 16 km from Hurghada city center, Desert Rose’s 1km pristine beach and its idyllic 40,000 square meter natural lagoon with golden sands is a choice location for enjoying a unique stretch of private beachfront, providing a wonderful environment for fun-packed activities or simply relishing the stunning year-round unbeatable Red Sea climate.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297549-d582755-Reviews-Desert_Rose_Resort-Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Village Road",
+    "street2": "",
+    "city": "Hurghada",
+    "country": "Egypt",
+    "postalcode": "",
+    "address_string": "Village Road, Hurghada Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Hurghada",
+      "location_id": "297549"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.096617",
+  "longitude": "33.835205",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297549-d582755-Desert_Rose_Resort-Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297549",
+    "ranking_string": "#85 of 325 hotels in Hurghada",
+    "geo_location_name": "Hurghada",
+    "ranking_out_of": "325",
+    "ranking": "85"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "8292",
+  "review_rating_count": {
+    "1": "163",
+    "2": "182",
+    "3": "488",
+    "4": "1423",
+    "5": "6036"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "10059",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297549-d582755-m66827-Reviews-Desert_Rose_Resort-Hurghada_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Room service",
+    "Pool",
+    "Beachfront",
+    "Beach Access",
+    "Restaurant",
+    "Kids Activities",
+    "Free parking",
+    "Spa",
+    "Fitness center",
+    "Suites",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Public Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Water Park",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Aerobics",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Billiards",
+    "Blackout Curtains",
+    "Board Games / Puzzles",
+    "Books, DVDs, Music for Children",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "24-Hour Check-in",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Convenience Store",
+    "Couples Massage",
+    "Currency Exchange",
+    "Darts",
+    "Desk",
+    "Diving",
+    "Doorperson",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Head Massage",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Italian",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Nightclub / DJ",
+    "Outdoor Furniture",
+    "Polish",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shops",
+    "Snack Bar",
+    "Snorkeling",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Kids pool",
+    "Archery",
+    "Bidet",
+    "Boating",
+    "Cable / Satellite TV",
+    "Children's Television Networks",
+    "Children's Playground",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Complimentary Welcome Drink",
+    "Manicure",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Personal Trainer",
+    "Pool View",
+    "Private Bathrooms",
+    "Shallow End",
+    "Sun Deck",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Waterslide",
+    "Water Sport Equipment Rentals",
+    "Windsurfing",
+    "Yoga Classes"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Lagoon View",
+    "Family Resort"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "51"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1899"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "209"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "3814"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "1560"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "location_id": "228642",
+  "name": "Catalonia Plaza Catalunya",
+  "description": "Hotel Catalonia Plaza Cataluña (previously Catalonia Duques de Bergara) is situated 50 metres from Barcelona’s Plaça Catalunya and is a 2-minute walk from Las Ramblas. It has an outdoor pool and free Wi-FiPlaza Cataluña Hotel is a 5-minute walk from Barcelona’s Gothic Quarter and a 20-minute walk from Barcelona Port. Gaudi’s Casa Batló and La Pedrera can be reached in around 15 minutes by foot.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d228642-Reviews-Catalonia_Plaza_Catalunya-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Bergara 11",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08007",
+    "address_string": "Bergara 11, 08007 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.38627",
+  "longitude": "2.168141",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d228642-Catalonia_Plaza_Catalunya-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#172 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "172"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "1998",
+  "review_rating_count": {
+    "1": "80",
+    "2": "98",
+    "3": "192",
+    "4": "663",
+    "5": "965"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "722",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d228642-m66827-Reviews-Catalonia_Plaza_Catalunya-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Business center",
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Pets Allowed",
+    "Spa",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Facilities for Disabled Guests",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Catalan",
+    "Desk",
+    "English",
+    "Facial Treatments",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Ironing Service",
+    "Babysitting",
+    "Safe",
+    "Sauna",
+    "Currency Exchange",
+    "French",
+    "Italian",
+    "Massage",
+    "Paid Public Parking Nearby",
+    "Shops",
+    "Snack Bar",
+    "Solarium",
+    "Spanish",
+    "Telephone"
+  ],
+  "parent_brand": "Hoteles Catalonia",
+  "brand": "Catalonia",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Classic",
+    "Centrally Located"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230970",
+      "name": "Eixample"
+    },
+    {
+      "location_id": "15565885",
+      "name": "La Dreta de l'Eixample"
+    },
+    {
+      "location_id": "15565926",
+      "name": "Placa Catalunya"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "284"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "739"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "127"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "477"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "225"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

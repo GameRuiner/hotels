@@ -1,0 +1,225 @@
+{
+  "location_id": "9853524",
+  "name": "Rove Downtown",
+  "description": "Adjacent to Burj Khalifa and The Dubai Mall, Rove Downtown offers everything you need to explore Dubai without borders.\n\nThe hotel's vibrant design is inspired by the surrounding neighborhood and the city, using art to tell stories and create irresistible Instagrammable moments.\n\nIn regards to amenities, Rove Downtown offers comfortably-sized Rover Rooms that are packed with all the essentials, including free Wi-Fi, a 48” interactive in-room TV, and friendly service. In addition, there are plenty of leisure options available, including a 24-hour gym, an outdoor pool and sundeck, as well as lots of games in common areas.\n\nWithin walking distance to Downtown Dubai, the hotel is surrounded by boutique shops, fine-dining restaurants, entertainment venues, and other essential amenities. The location is also well-connected to the rest of the city, with easy access to Sheikh Zayed Road, Business Bay, DIFC, and Al Khail Road.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d9853524-Reviews-Rove_Downtown-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "312 Al Mustaqbal Street",
+    "street2": "Zabeel 2",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "119444",
+    "address_string": "312 Al Mustaqbal Street Zabeel 2, Dubai 119444 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.202272",
+  "longitude": "55.279064",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d9853524-Rove_Downtown-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#44 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "44"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "5341",
+  "review_rating_count": {
+    "1": "17",
+    "2": "21",
+    "3": "119",
+    "4": "904",
+    "5": "4281"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "3615",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d9853524-m66827-Reviews-Rove_Downtown-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Afrikaans",
+    "Allergy-free Room",
+    "Arabic",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "24-Hour Check-in",
+    "Chinese",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "Complimentary Instant Cofffee",
+    "French",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Ironing Service",
+    "Laptop Safe",
+    "Pool / Beach Towels",
+    "24-Hour Security",
+    "Snack Bar",
+    "Soundproof Rooms",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Taxi Service",
+    "Vending Machine"
+  ],
+  "parent_brand": "Rove Hospitality LLC",
+  "brand": "Rove Hotels",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Value",
+    "Modern"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620686",
+      "name": "Zabeel"
+    },
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    },
+    {
+      "location_id": "15620688",
+      "name": "Zabeel 2"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "809"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1579"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "487"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1225"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "595"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

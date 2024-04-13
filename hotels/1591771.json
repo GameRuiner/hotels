@@ -1,0 +1,283 @@
+{
+  "location_id": "1591771",
+  "name": "KaiSol Romance Resort Sahl Hasheesh",
+  "description": "Highlights • Luxury resort with state-of-the-art concept • Large balconies and panoramic sea view • Best sandy beach in Sahl Hasheesh • Swim-up and jacuzzi rooms & suites",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g15516847-d1591771-Reviews-KaiSol_Romance_Resort_Sahl_Hasheesh-Sahl_Hasheesh_Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Old Town",
+    "city": "Sahl Hasheesh",
+    "country": "Egypt",
+    "postalcode": "84511",
+    "address_string": "Old Town, Sahl Hasheesh, Hurghada 84511 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Sahl Hasheesh",
+      "location_id": "15516847"
+    },
+    {
+      "level": "Municipality",
+      "name": "Hurghada",
+      "location_id": "297549"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.04861",
+  "longitude": "33.892952",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g15516847-d1591771-KaiSol_Romance_Resort_Sahl_Hasheesh-Sahl_Hasheesh_Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "15516847",
+    "ranking_string": "#2 of 11 hotels in Sahl Hasheesh",
+    "geo_location_name": "Sahl Hasheesh",
+    "ranking_out_of": "11",
+    "ranking": "2"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "3823",
+  "review_rating_count": {
+    "1": "42",
+    "2": "48",
+    "3": "144",
+    "4": "450",
+    "5": "3139"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "5655",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g15516847-d1591771-m66827-Reviews-KaiSol_Romance_Resort_Sahl_Hasheesh-Sahl_Hasheesh_Hurghada_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Restaurant",
+    "Fitness center",
+    "Internet",
+    "Beachfront",
+    "Free Internet",
+    "Beach Access",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Bar/Lounge",
+    "Dry Cleaning",
+    "Laundry Service",
+    "Air conditioning",
+    "Minibar",
+    "Shuttle Bus Service",
+    "Spa",
+    "Non-smoking rooms",
+    "Concierge",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Safe",
+    "Rooftop Pool",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Private Pools",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Sauna",
+    "Additional Bathroom",
+    "Adults Only",
+    "Allergy-free Room",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Billiards",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Couples Massage",
+    "Currency Exchange",
+    "Desk",
+    "Diving",
+    "Doorperson",
+    "English",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Head Massage",
+    "Ironing Service",
+    "Laptop Safe",
+    "Massage",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Snorkeling",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Breakfast Available",
+    "Body Wrap",
+    "Cable / Satellite TV",
+    "Electric Kettle",
+    "Complimentary Welcome Drink",
+    "Hand Massage",
+    "Makeup Services",
+    "Manicure",
+    "Mountain View",
+    "Neck Massage",
+    "Pool View",
+    "Private Bathrooms",
+    "Ukrainian",
+    "Umbrella",
+    "Wardrobe / Closet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Ocean View",
+    "Modern"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "18"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "2582"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "143"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "298"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "301"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice Best of the Best",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png"
+      },
+      "categories": [
+        "Romance"
+      ],
+      "display_name": "Travelers Choice Best of the Best"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

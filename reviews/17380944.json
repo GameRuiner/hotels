@@ -1,0 +1,62 @@
+{
+  "data": [
+    {
+      "id": 893724223,
+      "lang": "en",
+      "location_id": 17380944,
+      "published_date": "2023-06-06T11:27:58Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g15292399-d17380944-r893724223-Reviews-Luis_Hotel-Gaziemir_Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review893724223",
+      "text": "A very nice hotel. Very comfy beds and clean modern rooms with coffee and tea on arrival.\nThere is a kettle in the room. there is a train station just 100 m away. The breakfast was very delicious i would definitely come again and recommend to people. Staff were friendly. ",
+      "title": "Would recommend",
+      "trip_type": "Family",
+      "travel_date": "2022-10-31",
+      "user": {
+        "username": "228ciral",
+        "user_location": {
+          "id": "297972",
+          "name": "Kusadasi, Turkish Aegean Coast"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/29/66/ef/83/caption.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/29/66/ef/83/caption.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/29/66/ef/83/caption.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/29/66/ef/83/caption.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/29/66/ef/83/caption.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 694747801,
+      "lang": "en",
+      "location_id": 17380944,
+      "published_date": "2019-08-01T16:01:45Z",
+      "rating": 4,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g15292399-d17380944-r694747801-Reviews-Luis_Hotel-Gaziemir_Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review694747801",
+      "text": "Hotel is small, also rooms are small but clean. Hotel staff is friendly, helpful and very kind. Breakfast can be improved, very reasonable price, close to the airport. For short stay good, I would go again",
+      "title": "Nice ",
+      "trip_type": "Couples",
+      "travel_date": "2019-07-31",
+      "user": {
+        "username": "AmilaS20",
+        "user_location": {
+          "id": "293974",
+          "name": "Istanbul"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f4/5d/default-avatar-2020-32.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

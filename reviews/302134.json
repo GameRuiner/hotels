@@ -1,0 +1,253 @@
+{
+  "data": [
+    {
+      "id": 945378487,
+      "lang": "en",
+      "location_id": 302134,
+      "published_date": "2024-04-04T17:04:36Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d302134-r945378487-Reviews-Jaz_Fanara_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review945378487",
+      "text": "On our last night we landed in Sangria bar where we had the most fantastic experience. The bartender, Mohammed Morsy was friendly and attentive! He very much wanted us to enjoy our time and offered us different snacks then available at the other bars. The other staff member Mohamed was equally helpful. We wish we had another day to visit them!",
+      "title": "Wish we'd have found sangria bar earlier!",
+      "trip_type": "Couples",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "eotoole",
+        "user_location": {
+          "id": "60893",
+          "name": "Richmond, Virginia"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/16/8b/82/51/eotoole.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/16/8b/82/51/eotoole.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/16/8b/82/51/eotoole.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/16/8b/82/51/eotoole.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/16/8b/82/51/eotoole.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945431892,
+        "title": "Owner response",
+        "text": "Dear eotoole\n\nFirst of all we would like to thank you for choosing Jaz Fanara Resort to spend your holiday, and we would like to thank you for your feedback.\n\nOur whole team is extremely committed to delivering the perfect holiday experience for every guest and welcome any suggestions for improving and developing our service as we always strive to ensure the complete satisfaction of our guests.\n\nThank you once again for your visit, and for your feedback.\n\nLooking forward to welcome you back at Jaz Fanara Resort.\n\nBest regards,",
+        "lang": "en",
+        "author": "Jaz Fanara Resort",
+        "published_date": "2024-04-05T06:53:16Z"
+      }
+    },
+    {
+      "id": 945211336,
+      "lang": "en",
+      "location_id": 302134,
+      "published_date": "2024-04-03T09:50:56Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d302134-r945211336-Reviews-Jaz_Fanara_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review945211336",
+      "text": "Special shout out to Walid our room attendant who worked really hard to make our room perfect every day. Ivan and the animation team were great. Waiters were fab, especially Abo. Attractive hotel and location. Great cocktails and Pyramid Divers on site.",
+      "title": "Lovely staff",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "W8667NHruthg",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/43/default-avatar-2020-11.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945297697,
+        "title": "Owner response",
+        "text": "Dear W8667NHruthg,\n\nFirst of all we would like to thank you for choosing Jaz Fanara Resort to spend your holiday, and we would like to thank you for your feedback.\n\nOur whole team is extremely committed to delivering the perfect holiday experience for every guest and welcome any suggestions for improving and developing our service as we always strive to ensure the complete satisfaction of our guests.\n\nThank you once again for your visit, and for your feedback.\n\nLooking forward to welcome you back at Jaz Fanara Resort.\n\nBest regards,",
+        "lang": "en",
+        "author": "Jaz Fanara Resort",
+        "published_date": "2024-04-04T04:19:01Z"
+      }
+    },
+    {
+      "id": 944272630,
+      "lang": "en",
+      "location_id": 302134,
+      "published_date": "2024-03-28T12:31:41Z",
+      "rating": 3,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d302134-r944272630-Reviews-Jaz_Fanara_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review944272630",
+      "text": "We arrived late in the evening reception staff were pleasant,  we were initially appointed a room that was dismal facing a road and small and tired looking. I immediately went back to reception and said it was not what was advertised and would like another room, I was shown 2 others and was happy with the last room where we moved to straight away. Ahmet was a hardworking member of the team who created some amazing towel art each day for us.\n\nThe hotel is large and is built alongside a road which is not too noisy but noticeable the grounds are lovely and well looked after. We spent the majority of our time in the Gazelle pool (quiet pool) which is at the other end of the hotel it is very quiet the pool is not heated, and no lunchtime food is served.  There are waiters around who will serve drinks they are attentive and pleasant. The life guard there Mohamoud was a lovely helpful fella and very cheery.\n\nThe beach is small I imagine at the height of season gets incredibly packed, but the sea is lovely with coral and lots of different marine life to see.\n\nThe staff do expect to be tipped which I did not have a problem with as they do not get paid well but I did this at the beginning of the holiday and our last day this was with GBP in notes only.\n\nThere is very little to do outside of the hotel which was a new experience for me I assume that you could get taxis if you wanted to go somewhere.\n\nWe were due to check out at noon that day the day before I asked where we could go for a shower and was informed by a manager (Hany Saad) there were no facilities as the Jaz conglomerates no longer provided this service or a curtsey room for late check out guest. I asked if we could book a late room but was told there was not this option either.  I asked how guest were meant to freshen up who were on late flights, and he said we could use the public showers by the pools !! (you have to hold this down with one hand)  and then get dressed in the toilet! I was shocked at this suggestion especcailly coming from a manager but also from such a huge hotel like the Jaz corporations. This is absolutely unacceptable. \n\nThe food ……. I go on holiday a few times a year and have been to Sharm several times and I can honestly say that I have never ever experienced such awful food literally appalling. We ate most nights at the Gazelle as it was quite with a nice ambience but the food (breakfast and dinner) was just warm I had to ask for the soup to be reheated most times, the toaster did not toast and when I questioned this the waiter used his hands to pick up the bread and put in again which still did not toast the bread, the food looked and tasted unappetizing and was also just warm, I could not find anything to go with anything such as a proper meal rather than bits of all sorts, the salad was dry the fish dry the rice tasted terrible, I ate from the pasta station mostly but I find that unacceptable they certainly need a 100% overall of their food and the chef. I dreaded meal times such was the food on offer ! \n\nThe main restaurant is noisy and cold and looks like it needs a deep clean same food just a little more choice but same problems.\nThe white wine is palatable but the red wine is awful the cocktails are good i stuck with mojitos or mock cocktails  however this is dependant on who is the cocktail maker at the time.\n\nThe snack bar by the pool is ok it does the basics burgers rolls salad pizza waiters busy and cannot keep on top of keeping the restaurant clean and tidy.\nThe Italian al la carte restaurant whish you get a free pass to a week was nice and i actually ate the food here the atmosphere was also pleasant, the wine was also very good.\n\nI know that the management will respond to this review with the usual reply that you will see on all the reviews\n     “different guests have different expectations, but I can assure you that we are \n       serving hundreds of guests daily from different nationalities around the world \n      and we gain their trust, appreciation for the food standard, quality and variety \n     on all   occasions”\n\nI think this is a wide statement and is not reflective of the truth.  I can honestly say that I could not and would not visit nor recommend this hotel based on the vile food which I cannot express how bad it is along with the lack of care for late departures.",
+      "title": "A VERY HONEST REVIEW",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "rickers022",
+        "user_location": {
+          "id": "186250",
+          "name": "Devon, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/01/9a/d4/ce/rickers022.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/01/9a/d4/ce/rickers022.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/01/9a/d4/ce/rickers022.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/01/9a/d4/ce/rickers022.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 943862732,
+      "lang": "en",
+      "location_id": 302134,
+      "published_date": "2024-03-26T05:46:51Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d302134-r943862732-Reviews-Jaz_Fanara_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review943862732",
+      "text": "Jaz Fanara is definitely a resort that deserves 5 stars.  The rooms are very clean, welcoming, the food is excellent and international and the staff are extremely courteous and helpful.  The beach is small but beautiful.  A special mention for Walid, the room cleaner, for his kindness, availability and professionalism, which made this stay even more unforgettable",
+      "title": "Tutto bellissimo!!!",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "francalba",
+        "user_location": {
+          "id": "194731",
+          "name": "Cesena, Province of Forli-Cesena, Emilia-Romagna"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/df/2b/default-avatar-2020-39.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 943911146,
+        "title": "Owner response",
+        "text": "Dear francalba,\n\nFirst of all we would like to thank you for choosing Jaz Fanara Resort to spend your holiday, and we would like to thank you for your feedback.\n\nOur whole team is extremely committed to delivering the perfect holiday experience for every guest and welcome any suggestions for improving and developing our service as we always strive to ensure the complete satisfaction of our guests.\n\nThank you once again for your visit, and for your feedback.\n\nLooking forward to welcome you back at Jaz Fanara Resort.\n\nBest regards,",
+        "lang": "en",
+        "author": "Jaz Fanara Resort",
+        "published_date": "2024-03-26T13:04:59Z"
+      }
+    },
+    {
+      "id": 943486122,
+      "lang": "en",
+      "location_id": 302134,
+      "published_date": "2024-03-23T09:01:02Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d302134-r943486122-Reviews-Jaz_Fanara_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review943486122",
+      "text": "Review for TripAdvisor\n\nThis is a relatively small resort complex and at this time of year was quiet. There was certainly no need to race for the sun loungers around the heated pool (I think it's heated). The hotel has a private beach with more sun loungers, and this seemed to be more popular. It's not far to walk to the beach, but it's steepish, so if you do have major mobility issues then beware (no toilets at the beach either). The beach itself is a mixture of sand and small stones and you can easily swim out to look at the colourful fish around the coral. I took my snorkel but if you want they do scuba diving for a fee. They have lifeguards at the pool and on the beach, worth knowing if you have little ones. The hotel itself and the grounds/pools is very well manicured and virtually spotless. I don't think I've ever been to a resort so clean! My room was very clean and had everything I needed. Staff are very friendly and helpful and the hotel bars do a local lager and range of cocktails and mocktails (and other soft drinks) . The coffee is also very good. They put on a range of daytime and evenings entertainment, pool games etc. should you go in for that sort of thing. I expect they ramp things up in the peak season, but they will still doing some stuff in March. All the eating areas are very clean and there was a reasonable variety of tasty and healthy food, including lots of grilled and salad items. Some reviews have been critical of the food, but I thought the choice was fine. However, if your idea of all inclusive food is just burgers, fries and pizza all day and all night, you're not going to get it. The food had more of an International-Mediterranean-Turkish feel to it, but they do serve burgers etc.  by the pool at lunchtime if that's your thing. In terms of the area itself, there isn't much to 'sightsee' unless you want to take a flight to Cairo to see the pyramids, but as a destination to soak up a bit of Winter sun, it's perfect. Lastly, WiFi was good throughout most of the resort. In all, I'd be happy to go again. Five stars!\n",
+      "title": "Nice resort for solo traveller ",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Harvey4455",
+        "user_location": {
+          "id": "186403",
+          "name": "Coventry, West Midlands, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/4a/default-avatar-2020-42.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/4a/default-avatar-2020-42.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/4a/default-avatar-2020-42.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/4a/default-avatar-2020-42.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/4a/default-avatar-2020-42.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 943539322,
+        "title": "Owner response",
+        "text": "Dear Harvey4455,\n\nFirst of all we would like to thank you for choosing Jaz Fanara Resort to spend your holiday, and we would like to thank you for your feedback.\n\nOur whole team is extremely committed to delivering the perfect holiday experience for every guest and welcome any suggestions for improving and developing our service as we always strive to ensure the complete satisfaction of our guests.\n\nThank you once again for your visit, and for your feedback.\n\nLooking forward to welcome you back at Jaz Fanara Resort.\n\nBest regards,",
+        "lang": "en",
+        "author": "Jaz Fanara Resort",
+        "published_date": "2024-03-23T16:41:45Z"
+      }
+    }
+  ]
+}

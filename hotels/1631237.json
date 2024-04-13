@@ -1,0 +1,256 @@
+{
+  "location_id": "1631237",
+  "name": "Premier Inn Dubai International Airport Hotel",
+  "description": "Located opposite Dubai International Airport, Premier Inn Dubai International Airport offers great value stays in a convenient location for business and leisure travellers. Hop on our free shuttle bus service from Dubai International Airport Terminals 1 and 3, and arrive at the hotel in minutes. Our spacious rooms are equipped with desk space, en-suite bathrooms and our signature slumber-inducing Hypnos beds with a choice of pillows for a good night's sleep, guaranteed. Wake up wonderful, grab a coffee at Costa or enjoy breakfast, lunch or dinner at Nuevo Restaurant with a selection of tasty dishes and kids meal on offer. Refresh in our rooftop pool, or work up a sweat in the gym. Kick back and relax with a beverage and hearty meal in Mr Toad's Pub and Kitchen. Stay connected with unlimited free Wi-Fi throughout the hotel, or log on at our Business Centre. Our 24-hour reception team offer a warm welcome, any time of the day or night.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1631237-Reviews-Premier_Inn_Dubai_International_Airport_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "52B Street",
+    "street2": "Opp Terminal 3, Dubai International Airport",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "52B Street Opp Terminal 3, Dubai International Airport, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.24282",
+  "longitude": "55.35875",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1631237-Premier_Inn_Dubai_International_Airport_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#226 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "226"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "7101",
+  "review_rating_count": {
+    "1": "65",
+    "2": "99",
+    "3": "504",
+    "4": "2261",
+    "5": "4172"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1227",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1631237-m66827-Reviews-Premier_Inn_Dubai_International_Airport_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Restaurant",
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Free parking",
+    "Wifi",
+    "Free Wifi",
+    "Room service",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Free airport transportation",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Afrikaans",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Billiards",
+    "Blackout Curtains",
+    "Bottled Water",
+    "24-Hour Check-in",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Croatian",
+    "Desk",
+    "English",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Kids' Meals",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "24-Hour Security",
+    "Shoeshine",
+    "Soundproof Rooms",
+    "Special Diet Menus",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Telephone",
+    "Vending Machine",
+    "Conference Facilities",
+    "Facilities for Disabled Guests",
+    "Bidet",
+    "Clothes Rack",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Free Wifi in the Business Center",
+    "German",
+    "Happy Hour",
+    "Highchairs Available",
+    "Italian",
+    "Landmark View",
+    "Laptop Safe",
+    "Nepali",
+    "Outdoor Dining Area",
+    "Private Bathrooms",
+    "Russian",
+    "Sofa",
+    "Sofa Bed",
+    "Sun Deck",
+    "Swahili",
+    "Wardrobe / Closet"
+  ],
+  "parent_brand": "Whitbread PLC",
+  "brand": "Premier Inn",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Value",
+    "Green"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620553",
+      "name": "Al Garhoud"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "1643"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1496"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "1262"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1941"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "409"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

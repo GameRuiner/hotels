@@ -1,0 +1,180 @@
+{
+  "location_id": "7394436",
+  "name": "Signature Hotel Al Barsha",
+  "description": "Signature Hotel Al Barsha is a 4-star hotel located 0.5 km from Mall of the Emirates. It features a gym, outdoor pool and 5 dining outlets. Sharaf DG Metro Station is 300 meters away. Furnished with a modern decor, air-conditioned units at Signature Hotel Al Barsha including free Wi-Fi, in room flat-screen TV and a minibar. A hairdryer and free toiletries are fitted in each bathroom. Guests can dine at the on-site buffet restaurant or the a la carte restaurants. Other options include a lounge and a coffee shop. There is also a pool bar where guests can relax and enjoy refreshing drinks. The hotel provides a business centre along with meeting rooms and business facilities. Free private parking is also available on site. Set near the heart of the Emirate along, Signature Hotel Al Barsha is a 25-minute drive from Dubai International Airport and 35 minutes from Al Maktoum International Airport. The hotel is near popular Dubai attractions, Mall Of Emirates, Dubai Marina. Jabel Ali Free Zone and Ibn Battuta Mall. 90 elegant guest rooms and suites Overlooking Sheikh Zayed Road. Meetings and social events for up to 45 people in a flexible meeting room. Swim in the hotel outdoor swimming pool with the View of Burj Al Arab or keep fit in the hotel Fitness gym or Enjoy a massage at the hotel SPA. Whether you'd rather dine on a buffet of international specialties at the Veranda all day dining Restaurant or Arabic cuisine in Maraya arabic restaurant or Russian Cussin in Beez Russian restaurant or have some refreshments in our Joker sports lounge",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d7394436-Reviews-Signature_Hotel_Al_Barsha-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Barsha 1",
+    "street2": "Near Mall Of Emirates",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Al Barsha 1 Near Mall Of Emirates, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.117243",
+  "longitude": "55.195034",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d7394436-Signature_Hotel_Al_Barsha-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#512 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "512"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "206",
+  "review_rating_count": {
+    "1": "33",
+    "2": "21",
+    "3": "36",
+    "4": "56",
+    "5": "60"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "214",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d7394436-m66827-Reviews-Signature_Hotel_Al_Barsha-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Pool",
+    "Suites",
+    "Room service",
+    "Restaurant",
+    "Bar/Lounge",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Breakfast Available",
+    "Kids Activities",
+    "Free parking",
+    "Wheelchair access",
+    "Spa",
+    "Airport transportation",
+    "Meeting rooms",
+    "Family Rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Outdoor pool"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Centrally Located",
+    "Mid-range"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620543",
+      "name": "Al Barsha"
+    },
+    {
+      "location_id": "15620547",
+      "name": "Al Barsha Heights (Tecom)"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "38"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "62"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "23"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "40"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "27"
+    }
+  ],
+  "awards": []
+}

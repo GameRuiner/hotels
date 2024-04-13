@@ -1,0 +1,248 @@
+{
+  "location_id": "1599623",
+  "name": "Address Dubai Mall",
+  "description": "Address Dubai Mall is a statement in style. Elegant and chic, this glamorous hotel offers guests a unique blend of traditional Arab hospitality in the most contemporary and cosmopolitan environment.Located at the heart of trendy Downtown Burj Dubai, overlooking the world’s tallest tower, Burj Dubai, and attached to the Dubai Mall, one of the largest shopping and entertainment destinations in the world, Address Dubai Mall is always in vogue.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1599623-Reviews-Address_Dubai_Mall-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Mohammed Bin Rashed Boulevard",
+    "street2": "Downtown Dubai",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "31166",
+    "address_string": "Sheikh Mohammed Bin Rashed Boulevard Downtown Dubai, Dubai 31166 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.19876",
+  "longitude": "55.279606",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1599623-Address_Dubai_Mall-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#19 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "19"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "8601",
+  "review_rating_count": {
+    "1": "105",
+    "2": "84",
+    "3": "167",
+    "4": "597",
+    "5": "7648"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "3182",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1599623-m66827-Reviews-Address_Dubai_Mall-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Free Internet",
+    "Free parking",
+    "Free Wifi",
+    "Suites",
+    "Kitchenette",
+    "Internet",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Butler Service",
+    "Infinity Pool",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Sauna",
+    "Additional Bathroom",
+    "Afrikaans",
+    "Allergy-free Room",
+    "Arabic",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Car Hire",
+    "Chinese",
+    "Coffee Shop",
+    "Couples Massage",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Entertainment Staff",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Free Public Parking Nearby",
+    "Complimentary Instant Cofffee",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Gift Shop",
+    "Hammam",
+    "Head Massage",
+    "Hindi",
+    "Indonesian",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Laptop Safe",
+    "Massage",
+    "Newspaper",
+    "On-Demand Movies",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shoeshine",
+    "Soundproof Rooms",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Terrace",
+    "Table Tennis",
+    "Taxi Service",
+    "Valet Parking",
+    "VIP Room Facilities"
+  ],
+  "parent_brand": "Emaar Hospitality Group",
+  "brand": "Address Hotels + Resorts",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Centrally Located",
+    "Art Deco Style"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7282431",
+      "name": "Downtown Dubai"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "1876"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1241"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "801"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "2491"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "1433"
+    }
+  ],
+  "awards": []
+}

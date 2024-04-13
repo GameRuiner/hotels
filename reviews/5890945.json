@@ -1,0 +1,255 @@
+{
+  "data": [
+    {
+      "id": 945942073,
+      "lang": "en",
+      "location_id": 5890945,
+      "published_date": "2024-04-09T07:24:44Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d5890945-r945942073-Reviews-Waldorf_Astoria_Dubai_Palm_Jumeirah-Dubai_Emirate_of_Dubai.html?m=66827#review945942073",
+      "text": "Great  beautiful hotel \nSo clean and designed very well\nGreat pool \nAmazing staff especially Preyya and Guen and David \nWe booked a family suit but they upgraded us to a better and amazing room .\nPillows and bed were super comphy\nThe sea and and the beach",
+      "title": "Amazing",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "334raniak",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/b8/default-avatar-2020-22.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 945786817,
+      "lang": "en",
+      "location_id": 5890945,
+      "published_date": "2024-04-08T02:21:29Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d5890945-r945786817-Reviews-Waldorf_Astoria_Dubai_Palm_Jumeirah-Dubai_Emirate_of_Dubai.html?m=66827#review945786817",
+      "text": "Very good hotel, ( even during Ramadan), also for families. Great food, good service (part. Nirmali). Beach is excellent, great service too. Reception helps with everything. Downtown in 40 minutes. We’ve been there for the forth time and will surely come back.",
+      "title": "Great hotel - also but not only - for families.",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "manfredm75",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f6/0d/default-avatar-2020-34.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 945730660,
+      "lang": "en",
+      "location_id": 5890945,
+      "published_date": "2024-04-07T13:51:29Z",
+      "rating": 5,
+      "helpful_votes": 2,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d5890945-r945730660-Reviews-Waldorf_Astoria_Dubai_Palm_Jumeirah-Dubai_Emirate_of_Dubai.html?m=66827#review945730660",
+      "text": "The hotel is, as advertised, luxurious with marble everywhere. The beds are comfortable, the rooms are spacious and luxurious, the service is extremely efficient. We had shirts cleaned same day. Taxis can come within minutes to take you anywhere. Dashin our housekeeper went the extra mile to keep the room spotless, and welcoming, with skillfully folded towels as a plus! ;-) \n\nOur room came with a balcony and a sea view, waiting for the sun rise with Burj Al Arab in the background with a good book was a daily pleasure.\n\nThe  breakfast and dinner buffets offer plenty of choice of local and foreign cuisine. There is an impressive diversity of birds, we spotted bulbuls, laughing doves, hoops to name a few. You may find a laughing dove hopping on your breakfast table if you leave it unattended…\n\nService at the swimming pool and at the beach is diligent and efficient, all of which contributed to a very pleasant holiday. We can’t wait to come back!",
+      "title": "Breakfast with the laughing doves",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "723ludovict",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/7c/01/default-avatar-2020-5.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 945729443,
+      "lang": "en",
+      "location_id": 5890945,
+      "published_date": "2024-04-07T13:42:08Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d5890945-r945729443-Reviews-Waldorf_Astoria_Dubai_Palm_Jumeirah-Dubai_Emirate_of_Dubai.html?m=66827#review945729443",
+      "text": "Great service and the view from the balcony towards the palm is magnificent. A bit crowded by the pool on the weekend and lots of family’s/kids. So if you’re looking for a relaxed time by the pool this is not the place to be :) We had the half board and breakfast and buffe was of good quality.",
+      "title": "Great view and great service",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "thomashX1167KE",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/b8/default-avatar-2020-22.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 945697023,
+      "lang": "en",
+      "location_id": 5890945,
+      "published_date": "2024-04-07T09:38:01Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d5890945-r945697023-Reviews-Waldorf_Astoria_Dubai_Palm_Jumeirah-Dubai_Emirate_of_Dubai.html?m=66827#review945697023",
+      "text": "We love this hotel, the location and beach and pools are lovely.  Sasi was really helpful, and always made sure we were well attended by the pool.  We had a lovely stay, this is our 2nd time here. The food is amazing, and the cleanliness of the hotel and pool area are great too.  We will be back!",
+      "title": "Holiday",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "TPEsurrey",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e4/a9/default-avatar-2020-50.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    }
+  ]
+}

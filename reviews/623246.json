@@ -1,0 +1,235 @@
+{
+  "data": [
+    {
+      "id": 944668507,
+      "lang": "en",
+      "location_id": 623246,
+      "published_date": "2024-03-31T12:42:25Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d623246-r944668507-Reviews-Catalonia_Ramblas-Barcelona_Catalonia.html?m=66827#review944668507",
+      "text": "We’ve booked this hotel for the welness, we have been discriminitated !!!! We ‘d never could take the advantage of it-> but they’ve told us we should pay for it !!!!!!   We’ve been travelling all our lives, never feld so far away from home as now !!!! Its our 15th time in Barcelona 🥴😳😭 booking : Bigeard",
+      "title": "Welness not so Well for your health !!!",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Scenic60759423779",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/7a/default-avatar-2020-25.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 943304710,
+      "lang": "en",
+      "location_id": 623246,
+      "published_date": "2024-03-21T16:20:37Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d623246-r943304710-Reviews-Catalonia_Ramblas-Barcelona_Catalonia.html?m=66827#review943304710",
+      "text": "We absolutely loved our luxurious experience at the sauna, spa, and massage! \n\nAnnita and Julia deserve special recognition for their exceptional service and technique.  Their skilled hands provided the ultimate relaxation, making it a truly unforgettable experience.\n\nWe highly recommend Hotel Catalonia Rambla’s spa if you're looking for a pampering day or a romantic escape to unwind with your significant other, friend or yourself !",
+      "title": "Relaxing Getaway with Phenomenal Spa Services.",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "791celiner",
+        "user_location": {
+          "id": "187497",
+          "name": "Barcelona, Catalonia"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e8/ea/default-avatar-2020-63.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e8/ea/default-avatar-2020-63.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e8/ea/default-avatar-2020-63.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e8/ea/default-avatar-2020-63.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e8/ea/default-avatar-2020-63.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 943395657,
+        "title": "Owner response",
+        "text": "Thank you for your glowing review! We're delighted Annita and Julia provided such exceptional service during your spa experience. We look forward to welcoming you back soon for another relaxing stay at Hotel Catalonia Rambla.\n\nBest regards,",
+        "lang": "en",
+        "author": "Rita Gámez",
+        "published_date": "2024-03-22T12:43:51Z"
+      }
+    },
+    {
+      "id": 941360351,
+      "lang": "en",
+      "location_id": 623246,
+      "published_date": "2024-03-07T21:43:34Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d623246-r941360351-Reviews-Catalonia_Ramblas-Barcelona_Catalonia.html?m=66827#review941360351",
+      "text": "I spent 4 nights in this wonderful hotel. Friendly staff, beautiful room and an exceptional location. A special mention to the reception staff Will and May who were so kind and helpful.  I certainly will come to this hotel and would recommend it to family and friends.",
+      "title": "Immaculately Clean",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Paradise693504",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/43/default-avatar-2020-11.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 941986719,
+        "title": "Owner response",
+        "text": "We're delighted to hear that you enjoyed your 4-night stay at our wonderful hotel. Thank you for highlighting our friendly staff, beautiful rooms, and exceptional location. We're especially grateful for your kind words about Will and May at the reception – we'll be sure to share your praise with them. We look forward to welcoming you back, and appreciate your recommendation to family and friends.\n\nBest regards,\n",
+        "lang": "en",
+        "author": "Rita Gámez",
+        "published_date": "2024-03-13T04:17:03Z"
+      }
+    },
+    {
+      "id": 939598227,
+      "lang": "en",
+      "location_id": 623246,
+      "published_date": "2024-02-24T09:49:17Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d623246-r939598227-Reviews-Catalonia_Ramblas-Barcelona_Catalonia.html?m=66827#review939598227",
+      "text": "I was treated to a few nights here for my birthday and my wife could not have chosen better. The receptionists are extremely welcoming, the ambiance is chic and chilled, the room was perfect, and the location is a 2min walk from Los Rambles. I even had an amazing, aromatherapy massage before relaxing in the sauna, steam room, and massage pool. I would happily come back and very much hope to.",
+      "title": "A Perfect Stay ",
+      "trip_type": "Couples",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "Y4934VVedg",
+        "user_location": {
+          "id": "186224",
+          "name": "Cambridgeshire, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/2b/7f/1c/eb/caption.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/2b/7f/1c/eb/caption.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/2b/7f/1c/eb/caption.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/2b/7f/1c/eb/caption.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2b/7f/1c/eb/caption.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 940109119,
+        "title": "Owner response",
+        "text": "\n\nWe are thrilled to hear that you had \"A Perfect Stay\" with us and that you enjoyed the welcoming receptionists, chic and chilled ambiance, perfect room, and our convenient location just a 2-minute walk from Las Ramblas. It's delightful to know that you indulged in an amazing aromatherapy massage and made use of our sauna, steam room, and massage pool. We look forward to welcoming you back with open arms for another wonderful experience. Thank you for choosing us to celebrate your birthday!\n\nBest regards,\n",
+        "lang": "en",
+        "author": "Rita Gámez",
+        "published_date": "2024-02-28T12:36:55Z"
+      }
+    },
+    {
+      "id": 938734562,
+      "lang": "en",
+      "location_id": 623246,
+      "published_date": "2024-02-18T07:16:26Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d623246-r938734562-Reviews-Catalonia_Ramblas-Barcelona_Catalonia.html?m=66827#review938734562",
+      "text": "We booked a room for three persons on Booking, when we arrived at the hotel at 4 p.m. the receptionist informed us that we didn’t booked the room, but that he could find us a 2 separate rooms therefore we had to pay for those two rooms. After a discussion with him, he and his superior found a solution: 2 rooms for the same price as the one on Booking. Great weekend. Ironic obviously, 2 separate rooms for me and my kids. 2 days later when the check out moment arrived. We were surprised to learn that we had to pay 100€ in supplement because we went twice to the pool and didn’t know that it was 13€ per person/1h  every time (small pool, spa and hammam not working) . Beside all that, the rooms were really clean and the hotel really good located. But me and my kids would not recommend this hotel.",
+      "title": "Thieves",
+      "trip_type": "Family",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "yoannm278",
+        "user_location": {
+          "id": "187239",
+          "name": "Sainte-Maxime, French Riviera - Cote d'Azur, Provence-Alpes-Cote d'Azur"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ef/9c/default-avatar-2020-14.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ef/9c/default-avatar-2020-14.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ef/9c/default-avatar-2020-14.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ef/9c/default-avatar-2020-14.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ef/9c/default-avatar-2020-14.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 940109598,
+        "title": "Owner response",
+        "text": "Your account lacks credibility; if you have a Booking.com reservation, please provide evidence. Booking.com consistently safeguards its customers, and they will certainly assist you if you believe we are being unfairly accused. Additionally, as clearly stated on all websites, including Booking.com, access to the spa incurs a fee of 15 euros per person, not the 13 euros you mentioned. Readers of your review can verify the information provided. Thank you for your time. Regards.",
+        "lang": "en",
+        "author": "Rita Gámez",
+        "published_date": "2024-02-28T12:41:49Z"
+      }
+    }
+  ]
+}

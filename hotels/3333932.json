@@ -1,0 +1,199 @@
+{
+  "location_id": "3333932",
+  "name": "Saffron Hotel",
+  "description": "See why so many travelers make Saffron Hotel their hotel of choice when visiting Dubai. Providing an ideal mix of value, comfort and convenience, it offers a budget friendly setting with an array of amenities designed for travelers like you.\nSaffron Hotel offers guests an array of room amenities including air conditioning, a refrigerator, and a desk, and getting online is possible, as free wifi is available.\nThe hotel offers a 24 hour front desk, room service, and a concierge, to make your visit even more pleasant. The property also features an on-site restaurant. Guests arriving by vehicle have access to parking.\nNearby landmarks such as Bur Dubai Abra Dock (1.5 mi) and Dubai Tennis Stadium (1.6 mi) make Saffron Hotel a great place to stay when visiting Dubai.\nDuring your visit, be sure to check out one of Dubai's popular crab restaurants such as The Cheesecake Factory, Fish Hut Local Seafood Restaurant, and Creekside Japanese Restaurant, all a short distance from Saffron Hotel.\nPlus, during your trip, don't forget to check out a historic site, such as Sheikh Mohammed Centre for Cultural Understanding.\nWe’re sure you’ll enjoy your stay at Saffron Hotel as you experience all of the things Dubai has to offer.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d3333932-Reviews-Saffron_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Rigga Rd",
+    "street2": "Deira",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Al Rigga Rd Deira, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.26132",
+  "longitude": "55.325413",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d3333932-Saffron_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#612 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "612"
+  },
+  "rating": "3.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.0-66827-5.svg",
+  "num_reviews": "114",
+  "review_rating_count": {
+    "1": "18",
+    "2": "13",
+    "3": "36",
+    "4": "29",
+    "5": "18"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    }
+  },
+  "photo_count": "49",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d3333932-m66827-Reviews-Saffron_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Room service",
+    "Restaurant",
+    "Wifi",
+    "Paid Wifi",
+    "Air conditioning",
+    "Breakfast Buffet",
+    "Internet",
+    "Airport transportation",
+    "Public Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Business center",
+    "Laundry Service",
+    "Concierge",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Refrigerator in room",
+    "Non-smoking hotel",
+    "Safe",
+    "Parking",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Express Check-in / Check-out",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Convenience Store",
+    "Currency Exchange",
+    "Desk",
+    "English",
+    "24-Hour Front Desk",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hindi",
+    "Iron",
+    "Ironing Service",
+    "Newspaper",
+    "Paid Private Parking On-site",
+    "Salon",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shops",
+    "Special Diet Menus",
+    "Telephone",
+    "Urdu",
+    "Wake Up Service / Alarm Clock"
+  ],
+  "parent_brand": "Onyx Hospitality Group",
+  "brand": "Saffron",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Budget"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620596",
+      "name": "Al Rigga"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "11"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "34"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "30"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "11"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "18"
+    }
+  ],
+  "awards": []
+}

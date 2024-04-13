@@ -1,0 +1,224 @@
+{
+  "data": [
+    {
+      "id": 937855108,
+      "lang": "en",
+      "location_id": 234578,
+      "published_date": "2024-02-12T07:55:22Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d234578-r937855108-Reviews-Park_Hotel_Barcelona-Barcelona_Catalonia.html?m=66827#review937855108",
+      "text": "Used this hotel for the Barcelona Half Marathon. The start line is 100 mtrs away! The hotel is right in the heart of the Gothic district, it’s surrounded by every type of bar and restaurant you will need.\n\nFrom check in to check out I had fantastic service, rooms were clean and modern, there is a fridge and a safe to use for free. There is a bar attached to the hotel which is reasonably priced too. \n\nWill return again for sure to this lovely hotel with friendly staff.",
+      "title": "Little Gem",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "gazza",
+        "user_location": {
+          "id": "3701245",
+          "name": "Trowse Newton, Norfolk, East Anglia, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/02/3e/4c/94/gazza.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/02/3e/4c/94/gazza.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/02/3e/4c/94/gazza.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/02/3e/4c/94/gazza.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 938263330,
+        "title": "Owner response",
+        "text": "Thank you for sharing this lovely review. We are glad to know you had a good experience with us and that our location with nearby options was ideal for your requirements. It would be a pleasure to welcome you again.",
+        "lang": "en",
+        "author": "Customer  Care",
+        "published_date": "2024-02-14T09:52:18Z"
+      }
+    },
+    {
+      "id": 930106521,
+      "lang": "en",
+      "location_id": 234578,
+      "published_date": "2023-12-17T19:28:12Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d234578-r930106521-Reviews-Park_Hotel_Barcelona-Barcelona_Catalonia.html?m=66827#review930106521",
+      "text": "Great all around! Definitely recommended. Good location very near the city center and the beach. Nice staff with many languages. Nice view from the rooftop with a party pool and deck chairs. The room was clean and comfortable. Good breakfast including fresh fruits, jamon, cheese, eggs, pastry. Hope I can come back soon!",
+      "title": "Awesome!",
+      "trip_type": "Solo travel",
+      "travel_date": "2023-12-31",
+      "user": {
+        "username": "josephdI6348CU",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f1/42/default-avatar-2020-20.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f1/42/default-avatar-2020-20.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f1/42/default-avatar-2020-20.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f1/42/default-avatar-2020-20.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/42/default-avatar-2020-20.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 930146239,
+        "title": "Owner response",
+        "text": "We appreciate your feedback. We are delighted to hear that you found our property and rooms to be comfortable and we are happy for your kind words about our prime location, which indeed offers walking distance access to numerous attractions. We hope to have the pleasure of welcoming you back one day soon!",
+        "lang": "en",
+        "author": "Customer  Care",
+        "published_date": "2023-12-18T05:23:51Z"
+      }
+    },
+    {
+      "id": 926450277,
+      "lang": "en",
+      "location_id": 234578,
+      "published_date": "2023-11-18T14:57:36Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d234578-r926450277-Reviews-Park_Hotel_Barcelona-Barcelona_Catalonia.html?m=66827#review926450277",
+      "text": "Very clean, comfortable and friendly hotel. Comfy bed with choice of pillows plus excellent shower! Great location near Gothic Quarter and not far from Las Ramblas or beach. Great choice of restaurants and breakfast places nearby. Would definitely recommend. Great value.",
+      "title": "Comfortable and friendly plus good location ",
+      "trip_type": "Couples",
+      "travel_date": "2023-11-30",
+      "user": {
+        "username": "karenhF3021PP",
+        "user_location": {
+          "id": "186342",
+          "name": "Norwich, Norfolk, East Anglia, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f1/06/default-avatar-2020-18.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f1/06/default-avatar-2020-18.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f1/06/default-avatar-2020-18.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f1/06/default-avatar-2020-18.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/06/default-avatar-2020-18.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 926693808,
+        "title": "Owner response",
+        "text": "We appreciate your confidence in our services, and especially for having taken the time to share your feedback. It is a pleasure to read that our efforts have helped to tick most of your boxes and may have even helped to make your stay in our hotel a successful one. See you soon!",
+        "lang": "en",
+        "author": "Customer  Care",
+        "published_date": "2023-11-20T14:16:16Z"
+      }
+    },
+    {
+      "id": 911167927,
+      "lang": "en",
+      "location_id": 234578,
+      "published_date": "2023-08-18T04:56:20Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d234578-r911167927-Reviews-Park_Hotel_Barcelona-Barcelona_Catalonia.html?m=66827#review911167927",
+      "text": "I FEEL TOTALLY RIPPED OFF. … II WOULD NOT RECOMMEND THIS PLACE TO ANYONE..  I WAS OVERCHARGED BY €180.50  ON MY BILL. MY STAY HERE WAS  SUPPOSED TO COST €1071 AND I PAID IN TOTAL €1281.21. FOR 7 NIGHTS… THEY TOLD MY THAT I BOOKED 2 ROOMS FOR THE FIRST NIGHT… “FUNNY THAT AS THERE IS ONLY ONE OF ME”… NOTHING WAS MENTIONED TO ME WHEN I ARRIVED.   I noticed the extra payment coming out of my bank account and I went to reception to ask what this charge was.. they said that I was booked in twice and cancelled it.. I PRESUMED THAT I WOULD JUST GET REFUNDED MY €180 .. BUT IT STILL HADNT ARRIVED A WEEK LATER.\n I HAVE SINCE RANG THEM AND THE MAN ON RECEPTION TOLD ME IT WAS MY FAYLT .. I WASN'T GETTING A REFUND AND TO SEND AN EMAIL AND HE WOULD SEND ME AN INVOICE.. FOR WHAT ? To show me that they charged me €1281.21 instead of €1071????… AND THEN BASICALLY HUNG UP ON ME!!! …EVEN THOUGH I WAS ASKING TO SPEAK TO A MANAGER!!!! \n I AM SOOOOOO ANNOYED …  BUT WHAT CAN I DO!!! I WOUKD CERTAINLY NEVER EVER STAY THERE AGAIN. … I could go on about the smell in my room that one day was so bad I couldn’t go into my room and the smell actually filed the whole hallway on the 5th floor… u can check with the cleaners as they were there and witnessed it and opened the windows in my room to clear the putrid smell..  NEVER AGAIN!!!!! 😡😡😡😡",
+      "title": "OVERCHARGED… I FEEL SO RIPPED OFF",
+      "trip_type": "Friends getaway",
+      "travel_date": "2023-08-31",
+      "user": {
+        "username": "142jacintar",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f3/7c/default-avatar-2020-29.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f3/7c/default-avatar-2020-29.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f3/7c/default-avatar-2020-29.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f3/7c/default-avatar-2020-29.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f3/7c/default-avatar-2020-29.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 914682060,
+        "title": "Owner response",
+        "text": "From the very beginning, we did all we had in our hands for you to be comfortable. it is not our intention to make a guest feel annoyed. We kindly request to our future guests reading this review to check always the cancelation policies accepted.",
+        "lang": "en",
+        "author": "Customer  Care",
+        "published_date": "2023-09-03T18:24:12Z"
+      }
+    },
+    {
+      "id": 891075164,
+      "lang": "en",
+      "location_id": 234578,
+      "published_date": "2023-05-19T23:33:14Z",
+      "rating": 3,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d234578-r891075164-Reviews-Park_Hotel_Barcelona-Barcelona_Catalonia.html?m=66827#review891075164",
+      "text": "Experience started out poorly. My room wasn’t ready when I arrived, which is not a problem. The problem was that they would not let me keep my bags at the desk until my room was ready. They said they only do that at checkout not check in - what?!? So I had to spend 2 hours babysitting my bags in the lobby until the room was ready.  \n\nRoom was spacious enough but reeked of cigarette smoke. Mattress and bedding was comfortable.\n\nLocation is great, near to train station and close to the old town and tourist attractions.",
+      "title": "Nice location, below average service",
+      "trip_type": "Solo travel",
+      "travel_date": "2023-05-31",
+      "user": {
+        "username": "aimees728",
+        "user_location": {
+          "id": "35805",
+          "name": "Chicago, Illinois"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e4/ca/default-avatar-2020-51.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e4/ca/default-avatar-2020-51.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e4/ca/default-avatar-2020-51.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e4/ca/default-avatar-2020-51.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e4/ca/default-avatar-2020-51.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 893732093,
+        "title": "Owner response",
+        "text": "We are truly sorry if you have experienced a misunderstanding. Please, believe that we will never say or do anything consciously to make any guest disappointed, in any way. 😔\nWe hope to have another opportunity one day soon!",
+        "lang": "en",
+        "author": "Customer  Care",
+        "published_date": "2023-06-06T12:20:20Z"
+      }
+    }
+  ]
+}

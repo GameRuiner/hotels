@@ -1,0 +1,296 @@
+{
+  "location_id": "253983",
+  "name": "Atrium Palace Thalasso Spa Resort & Villas",
+  "description": "The quality renowned Atrium Palace Thalasso Spa Resort & Villas is the ideal destination for marvelous vacations and relaxing holidays. This architecturally innovative hotel combines luxury with its delightful blend of Greek Classical styles and ambiance meters from the crystal clear beach. The hotel is situated in the tranquil bay of Kalathos, close to the picturesque village of Lindos, on the Southeast area of Rhodes Island. Its unique beauties of nature and cultural heritage characterize it as the most intriguing region of the island.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g3236241-d253983-Reviews-Atrium_Palace_Thalasso_Spa_Resort_Villas-Kalathos_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "city": "Kalathos",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "851 02",
+    "address_string": "Kalathos 851 02 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Kalathos",
+      "location_id": "3236241"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.125774",
+  "longitude": "28.064934",
+  "timezone": "Europe/Athens",
+  "phone": "011302244031601",
+  "write_review": "https://www.tripadvisor.com/UserReview-g3236241-d253983-Atrium_Palace_Thalasso_Spa_Resort_Villas-Kalathos_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "3236241",
+    "ranking_string": "#1 of 2 hotels in Kalathos",
+    "geo_location_name": "Kalathos",
+    "ranking_out_of": "2",
+    "ranking": "1"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "6127",
+  "review_rating_count": {
+    "1": "7",
+    "2": "36",
+    "3": "174",
+    "4": "694",
+    "5": "5216"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "6573",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g3236241-d253983-m66827-Reviews-Atrium_Palace_Thalasso_Spa_Resort_Villas-Kalathos_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Free parking",
+    "Suites",
+    "Breakfast included",
+    "Business center",
+    "Free Internet",
+    "Internet",
+    "Kids Activities",
+    "Beachfront",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Butler Service",
+    "Infinity Pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Private Pools",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Aerobics",
+    "Baggage Storage",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Car Hire",
+    "Couples Massage",
+    "Currency Exchange",
+    "Diving",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Greek",
+    "Hammam",
+    "Head Massage",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Italian",
+    "Kid-Friendly Buffet",
+    "Laptop Safe",
+    "Massage",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "Shops",
+    "Snack Bar",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Beach Access"
+  ],
+  "parent_brand": "Atrium Hotels",
+  "brand": "Atrium Hotels & Resorts",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Ocean View",
+    "Modern"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "42"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "2435"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "258"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "2089"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "476"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice Best of the Best",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png"
+      },
+      "categories": [
+        "Luxury",
+        "Spa"
+      ],
+      "display_name": "Travelers Choice Best of the Best"
+    },
+    {
+      "award_type": "Travelers Choice Best of the Best",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png"
+      },
+      "categories": [
+        "Luxury",
+        "Top"
+      ],
+      "display_name": "Travelers Choice Best of the Best"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

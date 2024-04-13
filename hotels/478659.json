@@ -1,0 +1,282 @@
+{
+  "location_id": "478659",
+  "name": "Esperos Village Blue & Spa",
+  "description": "Welcome to Esperos Village Blue & Spa - Adults Only, a luxurious 5-star hotel nestled on a lush green hill, surrounded by fragrant pine trees. Our hotel is a serene oasis, offering a tranquil and picturesque setting for your perfect getaway. With breathtaking views and a serene ambiance, Esperos Village Blue & Spa is the ultimate destination for adults seeking a peaceful retreat.\n\nOur property boasts a range of accommodation types, including holiday village, resort, romantic hotel, and classic hotel rooms. Each room is exquisitely designed, blending modern aesthetics with elements of nature, creating a harmonious and inviting atmosphere. With a total of 209 rooms, including non-smoking options, we ensure a peaceful and refreshing experience for all our guests.\n\nEsperos Village Blue & Spa is committed to sustainable practices, as evidenced by our eco-friendly initiatives. We take pride in our recently renovated building, ensuring that our facilities are up to date and in line with the highest standards. Surrounded by 25 auxiliary buildings, locally situated among the verdant landscape, our hotel offers ample space and privacy for a truly rejuvenating retreat.\n\nSituated just 600 meters from the beach of Ammades, our hotel provides convenient access to the glistening waters of the Aegean Sea. A short 10-minute stroll or a quick 2-minute drive will lead you to this idyllic sandy and pebbly beach. Enjoy the sun-kissed shores and indulge in the ultimate relaxation. At Ammades Seaside Restaurant & Bar, conveniently located on the beach, treat yourself to refreshing drinks and delectable meals while basking in the beauty of the sea.\n\nWe understand the importance of convenience, which is why we offer a free shuttle service that transports guests from the hotel to our facilities. Whether you're heading to the beach, the restaurant, or the pool, our shuttle ensures easy and effortless transportation throughout the resort.\n\nSpeaking of pools, don't miss the opportunity to visit our Mediterraneo Pool Bar. Located in a serene and picturesque setting, this outdoor bar offers a refreshing oasis where you can enjoy a variety of beverages while soaking up the sun. Take a dip in the pool, unwind on a sun lounger, and let the peaceful ambiance wash over you.\n\nIndulge in a culinary journey at our exquisite restaurants. The Aphrodite Food Hall Restaurant serves delectable buffet-style meals, while the Panorama Music Hall Restaurant offers an enchanting atmosphere and breathtaking views. For a unique dining experience, visit the Mediterraneo All-Day Restaurant or the Burger House Project, where you can savor a variety of flavors. Don't miss the Aegean Main Bar, where you can unwind with a refreshing drink while enjoying the indoor and outdoor seating areas.\n\nFor those looking to explore further, our hotel is well-connected to various points of interest. A bus stop is a mere 5-minute walk away, providing easy access to nearby tourist attractions, the city center. Rhodes International Airport Diagoras, Rhodes port and the New Marina in Rhodes town are also within a short distance, making travel convenient for our guests.\n\nAt Esperos Village Blue & Spa, we offer a range of excellent facilities and services to enhance your stay. Our hotel features a welcoming reception open 24/7, ensuring assistance is always at hand. We provide free Wi-Fi throughout the property, allowing you to stay connected effortlessly. Enjoy the convenience of on-site parking, a luggage storage service, and a multilingual staff ready to assist you.\n\nStay active during your stay with our sports facilities, including tennis courts and table tennis or begin your day in the most ideal way choosing our special yoga sessions. Keep up with your fitness routine at our well-equipped gym, and rejuvenate your body and mind at our spa. Indulge in relaxing treatments, unwind in the steam bath or hot tub, and take advantage of our wellness center's amenities.\n\nEsperos Village Blue & Spa is not only dedicated to providing an exceptional experience for adults but is also pet-friendly. We welcome small dogs weighing up to 7kg, ensuring that your furry companion can join you on your memorable vacation.\n\nExperience the epitome of relaxation and luxury at Esperos Village Blue & Spa. Perched on a green hill with majestic pine trees, our hotel offers a serene retreat where you can truly unwind. Take advantage of our free shuttle service, explore our beautiful surroundings, and immerse yourself in the natural beauty of Rhodes. Book your stay with us and discover the ultimate adult-only experience on this enchanting island.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g25352701-d478659-Reviews-Esperos_Village_Blue_Spa-Ammoudes_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street1": "Leof. Kallitheas",
+    "city": "Ammoudes",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "851 00",
+    "address_string": "Leof. Kallitheas, Ammoudes 851 00 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Ammoudes",
+      "location_id": "25352701"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.3627",
+  "longitude": "28.2131",
+  "timezone": "Europe/Athens",
+  "write_review": "https://www.tripadvisor.com/UserReview-g25352701-d478659-Esperos_Village_Blue_Spa-Ammoudes_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "25352701",
+    "ranking_string": "#1 of 6 hotels in Ammoudes",
+    "geo_location_name": "Ammoudes",
+    "ranking_out_of": "6",
+    "ranking": "1"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1184",
+  "review_rating_count": {
+    "1": "18",
+    "2": "27",
+    "3": "84",
+    "4": "241",
+    "5": "814"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "2450",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g25352701-d478659-m66827-Reviews-Esperos_Village_Blue_Spa-Ammoudes_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Restaurant",
+    "Pool",
+    "Free parking",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Bar/Lounge",
+    "Spa",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Refrigerator in room",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Infinity Pool",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Pools",
+    "Breakfast Available",
+    "Housekeeping",
+    "Sauna",
+    "Adults Only",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Billiards",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Car Hire",
+    "Coffee / Tea Maker",
+    "Convenience Store",
+    "Desk",
+    "English",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Greek",
+    "Hair Dryer",
+    "Ironing Service",
+    "Massage",
+    "Outdoor Furniture",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Salon",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Special Diet Menus",
+    "Street Parking",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Parking",
+    "Bathrobes",
+    "Cable / Satellite TV",
+    "Chapel / Shrine",
+    "Clothes Rack",
+    "Currency Exchange",
+    "Electric Kettle",
+    "Extra Long Beds",
+    "First Aid Kit",
+    "Complimentary Welcome Drink",
+    "French",
+    "Hammam",
+    "Italian",
+    "Makeup Services",
+    "Manicure",
+    "Mountain View",
+    "Neck Massage",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Pool View",
+    "Private Bathrooms",
+    "Radio",
+    "Seating Area",
+    "Sofa",
+    "Soundproof Rooms",
+    "Sun Deck",
+    "Table Tennis",
+    "Tile / Marble Floor",
+    "VIP Room Facilities",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Water Park Off-site",
+    "Water Sport Equipment Rentals",
+    "Yoga Classes",
+    "Beach Access"
+  ],
+  "parent_brand": "Esperia Group Rhodes",
+  "brand": "Esperia Hotels",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quiet",
+    "Great View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "4"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "749"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "51"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "106"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "112"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

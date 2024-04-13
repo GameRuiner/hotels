@@ -1,0 +1,178 @@
+{
+  "location_id": "19003182",
+  "name": "Cesmeli Butik Otel KahvaltI",
+  "description": "Set in Cesme, 1.1 km from Ayayorgi Koyu Beach, Cesmeli Boutique Hotel - Çeşme, İzmir offers accommodation with a restaurant, free private parking, a seasonal outdoor swimming pool and a bar. 1.3 km from Kocakari Beach and 1.3 km from Aya Yorgi Beach, the property features a shared lounge and a garden. The accommodation provides a 24-hour front desk, room service and currency exchange for guests. The units at the japanese-style business hotel come with a seating area. At Cesmeli Boutique Hotel - Çeşme, all rooms are equipped with a TV, a private bathroom, and a patio with a city view. The accommodation offers a continental or buffet breakfast. Cesmeli Boutique Hotel - Çeşme, İzmir offers a children's playground. Cesme Marina is 3.6 km from the japanese-style business hotel, while Cesme Castle is 3.7 km away. The nearest airport is Izmir Adnan Menderes, 100 km from Cesmeli Boutique Hotel - Çeşme, and the property offers a paid airport shuttle service.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d19003182-Reviews-Cesmeli_Butik_Otel_KahvaltI-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Cumhuriyet Mah. 4202 Sok. No 25",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35230",
+    "address_string": "Cumhuriyet Mah. 4202 Sok. No 25, Izmir 35230 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.348953",
+  "longitude": "26.305643",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d19003182-Cesmeli_Butik_Otel_KahvaltI-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#22 of 136 B&Bs / Inns in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "136",
+    "ranking": "22"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "4",
+  "review_rating_count": {
+    "1": "0",
+    "2": "0",
+    "3": "0",
+    "4": "0",
+    "5": "4"
+  },
+  "subratings": {},
+  "photo_count": "2",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d19003182-m66827-Reviews-Cesmeli_Butik_Otel_KahvaltI-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Restaurant",
+    "Bar/Lounge",
+    "Pets Allowed",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Business center",
+    "Beachfront",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Air conditioning",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Minibar",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Breakfast Available",
+    "Parking",
+    "Kids Stay Free",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Board Games / Puzzles",
+    "Books, DVDs, Music for Children",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Cable / Satellite TV",
+    "24-Hour Check-in",
+    "Children's Television Networks",
+    "Children's Playground",
+    "Clothes Rack",
+    "Darts",
+    "English",
+    "Free Private Parking Nearby",
+    "Free Public Parking Nearby",
+    "Complimentary Toiletries",
+    "Hair Dryer",
+    "Happy Hour",
+    "Hiking",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Mountain View",
+    "Outdoor Dining Area",
+    "Patio",
+    "Pool View",
+    "Radio",
+    "Russian",
+    "Soundproof Rooms",
+    "Street Parking",
+    "Telephone",
+    "Tile / Marble Floor",
+    "Turkish",
+    "Video Game Console",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Wine / Champagne",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "bb",
+      "localized_name": "Bed and Breakfast"
+    }
+  ],
+  "styles": [
+    "Ocean View",
+    "City View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "0"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "1"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "2"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "0"
+    }
+  ],
+  "awards": []
+}

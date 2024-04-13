@@ -1,0 +1,186 @@
+{
+  "location_id": "2306200",
+  "name": "Key Hotel",
+  "description": "Set in the heart of the city, the KEY is a 31 room, luxury-driven lifestyle hotel, catering to the discriminating taste. We pride ourselves in providing our guests with personalized attention, unparalleled service, cutting edge technology, delectable food in a refined atmosphere and we want to be your choice of hotel in the Aegean region!",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d2306200-Reviews-Key_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Mimar Kemalettin Caddesi No:1",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35260",
+    "address_string": "Mimar Kemalettin Caddesi No:1, Izmir 35260 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.423748",
+  "longitude": "27.13129",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d2306200-Key_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#4 of 218 hotels in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "218",
+    "ranking": "4"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "529",
+  "review_rating_count": {
+    "1": "7",
+    "2": "7",
+    "3": "11",
+    "4": "50",
+    "5": "454"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "358",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d2306200-m66827-Reviews-Key_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Public Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Breakfast Available",
+    "Baggage Storage",
+    "Bathrobes",
+    "English",
+    "Ironing Service",
+    "Soundproof Rooms",
+    "Turkish",
+    "Fitness center",
+    "Banquet Room",
+    "Sauna",
+    "Bicycles Available",
+    "Bottled Water",
+    "Cable / Satellite TV",
+    "Desk",
+    "Highchairs Available",
+    "Interconnected room(s) available",
+    "Iron",
+    "Telephone"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Charming",
+    "Great View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "116"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "210"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "26"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "83"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "42"
+    }
+  ],
+  "awards": []
+}

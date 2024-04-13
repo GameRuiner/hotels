@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "id": 934132813,
+      "lang": "en",
+      "location_id": 14113741,
+      "published_date": "2024-01-15T11:10:30Z",
+      "rating": 3,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d14113741-r934132813-Reviews-Hotel_86_By_Katipoglu-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review934132813",
+      "text": "Be sure to leave the breakfast area by the time the breakfast hour has finished. The lady in charge gets angry and doesn’t hide it. Both days we stayed at the hotel, she stormed out of the kitchen at 09:58 and gathered everything! I have never seen that happening at any hotel. She even opened the windows so as to make us leave as soon as possible. It was almost funny! When I described the situation  to the receptionists did not get any answer. Like they did not understand what I was saying.",
+      "title": "Breakfast hours",
+      "trip_type": "Couples",
+      "travel_date": "2024-01-31",
+      "user": {
+        "username": "89elinal",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ef/73/default-avatar-2020-13.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 919738209,
+      "lang": "en",
+      "location_id": 14113741,
+      "published_date": "2023-10-04T08:21:31Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d14113741-r919738209-Reviews-Hotel_86_By_Katipoglu-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review919738209",
+      "text": "Our stay at this business hotel was truly exceptional, ranking among the best we've experienced. Situated in the heart of Izmir and conveniently within walking distance of the Aegean Sea, this hotel boasts close proximity to several historical landmarks, including the Kemeralti market, Kizlaragasi Khan, Kavaflar bazaar, Agora, and the iconic Konak clocktower and pier. Remarkably, even though we had booked a standard room, we were pleasantly surprised by its spacious layout and exquisite design. To top it off, the terrace restaurant offers a breathtaking panoramic view, adding to the overall charm of our stay.",
+      "title": "Beautiful room",
+      "trip_type": "Couples",
+      "travel_date": "2023-09-30",
+      "user": {
+        "username": "meganomad",
+        "user_location": {
+          "id": "294131",
+          "name": "Niue"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/21/37/d5/e2/bidaiari1969.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/21/37/d5/e2/bidaiari1969.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/21/37/d5/e2/bidaiari1969.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/21/37/d5/e2/bidaiari1969.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/21/37/d5/e2/bidaiari1969.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 863733962,
+      "lang": "en",
+      "location_id": 14113741,
+      "published_date": "2022-10-08T21:28:03Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d14113741-r863733962-Reviews-Hotel_86_By_Katipoglu-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review863733962",
+      "text": "This is a solid place to stay not too far from the bay in Izmir. The staff was super helpful & met all needs though many have very limited English. Breakfast was great, with an impressive view. Parking was challenging. At a brisk pace the parking was an 8 minute walk away. But then when you want to come back to the hotel to pick up your luggage it’s another 12 minute long drive due to one way streets. Then getting out of town took a very long time due to unexplained road closures.",
+      "title": "Good place to stay, helpful staff, but parking is a hassle",
+      "trip_type": "Couples",
+      "travel_date": "2022-10-31",
+      "user": {
+        "username": "DaudRay",
+        "user_location": {
+          "id": "660694",
+          "name": "Penang Island, Penang"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/05/10/dd/ec/daudray.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/05/10/dd/ec/daudray.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/05/10/dd/ec/daudray.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/05/10/dd/ec/daudray.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/05/10/dd/ec/daudray.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 848572499,
+      "lang": "en",
+      "location_id": 14113741,
+      "published_date": "2022-07-18T12:00:50Z",
+      "rating": 1,
+      "helpful_votes": 2,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d14113741-r848572499-Reviews-Hotel_86_By_Katipoglu-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review848572499",
+      "text": "Worst hotel ever in Turkey. I didn´t like the attitude of the reseption staff. They spoke with no respect to the guest. They charge me extra for some reason and did not agree in any case to return my money back. I paid for bigger room but got small. Anyway my agency is working on this problem and it will make them return my money.\nWhen you arrive to the hotel you feel you are in the Midl East, everywhere arab speaking guests, even in the elevators walls were  full of pictures and ads in arabic?! Not in turkish... The restaurant was small and food finished very fast.\nI recommend you to not go to this hotel. For this prise you will find much better place to stay in the centre of Konak, Izmir.",
+      "title": "BAD",
+      "trip_type": "NONE",
+      "travel_date": "2022-07-31",
+      "user": {
+        "username": "793fannyvir",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ea/2e/default-avatar-2020-67.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Cleanliness"
+        },
+        "1": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Service"
+        },
+        "2": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 848521709,
+      "lang": "en",
+      "location_id": 14113741,
+      "published_date": "2022-07-18T07:03:02Z",
+      "rating": 1,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d14113741-r848521709-Reviews-Hotel_86_By_Katipoglu-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review848521709",
+      "text": "I do not recommend this hotel to anyone!.They are not honest at all.Just tried to cheat you for anything The hotel took much more money than we were supposed to pay. The did not agree to negotiated about anything. The hotel staff  in the reception are so rude, especially the bold man is very unprofessional. Don't go there, chose some other place to stay in the beautiful city of Izmir.There is plenty of nice hotels in that area.This one is awful.",
+      "title": "Terrible place, stay away!",
+      "trip_type": "Family",
+      "travel_date": "2022-06-30",
+      "user": {
+        "username": "873nooraS",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/81/default-avatar-2020-43.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

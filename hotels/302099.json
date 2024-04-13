@@ -1,0 +1,265 @@
+{
+  "location_id": "302099",
+  "name": "Ramada Plaza by Wyndham Dubai Deira",
+  "description": "The Ramada Plaza by Wyndham Dubai Deira is located in the historical Deira district of Dubai. The hotel is conveniently located just 15 minutes from the Dubai International Airport and only 50 meters from the Dubai Metro Station, as well as in close proximity to the city's shopping and business center. The sleek and contemporary hotel consists of 250 rooms and suites featuring elegant, minimalist and stylish designs with sound proof windows. Additionally, the rooms offer an enhanced level of service and convenience for busy travelers, making them feel right at home. The majority of our rooms offer either courtyard or panoramic city views and the hotel's rooms offer expansive space and is often on a higher floor with memorable views. RESTAURANT & BARS:Dining in Ramada Plaza by Wyndham Dubai Deira combines a welcoming Arabian spirit with international style at The Junction restaurant. This stylish restaurant in Dubai offers casual buffet style dining that includes freshly made pizzas, pastas and Asian specialties. Always check with our daily special offers on Set Menu / Buffet, be it Lunch or Dinner. Café Dune: At the Lobby offers from Nespresso a renowned and variety of premium selection of coffees. Beverages include traditional coffee and latte drinks as well as specialty concoctions with syrups and cream toppings to suit every discriminating taste. When you’re in need of a quick source of nutrients that is also delicious, smoothies 100% natural, pure and no Sugar added are a great solution, don’t miss out on the variety of Smoothies we offer. The Chameleon Bar & Restaurant: Is a cool place to be, it’s ideal for a relaxing evening where you can enjoy an amazing choice of beverages. The finger food provides you a list of items to celebrate your special moments. The Mazagan Restaurant & Lounge: Is the happening place to be in, where singers perform to the state of the art sound systems, dazzling light and LED displays creating an experience like non other. Book a VIP table close to the performers and indulge in mouthwatering food delicacies and finest beverage and cocktail collections. The Stadium Bar & Grill: Is a fantastic venue to chill with friends and enjoy the latest sports action with awesome choices of food, Beverages & unique selection of cocktails. WELLNESS:Swimming Pool, Jacuzzi, Sauna & Steam Room: When it comes to create comforts, we make sure you will find everything you need to make your stay a pleasant one. Rejuvenate in nature and recharge your batteries with a refreshing swim in our indoor swimming pool, Jacuzzi or Sauna & Steam Room. Gymnasium: Keep calm and get fit! Dubai is one of the fastest growing cities in the world when it comes to fitness Reach your potential and Make your workout experience all the more enjoyable with the highest quality facilities in our Health Club. Spa: \"Time spent getting a massage is never wasted “Self-care bring out the best in you. Those who have discovered the art of self-care know that it is the one essential thing you need to take proper care of yourself and treat yourself as kindly as you treat others. Our spa is the place to revitalize your body and mind, where every sense is indulged and every minute is focused on you and your needs. BUSINESS AND MEETING FACILITIES:Ramada Plaza Dubai Deira Hotel offers state-of-the-art Meeting and Conference facilities. The fully equipped business centers offer comprehensive technical support including copy/ fax, courier services and personal computers.Meeting Rooms: Simplify your meetings. Amplify your results. Ramada Plaza Deira Hotel offers state-of –the-art Meeting and Conference Facilities. Creative meeting spaces intuitively designed to motivate guests. The fully equipped business centers offer comprehensive technical support including copy/fax, courier services and personal computers",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d302099-Reviews-Ramada_Plaza_by_Wyndham_Dubai_Deira-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "155 Salahudin Road, adjacent to Abu baker Al Sidddique Metro station",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "81877",
+    "address_string": "155 Salahudin Road, adjacent to Abu baker Al Sidddique Metro station, Dubai 81877 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.270266",
+  "longitude": "55.331013",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d302099-Ramada_Plaza_by_Wyndham_Dubai_Deira-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#236 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "236"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1439",
+  "review_rating_count": {
+    "1": "74",
+    "2": "36",
+    "3": "119",
+    "4": "312",
+    "5": "899"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "532",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d302099-m66827-Reviews-Ramada_Plaza_by_Wyndham_Dubai_Deira-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Suites",
+    "Meeting rooms",
+    "Dry Cleaning",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Family Rooms",
+    "Shuttle Bus Service",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Business center",
+    "Fitness center",
+    "Multilingual Staff",
+    "Babysitting",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Indoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Sauna",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Billiards",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Chinese",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Massage",
+    "Nightclub / DJ",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shoeshine",
+    "Steam Room",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Wine / Champagne",
+    "Conference Facilities",
+    "Cable / Satellite TV",
+    "Dining Area",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Complimentary Welcome Drink",
+    "Free Wifi in the Business Center",
+    "Free Wired Internet in the Business Center",
+    "Full Body Massage",
+    "Head Massage",
+    "Highchairs Available",
+    "Laptop Safe",
+    "Manicure",
+    "Nepali",
+    "Pedicure",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Sofa",
+    "Tamil",
+    "Urdu",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Waxing Services",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "parent_brand": "Wyndham Hotel Group",
+  "brand": "Ramada",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Green",
+    "Quiet"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620561",
+      "name": "Al Khabaisi"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "335"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "323"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "186"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "270"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "241"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

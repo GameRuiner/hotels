@@ -1,0 +1,274 @@
+{
+  "location_id": "1108366",
+  "name": "Arjaan - Dubai Media City",
+  "description": "Located in the heart of Dubai’s Media City, the Arjaan by Rotana overlooks the Palm Jumeirah Island. It offers luxurious accommodation along with a temperature-controlled pool and a modern gym. Arjaan by Rotana’s spacious suites and apartments feature contemporary Moorish-style interiors which open onto balconies with picturesque cityscape and sea views. Guests can relax in the open-plan living room. There is a fully-equipped kitchen which includes an oven, a stove and a microwave.Dining options include Veranda, a poolside snack bar and Arabesque Restaurant, which opens for breakfast, lunch and dinner. The hotel offers a separate swimming pool for children and baby-sitting facilities. Front desk is open 24 hours a day and valet parking. Arjaan Dubai is ideally located just 2 km away from the famous JBR district and 25 km from Dubai International Airport. The city’s major shopping malls, golf clubs and Dubai Marina can all be found nearby.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1108366-Reviews-Arjaan_Dubai_Media_City-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "King Salman Bin Abdulaziz Al Saud Street",
+    "street2": "Al Sufouh - Al Sufouh 2",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "King Salman Bin Abdulaziz Al Saud Street Al Sufouh - Al Sufouh 2, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.0956",
+  "longitude": "55.1538",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1108366-Arjaan_Dubai_Media_City-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#321 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "321"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1408",
+  "review_rating_count": {
+    "1": "59",
+    "2": "42",
+    "3": "112",
+    "4": "349",
+    "5": "847"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "762",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1108366-m66827-Reviews-Arjaan_Dubai_Media_City-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Free parking",
+    "Kitchenette",
+    "Suites",
+    "Pool",
+    "Internet",
+    "Room service",
+    "Free Internet",
+    "Wheelchair access",
+    "Restaurant",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Microwave",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Additional Bathroom",
+    "Allergy-free Room",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "24-Hour Check-in",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Iron",
+    "Kitchenware",
+    "Salon",
+    "24-Hour Security",
+    "Taxi Service",
+    "VIP Room Facilities",
+    "Non-smoking hotel",
+    "Afrikaans",
+    "Bidet",
+    "Blackout Curtains",
+    "Express Check-in / Check-out",
+    "Clothes Rack",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Currency Exchange",
+    "Desk",
+    "Dining Area",
+    "Electric Kettle",
+    "Farsi",
+    "First Aid Kit",
+    "Foot Massage",
+    "French",
+    "Highchairs Available",
+    "Indonesian",
+    "Ironing Service",
+    "Japanese",
+    "Manicure",
+    "Neck Massage",
+    "Nepali",
+    "Pedicure",
+    "Private Bathrooms",
+    "Russian",
+    "Seating Area",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Shoeshine",
+    "Sofa",
+    "Stovetop",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Tamil",
+    "Telephone",
+    "Tile / Marble Floor",
+    "Turkish",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Washing Machine",
+    "Waxing Services",
+    "Photo Copier / Fax In Business Center",
+    "Beach Access"
+  ],
+  "parent_brand": "Rotana Hotel Management Corporation Ltd.",
+  "brand": "Rotana",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Harbor View",
+    "Mid-range"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620603",
+      "name": "Al Sufouh"
+    },
+    {
+      "location_id": "15620605",
+      "name": "Al Sufouh 2"
+    },
+    {
+      "location_id": "15620633",
+      "name": "Dubai Media City (DMC)"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "488"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "185"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "69"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "417"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "108"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "location_id": "6700324",
+  "name": "Evdokia Hotel",
+  "description": "In the heart of the Rhodes Old Town, in a 14th century house of the Knights, live your myth and enjoy the medieval scenery with the best provided service. Savvas, Evdokia and all the family will welcome you and make sure you have an unforgettable holiday. The Greek Traditional Breakfast (all organic and homemade) is a \"must taste\"",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g635613-d6700324-Reviews-Evdokia_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street1": "Evdoxou Str 75",
+    "street2": "Old Town",
+    "city": "Rhodes Town",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "85100",
+    "address_string": "Evdoxou Str 75 Old Town, Rhodes Town 85100 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Rhodes Town",
+      "location_id": "635613"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.443504",
+  "longitude": "28.226507",
+  "timezone": "Europe/Athens",
+  "write_review": "https://www.tripadvisor.com/UserReview-g635613-d6700324-Evdokia_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "635613",
+    "ranking_string": "#31 of 122 hotels in Rhodes Town",
+    "geo_location_name": "Rhodes Town",
+    "ranking_out_of": "122",
+    "ranking": "31"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "205",
+  "review_rating_count": {
+    "1": "7",
+    "2": "6",
+    "3": "5",
+    "4": "26",
+    "5": "161"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "155",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g635613-d6700324-m66827-Reviews-Evdokia_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Non-smoking rooms",
+    "Air conditioning",
+    "Family Rooms",
+    "Refrigerator in room",
+    "Non-smoking hotel",
+    "Baggage Storage",
+    "English",
+    "Greek",
+    "Airport transportation",
+    "Laundry Service",
+    "Express Check-in / Check-out",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quirky Hotels",
+    "Boutique"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "3"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "107"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "19"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "27"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "19"
+    }
+  ],
+  "awards": []
+}

@@ -1,0 +1,292 @@
+{
+  "location_id": "306662",
+  "name": "Hilton Dubai Jumeirah Resort",
+  "description": "Complete with its own private beach and ten award-winning restaurants, Hilton Dubai Jumeirah Resort is conveniently located within a vibrant promenade area. This stylish retreat in the heart of the Dubai Marina also boasts proximity to the beach mall full of boutiques, restaurants and cinemas. Choose from a selection of rooms and suites overlooking Ain Dubai, the pristine white sands of the Persian Gulf shoreline or the iconic architecture of the Dubai Marina. Bask in the sun at the resort's private beach, enjoy sailing, snorkeling, waterskiing or windsurfing from the water sports center, or take a swim in the refreshing temperature-controlled pool. Awaken your senses and revitalize your spirit at the resort spa, with a full range of body treatments available. Stay fit in the adjacent health club, offering 400 square meters of strength and cardio equipment and separate male and female steam rooms and saunas. An array of restaurants and bars at Hilton Dubai Jumeirah offer exceptional menus, nightly live entertainment and romantic settings. Have a cocktail at the swim-up bar, dine alfresco while looking out at the Gulf, or savour award-winning Italian cuisine. The hotel's proximity to tax-free economic zones and international business and media hubs give it a distinct appeal for business meetings and events. The hotel is a 15-minute, 17-km drive from Expo 2020 Pavilion. With executive meeting rooms, a grand ballroom and lush landscaped gardens for up to 250 guests, the resort offers enticing possibilities for weddings, celebrations and banquets.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d306662-Reviews-Hilton_Dubai_Jumeirah_Resort-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Jumeirah Beach Road",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Jumeirah Beach Road, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.079079",
+  "longitude": "55.134075",
+  "timezone": "Asia/Dubai",
+  "phone": "18884466677",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d306662-Hilton_Dubai_Jumeirah_Resort-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#213 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "213"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "8200",
+  "review_rating_count": {
+    "1": "273",
+    "2": "265",
+    "3": "582",
+    "4": "1841",
+    "5": "5240"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "5319",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d306662-m66827-Reviews-Hilton_Dubai_Jumeirah_Resort-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Room service",
+    "Restaurant",
+    "Business center",
+    "Fitness center",
+    "Beachfront",
+    "Internet",
+    "Suites",
+    "Wifi",
+    "Paid Internet",
+    "Free parking",
+    "Kids Activities",
+    "Wheelchair access",
+    "Free Internet",
+    "Bar/Lounge",
+    "Shuttle Bus Service",
+    "Spa",
+    "Airport transportation",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Rooftop Bar",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Allergy-free Room",
+    "Arabic",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Coffee Shop",
+    "Convenience Store",
+    "Couples Massage",
+    "Currency Exchange",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "24-Hour Front Desk",
+    "Game Room",
+    "Gift Shop",
+    "Head Massage",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Italian",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Laptop Safe",
+    "Massage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Public Wifi",
+    "Kids pool",
+    "Boating",
+    "Body Wrap",
+    "Canoeing",
+    "Children's Television Networks",
+    "Children's Playground",
+    "Clothes Rack",
+    "Executive Lounge Access",
+    "Foot Massage",
+    "Free Wifi in the Business Center",
+    "Free Wired Internet in the Business Center",
+    "Full Body Massage",
+    "Happy Hour",
+    "Highchairs Available",
+    "Manicure",
+    "Outdoor Dining Area",
+    "Private Bathrooms",
+    "Wardrobe / Closet",
+    "Photo Copier / Fax In Business Center",
+    "Beach Access"
+  ],
+  "parent_brand": "Hilton Worldwide",
+  "brand": "Hilton Hotels & Resorts",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Harbor View",
+    "Bay View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620642",
+      "name": "Jumeirah Beach Residence (JBR)"
+    },
+    {
+      "location_id": "7282432",
+      "name": "The Marina"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "891"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "2691"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "373"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "2448"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "872"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

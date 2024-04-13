@@ -1,0 +1,198 @@
+{
+  "location_id": "606469",
+  "name": "Ciutat de Sant Adria Hotel",
+  "description": "Hotel Ciutat de Sant Adria is located in Sant Adria de Besos, 15 minutes from central Barcelona by Metro. It has a 24-hour bar and air-conditioned rooms with a private balcony.Rooms at the Ciutat de Sant Adria are functional and feature a flat-screen TV with international channels. They also have free Wi-Fi and come with a free guidebook for Barcelona. Guests can enjoy their continental breakfast either in the bar or in their room. The bar also serves drinks and snacks throughout the day, and packed lunches are available on request. Downstairs there is a computer with internet access that guests can use. It is also possible to rent a Playstation, a laptop or a bicycle from reception.The Ciutat de Sant Adria is just 10 minutes' walk from the beach. Sant Adria Train Station is a 10-minute walk away, connecting you with Barcelona Airport in just 40 minutes.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d606469-Reviews-Ciutat_de_Sant_Adria_Hotel-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Santa Caterina 38",
+    "street2": "08930, Sant Adria Del Besos, Barcelona",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08003",
+    "address_string": "Santa Caterina 38 08930, Sant Adria Del Besos, Barcelona, 08003 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.429977",
+  "longitude": "2.220304",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d606469-Ciutat_de_Sant_Adria_Hotel-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#398 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "398"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "246",
+  "review_rating_count": {
+    "1": "14",
+    "2": "31",
+    "3": "61",
+    "4": "75",
+    "5": "65"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "83",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d606469-m66827-Reviews-Ciutat_de_Sant_Adria_Hotel-Barcelona_Catalonia.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Restaurant",
+    "Public Wifi",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Air conditioning",
+    "Breakfast Available",
+    "Bar/Lounge",
+    "Wifi",
+    "Business center",
+    "Concierge",
+    "Smoking rooms available",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Parking",
+    "Housekeeping",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bicycle Rental",
+    "Breakfast in the Room",
+    "Catalan",
+    "Express Check-in / Check-out",
+    "Children's Television Networks",
+    "Coffee Shop",
+    "Desk",
+    "English",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Massage",
+    "Newspaper",
+    "On-Demand Movies",
+    "Outdoor Furniture",
+    "Parking Garage",
+    "Paid Public Parking On-site",
+    "Shared Lounge / TV Area",
+    "Snack Bar",
+    "Solarium",
+    "Soundproof Rooms",
+    "Spanish",
+    "Sun Terrace",
+    "Telephone",
+    "Video Game Console",
+    "Wake Up Service / Alarm Clock",
+    "Beach Access"
+  ],
+  "parent_brand": "Independent",
+  "brand": "Independently Owned Property",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Budget",
+    "Residential Neighborhood"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "22"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "112"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "21"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "43"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "34"
+    }
+  ],
+  "awards": []
+}

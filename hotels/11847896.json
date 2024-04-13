@@ -1,0 +1,295 @@
+{
+  "location_id": "11847896",
+  "name": "The One Barcelona",
+  "description": "With a privileged location in the city’s most exclusive area,\nThe One Barcelona is a new 5*GL hotel with a sophisticated\ninterior design that breathes elegance and distinction. The\nuse of soft tones, with some splashes of colour provided by\nworks of art and upholsteries, natural light and fine\nmaterials such as special marble and wood, all play an\nimportant role, creating an atmosphere of timeless luxury.\nThe project was executed in collaboration with prestigious\ndesigner Jaime Beriestain. The establishment offers large,\nbright rooms, the Somni Restaurant & Cocteleria, the\nDespacio Spa at The One, a plunge pool exclusively for\nguests on the top floor, and the impressive Mood Rooftop\nBar, with panoramic views of the city.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d11847896-Reviews-The_One_Barcelona-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Carrer de Provenca, 277",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08037",
+    "address_string": "Carrer de Provenca, 277, 08037 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.396122",
+  "longitude": "2.163074",
+  "timezone": "Europe/Madrid",
+  "phone": "01134932203420",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d11847896-The_One_Barcelona-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#11 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "11"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "718",
+  "review_rating_count": {
+    "1": "5",
+    "2": "8",
+    "3": "18",
+    "4": "62",
+    "5": "625"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "760",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d11847896-m66827-Reviews-The_One_Barcelona-Barcelona_Catalonia.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Babysitting",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Private Balcony",
+    "Butler Service",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Sauna",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Catalan",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Facial Treatments",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Hair Dryer",
+    "Head Massage",
+    "Interconnected room(s) available",
+    "Laptop Safe",
+    "Massage",
+    "Pool / Beach Towels",
+    "Banquet Room",
+    "Conference Facilities",
+    "Breakfast Available",
+    "Arabic",
+    "Blackout Curtains",
+    "Body Wrap",
+    "Bridal Suite",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Express Check-in / Check-out",
+    "Currency Exchange",
+    "Czech",
+    "Electric Kettle",
+    "Filipino",
+    "First Aid Kit",
+    "Foot Massage",
+    "German",
+    "Hand Massage",
+    "Highchairs Available",
+    "Iron",
+    "Ironing Service",
+    "Italian",
+    "Kids' Meals",
+    "Neck Massage",
+    "Newspaper",
+    "Outdoor Dining Area",
+    "Parking Garage",
+    "Personal Trainer",
+    "Plunge Pool",
+    "Pool with View",
+    "Portuguese",
+    "Private Bathrooms",
+    "Private Check-in / Check-out",
+    "Paid Public Parking Nearby",
+    "Russian",
+    "Shoeshine",
+    "Snack Bar",
+    "Sofa",
+    "Solarium",
+    "Soundproof Rooms",
+    "Spanish",
+    "Special Diet Menus",
+    "Sun Deck",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Tile / Marble Floor",
+    "Umbrella",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Wine / Champagne"
+  ],
+  "parent_brand": "H10 Hotels",
+  "brand": "H10 Hotels",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "City View",
+    "Luxury"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230970",
+      "name": "Eixample"
+    },
+    {
+      "location_id": "15565885",
+      "name": "La Dreta de l'Eixample"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "40"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "348"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "25"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "146"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "74"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

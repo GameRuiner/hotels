@@ -1,0 +1,211 @@
+{
+  "location_id": "23547106",
+  "name": "Sonder Downtown Towers",
+  "description": "Panoramic views of the Persian Gulf to the west or the Dubai skyline to the east. With spaces overlooking each, you'll get a feel for it all at Downtown Towers. Each spacious apartment has a fully equipped kitchen, in-suite laundry, and a private, spare bedroom and bathroom. Want to stretch your legs? Take a lap on the outdoor running track or head to our expansive fitness center. Or unwind at the pool and spa. You can grab a hot drink from Gerard coffee cart or a pastry from French Bakery, across the street. And Neighbors supermarket is downstairs for any last-minute conveniences. This Sonder is a short drive from the Dubai International Financial Centre, plus there's plenty of entertainment nearby. The Coca-Cola Arena hosts epic events, the Dubai Mall is one of the largest in the world, and the fountains are spectacular. Do Dubai better at Downtown Towers.\n\nUse the Sonder app to navigate your stay from start to finish. Check in. Request amenities. Connect to WiFi. Contact customer support. All via our small (but mighty) app. Whatever you need, we’ve got you covered.\n\nThis Sonder has a front desk which is staffed 24/7. Our on-site team is available to ensure you have a better stay.\n\nThe pool in Tower 3 is closed for maintenance. Please use the pool in Tower 2, located on the 5th floor.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d23547106-Reviews-Sonder_Downtown_Towers-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Tower 3, 43 34c Street,",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "6749",
+    "address_string": "Tower 3, 43 34c Street,, Dubai 6749 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.207462",
+  "longitude": "55.268562",
+  "timezone": "Asia/Dubai",
+  "phone": "16173975596",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d23547106-Sonder_Downtown_Towers-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#12 of 766 Specialty lodging in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "766",
+    "ranking": "12"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "211",
+  "review_rating_count": {
+    "1": "6",
+    "2": "2",
+    "3": "4",
+    "4": "9",
+    "5": "190"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "173",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d23547106-m66827-Reviews-Sonder_Downtown_Towers-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Suites",
+    "Free Internet",
+    "Free parking",
+    "Wifi",
+    "Free Wifi",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Concierge",
+    "Air conditioning",
+    "Self-Serve Laundry",
+    "Refrigerator in room",
+    "Non-smoking hotel",
+    "Flatscreen TV",
+    "Private Balcony",
+    "Outdoor pool",
+    "Parking",
+    "Additional Bathroom",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Cable / Satellite TV",
+    "Express Check-in / Check-out",
+    "Clothes Dryer",
+    "Clothes Rack",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Desk",
+    "Dining Area",
+    "Dishwasher",
+    "Electric Kettle",
+    "English",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Iron",
+    "Kitchenware",
+    "Oven",
+    "Parking Garage",
+    "Pool View",
+    "Private Bathrooms",
+    "Seating Area",
+    "24-Hour Security",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Sofa",
+    "Spanish",
+    "Stovetop",
+    "Wardrobe / Closet",
+    "Washing Machine"
+  ],
+  "parent_brand": "Sonder Holdings Inc.",
+  "brand": "Sonder",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [
+    "City View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620601",
+      "name": "Al Satwa"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "15"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "12"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "3"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "103"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "26"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

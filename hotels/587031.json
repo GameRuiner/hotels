@@ -1,0 +1,189 @@
+{
+  "location_id": "587031",
+  "name": "Delta Sharm Resort",
+  "description": "Set on extensive lush, landscaped grounds, Delta Sharm Resort offers apartments with a TV and a sitting area. Facilities include an outdoor pool with a waterfall and water slides. The air-conditioned studios and apartments of Delta Sharm are decorated with elegant wooden furniture and large windows. All studios and apartments have a private bathroom. Room service is available. Guests can enjoy traditional Egyptian dishes as well as international dishes at Delta Sharm Resort’s restaurant. The bar serves a variety of drinks and refreshments, including freshly prepared cocktails. Delta Sharm Resort’s spa offers a wide range of health and beauty treatments, including massage services. The resort also has a sauna, a gym, and a children’s playground. The Sharm el-Sheikh International Airport is 10 miles from Delta Sharm Resort, and Naama Bay is only 3 miles away.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d587031-Reviews-Delta_Sharm_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Um El seed Cliff Crossing Main Rd",
+    "street2": "Tower Rd",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "postalcode": "8762123",
+    "address_string": "Um El seed Cliff Crossing Main Rd Tower Rd, Sharm El Sheikh 8762123 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.884865",
+  "longitude": "34.30555",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d587031-Delta_Sharm_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#143 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "143"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "1034",
+  "review_rating_count": {
+    "1": "118",
+    "2": "101",
+    "3": "152",
+    "4": "306",
+    "5": "357"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "1313",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d587031-m66827-Reviews-Delta_Sharm_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Restaurant",
+    "Pool",
+    "Kitchenette",
+    "Free parking",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Laundry Service",
+    "Refrigerator in room",
+    "Swimup Bar",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Adult pool",
+    "Outdoor pool",
+    "Kids Club",
+    "Shops",
+    "Internet",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Room service",
+    "Free Internet",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Business center",
+    "Fitness center",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Non-smoking hotel",
+    "Safe",
+    "Infinity Pool",
+    "Housekeeping",
+    "Arabic",
+    "ATM On Site",
+    "Convenience Store",
+    "English",
+    "24-Hour Front Desk",
+    "Hiking",
+    "Italian",
+    "Russian",
+    "Salon",
+    "Street Parking",
+    "Sun Terrace"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quirky Hotels",
+    "Family Resort"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "9"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "364"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "47"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "289"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "203"
+    }
+  ],
+  "awards": []
+}

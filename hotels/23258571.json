@@ -1,0 +1,379 @@
+{
+  "location_id": "23258571",
+  "name": "Radisson Collection Hotel, Bodrum",
+  "description": "Radisson Collection Hotel, Bodrum is a luxury hotel located in Bodrum's magnificent Aspat Bay, within the unique Anthaven Residence Project. Standing out with its natural beauty, Mediterranean architecture, small inner harbor, and surrounding natural water channels, discover a hidden paradise just 30 minutes from Bodrum city center.\nWith 80 rooms, the hotel boasts a 400-meter coastline, outdoor and indoor pools, two beach restaurants, a hotel restaurant and bar, a spa and fitness center, and meeting and events facilities.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298658-d23258571-Reviews-Radisson_Collection_Hotel_Bodrum-Bodrum_City_Bodrum_District_Mugla_Province_Turkish_A.html?m=66827",
+  "address_obj": {
+    "street1": "Akyarlar Mah. Ataturk Cad. No. 352,",
+    "city": "Bodrum City",
+    "state": "Mugla Province",
+    "country": "Turkiye",
+    "postalcode": "48960",
+    "address_string": "Akyarlar Mah. Ataturk Cad. No. 352,, Bodrum City 48960 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Bodrum City",
+      "location_id": "298658"
+    },
+    {
+      "level": "District",
+      "name": "Bodrum District",
+      "location_id": "298020"
+    },
+    {
+      "level": "Province",
+      "name": "Mugla Province",
+      "location_id": "298019"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "36.97902",
+  "longitude": "27.312086",
+  "timezone": "Europe/Istanbul",
+  "phone": "011902529991510",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298658-d23258571-Radisson_Collection_Hotel_Bodrum-Bodrum_City_Bodrum_District_Mugla_Province_Turkish_Aegean_Coas.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298658",
+    "ranking_string": "#23 of 164 hotels in Bodrum City",
+    "geo_location_name": "Bodrum City",
+    "ranking_out_of": "164",
+    "ranking": "23"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "95",
+  "review_rating_count": {
+    "1": "3",
+    "2": "0",
+    "3": "6",
+    "4": "6",
+    "5": "80"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "238",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298658-d23258571-m66827-Reviews-Radisson_Collection_Hotel_Bodrum-Bodrum_City_Bodrum_District_Mugla_Province_Turkish_A.html#photos",
+  "price_level": "$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Beachfront",
+    "Free Internet",
+    "Free parking",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Wifi",
+    "Free Wifi",
+    "Fitness center",
+    "Breakfast Buffet",
+    "Free Private Parking Nearby",
+    "Beach Access",
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Pets Allowed",
+    "Airport transportation",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Business center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Poolside Bar",
+    "Private Balcony",
+    "Kids pool",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Electric vehicle charging station",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Bidet",
+    "Blackout Curtains",
+    "Boating",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Children's Television Networks",
+    "Children's Playground",
+    "Clothes Rack",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Convenience Store",
+    "Couples Massage",
+    "Desk",
+    "Doorperson",
+    "Electric Kettle",
+    "English",
+    "Facial Treatments",
+    "First Aid Kit",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Complimentary Toiletries",
+    "Complimentary Welcome Drink",
+    "Free Wifi in the Business Center",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Head Massage",
+    "Highchairs Available",
+    "Infirmary",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kids' Outdoor Play Equipment",
+    "Laptop Safe",
+    "Makeup Services",
+    "Manicure",
+    "Massage",
+    "Mini Golf",
+    "Mountain View",
+    "Outdoor Dining Area",
+    "Outdoor Furniture",
+    "Patio",
+    "Pedicure",
+    "Personal Trainer",
+    "Pool / Beach Towels",
+    "Pool View",
+    "Pool with View",
+    "Private Bathrooms",
+    "Russian",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shops",
+    "Soundproof Rooms",
+    "Steam Room",
+    "Strollers",
+    "Sun Deck",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Turkish",
+    "Umbrella",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Windsurfing",
+    "Wine / Champagne",
+    "Photo Copier / Fax In Business Center",
+    "Yoga Classes",
+    "Yoga Room"
+  ],
+  "parent_brand": "Carlson Rezidor",
+  "brand": "Radisson Collection",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Business",
+    "Charming"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "3"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "38"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "1"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "30"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "8"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

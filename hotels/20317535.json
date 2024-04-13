@@ -1,0 +1,241 @@
+{
+  "location_id": "20317535",
+  "name": "Hotel Riu Dubai",
+  "description": "The All Inclusive 24h Hotel Riu Dubai opened its doors in September 2020 and is situated at Deira Islands, on the coast of the city of Dubai, directly on the beach. The RIU Classic Hotels offer comfortable rooms and excellent facilities with great leisure and relaxation facilities, as well as international gastronomy. Enjoy a relaxing holiday - whether alone, with family, partner or friends! The location is ideal because of its proximity to Dubai - Burj Khalifa (15 km) and Dubai International Airport (DXB) (11 km) and invites you to explore the area. The hotel has 787 comfortably furnished rooms with free WiFi and offers many amenities. Relax in our spa or get in shape at the gym. 3 outdoor pools, 2 children’s pools (1 of them with slides) and the “Splash Water World” water park. For the youngest guests, RiuLand kids' club (4-7 & 8-12 yrs), and for adults, day and evening entertainment. For lovers of gastronomy, live cooking stations and themed buffets at our main restaurant as well as Asian, Italian and Lebanese specialty restaurants; 6 bars.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d20317535-Reviews-Hotel_Riu_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Deira Islands",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "337-1500",
+    "address_string": "Deira Islands, Dubai 337-1500 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.301422",
+  "longitude": "55.305458",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d20317535-Hotel_Riu_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#265 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "265"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1894",
+  "review_rating_count": {
+    "1": "70",
+    "2": "39",
+    "3": "97",
+    "4": "326",
+    "5": "1363"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "2529",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d20317535-m66827-Reviews-Hotel_Riu_Dubai-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Kids Activities",
+    "Beachfront",
+    "Suites",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Refrigerator in room",
+    "Minibar",
+    "Babysitting",
+    "Safe",
+    "Swimup Bar",
+    "Water Park",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Additional Bathroom",
+    "Arabic",
+    "Bath / Shower",
+    "Car Hire",
+    "Desk",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Filipino",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Massage",
+    "Pool / Beach Towels",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Snack Bar",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Beach Access",
+    "Internet",
+    "Free Internet",
+    "Conference Facilities",
+    "Flatscreen TV",
+    "Kids pool",
+    "Cable / Satellite TV",
+    "Children's Playground",
+    "Dining Area",
+    "Electric Kettle",
+    "Highchairs Available",
+    "Outdoor Dining Area",
+    "Private Bathrooms",
+    "Separate Living Room",
+    "Sofa",
+    "Sofa Bed",
+    "Wardrobe / Closet",
+    "Waterslide",
+    "Water Sport Equipment Rentals"
+  ],
+  "parent_brand": "RIU Hotels & Resorts Group",
+  "brand": "RIU Hotels & Resorts",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Ocean View",
+    "Mid-range"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "27"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "444"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "43"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "581"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "126"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

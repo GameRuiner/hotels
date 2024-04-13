@@ -1,0 +1,281 @@
+{
+  "location_id": "514483",
+  "name": "Selectum Colours Bodrum",
+  "description": "The hotel, located at the famous Gumbet Bay, consists of 496 rooms in total. The lobby of the hotel has the fantastic view of Gumbet Bay. Rooms have either balcony or terrace. Check in time is 14:00 and check out time is 12:00. There are 7 bars, 1 main restaurant (open buffet breakfast, lunch and dinner) and 4 A’la Carte Restaurants; Turkish - \"TABLA\", Italian \"PRIMAVIO\", Seafood \"HARBOUR SEA & SALT\" and all day open \"SEVEN TWENTY FOUR\". A la Cartes require reservation and are free of charge. Guest may use 1 A'la Carte Restaurant free of charge for each 5 nights during the stay. A’la Carte Restaurants are at service 6 days a week. Dress code is required. Baby corner, kids buffet, diet and vegetarian menu are served at the main restaurant.\n\n You can enjoy yourself with our fabulous views at one of our 7 bars. You can join our daily activities such as Aqua gym, beach volley, mini football, basketball, billiard, darts, water polo, tennis, yoga, pilates or adapt yourself to the lazy beach life. Cabarets, shows and live music are only some of the night activities. We have watersports for every taste!  Come and discover the rest with us…",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298661-d514483-Reviews-Selectum_Colours_Bodrum-Gumbet_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Adnan Menderes Cad. No. 63",
+    "street2": "",
+    "city": "Gumbet",
+    "state": "Mugla Province",
+    "country": "Turkiye",
+    "postalcode": "48400",
+    "address_string": "Adnan Menderes Cad. No. 63, Gumbet 48400 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Gumbet",
+      "location_id": "298661"
+    },
+    {
+      "level": "District",
+      "name": "Bodrum District",
+      "location_id": "298020"
+    },
+    {
+      "level": "Province",
+      "name": "Mugla Province",
+      "location_id": "298019"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "37.02788",
+  "longitude": "27.39492",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298661-d514483-Selectum_Colours_Bodrum-Gumbet_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298661",
+    "ranking_string": "#8 of 113 hotels in Gumbet",
+    "geo_location_name": "Gumbet",
+    "ranking_out_of": "113",
+    "ranking": "8"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "3757",
+  "review_rating_count": {
+    "1": "127",
+    "2": "149",
+    "3": "329",
+    "4": "739",
+    "5": "2413"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "3662",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298661-d514483-m66827-Reviews-Selectum_Colours_Bodrum-Gumbet_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Free parking",
+    "Fitness center",
+    "Internet",
+    "Beachfront",
+    "Free Internet",
+    "Wifi",
+    "Restaurant",
+    "Wheelchair access",
+    "Kids Activities",
+    "Bar/Lounge",
+    "Spa",
+    "Breakfast included",
+    "Suites",
+    "Airport transportation",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Rooftop Bar",
+    "Flatscreen TV",
+    "Water Park",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Sauna",
+    "Aerobics",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bicycle Rental",
+    "Billiards",
+    "Board Games / Puzzles",
+    "Bottled Water",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Convenience Store",
+    "Currency Exchange",
+    "Darts",
+    "Desk",
+    "Diving",
+    "Doorperson",
+    "Dutch",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Game Room",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Indoor Play Area for Children",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Nightclub / DJ",
+    "Outdoor Furniture",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Snorkeling",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Turkish",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Kids pool",
+    "Boating",
+    "Canoeing",
+    "Children's Television Networks",
+    "Children's Playground",
+    "Clothes Rack",
+    "Couples Massage",
+    "Electric Kettle",
+    "Foot Bath",
+    "Full Body Massage",
+    "Hand Massage",
+    "Head Massage",
+    "Highchairs Available",
+    "Makeup Services",
+    "Manicure",
+    "Mountain View",
+    "Neck Massage",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Pool View",
+    "Strollers",
+    "Sun Deck",
+    "Tile / Marble Floor",
+    "Umbrella",
+    "Wardrobe / Closet",
+    "Waterslide",
+    "Water Sport Equipment Rentals",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Family Resort",
+    "Hidden Gem"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "19"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1256"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "57"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1450"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "616"
+    }
+  ],
+  "awards": []
+}

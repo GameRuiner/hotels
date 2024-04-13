@@ -1,0 +1,243 @@
+{
+  "data": [
+    {
+      "id": 942237194,
+      "lang": "en",
+      "location_id": 23469903,
+      "published_date": "2024-03-13T23:57:51Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23469903-r942237194-Reviews-Crowne_Plaza_Dubai_Jumeirah-Dubai_Emirate_of_Dubai.html?m=66827#review942237194",
+      "text": "Came with my husband for a business trip.\nNice hotel, nice room. Cleaners always did an amazing job. All the staff here were very friendly and helpful. Thank you to all the staff that worked at the pool area in particular. Ram, Sarif and especially to Mervin. Ye are amazing",
+      "title": "Amazing Staff",
+      "trip_type": "Couples",
+      "travel_date": "2023-10-31",
+      "user": {
+        "username": "ZaraH136",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/81/default-avatar-2020-43.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 942353113,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nThank you so much for taking the time to review us. We are delighted to know that you enjoyed the experience in the hotel. \nWe will also convey your constructive feedback to the management, and we hope you will give us a chance to serve you again. \n\nWarm Regards,\n\nJoseph Feghali\nRooms Division Manager",
+        "lang": "en",
+        "author": "Joseph Feghali",
+        "published_date": "2024-03-15T01:10:40Z"
+      }
+    },
+    {
+      "id": 940817956,
+      "lang": "en",
+      "location_id": 23469903,
+      "published_date": "2024-03-04T12:42:11Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23469903-r940817956-Reviews-Crowne_Plaza_Dubai_Jumeirah-Dubai_Emirate_of_Dubai.html?m=66827#review940817956",
+      "text": "Hotel was great for what we wanted - location, quiet, facilities and quality of the staff. We were recognised straight away as Platinum elite members of the IHG Rewards Group and were given first class treatment throughout our 4 night stay by all the staff. We were particularly impressed by Jolor in the Club Lounge who was excellent at her job.",
+      "title": "Excellent stay with first class staff experience",
+      "trip_type": "Couples",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "Michaelank",
+        "user_location": {
+          "id": "503830",
+          "name": "Fleet, Hampshire, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ee/10/default-avatar-2020-8.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 940862950,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nThank you for the excellent rating & feedback about your most recent visit at Crowne Plaza Dubai Jumeirah. We are so glad to see that you enjoyed your stay with us. \nWe look forward to welcoming you back to the hotel in the near future, where we can have the opportunity to showcase our True Hospitality once again. \n\nWarm regards, \n\nJoseph Feghali\nRooms Division Manager",
+        "lang": "en",
+        "author": "Joseph Feghali",
+        "published_date": "2024-03-04T23:23:51Z"
+      }
+    },
+    {
+      "id": 938471601,
+      "lang": "en",
+      "location_id": 23469903,
+      "published_date": "2024-02-16T04:15:46Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23469903-r938471601-Reviews-Crowne_Plaza_Dubai_Jumeirah-Dubai_Emirate_of_Dubai.html?m=66827#review938471601",
+      "text": "A shiny high-end hotel with an impressive reception area leading in to the excellent buffet restaurant I used from breakfast (no jam but had everything and more you would want), and a lovely bar option too with scrummy food. I didn’t use the Asian restaurant but that looked equally as impressive. The rooms are big and spacious with a nice big bath (reaching soap a little awkward from the bath). The swimming pool area is part of a health club and is very pleasant with plenty of sunbeds and an attentive bar staff. Attractions best reached  by cheap taxi/Uber which works well. This hotel is highly recommended and has lovely staff throughout.",
+      "title": "Cracking hotel",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "SimonHCP",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e7/fe/default-avatar-2020-58.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e7/fe/default-avatar-2020-58.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e7/fe/default-avatar-2020-58.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e7/fe/default-avatar-2020-58.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/fe/default-avatar-2020-58.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 938831051,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nThank you so much for taking the time to review us. We are delighted to know that you enjoyed the experience in the hotel. \nWe will also convey your constructive feedback to the management, and we hope you will give us a chance to serve you again. \n\nWarm Regards,\n\nJoseph Feghali\nRooms Division Manager",
+        "lang": "en",
+        "author": "Joseph Feghali",
+        "published_date": "2024-02-18T23:30:44Z"
+      }
+    },
+    {
+      "id": 938406743,
+      "lang": "en",
+      "location_id": 23469903,
+      "published_date": "2024-02-15T12:53:49Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23469903-r938406743-Reviews-Crowne_Plaza_Dubai_Jumeirah-Dubai_Emirate_of_Dubai.html?m=66827#review938406743",
+      "text": "The great service from Front Joseph Feghali he was the best in communication…\nanything please asked joseph Feghali .\nBig thanks to Sathik he picked me up from airport to safari nice people very helpful…\nThanks T he Thanks to housekeeping team keeps my makeup my room and clean every day.. Thnks Nalid Big thanks you are the best..\nBreakfast team is allso good team .. clean hotels . \nThanks",
+      "title": "great place to stay …",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "Ahahavez",
+        "user_location": {
+          "id": "186338",
+          "name": "London, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f3/23/default-avatar-2020-28.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f3/23/default-avatar-2020-28.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f3/23/default-avatar-2020-28.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f3/23/default-avatar-2020-28.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f3/23/default-avatar-2020-28.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 938453287,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nThank you so much for taking the time to review us. We are delighted to know that you enjoyed the experience in the hotel. \nWe will also convey your constructive feedback to the management, and we hope you will give us a chance to serve you again. \n\nWarm Regards,\n\nJoseph Feghali\nRooms Division Manager",
+        "lang": "en",
+        "author": "Joseph Feghali",
+        "published_date": "2024-02-15T23:41:27Z"
+      }
+    },
+    {
+      "id": 937435482,
+      "lang": "en",
+      "location_id": 23469903,
+      "published_date": "2024-02-08T09:02:15Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23469903-r937435482-Reviews-Crowne_Plaza_Dubai_Jumeirah-Dubai_Emirate_of_Dubai.html?m=66827#review937435482",
+      "text": "Excellent Service, wonderful location. Airport pickup service was on time and perfect. Thanks to the concierge driver Mr. Hashim. \n\nHotel was super clean and super comfortable. Your staff is truly amazing and I would recommend everyone to stay here.",
+      "title": "Excellent stay and service at Crowne Plaza Dubai",
+      "trip_type": "Family",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "Ankit12134",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/b8/default-avatar-2020-26.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 937494010,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nThank you so much for taking the time to review us. We are delighted to know that you enjoyed the experience in the hotel. \nWe will also convey your constructive feedback to the management, and we hope you will give us a chance to serve you again. \n\nWarm Regards,\n\nJoseph Feghali\nRooms Division Manager",
+        "lang": "en",
+        "author": "Joseph Feghali",
+        "published_date": "2024-02-08T23:19:41Z"
+      }
+    }
+  ]
+}

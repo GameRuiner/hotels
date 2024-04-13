@@ -1,0 +1,296 @@
+{
+  "data": [
+    {
+      "id": 945833101,
+      "lang": "en",
+      "location_id": 1777174,
+      "published_date": "2024-04-08T09:25:58Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d1777174-r945833101-Reviews-Kempinski_Hotel_Residences_Palm_Jumeirah-Dubai_Emirate_of_Dubai.html?m=66827#review945833101",
+      "text": "The room is amazing, very comfortable, wide, the decoration is fantastic and all the services were very efficient and people were friendly and attentive with all the details. The cleaning service by Michael and Shah Alam was very well done.",
+      "title": "The place to be in Dubai",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "488mariafernandav",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ee/db/default-avatar-2020-10.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945904629,
+        "title": "Owner response",
+        "text": "Dear Ms. Maria, \n\nThank you for sharing your valuable feedback on TripAdvisor. \n\nWe are extremely happy to hear that you had a memorable experience with our hotel and service and I will thank all the team for the excellent service. \nWe are looking forward to welcoming you back at any time. Please do not hesitate to contact our dedicated team of ladies in red for any assistance. \n\nKind regards, \n\nHani Selim \nGeneral Manager",
+        "lang": "en",
+        "author": "Kempinski Hotel and Residences Palm Jumeirah",
+        "published_date": "2024-04-08T23:13:23Z"
+      }
+    },
+    {
+      "id": 945659456,
+      "lang": "en",
+      "location_id": 1777174,
+      "published_date": "2024-04-07T03:44:31Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d1777174-r945659456-Reviews-Kempinski_Hotel_Residences_Palm_Jumeirah-Dubai_Emirate_of_Dubai.html?m=66827#review945659456",
+      "text": "Loved everything about this hotel. Rooms were spacious, luxurious & really well kitted out. Housekeeping was great. The pool was perfect & sunloungers were comfortable & available. Breakfast was the best we had on our trip, topped off by exceptional warm & friendly service from Kamal, who went out of his way to help us each morning.",
+      "title": "Superb hotel",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "Mojiyo",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/11/default-avatar-2020-41.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945800113,
+        "title": "Owner response",
+        "text": "Dear Ms. Emma, Thank you for sharing your valuable feedback on TripAdvisor. We are extremely happy to hear that you had a memorable experience with our hotel and service and I will thank all the team for the excellent service. We are looking forward to welcoming you back at any time. Please do not hesitate to contact our dedicated team of ladies in red for any assistance. Kind regards, Hani Selim General Manager",
+        "lang": "en",
+        "author": "Kempinski The Palm",
+        "published_date": "2024-04-08T04:36:41Z"
+      }
+    },
+    {
+      "id": 945595028,
+      "lang": "en",
+      "location_id": 1777174,
+      "published_date": "2024-04-06T13:39:13Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d1777174-r945595028-Reviews-Kempinski_Hotel_Residences_Palm_Jumeirah-Dubai_Emirate_of_Dubai.html?m=66827#review945595028",
+      "text": "We had a great time and relaxed. The room was excellent with all its amenities. Having a washing machine really helped with three young children. \n\nA particular mention to Malena (customer relation manager) who went the extra mile to make our stay memorable. She was very helpful and addressed all our concerns immediately. Thank you!",
+      "title": "Amazing stay!",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "EBM123",
+        "user_location": {
+          "id": "186334",
+          "name": "Leicester, Leicestershire, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ee/db/default-avatar-2020-10.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945640328,
+        "title": "Owner response",
+        "text": "Dear Ms. Evi, \n\nThank you very much for sharing your valuable feedback on TripAdvisor. \n\nWe are extremely happy to hear that you had a memorable experience with our hotel and service and I will thank all the team for the excellent service. \nWe are looking forward to welcoming you back at any time. Please do not hesitate to contact our dedicated team of ladies in red for any assistance. \n\nKind regards, \n\nHani Selim \nGeneral Manager",
+        "lang": "en",
+        "author": "Kempinski Hotel and Residences Palm Jumeirah",
+        "published_date": "2024-04-06T22:36:24Z"
+      }
+    },
+    {
+      "id": 945544094,
+      "lang": "en",
+      "location_id": 1777174,
+      "published_date": "2024-04-06T05:43:26Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d1777174-r945544094-Reviews-Kempinski_Hotel_Residences_Palm_Jumeirah-Dubai_Emirate_of_Dubai.html?m=66827#review945544094",
+      "text": "We returned to this hotel for the second time, selecting a 2-bedroom suite, and once again, our stay was thoroughly enjoyable. The suite itself is spacious, boasting two balconies with lovely views. While the furniture may not be modern, it harmonizes well with the hotel's overall baroque interior style. The reception staff warmly welcomed us, with Milena, affectionately known as the \"red lady,\" standing out for her exceptional kindness. Our rooms were immaculately clean, thanks to Sadik and his team—Noman and Lucy—who ensured that all our needs were met. The culinary offerings at the Villamore restaurant, overseen by Sergio, were truly exceptional. Mr. Rahman/Mr. Ram and the entire concierge team were incredibly helpful in accommodating any requests we had. Furthermore, if you have boys who are enthusiastic about football, they will be thrilled to find facilities available while you enjoy the remainder of your breakfast. At the beach, the staff readily provided towels and umbrellas, assisting with setting everything up for us. While the hotel may be situated a bit far from the town's attractions, the tranquility of the surroundings—especially if your room faces the palm side—more than compensates for this inconvenience.",
+      "title": "A delightful second time stay",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "JacqVal2024",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/2a/7a/e5/da/jacquemai2023.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/2a/7a/e5/da/jacquemai2023.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/2a/7a/e5/da/jacquemai2023.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/2a/7a/e5/da/jacquemai2023.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2a/7a/e5/da/jacquemai2023.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945640305,
+        "title": "Owner response",
+        "text": "Dear guest, \n\nThank you very much for sharing your valuable feedback on TripAdvisor. \n\nWe are extremely happy to hear that you had a memorable experience with our hotel and service and I will thank all the team for the excellent service. \nWe are looking forward to welcoming you back at any time. Please do not hesitate to contact our dedicated team of ladies in red for any assistance. \n\nKind regards, \n\nHani Selim \nGeneral Manager",
+        "lang": "en",
+        "author": "Kempinski Hotel and Residences Palm Jumeirah",
+        "published_date": "2024-04-06T22:35:49Z"
+      }
+    },
+    {
+      "id": 944602107,
+      "lang": "en",
+      "location_id": 1777174,
+      "published_date": "2024-03-31T02:56:13Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d1777174-r944602107-Reviews-Kempinski_Hotel_Residences_Palm_Jumeirah-Dubai_Emirate_of_Dubai.html?m=66827#review944602107",
+      "text": "Never met so nice and friendly people. Starting with the Concierge who helped us to arrange dinner and sightseeing tours, the excellent breakfast with staff that remembered our loved items and the housecleaning, that did their great job (especially in our teenage daughter‘s room). Thank you Sadik! The hotel is absolutely fantastic. The international breakfast, the pool and the beach. We had a fantastic massage with a lovely and skilled Eka. While lying on the beach with the view over the Palm with the two Atlantis hotels und the skyline of Dubai Marina Area was absolutely everything worth. Thank you Milena for the warm welcome and your support!",
+      "title": "Holidays at its best",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "alexandra384",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/11/default-avatar-2020-23.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944725098,
+        "title": "Owner response",
+        "text": "Dear Ms. Alexandra, \n\nThank you very much for sharing your valuable feedback on TripAdvisor. \n\nWe are extremely happy to hear that you had a memorable experience with our hotel and service and I will thank all the team for the excellent service. \nWe are looking forward to welcoming you back at any time. Please do not hesitate to contact our dedicated team of ladies in red for any assistance. \n\nKind regards, \n\nHani Selim \nGeneral Manager",
+        "lang": "en",
+        "author": "Kempinski Hotel and Residences Palm Jumeirah",
+        "published_date": "2024-03-31T22:30:11Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "location_id": "301880",
+  "name": "Four Seasons Resort Sharm El Sheikh",
+  "description": "A rare desert-and-sea sanctuary. An intimate Arabian village, with Moorish-inspired architecture, rooftop domes, arched doorways and fountain courtyards the Four Seasons Resort Sharm El Sheikh enchants guests with feelings of serenity and authenticity. Reminiscent of a hillside oasis with one- and two-storey villas, the Resort offers a multitude of walkways, breathtaking view spots, elegant swimming and recreational areas, private settings for reflection or gatherings. All facing the shimmering waters of Red Sea. On the other side, the lush greenery of Resort’s grounds stand in contrast to the stark beauty of the desert and mountaintops backdrop. All Resort’s outlets take full advantage of the vistas, offering choice of indoors and al fresco dining. A range of enclosed and outdoor function spaces provide creative options for staging meetings or social receptions. Crystal-clear blue sea is teaming with natural wonders, the Resort is part of protected marine park area, attracting diving connoisseurs and snorkeling lovers from all over the world. The consistently warm, intuitive Four Seasons service DNA permeates every detail of Resort’s life. Every staff member wholeheartedly engaged in seamless delivery of unmatched experiences to leisure and business guests alike.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d301880-Reviews-Four_Seasons_Resort_Sharm_El_Sheikh-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "1 Four Seasons Boulevard",
+    "street2": "Sinai Peninsula",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "postalcode": "",
+    "address_string": "1 Four Seasons Boulevard Sinai Peninsula, Sharm El Sheikh Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.955154",
+  "longitude": "34.39296",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d301880-Four_Seasons_Resort_Sharm_El_Sheikh-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#41 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "41"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "2393",
+  "review_rating_count": {
+    "1": "26",
+    "2": "26",
+    "3": "56",
+    "4": "235",
+    "5": "2050"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "2454",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d301880-m66827-Reviews-Four_Seasons_Resort_Sharm_El_Sheikh-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Beachfront",
+    "Restaurant",
+    "Business center",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Fitness center",
+    "Wheelchair access",
+    "Internet",
+    "Kids Activities",
+    "Free Internet",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Paid Internet",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Butler Service",
+    "Outdoor pool",
+    "Private Pools",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Sauna",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Clothes Dryer",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Desk",
+    "Diving",
+    "English",
+    "Entertainment Staff",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Head Massage",
+    "Ironing Service",
+    "Kids' Meals",
+    "Massage",
+    "Outdoor Furniture",
+    "Pool / Beach Towels",
+    "Private Check-in / Check-out",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Shoeshine",
+    "Shops",
+    "Snorkeling",
+    "Steam Room",
+    "Sun Umbrellas",
+    "Telephone",
+    "Public Wifi",
+    "Kids pool",
+    "Private Beaches",
+    "Bidet",
+    "Billiards",
+    "Body Wrap",
+    "Books, DVDs, Music for Children",
+    "Cable / Satellite TV",
+    "Express Check-in / Check-out",
+    "Children's Playground",
+    "Clothes Rack",
+    "Couples Massage",
+    "Dining Area",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Foot Bath",
+    "Foot Massage",
+    "Complimentary Welcome Drink",
+    "Full Body Massage",
+    "Gift Shop",
+    "Hand Massage",
+    "Highchairs Available",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "iPod Docking Station",
+    "Iron",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Kitchenware",
+    "Laptop Safe",
+    "Manicure",
+    "Massage Chair",
+    "Neck Massage",
+    "Newspaper",
+    "On-Demand Movies",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Personal Trainer",
+    "Picnic Area",
+    "Pool View",
+    "Pool with View",
+    "Private Bathrooms",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Shallow End",
+    "Sofa",
+    "Special Diet Menus",
+    "Strollers",
+    "Taxi Service",
+    "Tile / Marble Floor",
+    "Umbrella",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Water Sport Equipment Rentals",
+    "Wine / Champagne",
+    "Photo Copier / Fax In Business Center",
+    "Yoga Classes",
+    "Yoga Room",
+    "Beach Access"
+  ],
+  "parent_brand": "Four Seasons Hotels & Resorts",
+  "brand": "Four Seasons",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Romantic",
+    "Charming"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "86"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "784"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "85"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "900"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "177"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

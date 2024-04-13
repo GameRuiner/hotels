@@ -1,0 +1,236 @@
+{
+  "location_id": "489057",
+  "name": "Casa Fuster Hotel",
+  "description": "Classified as a 5 * GL monument, the Hotel Casa Fuster is a result of an impeccable renovation an emblematic modernist building dated of 1908 and projected by the famous architect Lluis Domènech i Montaner. The hotel is located in the city center of Barcelona, with panoramic views to the avenue of Paseo de Gracia and to the city. In addition to the magnificent panoramic terrace and rooftop swimming pool, we dispose of 105 rooms and fine gastronomic offer including high-level Mediterranean cuisine in our Restaurant Galaxó and music sessions at the Jazz Club in the Café Vienés.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d489057-Reviews-Casa_Fuster_Hotel-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Passeig de Gracia, 132",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08012",
+    "address_string": "Passeig de Gracia, 132, 08012 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.398006",
+  "longitude": "2.158171",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d489057-Casa_Fuster_Hotel-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#58 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "58"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "2153",
+  "review_rating_count": {
+    "1": "53",
+    "2": "68",
+    "3": "128",
+    "4": "454",
+    "5": "1451"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1389",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d489057-m66827-Reviews-Casa_Fuster_Hotel-Barcelona_Catalonia.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Butler Service",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Breakfast in the Room",
+    "Catalan",
+    "Doorperson",
+    "English",
+    "French",
+    "24-Hour Front Desk",
+    "Ironing Service",
+    "Italian",
+    "Laptop Safe",
+    "Massage",
+    "24-Hour Security",
+    "Spanish",
+    "Sun Terrace",
+    "Taxi Service",
+    "Wake Up Service / Alarm Clock",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Non-smoking hotel",
+    "Sauna",
+    "Car Hire",
+    "Currency Exchange"
+  ],
+  "parent_brand": "The Leading Hotels of the World, Ltd",
+  "brand": "The Leading Hotels of the World",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Art Deco Style",
+    "Romantic"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230968",
+      "name": "Gracia"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "262"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "984"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "67"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "450"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "188"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

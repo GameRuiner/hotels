@@ -1,0 +1,214 @@
+{
+  "location_id": "446842",
+  "name": "Carlton Tower Hotel Dubai",
+  "description": "Staying at the 4-star Carlton Tower Hotel Dubai in the heart of Deira offers hotel guests unrivaled views of the Dubai Creek. In addition to deluxe rooms and suites designed for both the business traveller and the leisure guest we are proud to be one of Dubai's most established hotels. Located on Baniyas Street, close to Naser Square and conveniently located within a 1-minute walk to Baniyas Metro Station offering unrivaled access to Dubai's Metro and transport network.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d446842-Reviews-Carlton_Tower_Hotel_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Baniyas Rd",
+    "street2": "Near to Deira Twin Towers",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Baniyas Rd Near to Deira Twin Towers, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.267195",
+  "longitude": "55.307014",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d446842-Carlton_Tower_Hotel_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#436 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "436"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "440",
+  "review_rating_count": {
+    "1": "37",
+    "2": "40",
+    "3": "85",
+    "4": "138",
+    "5": "140"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    }
+  },
+  "photo_count": "275",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d446842-m66827-Reviews-Carlton_Tower_Hotel_Dubai-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Room service",
+    "Restaurant",
+    "Fitness center",
+    "Business center",
+    "Wheelchair access",
+    "Internet",
+    "Suites",
+    "Free Internet",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Minibar",
+    "Conference Facilities",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Outdoor pool",
+    "Parking",
+    "Housekeeping",
+    "Doorperson",
+    "24-Hour Front Desk",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Banquet Room",
+    "Family Rooms",
+    "Safe",
+    "Facilities for Disabled Guests",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Billiards",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Cable / Satellite TV",
+    "Coffee Shop",
+    "Currency Exchange",
+    "Desk",
+    "English",
+    "Evening Entertainment",
+    "First Aid Kit",
+    "Complimentary Toiletries",
+    "Hair Dryer",
+    "Hindi",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Landmark View",
+    "Newspaper",
+    "Nightclub / DJ",
+    "Pool View",
+    "Private Bathrooms",
+    "24-Hour Security",
+    "Sun Deck",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Mid-range",
+    "City View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620596",
+      "name": "Al Rigga"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "104"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "94"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "50"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "93"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "47"
+    }
+  ],
+  "awards": []
+}

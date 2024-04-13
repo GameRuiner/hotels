@@ -1,0 +1,270 @@
+{
+  "location_id": "228648",
+  "name": "Alexandra Barcelona Hotel, Curio Collection by Hilton",
+  "description": "Welcome to the Alexandra Barcelona Hotel, Curio Collection by Hilton. This designer boutique hotel is where fascinating history, modernist details, and avant-garde meet. Moments from Passeig de Gràcia – the fashion, culture, and commercial heart of Barcelona – our hotel is a quick walk to Rambla de Catalunya, Casa Batlló, La Pedrera, and other top attractions. Our fully renovated 19th-century building reflects the charm, elegance, and spirit of our Barcelona surroundings. You will love the local photography that lines our walls, designer furniture from the ‘50s and ‘60s, original mosaic flooring, framed ceilings, and natural oak throughout the hotel. Every guest room features parquet flooring or modernist tiles, plush bedding, and complimentary WiFi. Upgrade to one of our spacious suites for a king size bed and a minimum 40-inch HDTV. Some of our suites feature a living room area with sofa, an indoor/outdoor bathtub plus bathrobe and slippers, and terrace. Alexandra Barcelona Hotel, Curio Collection by Hilton offers excellent dining experiences including a Catalan gastronomic breakfast buffet with local quality products, a brasserie featuring ingredients grown in our own vegetable garden, a Charcuterie bar with Catalan specialties, and a stunning patio terrace by the pool. We are also pleased to send delicious meals to your door, 24-hours a day. Pamper your mind and body in our outdoor pool with chill out sundeck, dry Finnish sauna, massage cabins, or fitness center. We offer an extraordinary central location with stylish indoor/outdoor function spaces for up to 150 guests – perfect for business meetings, social events, and weddings",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d228648-Reviews-Alexandra_Barcelona_Hotel_Curio_Collection_by_Hilton-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Calle Mallorca 251",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08008",
+    "address_string": "Calle Mallorca 251, 08008 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.39317",
+  "longitude": "2.161429",
+  "timezone": "Europe/Madrid",
+  "phone": "18884466677",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d228648-Alexandra_Barcelona_Hotel_Curio_Collection_by_Hilton-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#54 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "54"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "3039",
+  "review_rating_count": {
+    "1": "76",
+    "2": "107",
+    "3": "300",
+    "4": "829",
+    "5": "1728"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1024",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d228648-m66827-Reviews-Alexandra_Barcelona_Hotel_Curio_Collection_by_Hilton-Barcelona_Catalonia.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Room service",
+    "Restaurant",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Suites",
+    "Bar/Lounge",
+    "Wheelchair access",
+    "Pool",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Catalan",
+    "24-Hour Check-in",
+    "Express Check-in / Check-out",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "German",
+    "Hair Dryer",
+    "Iron",
+    "Ironing Service",
+    "Italian",
+    "Parking Garage",
+    "Pool / Beach Towels",
+    "Seating Area",
+    "24-Hour Security",
+    "Snack Bar",
+    "Spanish",
+    "Special Diet Menus",
+    "Sun Terrace",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Public Wifi",
+    "Sauna",
+    "Bathrobes",
+    "Breakfast in the Room",
+    "Cable / Satellite TV",
+    "Clothes Rack",
+    "Coffee Shop",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Free Wifi in the Business Center",
+    "Free Wired Internet in the Business Center",
+    "Full Body Massage",
+    "Hand Massage",
+    "Head Massage",
+    "Laptop Safe",
+    "Massage Chair",
+    "Neck Massage",
+    "Newspaper",
+    "Outdoor Dining Area",
+    "Pool View",
+    "Paid Private Parking On-site",
+    "Paid Private Parking Nearby",
+    "Sun Deck",
+    "Umbrella",
+    "Wardrobe / Closet",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "parent_brand": "Hilton Worldwide",
+  "brand": "Curio Collection by Hilton",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Green",
+    "City View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15565885",
+      "name": "La Dreta de l'Eixample"
+    },
+    {
+      "location_id": "15565927",
+      "name": "Passeig de Gracia"
+    },
+    {
+      "location_id": "7230970",
+      "name": "Eixample"
+    },
+    {
+      "location_id": "15565928",
+      "name": "Rambla de Catalunya"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "490"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1238"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "194"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "465"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "286"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

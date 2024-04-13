@@ -1,0 +1,234 @@
+{
+  "location_id": "736182",
+  "name": "Parrotel Aqua Park Resort",
+  "description": "On the southern tip of the Sinai Peninsula at the Nabq Bay protected area, the Parrotel Aquapark Resort, Sharm El Shiekh formerly known as Park Inn By Radisson Blu, Sharm El Sheikh is located by the Red Sea Riviera and offers 220 meters of private beach frontage overlooking Tiran Island, known for its diving and snorkeling spots. In addition, the hotel offers access to national parks, city life and Na’ama Bay for dining and shopping. The Sharm El Shiekh International Airport (SSH) lies just a 10-minute drive away. Each of the 401 rooms and suites includes modern conveniences like individual climate control. Guests can indulge in a variety of flavorful meals and refreshing drinks from our 3 restaurants and 5 lounges. After an invigorating workout in our state-of-the-art fitness centre, pamper yourself with spa and beauty treatments or a dip in the Jacuzzi®. Relax in the refreshing waters of our 2 outdoor swimming pools (1 heated in winter), bask in the sun on the lazy river",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g303855-d736182-Reviews-Parrotel_Aqua_Park_Resort-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "El-Salam",
+    "city": "Nabq Bay",
+    "country": "Egypt",
+    "postalcode": "99999",
+    "address_string": "El-Salam, Nabq Bay, Sharm El Sheikh 99999 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Nabq Bay",
+      "location_id": "303855"
+    },
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "28.025888",
+  "longitude": "34.43466",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g303855-d736182-Parrotel_Aqua_Park_Resort-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "303855",
+    "ranking_string": "#21 of 41 hotels in Nabq Bay",
+    "geo_location_name": "Nabq Bay",
+    "ranking_out_of": "41",
+    "ranking": "21"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "6386",
+  "review_rating_count": {
+    "1": "290",
+    "2": "274",
+    "3": "560",
+    "4": "1374",
+    "5": "3888"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "4181",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g303855-d736182-m66827-Reviews-Parrotel_Aqua_Park_Resort-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Restaurant",
+    "Fitness center",
+    "Room service",
+    "Bar/Lounge",
+    "Suites",
+    "Free parking",
+    "Wheelchair access",
+    "Shuttle Bus Service",
+    "Internet",
+    "Kids Activities",
+    "Ski-In / Ski-Out",
+    "Free Internet",
+    "Pets Allowed",
+    "Spa",
+    "Airport transportation",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Minibar",
+    "Safe",
+    "Rooftop Bar",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Water Park",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Sauna",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bottled Water",
+    "Car Hire",
+    "Coffee / Tea Maker",
+    "Darts",
+    "Diving",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "German",
+    "Hair Dryer",
+    "Hammam",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Polish",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shops",
+    "Steam Room",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Public Wifi",
+    "Kids pool",
+    "Electric Kettle",
+    "Full Body Massage",
+    "Kid-Friendly Buffet",
+    "Pool View",
+    "Wardrobe / Closet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Hidden Gem",
+    "Centrally Located"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "22"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1251"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "142"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "3341"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "1187"
+    }
+  ],
+  "awards": []
+}

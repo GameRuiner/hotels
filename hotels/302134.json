@@ -1,0 +1,270 @@
+{
+  "location_id": "302134",
+  "name": "Jaz Fanara Resort",
+  "description": "Straddling the cliffs of Ras Om El Sid. Jaz Fanara Resort boasts breathtaking views of the Red Sea and Ras Mohamed National Park. This elegant retreat offers couples a romantic escape and families the perfect tune for some much-needed quality time with contemporary room design that includes warm textiles plush furniture and accents of brushed steel. Its an oasis of style and luxury just two kilometres from Sharm El Sheikh city centre. Guests can enjoy a wide variety of activities from diving and snorkelling to simply relaxing on the private sandy beach. A host of on site facilities ensure that you will have as many ways to get active as you do to relax.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d302134-Reviews-Jaz_Fanara_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Ras Om El Sid",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "postalcode": "46628",
+    "address_string": "Ras Om El Sid, Sharm El Sheikh 46628 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.849863",
+  "longitude": "34.31298",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d302134-Jaz_Fanara_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#68 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "68"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "4240",
+  "review_rating_count": {
+    "1": "66",
+    "2": "116",
+    "3": "301",
+    "4": "1015",
+    "5": "2742"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "5399",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d302134-m66827-Reviews-Jaz_Fanara_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Tennis Court",
+    "Beachfront",
+    "Spa",
+    "Free parking",
+    "Business center",
+    "Internet",
+    "Kids Activities",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Minibar",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Aerobics",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Billiards",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Coffee Shop",
+    "Convenience Store",
+    "Currency Exchange",
+    "Darts",
+    "Diving",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Foot Massage",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Head Massage",
+    "Ironing Service",
+    "Italian",
+    "Kids' Meals",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Outdoor Furniture",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Snorkeling",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Public Wifi",
+    "Kids pool",
+    "Archery",
+    "Cable / Satellite TV",
+    "Children's Playground",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Complimentary Welcome Drink",
+    "Hand Massage",
+    "Highchairs Available",
+    "Manicure",
+    "Neck Massage",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Pool View",
+    "Sofa",
+    "Strollers",
+    "Tile / Marble Floor",
+    "Ukrainian",
+    "VIP Room Facilities",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Water Sport Equipment Rentals",
+    "Yoga Classes",
+    "Beach Access"
+  ],
+  "parent_brand": "Jaz Hotel Group",
+  "brand": "Jaz Hotel Group",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Mid-range",
+    "Modern"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "30"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1383"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "295"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1423"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "596"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

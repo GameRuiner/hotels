@@ -1,0 +1,373 @@
+{
+  "data": [
+    {
+      "id": 944932004,
+      "lang": "en",
+      "location_id": 302029,
+      "published_date": "2024-04-02T09:28:15Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g15516847-d302029-r944932004-Reviews-The_Oberoi_Beach_Resort_Sahl_Hasheesh-Sahl_Hasheesh_Hurghada_Red_Sea_and_Sinai.html?m=66827#review944932004",
+      "text": "We had a gorgeous suite just steps away from the beach. It was magical to drink your morning coffee looking at the waves and scurrying crabs. The staff really make this hotel, and are endlessly courteous and helpful. We especially loved the dive trip with Sharaf, Diaa and the boat captain Aymen. The onboard lunch was delicious. Thanks to Ahmed and Mahmoud who made our room look spotless everyday. It’s expensive but not really for what you get. We will be back !",
+      "title": "Magical scenery",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "hala63",
+        "user_location": {
+          "id": "186338",
+          "name": "London, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/03/b9/72/93/hala63.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/03/b9/72/93/hala63.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/03/b9/72/93/hala63.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/03/b9/72/93/hala63.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/03/b9/72/93/hala63.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945209171,
+        "title": "Owner response",
+        "text": "Dear Mrs. Hala,\n\nIt was a pleasure to have you stay with us. Thank you for your kind words about your stay at the hotel.\n\nI am very pleased knowing that you had an amazing stay and have recognized the courteousness and attention provided by our caring staff.  It is our primary objective to provide an exceptional level of service to our valued clients like you for an unforgettable Oberoi experience.\n\nThe diving center has a team that is very passionate and driven in their field. Their knowledge and experience regarding the Red Sea is unparalleled. I have shared your words of appreciation with Ayman, Sharaf, and Diaa they are delighted to learn that you have enjoyed the boat meal. \n\nThank you once again for your words of appreciation for the housekeepers Mahmoud and Ahmed, we look forward to your next visit soon.\n\nThank you.\n\nWarm Regards,\n\nAhmed Nagy \nHotel Manager",
+        "lang": "en",
+        "author": "Ahmed Nagy ",
+        "published_date": "2024-04-03T09:33:07Z"
+      }
+    },
+    {
+      "id": 944276293,
+      "lang": "en",
+      "location_id": 302029,
+      "published_date": "2024-03-28T13:02:21Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g15516847-d302029-r944276293-Reviews-The_Oberoi_Beach_Resort_Sahl_Hasheesh-Sahl_Hasheesh_Hurghada_Red_Sea_and_Sinai.html?m=66827#review944276293",
+      "text": "This is an outstanding hotel were the quality of service and the dining experience is hard to beat.  Nothing is too much trouble as the desire to please is boundless.  There is a smile on every face at every turn.  We will be back next year.",
+      "title": "It doesn't get much better.",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "stevenbZ9100QZ",
+        "user_location": {
+          "id": "186338",
+          "name": "London, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/11/default-avatar-2020-23.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944924703,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nI am delighted to read your review and thank you for taking the time to write such an excellent feedback regarding your recent stay at The Oberoi Beach Resort, Sahl Hasheesh.\n\nThe entire team were very pleased knowing that you had an outstanding stay and appreciated our warm, friendly hospitality and incomparable level of service in addition to our hotel overall facilities and location.\n\nIt's always heartwarming to hear that our cooking was appreciated. We look forward to welcoming you back in not so distant future.\n\nSincerely Yours\n\nAhmed Nagy\nHotel Manager\n\n",
+        "lang": "en",
+        "author": "Ahmed Nagy ",
+        "published_date": "2024-04-02T08:27:35Z"
+      }
+    },
+    {
+      "id": 943173249,
+      "lang": "en",
+      "location_id": 302029,
+      "published_date": "2024-03-20T13:10:22Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g15516847-d302029-r943173249-Reviews-The_Oberoi_Beach_Resort_Sahl_Hasheesh-Sahl_Hasheesh_Hurghada_Red_Sea_and_Sinai.html?m=66827#review943173249",
+      "text": "If you need a time of relaxing totally, this is the perfect place to go. Suites are very comfortable, the terrace surrounded by a wall keeps the wind out, which at least in March is very important, the beach is well kept and spacy, sunbeds are comfortable and not close to eachother",
+      "title": "Supreme experience",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "knauthe",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ea/b2/default-avatar-2020-69.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 943262315,
+        "title": "Owner response",
+        "text": "Dear Mrs. Knauthe,\n\nThank you very much for taking the time to review our property on the Trip Advisor forum. It is our honor to be at your service again and again.\n\nWe are indeed very pleased with the way you describe your experience at the hotel for relaxing and enjoying the calm and the serenity of the place. And all hotel amenities.\n\nMeanwhile, The team and I will be now looking forward to welcoming you back soon.\n\nSincerely yours\n\nAhmed Nagy \nHotel Manager\n",
+        "lang": "en",
+        "author": "Ahmed Nagy ",
+        "published_date": "2024-03-21T09:19:06Z"
+      }
+    },
+    {
+      "id": 942861356,
+      "lang": "en",
+      "location_id": 302029,
+      "published_date": "2024-03-19T04:06:22Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g15516847-d302029-r942861356-Reviews-The_Oberoi_Beach_Resort_Sahl_Hasheesh-Sahl_Hasheesh_Hurghada_Red_Sea_and_Sinai.html?m=66827#review942861356",
+      "text": "Over the last few years we have been very fortunate to have stayed in some nice hotels in various countries. This hotel is by far the best we have stayed in.Excellent service, extremely friendly staff who cannot do enough for the guests and great food in a lovely relaxing setting. It's the little things that they do and provide that make a real difference. Every member of staff from the executive chef/head of reception to the pool attendants and gardeners are all extremely friendly and helpful. I cannot recommend the hotel highly enough. ",
+      "title": "Excellent service, extremely friendly staff and great food in a lovely relaxing setting.",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "RichardA187048",
+        "user_location": {
+          "id": "187048",
+          "name": "Derby, Derbyshire, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/b8/default-avatar-2020-26.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 942983836,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nThank you for choosing to stay at The Oberoi Beach Resort, Sahl Hasheesh, and it was certainly a great pleasure having you with us. \n\nI am very pleased knowing that you had an amazing stay and have recognized the courteousness and attention provided by our caring staff.  It is our primary objective to provide an exceptional level of service to our valued clients like you for an unforgettable Oberoi experience.\n\nThank you so much for taking the time to write about us on this forum and for your valuable recommendation. \n\nMeanwhile, I look forward to welcoming you back at The Oberoi Beach Resort, Sahl Hasheesh and please feel free to contact me directly for any assistance that you may require in the future.\n\nKind Regards\n\nAhmed Nagy\nHotel Manager",
+        "lang": "en",
+        "author": "Ahmed Nagy ",
+        "published_date": "2024-03-20T04:35:40Z"
+      }
+    },
+    {
+      "id": 942603564,
+      "lang": "en",
+      "location_id": 302029,
+      "published_date": "2024-03-17T04:59:53Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g15516847-d302029-r942603564-Reviews-The_Oberoi_Beach_Resort_Sahl_Hasheesh-Sahl_Hasheesh_Hurghada_Red_Sea_and_Sinai.html?m=66827#review942603564",
+      "text": "A real luxury holiday. Everything is perfect! Suite, facilities, restaurant, SPA. Hotel very clean and safe. \nThe flowers are magnificent! People very kind and professional! Don’t hesitate if you are looking for relax and a paradise moment!",
+      "title": "Fantastic family holiday",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Francesco-Parisien",
+        "user_location": {
+          "id": "187147",
+          "name": "Paris, Ile-de-France"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/22/ff/54/c6/francesco-s.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/22/ff/54/c6/francesco-s.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/22/ff/54/c6/francesco-s.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/22/ff/54/c6/francesco-s.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/22/ff/54/c6/francesco-s.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 942878186,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nThank you for being our special guest at The Oberoi Beach Resort, Sahl Hasheesh. It was certainly a great pleasure having you and the family with us. \n\nWe are truly delighted to know that you had an unforgettable experience and were astonished by the quality of service and attention provided by our excellent team. Thank you for praising our hotel facilities as well as the relaxing atmosphere.\n\nOnce again, thank you for your exceptional feedback and we look forward to welcoming you and the family back soon.\n\nSincerely Yours,\n\nAhmed Nagy \nHotel Manager",
+        "lang": "en",
+        "author": "Ahmed Nagy ",
+        "published_date": "2024-03-19T07:01:35Z"
+      }
+    }
+  ]
+}

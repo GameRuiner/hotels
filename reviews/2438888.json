@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 320790680,
+      "lang": "en",
+      "location_id": 2438888,
+      "published_date": "2015-10-21T21:50:29Z",
+      "rating": 3,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d2438888-r320790680-Reviews-In_Vivo_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review320790680",
+      "text": "Well located a little difficult to find though. A great deal of roadworks outside the entrance made for a dusty bike parking. Internally the hotel is average. Repeated power failures in the room was annoying. A loose and exposed power socket would be dangerous with any young child. Breakfast was also quite ordinary.Staff were friendly despite the language barrier.You always get what you pay for",
+      "title": "Get what you pay for",
+      "trip_type": "Solo travel",
+      "travel_date": "2015-09-30",
+      "user": {
+        "username": "wkanenas",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f4/5d/default-avatar-2020-32.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

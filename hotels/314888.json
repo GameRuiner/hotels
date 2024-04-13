@@ -1,0 +1,247 @@
+{
+  "location_id": "314888",
+  "name": "Marco Polo Hotel",
+  "description": "At the centre of Dubai’s business and leisure district in Deira, the Marco Polo Hotel offers quick and friendly service to business and leisure travellers. A sleek, classy experience of primary hospitality filled with warm ambiance lies within the glass curtain facade. The hotel has a host of premium outlets that takes you on a culinary journey while the recreational facilities and culture of hospitality helps you unwind and enjoy a relaxed holiday. Bon voyage on a silk route to hospitality.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d314888-Reviews-Marco_Polo_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Muteena Street",
+    "street2": "Deira",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "25570",
+    "address_string": "Al Muteena Street Deira, Dubai 25570 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.273914",
+  "longitude": "55.31907",
+  "timezone": "Asia/Dubai",
+  "phone": "011971566815646",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d314888-Marco_Polo_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#373 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "373"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "1132",
+  "review_rating_count": {
+    "1": "89",
+    "2": "60",
+    "3": "171",
+    "4": "348",
+    "5": "464"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "558",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d314888-m66827-Reviews-Marco_Polo_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Fitness center",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Pool",
+    "Suites",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Minibar",
+    "Conference Facilities",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Parking",
+    "Housekeeping",
+    "Bath / Shower",
+    "Coffee Shop",
+    "Complimentary Tea",
+    "Desk",
+    "English",
+    "Complimentary Instant Cofffee",
+    "Hindi",
+    "Ironing Service",
+    "Massage",
+    "Paid Private Parking On-site",
+    "Seating Area",
+    "Secured Parking",
+    "Street Parking",
+    "Taxi Service",
+    "Room service",
+    "Free parking",
+    "Public Wifi",
+    "Breakfast included",
+    "Smoking rooms available",
+    "Refrigerator in room",
+    "Safe",
+    "Breakfast Available",
+    "Facilities for Disabled Guests",
+    "Sauna",
+    "Arabic",
+    "Baggage Storage",
+    "Bidet",
+    "Billiards",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Cable / Satellite TV",
+    "Clothes Rack",
+    "Doorperson",
+    "Electric Kettle",
+    "Filipino",
+    "First Aid Kit",
+    "Foot Massage",
+    "Complimentary Toiletries",
+    "Free Wifi in the Business Center",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Hair Dryer",
+    "Hammam",
+    "Hand Massage",
+    "Happy Hour",
+    "Head Massage",
+    "Interconnected room(s) available",
+    "Iron",
+    "Manicure",
+    "Massage Chair",
+    "Neck Massage",
+    "Nepali",
+    "Nightclub / DJ",
+    "Pedicure",
+    "Pool View",
+    "Private Bathrooms",
+    "Paid Private Parking Nearby",
+    "Paid Public Parking Nearby",
+    "24-Hour Security",
+    "Shallow End",
+    "Shoeshine",
+    "Snack Bar",
+    "Sofa",
+    "Sofa Bed",
+    "Swahili",
+    "Telephone",
+    "Urdu",
+    "Valet Parking",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet",
+    "Waxing Services"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Charming",
+    "City View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620571",
+      "name": "Al Muteena"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "172"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "364"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "110"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "263"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "161"
+    }
+  ],
+  "awards": []
+}

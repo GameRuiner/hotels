@@ -1,0 +1,251 @@
+{
+  "location_id": "301826",
+  "name": "Maritim Jolie Ville Resort & Casino Sharm El Sheikh",
+  "description": "'The hotel occupies a prime location right in the centre of Sharm el Sheikh on Naama Bay’s promenade and sandy beaches of the Red Sea, offering 392 rooms including 23 suites, in 42 bungalows. All rooms are equipped with balcony or terrace, bathroom/WC, hairdryer, climate control, minibar, safe, telephone and Satellite TV. The cosy standard rooms are located in the Sport Area, which is around 300 meters from the main building and 700 meters from the beach. The comfort rooms are situated at the Palm Area, located beside the main reception area. 50 to 500 meters from the beach is the Preferred Front Area where the elegant superior rooms are situated. Gastronomic facilities feature 9 restaurants and bars covering a broad spectrum of international cuisine including 4 à-la-carte restaurants (thereunder a French and an Italian one) and the famous Beach BBQ. 24-hour room service is provided. The hotel’s expansive grounds and sports facilities ensure active guests have plenty to do. Newly built Thai Spa and wellness center, 4 tennis courts, children club, SUBEX diving centre, parasailing, various water sports, volleyball, horse/camel riding, safaris, jeep, quad and boat trips are offered. The Maritim Jolie Ville golf course is approx. 7 km from the hotel. Two pools (one with seawater and one with freshwater) are amidst the landscaped gardens. Kids will enjoy their time in the holiday club, open the whole year through for children from 4 to 12 years. Bakery, shops, bank, limousine service and a doctor in house are also offered. Maritim Jolie Ville Resort & Casino occupies a conference center, built on 3.000 m² of land, consisting of 7 meeting rooms, the biggest of which can accommodate up to 500 persons. All meeting rooms are equipped with the latest technology. Besides, the “Casino Royale” is operated by Casinos Austria International and located opposite the hotel. Business hours of reception: 24/7",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d301826-Reviews-Maritim_Jolie_Ville_Resort_Casino_Sharm_El_Sheikh-Sharm_El_Sheikh_South_Sinai_Red_Sea_a.html?m=66827",
+  "address_obj": {
+    "street1": "El Salam St",
+    "street2": "Naama Bay",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "postalcode": "",
+    "address_string": "El Salam St Naama Bay, Sharm El Sheikh Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.911112",
+  "longitude": "34.32697",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d301826-Maritim_Jolie_Ville_Resort_Casino_Sharm_El_Sheikh-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#18 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "18"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "2572",
+  "review_rating_count": {
+    "1": "67",
+    "2": "77",
+    "3": "154",
+    "4": "387",
+    "5": "1887"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "2746",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d301826-m66827-Reviews-Maritim_Jolie_Ville_Resort_Casino_Sharm_El_Sheikh-Sharm_El_Sheikh_South_Sinai_Red_Sea_a.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Room service",
+    "Fitness center",
+    "Beachfront",
+    "Suites",
+    "Restaurant",
+    "Free parking",
+    "Wheelchair access",
+    "Breakfast included",
+    "Internet",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Casino",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Kids Club",
+    "Kids Stay Free",
+    "Sauna",
+    "Aerobics",
+    "Arabic",
+    "Baggage Storage",
+    "Billiards",
+    "Blackout Curtains",
+    "24-Hour Check-in",
+    "Coffee Shop",
+    "Currency Exchange",
+    "Diving",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness / Spa Locker Rooms",
+    "Free Private Parking Nearby",
+    "Free Public Parking Nearby",
+    "24-Hour Front Desk",
+    "Game Room",
+    "German",
+    "Indoor Play Area for Children",
+    "Ironing Service",
+    "Italian",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "Secured Parking",
+    "Snack Bar",
+    "Snorkeling",
+    "Steam Room",
+    "Street Parking",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Public Wifi",
+    "Smoking rooms available",
+    "Kids pool",
+    "Parking",
+    "Bathrobes",
+    "Car Hire",
+    "Clothes Dryer",
+    "Couples Massage",
+    "Foot Bath",
+    "Foot Massage",
+    "Complimentary Welcome Drink",
+    "Full Body Massage",
+    "Hammam",
+    "Hand Massage",
+    "Head Massage",
+    "Highchairs Available",
+    "Landmark View",
+    "Light Therapy",
+    "Makeup Services",
+    "Manicure",
+    "Neck Massage",
+    "Nightclub / DJ",
+    "Outdoor Dining Area",
+    "Parking Garage",
+    "Personal Trainer",
+    "Tennis Court Off-site",
+    "Water Park Off-site",
+    "Waterslide",
+    "Water Sport Equipment Rentals",
+    "Waxing Services",
+    "Beach Access"
+  ],
+  "parent_brand": "Maritim",
+  "brand": "Maritim",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Family",
+    "Quiet"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "37"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "635"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "96"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "946"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "537"
+    }
+  ],
+  "awards": []
+}

@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "id": 857786865,
+      "lang": "en",
+      "location_id": 17467755,
+      "published_date": "2022-09-01T09:37:39Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d17467755-r857786865-Reviews-Villa_Peri_Butik_Otel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review857786865",
+      "text": "Super clean and friendly service! \nNice rooms and delicious breakfast. The pool area was very comfortable and cute decorated. It’s a perfect place for families or children. \nThank you for a very nice stay in your hotel!",
+      "title": "Perfect hotel to relax and enjoy Alacati",
+      "trip_type": "Family",
+      "travel_date": "2022-08-31",
+      "user": {
+        "username": "koerbman",
+        "user_location": {
+          "id": "187378",
+          "name": "Krefeld, North Rhine-Westphalia"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/3d/default-avatar-2020-55.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 858316463,
+        "title": "Owner response",
+        "text": "Dear Guest. Thank you for your full rating and great comment. Every year we try to improve ourselves to make you even happier. Hope to see you again soon.\n\nLieber Gast. Vielen Dank für Ihre volle Bewertung und Ihren tollen Kommentar. Jedes Jahr versuchen wir uns zu verbessern, um Sie noch glücklicher zu machen. Hoffe dich bald wieder zu sehen.",
+        "lang": "de",
+        "author": "Koray Kesikci",
+        "published_date": "2022-09-04T04:26:00Z"
+      }
+    },
+    {
+      "id": 685943972,
+      "lang": "en",
+      "location_id": 17467755,
+      "published_date": "2019-07-02T07:42:17Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d17467755-r685943972-Reviews-Villa_Peri_Butik_Otel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review685943972",
+      "text": "Koray captain and his wife Mrs.Esra the owner of Villa Peri were friendly. Hotel is locaded in city center, close to famous Alaçatı streets. The breakfasts were fabulous and totally natural, organic. We have stayed 5 nights at room 1 and 2. Both were comfortable. World's most calm and never barking dog in the image is Latte. I suggest strongly and I am planing to come next year again. ",
+      "title": "Feel like at Home!",
+      "trip_type": "Couples",
+      "travel_date": "2019-07-31",
+      "user": {
+        "username": "onurpak",
+        "user_location": {
+          "id": "293974",
+          "name": "Istanbul"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/22/2f/dd/7c/onurpak.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/22/2f/dd/7c/onurpak.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/22/2f/dd/7c/onurpak.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/22/2f/dd/7c/onurpak.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/22/2f/dd/7c/onurpak.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 802881950,
+        "title": "Owner response",
+        "text": "Thank you for your valuable comment. We look forward to seeing you again soon.",
+        "lang": "en",
+        "author": "Koray Kesikci",
+        "published_date": "2021-08-10T04:42:21Z"
+      }
+    }
+  ]
+}

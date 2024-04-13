@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 452726849,
+      "lang": "en",
+      "location_id": 10046238,
+      "published_date": "2017-01-17T15:31:19Z",
+      "rating": 4,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d10046238-r452726849-Reviews-Siesta_Apart_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review452726849",
+      "text": "This hotel is great if you want a good nights kip! Comfortable bed, fridge, kettle, good sized tv and the bathroom is very modern. There is also a safe in the LONG wardrobes which was great! The decor in rooms was just a bit dull (dark wood/carpets/curtains) however im more for comfort, new, fresh and clean, and it was all of these things! Staff were extremely helpful and rooms were cleaned on request. ",
+      "title": "Perfect for a siesta",
+      "trip_type": "Couples",
+      "travel_date": "2017-01-31",
+      "user": {
+        "username": "Trave11ed",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/b8/default-avatar-2020-22.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "location_id": "1053361",
+  "name": "Premier Inn Dubai Investments Park",
+  "description": "Enjoy the delights of Dubai without the typical hustle and bustle of a big city with a stay in Premier Inn Dubai Investments Park. Discover the theme parks, malls and many attractions of Dubai, and Abu Dhabi, too, while staying in a quiet but convenient location, ideal for both business and leisure travellers. Sip on a coffee at Costa, or grab breakfast, lunch and dinner at Nuevo Restaurant. Refresh in the rooftop pool, or work up a sweat in the gym (temporarily closed). Kick back and relax with a beverage at Mr Toad's Pub and Kitchen, before settling down in our slumber-inducing Hypnos beds with a choice of pillows for a good night's sleep, guaranteed. Explore more of Dubai with our free shuttle service (suspended until further notice) to The Walk at JBR, Mall of the Emirates, Dubai Marina and Ibn Battuta Mall. Stay connected with free unlimited Wi-Fi throughout the hotel, or log on at our Business Centre. In line with official guidance, the Premier Inn Shuttle Bus Service is suspended until further notice. We’re sorry for any inconvenience caused, but hope you understand in these challenging times.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1053361-Reviews-Premier_Inn_Dubai_Investments_Park-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Mohammed Bin Zayed Rd",
+    "street2": "Dubai Investments Park",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Sheikh Mohammed Bin Zayed Rd Dubai Investments Park, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.008245",
+  "longitude": "55.15672",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1053361-Premier_Inn_Dubai_Investments_Park-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#206 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "206"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "2411",
+  "review_rating_count": {
+    "1": "37",
+    "2": "28",
+    "3": "141",
+    "4": "602",
+    "5": "1603"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "399",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1053361-m66827-Reviews-Premier_Inn_Dubai_Investments_Park-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Restaurant",
+    "Free parking",
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Shuttle Bus Service",
+    "Room service",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Parking",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Bottled Water",
+    "24-Hour Check-in",
+    "Express Check-in / Check-out",
+    "Coffee Shop",
+    "Desk",
+    "English",
+    "Filipino",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Indonesian",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Italian",
+    "Kids' Meals",
+    "Newspaper",
+    "Pool / Beach Towels",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shoeshine",
+    "Taxi Service",
+    "Thai",
+    "Breakfast Available",
+    "Facilities for Disabled Guests",
+    "Electric Kettle",
+    "Happy Hour",
+    "Private Bathrooms",
+    "Vending Machine",
+    "Wardrobe / Closet"
+  ],
+  "parent_brand": "Whitbread PLC",
+  "brand": "Premier Inn",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Residential Neighborhood",
+    "Family"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620636",
+      "name": "Green Community Village"
+    },
+    {
+      "location_id": "15620629",
+      "name": "Dubai Investments Park"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "1124"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "296"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "194"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "468"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "155"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

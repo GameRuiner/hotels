@@ -1,0 +1,227 @@
+{
+  "location_id": "289549",
+  "name": "Blue Sky City Beach Hotel",
+  "description": "The Blue Sky city beach hotel, which is a 4-star hotel located on the west side of the city of Rhodes, opposite the Psaropoula beach. Blue Sky Hotel offers convenient and quick access to the different sights of the city of Rhodes. It is located 15 km from Diagoras airport and 2 km from the commercial harbour and marina. The city’s shopping district, the historic Medieval city of Rhodes, the market, places of entertainment, the casino, museums and Mantraki (the tourist port of Rhodes) are found within 10 min. walking distance. All BLUE SKY city beach Hotel rooms are equipped with all the modern facilities a city hotel has to offer with en-suit bathroom with hairdryer, mini bar, colour satellite TV, high speed Internet connection, and fully air-conditioned 24 hours a day.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g635613-d289549-Reviews-Blue_Sky_City_Beach_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street1": "Psaropoulas Square",
+    "city": "Rhodes Town",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "85100",
+    "address_string": "Psaropoulas Square, Rhodes Town 85100 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Rhodes Town",
+      "location_id": "635613"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.44972",
+  "longitude": "28.216038",
+  "timezone": "Europe/Athens",
+  "phone": "011302241024091",
+  "write_review": "https://www.tripadvisor.com/UserReview-g635613-d289549-Blue_Sky_City_Beach_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "635613",
+    "ranking_string": "#11 of 122 hotels in Rhodes Town",
+    "geo_location_name": "Rhodes Town",
+    "ranking_out_of": "122",
+    "ranking": "11"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1535",
+  "review_rating_count": {
+    "1": "53",
+    "2": "61",
+    "3": "155",
+    "4": "347",
+    "5": "919"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "1146",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g635613-d289549-m66827-Reviews-Blue_Sky_City_Beach_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Restaurant",
+    "Bar/Lounge",
+    "Room service",
+    "Breakfast included",
+    "Fitness center",
+    "Internet",
+    "Spa",
+    "Airport transportation",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Sauna",
+    "Baggage Storage",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Currency Exchange",
+    "English",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Foot Massage",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Greek",
+    "Head Massage",
+    "Ironing Service",
+    "Massage",
+    "Shared Lounge / TV Area",
+    "Shops",
+    "Snack Bar",
+    "Special Diet Menus",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Wifi",
+    "Massage Chair",
+    "VIP Room Facilities",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Bay View",
+    "Ocean View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "8"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "848"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "62"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "258"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "214"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

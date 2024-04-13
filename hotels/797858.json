@@ -1,0 +1,197 @@
+{
+  "location_id": "797858",
+  "name": "Castellum Suites - All Inclusive",
+  "description": "This modern 4-star hotel is located in Rhodes Town on the outskirts of the old medieval city. A 15 minute walk takes you to the beach and to the centre of town with its fancy shops, restaurants, and lively bars. The ancient stadium and acropolis are also around the corner.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g635613-d797858-Reviews-Castellum_Suites_All_Inclusive-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street1": "8 Agiou Ioannou",
+    "street2": "",
+    "city": "Rhodes Town",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "85100",
+    "address_string": "8 Agiou Ioannou, Rhodes Town 85100 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Rhodes Town",
+      "location_id": "635613"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.442116",
+  "longitude": "28.219927",
+  "timezone": "Europe/Athens",
+  "write_review": "https://www.tripadvisor.com/UserReview-g635613-d797858-Castellum_Suites_All_Inclusive-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "635613",
+    "ranking_string": "#45 of 122 hotels in Rhodes Town",
+    "geo_location_name": "Rhodes Town",
+    "ranking_out_of": "122",
+    "ranking": "45"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "315",
+  "review_rating_count": {
+    "1": "22",
+    "2": "28",
+    "3": "57",
+    "4": "70",
+    "5": "138"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "429",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g635613-d797858-m66827-Reviews-Castellum_Suites_All_Inclusive-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Suites",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Free Wifi",
+    "Non-smoking rooms",
+    "Air conditioning",
+    "Refrigerator in room",
+    "Safe",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Outdoor pool",
+    "Housekeeping",
+    "Bath / Shower",
+    "Car Hire",
+    "Desk",
+    "English",
+    "24-Hour Front Desk",
+    "Greek",
+    "Hair Dryer",
+    "Shared Lounge / TV Area",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Wifi",
+    "Public Wifi",
+    "Cable / Satellite TV",
+    "Clothes Rack",
+    "Pool View",
+    "Private Bathrooms",
+    "Tile / Marble Floor",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "City View",
+    "Mid-range"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "7"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "154"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "9"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "51"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "50"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

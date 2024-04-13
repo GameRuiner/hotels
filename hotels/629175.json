@@ -1,0 +1,175 @@
+{
+  "location_id": "629175",
+  "name": "XVA Art Hotel",
+  "description": "A stylish and peaceful boutique hotel, XVA is set within the heart of Al Fahidi quarter, formerly known as Bastakiya, the oldest region of Dubai. Unique for its Persian architectural heritage, its maze-like alleyways and proximity to the Creek, Al Fahidi is viewed today as one of the cultural centrepoints of Dubai. XVA occupies a renovated traditional majilis-style building, boasting original architectural motifs and wind towers and three open courtyards, in which one can relax and soak up the exceptional atmosphere of this heritage space. XVA’s Art Hotel includes twelve boutique rooms, designed by well-established designers and artists from the region. These include Zayan Ghandour, Numa, Nada Debs & Karim Rashid (Gaia&Gino).The XVA Art Hotel is covered in many national and international travel publications. Featured in Condé Nast Traveller as one of the 10 hotels to stay in Dubai and in 2006 as the number 1 “Not To Miss” spot in Dubai, Wallpaper magazine mentioned us as a boutique hotel to stay. Lonely planet listed us twice in their recent Dubai guide as a place to stay and to have lunch. For transit travellers, this hotel is ideal due to its close proximity to Dubai International airport.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d629175-Reviews-XVA_Art_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Fahidi St",
+    "street2": "Opp Musallah Post Office, Near Dubai Museum",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "",
+    "address_string": "Al Fahidi St Opp Musallah Post Office, Near Dubai Museum, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.263966",
+  "longitude": "55.29971",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d629175-XVA_Art_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#307 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "307"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "838",
+  "review_rating_count": {
+    "1": "10",
+    "2": "12",
+    "3": "45",
+    "4": "208",
+    "5": "563"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "587",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d629175-m66827-Reviews-XVA_Art_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Restaurant",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Safe",
+    "Flatscreen TV",
+    "Arabic",
+    "Baggage Storage",
+    "English",
+    "24-Hour Front Desk",
+    "Public Wifi",
+    "Parking"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quaint",
+    "Historic Hotel"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620551",
+      "name": "Al Fahidi"
+    },
+    {
+      "location_id": "7282429",
+      "name": "The Creek"
+    },
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    },
+    {
+      "location_id": "15620602",
+      "name": "Al Souk Al Kabir"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "74"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "348"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "152"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "106"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "109"
+    }
+  ],
+  "awards": []
+}

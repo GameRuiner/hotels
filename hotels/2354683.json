@@ -1,0 +1,230 @@
+{
+  "location_id": "2354683",
+  "name": "The Canvas Dubai- MGallery Hotel Collection",
+  "description": "Located in the heart of historic Dubai, The Canvas Dubai - MGallery Hotel Collection offers 5-star modern accommodation. The hotel is located in the Bur Dubai district, within walking distance of the Dubai Museum, Dubai Creek, the city's heritage center and the Gold Souk. The property has a 1000 m² spa and free Wi-Fi throughout. The rooms have a modern style and include a seating area with a flat-screen TV. The bathroom has a bath, a shower and free toiletries. Guests can relax in the rooftop outdoor pool and large spa. The hotel's two restaurants, Signature by Sanjeev Kapoor and the Azalya buffet restaurant, serve contemporary international cuisine. You will also find themed bars such as Estrellas Skyline Lounge, A Canvas Cafe; Cigar Lounge and The Underdogs. Dubai International Airport is 12 km away. In addition, parking is free in the hotel's private car park.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d2354683-Reviews-The_Canvas_Dubai_MGallery_Hotel_Collection-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "23 Kuwait Street",
+    "street2": "Port Rashid",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "116656",
+    "address_string": "23 Kuwait Street Port Rashid, Dubai 116656 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.255495",
+  "longitude": "55.285538",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d2354683-The_Canvas_Dubai_MGallery_Hotel_Collection-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#135 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "135"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "5118",
+  "review_rating_count": {
+    "1": "146",
+    "2": "125",
+    "3": "258",
+    "4": "837",
+    "5": "3752"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "2258",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d2354683-m66827-Reviews-The_Canvas_Dubai_MGallery_Hotel_Collection-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Free parking",
+    "Free Wifi",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Butler Service",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Sauna",
+    "Allergy-free Room",
+    "Arabic",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "24-Hour Front Desk",
+    "Head Massage",
+    "Hindi",
+    "Ironing Service",
+    "Massage",
+    "Nightclub / DJ",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shoeshine",
+    "Soundproof Rooms",
+    "Steam Room",
+    "Sun Terrace",
+    "Taxi Service",
+    "Valet Parking",
+    "VIP Room Facilities"
+  ],
+  "parent_brand": "Accor",
+  "brand": "MGALLERY",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Modern",
+    "Art Deco Style"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620595",
+      "name": "Al Raffa"
+    },
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "867"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1454"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "487"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1129"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "822"
+    }
+  ],
+  "awards": []
+}

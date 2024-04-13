@@ -1,0 +1,235 @@
+{
+  "location_id": "306751",
+  "name": "J5 Rimal",
+  "description": "Conveniently located on Al Muraqqabat Street in Deira, J5 RIMAL provides an ideal base to discover Dubai whether you are traveling for business or leisure. Dubai International Airport (DXB) is located just 5km away and some of the city's most familiar addresses like the Dubai World Trade Centre, Dubai International Financial Centre and Downtown Dubai with the legendary Dubai Mall and Dubai Fountains all just 10km away. Al Rigga Metro Station located less than 600m walking distance from the property allows guests the freedom to begin exploring the city that is right at their doorstep the moment they arrive. Effortlessly combining the freedom and flexibility of apartment style accommodation within a hotel with all the guest services you would expect, J5 RIMAL delivers lavish comfort and space with discreet yet attentive service in equal measures. Arranged over 7 floors each of the 97 studios and 26 one and two-bedroom suites provide cleverly configured spaces to create home from home accommodation solutions for guests visiting the city for extended stays either alone or with friends and family. J5 RIMAL also offers greater flexibility and comfort for business stays in the city. With more space to work and relax, they offer the perfect solution for business visitors on temporary projects and contracts or as a relocation base. An abundance of natural light filling the lobby and public areas creates inviting and warm spaces to meet for coffee or dine at the inviting J5 Cafe, while the rooftop swimming pool, fully equipped gymnasium, sauna and steam room offer more opportunities to rejuvenate. Flexible meeting space for up to 35 guests also makes J5 RIMAL an ideal venue for small residential meetings",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d306751-Reviews-J5_Rimal-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Muraqqabat Road",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Al Muraqqabat Road, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.264147",
+  "longitude": "55.32711",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d306751-J5_Rimal-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#193 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "193"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1513",
+  "review_rating_count": {
+    "1": "12",
+    "2": "21",
+    "3": "59",
+    "4": "302",
+    "5": "1119"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "440",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d306751-m66827-Reviews-J5_Rimal-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Free parking",
+    "Kitchenette",
+    "Shuttle Bus Service",
+    "Family Rooms",
+    "Internet",
+    "Room service",
+    "Free Internet",
+    "Wheelchair access",
+    "Restaurant",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Sauna",
+    "Arabic",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Car Hire",
+    "Express Check-in / Check-out",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Newspaper",
+    "Pool / Beach Towels",
+    "24-Hour Security",
+    "Shoeshine",
+    "Snack Bar",
+    "Steam Room",
+    "Taxi Service",
+    "VIP Room Facilities"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quiet",
+    "Family"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620569",
+      "name": "Al Muraqqabat"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "404"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "317"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "164"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "314"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "162"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

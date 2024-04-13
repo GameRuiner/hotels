@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 851436887,
+      "lang": "en",
+      "location_id": 23867587,
+      "published_date": "2022-08-02T03:37:36Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d23867587-r851436887-Reviews-Rikas_Alacati-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review851436887",
+      "text": "Comfy rooms, helpful, friendly staff, easy to comunicate in English, are always ready to help with anything, Clean,amazing breacfast, walking distance from the main atractions. Pool was great for kids, not a noisy place.",
+      "title": "Great place!",
+      "trip_type": "Family",
+      "travel_date": "2022-08-31",
+      "user": {
+        "username": "756akvilev",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/de/e7/default-avatar-2020-37.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/de/e7/default-avatar-2020-37.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/de/e7/default-avatar-2020-37.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/de/e7/default-avatar-2020-37.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/de/e7/default-avatar-2020-37.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "data": [
+    {
+      "id": 931083012,
+      "lang": "en",
+      "location_id": 777118,
+      "published_date": "2023-12-26T14:05:29Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d777118-r931083012-Reviews-Radiance_Premium_Suites-Dubai_Emirate_of_Dubai.html?m=66827#review931083012",
+      "text": "This is a great place to stay. Spacious, staff are amazing and so helpful. Local shops are good. Local restaurants are great. It’s not five star but it’s also great value. Location is great with a monorail station within 2 mins walk away to get anywhere in Dubai. Will definitely be staying here again. ",
+      "title": "Great space, great location, great staff",
+      "trip_type": "Family",
+      "travel_date": "2023-12-31",
+      "user": {
+        "username": "Salwadh",
+        "user_location": {
+          "id": "186220",
+          "name": "Bristol, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/e3/default-avatar-2020-59.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/e3/default-avatar-2020-59.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/e3/default-avatar-2020-59.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/e3/default-avatar-2020-59.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/e3/default-avatar-2020-59.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 895810765,
+      "lang": "en",
+      "location_id": 777118,
+      "published_date": "2023-06-19T00:03:02Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d777118-r895810765-Reviews-Radiance_Premium_Suites-Dubai_Emirate_of_Dubai.html?m=66827#review895810765",
+      "text": "Radiance hotel is very near to Meshreq Metro station in just 2 minutes walk. The apartment was very pleasant, it was cozy and clean. The hotel team has always been friendly, patient and helpful. That impressed me the most. Thanks to front office team Nehel,George and Geeya for always giving us a smile every time we pass thru the Lobby not forgetting housekeeping team Kamal,Vinod and Baliaaj for making our apartment clean all the time.",
+      "title": "GREAT APARTMENT",
+      "trip_type": "Business",
+      "travel_date": "2023-06-30",
+      "user": {
+        "username": "Odyssey33811843536",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/a3/default-avatar-2020-38.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 918494426,
+        "title": "Owner response",
+        "text": "Dear Odyssey, It was a pleasure to have you as our guest here at Radiance Premium Suites and we are very glad to learn that our products and services exceeded your expectations. We are looking forward to having you back as a guest in our Premises. \nBest regards, \nFeroz Ismail | Hotel Manager\n\n",
+        "lang": "en",
+        "author": "Feroz Ismail",
+        "published_date": "2023-09-26T07:33:16Z"
+      }
+    },
+    {
+      "id": 888317080,
+      "lang": "en",
+      "location_id": 777118,
+      "published_date": "2023-04-30T04:53:17Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d777118-r888317080-Reviews-Radiance_Premium_Suites-Dubai_Emirate_of_Dubai.html?m=66827#review888317080",
+      "text": "What a venue! Here are the list of pros and cons I found \n\nPros: \nStaff helpful and friendly, nice friendly lifeguard at the pool too. \nRooms were very impressive, we found it to be incredibly good value for money. \nSuper impressive Smart TV - it was huge. \nThe lobby area is very clean and modern (in fact the whole hotel apartment is exceptionally clean and modern - the housekeeping staff are very efficient and good here) \nIt is right near to a supermarket and even closer to a metro, great to get around. \nI can recommend a restaurant for people walking distance - Swiss Butter, only a 6 min walk from the apartments - it was nice to have restaurants a close walk to the apartment. \n\nCons: \n\nNoise of street is audible, if you are a light sleeper you may want to choose a quieter hotel as the noise of outside could keep some people up, we didn’t find it too bad though. \nBalcony was small with no tables and chairs, maybe it is the 2 bedroom apartments which have this (we had a one bedroom)  but was enough for what we needed.\nI think it would be good for them to invest in better irons - ours was a bit of a pain to use. \n\nThat is all! Overrall I think it would be hard to find a modern spacious apartment at this price that is so convenient to see all of Dubai - but we did manage it and here served that purpose nicely! Thanks guys! \n",
+      "title": "Very good value - great apartment.",
+      "trip_type": "Couples",
+      "travel_date": "2023-04-30",
+      "user": {
+        "username": "lukerJ4536GB",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ed/00/default-avatar-2020-4.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ed/00/default-avatar-2020-4.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ed/00/default-avatar-2020-4.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ed/00/default-avatar-2020-4.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ed/00/default-avatar-2020-4.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 890644392,
+        "title": "Owner response",
+        "text": "Dear Luker, Thank you for making time and providing us with your feedback. We are pleased to learn that you were able to enjoy and relax during your staycation. On the other hand are sorry we were not able to exceed your expectation in some areas. Feedback like yours is very important to us and please be assured that your comments have been passed on to the team to see any required improvement and action. Thank you once again and we look forward to welcoming you back at Atlantis, The Palm. Best regards, Radiance Management !!!",
+        "lang": "en",
+        "author": "Sandeep Deore",
+        "published_date": "2023-05-16T16:12:40Z"
+      }
+    },
+    {
+      "id": 882421201,
+      "lang": "en",
+      "location_id": 777118,
+      "published_date": "2023-03-16T15:31:52Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d777118-r882421201-Reviews-Radiance_Premium_Suites-Dubai_Emirate_of_Dubai.html?m=66827#review882421201",
+      "text": "The 1 bedroom apartment was a good size and well furnished. \n\nThere is a small pool although it’s only open 7am to 7pm.  There is also a small but adequate gym. \n\nThe staff were excellent. Consistently friendly and helpful. \n\nThe apartment was clean and cleaned thoroughly every day. \n\nThe location is great for the Metro. Literally a 5 minute walk from the Mashreq station. However there are very few restaurants in walking distance.   So you either have to cook or travel which is a pain. \n\nIt is not a tourist area.",
+      "title": "Good option for a work trip",
+      "trip_type": "Business",
+      "travel_date": "2023-03-31",
+      "user": {
+        "username": "josmeed888",
+        "user_location": {
+          "id": "186229",
+          "name": "Guernsey, Channel Islands"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f1/06/default-avatar-2020-18.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f1/06/default-avatar-2020-18.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f1/06/default-avatar-2020-18.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f1/06/default-avatar-2020-18.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/06/default-avatar-2020-18.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 890644764,
+        "title": "Owner response",
+        "text": "Dear Jo, It was a pleasure to have you as our guest here at Radiance Premium Suites and we are very glad to learn that our products and services exceeded your expectations. We are looking forward to having you back as a guest in our Premises. Best regards, Radiance Management !!!\n\n",
+        "lang": "en",
+        "author": "Feroz Ismail",
+        "published_date": "2023-05-16T16:16:03Z"
+      }
+    },
+    {
+      "id": 877475747,
+      "lang": "en",
+      "location_id": 777118,
+      "published_date": "2023-02-04T23:52:41Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d777118-r877475747-Reviews-Radiance_Premium_Suites-Dubai_Emirate_of_Dubai.html?m=66827#review877475747",
+      "text": "My family and me recently stayed at this Radiance Premium Suites located àt Al Barsha and very close to Masreq Metro Station.\n\nThey have 01 Bedroom and 02 Bedroom Apartments with full amenities needed for a family.\n\nWe had a very enjoyable stay and highly recommend this hotel to friends and family ",
+      "title": "Great 01 Bedroom Apartment for Long Stay",
+      "trip_type": "Family",
+      "travel_date": "2023-01-31",
+      "user": {
+        "username": "Jet50801752892",
+        "user_location": {
+          "id": "295424",
+          "name": "Dubai, Emirate of Dubai"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/d0/default-avatar-2020-33.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/d0/default-avatar-2020-33.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f4/d0/default-avatar-2020-33.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f4/d0/default-avatar-2020-33.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f4/d0/default-avatar-2020-33.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 890644808,
+        "title": "Owner response",
+        "text": "Dear Jet, It was a pleasure to have you as our guest here at Radiance Premium Suites and we are very glad to learn that our products and services exceeded your expectations. We are looking forward to having you back as a guest in our Premises. Best regards, Radiance Management !!!\n\n",
+        "lang": "en",
+        "author": "Feroz Ismail",
+        "published_date": "2023-05-16T16:16:29Z"
+      }
+    }
+  ]
+}

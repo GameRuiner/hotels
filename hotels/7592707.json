@@ -1,0 +1,262 @@
+{
+  "location_id": "7592707",
+  "name": "Naama Blue Hotel",
+  "description": "Naama Blue Hotel is located at the southern end of Naama Bay, the main resort centre of Sharm El Sheikh. The hotel features a 5* PADI Dive Centre and enjoys a prime position just a few minutes stroll from the sandy beaches of Naama Bay and all the popular restaurants, clubs, bars & shops. It is also nicely set back against the hills slightly away from the hustle and bustle of the main street. The hotel has a large swimming pool with sun terrace and sun beds. There is a Pool Bar for day time refreshment as well as the Lobby Bar and 1st Floor-Sports Bar serving snacks, drinks & cocktails throughout the day as well as the main restaurant where buffets are offered. The property offers an access to a private sandy beach only a few minutes away on foot. The hotel is fantastic value for guests looking for a hotel in Naama Bay.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d7592707-Reviews-Naama_Blue_Hotel-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "King Abdullah Street",
+    "street2": "Naama Bay",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "postalcode": "11234",
+    "address_string": "King Abdullah Street Naama Bay, Sharm El Sheikh 11234 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.910017",
+  "longitude": "34.320877",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d7592707-Naama_Blue_Hotel-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#38 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "38"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "781",
+  "review_rating_count": {
+    "1": "31",
+    "2": "22",
+    "3": "37",
+    "4": "87",
+    "5": "605"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "554",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d7592707-m66827-Reviews-Naama_Blue_Hotel-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Heated pool",
+    "Pool",
+    "Internet",
+    "Restaurant",
+    "Bar/Lounge",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Refrigerator in room",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Indoor pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "BBQ Facilities",
+    "Billiards",
+    "Blackout Curtains",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Coffee Shop",
+    "Diving",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Free Public Parking Nearby",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Game Room",
+    "Gift Shop",
+    "Ironing Service",
+    "Kids' Meals",
+    "Massage",
+    "Outdoor Furniture",
+    "Pool / Beach Towels",
+    "Russian",
+    "24-Hour Security",
+    "Shared Lounge / TV Area",
+    "Shops",
+    "Snack Bar",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Telephone",
+    "Wine / Champagne",
+    "Room service",
+    "Free Internet",
+    "Wheelchair access",
+    "Airport transportation",
+    "Breakfast Available",
+    "Board Games / Puzzles",
+    "Bowling Off-site",
+    "Cable / Satellite TV",
+    "Express Check-in / Check-out",
+    "Children's Playground",
+    "Clothes Rack",
+    "Darts",
+    "First Aid Kit",
+    "Foot Massage",
+    "Full Body Massage",
+    "Hand Massage",
+    "Highchairs Available",
+    "Horseback Riding",
+    "Karaoke",
+    "Kids' Outdoor Play Equipment",
+    "Makeup Services",
+    "Neck Massage",
+    "Outdoor Dining Area",
+    "Pool View",
+    "Private Bathrooms",
+    "Paid Public Parking Nearby",
+    "Squash Off-site",
+    "Sun Deck",
+    "Tennis Court Off-site",
+    "Tile / Marble Floor",
+    "Umbrella",
+    "Walking Tours",
+    "Wardrobe / Closet",
+    "Water Park Off-site",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Classic",
+    "City View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "11"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "99"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "186"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "163"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "292"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

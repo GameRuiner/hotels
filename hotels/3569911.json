@@ -1,0 +1,169 @@
+{
+  "location_id": "3569911",
+  "name": "Fortune Pearl Hotel",
+  "description": "Fortune Pearl Hotel is an excellent choice for travelers visiting Dubai, offering a budget friendly environment alongside many helpful amenities designed to enhance your stay.\nGuest rooms offer amenities such as a flat screen TV and air conditioning, and guests can go online with free wifi offered by the hotel.\nThe property also features an on-site restaurant to make your visit even more pleasant.\nGiven the close proximity of popular landmarks, such as Deira Old Souk Abra Station (1.3 mi) and Sheikh Mohammed Centre for Cultural Understanding (1.3 mi), guests of Fortune Pearl Hotel can easily experience some of Dubai's most well known attractions.\nWhile in Dubai, you may want to check out some of the restaurants that are a short walk away from Fortune Pearl Hotel, including Al Dawaar (0.6 mi), Piano Lounge (1.2 mi), and Creekside Japanese Restaurant (1.2 mi).\nLooking to explore? Then look no further than Dream Journey (0.4 mi), Bur Dubai Abra Dock (1.1 mi), and Museum of Illusions (1.2 mi), which are some popular Dubai attractions – all conveniently located within walking distance of the hotel.\nEnjoy your stay in Dubai!\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d3569911-Reviews-Fortune_Pearl_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Omar Bin Khattab Road",
+    "street2": "After Naif Signal and behind Al Baraha",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "95661",
+    "address_string": "Omar Bin Khattab Road After Naif Signal and behind Al Baraha, Dubai 95661 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.278608",
+  "longitude": "55.313873",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d3569911-Fortune_Pearl_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#429 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "429"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "312",
+  "review_rating_count": {
+    "1": "40",
+    "2": "31",
+    "3": "53",
+    "4": "82",
+    "5": "106"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    }
+  },
+  "photo_count": "94",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d3569911-m66827-Reviews-Fortune_Pearl_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Hindi"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Budget",
+    "Family"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620570",
+      "name": "Al Murar"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "34"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "58"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "48"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "73"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "61"
+    }
+  ],
+  "awards": []
+}

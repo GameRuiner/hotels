@@ -1,0 +1,171 @@
+{
+  "location_id": "478660",
+  "name": "Manousos City Hotel",
+  "description": "Manousos Hotel is situated on the beautiful Greek Island of Rhodes, in the Dodecanese archipelago. Rhodes was once the home of the legendary Colossus, a very tall and imposing statue considered one of the Seven Wonders of the Ancient World. Today this amazing island in the Aegean Sea offers not only beautiful sandy beaches but also a wealth of ancient sites including the medieval town of Rhodes, which is itself a World Heritage Site.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g635613-d478660-Reviews-Manousos_City_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street1": "25 Leontos St",
+    "street2": "",
+    "city": "Rhodes Town",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "85100",
+    "address_string": "25 Leontos St, Rhodes Town 85100 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Rhodes Town",
+      "location_id": "635613"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.45186",
+  "longitude": "28.2175",
+  "timezone": "Europe/Athens",
+  "write_review": "https://www.tripadvisor.com/UserReview-g635613-d478660-Manousos_City_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "635613",
+    "ranking_string": "#80 of 122 hotels in Rhodes Town",
+    "geo_location_name": "Rhodes Town",
+    "ranking_out_of": "122",
+    "ranking": "80"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "278",
+  "review_rating_count": {
+    "1": "45",
+    "2": "29",
+    "3": "70",
+    "4": "68",
+    "5": "66"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    }
+  },
+  "photo_count": "263",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g635613-d478660-m66827-Reviews-Manousos_City_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Restaurant",
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Free Wifi",
+    "Non-smoking rooms",
+    "Air conditioning",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "English",
+    "Greek",
+    "Wifi",
+    "Multilingual Staff",
+    "French",
+    "German",
+    "Italian",
+    "Russian",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Centrally Located",
+    "Classic"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "22"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "83"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "34"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "43"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "64"
+    }
+  ],
+  "awards": []
+}

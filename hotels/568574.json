@@ -1,0 +1,224 @@
+{
+  "location_id": "568574",
+  "name": "Arabian Courtyard Hotel & Spa",
+  "description": "Arabian Courtyard Hotel & Spa, is an Arabian Heritage themed hotel located at the heart of Bur Dubai, in Al Fahidi historical area opposite Dubai Museum. This themed hotel is an ideal location for business & Leisure trips, as it is ideally positioned for sightseeing, shopping and business. The spacious guest rooms are comfortable and decorated in an Arabian style. Rooms come with bottled mineral water and tea and coffee making facilities, guests can enjoy free WiFi in the entire hotel. The hotel offers a wide variety of dining options including the Sherlock Holmes English Pub, Pharaoh Cafe & Restaurant, Chinese Dynasty Restaurant and the Mumtaz Mahal Indian Restaurant, you will have a unique experience through some of the most delicious and mouth-watering recipes from all over the world. Make a tour around the Indian, Mediterranean, Egyptian, Chinese, Thai or International cuisine and become a gourmet with our specialties and signature dishes. The hotel is within walking distance of t",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d568574-Reviews-Arabian_Courtyard_Hotel_Spa-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Fahidi Street",
+    "street2": "Al Seef Area, Bur Dubai",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "46500",
+    "address_string": "Al Fahidi Street Al Seef Area, Bur Dubai, Dubai 46500 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.262623",
+  "longitude": "55.297504",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d568574-Arabian_Courtyard_Hotel_Spa-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#358 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "358"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "3297",
+  "review_rating_count": {
+    "1": "77",
+    "2": "89",
+    "3": "303",
+    "4": "1289",
+    "5": "1539"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1567",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d568574-m66827-Reviews-Arabian_Courtyard_Hotel_Spa-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Fitness center",
+    "Room service",
+    "Restaurant",
+    "Internet",
+    "Suites",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Sauna",
+    "Arabic",
+    "Baggage Storage",
+    "Car Hire",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Ironing Service",
+    "Salon",
+    "24-Hour Security",
+    "Steam Room",
+    "Taxi Service",
+    "VIP Room Facilities",
+    "Business center",
+    "Breakfast Available",
+    "Evening Entertainment"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Classic",
+    "Mid-range"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620551",
+      "name": "Al Fahidi"
+    },
+    {
+      "location_id": "7282429",
+      "name": "The Creek"
+    },
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    },
+    {
+      "location_id": "15620602",
+      "name": "Al Souk Al Kabir"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "277"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1475"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "316"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "631"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "344"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

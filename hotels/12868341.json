@@ -1,0 +1,269 @@
+{
+  "location_id": "12868341",
+  "name": "Four Points by Sheraton Izmir",
+  "description": "Four Points by Sheraton Izmir is an excellent choice for travelers visiting Izmir, offering a trendy environment alongside many helpful amenities designed to enhance your stay.\nAs your “home away from home,” the hotel rooms offer air conditioning and a minibar, and getting online is easy, with free wifi available.\nGuests have access to a 24 hour front desk, room service, and 24 hour check-in while staying at Four Points by Sheraton Izmir. In addition, Four Points by Sheraton Izmir offers a fitness center and breakfast, which will help make your Izmir trip additionally gratifying. And, as an added convenience, there is free parking available to guests.\nFor those interested in checking out popular landmarks while visiting Izmir, Four Points by Sheraton Izmir is located a short distance from Alsancak Katolik Kilisesi (1.9 mi) and Kordonboyu (2.3 mi).\nIf you’re looking for an Asian restaurant, consider a visit to Sushico, Tea&Pot, or Red Dragon, which are all conveniently located a short distance from Four Points by Sheraton Izmir.\nLooking to explore? Then look no further than Old Smyrna (1.2 mi) and Ataturk Stadyumu (1.0 mi), which are some popular Izmir attractions – all conveniently located within walking distance of the hotel.\nEnjoy your stay in Izmir!\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d12868341-Reviews-Four_Points_by_Sheraton_Izmir-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Cinaralti Avenue, Ankara Asfalti Street, No: 17-A Konak",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35110",
+    "address_string": "Cinaralti Avenue, Ankara Asfalti Street, No: 17-A Konak, Izmir 35110 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.44798",
+  "longitude": "27.178057",
+  "timezone": "Europe/Istanbul",
+  "phone": "18446310595",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d12868341-Four_Points_by_Sheraton_Izmir-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#32 of 218 hotels in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "218",
+    "ranking": "32"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "136",
+  "review_rating_count": {
+    "1": "10",
+    "2": "6",
+    "3": "17",
+    "4": "29",
+    "5": "74"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "123",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d12868341-m66827-Reviews-Four_Points_by_Sheraton_Izmir-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Room service",
+    "Free Internet",
+    "Restaurant",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Air conditioning",
+    "Safe",
+    "Housekeeping",
+    "24-Hour Check-in",
+    "Turkish",
+    "Free parking",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Family Rooms",
+    "Minibar",
+    "Babysitting",
+    "Non-smoking hotel",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Baggage Storage",
+    "Express Check-in / Check-out",
+    "English",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Newspaper",
+    "Outdoor Furniture",
+    "Parking Garage",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shared Lounge / TV Area",
+    "Shops",
+    "Soundproof Rooms",
+    "Taxi Service"
+  ],
+  "parent_brand": "Marriott",
+  "brand": "Four Points",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quaint",
+    "Family"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "53"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "30"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "7"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "29"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "5"
+    }
+  ],
+  "awards": []
+}

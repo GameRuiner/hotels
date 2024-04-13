@@ -1,0 +1,98 @@
+{
+  "data": [
+    {
+      "id": 846674460,
+      "lang": "en",
+      "location_id": 24113908,
+      "published_date": "2022-07-07T11:52:35Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d24113908-r846674460-Reviews-Krem_Marin_Suites-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review846674460",
+      "text": "My wife and I had a great 7 day stay in this brand new hotel/suites. We were the first in the apartment. There were som issues with the internet and the hot water, but it was fixed very fast. All the staff was very friendly and helpful in all matters. The location is close to the beach, and there is a large supermarket behind the building. We stayed in the 4th floor. We can definetely recommend it.",
+      "title": "Great location",
+      "trip_type": "NONE",
+      "travel_date": "2022-06-30",
+      "user": {
+        "username": "Culture564013",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e3/1f/default-avatar-2020-46.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "1": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "2": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 846628750,
+      "lang": "en",
+      "location_id": 24113908,
+      "published_date": "2022-07-07T06:54:49Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d24113908-r846628750-Reviews-Krem_Marin_Suites-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review846628750",
+      "text": "We had a very nice and friendly welcome in a just brand new opened serviced Apartment House. There are several 1+1 and 1 +2 Apartment available, all of them \nwith balcony and breath taking sea view! \nThe interior of the apartment is very comfortable and modern, the kitchen is perfectly equipped and standard of cleanliness ist outstanding.\nA very worm thank you to our host Deniz and her entire team.\nWe will definitely book again.",
+      "title": "Beautiful brand new Apartments at Ilica Beach",
+      "trip_type": "NONE",
+      "travel_date": "2022-06-30",
+      "user": {
+        "username": "Cesme2022",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/e3/default-avatar-2020-59.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/e3/default-avatar-2020-59.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/e3/default-avatar-2020-59.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/e3/default-avatar-2020-59.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/e3/default-avatar-2020-59.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "1": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    }
+  ]
+}

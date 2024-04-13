@@ -1,0 +1,194 @@
+{
+  "location_id": "304846",
+  "name": "Hotel Aspen",
+  "description": "Welcome to Hotel Aspen, your Antalya “home away from home.” Hotel Aspen aims to make your visit as relaxing and enjoyable as possible, which is why so many guests continue to come back year after year.\nFor those interested in checking out popular landmarks while visiting Antalya, Hotel Aspen is located a short distance from Antaliiskaya Fortress (0.1 mi) and Hidirlik Kulesi (0.2 mi).\nGuest rooms offer amenities such as a flat screen TV, air conditioning, and a minibar, and guests can go online with free wifi offered by the hotel.\nHotel Aspen features a 24 hour front desk, baggage storage, and express check-in and check-out, to help make your stay more enjoyable. The property also boasts a pool and free breakfast. If you are driving to Hotel Aspen, free parking is available.\nIf you like barbeque restaurants, Hotel Aspen is conveniently located near Pasa Bey Kebapcisi, Keyf-i Hisar Restaurant, and Maydanoz Kofte.\nAntalya is also known for some great architectural buildings, including Kesik Minaret Mosque and Murat Pasa Mosque, which are not too far from Hotel Aspen.\nHotel Aspen puts the best of Antalya at your fingertips, making your stay both relaxing and enjoyable.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297962-d304846-Reviews-Hotel_Aspen-Antalya_Turkish_Mediterranean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "KIlIncarslan Mahallesi Mermerli Sokak No:25",
+    "city": "Antalya",
+    "state": "Antalya Province",
+    "country": "Turkiye",
+    "postalcode": "07100",
+    "address_string": "KIlIncarslan Mahallesi Mermerli Sokak No:25, Antalya 07100 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Antalya",
+      "location_id": "297962"
+    },
+    {
+      "level": "Province",
+      "name": "Antalya Province",
+      "location_id": "297960"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Mediterranean Coast",
+      "location_id": "658661"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "36.88323",
+  "longitude": "30.704258",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297962-d304846-Hotel_Aspen-Antalya_Turkish_Mediterranean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297962",
+    "ranking_string": "#45 of 504 hotels in Antalya",
+    "geo_location_name": "Antalya",
+    "ranking_out_of": "504",
+    "ranking": "45"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "503",
+  "review_rating_count": {
+    "1": "9",
+    "2": "23",
+    "3": "42",
+    "4": "153",
+    "5": "276"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "533",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297962-d304846-m66827-Reviews-Hotel_Aspen-Antalya_Turkish_Mediterranean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Restaurant",
+    "Internet",
+    "Suites",
+    "Free Internet",
+    "Bar/Lounge",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Minibar",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Parking",
+    "Baggage Storage",
+    "English",
+    "24-Hour Front Desk",
+    "Sun Umbrellas",
+    "Turkish",
+    "Airport transportation",
+    "Wifi",
+    "Breakfast included",
+    "Laundry Service",
+    "Private Balcony",
+    "Breakfast Available",
+    "Sauna",
+    "Bridal Suite",
+    "Express Check-in / Check-out",
+    "Currency Exchange",
+    "German",
+    "Ironing Service",
+    "Pool / Beach Towels",
+    "Shared Lounge / TV Area",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Mid-range",
+    "Classic"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "10"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "230"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "54"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "84"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "66"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

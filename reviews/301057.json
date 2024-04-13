@@ -1,0 +1,299 @@
+{
+  "data": [
+    {
+      "id": 929647355,
+      "lang": "en",
+      "location_id": 301057,
+      "published_date": "2023-12-16T06:25:32Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d301057-r929647355-Reviews-Wyndham_Grand_Izmir_Ozdilek-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review929647355",
+      "text": "My family and I stayed here for two nights in late June 2023. The hotel is exceptionally clean, offering well-appointed rooms with a pleasant sea view. Quality breakfast and an acceptable outdoor pool add to the hotel's merits. Easy access to shopping centers like özdilek avm (though significantly smaller than Istanbul's  özdilek avm and not comparable) and istiniye Park, along with numerous restaurants in the area, make it a good choice for staying in the city of Izmir.",
+      "title": "A good choice for staying in the city of Izmir.",
+      "trip_type": "Family",
+      "travel_date": "2023-06-30",
+      "user": {
+        "username": "1980mohammad",
+        "user_location": {
+          "id": "293999",
+          "name": "Tehran, Tehran Province"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/0f/3f/f3/f3/mohammad.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/0f/3f/f3/f3/mohammad.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/0f/3f/f3/f3/mohammad.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/0f/3f/f3/f3/mohammad.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/0f/3f/f3/f3/mohammad.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 930150173,
+        "title": "Owner response",
+        "text": "Dear Mr. Mohammad,\nGreetings from beautiful İzmir. We thank you for preferring our hotel and taking the time to share your positive and detailed feedback.\nWe are looking forward to the immense pleasure of welcoming you and your family to our sunny city, İzmir in the near future.\n\nSincerely,\n\nSabih DURALI\nGeneral Manager\nWyndham Grand İzmir Özdilek \n",
+        "lang": "en",
+        "author": "Sabih  Durali",
+        "published_date": "2023-12-18T05:59:48Z"
+      }
+    },
+    {
+      "id": 929304203,
+      "lang": "en",
+      "location_id": 301057,
+      "published_date": "2023-12-12T15:18:15Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d301057-r929304203-Reviews-Wyndham_Grand_Izmir_Ozdilek-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review929304203",
+      "text": "You might want to avoid this hotel if you value your private sphere. This place will follow your every move and has absolutely no respect for your privacy. I invited an old high school friend I met by coincidence at the promenade by the hotel to have some beers I had stacked in the mini fridge in my room. Immediately I got a call asking my friend to register at the front desk. When I asked how the knew I had someone else in the room they said they had \"observed\" us on their surveillance system. This would mean that someone followed us from the entrance to the room and then checked how many registered occupants the room has. Really disgraceful behavior for a hotel where privacy should be paramount. ",
+      "title": "No respect for privacy",
+      "trip_type": "Business",
+      "travel_date": "2023-12-31",
+      "user": {
+        "username": "de2023428",
+        "user_location": {
+          "id": "298184",
+          "name": "Tokyo, Tokyo Prefecture, Kanto"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/b8/default-avatar-2020-22.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 929475303,
+        "title": "Owner response",
+        "text": "Dear de2023428,\n\nWe regret to see the complaint here on Tripadvisor. As a five-star international chain hotel, we have CCTV in all public areas and 24-hour video and audio recording in the reception area to ensure the highest level of security for our guests. This information is available on our website and signs are posted in public areas of the hotel.\n\nWe would like to emphasize that, according to the law, it is a legal obligation for every guest entering the hotel room to identify him/herself at the reception desk. \nAccording to the law (Article 2 of the Identity Declaration Law No. 1774), all kinds of private or public accommodation facilities and businesses are obliged to keep all their records on computer and report the existing information, documents and records to the authorities.\n\nAs a hotel management, it is our top priority to operate in accordance with the law. The matter you mention is standard procedure to call the room where you are staying and request the identity information of the second person in the room. \n\nSincerely, \n\nSabih DURALI \nGeneral Manager\nWyndham Grand İzmir Özdilek\n",
+        "lang": "en",
+        "author": "Sabih  Durali",
+        "published_date": "2023-12-14T11:00:54Z"
+      }
+    },
+    {
+      "id": 927499693,
+      "lang": "en",
+      "location_id": 301057,
+      "published_date": "2023-11-26T14:12:01Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d301057-r927499693-Reviews-Wyndham_Grand_Izmir_Ozdilek-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review927499693",
+      "text": "The hotel offers - if you are lucky - a fantastic view over the bay, has a luxurious Spa and fitness area and the standard rooms are spacious. Even though slowly a little dated, they are comfortable and I would (and will) return again. The Spa area offers a wide variety of services, however missing some tranquility one would usually expect from such a place.\nThe breakfast is gorgeous, by the way - just missing some European style jams, as the Turkish style apricot (with more fruit chunks) had limited compatibility with the croissant I enjoyed 😉 (they were too big!)\nAll in all a great business, where everything works as it should and all services are available.",
+      "title": "Business quick stop.",
+      "trip_type": "Business",
+      "travel_date": "2023-11-30",
+      "user": {
+        "username": "christopherwS5129XE",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f6/0d/default-avatar-2020-34.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 927704634,
+        "title": "Owner response",
+        "text": "Dear Mr. Christopher W.,\n\nThank you for visiting Wyndham Grand İzmir Özdilek and for taking the time to share your generous compliments.\nWe are thrilled to read that you had an enjoyable experience and appreciated our service, and we have certainly shared your comments with the team!\n\nWe would like to emphasize that all the issues you mention in your review have also been shared with the team. We look forward to the great pleasure of welcoming you back to Wyndham Grand İzmir Özdilek in the near future.\n\nBest regards,\n\nSabih Duralı\nGeneral Manager \nWyndham Grand İzmir Özdilek\n",
+        "lang": "en",
+        "author": "Sabih  Durali",
+        "published_date": "2023-11-28T08:46:38Z"
+      }
+    },
+    {
+      "id": 917776960,
+      "lang": "en",
+      "location_id": 301057,
+      "published_date": "2023-09-21T23:02:39Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d301057-r917776960-Reviews-Wyndham_Grand_Izmir_Ozdilek-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review917776960",
+      "text": "Best service, best food. Friendly and helpful staff that speaks great English. Great facilities. Highly recommend. Room was very clean and has all things needed. Mini bar is not that expensive compared to 5 star hotels in general. Breakfast was perfect 10/10.",
+      "title": "Great Breakfast and Clean Facilities!",
+      "trip_type": "Solo travel",
+      "travel_date": "2023-09-30",
+      "user": {
+        "username": "Zengizens",
+        "user_location": {
+          "id": "60713",
+          "name": "San Francisco, California"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ee/10/default-avatar-2020-8.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 918466356,
+        "title": "Owner response",
+        "text": "Dear Zengizens,\n\nGreetings from beautiful İzmir. We thank you for preferring our hotel and taking the time to share your positive your post-stay survey.  \nIt is such a pleasure to receive a survey with 5 points. We look forward to welcome you back on a future visit to Wyndham Grand İzmir Özdilek.    \nSincerely,\n\nSabih DURALI\nGeneral Manager \nWyndham Grand İzmir Özdilek\n",
+        "lang": "en",
+        "author": "Sabih Durali",
+        "published_date": "2023-09-26T03:32:57Z"
+      }
+    },
+    {
+      "id": 913664693,
+      "lang": "en",
+      "location_id": 301057,
+      "published_date": "2023-08-29T08:56:48Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d301057-r913664693-Reviews-Wyndham_Grand_Izmir_Ozdilek-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review913664693",
+      "text": "I'm delighted to share my recent experience at Izmir Ozdilek Wyndham hotel once again! I had the pleasure of returning to this place, and I must say, the service was as impressive as ever. Waking up to the stunning sea and land views from my room was a daily pleasure that never lost its charm.\n\nWhat's unique about this hotel is that you get three amazing views – mountains, land, and sea –all from your room. This is a rare feature that sets it apart from other hotels.\n\nOne of the standout features of the hotel is its size. It's spacious enough that you don't need to worry about finding a place for breakfast, a sunbed by the pool, or a parking space for your car. There's plenty of everything to go around, making for a relaxed and comfortable stay.\n\nThe breakfast is a real treat. The staff keeps the food coming during breakfast and even into the evening (club), making sure everyone's appetite is satisfied. I would strongly advise taking the club rooms as they provide exclusive access to the 13th floor. Speaking of staff, they all work hard to make sure guests have a great experience. All the staff relations is impressive – they're caring, knowledgeable, and genuinely dedicated to making guests feel welcome. I found out that the hotel invests in training its staff regularly, which explains their professionalism and top-notch service.\nIn the midst of our busy lives, Izmir Ozdilek Wyndham provides a peaceful escape. It's more than just a hotel – it's a place to unwind. My return visit only confirmed that this hotel excels in providing luxury, comfort, and excellent service.\nIn a nutshell, Izmir Ozdilek Wyndham isn't just a hotel – it's a place where each moment becomes a special memory:)\n\n",
+      "title": "A Memorable Stay at Izmir Ozdilek Wyndham, outstanding services",
+      "trip_type": "NONE",
+      "travel_date": "2023-08-31",
+      "user": {
+        "username": "mesutdemir2023",
+        "user_location": {
+          "id": "188644",
+          "name": "Brussels"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/81/default-avatar-2020-43.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 915341481,
+        "title": "Owner response",
+        "text": "Dear Mr. Demir,\n\nGreetings from beautiful İzmir! Thank you for taking the time to leave such wonderful comments. I am certainly glad to hear that you had a splendid time with ourselves at the Wyndham Grand İzmir Özdilek. We certainly look forward to the opportunity to welcome you back again.\n\nBest Wishes, \n\nSabih DURALI \nGeneral Manager \nWyndham Grand İzmir Özdilek\n",
+        "lang": "en",
+        "author": "Sabih Durali",
+        "published_date": "2023-09-07T12:19:39Z"
+      }
+    }
+  ]
+}

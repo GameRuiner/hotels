@@ -1,0 +1,333 @@
+{
+  "location_id": "589362",
+  "name": "Radisson Blu Hotel, Dubai Media City",
+  "description": "Enjoy comfort and style at the Radisson Blu Hotel, Dubai Media City. Our elegant lobby welcomes you with a stylish composition of wood, stone and glass, highlighted by Swarovski chandeliers. This iconic hotel has 246 rooms and suites that extend that elegance and comfort throughout, with clean lines, warm décor, and amenities such as free high speed wireless Internet, minibars and flat-screen TVs with cable.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d589362-Reviews-Radisson_Blu_Hotel_Dubai_Media_City-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Sufouh",
+    "street2": "Dubai Media City",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "211723",
+    "address_string": "Al Sufouh Dubai Media City, Dubai 211723 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.093565",
+  "longitude": "55.1555",
+  "timezone": "Asia/Dubai",
+  "phone": "01197143669111",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d589362-Radisson_Blu_Hotel_Dubai_Media_City-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#207 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "207"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "3770",
+  "review_rating_count": {
+    "1": "94",
+    "2": "92",
+    "3": "243",
+    "4": "836",
+    "5": "2505"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1081",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d589362-m66827-Reviews-Radisson_Blu_Hotel_Dubai_Media_City-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Room service",
+    "Business center",
+    "Pool",
+    "Restaurant",
+    "Fitness center",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Free parking",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Wheelchair access",
+    "Meeting rooms",
+    "Spa",
+    "Laundry Service",
+    "Concierge",
+    "Shuttle Bus Service",
+    "Suites",
+    "Public Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Poolside Bar",
+    "Butler Service",
+    "Adult pool",
+    "Outdoor pool",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Sauna",
+    "Electric vehicle charging station",
+    "Additional Bathroom",
+    "Afrikaans",
+    "Allergy-free Room",
+    "Arabic",
+    "Baggage Storage",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "24-Hour Front Desk",
+    "Head Massage",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Massage",
+    "Newspaper",
+    "Nightclub / DJ",
+    "Paid Public Parking On-site",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shoeshine",
+    "Soundproof Rooms",
+    "Steam Room",
+    "Taxi Service",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Breakfast Available",
+    "Happy Hour",
+    "Paid Public Parking Nearby",
+    "Beach Access"
+  ],
+  "parent_brand": "Carlson Rezidor",
+  "brand": "Radisson Blu",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Green",
+    "Business"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620603",
+      "name": "Al Sufouh"
+    },
+    {
+      "location_id": "15620605",
+      "name": "Al Sufouh 2"
+    },
+    {
+      "location_id": "15620633",
+      "name": "Dubai Media City (DMC)"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "1901"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "539"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "300"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "423"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "447"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

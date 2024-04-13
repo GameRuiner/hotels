@@ -1,0 +1,262 @@
+{
+  "location_id": "12859376",
+  "name": "The Retreat Palm Dubai MGallery by Sofitel",
+  "description": "Come and discover the perfect balance of holistic wellbeing and Dubai's vibrant energy at the region's first 5-star family-friendly wellness resort, officially recognized with the all-new classification of a wellness hotel by the Dubai Department of Tourism and Commerce Marketing (Dubai Tourism). As is characteristic of MGallery's 'Serenity' properties within its portfolio of over 100 hotels, the wellness philosophy runs throughout the hotel that inspires guests to live a healthier and more sustainable lifestyle. In line with its wellness philosophy, the resort does not serve alcohol, allowing guests to cleanse and detoxify, ensuring their return home feeling energetic, fresh, and healthy. Tucked away on the exclusive coastline of Palm Jumeirah's East Crescent, the beachfront destination houses 255 picturesque rooms and suites, all designed with natural elements, earth tones, and a harmonising Feng Shui philosophy throughout. At the heart of the resort is the Rayya Wellness Centre, inspired by a 360-degree holistic wellness concept, offering organic-based products, uplifting rejuvenation experiences, and transformational wellness retreats. The unique Rayya Spa features a distinctive array of wellbeing therapies and signature spa treatments, rejuvenating cryotherapy, detoxifying facials, and the traditional Hammam. The property features four exceptional dining concepts with a range of options promoting healthy gastronomy, serving an array of nutritious food and beverage varieties made from locally sourced products. Parents are also afforded peace of mind as they rejuvenate with the resort's Rayya Kids offering, including a selection of amenities and activities exclusively for children, such as a fully supervised indoor and outdoor play area with special children's entertainment programmes. The hotel also teamed up with Meraki Wellbeing Center, and Emotional Wellness Clinic to present more options to the guests. Meraki Wellbeing Center offers non-invasive, effective, and powerful result-oriented solutions based on holistic approaches involving the mind and body. Some of its services include meditation and yoga classes, healing therapies, transformational coaching, and more. Emotional Wellness Clinic, headed by Dr Balu Pitchiah, MBBS, MRCPsych, MBA (Oxon), specializes in mental health, emotional wellbeing, and behavioural health aspects of people across all age groups. The clinic addresses an individual’s needs through high-quality medical services including diagnostic assessments, treatment recommendations, and specialist psychological counselling. This beachfront resort is perfect for those seeking to unwind, re-boot, and relax with little ones with an opportunity to explore The Retreat before deciding to commit to more in-depth bespoke wellness retreats.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d12859376-Reviews-The_Retreat_Palm_Dubai_MGallery_by_Sofitel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "East Crescent",
+    "street2": "The Palm Jumeirah",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "118237",
+    "address_string": "East Crescent The Palm Jumeirah, Dubai 118237 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.13921",
+  "longitude": "55.142525",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d12859376-The_Retreat_Palm_Dubai_MGallery_by_Sofitel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#78 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "78"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "4503",
+  "review_rating_count": {
+    "1": "102",
+    "2": "66",
+    "3": "101",
+    "4": "379",
+    "5": "3855"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "3517",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d12859376-m66827-Reviews-The_Retreat_Palm_Dubai_MGallery_by_Sofitel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Kids Activities",
+    "Beachfront",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Butler Service",
+    "Infinity Pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Kids Club",
+    "Sauna",
+    "Allergy-free Room",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Coffee Shop",
+    "Couples Massage",
+    "English",
+    "Entertainment Staff",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Free Public Parking Nearby",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Head Massage",
+    "Hindi",
+    "Ironing Service",
+    "Massage",
+    "Parking Garage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shoeshine",
+    "Spanish",
+    "Steam Room",
+    "Street Parking",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Beach Access",
+    "Kids pool",
+    "Children's Playground",
+    "Executive Lounge Access",
+    "Neck Massage",
+    "Nepali",
+    "Pool View",
+    "Wardrobe / Closet",
+    "Yoga Classes",
+    "Yoga Room"
+  ],
+  "parent_brand": "Accor",
+  "brand": "MGALLERY",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Ocean View",
+    "Romantic"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620663",
+      "name": "Palm Jumeirah"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "167"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1329"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "303"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1582"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "669"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

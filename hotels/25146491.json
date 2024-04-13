@@ -1,0 +1,228 @@
+{
+  "location_id": "25146491",
+  "name": "NH Collection Dubai The Palm",
+  "description": "NH Collection Dubai The Palm is a great choice for your beach stay in Dubai. The outdoor pool provides a splash of fun, while guests in the mood for pampering can indulge in spa services at the spa. Dining choices include 3 restaurants, and the lobby lounge is a great place to grab a cold drink. Other highlights include 2 coffee shops/cafes, a rooftop terrace and a free kid's club. Public transportation is only a short walk: Nakheel Mall Station is 7 minutes and Al Ittihad Park Station is 9 minutes.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d25146491-Reviews-NH_Collection_Dubai_The_Palm-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Plot No. 220",
+    "street2": "Palm Jumeirah",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Plot No. 220 Palm Jumeirah, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.111456",
+  "longitude": "55.138504",
+  "timezone": "Asia/Dubai",
+  "phone": "01197145497777",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d25146491-NH_Collection_Dubai_The_Palm-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#256 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "256"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "538",
+  "review_rating_count": {
+    "1": "11",
+    "2": "14",
+    "3": "21",
+    "4": "60",
+    "5": "432"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "814",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d25146491-m66827-Reviews-NH_Collection_Dubai_The_Palm-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Beachfront",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Minibar",
+    "Babysitting",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Infinity Pool",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Housekeeping",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Bottled Water",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Currency Exchange",
+    "Desk",
+    "English",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Iron",
+    "24-Hour Security",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Beach Access",
+    "Internet",
+    "Free Internet",
+    "Wheelchair access",
+    "Spa",
+    "Wifi",
+    "Public Wifi",
+    "Family Rooms",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Flatscreen TV",
+    "Facilities for Disabled Guests",
+    "Kids Club",
+    "Books, DVDs, Music for Children",
+    "Chinese",
+    "Electric Kettle",
+    "Executive Lounge Access",
+    "Filipino",
+    "First Aid Kit",
+    "French",
+    "Full Body Massage",
+    "Game Room",
+    "German",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Italian",
+    "Outdoor Dining Area",
+    "Pool with View",
+    "Private Bathrooms",
+    "Russian",
+    "Sofa",
+    "Soundproof Rooms",
+    "Spanish",
+    "Sun Deck",
+    "Sun Umbrellas",
+    "Swahili",
+    "Taxi Service",
+    "Telephone",
+    "Thai",
+    "Turkish",
+    "Valet Parking",
+    "Wake Up Service / Alarm Clock"
+  ],
+  "parent_brand": "NH Hotels",
+  "brand": "NH Collection",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Ocean View",
+    "Luxury"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "31"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "168"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "41"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "149"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "86"
+    }
+  ],
+  "awards": []
+}

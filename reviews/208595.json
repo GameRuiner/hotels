@@ -1,0 +1,222 @@
+{
+  "data": [
+    {
+      "id": 938052920,
+      "lang": "en",
+      "location_id": 208595,
+      "published_date": "2024-02-14T02:49:39Z",
+      "rating": 3,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d208595-r938052920-Reviews-Hotel_Cortes_Rambla-Barcelona_Catalonia.html?m=66827#review938052920",
+      "text": "Room was very small and poorly set out. No kettle. No safe.  No storage for clothes. Needed coat hooks and a mirror in room. No fridge. \nStaff were friendly and helpful. Location was excellent and room was quiet with a comfortable bed. Plenty of places to get a breakfast nearby.\nThe outside terrace was a waste. Nothing like the photos by management on here and in poor condition.",
+      "title": "Small basic room.",
+      "trip_type": "Couples",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "Keef1967",
+        "user_location": {
+          "id": "186402",
+          "name": "Birmingham, West Midlands, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/08/d1/99/dd/keef1967.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/08/d1/99/dd/keef1967.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/08/d1/99/dd/keef1967.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/08/d1/99/dd/keef1967.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 927302991,
+      "lang": "en",
+      "location_id": 208595,
+      "published_date": "2023-11-25T03:01:08Z",
+      "rating": 2,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d208595-r927302991-Reviews-Hotel_Cortes_Rambla-Barcelona_Catalonia.html?m=66827#review927302991",
+      "text": "A confused slow check in process. They booked us two rooms and on our app with booking.com the room and pre payment had one room. The superior double was tiny, so would hate to have not paid extra for an upgrade. The room had no basic amenities and things like a hairdryer, bin, iron and board. No Aircon. Noisy from streets outside. Location is great and easy to get to things was the only worthwhile trade off.",
+      "title": "Dissatisfied ",
+      "trip_type": "Couples",
+      "travel_date": "2023-11-30",
+      "user": {
+        "username": "Acejase13",
+        "user_location": {
+          "id": "186525",
+          "name": "Edinburgh, Scotland"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e9/ef/default-avatar-2020-66.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 926920499,
+      "lang": "en",
+      "location_id": 208595,
+      "published_date": "2023-11-22T16:13:59Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d208595-r926920499-Reviews-Hotel_Cortes_Rambla-Barcelona_Catalonia.html?m=66827#review926920499",
+      "text": "Great little hotel in the centre of the city close to everything. Clean friendly. \nRenovation work in progress so no breakfast service very quiet despite being close to las Ramblas. A perfect place for the solo traveller to stay.",
+      "title": "Little gem of a hotel",
+      "trip_type": "Solo travel",
+      "travel_date": "2023-11-30",
+      "user": {
+        "username": "susanwY3158YV",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f4/20/default-avatar-2020-31.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 922349154,
+      "lang": "en",
+      "location_id": 208595,
+      "published_date": "2023-10-21T17:49:48Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d208595-r922349154-Reviews-Hotel_Cortes_Rambla-Barcelona_Catalonia.html?m=66827#review922349154",
+      "text": "An absolutely amazing experience. Perfect stay. Would recommend this hotel to all. Was impressed with the cleanliness and friendly staff. Great value for money. Great location. Very happy. Thanks so much. ",
+      "title": "Perfect hotel stay",
+      "trip_type": "Family",
+      "travel_date": "2023-09-30",
+      "user": {
+        "username": "nicolerJ1476YT",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/de/0a/default-avatar-2020-35.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/de/0a/default-avatar-2020-35.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/de/0a/default-avatar-2020-35.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/de/0a/default-avatar-2020-35.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/de/0a/default-avatar-2020-35.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 775241526,
+      "lang": "en",
+      "location_id": 208595,
+      "published_date": "2020-10-22T19:30:56Z",
+      "rating": 4,
+      "helpful_votes": 3,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d208595-r775241526-Reviews-Hotel_Cortes_Rambla-Barcelona_Catalonia.html?m=66827#review775241526",
+      "text": "I was worried about staying at a hotel in Barcelona, but I was please to see that the hotel had taken precautions and I felt the room was clean.\n\nThe air conditioning worked and I always judge a room by how good the shower is.",
+      "title": "Covid Safe",
+      "trip_type": "NONE",
+      "travel_date": "2020-09-30",
+      "user": {
+        "username": "MLD_From_Aus",
+        "user_location": {
+          "id": "255068",
+          "name": "Brisbane, Brisbane Region, Queensland"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/df/2b/default-avatar-2020-39.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        }
+      }
+    }
+  ]
+}

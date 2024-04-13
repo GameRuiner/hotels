@@ -1,0 +1,284 @@
+{
+  "location_id": "19493242",
+  "name": "Taj Jumeirah Lakes Towers",
+  "description": "Featuring 200 contemporary rooms and suites and three distinct food and beverage venues, Taj Jumeirah Lakes Towers has gifted Dubai with a new landmark, and JLT with its first luxury hotel. It brings with it two firsts in JLT – Paros, a Mediterranean inspired rooftop pool bar and restaurant, as well as an elegant ballroom. The hotel also introduces the renowned and much-loved Shamiana from the iconic Taj Mahal Palace, Mumbai to the Middle East. Everything Taj Jumeirah Lakes Towers has to offer is a treat for the senses; whether it is the stunning cascade of light in the lobby, a palette of cuisines from 4 distinct dining venues including TJ’s – a bistro-café and NONYA - a Pan-Asian restaurant with strong influences from Singapore, Malaysia, and China. This new sensorial journey is harmonized through our intangible concept of ‘Tajness’ – a timeless combination of luxury, modernity, and legendary attention to detail. Our 5-star hotel in Dubai is conveniently located 30 minutes from both, Dubai International Airport and Dubai World Central Airport, and is a five-minute walk from the metro station. It is also within easy reach of the city’s key commercial areas, and prominent tourist attractions; making it the default new HQ for Dubai’s leisure lovers and business elite.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d19493242-Reviews-Taj_Jumeirah_Lakes_Towers-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "DMCC Plot No. 2-27, Al Thanyah, Jumeirah Lakes Towers",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "DMCC Plot No. 2-27, Al Thanyah, Jumeirah Lakes Towers, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.080585",
+  "longitude": "55.15426",
+  "timezone": "Asia/Dubai",
+  "phone": "01197145741111",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d19493242-Taj_Jumeirah_Lakes_Towers-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#91 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "91"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "1601",
+  "review_rating_count": {
+    "1": "17",
+    "2": "14",
+    "3": "26",
+    "4": "112",
+    "5": "1432"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "1287",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d19493242-m66827-Reviews-Taj_Jumeirah_Lakes_Towers-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Poolside Bar",
+    "Private Balcony",
+    "Butler Service",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Additional Bathroom",
+    "Allergy-free Room",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Board Games / Puzzles",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Chinese",
+    "Clothes Dryer",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Convenience Store",
+    "Currency Exchange",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Indonesian",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Italian",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Newspaper",
+    "Nightclub / DJ",
+    "Outdoor Furniture",
+    "Pool with View",
+    "Private Check-in / Check-out",
+    "Russian",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shoeshine",
+    "Snack Bar",
+    "Soundproof Rooms",
+    "Spanish",
+    "Special Diet Menus",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Bidet",
+    "Cable / Satellite TV",
+    "Express Check-in / Check-out",
+    "Children's Television Networks",
+    "Clothes Rack",
+    "Dining Area",
+    "Electric Kettle",
+    "Executive Lounge Access",
+    "First Aid Kit",
+    "Complimentary Welcome Drink",
+    "Happy Hour",
+    "Highchairs Available",
+    "iPod Docking Station",
+    "Landmark View",
+    "Laptop Safe",
+    "Nepali",
+    "Outdoor Dining Area",
+    "Private Bathrooms",
+    "Radio",
+    "Sofa",
+    "Tile / Marble Floor",
+    "Urdu",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Whirlpool Bathtub",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "parent_brand": "The Indian Hotels Company",
+  "brand": "Taj",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Romantic",
+    "Charming"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620646",
+      "name": "Jumeirah Lakes Towers (JLT)"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "354"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "354"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "118"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "304"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "196"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

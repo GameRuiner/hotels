@@ -1,0 +1,296 @@
+{
+  "location_id": "306741",
+  "name": "One&Only Royal Mirage",
+  "description": "The Palace at One&Only Royal Mirage conjures the magic of Arabia, a domain where guests may wander amidst the abundant gardens or stroll amongst the meandering water features. The property is generous, with 221 guest rooms and suites, on a private beach that offers rich leisure facilities, such as the impressive temperature-controlled swimming pools, water sports centre, tennis courts, golf putting green, ‘KidsOnly’ children’s facilities and, most importantly, a tranquil haven for rest and relaxation. One&Only Royal Mirage also consists of two other properties namely, Arabian Court at One&Only Royal Mirage and Residence & Spa at One&Only Royal Mirage each having their own Tripadvisor profile.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d306741-Reviews-One_Only_Royal_Mirage-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "King Salman Bin Abdulaziz Al Saud Street",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "King Salman Bin Abdulaziz Al Saud Street, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.0972",
+  "longitude": "55.1519",
+  "timezone": "Asia/Dubai",
+  "phone": "01197143999999",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d306741-One_Only_Royal_Mirage-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#161 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "161"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "3092",
+  "review_rating_count": {
+    "1": "37",
+    "2": "49",
+    "3": "113",
+    "4": "274",
+    "5": "2619"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "2903",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d306741-m66827-Reviews-One_Only_Royal_Mirage-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Beachfront",
+    "Restaurant",
+    "Business center",
+    "Fitness center",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Internet",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Free Internet",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Rooftop Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Butler Service",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Additional Bathroom",
+    "Arabic",
+    "Baggage Storage",
+    "Bathrobes",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Entertainment Staff",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Hammam",
+    "Head Massage",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Kids' Meals",
+    "Massage",
+    "Newspaper",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Shoeshine",
+    "Shops",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Books, DVDs, Music for Children",
+    "Bowling Off-site",
+    "Canoeing Off-site",
+    "Children's Television Networks",
+    "Children's Playground",
+    "Chinese",
+    "Couples Massage",
+    "Filipino",
+    "Foot Massage",
+    "Hand Massage",
+    "Indonesian",
+    "Italian",
+    "Makeup Services",
+    "Manicure",
+    "Neck Massage",
+    "Nepali",
+    "Pedicure",
+    "Serbian",
+    "Spanish",
+    "Tamil",
+    "Turkish",
+    "Ukrainian",
+    "Vietnamese",
+    "Water Sport Equipment Rentals",
+    "Waxing Services",
+    "Beach Access"
+  ],
+  "parent_brand": "Kerzner International",
+  "brand": "One&Only",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Value",
+    "Classic"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620603",
+      "name": "Al Sufouh"
+    },
+    {
+      "location_id": "7282432",
+      "name": "The Marina"
+    },
+    {
+      "location_id": "15620605",
+      "name": "Al Sufouh 2"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "138"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1544"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "74"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "721"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "183"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

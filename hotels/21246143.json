@@ -1,0 +1,175 @@
+{
+  "location_id": "21246143",
+  "name": "Royal Continental Suites Business Bay - Deluxe Apartments",
+  "description": "Located in heart of city, prime location, near the metro, well fully furnished Apartment with full equipped facilities, having Burj khalifa view / city View / Canal View Apartments",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d21246143-Reviews-Royal_Continental_Suites_Business_Bay_Deluxe_Apartments-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Marasi Drive",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "182166",
+    "address_string": "Marasi Drive, Dubai 182166 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.18344",
+  "longitude": "55.28356",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d21246143-Royal_Continental_Suites_Business_Bay_Deluxe_Apartments-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#6 of 766 Specialty lodging in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "766",
+    "ranking": "6"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "123",
+  "review_rating_count": {
+    "1": "1",
+    "2": "0",
+    "3": "0",
+    "4": "8",
+    "5": "114"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "68",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d21246143-m66827-Reviews-Royal_Continental_Suites_Business_Bay_Deluxe_Apartments-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Suites",
+    "Free Internet",
+    "Free parking",
+    "Kitchenette",
+    "Wifi",
+    "Free Wifi",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Air conditioning",
+    "Refrigerator in room",
+    "Safe",
+    "Housekeeping",
+    "Arabic",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Clothes Dryer",
+    "Coffee / Tea Maker",
+    "Desk",
+    "English",
+    "Free Private Parking Nearby",
+    "Complimentary Toiletries",
+    "Kitchenware",
+    "24-Hour Security",
+    "Room service",
+    "Wheelchair access",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Fitness center",
+    "Kids Stay Free",
+    "Sauna"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [
+    "Quaint",
+    "Luxury"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620621",
+      "name": "Business Bay"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "31"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "19"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "14"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "41"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "8"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "location_id": "14077573",
+  "name": "Queen Elizabeth 2",
+  "description": "Queen Elizabeth 2 is a historic gem and the only floating hotel in Dubai. Located in Port Rashid, Queen Elizabeth 2 is minutes away from the beach, Dubai Downtown and the metro. Dubai International Airport is a short drive away. The hotel features 447 distinctive rooms and suites, designed to meet all your needs. Indulge in international specialties at Lido restaurant, enjoy drinks and snacks at Golden Lion - the oldest pub in Dubai, or unwind with afternoon tea at Queen’s Grill. Keep up with your fitness routine in our gym and indoor pool, enjoy world-class performances in our licensed theatre, or explore Dubai’s attraction with our complimentary shuttle bus.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d14077573-Reviews-Queen_Elizabeth_2-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Mina Rashid",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Mina Rashid, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.262125",
+  "longitude": "55.280933",
+  "timezone": "Asia/Dubai",
+  "phone": "01197145268888",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d14077573-Queen_Elizabeth_2-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#288 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "288"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1653",
+  "review_rating_count": {
+    "1": "60",
+    "2": "68",
+    "3": "113",
+    "4": "296",
+    "5": "1115"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "2853",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d14077573-m66827-Reviews-Queen_Elizabeth_2-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Afrikaans",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bottled Water",
+    "24-Hour Check-in",
+    "Coffee / Tea Maker",
+    "Currency Exchange",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "Free Private Parking Nearby",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Iron",
+    "Ironing Service",
+    "Italian",
+    "Kids' Meals",
+    "Russian",
+    "Seating Area",
+    "24-Hour Security",
+    "Special Diet Menus",
+    "Sun Terrace",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Breakfast Available",
+    "Electric vehicle charging station",
+    "Bidet",
+    "Cable / Satellite TV",
+    "Clothes Rack",
+    "Electric Kettle",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Landmark View",
+    "Nepali",
+    "Private Bathrooms",
+    "Walk-in Shower",
+    "Wardrobe / Closet"
+  ],
+  "parent_brand": "Accor",
+  "brand": "Accor Live Limitless (ALL)",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Historic Hotel",
+    "Bay View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620664",
+      "name": "Port Rashid"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "79"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "577"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "114"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "389"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "259"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

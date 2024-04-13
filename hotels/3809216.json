@@ -1,0 +1,239 @@
+{
+  "location_id": "3809216",
+  "name": "Mitsis Selection Alila",
+  "description": "The Mitsis Alila Resort & Spa opened in May 2013 and is today a real jewel, with amazing architecture epitomising style. Mitsis Alila Resort & Spa lies at one of the most cosmopolitan resorts in Rhodes, Faliraki, and offers the richest all-inclusive program in Rhodes. Mitsis Alila Resort & Spa, Member of Mitsis Premium Collection, offering true services on one of Greece’s most popular islands, Rhodes. Rhodes, the jewel in the Dodecanese crown, combines all that is needed in a holiday island: beaches, nightlife, culture, scenery, greenery and comfort. The five-star resort has 314 luxurious rooms, of which 2 presidential suites, 23 junior suites with jacuzzi, 22 family rooms with private swimming pool, 22 single mountain view rooms, 102 superior twin rooms with sea view and 143 family rooms with sea or side sea view. At Mitsis Alila Resort & Spa, entertainment, leisure and wellness are centre-stage, since the resort features: a main seawater outdoor swimming pool, water slides (for adults and children) a gym, a tennis court, beach volley, a center for water sports, games room and a fully equipped spa. The resort offers numerous gastronomic delights and a choice of tastes from all around the world, such as Italian, Mexican, Asian and Greek cuisine among other, as well as numerous bars, where you can sip your wine, cocktail or even champagne.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g635612-d3809216-Reviews-Mitsis_Selection_Alila-Faliraki_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "city": "Faliraki",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "851 05",
+    "address_string": "Faliraki 851 05 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Faliraki",
+      "location_id": "635612"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.37058",
+  "longitude": "28.223122",
+  "timezone": "Europe/Athens",
+  "phone": "011302311181864",
+  "write_review": "https://www.tripadvisor.com/UserReview-g635612-d3809216-Mitsis_Selection_Alila-Faliraki_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "635612",
+    "ranking_string": "#5 of 90 hotels in Faliraki",
+    "geo_location_name": "Faliraki",
+    "ranking_out_of": "90",
+    "ranking": "5"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "3818",
+  "review_rating_count": {
+    "1": "36",
+    "2": "52",
+    "3": "193",
+    "4": "410",
+    "5": "3127"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "6011",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g635612-d3809216-m66827-Reviews-Mitsis_Selection_Alila-Faliraki_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Internet",
+    "Suites",
+    "Wheelchair access",
+    "Public Wifi",
+    "Free Wifi",
+    "Family Rooms",
+    "Refrigerator in room",
+    "Beachfront",
+    "Pool",
+    "Kids Activities",
+    "Wifi",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Free Internet",
+    "Free parking",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Tennis Court",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Babysitting",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Private Pools",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Aerobics",
+    "Allergy-free Room",
+    "Baggage Storage",
+    "Bathrobes",
+    "Bicycle Rental",
+    "Bridal Suite",
+    "Car Hire",
+    "Clothes Dryer",
+    "Couples Massage",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Greek",
+    "Head Massage",
+    "Ironing Service",
+    "Italian",
+    "Kid-Friendly Buffet",
+    "Massage",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "VIP Room Facilities",
+    "Kids pool",
+    "Children's Playground",
+    "Hand Massage",
+    "Highchairs Available",
+    "Manicure",
+    "Mountain View",
+    "Pedicure",
+    "Saltwater Pool",
+    "Sofa Bed",
+    "Photo Copier / Fax In Business Center",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Great View",
+    "Romantic"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "28"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1283"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "33"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1655"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "321"
+    }
+  ],
+  "awards": []
+}

@@ -1,0 +1,281 @@
+{
+  "data": [
+    {
+      "id": 945975397,
+      "lang": "en",
+      "location_id": 1221812,
+      "published_date": "2024-04-09T12:31:21Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g303855-d1221812-r945975397-Reviews-Aurora_Oriental_Resort_Sharm_El_Sheikh-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_an.html?m=66827#review945975397",
+      "text": "Good food in the restaurant good bar staff and really good entertainment people good entertainment on the nights in and outside the hotel the rooms where really nice the pools and the beach was really great aswell the WiFi and the tv in the room isn’t good at all",
+      "title": "Yeah biso is good at the disco got loads of energy and Islam at the bar was very nice and very helpful with anything nee",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "jacksW4394NP",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/3d/default-avatar-2020-55.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 945975090,
+      "lang": "en",
+      "location_id": 1221812,
+      "published_date": "2024-04-09T12:28:36Z",
+      "rating": 3,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g303855-d1221812-r945975090-Reviews-Aurora_Oriental_Resort_Sharm_El_Sheikh-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_an.html?m=66827#review945975090",
+      "text": "Just leaving the Aurora some good and bad points \nStaff, entertainment team are very good. Islam at the pool bar is so helpful.\nThe rooms are very dated and the facilities in the room are not good at all. \nFood is not good, we’ve eaten out every night!!\nI wouldn’t return to this hotel, it’s more like a 3 Star",
+      "title": "Not good",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "lotty0706",
+        "user_location": {
+          "id": "190744",
+          "name": "Scarborough, Scarborough District, North Yorkshire, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/11/default-avatar-2020-23.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 945676138,
+      "lang": "en",
+      "location_id": 1221812,
+      "published_date": "2024-04-07T06:30:45Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g303855-d1221812-r945676138-Reviews-Aurora_Oriental_Resort_Sharm_El_Sheikh-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_an.html?m=66827#review945676138",
+      "text": "Amazing service, the best BeBo and Taivfik from the boho bar and Mohamed from the lobby bar, very nice, friendly and smiling. BeBo will always talk and say hello. The rooms are large, transparent and nicely decorated. the best trips and discounts are at Jamal's on the beach, you can also learn a lot about their religion and other interesting things from him. The food is good, the soups are the best. The animators are also funny and always communicate, even if they don't know the language. Overall, we rate the entire trip as excellent, you can relax, those who want to take part in the attractions, those who don't, don't, everyone is satisfied. We recommend it to everyone, we will definitely come back here.",
+      "title": "Amazing hotel and wonderful service",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "noniew2024",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/df/2b/default-avatar-2020-39.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945815973,
+        "title": "Owner response",
+        "text": "Dear no nie\nThank you for your feedback. We are glad that you had a wonderful experience and enjoyed every aspect of your stay. Our staff take great pride in providing excellent service and we are delighted to hear that they were able to exceed your expectations.\nWe are especially pleased to hear that all the staff and animation made your stay so special. We will be sure to pass on your kind words to them. Looking forward to seeing you coming again.\nBest Regards,\nTeam of Aurora oriental Resort",
+        "lang": "en",
+        "author": "Guest Relation",
+        "published_date": "2024-04-08T06:55:46Z"
+      }
+    },
+    {
+      "id": 945561747,
+      "lang": "en",
+      "location_id": 1221812,
+      "published_date": "2024-04-06T08:46:30Z",
+      "rating": 5,
+      "helpful_votes": 2,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g303855-d1221812-r945561747-Reviews-Aurora_Oriental_Resort_Sharm_El_Sheikh-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_an.html?m=66827#review945561747",
+      "text": "Fantastic Holiday for the family!\n\nWe are currently still here on holiday but felt the need to post a review as we have had such a good time so far!\n\nThe service in this hotel is 5 Star, all staff attend your needs, bring drinks to your table, set up sunbeds for you, they go above and beyond!\n\nThe rooms could do with updating but they are spacious, beds are comfy, new bottles of water daily if you ask.\n\nThe aircon was hot when we arrived but I asked for this to be looked st by reception and they sorted straight away.\n\nReally good location with private beach and plenty of bars, restaurants and shops put of the front of the hotel.\n\nThe entertainment is good, although the kids slide could do with being open more hours of the day.\n\nA special shout out to Islam Asaad the bar tender located at the main pool side! He is always smiling and helping out where he can. Bringing drinks to us when he is busy! He is a credit to the hotel!!!\n\nWe will return here!\n\nThanks 😊",
+      "title": "Fantastic family holiday",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "K9216FLpaulb",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e5/66/default-avatar-2020-53.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e5/66/default-avatar-2020-53.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e5/66/default-avatar-2020-53.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e5/66/default-avatar-2020-53.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e5/66/default-avatar-2020-53.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945667811,
+        "title": "Owner response",
+        "text": "\nDear Paul\nThank you for your wonderful review! The team is delighted to hear that you had a great experience and enjoyed all the activities we have to offer. \nThank you for your kind words about staff at Aurora Oriental Resort to make your stay a memorable one. We strive to provide our guests with the best possible experience and we are delighted that it exceeded your expectations.\nStay healthy and I wish you all the best,\nTeam of Aurora oriental Resort",
+        "lang": "en",
+        "author": "Guest Relation",
+        "published_date": "2024-04-07T05:08:10Z"
+      }
+    },
+    {
+      "id": 945430086,
+      "lang": "en",
+      "location_id": 1221812,
+      "published_date": "2024-04-05T06:33:00Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g303855-d1221812-r945430086-Reviews-Aurora_Oriental_Resort_Sharm_El_Sheikh-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_an.html?m=66827#review945430086",
+      "text": "As on previous visits, just stayed overnight before moving on. Check in swift, efficient and friendly. The rooms are large, but a bit dated with a big, well-equipped bathroom. I only book bed and breakfast as I arrive late evening, but the complimentary supper delivered to the room is a nice bonus. The room I had was on the outside of the hotel so did not have the best of views, but it did not matter as I was only staying overnight. The room had a nice large bed and good air con and I had a good night's sleep. As the restaurant area was being refurbished, breakfast was served in another area and was a very nice buffet and a bonus as it was self serve unlike on previous visits. All the staff are very friendly and helpful. I spent a couple of hours round the pool in the morning, and it was very relaxing, although the pool I sat by was not heated so was very cold. Overall great value and will return in October on next trip to Sharm.",
+      "title": "Another good short stay.",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "scubacol11",
+        "user_location": {
+          "id": "190734",
+          "name": "Rotherham, South Yorkshire, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/03/d1/17/a8/scubacol11.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/03/d1/17/a8/scubacol11.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/03/d1/17/a8/scubacol11.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/03/d1/17/a8/scubacol11.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/03/d1/17/a8/scubacol11.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945549588,
+        "title": "Owner response",
+        "text": "Dear scubaco\nThank you so much for taking the time to share your wonderful feedback following your most recent experience at Aurora oriental Resort. We are delighted that we had the opportunity to welcome you and that you had such an outstanding time. We are so happy to hear that your experience was 4 stars as our staff take great pride in the service we provide on a daily basis. It was an immense pleasure hosting you and we look forward to welcoming you again in the near future. Thanks again!\nBest regards,\nAurora Oriental Resort team\n",
+        "lang": "en",
+        "author": "Guest Relation",
+        "published_date": "2024-04-06T06:47:21Z"
+      }
+    }
+  ]
+}

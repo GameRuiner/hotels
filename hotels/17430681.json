@@ -1,0 +1,311 @@
+{
+  "location_id": "17430681",
+  "name": "Millennium Plaza Downtown Suites",
+  "description": "The stylish iconic Millennium Plaza Downtown Suites is in the heart of the city, 5-minute walk from the World Trade Centre, across the road from the Museum of The Future and Dubai Financial Centre, 15 minutes from Burj Khalifa the tallest building in the world, Dubai Mall, one hour away from Dubai Expo 2020 city, 10 minutes from Dubai International airport.  The 568 rooms and suites designed to accommodate business and leisure travellers.  The hotel offers upscale dining options of restaurants giving you the opportunity to travel around the world without ever leaving the hotel. These restaurants include Trader Vic's offers delicious cuisine and amazing cocktails, Harvesters British restaurant and pub and Al Fresco an authentic Italian restaurant.  10 meeting rooms range from spacious interconnected ballrooms, capable of hosting up to 1,400 guests, to smaller rooms that can be configured for intimate soirées and break-away sessions.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d17430681-Reviews-Millennium_Plaza_Downtown_Suites-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Zayed Al Nahyan Road",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Sheikh Zayed Al Nahyan Road, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.220531",
+  "longitude": "55.280704",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d17430681-Millennium_Plaza_Downtown_Suites-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#280 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "280"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "413",
+  "review_rating_count": {
+    "1": "13",
+    "2": "11",
+    "3": "13",
+    "4": "30",
+    "5": "346"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "154",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d17430681-m66827-Reviews-Millennium_Plaza_Downtown_Suites-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Pool",
+    "Kids Activities",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Kitchenette",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Refrigerator in room",
+    "Minibar",
+    "Babysitting",
+    "Safe",
+    "Rooftop Pool",
+    "Breakfast Buffet",
+    "Indoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Arabic",
+    "ATM On Site",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Convenience Store",
+    "English",
+    "Filipino",
+    "Fitness Classes",
+    "French",
+    "24-Hour Front Desk",
+    "German",
+    "Hindi",
+    "Ironing Service",
+    "Italian",
+    "Kitchenware",
+    "Massage",
+    "Portuguese",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Taxi Service",
+    "Conference Facilities",
+    "Kids Stay Free",
+    "Cable / Satellite TV",
+    "Full Body Massage",
+    "Urdu",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "parent_brand": "Millennium & Copthorne Hotels",
+  "brand": "Millennium",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "City View",
+    "Charming"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620671",
+      "name": "Trade Centre"
+    },
+    {
+      "location_id": "15620672",
+      "name": "Trade Centre 1"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "179"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "30"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "27"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "110"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "38"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

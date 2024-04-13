@@ -1,0 +1,179 @@
+{
+  "location_id": "301048",
+  "name": "Susuzlu Atlantis Hotel",
+  "description": "If you’re looking for a family-friendly hotel in Izmir, look no further than Susuzlu Atlantis Hotel.\nFor those interested in checking out popular landmarks while visiting Izmir, Susuzlu Atlantis Hotel is located a short distance from Saint Polycarp Church (0.3 mi) and Synagogue Street (Havra Sokagi) (0.4 mi).\nYou’ll enjoy relaxing rooms that offer air conditioning and a minibar, and you can stay connected during your stay as Susuzlu Atlantis Hotel offers guests free wifi.\nThe hotel features a 24 hour front desk, room service, and currency exchange. Plus, Susuzlu Atlantis Hotel offers free breakfast, providing a pleasant respite from your busy day. For guests with a vehicle, free parking is available.\nTravelers looking to enjoy some souvlaki can head to Antepli Ramazan Usta. Otherwise, you may want to check out a seafood restaurant such as Kordon Yengec Restaurant, Deniz Restaurant, or Adabeyi Balik Restaurant.\nIzmir is also known for some great history museums, including Ethnography Museum and Yesilova Hoyugu Ziyaretci Merkezi, which are not too far from Susuzlu Atlantis Hotel.\nThe staff at Susuzlu Atlantis Hotel looks forward to serving you during your upcoming visit.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d301048-Reviews-Susuzlu_Atlantis_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Cankaya Mah. Gazi Bulv. No:128 Basmane, Konak",
+    "street2": "",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35230",
+    "address_string": "Cankaya Mah. Gazi Bulv. No:128 Basmane, Konak, Izmir 35230 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.42414",
+  "longitude": "27.13974",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d301048-Susuzlu_Atlantis_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#56 of 218 hotels in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "218",
+    "ranking": "56"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "56",
+  "review_rating_count": {
+    "1": "1",
+    "2": "1",
+    "3": "20",
+    "4": "17",
+    "5": "17"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "45",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d301048-m66827-Reviews-Susuzlu_Atlantis_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Wheelchair access",
+    "Breakfast included",
+    "Air conditioning",
+    "Room service",
+    "Free parking",
+    "Restaurant",
+    "Bar/Lounge",
+    "Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Minibar",
+    "Non-smoking hotel",
+    "Safe",
+    "Allergy-free Room",
+    "Baggage Storage",
+    "Bicycles Available",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Express Check-in / Check-out",
+    "Currency Exchange",
+    "English",
+    "Free Private Parking Nearby",
+    "24-Hour Front Desk",
+    "German",
+    "Gift Shop",
+    "Ironing Service",
+    "Newspaper",
+    "Private Check-in / Check-out",
+    "Turkish",
+    "VIP Room Facilities"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Budget",
+    "Family"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "17"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "8"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "5"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "9"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "13"
+    }
+  ],
+  "awards": []
+}

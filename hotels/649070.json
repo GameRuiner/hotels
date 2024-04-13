@@ -1,0 +1,206 @@
+{
+  "location_id": "649070",
+  "name": "Fortune Deira Hotel",
+  "description": "Conveniently located near the Souq Naif in the Deira District of Dubai and close to many travelers attractions, business districts and shopping malls .Fortune Hotel Deira offers 80 well appointed rooms and suites and most vibrant F&B outlets showcasing the best of international cuisine and varied live entertainment outlets. Located only at 5 minutes' walk from the Union Metro Station and Al Ghurair Shopping Mall, Dubai International Airport and Al Mamzar Beach and Park are at 10 minutes' drive.The air-conditioned rooms at the Fortune Hotel Deira feature with city views a private bathroom, LCD TV's with satellite channels, direct dialing telephone and mini bar. Hot Buffet breakfast is offered at the Restaurant between 7:00 AM to 10:00 AM. Room Service is available round the clock. Located at the lobby level Fortune Cafe offers light snacks, Tea / Coffee and fresh juices.The highest standard of hospitality and impeccable personalized service is what you will find at Fortune Hotel Deira.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d649070-Reviews-Fortune_Deira_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Omar Bin Al Khattab Road",
+    "street2": "Opp. Dewa Office",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "49185",
+    "address_string": "Omar Bin Al Khattab Road Opp. Dewa Office, Dubai 49185 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.274492",
+  "longitude": "55.315346",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d649070-Fortune_Deira_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#486 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "486"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "118",
+  "review_rating_count": {
+    "1": "17",
+    "2": "12",
+    "3": "25",
+    "4": "34",
+    "5": "30"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss2.5.svg",
+      "value": "2.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    }
+  },
+  "photo_count": "89",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d649070-m66827-Reviews-Fortune_Deira_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Room service",
+    "Bar/Lounge",
+    "Public Wifi",
+    "Non-smoking rooms",
+    "Concierge",
+    "Air conditioning",
+    "Safe",
+    "Breakfast Buffet",
+    "Arabic",
+    "Internet",
+    "Kids Activities",
+    "Free Internet",
+    "Wheelchair access",
+    "Restaurant",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Dry Cleaning",
+    "Laundry Service",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Flatscreen TV",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Billiards",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Currency Exchange",
+    "Desk",
+    "Electric Kettle",
+    "Complimentary Toiletries",
+    "Free Wifi in the Business Center",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hand Massage",
+    "Happy Hour",
+    "Hindi",
+    "Neck Massage",
+    "Nightclub / DJ",
+    "Private Bathrooms",
+    "Paid Private Parking On-site",
+    "Paid Private Parking Nearby",
+    "Paid Public Parking Nearby",
+    "Paid Public Parking On-site",
+    "24-Hour Security",
+    "Shoeshine",
+    "Taxi Service",
+    "Tile / Marble Floor",
+    "Urdu",
+    "Wake Up Service / Alarm Clock"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Budget",
+    "Centrally Located"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620661",
+      "name": "Naif"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "24"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "19"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "19"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "20"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "22"
+    }
+  ],
+  "awards": []
+}

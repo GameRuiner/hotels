@@ -1,0 +1,333 @@
+{
+  "data": [
+    {
+      "id": 945376405,
+      "lang": "en",
+      "location_id": 306684,
+      "published_date": "2024-04-04T16:45:31Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d306684-r945376405-Reviews-Hyatt_Regency_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review945376405",
+      "text": "The hotel in terms of fixtures and fittings is showing its age, and if you expect modern 5 star levels of luxury you will be disappointed. What it lacks in luxury is made up for though by some of the friendliest staff I have met in a hotel. We had the club access and were blown away by Florence and her team in the club lounge, where nothing was too much bother and always had a friendly smile. I would definitely recommend the club access which was well worth it for open alcoholic bar for 2 hours in an evening and a food spread that meant that you didn't need to buy food anywhere else. It really is like having half board. In terms of facilities, there is a pool outside, a free spa of sauna, steam room jacuzzi (all seen better days) and randomly an ice rink next door. Room was also tired and felt like I was stepping back in time to the 80s. Overall 3 star for the hotel and facilities, 5 star for the staff. Other shout outs to Roshini in club lounge, Faiq with the bags, and Farid cleaning the room.",
+      "title": "Dated hotel, brilliant staff",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "BLlimited",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ea/2e/default-avatar-2020-67.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945787745,
+        "title": "Owner response",
+        "text": "Dear BLlimited,\nThank you for taking the time to write this review.\nWe are delighted that you had a great experience with us. \nWe will certainly share your comments with the team who would be happy to receive such positive feedback.\nConcerning your comment, your feedback has been taken into consideration for further development. \nHowever, we accept your review and hope this did not cause too much inconvenience.\nIt has been a pleasure having you as our distinguished guest and we look forward to your next visit.\nWarm Regards,\nHyatt Regency Dubai\n",
+        "lang": "en",
+        "author": "Hyatt Regency Dubai Galleria",
+        "published_date": "2024-04-08T02:34:57Z"
+      }
+    },
+    {
+      "id": 945030781,
+      "lang": "en",
+      "location_id": 306684,
+      "published_date": "2024-04-03T05:37:59Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d306684-r945030781-Reviews-Hyatt_Regency_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review945030781",
+      "text": "Very Good Hotel , very kind staff, with good kitchens inside , with ice ring, fitness, swimming pools, good consjeur . Rooms are quiet &  very clean. It's little bit distance from the center but is close to airport . Is located  close to metro, Gold Souk - old Deira,   and located around good restaurants around.  \nVery good price according to others 5 star hotels.  We did family stay.",
+      "title": "Hyatt , Regnecy - great hotel in Dubaj - I  will back  there",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "PiotrG_13",
+        "user_location": {
+          "id": "274772",
+          "name": "Krakow, Lesser Poland Province, Southern Poland"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/2b/c7/19/ee/peter-g.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/2b/c7/19/ee/peter-g.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/2b/c7/19/ee/peter-g.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/2b/c7/19/ee/peter-g.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945307062,
+        "title": "Owner response",
+        "text": "Dear PiotrG_13,\nWe appreciate you for taking the time to write this review.\nWe are pleased to hear that you had a great experience during your stay with the staff and the facilities. \nWe will certainly share your comments with our team, who would be happy to hear about your positive feedback.\nIt has been a pleasure having you as our distinguished guest, and we look forward to welcoming you back in the future.\nBest Regards,\nHyatt Regency Dubai",
+        "lang": "en",
+        "author": "Hyatt Regency Dubai Galleria",
+        "published_date": "2024-04-04T05:53:32Z"
+      }
+    },
+    {
+      "id": 944885428,
+      "lang": "en",
+      "location_id": 306684,
+      "published_date": "2024-04-02T02:07:25Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d306684-r944885428-Reviews-Hyatt_Regency_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review944885428",
+      "text": "We truly had the most wonderful time at this hotel. The staff are so polite and friendly and really go the extra mile to put a smile on your face. It was my birthday while we were there and they gave me a lovely cake at breakfast with candles and sang for me. It was so lovely! The area is in the older part of Dubai and you can easily walk to the Gold Souk and the Gold Souk metro station is even closer. The rooms are spotless and the bath is just huge! So relaxing after a long day of exploring. The restaurants in the hotel are also great! Can definitely recommend getting up to Helios for the sunset. Amazing views. Pool was great and always able to get fresh towels when needed. I would love to be back soon.",
+      "title": "Perfect Service",
+      "trip_type": "Couples",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "L2925TFalexandrab",
+        "user_location": {
+          "id": "186361",
+          "name": "Oxford, Oxfordshire, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1d/a4/0e/11/l2925tfalexandrab.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1d/a4/0e/11/l2925tfalexandrab.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1d/a4/0e/11/l2925tfalexandrab.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1d/a4/0e/11/l2925tfalexandrab.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1d/a4/0e/11/l2925tfalexandrab.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945030873,
+        "title": "Owner response",
+        "text": "Dear L2925TFalexandrab,\nWe appreciate you for taking the time to write this review.\nWe are pleased to hear that you had a great experience during your stay with the staff and the facilities. \nWe will certainly share your comments with our team, who would be happy to hear about your positive feedback.\nIt has been a pleasure having you as our distinguished guest, and we look forward to welcoming you back in the future.\nWarm Regards,\nHyatt Regency Dubai",
+        "lang": "en",
+        "author": "Hyatt Regency Dubai Galleria",
+        "published_date": "2024-04-03T05:38:54Z"
+      }
+    },
+    {
+      "id": 944860862,
+      "lang": "en",
+      "location_id": 306684,
+      "published_date": "2024-04-01T18:27:12Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d306684-r944860862-Reviews-Hyatt_Regency_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review944860862",
+      "text": "I had a very pleasant stay at hyatt regency dubai, i like the proximity of the hotel with heritage district of dubai. The staff were amazing especially *Omar* and *Danea*l from concierge, they were really kind and friendly. Am looking forward to my next visit",
+      "title": "Perfect",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "dwyanei",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e4/a9/default-avatar-2020-50.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945021868,
+        "title": "Owner response",
+        "text": "Dear dwyanei,\nThank you very much for your kind review.\nWe are delighted that you had a great experience with us. \nWe will certainly share your comments with the team who would be happy to receive such positive feedback.\nIt has been a pleasure having you as our distinguished guest and we look forward to your next visit.\nBest Regards,\nHyatt Regency Dubai",
+        "lang": "en",
+        "author": "Hyatt Regency Dubai Galleria",
+        "published_date": "2024-04-03T04:01:17Z"
+      }
+    },
+    {
+      "id": 944745406,
+      "lang": "en",
+      "location_id": 306684,
+      "published_date": "2024-04-01T03:40:46Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d306684-r944745406-Reviews-Hyatt_Regency_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review944745406",
+      "text": "I went more than 10 days in this hotel and the quality of the service was very good. Room was clean, room service was reactive and the employee were always happy to help.\nI strongly recommand this hotel!",
+      "title": "Hyatt regency Dubai Deira",
+      "trip_type": "Business",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "williamsimonin",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e3/1f/default-avatar-2020-46.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944927080,
+        "title": "Owner response",
+        "text": "Dear Williamsimonin,\nThank you very much for your kind review.\nWe are delighted that you had a great experience with us. \nWe will certainly share your comments with the team who would be happy to receive such positive feedback.\nIt has been a pleasure having you as our distinguished guest and we look forward to your next visit.\nWarm Regards,\nHyatt Regency Dubai",
+        "lang": "en",
+        "author": "Hyatt Regency Dubai Galleria",
+        "published_date": "2024-04-02T08:48:12Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "location_id": "23641786",
+  "name": "Resivation",
+  "description": "The best way to describe Resivation is as a modern, contemporary-style hotel that aims to give guests a luxurious, yet reasonably priced, experience.\n\nThe location is in close proximity of Al-Furjan Metro Station, Therefore it becomes convenient to commute to any parts of Dubai. The distance between the hotel and Dubai’s top attractions like Palm Jumeirah, Dubai Marina, JBR, JLT, Ibn Batuta, Jafza, DIP, JVC, etc. is only 15 minutes by car. \n\nHighlights at Hotel Resivation include its 150 distinctively designed guest rooms, first-rate amenities, first-rate service, and contemporary decor. It is truly a one-of-a-kind hotel property because it caters to both long-term and short-term visitors and offers a modern, luxurious, and flexible living environment.\n\nWith a gym, an entertainment room, an authentic Thai restaurant, a DIY laundry room, a coworking space, a grab-and-go breakfast facility for busy mornings,  and a rooftop shisha terrace for relaxed evenings, The Resivation creatively combines work and play. A complimentary shuttle service to and from Al Furjan metro station is also provided.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d23641786-Reviews-Resivation-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Furjan",
+    "street2": "Jebel Ali Village",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Al Furjan Jebel Ali Village, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.022358",
+  "longitude": "55.156624",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d23641786-Resivation-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#19 of 766 Specialty lodging in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "766",
+    "ranking": "19"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "82",
+  "review_rating_count": {
+    "1": "1",
+    "2": "0",
+    "3": "1",
+    "4": "7",
+    "5": "73"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "48",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d23641786-m66827-Reviews-Resivation-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Free Wifi",
+    "Interconnected room(s) available",
+    "Internet",
+    "Shuttle Bus Service",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Air conditioning",
+    "Self-Serve Laundry",
+    "Microwave",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Breakfast Available",
+    "Parking",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Arabic",
+    "Bath / Shower",
+    "Bidet",
+    "Billiards",
+    "Board Games / Puzzles",
+    "Bottled Water",
+    "Cable / Satellite TV",
+    "Express Check-in / Check-out",
+    "Clothes Rack",
+    "Convenience Store",
+    "Darts",
+    "Desk",
+    "Dining Area",
+    "Electric Kettle",
+    "Extra Long Beds",
+    "Complimentary Toiletries",
+    "Free Wifi in the Business Center",
+    "Free Wired Internet in the Business Center",
+    "Game Room",
+    "Hair Dryer",
+    "Iron",
+    "Landmark View",
+    "Laptop Safe",
+    "Nepali",
+    "Newspaper",
+    "Outdoor Furniture",
+    "Parking Garage",
+    "Private Bathrooms",
+    "Seating Area",
+    "Secured Parking",
+    "Shared Lounge / TV Area",
+    "Shoeshine",
+    "Sinhala",
+    "Sofa",
+    "Sofa Bed",
+    "Street Parking",
+    "Tile / Marble Floor",
+    "Urdu",
+    "Video Game Console",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Washing Machine",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [
+    "Quaint",
+    "City View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620552",
+      "name": "Al Furjan"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "15"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "21"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "23"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "7"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "11"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

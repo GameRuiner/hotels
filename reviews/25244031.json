@@ -1,0 +1,297 @@
+{
+  "data": [
+    {
+      "id": 945586587,
+      "lang": "en",
+      "location_id": 25244031,
+      "published_date": "2024-04-06T12:24:11Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d25244031-r945586587-Reviews-Cheval_Maison_The_Palm_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review945586587",
+      "text": "The appartments are awesome and well situated at the Palm close to DMC. During this trip I had the pleasure that Ransesh and Sangans were taking of our appartment and every day it was a pleasure to return from work at our well taken care of palace for the week, thanks guys!",
+      "title": "Always a pleasure to returning to the Cheval Maison at the Palm in Dubai",
+      "trip_type": "Business",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "Vacation38424541018",
+        "user_location": {
+          "id": "188553",
+          "name": "The Netherlands"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/9f/default-avatar-2020-16.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945689227,
+        "title": "Owner response",
+        "text": "Dear Vacation3842451018,\n\nWe are thrilled you enjoyed your recent stay with us. Thank you for making us your choice hotel when visiting the area. We look forward to welcoming you back again very soon.\n\nBest Regards \nFlorent Jeannot \nFront Office Manager\n",
+        "lang": "en",
+        "author": "Cheval Maison",
+        "published_date": "2024-04-07T08:35:31Z"
+      }
+    },
+    {
+      "id": 945459057,
+      "lang": "en",
+      "location_id": 25244031,
+      "published_date": "2024-04-05T11:16:04Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d25244031-r945459057-Reviews-Cheval_Maison_The_Palm_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review945459057",
+      "text": "I am staying at the Cheval Maison - The Palm Dubai for one month and from first days I felt like I am at home. The appointment are very spacious with nice design and all facilities needed for long stay. The pool on the roof comfortable for either relax enjoying view at palm or swimming as its not overcrowded. But what brings the real home feelings is hotel associates Misan and Lok, who were taking care that appointments stays clean and comfortable. The are so friendly, smiling and ready to help so its charge me with positive energy for full day. It’s amazing place to stay in Dubai",
+      "title": "Feels like a home",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "P6875IZ_",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ee/10/default-avatar-2020-8.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945689089,
+        "title": "Owner response",
+        "text": "Dear  P6875IZ\nWe very much appreciate your comments regarding your stay at Cheval Maison The Palm. It is always a pleasure to receive positive feedback. We are sure that this feedback will serve as an encouragement to all our colleagues as we strive to continuously improve the quality of our services. Thank you again for sharing your experience, and we hope your next visit will be as memorable as the previous one. \n\nSincerely,\nFlorent Jeannot \nFront Office Manager\n",
+        "lang": "en",
+        "author": "Cheval Maison",
+        "published_date": "2024-04-07T08:34:26Z"
+      }
+    },
+    {
+      "id": 944607811,
+      "lang": "en",
+      "location_id": 25244031,
+      "published_date": "2024-03-31T04:02:28Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d25244031-r944607811-Reviews-Cheval_Maison_The_Palm_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review944607811",
+      "text": "Amazing hotel and good location. Great service. Nice staff especially Abdul, Qasim and Ahmed. We stayed there for half a year and they took care about us and our kids. They are super client oriented, kind hearted and attentive. The restaurant is good too.",
+      "title": "Amazing experience",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "DariaDina",
+        "user_location": {
+          "id": "187514",
+          "name": "Madrid"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ea/2e/default-avatar-2020-67.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944933119,
+        "title": "Owner response",
+        "text": "Dear  Daria,\nWe very much appreciate your comments regarding your stay at Cheval Maison The Palm. It is always a pleasure to receive positive feedback. We are sure that this feedback will serve as an encouragement to all our colleagues as we strive to continuously improve the quality of our services. Thank you again for sharing your experience, and we hope your next visit will be as memorable as the previous one. \n\nSincerely,\nFlorent Jeannot \nFront Office Manager\n",
+        "lang": "en",
+        "author": "Cheval Maison",
+        "published_date": "2024-04-02T09:38:04Z"
+      }
+    },
+    {
+      "id": 944281398,
+      "lang": "en",
+      "location_id": 25244031,
+      "published_date": "2024-03-28T13:47:51Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d25244031-r944281398-Reviews-Cheval_Maison_The_Palm_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review944281398",
+      "text": "The entire hotel and suites are tastefully decorated, so it immediately feels like a luxurious ‘home away from home’.\n\nThe location is spectacular (adjacent to two malls with West Beach across the road). This is the first time I’m experiencing a pedestrianised Dubai and it’s wonderful. We’re staying for three months (Jan-Apr) and don’t want to leave! \n\nThe staff go above and beyond every single day (a special thank you to Danda and Sabin for always taking care of us). The restaurant’s breakfast caters for everyone (healthy options aplomb) and its terrace overlooking the golden mile is peaceful and relaxing. \n\nOur 3-bedroom suite is very spacious with large floor to ceiling wardrobes in every room. The amenities are terrific (daily sheets change, everything is clean, the gym is open 24/7, rooftop pool, washer/dryer, black out curtains) and with a toddler and a dog, we’ve had the most seamless stay. \n\nThe Golden Mile race track behind the hotel is always filled with people, dogs, and children. But it’s also never too crowded. If you have a child(ren), don’t hesitate to stay here as there are several playgrounds dotted along the race track and four grocery stores within walking distance (3 in Nakheel and an organics shop on the Mile).",
+      "title": "Seamless with impeccable service",
+      "trip_type": "Family",
+      "travel_date": "2024-01-31",
+      "user": {
+        "username": "B9112MBsaraht",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/81/default-avatar-2020-43.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944933009,
+        "title": "Owner response",
+        "text": "Dear B9112MBsaraht,\n\nThank you for taking the time and effort in sharing your rating, following your recent visit at Cheval Maison The Palm. It is so nice to hear that you have enjoyed your stay in our hotel and our hospitality. Thank you for your appreciation of our associates Danda & Sabin, I am sure that they will be thrilled to read your kind words.\n\nWe all look forward to welcome you back again in the near future!\n\nSincerely yours,\nFlorent Jeannot \nFront Office Manager",
+        "lang": "en",
+        "author": "Cheval Maison",
+        "published_date": "2024-04-02T09:37:14Z"
+      }
+    },
+    {
+      "id": 942371147,
+      "lang": "en",
+      "location_id": 25244031,
+      "published_date": "2024-03-15T05:45:04Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d25244031-r942371147-Reviews-Cheval_Maison_The_Palm_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review942371147",
+      "text": "Cheval maison is best apartment for family and for long tour.  Hotel was very great and amazing with the palm nice view and its very easy to go for Nakhel mall . Room was very nice with decoreative setup and i would like to Thanks to housekeeping team Dilip ‘Sabin ‘Lok bahadur shrestha and bhumi",
+      "title": "Hotel was very nice and housekeeping team was very helpful Expecially Mr Dilip supervior and his team .",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "283zeynalm",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f3/e4/default-avatar-2020-30.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 942726611,
+        "title": "Owner response",
+        "text": "Dear 283Zeynalm, \n  \nWe very much appreciate your comments regarding your stay at Cheval Maison The Palm. It is always a pleasure to receive positive feedback. We are sure that this feedback will serve as an encouragement to all our colleagues as we strive to continuously improve the quality of our services. Thank you again for sharing your experience, and we hope your next visit will be as memorable as the previous one. \n\nWith kindest Regards\nFlorent Jeannot \nFront Office Manager\n",
+        "lang": "en",
+        "author": "Cheval Maison",
+        "published_date": "2024-03-18T03:05:11Z"
+      }
+    }
+  ]
+}

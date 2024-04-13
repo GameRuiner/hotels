@@ -1,0 +1,138 @@
+{
+  "location_id": "14182829",
+  "name": "Wox Ew Hotel",
+  "description": "Our hotel is at the heart of the city where you can acces to every easily by foot. The comfort we provide will always be better than our competitors because we do run this hotel as a family and will always care about our guests more than any other other. We always aim to satisfy our guests as much as possible. ​ When you experience the quality of WOXew Hotel you won't be thinking about the hotel you will stay next time you visit İzmir.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d14182829-Reviews-Wox_Ew_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Bozkurt Cd. No:30",
+    "street2": "Murselpasa Bulvari",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "address_string": "Bozkurt Cd. No:30 Murselpasa Bulvari, Izmir Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.42286",
+  "longitude": "27.14797",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d14182829-Wox_Ew_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#53 of 136 B&Bs / Inns in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "136",
+    "ranking": "53"
+  },
+  "rating": "3.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.0-66827-5.svg",
+  "num_reviews": "7",
+  "review_rating_count": {
+    "1": "1",
+    "2": "2",
+    "3": "1",
+    "4": "1",
+    "5": "2"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "1": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "2": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    }
+  },
+  "photo_count": "10",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d14182829-m66827-Reviews-Wox_Ew_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Internet",
+    "Room service",
+    "Free Internet",
+    "Restaurant",
+    "Wifi",
+    "Public Wifi",
+    "Paid Wifi",
+    "Paid Internet",
+    "Breakfast included",
+    "Air conditioning",
+    "Minibar",
+    "Free Wifi",
+    "Breakfast Available"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "bb",
+      "localized_name": "Bed and Breakfast"
+    }
+  ],
+  "styles": [
+    "Mid-range",
+    "Quaint"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "2"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "0"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "1"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "3"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "1"
+    }
+  ],
+  "awards": []
+}

@@ -1,0 +1,297 @@
+{
+  "location_id": "14141555",
+  "name": "Gulf Court Hotel Business Bay",
+  "description": "Come home to a new luxury experience at the Gulf Court Hotel Business Bay. Immerse yourself in the majestic views of the cityscape while indulging in luxurious home-from-home amenities and round-the-clock services. At the Gulf Court Hotel Business Bay, every inch exudes luxury and attention to detail.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d14141555-Reviews-Gulf_Court_Hotel_Business_Bay-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Abraj Street",
+    "street2": "Business Bay",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "32300",
+    "address_string": "Al Abraj Street Business Bay, Dubai 32300 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.182638",
+  "longitude": "55.274673",
+  "timezone": "Asia/Dubai",
+  "phone": "01197142473333",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d14141555-Gulf_Court_Hotel_Business_Bay-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#102 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "102"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "1294",
+  "review_rating_count": {
+    "1": "24",
+    "2": "11",
+    "3": "26",
+    "4": "91",
+    "5": "1142"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "780",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d14141555-m66827-Reviews-Gulf_Court_Hotel_Business_Bay-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Sauna",
+    "Allergy-free Room",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Billiards",
+    "Bottled Water",
+    "Car Hire",
+    "Coffee Shop",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "French",
+    "Hindi",
+    "Iron",
+    "Ironing Service",
+    "Russian",
+    "24-Hour Security",
+    "Shoeshine",
+    "Taxi Service",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Poolside Bar",
+    "Private Balcony",
+    "Kids pool",
+    "Breakfast Available",
+    "Parking",
+    "Additional Bathroom",
+    "Air Purifier",
+    "Bidet",
+    "Blackout Curtains",
+    "Bridal Suite",
+    "Bulgarian",
+    "Cable / Satellite TV",
+    "24-Hour Check-in",
+    "Express Check-in / Check-out",
+    "Children's Television Networks",
+    "Clothes Rack",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Convenience Store",
+    "Darts",
+    "Desk",
+    "Dining Area",
+    "Electric Kettle",
+    "Executive Lounge Access",
+    "Farsi",
+    "First Aid Kit",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "Free Wifi in the Business Center",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Happy Hour",
+    "Highchairs Available",
+    "Interconnected room(s) available",
+    "Karaoke",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Landmark View",
+    "Laptop Safe",
+    "Macedonian",
+    "Makeup Services",
+    "Malay",
+    "Manicure",
+    "Massage",
+    "Nepali",
+    "Outdoor Dining Area",
+    "Outdoor Furniture",
+    "Pool / Beach Towels",
+    "Pool View",
+    "Private Bathrooms",
+    "Private Check-in / Check-out",
+    "Radio",
+    "Salon",
+    "Seating Area",
+    "Secured Parking",
+    "Separate Living Room",
+    "Snack Bar",
+    "Sofa",
+    "Soundproof Rooms",
+    "Steam Room",
+    "Sun Deck",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Swahili",
+    "Swimming Pool Toys",
+    "Telephone",
+    "Tile / Marble Floor",
+    "Umbrella",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Wine / Champagne",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Trendy",
+    "Quaint"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620621",
+      "name": "Business Bay"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "279"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "218"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "140"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "216"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "334"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "data": [
+    {
+      "id": 783111160,
+      "lang": "en",
+      "location_id": 10129273,
+      "published_date": "2021-02-18T06:28:42Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d10129273-r783111160-Reviews-Viona_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review783111160",
+      "text": "Nice hotel, service and accommodation was great, amazing food service also. first time was visit but really impressed. quick checked inn  service and trained and polite staffs. Big and comfortable room and 24 hours service.",
+      "title": "Family friendly hotel",
+      "trip_type": "Business",
+      "travel_date": "2021-01-31",
+      "user": {
+        "username": "ingilizzz",
+        "user_location": {
+          "id": "298251",
+          "name": "Almaty"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1c/a8/59/4f/caption.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1c/a8/59/4f/caption.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1c/a8/59/4f/caption.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/1c/a8/59/4f/caption.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "1": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "2": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 487237419,
+      "lang": "en",
+      "location_id": 10129273,
+      "published_date": "2017-05-24T05:22:31Z",
+      "rating": 4,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d10129273-r487237419-Reviews-Viona_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review487237419",
+      "text": "Family friendly hotel also good for couples. Very friendly and helpfull stuff. Clean and new amenities. We had problem with AC, they fixed it very fast. Another problem was shower, a door was broken. Very rich breakfast with coffe etc. İf you come by car, you should park your car on a street, but that area is quite and nice, so it didn't bothered us.",
+      "title": "Family friendly hotel by the Ageen Sea",
+      "trip_type": "Family",
+      "travel_date": "2017-05-31",
+      "user": {
+        "username": "EvijaS",
+        "user_location": {
+          "id": "274967",
+          "name": "Riga, Riga Region"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ec/3d/default-avatar-2020-1.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ec/3d/default-avatar-2020-1.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ec/3d/default-avatar-2020-1.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ec/3d/default-avatar-2020-1.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ec/3d/default-avatar-2020-1.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "2": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    }
+  ]
+}

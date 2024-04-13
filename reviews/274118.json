@@ -1,0 +1,221 @@
+{
+  "data": [
+    {
+      "id": 941205462,
+      "lang": "en",
+      "location_id": 274118,
+      "published_date": "2024-03-06T11:46:20Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d274118-r941205462-Reviews-Hotel_Continental_Palacete-Barcelona_Catalonia.html?m=66827#review941205462",
+      "text": "Excellent, comfortable hotel perfectly situated a few minutes walk from the Metro with direct train line to the airport. Major attractions and lots of great restaurants within walking distance. The all day buffet is very handy for a snack which you can enjoy in a lovely, elegant room (see photo). Staff helpful and friendly. The bed was comfortable and the shower excellent, but I would probably go for a slightly larger room next time. Will definitely return one day!",
+      "title": "Excellent Barcelona hotel",
+      "trip_type": "Couples",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "GSWLondon",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/12/f9/60/51/gswlondon.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/12/f9/60/51/gswlondon.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/12/f9/60/51/gswlondon.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/12/f9/60/51/gswlondon.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 938692016,
+      "lang": "en",
+      "location_id": 274118,
+      "published_date": "2024-02-17T21:45:04Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d274118-r938692016-Reviews-Hotel_Continental_Palacete-Barcelona_Catalonia.html?m=66827#review938692016",
+      "text": "Rooms terrible- not cleaned for ages, with ugly smell of humidity, mouse’s running in the balcony, as well inside the walls ( you have to knock wall sometimes to escape noise inside, at night sleep wit table lamp) \nHeating system not worked, conditioning as well , in the reception was told that they are changing them. So it was cold as well. \nOne good thing is location of the hotel",
+      "title": "Not recommended hotel",
+      "trip_type": "Couples",
+      "travel_date": "2023-11-30",
+      "user": {
+        "username": "linap996",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e7/7b/default-avatar-2020-56.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e7/7b/default-avatar-2020-56.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e7/7b/default-avatar-2020-56.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e7/7b/default-avatar-2020-56.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/7b/default-avatar-2020-56.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 935994959,
+      "lang": "en",
+      "location_id": 274118,
+      "published_date": "2024-01-29T18:16:28Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d274118-r935994959-Reviews-Hotel_Continental_Palacete-Barcelona_Catalonia.html?m=66827#review935994959",
+      "text": "Marvelous looking hotel in the Center of Barcelona. I’ll definitely come back for a family trip or business !!!! Check in very quick, we got an amazing room that feels like in 19 century. Thank you for the experience !",
+      "title": "Amazing looking hotel in the Center of Barcelona. I’ll definitely come back for a family trip or business !!!!",
+      "trip_type": "Business",
+      "travel_date": "2024-01-31",
+      "user": {
+        "username": "lukasz19932024",
+        "user_location": {
+          "id": "274772",
+          "name": "Krakow, Lesser Poland Province, Southern Poland"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e4/2d/default-avatar-2020-48.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e4/2d/default-avatar-2020-48.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e4/2d/default-avatar-2020-48.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e4/2d/default-avatar-2020-48.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e4/2d/default-avatar-2020-48.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 929268313,
+      "lang": "en",
+      "location_id": 274118,
+      "published_date": "2023-12-12T08:28:34Z",
+      "rating": 4,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d274118-r929268313-Reviews-Hotel_Continental_Palacete-Barcelona_Catalonia.html?m=66827#review929268313",
+      "text": "Location 5* shopping, metro, tour buses, supermarket very close.  Warning:  7 stairs to access lift to reception…I also had stairs to my room with 2 bags 35 kg full of gifts. Worth it.  Friendly, helpful staff, heritage building full of chandeliers, wallpaper and antiques, a novelty in today’s cookie cutter hotel chains.  Modern bright bathroom cabin with glass ceiling view of room’s high ceilings, excellent fittings, super clean.  Minimal room amentities and toiletries,  all purpose soap on tap.   French windows overlooking rambla that did not bother my sleep.\nall day buffet full of basic chilled covered dishes you can reheat, drinks, beer, wine and  warm items for breakfast.  Eat in the  lounge bar or take to your room and return your dishes.  Great value and convenient if you are travelling long haul or your time clock has you craving food at 2am… just help yourself.  Buffet area is locked overnight but the receptionist was happy to open it for me to access early coffee.\nMattress firm but comfortable , good linen and yes, rose pink towels, brass bed and frilly lamp shades.  I don’t see it suiting  younger folk. Seems to attract the cruise crowd.  Good security.  If you want a modern, hands off approach hotel this is not it.  If you want charm, something stuck in a time warp with convenience of drink and food buffet this is it.  Note: there are 2 Hotels 1. Hotel Continental, 2.Hotel Continental Palacette and this is the one I am reviewing. Make sure your taxi/ driver do not take you to the wrong hotel!  While the room has a fridge there is no in room tea coffee but the buffet drinks area compensates for that.\n The only negatives:  hangers  old plastic and dusty,   weird heating unit covered in plastic should have a more professional cover, tiny specs of mould in basin corner, room fridge and microwave  probably due for replacement.  Occasional deep cleaning of corners and ledges advisable, the stairs,( particularly if you have heavy luggage or mobility issues).  Please remove the awful dried flower vase in room.\n",
+      "title": "It's Astounding, Time Warp Hotel",
+      "trip_type": "Solo travel",
+      "travel_date": "2023-12-31",
+      "user": {
+        "username": "MargaretPowell",
+        "user_location": {
+          "id": "255100",
+          "name": "Melbourne, Victoria"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/05/a1/18/6b/margaretpowell.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/05/a1/18/6b/margaretpowell.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/05/a1/18/6b/margaretpowell.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/05/a1/18/6b/margaretpowell.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/05/a1/18/6b/margaretpowell.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 926887484,
+      "lang": "en",
+      "location_id": 274118,
+      "published_date": "2023-11-22T09:54:24Z",
+      "rating": 5,
+      "helpful_votes": 2,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d274118-r926887484-Reviews-Hotel_Continental_Palacete-Barcelona_Catalonia.html?m=66827#review926887484",
+      "text": "This is A WONDERFUL European Hotel, that make You Feel like Royalty especially when You see the Hotel. The Staff are Outstandingly Friendly and Helpful especially since I get around in an Electric Wheelchair and Require alot of Help. They had Small but Comfortable Rooms and a 24Hr Snacks and Drinks. The Hotel is in a Great Location near alot of Attractions.  I Loved My Stay Here and if ever in Barcelona will stay Here\n",
+      "title": "This is the Best European Hotel and Superior Staff",
+      "trip_type": "Friends getaway",
+      "travel_date": "2023-11-30",
+      "user": {
+        "username": "andypandaNashville",
+        "user_location": {
+          "id": "55229",
+          "name": "Nashville, Davidson County, Tennessee"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ec/a2/default-avatar-2020-3.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ec/a2/default-avatar-2020-3.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ec/a2/default-avatar-2020-3.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ec/a2/default-avatar-2020-3.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ec/a2/default-avatar-2020-3.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

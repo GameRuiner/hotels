@@ -1,0 +1,249 @@
+{
+  "location_id": "9704275",
+  "name": "Wyndham Dubai Marina",
+  "description": "493 luxurious rooms and suites offering stunning views of the Arabian Sea and Dubai Marina. Situated in one of Dubai’s most exciting districts with major attractions, amenities and transportation links, including Dubai Metro and Tram services all within walking distance. The hotel’s prime location is ideal for both business and leisure guests alike. Additional facilities include two restaurants (an all-day dining restaurant and a steakhouse and bar); a spa, gym and swimming pool with pool bar; meeting space; an executive lounge; as well as a coffee shop and souvenir outlet.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d9704275-Reviews-Wyndham_Dubai_Marina-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Seba Street",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "450005",
+    "address_string": "Al Seba Street, Dubai 450005 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.069445",
+  "longitude": "55.128056",
+  "timezone": "Asia/Dubai",
+  "phone": "01197144078888",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d9704275-Wyndham_Dubai_Marina-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#89 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "89"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "6506",
+  "review_rating_count": {
+    "1": "103",
+    "2": "122",
+    "3": "323",
+    "4": "1014",
+    "5": "4944"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "3225",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d9704275-m66827-Reviews-Wyndham_Dubai_Marina-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Swimup Bar",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Sauna",
+    "Afrikaans",
+    "Allergy-free Room",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Bulgarian",
+    "Car Hire",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Head Massage",
+    "Hindi",
+    "Ironing Service",
+    "Italian",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Massage",
+    "Pool / Beach Towels",
+    "Russian",
+    "24-Hour Security",
+    "Secured Parking",
+    "Spanish",
+    "Special Diet Menus",
+    "Steam Room",
+    "Taxi Service",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Cable / Satellite TV",
+    "Express Check-in / Check-out",
+    "Couples Massage",
+    "Electric Kettle",
+    "Foot Massage",
+    "Free Wifi in the Business Center",
+    "Full Body Massage",
+    "Happy Hour",
+    "Nepali",
+    "Personal Trainer",
+    "Sofa Bed",
+    "Swahili",
+    "Tamil",
+    "Ukrainian",
+    "Urdu",
+    "Beach Access"
+  ],
+  "parent_brand": "Wyndham Hotel Group",
+  "brand": "Wyndham",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Marina View",
+    "Modern"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7282432",
+      "name": "The Marina"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "772"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1852"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "453"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1727"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "988"
+    }
+  ],
+  "awards": []
+}

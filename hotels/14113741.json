@@ -1,0 +1,213 @@
+{
+  "location_id": "14113741",
+  "name": "Hotel 86 By Katipoglu",
+  "description": "Hotel 86 By Katipoglu, which serves as the newest and modern facility of Agean pearl Izmir, will transform your stay in İzmir into an unforgettable experience with its specially designed architecture. Hotel 86 by Katipoglu brings together your business life and comfort. Our hotel is located in İzmir city center and is walking distance to the sea. İzmir Adnan Menderes airport is 16 km away. You will feel yourself inside history with the history of İzmir. Hotel 86 By Katipoglu located at next to important places such as historical Kemeraltı Market, Kızlarağası Khan, Kavaflar Bazaar, Agora, Konak Clock Tower, Konak Pier and International İzmir Fair. We are at your service to make you feel at home comfort with our professional staff. You will feel privileged in our rooms, which are prepared for the comfort of our guests. Hotel 86 By Katipoglu is designed to meet the needs of our valued guests with its breakfast room, group meals and Alacart restaurant, business corner, 24 hour room service laundry and ironing services and 40 standard rooms.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d14113741-Reviews-Hotel_86_By_Katipoglu-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Fevzipasa BulvarI No:41",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35210",
+    "address_string": "Fevzipasa BulvarI No:41, Izmir 35210 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.42278",
+  "longitude": "27.135279",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d14113741-Hotel_86_By_Katipoglu-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#15 of 136 B&Bs / Inns in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "136",
+    "ranking": "15"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "50",
+  "review_rating_count": {
+    "1": "8",
+    "2": "2",
+    "3": "3",
+    "4": "11",
+    "5": "26"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "27",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d14113741-m66827-Reviews-Hotel_86_By_Katipoglu-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Clothes Rack",
+    "Complimentary Toiletries",
+    "Hair Dryer",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Laundry Service",
+    "Banquet Room",
+    "Air conditioning",
+    "Smoking rooms available",
+    "Minibar",
+    "Babysitting",
+    "Safe",
+    "Rooftop Bar",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Breakfast Available",
+    "Parking",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Bath / Shower",
+    "Bathrobes",
+    "Bicycle Rental",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Bridal Suite",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Express Check-in / Check-out",
+    "Children's Television Networks",
+    "Complimentary Tea",
+    "English",
+    "Extra Long Beds",
+    "Free Private Parking Nearby",
+    "Complimentary Instant Cofffee",
+    "24-Hour Front Desk",
+    "Highchairs Available",
+    "Iron",
+    "Ironing Service",
+    "Parking Garage",
+    "Private Check-in / Check-out",
+    "Seating Area",
+    "Secured Parking",
+    "Sofa",
+    "Sofa Bed",
+    "Special Diet Menus",
+    "Taxi Service",
+    "Telephone",
+    "Turkish",
+    "Valet Parking",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Walking Tours",
+    "Wardrobe / Closet",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "bb",
+      "localized_name": "Bed and Breakfast"
+    }
+  ],
+  "styles": [
+    "City View",
+    "Family"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "6"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "15"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "1"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "14"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "4"
+    }
+  ],
+  "awards": []
+}

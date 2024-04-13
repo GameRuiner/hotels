@@ -1,0 +1,200 @@
+{
+  "location_id": "306639",
+  "name": "Panorama Hotel",
+  "description": "Finding an ideal budget friendly hotel in Dubai does not have to be difficult. Welcome to Panorama Hotel Bur Dubai, a nice option for travelers like you.\nNearby landmarks such as Dubai Frame (1.4 mi) and Dream Journey (1.9 mi) make Panorama Hotel Bur Dubai a great place to stay when visiting Dubai.\nPanorama Hotel Bur Dubai is a budget friendly hotel offering a flat screen TV, a refrigerator, and air conditioning in the rooms, and it is easy to stay connected during your stay as free wifi is offered to guests.\nThe hotel features a 24 hour front desk, room service, and 24 hour security. Plus, guests can enjoy an on-site restaurant, which has made this a popular choice among travelers visiting Dubai.\nDubai has plenty of Indian restaurants. So when you’re here, be sure to check out popular spots like The Cheesecake Factory, Ravi's, and AB's Absolute Barbecues, which are serving up some great dishes.\nDubai is also home to Dubai Museum, a popular  that is not too far from Panorama Hotel Dubai.\nPanorama Hotel Bur Dubai looks forward to welcoming you on your visit to Dubai.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d306639-Reviews-Panorama_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Mankhool Rd",
+    "street2": "Al Raffa",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "14703",
+    "address_string": "Al Mankhool Rd Al Raffa, Dubai 14703 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.2476",
+  "longitude": "55.2866",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d306639-Panorama_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#541 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "541"
+  },
+  "rating": "3.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.0-66827-5.svg",
+  "num_reviews": "167",
+  "review_rating_count": {
+    "1": "30",
+    "2": "20",
+    "3": "47",
+    "4": "36",
+    "5": "34"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss2.5.svg",
+      "value": "2.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    }
+  },
+  "photo_count": "93",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d306639-m66827-Reviews-Panorama_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Room service",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Wifi",
+    "Paid Wifi",
+    "Air conditioning",
+    "Pool",
+    "Internet",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Suites",
+    "Spa",
+    "Free Wifi",
+    "Paid Internet",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Family Rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Babysitting",
+    "Safe",
+    "Housekeeping",
+    "Sauna",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Car Hire",
+    "Express Check-in / Check-out",
+    "Clothes Rack",
+    "Coffee Shop",
+    "Currency Exchange",
+    "Desk",
+    "English",
+    "Filipino",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Iron",
+    "Ironing Service",
+    "Newspaper",
+    "Seating Area",
+    "24-Hour Security",
+    "Shoeshine",
+    "Sofa",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Charming",
+    "Centrally Located"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620595",
+      "name": "Al Raffa"
+    },
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "29"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "21"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "43"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "17"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "36"
+    }
+  ],
+  "awards": []
+}

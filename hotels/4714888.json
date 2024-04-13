@@ -1,0 +1,207 @@
+{
+  "location_id": "4714888",
+  "name": "The Level at Melia Barcelona Sky",
+  "description": "Welcome to The Level at Meliá Barcelona Sky!The Level at Meliá Barcelona Sky raises luxury to its highest level. Feeling special is so easy when every detail has been designed and created especially for you.With exclusive personalised service that will exceed all the expectations of the most discerning guests, The Level at Meliá Barcelona Sky is the new commitment by Meliá to superior services and facilities. Choose a new hotel concept to make your stay in Barcelona exceptionally different.Superior room categories, private lounge and special in-room amenities provide guests with a world of privileges and luxury.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d4714888-Reviews-The_Level_at_Melia_Barcelona_Sky-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "C/ Lope de Vega, 141-147",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08005",
+    "address_string": "C/ Lope de Vega, 141-147, 08005 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.406303",
+  "longitude": "2.200802",
+  "timezone": "Europe/Madrid",
+  "phone": "19292071033",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d4714888-The_Level_at_Melia_Barcelona_Sky-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#169 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "169"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "900",
+  "review_rating_count": {
+    "1": "42",
+    "2": "34",
+    "3": "78",
+    "4": "207",
+    "5": "539"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "798",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d4714888-m66827-Reviews-The_Level_at_Melia_Barcelona_Sky-Barcelona_Catalonia.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Pool",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Fitness center",
+    "Suites",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Business center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Outdoor pool",
+    "Parking",
+    "Sauna",
+    "Blackout Curtains",
+    "Catalan",
+    "Couples Massage",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Ironing Service",
+    "Massage",
+    "Private Check-in / Check-out",
+    "Baggage Storage",
+    "Fireplace",
+    "Beach Access"
+  ],
+  "parent_brand": "Melia Hotels International",
+  "brand": "Melia",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Bay View",
+    "Park View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230971",
+      "name": "Poblenou"
+    },
+    {
+      "location_id": "15565880",
+      "name": "Sant Marti"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "69"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "450"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "38"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "162"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "104"
+    }
+  ],
+  "awards": []
+}

@@ -1,0 +1,205 @@
+{
+  "location_id": "21203432",
+  "name": "Fortune Atrium Hotel",
+  "description": "Located in Dubai, 2.7 km from Grand Mosque, FORTUNE ATRIUM HOTEL provides air-conditioned rooms and a fitness center. Among the facilities of this property are a restaurant, a 24-hour front desk and room service, along with free WiFi. Guests can have a drink at the bar. All guest rooms in the hotel are equipped with an electric tea pot. Every room comes with a flat-screen TV, and certain units at FORTUNE ATRIUM HOTEL have a terrace. A buffet breakfast is available daily at the accommodation. FORTUNE ATRIUM HOTEL offers a sauna. Dubai World Trade Centre is 4.2 km from the hotel, while Dubai Mall is 9.7 km away. The nearest airport is Dubai International Airport, 8 km from FORTUNE ATRIUM HOTEL.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d21203432-Reviews-Fortune_Atrium_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Khalid Bin Al Waleed Rd",
+    "street2": "Bur Dubai",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Khalid Bin Al Waleed Rd Bur Dubai, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.250029",
+  "longitude": "55.311886",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d21203432-Fortune_Atrium_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#487 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "487"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "18",
+  "review_rating_count": {
+    "1": "2",
+    "2": "0",
+    "3": "0",
+    "4": "2",
+    "5": "14"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "36",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d21203432-m66827-Reviews-Fortune_Atrium_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Restaurant",
+    "Free Wifi",
+    "Pool",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Poolside Bar",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Arabic",
+    "Bath / Shower",
+    "Bathrobes",
+    "Cable / Satellite TV",
+    "Express Check-in / Check-out",
+    "Clothes Rack",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Couples Massage",
+    "Desk",
+    "Electric Kettle",
+    "English",
+    "Evening Entertainment",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Complimentary Toiletries",
+    "Complimentary Welcome Drink",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Hair Dryer",
+    "Hammam",
+    "Highchairs Available",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Landmark View",
+    "Massage",
+    "Nightclub / DJ",
+    "Outdoor Dining Area",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Private Bathrooms",
+    "Private Check-in / Check-out",
+    "Salon",
+    "Shoeshine",
+    "Snack Bar",
+    "Telephone",
+    "Valet Parking",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quaint",
+    "Luxury"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620559",
+      "name": "Al Karama"
+    },
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "5"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "2"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "3"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "3"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "4"
+    }
+  ],
+  "awards": []
+}

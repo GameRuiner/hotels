@@ -1,0 +1,326 @@
+{
+  "data": [
+    {
+      "id": 945953575,
+      "lang": "en",
+      "location_id": 24134016,
+      "published_date": "2024-04-09T09:11:34Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d24134016-r945953575-Reviews-White_Hills_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review945953575",
+      "text": "Our first visit to White Hills was amazing! \nThe staff, bartenders and waiters were very pleasant and kind\nThe food was excellent and very tasty!💯 The Posh Club team made us fell like home! As they always say “welcome home”\nHuge thanks to our waiter Ramadan - real professional who knows every part of his job great and to our butler Eisaid - for his attention in every moment we need him and more \nHighly recommend \nWill definitely come back again! \nOlga&Karen from Armenia",
+      "title": "White Hills & Posh Club",
+      "trip_type": "Couples",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "Olga_Atalyan",
+        "user_location": {
+          "id": "298507",
+          "name": "St. Petersburg, Northwestern District"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/0b/38/6e/1a/avatar.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/0b/38/6e/1a/avatar.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/0b/38/6e/1a/avatar.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/0b/38/6e/1a/avatar.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/0b/38/6e/1a/avatar.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 945816830,
+      "lang": "en",
+      "location_id": 24134016,
+      "published_date": "2024-04-08T07:03:50Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d24134016-r945816830-Reviews-White_Hills_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review945816830",
+      "text": "Very clean and organised  , quite delicious diverse food , and of course a unique location nearby soho square  with various  nice activities .\nOur visit was a perfection thanks to mr Salah , mr Mohamed (night manager ), and the photographer Walid.",
+      "title": "A visit to be repeated",
+      "trip_type": "Couples",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "Go52467412534",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/6d/default-avatar-2020-19.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/6d/default-avatar-2020-19.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/6d/default-avatar-2020-19.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/6d/default-avatar-2020-19.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/6d/default-avatar-2020-19.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945840727,
+        "title": "Owner response",
+        "text": "Dear Valued Guest,\nWe take this opportunity to thank you for having published the comment of the holiday just spent at our facility, White Hills Resort\nWe are delighted to know that the stay lived up to your expectations.\nWe look forward to welcoming you soon to your second home in Egypt, White Hills Resort\nWith Best regards,\nTeam of White Hills Resort",
+        "lang": "en",
+        "author": "White Hills Resort Sharm El Sheikh",
+        "published_date": "2024-04-08T10:24:31Z"
+      }
+    },
+    {
+      "id": 945723714,
+      "lang": "en",
+      "location_id": 24134016,
+      "published_date": "2024-04-07T13:01:16Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d24134016-r945723714-Reviews-White_Hills_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review945723714",
+      "text": "The room is big, clean and tidy. The room was cleaned and towels were changed every day. The cocktails are delicious, the bartenders and waiters are very nice, the service is at a high level. Mamo, the animator, is also very friendly and attentive. Thanks to him for interesting conversations and a good time.",
+      "title": "The vacation was great.",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "464aust_jaa",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/a7/default-avatar-2020-44.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945840685,
+        "title": "Owner response",
+        "text": "Dear Valued Guest,\nFirst of all we would like to thank you for choosing White Hills Resort for your holidays. It was a pleasure for us to host you and on behalf of all team we would like to thank you for such valuable feedback.\nReading such a review brings a big smile on the faces of the White Hills Resort Team! We are glad to read your comments and we are pleased to know that we have been up to your expectations. We are looking forward to have you try our facilities again during a possible visit in the near future. Thank you for having chosen our resort as destination of your holiday, We look forward to welcoming you back to your second home in Egypt, White Hills Resort very soon.\nWith best regards,\nTeam of White Hills Resort.",
+        "lang": "en",
+        "author": "White Hills Resort Sharm El Sheikh",
+        "published_date": "2024-04-08T10:24:13Z"
+      }
+    },
+    {
+      "id": 945669800,
+      "lang": "en",
+      "location_id": 24134016,
+      "published_date": "2024-04-07T05:26:17Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d24134016-r945669800-Reviews-White_Hills_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review945669800",
+      "text": "The hotel is a marvelous new structure built on a very beautiful stretch of coast. All the services are excellent. We stayed in the royal suite and the room was very beautiful and, most of all, clean and spacious. The additional butler service was a real treat. The Posh Club was also very well organized and Tamer (our butler) and Louela (the Posh Club manager) were really helpful in making our stay really memorable. The restaurants serve really good food. The beach is well organized as is all the rest of the services provided by this magnificent hotel. Would I advice it to someone? Absolutely yes! We're going back in September with a group of friends with their families and we'll staying even longer than last time.",
+      "title": "Absolutely first class all the way",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "A7586EOgianlucav",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/7c/01/default-avatar-2020-5.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945697483,
+        "title": "Owner response",
+        "text": "Dear Mr. Gianluca,\nFirst of all we would like to thank you for choosing White Hills Resort for your holidays. It was a pleasure for us to host you and on behalf of all team we would like to thank you for such valuable feedback.\nReading such a review brings a big smile on the faces of the White Hills Resort Team! We are glad to read your comments and we are pleased to know that we have been up to your expectations. We are looking forward to have you try our facilities again during a possible visit in the near future. Thank you for having chosen our resort as destination of your holiday, We look forward to welcoming you back to your second home in Egypt, White Hills Resort very soon.\nWith best regards,\nTeam of White Hills Resort.",
+        "lang": "en",
+        "author": "White Hills Resort Sharm El Sheikh",
+        "published_date": "2024-04-07T09:41:17Z"
+      }
+    },
+    {
+      "id": 945652429,
+      "lang": "en",
+      "location_id": 24134016,
+      "published_date": "2024-04-07T02:25:39Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d24134016-r945652429-Reviews-White_Hills_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review945652429",
+      "text": "The best holiday in Egypt and White Hills is the perfect hotel for big families with kids. The kid’s club and its numerous activities keeps them busy and occupied all day and at night they get to dance at the mini disco which they liked. \n\nWe also highly recommend the Posh Club for its elegance and top notch service. And over all recommend White Hills to anyone looking for the best holiday destination in Sharm El Sheikh.",
+      "title": "Perfect for kids and Posh Club",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "blesssssssedone",
+        "user_location": {
+          "id": "186216",
+          "name": "United Kingdom"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ed/7b/default-avatar-2020-6.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ed/7b/default-avatar-2020-6.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ed/7b/default-avatar-2020-6.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ed/7b/default-avatar-2020-6.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ed/7b/default-avatar-2020-6.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945840638,
+        "title": "Owner response",
+        "text": "Dear Valued Guest,\nFirst of all we would like to thank you for choosing White Hills Resort for your holidays. It was a pleasure for us to host you and on behalf of all team we would like to thank you for such valuable feedback.\nReading such a review brings a big smile on the faces of the White Hills Resort Team! We are glad to read your comments and we are pleased to know that we have been up to your expectations. We are looking forward to have you try our facilities again during a possible visit in the near future. Thank you for having chosen our resort as destination of your holiday, We look forward to welcoming you back to your second home in Egypt, White Hills Resort very soon.\nWith best regards,\nTeam of White Hills Resort.",
+        "lang": "en",
+        "author": "White Hills Resort Sharm El Sheikh",
+        "published_date": "2024-04-08T10:23:55Z"
+      }
+    }
+  ]
+}

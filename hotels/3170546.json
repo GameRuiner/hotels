@@ -1,0 +1,186 @@
+{
+  "location_id": "3170546",
+  "name": "Hotel Galaxias",
+  "description": "Welcome to Hotel Galaxias, your Rhodes Town “home away from home.” Hotel Galaxias aims to make your visit as relaxing and enjoyable as possible, which is why so many guests continue to come back year after year.\nFor those interested in checking out popular landmarks while visiting Rhodes Town, Hotel Galaxias is located a short distance from Ancient Olympic Stadium - Rhodes (0.5 mi) and Roloi Clock Tower (0.7 mi).\nThe rooms offer a refrigerator and air conditioning, and getting online is possible, as free wifi is available, allowing you to rest and refresh with ease.\nHotel Galaxias features a concierge and baggage storage.\nWhile you’re here, be sure to check out some of the Chinese restaurants, including My Thai, Jowok, and Shanghai Chinese Restaurant, all of which are a short distance from Hotel Galaxias.\nIf you’re looking for things to do, you can check out Palace of the Grand Master of the Knights of Rhodes (0.8 mi), Archaeological Museum of Rhodes (Hospital of the Knights) (0.8 mi), or The Acropolis of Rhodes (0.6 mi), which are popular attractions amongst tourists, and they are all within walking distance.\nHotel Galaxias puts the best of Rhodes Town at your fingertips, making your stay both relaxing and enjoyable.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g635613-d3170546-Reviews-Hotel_Galaxias-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street1": "72 Ethnikis Adistasseos",
+    "street2": "",
+    "city": "Rhodes Town",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "851 00",
+    "address_string": "72 Ethnikis Adistasseos, Rhodes Town 851 00 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Rhodes Town",
+      "location_id": "635613"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.435",
+  "longitude": "28.219023",
+  "timezone": "Europe/Athens",
+  "phone": "011302611180119",
+  "write_review": "https://www.tripadvisor.com/UserReview-g635613-d3170546-Hotel_Galaxias-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "635613",
+    "ranking_string": "#33 of 122 hotels in Rhodes Town",
+    "geo_location_name": "Rhodes Town",
+    "ranking_out_of": "122",
+    "ranking": "33"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "197",
+  "review_rating_count": {
+    "1": "4",
+    "2": "2",
+    "3": "7",
+    "4": "56",
+    "5": "128"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "113",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g635613-d3170546-m66827-Reviews-Hotel_Galaxias-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Internet",
+    "Free Wifi",
+    "Wheelchair access",
+    "Non-smoking rooms",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Refrigerator in room",
+    "Flatscreen TV",
+    "Private Balcony",
+    "Housekeeping",
+    "Baggage Storage",
+    "Bath / Shower",
+    "English",
+    "Complimentary Toiletries",
+    "Free Internet",
+    "Wifi",
+    "Concierge",
+    "Non-smoking hotel",
+    "Safe",
+    "Bicycle Rental",
+    "Blackout Curtains",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Desk",
+    "French",
+    "Greek",
+    "Hair Dryer",
+    "Ironing Service",
+    "Italian",
+    "Soundproof Rooms",
+    "Telephone",
+    "Tile / Marble Floor",
+    "Vending Machine",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quiet",
+    "Budget"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "8"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "108"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "16"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "25"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "22"
+    }
+  ],
+  "awards": []
+}

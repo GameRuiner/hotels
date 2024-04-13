@@ -1,0 +1,210 @@
+{
+  "location_id": "301691",
+  "name": "Coral Dubai Deira Hotel",
+  "description": "Coral Deira - Dubai is strategically located in the commercial hub of Dubai within easy reach of main business establishments and the vibrant old downtown area with its cafe's, restaurants & night life attractions. With its impressive facade, this elegant hotel dominates Al Muraqqabat Street and is merely 10 minutes drive from Dubai International Airport, minutes away from the legendary Dubai gold and spice souks and a short walk from popular shopping centres. Two metro stations are an easy 600 metres walk away-Al Riqqa ( Red Line )& Salaheeldin (Green Line. The hotel offers 3 dining options: Al Nafoora serves an elaborate breakfast buffet starting at 630 am, & has an excellent international buffet for lunch & dinner. Rasoi, is an elegant restaurant serving a la carte North Indian favourites for lunch & dinner. When you are ready to relax & unwind, you can head to the roof top swimming pool & enjoy both the sunshine & Dubai's sky line views. If you wish to pamper yourself, allow our masseuses to relax you totally with different massage treatments. For fitness buffs, you can stay in touch with your fitness schedule with our 3 treadmills, exercise machines & free weights.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d301691-Reviews-Coral_Dubai_Deira_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Muraqqabat Street",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "",
+    "address_string": "Al Muraqqabat Street, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.265919",
+  "longitude": "55.325626",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d301691-Coral_Dubai_Deira_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#361 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "361"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "1083",
+  "review_rating_count": {
+    "1": "38",
+    "2": "27",
+    "3": "109",
+    "4": "383",
+    "5": "526"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "364",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d301691-m66827-Reviews-Coral_Dubai_Deira_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Room service",
+    "Wheelchair access",
+    "Pool",
+    "Internet",
+    "Suites",
+    "Free Internet",
+    "Restaurant",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Baggage Storage",
+    "English",
+    "24-Hour Security",
+    "Taxi Service",
+    "Free parking",
+    "Facilities for Disabled Guests"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Classic",
+    "Mid-range"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620569",
+      "name": "Al Muraqqabat"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "251"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "255"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "124"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "272"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "121"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

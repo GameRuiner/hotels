@@ -1,0 +1,298 @@
+{
+  "data": [
+    {
+      "id": 945604065,
+      "lang": "en",
+      "location_id": 506158,
+      "published_date": "2024-04-06T15:00:26Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d506158-r945604065-Reviews-Hotel_1898-Barcelona_Catalonia.html?m=66827#review945604065",
+      "text": "Great location, friendly staff, lovely roof top bar. Evening bar staff really friendly. Sorry didn’t get his name.   My niece was left a complimentary bottle of cava in her room which was a lovely touch and extremely appreciated. Breakfast was lovely , we loved the choices",
+      "title": "Fab hotel",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "tap_8",
+        "user_location": {
+          "id": "186337",
+          "name": "Liverpool, Merseyside, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/43/default-avatar-2020-11.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945847462,
+        "title": "Owner response",
+        "text": "Dear Tap, Thank you for your fantastic review! We're thrilled to hear that you enjoyed our location and found our staff friendly! We're glad to hear that your niece appreciated the complimentary bottle of cava, and we're delighted to have added a special touch to your stay.\nIt's wonderful to know that you enjoyed our breakfast offerings and loved the choices available. We strive to provide a delightful dining experience for all our guests.\n\nWe hope to welcome you back again soon for another enjoyable stay. Thank you for choosing our hotel!\n\nBest regards,\n",
+        "lang": "en",
+        "author": "Benjamin Monti Muñiz",
+        "published_date": "2024-04-08T11:19:27Z"
+      }
+    },
+    {
+      "id": 945438304,
+      "lang": "en",
+      "location_id": 506158,
+      "published_date": "2024-04-05T08:00:06Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d506158-r945438304-Reviews-Hotel_1898-Barcelona_Catalonia.html?m=66827#review945438304",
+      "text": "Amazing hotel in a fantastic location. I can't fault anything. Spotless and comfortable. Great staff, rooftop with spectacular views. Breakfast fit for a king. What a friendly gem of a hotel.\nThank you for making me feel special. Made turning 50 a pleasure! \nHope to be back soon.",
+      "title": "Perfect place",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "ingrid111625",
+        "user_location": {
+          "id": "186356",
+          "name": "Nottingham, Nottinghamshire, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e9/ef/default-avatar-2020-66.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945847153,
+        "title": "Owner response",
+        "text": "Dear Ingrid, Thank you for your wonderful review! We're thrilled to hear that you had an amazing experience at our hotel and that you enjoyed our fantastic location. It's fantastic to know that everything met your expectations.\n\nWe're delighted that you found our breakfast fit for a king and that you felt special during your stay. Celebrating your 50th birthday with us was a pleasure, and we're honored to have been a part of such a special occasion.\n\nWe look forward to welcoming you back soon for another memorable stay! Thank you for choosing our hotel.\n\nBest regards,\n",
+        "lang": "en",
+        "author": "Benjamin Monti Muñiz",
+        "published_date": "2024-04-08T11:17:06Z"
+      }
+    },
+    {
+      "id": 944751684,
+      "lang": "en",
+      "location_id": 506158,
+      "published_date": "2024-04-01T04:34:30Z",
+      "rating": 4,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d506158-r944751684-Reviews-Hotel_1898-Barcelona_Catalonia.html?m=66827#review944751684",
+      "text": "Superb location, great access to walk to all the great sites to see and cafes/restaurants to eat in. Friendly helpful staff especially the bar and restaurant staff (we ate in the hotel restaurant twice). The bedroom is a great size, with an extremely comfortable bed, fridge, hairdryer and kept clean with great furnishings in keeping with the whole hotel. We stayed from Saturday 23 to Friday 29 March in a room on the 4th floor. The hotel has great sound proofing from the outside hustle and bustle and guests aren't too noisy down the corridors. We could feel the trains underground. There is a wonderful view from the rooftop and normally there would be another restaurant but it was closed, however you could order drinks. NOTE: the pool on the rooftop and in the spa area are currently closed due to a government request to preserve water. This doesn't just impact the hotel - it's all over Barcelona! You'll signs everywhere explaining why water fountains / features are currently empty. You can use the sauna and steam room for 30 minutes that needs to be pre-booked and there is a gym for use - we didn't end up using either there was too much to do. There is also in the Reception area between 16:00 and 18:00 an opportunity to have tea, coffee, biscuits and sandwiches. We only did this once as there is a very strong flora smell in the Reception area which I personally found quite overpowering for my senses. Overall a beautiful hotel which we enjoyed staying in. Thank you very much.",
+      "title": "Superb Location, Friendly Staff, Great Vacation",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Hayes_View",
+        "user_location": {
+          "id": "528819",
+          "name": "Twickenham, Richmond-upon-Thames, Greater London, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/09/b0/2c/7d/hayes-view.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/09/b0/2c/7d/hayes-view.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/09/b0/2c/7d/hayes-view.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/09/b0/2c/7d/hayes-view.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944778065,
+        "title": "Owner response",
+        "text": "Dear Hayes, Thank you for your detailed feedback! We're thrilled to hear that you enjoyed our superb location and found it convenient to explore all the great sites and eateries in the area. It's wonderful to know that you appreciated the friendly and helpful staff, especially in the bar and restaurant.\n\nWe're glad you found your room spacious and comfortable, we are also pleased that the soundproofing helped mitigate the outside hustle and bustle.\n\nThank you for choosing to stay with us, and we hope to welcome you back soon for another enjoyable stay!\n\nWarm regards,\n\n",
+        "lang": "en",
+        "author": "Benjamin Monti Muñiz",
+        "published_date": "2024-04-01T08:14:56Z"
+      }
+    },
+    {
+      "id": 944620657,
+      "lang": "en",
+      "location_id": 506158,
+      "published_date": "2024-03-31T06:16:50Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d506158-r944620657-Reviews-Hotel_1898-Barcelona_Catalonia.html?m=66827#review944620657",
+      "text": "This hotel is stunning it’s as simple as that. The location is fantastic everything on your doorstep. From the second we walked in till the second we left we were treated like royalty. Upon arrival we were given free drink on the roof top bar while are bags where sent to our room. The room was big and clean and very comfortable bed. We ate in the restaurant 3 nights of our 4 nights there the food was delicious and the staff well not enough could he said about the staff. The Breakfast was good to we ate there everyday to and the breakfast team where supper to. The only fault I had with this hotel and nothing to do with them really was the pools were closed. I will be back to Barcelona and I will be staying here again. From my family to your establishment thank you for a wonderful week and your hospitality and the love shown to my little girl not one member of staff walked by her without saying hello or engaging with her.",
+      "title": "The place to stay",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Stretchella23",
+        "user_location": {
+          "id": "186646",
+          "name": "Wicklow, County Wicklow"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1c/1a/56/67/stretchella23.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1c/1a/56/67/stretchella23.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1c/1a/56/67/stretchella23.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1c/1a/56/67/stretchella23.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/1a/56/67/stretchella23.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 944777275,
+        "title": "Owner response",
+        "text": "Dear Michael, Thank you so much for your glowing review! We're thrilled to hear that you found our hotel stunning and enjoyed the fantastic location. It's wonderful to know that you felt you were treated like royalty. We're glad you appreciated the complimentary drink on the rooftop bar and found your room spacious, clean, and comfortable.\nWe're delighted that you enjoyed dining in our restaurant and found the food delicious, and we appreciate your kind words about our staff. It's heartwarming to hear that they made such a positive impression on you and your family.\nThank you for choosing to stay with us, and we can't wait to welcome you back on your next trip to Barcelona!\n\n",
+        "lang": "en",
+        "author": "Benjamin Monti Muñiz",
+        "published_date": "2024-04-01T08:09:11Z"
+      }
+    },
+    {
+      "id": 944444867,
+      "lang": "en",
+      "location_id": 506158,
+      "published_date": "2024-03-29T19:14:52Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d506158-r944444867-Reviews-Hotel_1898-Barcelona_Catalonia.html?m=66827#review944444867",
+      "text": "Loved our trip. The location is unbeatable. We had two adjacent rooms, one for us and one for our teenaged kids. Most of the staff spoke passable to good English, which with our choppy Spanish meant we could communicate anything we needed. The front desk staff was terrific, and we got to know Chiara and Matias from the bar who, in addition to being incredibly friendly, gave us great tips on what to do in Barcelona. \n\nWould highly recommend",
+      "title": "Barcelona visit",
+      "trip_type": "Family",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "W8244ZJjenniferb",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/e3/default-avatar-2020-59.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/e3/default-avatar-2020-59.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/e3/default-avatar-2020-59.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/e3/default-avatar-2020-59.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/e3/default-avatar-2020-59.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944776781,
+        "title": "Owner response",
+        "text": "Dear Jenifer: We're thrilled to hear that you loved your trip! It's fantastic that you found our location unbeatable and that having adjacent rooms for your family worked out well. We're delighted to hear that our front desk staff, as well as Chiara and Matias from the bar, were incredibly friendly. Thank you for choosing to stay with us, and we hope to welcome you back soon for another wonderful stay!\n\n",
+        "lang": "en",
+        "author": "Benjamin Monti Muñiz",
+        "published_date": "2024-04-01T08:05:36Z"
+      }
+    }
+  ]
+}

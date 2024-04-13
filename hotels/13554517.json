@@ -1,0 +1,247 @@
+{
+  "location_id": "13554517",
+  "name": "Canopy By Hilton Dubai Al Seef",
+  "description": "Welcome to Canopy by Hilton Dubai Al Seef The perfect place in the neighborhood to relax and recharge. Canopy by Hilton Dubai Al Seef is the first representation of the Canopy upscale casual brand in the region and is located in the bustling waterfront promenade of Al Seef. Every design element across the hotel gives justice to the spirit of the surrounding upscale and modern neighborhood, which gives visitors a chance to truly immerse themselves in the destination while enjoying Hilton’s award-winning hospitality service.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d13554517-Reviews-Canopy_By_Hilton_Dubai_Al_Seef-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Seef Street",
+    "street2": "Umm Hurair 1, Dubai Creek",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Al Seef Street Umm Hurair 1, Dubai Creek, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.256021",
+  "longitude": "55.31185",
+  "timezone": "Asia/Dubai",
+  "phone": "18884466677",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d13554517-Canopy_By_Hilton_Dubai_Al_Seef-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#343 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "343"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "785",
+  "review_rating_count": {
+    "1": "38",
+    "2": "19",
+    "3": "47",
+    "4": "126",
+    "5": "555"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "950",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d13554517-m66827-Reviews-Canopy_By_Hilton_Dubai_Al_Seef-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Refrigerator in room",
+    "Conference Facilities",
+    "Safe",
+    "Rooftop Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Arabic",
+    "Baggage Storage",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "English",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Ironing Service",
+    "24-Hour Security",
+    "Sun Terrace",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Suites",
+    "Airport transportation",
+    "Business center",
+    "Family Rooms",
+    "Breakfast Available",
+    "Breakfast in the Room",
+    "Chinese",
+    "Coffee Shop",
+    "Desk",
+    "Dutch",
+    "Facial Treatments",
+    "Filipino",
+    "Foot Massage",
+    "French",
+    "Full Body Massage",
+    "German",
+    "Hand Massage",
+    "Head Massage",
+    "Hindi",
+    "Iron",
+    "Landmark View",
+    "Manicure",
+    "Neck Massage",
+    "Pedicure",
+    "Romanian",
+    "Urdu",
+    "Walk-in Shower",
+    "Waxing Services"
+  ],
+  "parent_brand": "Hilton Worldwide",
+  "brand": "Canopy by Hilton",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quirky Hotels",
+    "Boutique"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620675",
+      "name": "Umm Hurair"
+    },
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    },
+    {
+      "location_id": "15620676",
+      "name": "Umm Hurair 1"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "115"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "194"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "65"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "181"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "92"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

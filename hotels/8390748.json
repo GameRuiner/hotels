@@ -1,0 +1,340 @@
+{
+  "location_id": "8390748",
+  "name": "Caresse, a Luxury Collection Resort & Spa, Bodrum",
+  "description": "Discover unsurpassed luxury through an Aegean retreat.\nCaresse, a Luxury Collection Resort & Spa in Bodrum has 84 rooms, including 67 rooms, 9 suites, 6 One-Bedroom Residences, 1 Three-Bedroom Residence and a Caresse King Villa. All rooms offer excellent amenities, such as modern technology and Marriott's Signature Luxury Collection Beds. Every guest at the Caresse Luxury Collection Resort & Spa can experience the captivating view of the Aegean Sea, since each room has its own private terrace or balcony. Luxury extends to a stylish blend of chic furnishings and tasteful bathrooms, that stand as the epitome of lavish comfort. Relax, unwind and allow your senses to fully embrace the unique tranquility of Bodrum. In addition to this luxurious experience, our discreet and attentive guest assistant is always on hand to grant your every wish.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298658-d8390748-Reviews-Caresse_a_Luxury_Collection_Resort_Spa_Bodrum-Bodrum_City_Bodrum_District_Mugla_Provin.html?m=66827",
+  "address_obj": {
+    "street1": "Adnan Menderes Caddesi No: 89",
+    "street2": "Asarlik Mevkii Park 225",
+    "city": "Bodrum City",
+    "state": "Mugla Province",
+    "country": "Turkiye",
+    "postalcode": "48400",
+    "address_string": "Adnan Menderes Caddesi No: 89 Asarlik Mevkii Park 225, Bodrum City 48400 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Bodrum City",
+      "location_id": "298658"
+    },
+    {
+      "level": "District",
+      "name": "Bodrum District",
+      "location_id": "298020"
+    },
+    {
+      "level": "Province",
+      "name": "Mugla Province",
+      "location_id": "298019"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "37.02234",
+  "longitude": "27.38999",
+  "timezone": "Europe/Istanbul",
+  "phone": "18446310595",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298658-d8390748-Caresse_a_Luxury_Collection_Resort_Spa_Bodrum-Bodrum_City_Bodrum_District_Mugla_Province_Turkish.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298658",
+    "ranking_string": "#22 of 164 hotels in Bodrum City",
+    "geo_location_name": "Bodrum City",
+    "ranking_out_of": "164",
+    "ranking": "22"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "341",
+  "review_rating_count": {
+    "1": "19",
+    "2": "12",
+    "3": "15",
+    "4": "36",
+    "5": "259"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "756",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298658-d8390748-m66827-Reviews-Caresse_a_Luxury_Collection_Resort_Spa_Bodrum-Bodrum_City_Bodrum_District_Mugla_Provin.html#photos",
+  "price_level": "$$$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Wheelchair access",
+    "Restaurant",
+    "Meeting rooms",
+    "Fitness center",
+    "Pool",
+    "Internet",
+    "Beachfront",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Bar/Lounge",
+    "Spa",
+    "Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Business center",
+    "Laundry Service",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Sauna",
+    "Couples Massage",
+    "Doorperson",
+    "Facial Treatments",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Full Body Massage",
+    "Hammam",
+    "Ironing Service",
+    "Massage",
+    "Pool with View",
+    "24-Hour Security",
+    "Steam Room",
+    "Sun Umbrellas",
+    "Free parking",
+    "Airport transportation",
+    "Concierge",
+    "Family Rooms",
+    "Babysitting",
+    "Butler Service",
+    "Infinity Pool",
+    "Breakfast Available",
+    "Parking",
+    "Azerbaijani",
+    "Baggage Storage",
+    "Boating",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Convenience Store",
+    "Currency Exchange",
+    "English",
+    "24-Hour Front Desk",
+    "Highchairs Available",
+    "Infirmary",
+    "Kids' Meals",
+    "Kids' Outdoor Play Equipment",
+    "Makeup Services",
+    "Outdoor Furniture",
+    "Patio",
+    "Pool / Beach Towels",
+    "Pool View",
+    "Russian",
+    "Shops",
+    "Snorkeling",
+    "Sun Deck",
+    "Sun Loungers / Beach Chairs",
+    "Turkish",
+    "Water Sport Equipment Rentals",
+    "Whirlpool Bathtub",
+    "Photo Copier / Fax In Business Center",
+    "Beach Access"
+  ],
+  "parent_brand": "Marriott",
+  "brand": "Luxury Collection",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Modern",
+    "Trendy"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "9"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "135"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "13"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "91"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "38"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

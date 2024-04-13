@@ -1,0 +1,333 @@
+{
+  "data": [
+    {
+      "id": 944707095,
+      "lang": "en",
+      "location_id": 19779896,
+      "published_date": "2024-03-31T17:45:20Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d19779896-r944707095-Reviews-Naama_Bay_Promenade_Beach_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review944707095",
+      "text": "A lovely hotel by the sea with beautiful views of Naama Bay. Good service and food, lots of fruits and vegetables and a favorite Japanese restaurant in the main building. I would like to mention the animators separately, it has always been fun, interesting, there are many programs to choose from: yoga, stretching and others. Daily trips to night parties accompanied and delivered, everything is organized, fun and safe.",
+      "title": "Vocation March 2024",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "belochkamoscow",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/e6/default-avatar-2020-45.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 944751747,
+        "title": "Owner response",
+        "text": "Dear guest,\nIt has been a pleasure to host you and we love to hear that you had a good vacation with us. The staff is there to make you feel comfortable and we are so pleased to note that you appreciated their efforts.\nThank you for taking the time to write this review and we look forward to welcoming you back again in the near future.\nSunny regards Naama Bay Promenade Beach Resort Team.\n",
+        "lang": "en",
+        "author": "Anna Sinitsina",
+        "published_date": "2024-04-01T04:35:06Z"
+      }
+    },
+    {
+      "id": 944543517,
+      "lang": "en",
+      "location_id": 19779896,
+      "published_date": "2024-03-30T14:28:04Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d19779896-r944543517-Reviews-Naama_Bay_Promenade_Beach_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review944543517",
+      "text": "Was a bit sceptic about going Egypit as read and heard mixed reviews. Arrived pretty late at hotel and was welcomed by staff at reception. He accommodated us really fast so that we could grab a few drinks before closing. Soup and fresh bread was available as kitchen was already closed. From there it only got better.\nFood was freshly made every day with good variety. Water  juice and coffee stations all around hotel. Hotel looks absolutely amazing so does the pool area. Never a shortage of sun lounges. Towels issued each day.\nStaff at the bar were outstanding and couldn't be more friendly or helpful!\nEntertainment team were always available and checking on us.\nVery close to airport and in middle of town centre.\nGuys at shops also deserve a credit.\nNot once have we been asked for any tips and even if wanted to give some they wouldn't take.\nAt time it felt that staff at bar were watched by supervisor (blue shirts) which made us feel a bit uncomfortable. They wouldn't speak to any guest just watch what everyone was doing. \nOverall great experience and would recommend.",
+      "title": "Great experience",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "nataliadA3262FJ",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e8/ea/default-avatar-2020-63.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e8/ea/default-avatar-2020-63.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e8/ea/default-avatar-2020-63.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e8/ea/default-avatar-2020-63.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e8/ea/default-avatar-2020-63.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944610300,
+        "title": "Owner response",
+        "text": "Dear guest,\nIt has been a pleasure to host you and we love to hear that you had a good vacation with us. The staff is there to make you feel comfortable and we are so pleased to note that you appreciated their efforts.\nThank you for taking the time to write this review and we look forward to welcoming you back again in the near future.\nSunny regards Naama Bay Promenade Beach Resort Team.\n",
+        "lang": "en",
+        "author": "Anna Sinitsina",
+        "published_date": "2024-03-31T04:28:45Z"
+      }
+    },
+    {
+      "id": 944421102,
+      "lang": "en",
+      "location_id": 19779896,
+      "published_date": "2024-03-29T15:33:20Z",
+      "rating": 2,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d19779896-r944421102-Reviews-Naama_Bay_Promenade_Beach_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review944421102",
+      "text": "Right \nI will start with the description 5 stars 🌟 hotel \n( I’m sorry, but for the rooms conditions and hotel conditions it’s 3 stars 🌟 hotel. old rooms, old bathrooms, the tiles are moving on the floor) \nFood: needs to improve a little, try to change the food..not all days ( almost )the same food ( more types of food ) ( from 1 to 10 = 6\nSweats and cakes: big improvement is required ( from 1 to 10 = 4 )\nFood service personal: satisfied, respectful personal ( from 1 to 10 = 8 )\nBar service personal beach side: Needs to improve in service and how to talk with the customer ( from 1 to 10 = 4 )\nTeam leaders, the guys in the blue shirt that all the time are going around the hotel and staying at the beach bar :: I don’t know how and who gave you the jobs there guys, but definitely you doing the job very bad and wrong \nYou guys are the image of the hotel, in my opinion: smile a little, talk with the customer, make them feel welcome, ask them how things are going, how they are  feling( I saw only bad attitude from their side)\nI remember a lady came to the bar beach, obviously the lady ben a little drunk..and she asked for a small drink ( that told guy team leader in the blue shirt told her like this : The woman should not be drinking)\nHonestly like customer a big NO NO NO..very bad attitude from the team leader \nNever in my life I saw so bad management\nTeam leadership ( the guys in the blue shirt 👔 seating all the time next to the beach bar) from 1 to 10 = 0 \n\nTips money for the workers: in my opinion let the workers getting tips from the costumer, that’s how we showing our gratitude to the service that we receiving. \n\nFor ending the feedback \nFor the owner of the hotel, you need to improve some things..and in my opinion start with the team leaders ( the guys in the blue shirts 👔 the guys that are seating all day next to the beach bar ) \nThat guys are the image and the face of your business, and believe me is not good at all.\n\nHave great day 🤝",
+      "title": "Poor",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "danielgabriela",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ee/68/default-avatar-2020-9.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ee/68/default-avatar-2020-9.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ee/68/default-avatar-2020-9.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ee/68/default-avatar-2020-9.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ee/68/default-avatar-2020-9.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944610160,
+        "title": "Owner response",
+        "text": "Dear Guest,\nThank you for your valuable time sharing your experience. For us is very important to know how our valuable guest spend their holiday with us.\nThe Management of the Resort is taking to the consideration each single guest recommendation.\nAccording to your evaluation ratings we could see that not all services have been provided by high level.\nWe apologize for not meeting your vacation expectations in some of service of the Resort. \nWe will make action with according to your comments to avoid this in future. Once again we would like to thank you for sharing your vacation experience with us and for your valuable comments\nWith best regards, Team of Naama Bay Promenade Beach Resort.\n",
+        "lang": "en",
+        "author": "Anna Sinitsina",
+        "published_date": "2024-03-31T04:27:24Z"
+      }
+    },
+    {
+      "id": 944109560,
+      "lang": "en",
+      "location_id": 19779896,
+      "published_date": "2024-03-27T07:47:13Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d19779896-r944109560-Reviews-Naama_Bay_Promenade_Beach_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review944109560",
+      "text": "We had a great stay, and will be back… that’s for sure! \n\nLovely food, nice rooms and the most fantastic staff. So kind and helpfull.\nThe hotel is very clean everywhere.\nBeach is awesome\nEntertainment in the evening is very good - funny for both kids and adults.\n\nAll my best recommendations to this hotel!",
+      "title": "⭐️⭐️⭐️⭐️⭐️",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "trineelkjaer2019",
+        "user_location": {
+          "id": "230032",
+          "name": "Koege, Koege Municipality, South Zealand, Zealand"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/81/default-avatar-2020-43.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944610245,
+        "title": "Owner response",
+        "text": "Dear guest,\nIt has been a pleasure to host you and we love to hear that you had a good vacation with us. The staff is there to make you feel comfortable and we are so pleased to note that you appreciated their efforts.\nThank you for taking the time to write this review and we look forward to welcoming you back again in the near future.\nSunny regards Naama Bay Promenade Beach Resort Team.\n",
+        "lang": "en",
+        "author": "Anna Sinitsina",
+        "published_date": "2024-03-31T04:28:16Z"
+      }
+    },
+    {
+      "id": 943810261,
+      "lang": "en",
+      "location_id": 19779896,
+      "published_date": "2024-03-25T16:51:06Z",
+      "rating": 3,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d19779896-r943810261-Reviews-Naama_Bay_Promenade_Beach_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review943810261",
+      "text": "Scraping a 4* rating!! Stayed beach side, better than mountain side but still needs a load of money throwing at this place as it’s very tired looking! \nNot much on offer for all inclusive, with the food being nice but very repetitive all week. Didn’t even bother having the local cheap booze……\nRoom was spacious and clean but run down. \nThe best part by far are the super friendly staff who made us feel very welcome, loving the fact we were English as it’s 90% Russian. \nWe had a great week for the price we paid!!!",
+      "title": "Scraping 4*",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "amyrL8022IW",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/a3/default-avatar-2020-38.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 943883795,
+        "title": "Owner response",
+        "text": "Dear guest,\nIt has been a pleasure to host you and we love to hear that you had a good vacation with us. The staff is there to make you feel comfortable and we are so pleased to note that you appreciated their efforts.\nThank you for taking the time to write this review and we look forward to welcoming you back again in the near future.\nSunny regards Naama Bay Promenade Beach Resort Team.\n",
+        "lang": "en",
+        "author": "Anna Sinitsina",
+        "published_date": "2024-03-26T09:10:55Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "location_id": "5667617",
+  "name": "Movenpick Jumeirah Lakes Towers",
+  "description": "Located in Jumeirah Lake Towers in Dubai, Mövenpick Hotel Jumeirah Lakes Towers offers modern rooms with free Wi-Fi. The hotel features a fully equipped gym, an outdoor pool and a spa. Each one offers views of Lakes and Dubai Marina Skyline, a flat-screen TV, tea and coffee making facilities, a spacious bathroom with a combination of bathtub and rainfall shower. The hotel boasts several dining options including The urban bar and kitchen. Guests can indulge in an open kitchen ambiance in Nosh restaurant with themed nights buffet and a la carte menu. At an additional charge, the hotel features access to an exclusive beach, RIVA beach club, a luxury and serene escape located in the Palm Jumeirah (15 min away). Certain room types offer this feature on complimentary basis. It is just 5-minute walk from Jumeirah Lakes Towers Metro Station and Marina mall. Ibn Battuta mall is 10-minute drive away. It is as well close to the famous Palm Jumeirah, beaches and golf courses.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d5667617-Reviews-Movenpick_Jumeirah_Lakes_Towers-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Cluster A",
+    "street2": "Jumeirah Lakes Towers",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "454439",
+    "address_string": "Cluster A Jumeirah Lakes Towers, Dubai 454439 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.065832",
+  "longitude": "55.138103",
+  "timezone": "Asia/Dubai",
+  "phone": "01197144380000",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d5667617-Movenpick_Jumeirah_Lakes_Towers-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#86 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "86"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "3212",
+  "review_rating_count": {
+    "1": "64",
+    "2": "72",
+    "3": "201",
+    "4": "704",
+    "5": "2171"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1405",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d5667617-m66827-Reviews-Movenpick_Jumeirah_Lakes_Towers-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Internet",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Butler Service",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Sauna",
+    "Allergy-free Room",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Children's Television Networks",
+    "Chinese",
+    "Clothes Rack",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Convenience Store",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Game Room",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hindi",
+    "Indonesian",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Karaoke",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Massage",
+    "Newspaper",
+    "Outdoor Furniture",
+    "Romanian",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shoeshine",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Wine / Champagne",
+    "Public Wifi",
+    "Parking",
+    "Body Wrap",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Foot Massage",
+    "Free Wifi in the Business Center",
+    "Full Body Massage",
+    "Hand Massage",
+    "Happy Hour",
+    "Head Massage",
+    "Highchairs Available",
+    "Laptop Safe",
+    "Makeup Services",
+    "Manicure",
+    "Neck Massage",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Personal Trainer",
+    "Sofa",
+    "Swahili",
+    "Tile / Marble Floor",
+    "Ukrainian",
+    "Urdu",
+    "Valet Parking",
+    "Video Game Console",
+    "Wardrobe / Closet",
+    "Waxing Services",
+    "Beach Access"
+  ],
+  "parent_brand": "Accor",
+  "brand": "Movenpick",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Lake View",
+    "Residential Neighborhood"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620646",
+      "name": "Jumeirah Lakes Towers (JLT)"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "752"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "741"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "261"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "724"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "510"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

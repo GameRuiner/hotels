@@ -1,0 +1,328 @@
+{
+  "data": [
+    {
+      "id": 945651174,
+      "lang": "en",
+      "location_id": 858495,
+      "published_date": "2024-04-07T02:07:26Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d858495-r945651174-Reviews-Amwaj_Rotana-Dubai_Emirate_of_Dubai.html?m=66827#review945651174",
+      "text": "Lovely welcome in the early hours of the morning, family room with sea view on the 19th floor was beautiful; very clean and spacious with everything that you could need. The lifts as others mentioned are a slight issue..with only 3 for so many floors then you can be in for a wait. My daughter uses a wheelchair so the stairs weren’t an option for us but nobody seemed to be using them even for just one floor. \n\nWe went half board and food was always delicious both in the Horizon buffet restaurant and also the others (the Japanese was our favourite and Rajnit was a real standout waitress). The pool was good fun and the lifeguards always helped to find a sun lounger which was a nice touch. \n\nLocation of hotel was perfect and beach access was really handy. Thank you so much for a wonderful stay in Dubai!",
+      "title": "Great location for a good hotel",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "dianas55",
+        "user_location": {
+          "id": "186485",
+          "name": "Scotland"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/de/0a/default-avatar-2020-35.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/de/0a/default-avatar-2020-35.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/de/0a/default-avatar-2020-35.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/de/0a/default-avatar-2020-35.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/de/0a/default-avatar-2020-35.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 945359410,
+      "lang": "en",
+      "location_id": 858495,
+      "published_date": "2024-04-04T14:07:59Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d858495-r945359410-Reviews-Amwaj_Rotana-Dubai_Emirate_of_Dubai.html?m=66827#review945359410",
+      "text": "This hotel is absolutely amazing! We are a family of 4 and our little boy who is 6 and has autism is absolutely loving his stay and so are we. Because he is very fuzzy with food all the chefs at the Horizon have kindly made special meals for him I.e chicken nuggets and plain noodles. Thank you so much!The serving staff at the Horizon have been brilliant catering for our every need. A special shot out to Troy who went out of his way to find me some chamomile tea for this tired mum. The people at the entrance and the valets are nicest people ever and they are always not only asking us if we need anything but also going out of their way to interact with out boy to the point that he wants to take photos of them. We have been so well looked after and this is just day 3! Super inclusive hotel. Highly recommended! Amazing staff with amazing hearts! Last shout out to Maureen at Flippers for looking after our boy. We were able to finally have 40 min quality time because he was so happy there without his parents there. Flippers is the kids club.\nTheir gym is pretty cool too!",
+      "title": "Family with a tiny spiderman fan",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "536lidian",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e9/bb/default-avatar-2020-65.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945554337,
+        "title": "Owner response",
+        "text": "Dear valuable guest,\n\nGreetings from Amwaj Rotana JBR!\n\nThank you for choosing to stay with us and for taking the time to share your valuable feedback. \n\nIt brings me immense joy to hear that your family has been enjoying their time with us. \n\nI'm thrilled to learn that our culinary team at Horizon could accommodate your son's dietary requirements, providing him with meals he enjoys. It's wonderful to know that our staff went above and beyond to make sure you had everything you needed. We take great pride in our team's dedication to providing exceptional service. Moreover, I'm glad Maureen at Flippers was able to provide a safe and enjoyable environment for your son, giving you some well-deserved quality time. Our kids club aims to create memorable experiences for our younger guests, and it's fantastic to hear that he had a great time there.\n\nThank you for also mentioning our gym facilities. We strive to offer amenities that cater to all our guests' needs, and I'm pleased that you found them to your liking.\n\nYour recommendation means the world to us, and we are incredibly grateful for your kind words. It would be our utmost pleasure to welcome you back for another unforgettable stay in the future.\n\nWarm regards,\nHossam Kamal\nGeneral Manager\n",
+        "lang": "en",
+        "author": "Hossam Kamal",
+        "published_date": "2024-04-06T07:36:54Z"
+      }
+    },
+    {
+      "id": 945214466,
+      "lang": "en",
+      "location_id": 858495,
+      "published_date": "2024-04-03T10:16:49Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d858495-r945214466-Reviews-Amwaj_Rotana-Dubai_Emirate_of_Dubai.html?m=66827#review945214466",
+      "text": "Returned home yesterday, 2nd April. Stayed for 7 nights and from the moment we arrived until the moment we left, we absolutely loved the hotel.  Our room was superb, in fact it was massive and came with all the usual things you would expect from a top notch hotel.   Our room had a full sea view which looked directly at the Ain on Bluewater Island.  Horizon buffet restaurant was beautiful although we only eat in there for breakfast.  We were all inclusive which included a Dine Around Package so we could eat in the other 3 restaurants in the hotel.  All 3 were fabulous.  Can't pick a favourite as they were all great !\n\nStaff at the hotel cannot do enough for you.   Don't be afraid to ask for anything as they'll sort it for you.  Nothing is too much trouble.   We enjoyed some wonderful conversations with Saw from the Italian bar.  Such a really nice guy from Burma and will go out of his way to make your stay such a good one.  Thank you Saw !!!    Thanks to Soji and Hassan from the pool bar.  Same again, nothing is too much trouble, ask and  you'll get it.    Thanks to the lifeguard from India (can't remember his name).. Took time out to come and chat to us on several occasions.\n\nHeatfelt thank you's to each and every one at the Amwaj Rotana, you made our holiday to Dubai an amazing one 🥰🥰🥰",
+      "title": "Absolutely Perfect !!!",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "CazzaannP",
+        "user_location": {
+          "id": "504069",
+          "name": "Mansfield, Nottinghamshire, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/24/e0/16/ef/cazzap2663.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/24/e0/16/ef/cazzap2663.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/24/e0/16/ef/cazzap2663.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/24/e0/16/ef/cazzap2663.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/24/e0/16/ef/cazzap2663.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945553418,
+        "title": "Owner response",
+        "text": "Dear valuable guest,\n\nGreetings from Amwaj Rotana JBR!\n\nThank you ever so much for taking the time to share your delightful experience during your seven-night stay. Reading your review was an absolute pleasure for all of us here at the hotel.\n\nI am thrilled to hear that every aspect of your stay, from the moment you arrived until your departure, exceeded your expectations. Your appreciation for our spacious rooms, complete with breathtaking views, warms our hearts. It's wonderful to know that our buffet and our other dining options left a lasting impression on you. Your kind words about our culinary offerings truly motivate us to continually strive for excellence.\n\nMoreover, I cannot express enough gratitude for your recognition of our dedicated team members, particularly Saw from the Italian Restaurant, Soji and Hassan from the pool bar, and lifeguard Sujin. They epitomize the spirit of hospitality that we aim to deliver to each and every guest, and I will ensure that your commendations are shared with them. It's moments like these that truly reaffirm our commitment to providing exceptional service and creating memorable experiences for our guests.\n\nOnce again, on behalf of the entire team at Amwaj Rotana JBR, thank you for choosing to stay with us and for your heartfelt words of appreciation. It was our pleasure to be a part of making your holiday in Dubai an amazing one.\n\nWe eagerly await the opportunity to welcome you back for another unforgettable stay whenever your travels bring you to Dubai.\n\nWarm regards,\nHossam Kamal\nGeneral Manager",
+        "lang": "en",
+        "author": "Hossam Kamal",
+        "published_date": "2024-04-06T07:27:12Z"
+      }
+    },
+    {
+      "id": 944916466,
+      "lang": "en",
+      "location_id": 858495,
+      "published_date": "2024-04-02T07:15:06Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d858495-r944916466-Reviews-Amwaj_Rotana-Dubai_Emirate_of_Dubai.html?m=66827#review944916466",
+      "text": "Once again we had the most fabulous time at the Amwaj Rotana- we would never stay anywhere else in Dubai. We hooked through Booking.com this time and would be very hesitant to do so again. There were huge problems with them and thankfully Saed, one of the managers, sorted it out for us. Many thanks also to Sujin who always goes above and beyond and also to Oveto and Wael. Can't wait to go back!",
+      "title": "Lovely holiday",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "mmcneely2018",
+        "user_location": {
+          "id": "186470",
+          "name": "Belfast, Northern Ireland"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/e3/default-avatar-2020-59.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/e3/default-avatar-2020-59.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/e3/default-avatar-2020-59.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/e3/default-avatar-2020-59.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/e3/default-avatar-2020-59.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945156193,
+        "title": "Owner response",
+        "text": "Dear valuable guest, \n\nThank you very much for taking the time to share your recent experience at Amwaj Rotana JBR. It's truly heartening to read about your lovely holiday and the wonderful memories you've created during your stay with us.\n\nWe are delighted to know that you thoroughly enjoyed your time with us and that our team members contributed to making your stay memorable. Your kind words will surely be shared with them, as they continuously strive to exceed our guests' expectations.\n\nWe sincerely appreciate your loyalty and your decision to choose Amwaj Rotana JBR as your preferred accommodation in Dubai. We are looking forward to welcoming you back for another exceptional stay with us.\n\nWarm regards,\nHossam Kamal\nGeneral Manager",
+        "lang": "en",
+        "author": "Hossam Kamal",
+        "published_date": "2024-04-03T07:57:06Z"
+      }
+    },
+    {
+      "id": 944907612,
+      "lang": "en",
+      "location_id": 858495,
+      "published_date": "2024-04-02T05:51:06Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d858495-r944907612-Reviews-Amwaj_Rotana-Dubai_Emirate_of_Dubai.html?m=66827#review944907612",
+      "text": "This superb five-star hotel boasts exceptional amenities, including a selection of dining options and a delightful ambiance. Conveniently situated, it offers easy access to the beach, merely a five-minute walk away. Despite its many merits, we did encounter minor inconveniences such as missing towels and unattended water replenishment. However, these issues were promptly addressed with a simple call to reception, showcasing the efficiency and responsiveness of the staff. Speaking of whom, the hotel personnel are exceedingly hospitable and accommodating. The experience was occasionally marred by the behaviour of certain guests, whose rude demeanour towards both fellow patrons and staff members occasionally detracted from an otherwise excellent stay.",
+      "title": "Excellent holiday",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "C8418HQsimong",
+        "user_location": {
+          "id": "190731",
+          "name": "The Royal Town of Sutton Coldfield, West Midlands, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f4/5d/default-avatar-2020-32.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945151478,
+        "title": "Owner response",
+        "text": "Dear valuable guest,\n\nThank you for taking the time to share your recent experience at Amwaj Rotana JBR. We appreciate your detailed feedback and are delighted to hear that you enjoyed our exceptional amenities and convenient location near the beach.\n\nWhile it's regrettable to learn about the minor inconveniences you encountered during your stay, such as missing towels and unattended water replenishment, we are pleased to note that our team promptly addressed these issues upon notification. Your acknowledgment of our staff's efficiency and responsiveness is greatly appreciated and motivates us to continually improve our services.\n\nWe also value your feedback regarding the behavior of certain guests. Please rest assured that we take such matters seriously and will continue to uphold a respectful and welcoming environment for all our guests and staff members.\n\nOnce again, thank you for choosing Amwaj Rotana JBR. We look forward to welcoming you back for another memorable stay in the near future.\n\nWarm regards,\n\nHossam Kamal\nGeneral Manager",
+        "lang": "en",
+        "author": "Hossam Kamal",
+        "published_date": "2024-04-03T07:53:36Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "location_id": "8055869",
+  "name": "Hyatt Place Dubai Baniyas Square",
+  "description": "Hyatt Place Dubai Baniyas Square is conveniently located in Deira, just off the Naif Road. Famed for its hub for retail and wholesale shops, the hotel provides comfortable experiences to both business and leisure travelers alike. Offering 127 spacious guestrooms, the hotel features a variety of services and amenities, including free breakfast buffet served daily with your stay. Enjoy a variety of cuisines on our all-day dining restaurant serving lunch and dinner or grab a quick bite from The Market which offers delicious options of snacks and beverages for you to Grab ‘n Go. Other amenities include free access to the 24-hour Fitness Center and outdoor swimming pool.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d8055869-Reviews-Hyatt_Place_Dubai_Baniyas_Square-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "15 Al Suq Al Kabeer St",
+    "street2": "Al Rigga",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "33178",
+    "address_string": "15 Al Suq Al Kabeer St Al Rigga, Dubai 33178 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.2686",
+  "longitude": "55.3055",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d8055869-Hyatt_Place_Dubai_Baniyas_Square-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#155 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "155"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1774",
+  "review_rating_count": {
+    "1": "34",
+    "2": "25",
+    "3": "103",
+    "4": "352",
+    "5": "1260"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "413",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d8055869-m66827-Reviews-Hyatt_Place_Dubai_Baniyas_Square-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Breakfast included",
+    "Pool",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Wheelchair access",
+    "Restaurant",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Babysitting",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Iron",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Pool / Beach Towels",
+    "24-Hour Security",
+    "Snack Bar",
+    "Soundproof Rooms",
+    "Sun Loungers / Beach Chairs",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Air Purifier",
+    "Bidet",
+    "Electric Kettle",
+    "First Aid Kit",
+    "iPod Docking Station",
+    "Laptop Safe",
+    "Russian",
+    "Sofa",
+    "Sofa Bed",
+    "Walk-in Shower",
+    "Walking Tours",
+    "Wardrobe / Closet"
+  ],
+  "parent_brand": "Hyatt Hotels",
+  "brand": "Hyatt Place",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "City View",
+    "Centrally Located"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620596",
+      "name": "Al Rigga"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "557"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "199"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "135"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "522"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "145"
+    }
+  ],
+  "awards": []
+}

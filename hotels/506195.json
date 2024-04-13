@@ -1,0 +1,183 @@
+{
+  "location_id": "506195",
+  "name": "Jumeirah Dar Al Masyaf",
+  "description": "This property is 3 minutes walk from the beach. Set among gardens, waterways, pools and the resort’s private beach, the summerhouses of Jumeirah Dar Al Masyaf offers refurbished guestrooms and courtyards and butler service. All guests can enjoy complimentary access to Wild Wadi Waterpark™. Guests can enhance their experience with the Palace club lounge and enjoy complimentary benefits. The summerhouses offer a hideaway, large terraces overlooking the fresh seawater ways and high-tech bedroom facilities. Jumeirah Dar Al Masyaf's guest rooms and suites are all located in Arabian-styled houses. All of the spacious rooms are decorated with furnishings of authentic Arabic style, and have bathrooms.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d506195-Reviews-Jumeirah_Dar_Al_Masyaf-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "King Salman Bin Abdulaziz Al Saud St",
+    "street2": "Al Sufouh 1",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "King Salman Bin Abdulaziz Al Saud St Al Sufouh 1, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.141172",
+  "longitude": "55.19183",
+  "timezone": "Asia/Dubai",
+  "phone": "01197180058634724",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d506195-Jumeirah_Dar_Al_Masyaf-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#180 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "180"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "6227",
+  "review_rating_count": {
+    "1": "79",
+    "2": "63",
+    "3": "169",
+    "4": "438",
+    "5": "5478"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "5064",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d506195-m66827-Reviews-Jumeirah_Dar_Al_Masyaf-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Breakfast in the Room",
+    "Doorperson",
+    "English",
+    "24-Hour Front Desk",
+    "Gift Shop",
+    "Interconnected room(s) available",
+    "Massage",
+    "Pool / Beach Towels",
+    "Wake Up Service / Alarm Clock",
+    "Executive Lounge Access"
+  ],
+  "parent_brand": "Jumeirah Group",
+  "brand": "Jumeirah",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Family",
+    "Lagoon View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620682",
+      "name": "Umm Suqeim 3"
+    },
+    {
+      "location_id": "15620679",
+      "name": "Umm Suqeim"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "199"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "2236"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "79"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "2508"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "403"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

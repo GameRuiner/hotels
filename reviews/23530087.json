@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "id": 943677415,
+      "lang": "en",
+      "location_id": 23530087,
+      "published_date": "2024-03-24T17:28:10Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d23530087-r943677415-Reviews-Punta_Vista_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review943677415",
+      "text": "We stayed at the Punta Vista hotel for 6 nights on March 17, 2024.  Since the reason for our trip was a city trip, the main thing for us when choosing a hotel was the location and cleanliness of the hotel.  Thankfully, both issues did not mislead us in our choice.  While making a choice, the opinions of the guests during the last 1 year helped us a lot.  For this reason, I also prefer to write in detail.  The hotel is a small apartment hotel.  There is no food service.  It is located at an ideal distance to all directions of the city.  It was not a noisy and tiring zone.  The hotel staff were very kind, smiling and helpful.  They helped closely even in the smallest detail.  The room was cleaned every day even if we didn't inform.  It would not be wrong to say that it was one of the most suitable options for the period we visited, both in terms of price and location.  Thanks again everyone!  We wish you success in your work!",
+      "title": "It is recommended!",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "elkhanmmdv",
+        "user_location": {
+          "id": "293934",
+          "name": "Baku, Absheron Region"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/de/5a/default-avatar-2020-36.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/de/5a/default-avatar-2020-36.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/de/5a/default-avatar-2020-36.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/de/5a/default-avatar-2020-36.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/de/5a/default-avatar-2020-36.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 890727645,
+      "lang": "en",
+      "location_id": 23530087,
+      "published_date": "2023-05-17T09:23:48Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d23530087-r890727645-Reviews-Punta_Vista_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review890727645",
+      "text": "We stayed at the Punta Vista Hotel for 2 nights, 3 days and it was an absolutely amazing experience. The hotel manager (Sergio) was extremely helpful with translations, local tips and took great care of us. The rooms are spacious, clean, well lit and really comfortable. We would recommend this hotel to anyone visiting Konak, Izmir! Will definitely come back to stay if we're ever in Izmir again! - Marquie ",
+      "title": "10/10 great experience",
+      "trip_type": "Friends getaway",
+      "travel_date": "2023-05-31",
+      "user": {
+        "username": "marquiel2021",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ed/00/default-avatar-2020-4.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ed/00/default-avatar-2020-4.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ed/00/default-avatar-2020-4.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ed/00/default-avatar-2020-4.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ed/00/default-avatar-2020-4.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

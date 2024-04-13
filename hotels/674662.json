@@ -1,0 +1,198 @@
+{
+  "location_id": "674662",
+  "name": "Tamani Marina Hotel & Hotel Apartment",
+  "description": "Overlooking the Palm Island, the five star business and leisure hotel has the distinction of being the first Islamic all-suites hotel in Dubai. Located right at the heart of the commercial business hub of Dubai Marina it offers a sought after landmark for stylish meetings, and a sanctuary of relaxing vacation trips.Each of our business hotel 55 storey’s evokes a unique breathe of the Palm and Marina Waters, epitomizing nothing but discrete luxury, make it your perfect choice for hosting successful meetings, business gatherings or enjoying a leisure trip.Our warm, relaxed atmosphere embraces the distinctiveness of Dubai’s local culture. Combined with the variety of services offered, it is easy to create your own unique, memorable experiences.Come and visit Tamani Hotel Marina in the heart of the prestigious modern area of Dubai",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d674662-Reviews-Tamani_Marina_Hotel_Hotel_Apartment-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "King Salman Bin Abdul Aziz Al Saud Street",
+    "street2": "Near Damac Properties, Dubai Marina",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "King Salman Bin Abdul Aziz Al Saud Street Near Damac Properties, Dubai Marina, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.091076",
+  "longitude": "55.149406",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d674662-Tamani_Marina_Hotel_Hotel_Apartment-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#394 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "394"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "710",
+  "review_rating_count": {
+    "1": "53",
+    "2": "55",
+    "3": "102",
+    "4": "234",
+    "5": "266"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "514",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d674662-m66827-Reviews-Tamani_Marina_Hotel_Hotel_Apartment-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Restaurant",
+    "Fitness center",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Free parking",
+    "Wheelchair access",
+    "Business center",
+    "Kitchenette",
+    "Suites",
+    "Airport transportation",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Accessible rooms",
+    "Microwave",
+    "Refrigerator in room",
+    "Conference Facilities",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Indoor pool",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Arabic",
+    "Fitness / Spa Locker Rooms",
+    "Room service",
+    "Smoking rooms available",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Marina View",
+    "Harbor View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620603",
+      "name": "Al Sufouh"
+    },
+    {
+      "location_id": "15620605",
+      "name": "Al Sufouh 2"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "149"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "34"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "126"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "248"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "95"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

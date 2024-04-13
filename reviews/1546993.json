@@ -1,0 +1,295 @@
+{
+  "data": [
+    {
+      "id": 945547337,
+      "lang": "en",
+      "location_id": 1546993,
+      "published_date": "2024-04-06T06:21:17Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d1546993-r945547337-Reviews-Citymax_Hotel_Al_Barsha_at_the_Mall-Dubai_Emirate_of_Dubai.html?m=66827#review945547337",
+      "text": "Nice place and nice rooms 🛋️🛋️🛋️🛋️\nThe room was clear🧹🧼🧽🚿🪥🫧🧴⚪🎼\nThe stuff is very friendly 🤠🤠😄\nThe place is great u can reach the emarats mall just by 2 min on foot 👣👣\nI❤️☺️🌎🌍🌎🌍\nI had a room with borj el arabe \" arabe 🗼🗼 for free",
+      "title": "My experience was good",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "younesd591",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/de/5a/default-avatar-2020-36.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/de/5a/default-avatar-2020-36.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/de/5a/default-avatar-2020-36.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/de/5a/default-avatar-2020-36.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/de/5a/default-avatar-2020-36.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945599803,
+        "title": "Owner response",
+        "text": "Dear Valued Guest,\n\nThank you for the feedback on your stay at Citymax Hotel Al Barsha at the Mall! \nYour comments will be shared with our entire staff as we are glad to know you were pleased with your overall stay. \nThank you for choosing Citymax Hotel Al Barsha At the Mall and we look forward to welcome you in the not too distant future! \nRegards,\nSandeep Sewal\t\t\t\t\t\t\t\nGeneral Manager\n",
+        "lang": "en",
+        "author": "Sandeep Sewal",
+        "published_date": "2024-04-06T14:22:05Z"
+      }
+    },
+    {
+      "id": 945016985,
+      "lang": "en",
+      "location_id": 1546993,
+      "published_date": "2024-04-03T02:57:29Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d1546993-r945016985-Reviews-Citymax_Hotel_Al_Barsha_at_the_Mall-Dubai_Emirate_of_Dubai.html?m=66827#review945016985",
+      "text": "Nice hotel and food , very clean rooms especially raj rom cleaner doing good job , overall it’s a perfect hotel for everyone must visit and stay , food also very wisely served all types of food available, and everyone in reception helping with smile on theirs faces it’s really kind and happy",
+      "title": "Perfect",
+      "trip_type": "Couples",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "SwaatteR",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f1/06/default-avatar-2020-18.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f1/06/default-avatar-2020-18.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f1/06/default-avatar-2020-18.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f1/06/default-avatar-2020-18.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/06/default-avatar-2020-18.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945202478,
+        "title": "Owner response",
+        "text": "Dear Valued Guest,\n\nThank you for the feedback on your stay at Citymax Hotel Al Barsha At The Mall!\n\nYour comments will be shared with our entire staff especially our Delighter Raj\n\nThank you for choosing Citymax Hotel Al Barsha At The Mall and we look forward to welcoming you in the not too distant future!\n\nBest Regards,\n\nSandeep Sewal\nGeneral Manager\n\n",
+        "lang": "en",
+        "author": "Sandeep Sewal",
+        "published_date": "2024-04-03T08:31:58Z"
+      }
+    },
+    {
+      "id": 944878264,
+      "lang": "en",
+      "location_id": 1546993,
+      "published_date": "2024-04-02T00:00:11Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d1546993-r944878264-Reviews-Citymax_Hotel_Al_Barsha_at_the_Mall-Dubai_Emirate_of_Dubai.html?m=66827#review944878264",
+      "text": "As I wanted to celebrate my birthday with my close friend and her family I booked our staycation at City Max Al Barsha. It is close to my house, convinient to travel a bus, metro and taxi. The  kindness and friendliness of the Staff are amazingly impressive.\nThe room was not so huge though it’s clean, tidy and away from the noise which is makes me sleep deeply.\nWe stayed for 4days and 3nights as I extended our days there because it’s affordable and to explore more places in Dubai with my guest. I would like to THANK YOU as well for the complementary CAKE on my BIRTHDAY ❤️ really appreciated.\nHoping that you may continue your excellent service and helpful staff.",
+      "title": "Dubai Explore memories to be CHERISHED",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "HanShi246",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f3/7c/default-avatar-2020-29.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f3/7c/default-avatar-2020-29.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f3/7c/default-avatar-2020-29.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f3/7c/default-avatar-2020-29.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f3/7c/default-avatar-2020-29.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 944975236,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nThank you for the feedback on your stay at Citymax Hotel Al Barsha at the Mall! \nYour comments will be shared with our entire staff as we are glad to know you were pleased with your overall stay. \nThank you for choosing Citymax Hotel Al Barsha At the Mall and we look forward to welcome you in the not too distant future! \nRegards,\nSandeep Sewal\t\t\t\t\t\t\t\nGeneral Manager\n",
+        "lang": "en",
+        "author": "Sandeep Sewal",
+        "published_date": "2024-04-02T15:35:51Z"
+      }
+    },
+    {
+      "id": 944615695,
+      "lang": "en",
+      "location_id": 1546993,
+      "published_date": "2024-03-31T05:23:54Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d1546993-r944615695-Reviews-Citymax_Hotel_Al_Barsha_at_the_Mall-Dubai_Emirate_of_Dubai.html?m=66827#review944615695",
+      "text": "The hotel was clean and the buffet was small but we enjoyed the food. The service was reliable and very kind. All in all the rooms were ok but we expected bigger rooms. The windows weren’t so good, so it was a little bit loud in the evening because of the traffic. You could reach easily the Metro which was very helpful.",
+      "title": "I would come again",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "fineszott",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f3/23/default-avatar-2020-28.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f3/23/default-avatar-2020-28.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f3/23/default-avatar-2020-28.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f3/23/default-avatar-2020-28.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f3/23/default-avatar-2020-28.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944975304,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nThank you for the feedback on your stay at Citymax Hotel Al Barsha At The Mall!\n\nYour feedback is essential in our effort to improve our service standards and your comments have been shared with the appropriate departments.\nThank you for choosing Citymax Hotel Al Barsha at the Mall and we look forward to welcome you in the not too distant future! \n\nRegards,\nSandeep Sewal\nGeneral Manager\n",
+        "lang": "en",
+        "author": "Sandeep Sewal",
+        "published_date": "2024-04-02T15:36:24Z"
+      }
+    },
+    {
+      "id": 944612902,
+      "lang": "en",
+      "location_id": 1546993,
+      "published_date": "2024-03-31T04:54:08Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d1546993-r944612902-Reviews-Citymax_Hotel_Al_Barsha_at_the_Mall-Dubai_Emirate_of_Dubai.html?m=66827#review944612902",
+      "text": "Great experience on our 5 night stay at Citymax al Barsha. Mall of the Emirates Dubai. Lovely kind friendly staff. Even helped me celebrate my birthday with cake and happy birthday wishes. Rwally nice touch!!",
+      "title": "A memorable experience at Citymax.",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "mkelly510568",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/e3/default-avatar-2020-59.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/e3/default-avatar-2020-59.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/e3/default-avatar-2020-59.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/e3/default-avatar-2020-59.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/e3/default-avatar-2020-59.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944975196,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nThank you for the feedback on your stay at Citymax Hotel Al Barsha at the Mall! \nYour comments will be shared with our entire staff as we are glad to know you were pleased with your overall stay. \nThank you for choosing Citymax Hotel Al Barsha At the Mall and we look forward to welcome you in the not too distant future! \nRegards,\nSandeep Sewal\t\t\t\t\t\t\t\nGeneral Manager\n",
+        "lang": "en",
+        "author": "Sandeep Sewal",
+        "published_date": "2024-04-02T15:35:37Z"
+      }
+    }
+  ]
+}

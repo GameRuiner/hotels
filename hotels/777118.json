@@ -1,0 +1,175 @@
+{
+  "location_id": "777118",
+  "name": "Radiance Premium Suites",
+  "description": "Located within walking distance of the Mall of the Emirates, Radiance Premium Suites offers apartments with free internet access and a well-equipped kitchen. Facilities include a rooftop pool, a fitness centre and a sauna.\n\nRadiance Premium Suites features stylish and modern air-conditioned apartments, all of which offer separate bedroom and living areas.\n\nApartments come with 65 inch smart TV and a private balcony.\n\nMany restaurants are within walking distance. Room service is available as well.\n\nRadiance Premium Suites is just a short drive from Dubai’s Media City, the Palm Jumeirah and Souk Madinat.  The World Trade Centre is approximately a 15-minute drive away. Free private parking is available on site. 3 minutes walk from the Mashreq Metro Station",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d777118-Reviews-Radiance_Premium_Suites-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Zayed Road",
+    "street2": "Opp Mashreq Metro Station, Al Barsha 1",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Sheikh Zayed Road Opp Mashreq Metro Station, Al Barsha 1, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.113737",
+  "longitude": "55.19089",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d777118-Radiance_Premium_Suites-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#28 of 766 Specialty lodging in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "766",
+    "ranking": "28"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "516",
+  "review_rating_count": {
+    "1": "19",
+    "2": "16",
+    "3": "56",
+    "4": "207",
+    "5": "218"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "262",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d777118-m66827-Reviews-Radiance_Premium_Suites-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Wheelchair access",
+    "Kitchenette",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Fitness center",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Microwave",
+    "Refrigerator in room",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Suites",
+    "Free parking",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Family Rooms",
+    "Outdoor pool",
+    "24-Hour Front Desk"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [
+    "Classic",
+    "Family"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620543",
+      "name": "Al Barsha"
+    },
+    {
+      "location_id": "15620544",
+      "name": "Al Barsha 1"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "43"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "84"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "25"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "259"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "75"
+    }
+  ],
+  "awards": []
+}

@@ -1,0 +1,303 @@
+{
+  "location_id": "17670670",
+  "name": "Novotel Bur Dubai",
+  "description": "Novotel Bur Dubai is ideally located in the Healthcare City, close to Dubai Creek, making it perfect for guests travelling for leisure and business. With 219 stylish rooms & suites, you will feel at ease as soon as you arrive. The closest metro station is Dubai Healthcare City (Dubai Metro – Green Line), a 5 minutes walking distance and a very convenient mode of access to all major attractions.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d17670670-Reviews-Novotel_Bur_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Dubai Healthcare City",
+    "street2": "Umm Hurair 2",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "385290",
+    "address_string": "Dubai Healthcare City Umm Hurair 2, Dubai 385290 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.233288",
+  "longitude": "55.32107",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d17670670-Novotel_Bur_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#129 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "129"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "937",
+  "review_rating_count": {
+    "1": "12",
+    "2": "12",
+    "3": "23",
+    "4": "93",
+    "5": "797"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "370",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d17670670-m66827-Reviews-Novotel_Bur_Dubai-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Babysitting",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Currency Exchange",
+    "Desk",
+    "English",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Korean",
+    "Massage",
+    "Pool / Beach Towels",
+    "Private Check-in / Check-out",
+    "Russian",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Snack Bar",
+    "Spanish",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Airport transportation",
+    "Public Wifi",
+    "Concierge",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Breakfast Buffet",
+    "Kids pool",
+    "Kids Stay Free",
+    "Additional Bathroom",
+    "Bathrobes",
+    "Cable / Satellite TV",
+    "Express Check-in / Check-out",
+    "Children's Television Networks",
+    "Chinese",
+    "Clothes Rack",
+    "Dining Area",
+    "Doorperson",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Foot Massage",
+    "Free Wifi in the Business Center",
+    "Full Body Massage",
+    "German",
+    "Hand Massage",
+    "Happy Hour",
+    "Head Massage",
+    "Highchairs Available",
+    "Indoor Play Area for Children",
+    "Landmark View",
+    "Laptop Safe",
+    "Neck Massage",
+    "Nepali",
+    "Newspaper",
+    "Outdoor Dining Area",
+    "Outdoor Furniture",
+    "Pool with View",
+    "Private Bathrooms",
+    "Radio",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Shoeshine",
+    "Sinhala",
+    "Sofa",
+    "Sofa Bed",
+    "Soundproof Rooms",
+    "Special Diet Menus",
+    "Sun Deck",
+    "Tamil",
+    "Turkish",
+    "Urdu",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Walking Tours",
+    "Wardrobe / Closet"
+  ],
+  "parent_brand": "Accor",
+  "brand": "Novotel",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Mid-range",
+    "City View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620675",
+      "name": "Umm Hurair"
+    },
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    },
+    {
+      "location_id": "15620677",
+      "name": "Umm Hurair 2"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "246"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "121"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "99"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "259"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "111"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

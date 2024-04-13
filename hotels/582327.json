@@ -1,0 +1,249 @@
+{
+  "location_id": "582327",
+  "name": "Grand Rotana Resort & Spa",
+  "description": "Located on the idyllic shores of Sharm El Sheikh, a truly inspiring seaside destination, the 5 star hotel has its own 450 meters stretch of private beach, a stunning pool surrounded by a lush tropical landscape with over 2000 palm trees. Sharm El Sheikh is now one of the world’s most accessible resort destinations for snorkeling and scuba diving. The luxury beachfront resort is 8 Km away from Sharm El Sheikh International airport and 2 minutes from Sharm El Sheikh International congress center as well as the center of Na'ama bay with easy access to the many tourist attractions of the region. The Resort offers 526 luxurious rooms, suites and Club Rotana Executive rooms and suites in addition to 9 Royal villas with four & five bedrooms with private swimming pools. All luxury hotel guest rooms and suites feature a private balcony or terrace overlooking Tiran Island or the gardens. For dining and entertainment, the resort offers seven restaurants, bars and cafe’s catering to every taste expertly blended with the highly acclaimed award winning Rotana standards. Keep up with your fitness routine while you're away from home. The Bodylines Wellness & Fitness Club at Grand Rotana Resort & Spa Sharm El Sheikh features state-of-the-art fitness equipment and our award-winning Zen the spa at Rotana offers you tranquility and pure relaxation to balance your mind, body and soul. The Scorpions Dive Club is our 5* PADI center for diving and Snorkeling within easy reach in the resort.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d582327-Reviews-Grand_Rotana_Resort_Spa-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Sharks Bay",
+    "street2": "P.O.Box:296",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "postalcode": "",
+    "address_string": "Sharks Bay P.O.Box:296, Sharm El Sheikh Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.939253",
+  "longitude": "34.38333",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d582327-Grand_Rotana_Resort_Spa-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#25 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "25"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "5045",
+  "review_rating_count": {
+    "1": "99",
+    "2": "124",
+    "3": "278",
+    "4": "750",
+    "5": "3794"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "6839",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d582327-m66827-Reviews-Grand_Rotana_Resort_Spa-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Room service",
+    "Restaurant",
+    "Beachfront",
+    "Beach Access",
+    "Internet",
+    "Wifi",
+    "Paid Wifi",
+    "Paid Internet",
+    "Suites",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Meeting rooms",
+    "Tennis Court",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Spa",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Babysitting",
+    "Pool",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Public Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Business center",
+    "Fitness center",
+    "Conference Facilities",
+    "Safe",
+    "Rooftop Bar",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Butler Service",
+    "Infinity Pool",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Private Pools",
+    "Breakfast Available",
+    "Parking",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Electric vehicle charging station",
+    "Additional Bathroom",
+    "Aerobics",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Currency Exchange",
+    "Darts",
+    "Diving",
+    "Doorperson",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "24-Hour Front Desk",
+    "Gift Shop",
+    "Hair Dryer",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Italian",
+    "Karaoke",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shops",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Couples Massage",
+    "Electric Kettle",
+    "Full Body Massage",
+    "Neck Massage",
+    "Private Bathrooms",
+    "Tennis Court Off-site",
+    "Tile / Marble Floor",
+    "Wardrobe / Closet",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "parent_brand": "Rotana Hotel Management Corporation Ltd.",
+  "brand": "Rotana",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quaint",
+    "Hidden Gem"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "214"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1185"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "207"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "2081"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "902"
+    }
+  ],
+  "awards": []
+}

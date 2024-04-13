@@ -1,0 +1,168 @@
+{
+  "location_id": "497635",
+  "name": "Nihal Hotel",
+  "description": "See why so many travelers make Nihal Hotel their hotel of choice when visiting Dubai. Providing an ideal mix of value, comfort and convenience, it offers a budget friendly setting with an array of amenities designed for travelers like you.\nNearby landmarks such as Bur Dubai Abra Dock (1.4 mi) and Sheikh Mohammed Centre for Cultural Understanding (1.5 mi) make Nihal Hotel Dubai a great place to stay when visiting Dubai.\nNihal Hotel Dubai is a budget friendly hotel offering a refrigerator, a minibar, and air conditioning in the rooms, and it is easy to stay connected during your stay as wifi is offered to guests.\nThe hotel features room service. Plus, guests can enjoy a pool and free breakfast, which have made this a popular choice among travelers visiting Dubai.\nWhile in Dubai be sure to experience local souvlaki favorites at Elia Greek Restaurant.\nIf you’re looking for something to do, Dream Journey (1.0 mi) and Al Seef (0.9 mi) are a nice way to spend some time, and they are all within walking distance of Nihal Hotel Dubai.\nAt Nihal Hotel, your comfort and satisfaction come first, and they look forward to welcoming you to Dubai.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d497635-Reviews-Nihal_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "18 41C - Al Rigga Street",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "14914",
+    "address_string": "18 41C - Al Rigga Street, Dubai 14914 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.260315",
+  "longitude": "55.32462",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d497635-Nihal_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#593 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "593"
+  },
+  "rating": "3.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.0-66827-5.svg",
+  "num_reviews": "117",
+  "review_rating_count": {
+    "1": "20",
+    "2": "16",
+    "3": "36",
+    "4": "27",
+    "5": "18"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    }
+  },
+  "photo_count": "85",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d497635-m66827-Reviews-Nihal_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Wifi",
+    "Paid Wifi",
+    "Air conditioning",
+    "Pool",
+    "Internet",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Room service",
+    "Restaurant",
+    "Bar/Lounge",
+    "Paid Internet",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Business center",
+    "Laundry Service",
+    "Concierge",
+    "Minibar",
+    "Non-smoking hotel",
+    "Breakfast Buffet",
+    "Outdoor pool"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Budget",
+    "Centrally Located"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620596",
+      "name": "Al Rigga"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "22"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "26"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "22"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "21"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "16"
+    }
+  ],
+  "awards": []
+}

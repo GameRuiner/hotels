@@ -1,0 +1,193 @@
+{
+  "location_id": "10498637",
+  "name": "Island Boutique Hotel",
+  "description": "Island Boutique Hotel is an excellent choice for travelers visiting Rhodes Town, offering a family-friendly environment alongside many helpful amenities designed to enhance your stay.\nNearby landmarks such as Mandraki Harbour (0.3 mi) and Colossus of Rhodes (0.3 mi) make Island Boutique Hotel a great place to stay when visiting Rhodes Town.\nIsland Boutique Hotel is a family-friendly boutique hotel offering a refrigerator, a minibar, and air conditioning in the rooms, and it is easy to stay connected during your stay as free wifi is offered to guests.\nThe boutique hotel features room service. Plus, guests can enjoy a hot tub and a lounge, which have made this a popular choice among travelers visiting Rhodes Town.\nIf you’re looking for a Thai restaurant, consider a visit to My Thai or IceRoll Rhodes, which are all conveniently located a short distance from Island Boutique Hotel.\nIf you’re looking for something to do, Palace of the Grand Master of the Knights of Rhodes (0.7 mi), Archaeological Museum of Rhodes (Hospital of the Knights) (0.7 mi), and The Acropolis of Rhodes (1.1 mi) are a nice way to spend some time, and they are all within walking distance of Island Boutique Hotel.\nEnjoy your stay in Rhodes Town!\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g635613-d10498637-Reviews-Island_Boutique_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street1": "Kos Street 15",
+    "city": "Rhodes Town",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "85100",
+    "address_string": "Kos Street 15, Rhodes Town 85100 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Rhodes Town",
+      "location_id": "635613"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.45408",
+  "longitude": "28.221525",
+  "timezone": "Europe/Athens",
+  "write_review": "https://www.tripadvisor.com/UserReview-g635613-d10498637-Island_Boutique_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "635613",
+    "ranking_string": "#25 of 122 hotels in Rhodes Town",
+    "geo_location_name": "Rhodes Town",
+    "ranking_out_of": "122",
+    "ranking": "25"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "162",
+  "review_rating_count": {
+    "1": "3",
+    "2": "1",
+    "3": "4",
+    "4": "20",
+    "5": "134"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "176",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g635613-d10498637-m66827-Reviews-Island_Boutique_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Internet",
+    "Beachfront",
+    "Room service",
+    "Free Internet",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Public Wifi",
+    "Free Wifi",
+    "Non-smoking rooms",
+    "Air conditioning",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Safe",
+    "Bath / Shower",
+    "English",
+    "Greek",
+    "Hair Dryer",
+    "Telephone",
+    "Suites",
+    "Airport transportation",
+    "Wifi",
+    "Non-smoking hotel",
+    "Clothes Rack",
+    "Desk",
+    "Extra Long Beds",
+    "German",
+    "Laptop Safe",
+    "Sofa",
+    "Soundproof Rooms",
+    "Wake Up Service / Alarm Clock",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Trendy",
+    "Great View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "12"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "93"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "11"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "15"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "12"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

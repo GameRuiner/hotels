@@ -1,0 +1,178 @@
+{
+  "location_id": "3247112",
+  "name": "Trianta Hotel Apartments",
+  "description": "Welcome to Trianta Hotel Apartments, we are a small family hotel located in the heart of Ialyssos city center providing modern and comfortable, self catering apartments with a fully fitted kitchen and less than a 15 minutes walk away from the pebble and shingle beach of Ialyssos.Trianta Hotel Apartments was fully renovated in 2011 both rooms and public areas and is the ideal base for those wishing to explore the island of Rhodes during relaxing and friendly vacation. The village of Trianda or Ialysos is within easy reach and its main square is a superb place to visit if you wish enjoy real Greek food and atmosphere.Located only 5 klm away from the airport and 7 klm from Rhodes Town is perfect for those wishing to explore the many shops, cafes, bars and restaurants located at “The Medieval City of Rhodes”.We offer 2 different room / apartment types: The Studios and The Family Apartments, all accommodation is fully equipped and provides a bathroom with hot water 24 hours a day, hairdryer, kitchenette, kettle, fridge, telephone, plasma TV sets and a private balcony facing the Mountain of Filerimos with its breathtaking panoramic views. Air conditioning and safe in room are available (contact reception upon arrival) thought out summer season and cots are available on request with no extra charge.There is also available one outdoor swimming pool with children's area and satellite television is available in the Lobby area. Younger guests can have fun using our pool table and coin operated Internet corner. The reception service includes fast check in and check out, currency exchange, car rental information or information about the Island of Rhodes.Guests can visit various restaurants, taverns and pubs or cafes very easily as Ialyssos village (or Trianta village better known to the locals) is well known for its night life and excellent cuisine, all these are within walking distance from Trianta Hotel Apartments which is located in a very quiet area so that our guests can enjoy peace and quite when they stay with us. \"Service Through friendship\" is our base idea and we invite you all to experience it…",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g635614-d3247112-Reviews-Trianta_Hotel_Apartments-Ialyssos_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street1": "Trianton Str",
+    "city": "Ialyssos",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "85101",
+    "address_string": "Trianton Str, Ialyssos 85101 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Ialyssos",
+      "location_id": "635614"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.41583",
+  "longitude": "28.157166",
+  "timezone": "Europe/Athens",
+  "write_review": "https://www.tripadvisor.com/UserReview-g635614-d3247112-Trianta_Hotel_Apartments-Ialyssos_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "635614",
+    "ranking_string": "#1 of 31 Specialty lodging in Ialyssos",
+    "geo_location_name": "Ialyssos",
+    "ranking_out_of": "31",
+    "ranking": "1"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "264",
+  "review_rating_count": {
+    "1": "3",
+    "2": "5",
+    "3": "9",
+    "4": "43",
+    "5": "204"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "191",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g635614-d3247112-m66827-Reviews-Trianta_Hotel_Apartments-Ialyssos_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Free parking",
+    "Bar/Lounge",
+    "Kitchenette",
+    "Wifi",
+    "Free Wifi",
+    "Non-smoking rooms",
+    "Air conditioning",
+    "Family Rooms",
+    "Refrigerator in room",
+    "Safe",
+    "Outdoor pool",
+    "Billiards",
+    "English",
+    "Free Public Parking Nearby",
+    "Greek",
+    "Kitchenware",
+    "Shared Lounge / TV Area",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Flatscreen TV",
+    "Car Hire",
+    "Game Room",
+    "Ironing Service",
+    "Snack Bar",
+    "Special Diet Menus",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [
+    "Modern",
+    "Business"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "2"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "152"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "8"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "54"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "17"
+    }
+  ],
+  "awards": []
+}

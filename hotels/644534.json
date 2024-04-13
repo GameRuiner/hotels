@@ -1,0 +1,249 @@
+{
+  "location_id": "644534",
+  "name": "Manzil Downtown By Vida",
+  "description": "Manzil Downtown by Vida is the wonderfully complex combination of modern Arabia: passionately traditional in its Middle Eastern beliefs, yet fiercely progressive in its all-embracing contemporary nature. Instead of ancient and outdated design, it offers a timeless and cultural ambience. Its Arabic heritage is intertwined with its playfully youthful elements of self-expression, peculiarity, and imagination. It welcomes you to the nostalgic familiarity of your heritage while introducing you to the exhilarating potential of your future. Manzil Downtown by Vida isn’t a hotel. It’s your Manzil, your home, your story.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d644534-Reviews-Manzil_Downtown_By_Vida-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Mohammed Bin Rashed Boulevard",
+    "street2": "The Old Town, Downtown Dubai",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "114822",
+    "address_string": "Sheikh Mohammed Bin Rashed Boulevard The Old Town, Downtown Dubai, Dubai 114822 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.191143",
+  "longitude": "55.277622",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d644534-Manzil_Downtown_By_Vida-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#189 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "189"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "4586",
+  "review_rating_count": {
+    "1": "32",
+    "2": "52",
+    "3": "136",
+    "4": "663",
+    "5": "3703"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "2208",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d644534-m66827-Reviews-Manzil_Downtown_By_Vida-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Free parking",
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Suites",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Concierge",
+    "Banquet Room",
+    "Shuttle Bus Service",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Laundry Service",
+    "Air conditioning",
+    "Family Rooms",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Business center",
+    "Fitness center",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Butler Service",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Afrikaans",
+    "Allergy-free Room",
+    "Arabic",
+    "Baggage Storage",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Chinese",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Laptop Safe",
+    "Newspaper",
+    "On-Demand Movies",
+    "Pool / Beach Towels",
+    "Russian",
+    "24-Hour Security",
+    "Snack Bar",
+    "Soundproof Rooms",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Terrace",
+    "Taxi Service",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock"
+  ],
+  "parent_brand": "Emaar Hospitality Group",
+  "brand": "Vida Hotels and Resorts",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Centrally Located",
+    "Green"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7282431",
+      "name": "Downtown Dubai"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "1032"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1213"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "493"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "740"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "806"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

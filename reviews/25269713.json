@@ -1,0 +1,316 @@
+{
+  "data": [
+    {
+      "id": 943453603,
+      "lang": "en",
+      "location_id": 25269713,
+      "published_date": "2024-03-23T02:16:14Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d25269713-r943453603-Reviews-Damac_Hills_2_Hotel_Edge_by_Rotana-Dubai_Emirate_of_Dubai.html?m=66827#review943453603",
+      "text": "Terrible reception customer service, receptionist was incredibly rude to staff and when I approached the receptionist about her behaviour, she continued to be rude - really disappointed to receive this kind of treatment. This was all over the fact that I made myself a cup of coffee in the lobby! What a ridiculous lack of hospitality training, very poor.",
+      "title": "Rude staff at reception",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "emmasU4581FW",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/48/default-avatar-2020-15.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 944932734,
+        "title": "Owner response",
+        "text": "Dear Ms. Emma ,\n\nThank you for sharing your feedback on TripAdvisor following your recent visit to Damac Hills 2 Hotel –an Edge by Rotana.\n\nWith much regret, I learnt that your last visit was not a satisfactory one. Please accept my sincere apologies for the inconvenience that you have brought to our attention. \n\nAs we take our guests feedback and suggestions very seriously, please be rest assured that your comment is being assessed together with our Executive Committee to take necessary steps to meet our guests’ expectations in this area.\n\nOnce again thank you for your valuable feedback and I do hope that this incident will not mere your decision to use our facilities and services and that we will have another opportunity to welcome you back in the very near future. \n\nSincerely,  \n\nTimur Ilgaz  \nCluster General Manager\n\n",
+        "lang": "en",
+        "author": "Timur Ilgaz",
+        "published_date": "2024-04-02T09:34:50Z"
+      }
+    },
+    {
+      "id": 942731496,
+      "lang": "en",
+      "location_id": 25269713,
+      "published_date": "2024-03-18T03:57:19Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d25269713-r942731496-Reviews-Damac_Hills_2_Hotel_Edge_by_Rotana-Dubai_Emirate_of_Dubai.html?m=66827#review942731496",
+      "text": "Anam front of house was superb, very helpful and cheerful dealt with any of our issues promptly and professionally. She always had a welcoming smile and greeted us each morning and evening. All the staff were professional and helpful. Restaurant staff always attentive and smiling.",
+      "title": "Family visit",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Snoopdogmerseyside",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f4/20/default-avatar-2020-31.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944933215,
+        "title": "Owner response",
+        "text": "Dear Valued Guest, \n\nThank you very much for your wonderful feedback from your recent stay with us at Damac Hills 2 Hotel - an Edge by Rotana . \n\nIt is with great pleasure I read your kind acknowledgement of our warm hospitality. We indeed make every effort to maintain the high standards of timely and quality service delivery Rotana is renowned for, and we are delighted that we have been successful in achieving this during your stay.\n\nYour recognition of our colleague Anam and the other team members is highly appreciated. It is always with pride that we personally share with our colleagues such kind praise for their efforts to exceed guests’ expectations and provide a truly personalized service on all occasions.\n\nYour recommendation on Tripadvisor is indeed treasured, and I look forward to welcoming you back to Damac Hills 2 Hotel soon.\n\nBest regards, \n \nTimur Ilgaz  \nCluster General Manager\n\n",
+        "lang": "en",
+        "author": "Timur Ilgaz",
+        "published_date": "2024-04-02T09:38:45Z"
+      }
+    },
+    {
+      "id": 939438299,
+      "lang": "en",
+      "location_id": 25269713,
+      "published_date": "2024-02-23T00:23:16Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d25269713-r939438299-Reviews-Damac_Hills_2_Hotel_Edge_by_Rotana-Dubai_Emirate_of_Dubai.html?m=66827#review939438299",
+      "text": "We loved the hotel, quite and clean. Backyard you will find nice walking place, that’s important for us, as we are traveling with kiddo. \nBreakfast is good, you will find what you need. Great thanks to restaurant staff, very kind and helpful, specially for Michal, your celery fresh was really nice",
+      "title": "Loved to be here",
+      "trip_type": "Family",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "In_Bermet",
+        "user_location": {
+          "id": "295424",
+          "name": "Dubai, Emirate of Dubai"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/11/default-avatar-2020-41.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 940459425,
+        "title": "Owner response",
+        "text": "Dear Ms. Bermet,\n\nThank you very much for your very positive review of your recent stay with us at Damac Hills 2 Hotel - an Edge by Rotana.\n\nI am glad to read your wonderful comments regarding your experience. Your feedback and ratings are important to us as these will assist us to ensure we exceed our guests' expectations.\n\nYour recommendation on Tripadvisor is indeed treasured, and I look forward to welcoming you back to Damac Hills 2 Hotel - Edge by Rotana soon.  \n\nBest regards,  \n\nTimur Ilgaz  \nCluster General Manager\n",
+        "lang": "en",
+        "author": "Timur Ilgaz",
+        "published_date": "2024-03-01T13:40:43Z"
+      }
+    },
+    {
+      "id": 938749476,
+      "lang": "en",
+      "location_id": 25269713,
+      "published_date": "2024-02-18T09:21:55Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d25269713-r938749476-Reviews-Damac_Hills_2_Hotel_Edge_by_Rotana-Dubai_Emirate_of_Dubai.html?m=66827#review938749476",
+      "text": "There is a receptionist by the name of Anam , a very friendly and always available she helped me alot on my experience and provided the best friendly attitude I have ever seen the room was completely clean as well",
+      "title": "Very good Service",
+      "trip_type": "NONE",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "samir19952024",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ec/3d/default-avatar-2020-1.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ec/3d/default-avatar-2020-1.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ec/3d/default-avatar-2020-1.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ec/3d/default-avatar-2020-1.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ec/3d/default-avatar-2020-1.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 940460736,
+        "title": "Owner response",
+        "text": "Dear Mr. Samir,\n\nThank you very much for your very positive review of your recent stay with us at Damac Hills 2 Hotel - an Edge by Rotana.\n\nIt gives me much pleasure to read your comments. I must say, I am very proud to have such a team like ours as we work together in creating amazing experiences and everlasting memories for our guests.\n\nYour recognition of our colleague Anam at the front desk is highly appreciated. It is always with pride that we personally share with our colleagues such kind praise for their efforts to exceed guests’ expectations and provide a truly personalized service on all occasions.\n\nYour recommendation on Tripadvisor is indeed treasured, and I look forward to welcoming you back to Damac Hills 2 Hotel - Edge by Rotana soon.  \n\nBest regards,  \n\nTimur Ilgaz  \nCluster General Manager\n",
+        "lang": "en",
+        "author": "Timur Ilgaz",
+        "published_date": "2024-03-01T13:53:24Z"
+      }
+    },
+    {
+      "id": 937448186,
+      "lang": "en",
+      "location_id": 25269713,
+      "published_date": "2024-02-08T11:25:31Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d25269713-r937448186-Reviews-Damac_Hills_2_Hotel_Edge_by_Rotana-Dubai_Emirate_of_Dubai.html?m=66827#review937448186",
+      "text": "Special thanks to Mr.moahamed Anwar front office Manager as he helped us greatly to extend our stay .also housekeeping is fast responding of any orders and cleaning we stayed 3 nights it was Amazing service I'm recommending the hotel for relaxing out side of town and if I come back to Dubai of course I'll stay there thanks Dear for your hospitality.\nUnforgettable People is Ayman and morsi \nThanks guys we will come back 😊",
+      "title": "Unforgettable experience",
+      "trip_type": "Business",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "Ahmed_Shelbaya",
+        "user_location": {
+          "id": "294013",
+          "name": "Abu Dhabi, Emirate of Abu Dhabi"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/14/43/2a/f8/external-avatar.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/14/43/2a/f8/external-avatar.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/14/43/2a/f8/external-avatar.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/14/43/2a/f8/external-avatar.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 940461029,
+        "title": "Owner response",
+        "text": "Dear Valued Guest,\n\nThank you very much for your very positive review of your recent stay with us at Damac Hills 2 Hotel - an Edge by Rotana.\n\nAt Damac Hills 2 Hotel, we strive to offer the best experiences for our guests, and I am happy to learn that our efforts had reflected on your recent visit. I will ensure that your positive feedback is passed on to the team. \n\nYour recognition of our colleagues Mohamed Anwar, Ayman and Moursi at the front desk is highly appreciated. It is always with pride that we personally share with our colleagues such kind praise for their efforts to exceed guests’ expectations and provide a truly personalized service on all occasions.\n\nYour recommendation on Tripadvisor is indeed treasured, and I look forward to welcoming you back to Damac Hills 2 Hotel – an Edge by Rotana soon.  \n\nBest regards,  \n\nTimur Ilgaz  \nCluster General Manager\n",
+        "lang": "en",
+        "author": "Timur Ilgaz",
+        "published_date": "2024-03-01T13:56:32Z"
+      }
+    }
+  ]
+}

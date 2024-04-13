@@ -1,0 +1,332 @@
+{
+  "data": [
+    {
+      "id": 945584336,
+      "lang": "en",
+      "location_id": 6581341,
+      "published_date": "2024-04-06T12:05:08Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d6581341-r945584336-Reviews-Hyatt_Place_Dubai_Al_Rigga-Dubai_Emirate_of_Dubai.html?m=66827#review945584336",
+      "text": "We have a wonderful stay in this hotel. \nThe stuff is very kindly, friendly, helpful and courteous!\nSpecial Thanks to Nadine from the restaurant counter, \nErrol from the kitchen\nRita from the housekeeping \nAnd Jenu from the restaurant \nThey made our stay perfect.",
+      "title": "Everything perfect for Family and couples",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "tomitobz",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/11/default-avatar-2020-23.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945647010,
+        "title": "Owner response",
+        "text": "Dear Tomitobz.\n\nGreetings from Hyatt Place Dubai Al Rigga!\n\nIt’s great to hear that you had an amazing experience during your stay with us. Our team will be happy to hear that their hard work has paid off! If there’s anything we can do to serve you further, let us know.\n\nWarm regards,\nMohamed-Allal Bahi\nHotel Manager\n",
+        "lang": "en",
+        "author": "Bhishmaraj Singh",
+        "published_date": "2024-04-07T00:55:03Z"
+      }
+    },
+    {
+      "id": 945017470,
+      "lang": "en",
+      "location_id": 6581341,
+      "published_date": "2024-04-03T03:04:49Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d6581341-r945017470-Reviews-Hyatt_Place_Dubai_Al_Rigga-Dubai_Emirate_of_Dubai.html?m=66827#review945017470",
+      "text": "We took the hotel apartments. The front of house jihad was Accommodating and friendly. \nAll their staff members are always friendly and ready to assist. \nBellhop deepesh is a superstar ! \nThe house keeping staff kishor and Samjhana did an amazing job. The room was always clean. \nThe hotel catered to all our needs. \nThis is place we will visit over and over ✨",
+      "title": "Great experience.",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "117prithvirajj",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f4/20/default-avatar-2020-31.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945281472,
+        "title": "Owner response",
+        "text": "Dear 117prithvirajj,\n\nGreetings from Hyatt Place Dubai Al Rigga!\n\nThank you for taking the time to review us. We are delighted to learn that you had a good experience. It is pleasing to read that you received an excellent service, and you liked our hotel. We will surely pass your comments to our team who will be happy to receive such feedback.\n\nWarm regards,\nMohamed-Allal Bahi\nHotel Manager\n",
+        "lang": "en",
+        "author": "Tanish Gulati",
+        "published_date": "2024-04-04T00:01:12Z"
+      }
+    },
+    {
+      "id": 944903886,
+      "lang": "en",
+      "location_id": 6581341,
+      "published_date": "2024-04-02T05:19:26Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d6581341-r944903886-Reviews-Hyatt_Place_Dubai_Al_Rigga-Dubai_Emirate_of_Dubai.html?m=66827#review944903886",
+      "text": "Good room and good pool and yubraj good person everthing avalible in the pool bar and yubraj will help you with everything in the pool and he's nice guy , room was good and the food was good and nice and the gym is good and the spa is good thats it 👍🏽",
+      "title": "I like the pool and the pool bar",
+      "trip_type": "Business",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "I5568FCfahada",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f4/5d/default-avatar-2020-32.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945012574,
+        "title": "Owner response",
+        "text": "Dear I5568FCfahada\n\nGreetings from Hyatt Place Dubai Al Rigga!\n\nThank you for taking the time to review us. Your comments have been shared with our entire team. When we hear from happy customers like you, we spread the positivity around. Hope to serve you again soon!\n\nWarm regards,\nMohamed-Allal Bahi\nHotel Manager",
+        "lang": "en",
+        "author": "Tanish Gulati",
+        "published_date": "2024-04-03T01:52:42Z"
+      }
+    },
+    {
+      "id": 944885407,
+      "lang": "en",
+      "location_id": 6581341,
+      "published_date": "2024-04-02T02:07:03Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d6581341-r944885407-Reviews-Hyatt_Place_Dubai_Al_Rigga-Dubai_Emirate_of_Dubai.html?m=66827#review944885407",
+      "text": "Stayed at the Hyatt Place Hotel for seven nights and the staff were very attentive. I leave Dubai remembering how Winner, Sithi and Sewwandi went out of their way to make my stay at the hotel a wholesome experience.  Not sure whether they realised that they contributed to making my stay in Dubai an absolutely wonderful experience.",
+      "title": "Would definitely stay here next time I come to Dubai.",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "Dreamer641159",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f3/23/default-avatar-2020-28.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f3/23/default-avatar-2020-28.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f3/23/default-avatar-2020-28.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f3/23/default-avatar-2020-28.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f3/23/default-avatar-2020-28.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945013101,
+        "title": "Owner response",
+        "text": "Dear Dreamer641159,\n\nGreetings from Hyatt Place Dubai Al Rigga!\n\nThank you for taking the time to review us. We are delighted to learn that you had a good experience. It is pleasing to read that you received an excellent service, and you liked our hotel. We will surely pass your comments to our team who will be happy to receive such feedback.\n\nWarm regards,\nMohamed-Allal Bahi\nHotel Manager\n",
+        "lang": "en",
+        "author": "Tanish Gulati",
+        "published_date": "2024-04-03T02:00:46Z"
+      }
+    },
+    {
+      "id": 944734734,
+      "lang": "en",
+      "location_id": 6581341,
+      "published_date": "2024-04-01T01:27:22Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d6581341-r944734734-Reviews-Hyatt_Place_Dubai_Al_Rigga-Dubai_Emirate_of_Dubai.html?m=66827#review944734734",
+      "text": "This hotel services is very good. The breakfast was excellent. Nadine was a kindly woman in entrance door everyday. And hotel staff is everyone is so kind and hotel close by restaurant ,market ,metro and airport everything good and also security Arjun so kind of person🥀🥀🥀🥀",
+      "title": "Breakfast",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "D9950NEmaryams",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e8/5b/default-avatar-2020-61.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e8/5b/default-avatar-2020-61.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e8/5b/default-avatar-2020-61.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e8/5b/default-avatar-2020-61.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e8/5b/default-avatar-2020-61.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944746891,
+        "title": "Owner response",
+        "text": "Dear D9950NEmaryams,\n\nGreetings from Hyatt Place Dubai Al Rigga!\n\nThanks so much for your positive feedback and good vibes. We are delighted to know that you enjoyed your stay and we were able to deliver to you the Hyatt Hospitality we pride ourselves on. We are happy that you're happy, and we look forward to your next visit.\n\nWarm regards,\nMohamed-Allal Bahi\nHotel Manager\n\n",
+        "lang": "en",
+        "author": "Tanish Gulati",
+        "published_date": "2024-04-01T03:54:03Z"
+      }
+    }
+  ]
+}

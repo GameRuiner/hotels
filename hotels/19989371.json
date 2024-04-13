@@ -1,0 +1,217 @@
+{
+  "location_id": "19989371",
+  "name": "One Lux Stay - Full Marina & Pool View",
+  "description": "Our superbly styled 2-bedroom/2-bathroom furnished apartments in Dubai leave you wanting for nothing. Unwind with a stylish fully equipped kitchen, laundry facilities, comfy bedrooms, spacious living room with flat screen TV, dedicated working space, complimentary high-speed wireless internet, fresh linens, towels, welcome toiletries and more.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d19989371-Reviews-One_Lux_Stay_Full_Marina_Pool_View-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Sayorah Street",
+    "street2": "Sparkle Towers, Dubai Marina",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Al Sayorah Street Sparkle Towers, Dubai Marina, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.087425",
+  "longitude": "55.146473",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d19989371-One_Lux_Stay_Full_Marina_Pool_View-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#73 of 766 Specialty lodging in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "766",
+    "ranking": "73"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "9",
+  "review_rating_count": {
+    "1": "0",
+    "2": "0",
+    "3": "1",
+    "4": "0",
+    "5": "8"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "46",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d19989371-m66827-Reviews-One_Lux_Stay_Full_Marina_Pool_View-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Free parking",
+    "Spa",
+    "Wifi",
+    "Free Wifi",
+    "Business center",
+    "Fitness center",
+    "Beachfront",
+    "Suites",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Air conditioning",
+    "Family Rooms",
+    "Microwave",
+    "Refrigerator in room",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Private Balcony",
+    "Indoor pool",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Pools",
+    "Parking",
+    "Kids Stay Free",
+    "Sauna",
+    "Air Purifier",
+    "Allergy-free Room",
+    "Arabic",
+    "ATM On Site",
+    "Cable / Satellite TV",
+    "24-Hour Check-in",
+    "Children's Playground",
+    "Clothes Dryer",
+    "Clothes Rack",
+    "Currency Exchange",
+    "Dishwasher",
+    "Electric Kettle",
+    "English",
+    "Fitness Classes",
+    "Foot Massage",
+    "Complimentary Toiletries",
+    "Full Body Massage",
+    "Hair Dryer",
+    "Head Massage",
+    "Hindi",
+    "Indoor Play Area for Children",
+    "Iron",
+    "Ironing Service",
+    "Kids' Outdoor Play Equipment",
+    "Kitchenware",
+    "Laptop Safe",
+    "Manicure",
+    "Massage",
+    "Nightclub / DJ",
+    "On-Demand Movies",
+    "Oven",
+    "Pedicure",
+    "Pool / Beach Towels",
+    "Pool View",
+    "Pool with View",
+    "Private Bathrooms",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Shops",
+    "Sofa",
+    "Sofa Bed",
+    "Steam Room",
+    "Stovetop",
+    "Sun Umbrellas",
+    "Tile / Marble Floor",
+    "Valet Parking",
+    "Washing Machine",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [
+    "Ocean View",
+    "Luxury"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7282432",
+      "name": "The Marina"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "1"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "0"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "0"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "5"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "1"
+    }
+  ],
+  "awards": []
+}

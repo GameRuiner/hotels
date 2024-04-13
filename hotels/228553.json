@@ -1,0 +1,210 @@
+{
+  "location_id": "228553",
+  "name": "Catalonia Gracia",
+  "description": "Catalonia Gracia is situated in the neuralgic centre of the modernist route of Barcelona, it surrounded by the best buildings built by architects such as Gaudi, Domenech i Muntanter, etc. It is nearby the crossing between Av. Diagonal and Paseo de Gracia, the best commercial, services and business area. Opened in 2001, the hotel offers 79 rooms and 2 suites. All the rooms are fully equipped corresponding to a hotel in this category.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d228553-Reviews-Catalonia_Gracia-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Corsega, 368",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08037",
+    "address_string": "Corsega, 368, 08037 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.398754",
+  "longitude": "2.162368",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d228553-Catalonia_Gracia-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#171 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "171"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "833",
+  "review_rating_count": {
+    "1": "18",
+    "2": "39",
+    "3": "135",
+    "4": "336",
+    "5": "305"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "285",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d228553-m66827-Reviews-Catalonia_Gracia-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Room service",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Pool",
+    "Suites",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Minibar",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Catalan",
+    "English",
+    "24-Hour Front Desk",
+    "Ironing Service",
+    "Meeting rooms",
+    "Babysitting",
+    "Breakfast Available",
+    "Bicycle Rental",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Currency Exchange",
+    "French",
+    "Hair Dryer",
+    "Newspaper",
+    "Shared Lounge / TV Area",
+    "Shops",
+    "Snack Bar",
+    "Soundproof Rooms",
+    "Spanish"
+  ],
+  "parent_brand": "Hoteles Catalonia",
+  "brand": "Catalonia",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Classic",
+    "Mid-range"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230970",
+      "name": "Eixample"
+    },
+    {
+      "location_id": "15565885",
+      "name": "La Dreta de l'Eixample"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "157"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "288"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "60"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "166"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "96"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

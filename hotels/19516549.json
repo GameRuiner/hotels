@@ -1,0 +1,196 @@
+{
+  "location_id": "19516549",
+  "name": "Vida Downtown",
+  "description": "Situated 1.4 km from The Dubai Fountain, Vida Residences Downtown features accommodation with a fitness centre, a garden, a 24-hour front desk, and a pool featuring views of Burj Khalifa. Featuring a kitchen with a dishwasher and a microwave, each unit also comes with a satellite flat-screen TV, ironing facilities, desk and a seating area with a sofa. There is a private bathroom with shower and a",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d19516549-Reviews-Vida_Downtown-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Mohammed Bin Rashid Boulevard",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Sheikh Mohammed Bin Rashid Boulevard, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.19001",
+  "longitude": "55.274513",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d19516549-Vida_Downtown-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#30 of 766 Specialty lodging in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "766",
+    "ranking": "30"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "54",
+  "review_rating_count": {
+    "1": "1",
+    "2": "0",
+    "3": "1",
+    "4": "2",
+    "5": "50"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    }
+  },
+  "photo_count": "36",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d19516549-m66827-Reviews-Vida_Downtown-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Wheelchair access",
+    "Kitchenette",
+    "Wifi",
+    "Free Wifi",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Safe",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Additional Bathroom",
+    "Arabic",
+    "Clothes Dryer",
+    "Filipino",
+    "Hindi",
+    "Outdoor Furniture",
+    "Parking Garage",
+    "24-Hour Security",
+    "Kids Activities",
+    "Free parking",
+    "Airport transportation",
+    "Dry Cleaning",
+    "Microwave",
+    "Refrigerator in room",
+    "Non-smoking hotel",
+    "Private Balcony",
+    "Kids pool",
+    "Housekeeping",
+    "Bottled Water",
+    "24-Hour Check-in",
+    "Coffee / Tea Maker",
+    "Dining Area",
+    "Dishwasher",
+    "Electric Kettle",
+    "English",
+    "24-Hour Front Desk",
+    "Iron",
+    "Kitchenware",
+    "Oven",
+    "Pool View",
+    "Russian",
+    "Separate Living Room",
+    "Sofa",
+    "Stovetop",
+    "Telephone",
+    "Urdu",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet",
+    "Washing Machine"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [
+    "Luxury",
+    "City View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7282431",
+      "name": "Downtown Dubai"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "7"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "4"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "6"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "21"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "9"
+    }
+  ],
+  "awards": []
+}

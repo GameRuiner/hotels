@@ -1,0 +1,320 @@
+{
+  "location_id": "21321279",
+  "name": "Sofitel Dubai the Obelisk",
+  "description": "A landmark destination in the heart of Dubai, Sofitel Dubai The Obelisk provides guests with timeless elegance. Attention to detail, Art Deco flair and a marriage of cultures and heritage are hallmarks of not just Sofitel Dubai The Obelisk's overall architecture and design, but of the 498 luxury guestrooms and suites, as well as 97 furnished and serviced apartments.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d21321279-Reviews-Sofitel_Dubai_the_Obelisk-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Wafi City - Sheikh Rashid Road",
+    "street2": "Umm Hurair 2",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "30904",
+    "address_string": "Wafi City - Sheikh Rashid Road Umm Hurair 2, Dubai 30904 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.231062",
+  "longitude": "55.31865",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d21321279-Sofitel_Dubai_the_Obelisk-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#31 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "31"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "2523",
+  "review_rating_count": {
+    "1": "36",
+    "2": "21",
+    "3": "27",
+    "4": "69",
+    "5": "2371"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "2304",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d21321279-m66827-Reviews-Sofitel_Dubai_the_Obelisk-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Kitchenette",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Babysitting",
+    "Safe",
+    "Swimup Bar",
+    "Heated pool",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Butler Service",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Sauna",
+    "Electric vehicle charging station",
+    "Additional Bathroom",
+    "Allergy-free Room",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Desk",
+    "Doorperson",
+    "Dutch",
+    "English",
+    "Extra Long Beds",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Free Public Parking Nearby",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hammam",
+    "Hindi",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kitchenware",
+    "Massage",
+    "Outdoor Furniture",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shared Lounge / TV Area",
+    "Shoeshine",
+    "Shops",
+    "Soundproof Rooms",
+    "Spanish",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Turkish",
+    "Wake Up Service / Alarm Clock",
+    "Wine / Champagne",
+    "Public Wifi",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Conference Facilities",
+    "Flatscreen TV",
+    "Kids pool",
+    "Air Purifier",
+    "Azerbaijani",
+    "Bidet",
+    "Cable / Satellite TV",
+    "Express Check-in / Check-out",
+    "Children's Television Networks",
+    "Couples Massage",
+    "Dining Area",
+    "Electric Kettle",
+    "Executive Lounge Access",
+    "First Aid Kit",
+    "Foot Massage",
+    "Complimentary Welcome Drink",
+    "Full Body Massage",
+    "Hand Massage",
+    "Happy Hour",
+    "Head Massage",
+    "Highchairs Available",
+    "Landmark View",
+    "Laptop Safe",
+    "Neck Massage",
+    "Nepali",
+    "Outdoor Dining Area",
+    "Personal Trainer",
+    "Private Bathrooms",
+    "Paid Private Parking Nearby",
+    "Paid Public Parking Nearby",
+    "Paid Public Parking On-site",
+    "Saltwater Pool",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Shallow End",
+    "Sofa",
+    "Sun Deck",
+    "Swahili",
+    "Tamil",
+    "Ukrainian",
+    "Umbrella",
+    "Valet Parking",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Yoga Classes",
+    "Yoga Room"
+  ],
+  "parent_brand": "Accor",
+  "brand": "Sofitel",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Romantic",
+    "City View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620675",
+      "name": "Umm Hurair"
+    },
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    },
+    {
+      "location_id": "15620677",
+      "name": "Umm Hurair 2"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "504"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "512"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "195"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "663"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "361"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

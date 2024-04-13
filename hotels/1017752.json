@@ -1,0 +1,322 @@
+{
+  "location_id": "1017752",
+  "name": "Lindos Blu Luxury Hotel & Suites",
+  "description": "\"LINDOS BLU, Luxury Hotel & Suites\", the premiere adults-only luxury hotel in Rhodes, rests on the magnificent hillside of Vlycha Bay. The breathtaking views and the traditionally inspired architecture of the hotel, form the ideal scenery for a relaxing break. The customized services provided by our superbly trained personnel, guarantee the indulgence of our visitors senses. Rejuvenate your body and mind at the Elixir Spa & Wellness Center, sip a cup of coffee or quench your thirst at the Allegro Pool Bar, enjoy signature recipies at Luna Rossa Cocktail Bar and let your self be guided to a unique gastronomy journey at the Five Senses Greek Sophisticated Gastronomy and the creations of our Executive Chef.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g227884-d1017752-Reviews-Lindos_Blu_Luxury_Hotel_Suites-Lindos_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street1": "EO Rodou Lindou 615",
+    "street2": "",
+    "city": "Lindos",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "851 07",
+    "address_string": "EO Rodou Lindou 615, Lindos 851 07 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Lindos",
+      "location_id": "227884"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.101707",
+  "longitude": "28.072063",
+  "timezone": "Europe/Athens",
+  "phone": "011302244032110",
+  "write_review": "https://www.tripadvisor.com/UserReview-g227884-d1017752-Lindos_Blu_Luxury_Hotel_Suites-Lindos_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "227884",
+    "ranking_string": "#1 of 32 hotels in Lindos",
+    "geo_location_name": "Lindos",
+    "ranking_out_of": "32",
+    "ranking": "1"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "2006",
+  "review_rating_count": {
+    "1": "2",
+    "2": "5",
+    "3": "21",
+    "4": "108",
+    "5": "1870"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "1906",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g227884-d1017752-m66827-Reviews-Lindos_Blu_Luxury_Hotel_Suites-Lindos_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Free parking",
+    "Wifi",
+    "Free Wifi",
+    "Hot Tub",
+    "Pool",
+    "Beachfront",
+    "Suites",
+    "Room service",
+    "Restaurant",
+    "Fitness center",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Public Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Safe",
+    "Rooftop Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Infinity Pool",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Private Pools",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Sauna",
+    "Adults Only",
+    "Allergy-free Room",
+    "Baggage Storage",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "24-Hour Check-in",
+    "Coffee / Tea Maker",
+    "Couples Massage",
+    "Doorperson",
+    "English",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Free Private Parking Nearby",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Greek",
+    "Hair Dryer",
+    "Ironing Service",
+    "Laptop Safe",
+    "Massage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Private Check-in / Check-out",
+    "Salon",
+    "Soundproof Rooms",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Wine / Champagne",
+    "Additional Bathroom",
+    "Bicycle Rental",
+    "Boating",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "Clothes Rack",
+    "Diving",
+    "Extra Long Beds",
+    "First Aid Kit",
+    "Foot Bath",
+    "Complimentary Welcome Drink",
+    "Hand Massage",
+    "Head Massage",
+    "Italian",
+    "Latvian",
+    "Manicure",
+    "Neck Massage",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Radio",
+    "Slovak",
+    "Sofa",
+    "Sun Deck",
+    "Tile / Marble Floor",
+    "Umbrella",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Waxing Services",
+    "Whirlpool Bathtub",
+    "Yoga Classes",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Trendy",
+    "Green"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "4"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1564"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "23"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "78"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "62"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice Best of the Best",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png"
+      },
+      "categories": [
+        "Luxury",
+        "Top"
+      ],
+      "display_name": "Travelers Choice Best of the Best"
+    },
+    {
+      "award_type": "Travelers Choice Best of the Best",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png"
+      },
+      "categories": [
+        "Luxury",
+        "Romance",
+        "Top"
+      ],
+      "display_name": "Travelers Choice Best of the Best"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

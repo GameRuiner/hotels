@@ -1,0 +1,412 @@
+{
+  "location_id": "14076678",
+  "name": "Crowne Plaza Dubai Marina, an IHG Hotel",
+  "description": "Located in the cosmopolitan Dubai Marina area, Crowne Plaza Dubai Marina is next to the Dubai Marina Mall and within direct access to the Marina pedestrian promenade, which borders the waterway lined with vibrant cafes and restaurants sure to fit any guest preference.\nThis hotel offers its guest rooms with breathtaking views of Dubai Marina, as well as close proximity to the main business hubs of the city, such as Dubai Media City, Dubai Internet City, and Knowledge Village. All of these venues are located nearby for your comfort.\nWith 273 stylish nonsmoking rooms and a convenient, prestigious location in Dubai, you will find Crowne Plaza Dubai Marina to be an ideal hotel for productive business and enjoyable leisure time.\nLet us pamper you with the comfort of a premium club and the personalized service that you deserve in our sophisticated club lounge.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d14076678-Reviews-Crowne_Plaza_Dubai_Marina_an_IHG_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Yahoom Street",
+    "street2": "Dubai Marina",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Al Yahoom Street Dubai Marina, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.075369",
+  "longitude": "55.139282",
+  "timezone": "Asia/Dubai",
+  "phone": "18778595095",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d14076678-Crowne_Plaza_Dubai_Marina_an_IHG_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#39 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "39"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "1287",
+  "review_rating_count": {
+    "1": "14",
+    "2": "7",
+    "3": "11",
+    "4": "69",
+    "5": "1186"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "1255",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d14076678-m66827-Reviews-Crowne_Plaza_Dubai_Marina_an_IHG_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Kids Activities",
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Refrigerator in room",
+    "Non-smoking hotel",
+    "Safe",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Additional Bathroom",
+    "Allergy-free Room",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "24-Hour Check-in",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "Free Public Parking Nearby",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Massage",
+    "Outdoor Furniture",
+    "Parking Garage",
+    "Pool with View",
+    "Private Check-in / Check-out",
+    "Paid Private Parking On-site",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shoeshine",
+    "Snack Bar",
+    "Soundproof Rooms",
+    "Special Diet Menus",
+    "Taxi Service",
+    "Telephone",
+    "Thai",
+    "Wake Up Service / Alarm Clock",
+    "Free Internet",
+    "Free parking",
+    "Paid Wifi",
+    "Paid Internet",
+    "Family Rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Private Balcony",
+    "Kids Club",
+    "Kids Stay Free",
+    "Electric vehicle charging station",
+    "Aerobics Off-site",
+    "Arabic",
+    "Archery Off-site",
+    "ATM On Site",
+    "Bicycle Rental",
+    "Boating",
+    "Body Wrap",
+    "Bowling Off-site",
+    "Cable / Satellite TV",
+    "Canoeing Off-site",
+    "Car Hire",
+    "Express Check-in / Check-out",
+    "Children's Television Networks",
+    "Chinese",
+    "Clothes Rack",
+    "Couples Massage",
+    "Currency Exchange",
+    "Dining Area",
+    "Electric Kettle",
+    "Executive Lounge Access",
+    "First Aid Kit",
+    "Foot Massage",
+    "Free Wifi in the Business Center",
+    "French",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Hand Massage",
+    "Happy Hour",
+    "Head Massage",
+    "Highchairs Available",
+    "iPod Docking Station",
+    "Italian",
+    "Laptop Safe",
+    "Malay",
+    "Neck Massage",
+    "Nepali",
+    "Outdoor Dining Area",
+    "Private Bathrooms",
+    "Paid Private Parking Nearby",
+    "Paid Public Parking Nearby",
+    "Radio",
+    "Separate Living Room",
+    "Shops",
+    "Sofa",
+    "Spanish",
+    "Steam Room",
+    "Street Parking",
+    "Sun Deck",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Tile / Marble Floor",
+    "Ukrainian",
+    "Umbrella",
+    "Urdu",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Walk-in Shower",
+    "Walking Tours",
+    "Wardrobe / Closet",
+    "Whirlpool Bathtub",
+    "Wine / Champagne",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "parent_brand": "InterContinental",
+  "brand": "Crowne Plaza",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Modern",
+    "City View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7282432",
+      "name": "The Marina"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "288"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "289"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "96"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "346"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "141"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

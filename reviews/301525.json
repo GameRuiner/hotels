@@ -1,0 +1,208 @@
+{
+  "data": [
+    {
+      "id": 945748110,
+      "lang": "en",
+      "location_id": 301525,
+      "published_date": "2024-04-07T16:08:37Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d301525-r945748110-Reviews-Regent_Palace_Hotel_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review945748110",
+      "text": "Nice place delicious  food we had appam with chicken stew beef fry beef ularthu sicilar chicken tikka  with some mouthwatering  cocktails bullfrog and long iland ice tea Nice service stafs are very helpful everything  perfect\nWe will see you  soon",
+      "title": "Wonderful  place",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "681jancyj",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e7/99/default-avatar-2020-57.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e7/99/default-avatar-2020-57.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e7/99/default-avatar-2020-57.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e7/99/default-avatar-2020-57.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/99/default-avatar-2020-57.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 945744433,
+      "lang": "en",
+      "location_id": 301525,
+      "published_date": "2024-04-07T15:38:41Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d301525-r945744433-Reviews-Regent_Palace_Hotel_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review945744433",
+      "text": "Very nice experience   I recommend  kalpaka restaurant  for  the delicious  kerala food  we tried couple  of seafood dishes king fish tawa fry and prawns masala fry its amazing nice staff we will visit again          \nThank you team kalpaka  for your great hospitality",
+      "title": "Amazing  hospitality",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "881ravishm",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ef/73/default-avatar-2020-13.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 945323556,
+      "lang": "en",
+      "location_id": 301525,
+      "published_date": "2024-04-04T08:48:43Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d301525-r945323556-Reviews-Regent_Palace_Hotel_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review945323556",
+      "text": "My recent visit to R adda was nothing short of spectacular. From the moment I stepped through the door, I was greeted with warm smiles and impeccable service. The ambiance was elegant yet cozy, setting the perfect tone for an evening of culinary delight.",
+      "title": "The ambiance was elegant yet coz",
+      "trip_type": "Business",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "Vegur",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/81/default-avatar-2020-43.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 939760501,
+      "lang": "en",
+      "location_id": 301525,
+      "published_date": "2024-02-25T14:37:36Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d301525-r939760501-Reviews-Regent_Palace_Hotel_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review939760501",
+      "text": "Food was just authentic and The service was better than my last visit to kalpaka.I would recommend this restaurant to all who loves Indian  Malabar Food .Special Thanks to Entire Service for Amazing service .",
+      "title": "Found Best Option For Malabar Food at Kalpaka",
+      "trip_type": "Family",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "Swaminathan126",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e5/2b/default-avatar-2020-52.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e5/2b/default-avatar-2020-52.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e5/2b/default-avatar-2020-52.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e5/2b/default-avatar-2020-52.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e5/2b/default-avatar-2020-52.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 928370116,
+      "lang": "en",
+      "location_id": 301525,
+      "published_date": "2023-12-04T08:58:53Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d301525-r928370116-Reviews-Regent_Palace_Hotel_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review928370116",
+      "text": "the description was not true. Pomo is not in use and there is no sunbeds as told. Rooma are old and dirty. Music from night club comes to the rooms and service in front desk wasn’t so good. For spa there was only phone number Nothing else information.",
+      "title": "Never again",
+      "trip_type": "Friends getaway",
+      "travel_date": "2023-12-31",
+      "user": {
+        "username": "Safari36286716475",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/df/2b/default-avatar-2020-39.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 929701314,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nWe deeply regret the inconvenience caused during your visit.\n\nWe have noted your feedback regarding your recent stay with extreme concern. We assure you that corrective measures will be initiated in the respective department.\n\nWe appreciate you taking time to communicate with us. Please accept our sincere apologies.\n\nWe look forward to welcoming you to Regent Palace in the near future with an assurance of better and improved services.\n\nRegards,\nTeam Regent Palace",
+        "lang": "en",
+        "author": "Regent Palace Hotels",
+        "published_date": "2023-12-16T12:24:12Z"
+      }
+    }
+  ]
+}

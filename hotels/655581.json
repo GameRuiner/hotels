@@ -1,0 +1,215 @@
+{
+  "location_id": "655581",
+  "name": "Naama Bay Hotel & Resort",
+  "description": "Ideally located in the heart of the world's repute resort destination of Sharm El Sheikh, Naama Bay Hotel & Resort is the cornerstone of its most famous of bays, offering breathtaking views of the warm Red Sea and the golden Sinai mountains, yet, a split of a second away from the exceptional dining and nightlife attractions of Naama Bay. With an impressive collection of alluring restaurants and cool bars, pristine beachfront and modern stylish rooms as well as numerous leisure facilities, Naama Bay blends cosmopolitan architecture with warm Egyptian hospitality to deliver you an experience which is second to none.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d655581-Reviews-Naama_Bay_Hotel_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Naama Bay",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "postalcode": "46628",
+    "address_string": "Naama Bay, Sharm El Sheikh 46628 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.907465",
+  "longitude": "34.323853",
+  "timezone": "Africa/Cairo",
+  "phone": "0112063600570",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d655581-Naama_Bay_Hotel_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#54 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "54"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "4735",
+  "review_rating_count": {
+    "1": "148",
+    "2": "138",
+    "3": "318",
+    "4": "878",
+    "5": "3253"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "3708",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d655581-m66827-Reviews-Naama_Bay_Hotel_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Room service",
+    "Restaurant",
+    "Fitness center",
+    "Internet",
+    "Suites",
+    "Paid Internet",
+    "Wheelchair access",
+    "Kids Activities",
+    "Bar/Lounge",
+    "Breakfast included",
+    "Business center",
+    "Beachfront",
+    "Shuttle Bus Service",
+    "Free parking",
+    "Spa",
+    "Airport transportation",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Rooftop Bar",
+    "Swimup Bar",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Water Park",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Private Beaches",
+    "Kids Club",
+    "Sauna",
+    "Aerobics",
+    "Arabic",
+    "Baggage Storage",
+    "Billiards",
+    "Blackout Curtains",
+    "Darts",
+    "Diving",
+    "Doorperson",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Fitness Classes",
+    "24-Hour Front Desk",
+    "Gift Shop",
+    "Hammam",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Italian",
+    "Massage",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Steam Room",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Centrally Located",
+    "Trendy"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "29"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1139"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "214"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1506"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "1443"
+    }
+  ],
+  "awards": []
+}

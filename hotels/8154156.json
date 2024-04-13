@@ -1,0 +1,257 @@
+{
+  "location_id": "8154156",
+  "name": "Grand Hyatt Residence",
+  "description": "Welcome to Grand Hyatt Residence, your Dubai “home away from home.” Grand Hyatt Residence aims to make your visit as relaxing and enjoyable as possible, which is why so many guests continue to come back year after year. Close to some of Dubai's most popular landmarks, such as Dubai Tennis Stadium (1.4 mi) and Imagine (1.5 mi), Grand Hyatt Residence is a great destination for tourists. Free Wi-fi is offered to guests, and rooms at Grand Hyatt Residence offer air conditioning and a kitchenette. During your stay, take advantage of some of the amenities offered, including a 24-hour front desk, room service, and shops. Guests of Grand Hyatt Residence are also welcome to enjoy a pool and a snack bar, located on-site. For travelers arriving by car, free parking is available. During your visit, be sure to check out Dubai Frame, Dubai Mall which is a popular attraction within minutes from the hotel. Grand Hyatt Residence puts the best of Dubai at your fingertips, making your stay both relaxing and enjoyable.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d8154156-Reviews-Grand_Hyatt_Residence-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Riyadh Street, Sheikh Rashid Road",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Riyadh Street, Sheikh Rashid Road, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.22878",
+  "longitude": "55.327343",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d8154156-Grand_Hyatt_Residence-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#58 of 766 Specialty lodging in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "766",
+    "ranking": "58"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "71",
+  "review_rating_count": {
+    "1": "8",
+    "2": "2",
+    "3": "5",
+    "4": "16",
+    "5": "40"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "189",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d8154156-m66827-Reviews-Grand_Hyatt_Residence-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Kids Activities",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Pets Allowed",
+    "Kitchenette",
+    "Spa",
+    "Wifi",
+    "Free Wifi",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Refrigerator in room",
+    "Babysitting",
+    "Safe",
+    "Breakfast Buffet",
+    "Indoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Additional Bathroom",
+    "Suites",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Tennis Court",
+    "Concierge",
+    "Banquet Room",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Flatscreen TV",
+    "Poolside Bar",
+    "Kids pool",
+    "Outdoor pool",
+    "Sauna",
+    "Electric vehicle charging station",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bidet",
+    "Breakfast in the Room",
+    "Cable / Satellite TV",
+    "Clothes Dryer",
+    "Coffee Shop",
+    "Convenience Store",
+    "English",
+    "Facial Treatments",
+    "Filipino",
+    "First Aid Kit",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "French",
+    "24-Hour Front Desk",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hand Massage",
+    "Head Massage",
+    "Hindi",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Landmark View",
+    "Manicure",
+    "Massage",
+    "Massage Chair",
+    "Neck Massage",
+    "Nightclub / DJ",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Personal Trainer",
+    "Pool View",
+    "Romanian",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shoeshine",
+    "Shops",
+    "Snack Bar",
+    "Steam Room",
+    "Swahili",
+    "Ukrainian",
+    "Urdu",
+    "Walk-in Shower",
+    "Washing Machine",
+    "Waxing Services",
+    "Wine / Champagne",
+    "Photo Copier / Fax In Business Center",
+    "Yoga Room"
+  ],
+  "parent_brand": "Hyatt Hotels",
+  "brand": "Grand Hyatt",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [
+    "Trendy",
+    "City View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620675",
+      "name": "Umm Hurair"
+    },
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    },
+    {
+      "location_id": "15620677",
+      "name": "Umm Hurair 2"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "4"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "2"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "2"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "45"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "6"
+    }
+  ],
+  "awards": []
+}

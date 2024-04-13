@@ -1,0 +1,175 @@
+{
+  "location_id": "7055968",
+  "name": "Hotel Apart Alsancak",
+  "description": "The heart of the district of Izmir, Cyprus Martyrs Street Gönül Yazar our hotel located apartments come with an extremely central location to the forefront of modern architecture and stylish Turkey also brings a new breath Apart understanding. We have our own free and secure parking area. The spacious American kitchen with its 45 square meters, spacious bathroom with shower and bath, spacious bedroom, spacious living room, 1 + 1 Superior Suite with seating area and elegant and elegant decoration that you can reward yourself with the elegance and elegance. You will reward yourself by spending comfortable, peaceful and quality accommodation in our 1 + 0 Deluxe room where there is a handy kitchen with underfloor heating, heating and hot water provided with natural gas and in-room air conditioner can be used if desired.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d7055968-Reviews-Hotel_Apart_Alsancak-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "1483 Sok. No: 24",
+    "street2": "Alsancak",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35220",
+    "address_string": "1483 Sok. No: 24 Alsancak, Izmir 35220 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.437176",
+  "longitude": "27.144802",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d7055968-Hotel_Apart_Alsancak-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#4 of 136 B&Bs / Inns in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "136",
+    "ranking": "4"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "79",
+  "review_rating_count": {
+    "1": "9",
+    "2": "0",
+    "3": "4",
+    "4": "19",
+    "5": "47"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "103",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d7055968-m66827-Reviews-Hotel_Apart_Alsancak-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Internet",
+    "Suites",
+    "Free Internet",
+    "Wheelchair access",
+    "Kitchenette",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Microwave",
+    "Refrigerator in room",
+    "Flatscreen TV",
+    "Turkish",
+    "Kids Activities",
+    "Free parking",
+    "Bar/Lounge",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Non-smoking hotel",
+    "Breakfast Available",
+    "Parking",
+    "Baggage Storage",
+    "English",
+    "24-Hour Front Desk"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "bb",
+      "localized_name": "Bed and Breakfast"
+    }
+  ],
+  "styles": [
+    "Business",
+    "Classic"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "4"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "30"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "6"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "23"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "7"
+    }
+  ],
+  "awards": []
+}

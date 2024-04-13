@@ -1,0 +1,279 @@
+{
+  "location_id": "324797",
+  "name": "Domina Coral Bay Resort , Diving , SPA & Casino",
+  "description": "Domina Coral bay Resort, Diving, Spa & Casino has always been a preferred destination for guests visiting Egypt and an excellent choice for travellers visiting Sharm El Sheikh. It’s one of the most fascinating Red Sea resorts nestled in a beautiful coral reef and extending over an area of more than one million square meters.  Domina Coral Bay is located in Marsa El Dekhela and overlooks beautiful Tiran island, just a few km from Sharm el Sheikh airport and Naama bay. The resort proposes a selection of 8 different structures, each one with its own personality and concept, with a total capacity of up to 4,500 guests. Guest rooms offer flat screen TV, air conditioning, safe deposit box, minibar and high-speed Wi-Fi. An extraordinary 1.8 km long white sandy private beach, 9 swimming pools and 3 magnificent floating platforms that allow snorkelers to dive into the sea without damaging the precious corals are at your service.  3 buffet and 8 a-la cart restaurants with international cuisine are waiting for you at Domina Coral Bay. Exclusive Elisir Spa & Thalasso is a unique and magical place with pools of varied temperature, rejuvenating waterfall and wide selection of face and body treatments. At Aladdin Casino you can find broad range of games starting from American and European Roulette to traditional card games like Texas hold’em and blackjack. World famous dancers, local and international musicians, fabulous parties, dinner shows will entertain your evenings at the resort. Stargate Disco Club invites you to spend a night with selection of popular songs, fantastic theme parties, open bar, and a lot of fun. Come to Domina Coral Bay and enjoy your vacation in full!",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d324797-Reviews-Domina_Coral_Bay_Resort_Diving_SPA_Casino-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Marsa El Dekhela",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "postalcode": "46619",
+    "address_string": "Marsa El Dekhela, Sharm El Sheikh 46619 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.929867",
+  "longitude": "34.36493",
+  "timezone": "Africa/Cairo",
+  "phone": "01120693601610",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d324797-Domina_Coral_Bay_Resort_Diving_SPA_Casino-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#78 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "78"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "10097",
+  "review_rating_count": {
+    "1": "647",
+    "2": "522",
+    "3": "925",
+    "4": "2399",
+    "5": "5604"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "13614",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d324797-m66827-Reviews-Domina_Coral_Bay_Resort_Diving_SPA_Casino-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Room service",
+    "Restaurant",
+    "Fitness center",
+    "Wheelchair access",
+    "Kids Activities",
+    "Beachfront",
+    "Bar/Lounge",
+    "Beach Access",
+    "Internet",
+    "Shuttle Bus Service",
+    "Free Internet",
+    "Suites",
+    "Free parking",
+    "Spa",
+    "Casino",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Free airport transportation",
+    "Free Shuttle or Taxi Services",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "BBQ Facilities",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Coffee / Tea Maker",
+    "Convenience Store",
+    "Currency Exchange",
+    "Darts",
+    "Diving",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Free Private Parking Nearby",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Italian",
+    "Karaoke",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Nightclub / DJ",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shops",
+    "Snack Bar",
+    "Snorkeling",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Wifi",
+    "Family Rooms",
+    "Kids pool",
+    "Bidet",
+    "Body Wrap",
+    "Express Check-in / Check-out",
+    "Children's Playground",
+    "Couples Massage",
+    "Electric Kettle",
+    "Foot Massage",
+    "Free Wifi in the Business Center",
+    "Full Body Massage",
+    "Hand Massage",
+    "Happy Hour",
+    "Head Massage",
+    "Infirmary",
+    "Landmark View",
+    "Laptop Safe",
+    "Manicure",
+    "Neck Massage",
+    "Open-air Bath",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Personal Trainer",
+    "Pool View",
+    "Private Bathrooms",
+    "Saltwater Pool",
+    "Separate Living Room",
+    "Sofa",
+    "Sofa Bed",
+    "Sun Deck",
+    "Wardrobe / Closet",
+    "Water Sport Equipment Rentals",
+    "Waxing Services",
+    "Yoga Classes"
+  ],
+  "parent_brand": "Domina Hotel Group",
+  "brand": "Domina Home",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Lagoon View",
+    "Family Resort"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "116"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "3272"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "469"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "3054"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "2204"
+    }
+  ],
+  "awards": []
+}

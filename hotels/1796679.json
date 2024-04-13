@@ -1,0 +1,200 @@
+{
+  "location_id": "1796679",
+  "name": "Anemon Cigli Hotel",
+  "description": "Finding an ideal family-friendly hotel in Izmir does not have to be difficult. Welcome to Anemon Cigli Hotel, a nice option for travelers like you.\nAnemon Cigli Hotel is a family-friendly hotel offering air conditioning, a minibar, and a desk in the rooms, and it is easy to stay connected during your stay as free wifi is offered to guests.\nThe hotel features a 24 hour front desk, a concierge, and room service. Plus, guests can enjoy a pool and a lounge, which have made this a popular choice among travelers visiting Izmir. For guests with a vehicle, free parking is available.\nIzmir has plenty of seafood restaurants. So when you’re here, be sure to check out popular spots like Deniz Kent Restaurant, Ayvalık Balıkcısı, and Bogazici Restaurant, which are serving up some great dishes.\nIf you’re looking for something to do, Tay Park (1.2 mi) is a nice way to spend some time, and it is within walking distance of Anemon Cigli Hotel.\nAnemon Cigli Hotel looks forward to welcoming you on your visit to Izmir.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g15306079-d1796679-Reviews-Anemon_Cigli_Hotel-Cigli_Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "8001/2 No: 2",
+    "city": "Cigli",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "",
+    "address_string": "8001/2 No: 2, Cigli, Izmir Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Cigli",
+      "location_id": "15306079"
+    },
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.491135",
+  "longitude": "27.065107",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g15306079-d1796679-Anemon_Cigli_Hotel-Cigli_Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "15306079",
+    "ranking_string": "#1 of 4 hotels in Cigli",
+    "geo_location_name": "Cigli",
+    "ranking_out_of": "4",
+    "ranking": "1"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "120",
+  "review_rating_count": {
+    "1": "9",
+    "2": "9",
+    "3": "25",
+    "4": "36",
+    "5": "41"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "21",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g15306079-d1796679-m66827-Reviews-Anemon_Cigli_Hotel-Cigli_Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Free Wifi",
+    "Breakfast included",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Air conditioning",
+    "Refrigerator in room",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Indoor pool",
+    "Wifi",
+    "Kids Activities",
+    "Airport transportation",
+    "Dry Cleaning",
+    "Business center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Self-Serve Laundry",
+    "Smoking rooms available",
+    "Minibar",
+    "Non-smoking hotel",
+    "Safe",
+    "Parking",
+    "Sauna",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Express Check-in / Check-out",
+    "Coffee / Tea Maker",
+    "Currency Exchange",
+    "Desk",
+    "English",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Iron",
+    "Massage",
+    "On-Demand Movies",
+    "Steam Room",
+    "Telephone",
+    "Turkish",
+    "Valet Parking"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Family"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "70"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "16"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "8"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "10"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "5"
+    }
+  ],
+  "awards": []
+}

@@ -1,0 +1,348 @@
+{
+  "location_id": "228466",
+  "name": "InterContinental Barcelona, an IHG Hotel",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d228466-Reviews-InterContinental_Barcelona_an_IHG_Hotel-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Avenida Rius I Taulet 1-3",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08004",
+    "address_string": "Avenida Rius I Taulet 1-3, 08004 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.372772",
+  "longitude": "2.155079",
+  "timezone": "Europe/Madrid",
+  "phone": "18778595095",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d228466-InterContinental_Barcelona_an_IHG_Hotel-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#86 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "86"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1879",
+  "review_rating_count": {
+    "1": "23",
+    "2": "28",
+    "3": "106",
+    "4": "531",
+    "5": "1191"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1236",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d228466-m66827-Reviews-InterContinental_Barcelona_an_IHG_Hotel-Barcelona_Catalonia.html#photos",
+  "price_level": "$$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Room service",
+    "Restaurant",
+    "Fitness center",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Meeting rooms",
+    "Business center",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Laundry Service",
+    "Concierge",
+    "Suites",
+    "Public Wifi",
+    "Non-smoking rooms",
+    "Dry Cleaning",
+    "Banquet Room",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Hot Tub",
+    "Air conditioning",
+    "Accessible rooms",
+    "Minibar",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Indoor pool",
+    "Outdoor pool",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Sauna",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Breakfast in the Room",
+    "Catalan",
+    "24-Hour Check-in",
+    "English",
+    "Facial Treatments",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Iron",
+    "Ironing Service",
+    "Italian",
+    "Laptop Safe",
+    "Massage",
+    "Parking Garage",
+    "Paid Private Parking On-site",
+    "Spanish",
+    "Special Diet Menus",
+    "Sun Terrace",
+    "Taxi Service",
+    "Breakfast Available",
+    "Parking",
+    "Bowling Off-site",
+    "Car Hire",
+    "Children's Television Networks",
+    "Couples Massage",
+    "Currency Exchange",
+    "Doorperson",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Foot Massage",
+    "Free Public Parking Nearby",
+    "French",
+    "Full Body Massage",
+    "German",
+    "Hammam",
+    "Hand Massage",
+    "Head Massage",
+    "Highchairs Available",
+    "Interconnected room(s) available",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Mountain View",
+    "Newspaper",
+    "Outdoor Dining Area",
+    "Outdoor Furniture",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Paid Private Parking Nearby",
+    "24-Hour Security",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Sofa",
+    "Sofa Bed",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Telephone",
+    "Tennis Court Off-site",
+    "Umbrella",
+    "Valet Parking",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wine / Champagne",
+    "Yoga Classes",
+    "Beach Access"
+  ],
+  "parent_brand": "InterContinental",
+  "brand": "InterContinental",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Business",
+    "Green"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15565875",
+      "name": "Sants-Montjuic"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "390"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "621"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "67"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "464"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "162"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

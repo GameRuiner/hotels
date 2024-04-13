@@ -1,0 +1,313 @@
+{
+  "location_id": "291590",
+  "name": "Occidental Atenea Mar - Adults Only",
+  "description": "The 4-star Occidental Atenea Mar Adults only stands out for its proximity to both the beach and the city. It is 150 m from the Nova Mar Bella beach and 15 minutes from the CCIB convention centre and the Diagonal Mar shopping centre. The hotel has spacious and modern rooms, most of them with sea or city views. All the rooms have free Wi-Fi. Among the services offered by the hotel you can enjoy parking, free use of the gym, sauna, hydromassage bath and free Wi-fi throughout the hotel. Also, there are 5 modular function rooms for meetings with natural light and capacity for 400 people, equipped with the latest technology in audiovisual and communication equipment. Try exquisite dishes of the finest Mediterranean cuisine in its restaurant Likewise, enjoy a refreshing cocktail in the exclusive terrace with views of the promenade. Finish your day with a relaxing walk along the beach.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d291590-Reviews-Occidental_Atenea_Mar_Adults_Only-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Paseo Garcia Faria 37-47",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08019",
+    "address_string": "Paseo Garcia Faria 37-47, 08019 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.402493",
+  "longitude": "2.212221",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d291590-Occidental_Atenea_Mar_Adults_Only-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#230 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "230"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "2674",
+  "review_rating_count": {
+    "1": "112",
+    "2": "139",
+    "3": "345",
+    "4": "945",
+    "5": "1133"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "846",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d291590-m66827-Reviews-Occidental_Atenea_Mar_Adults_Only-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Suites",
+    "Public Wifi",
+    "Meeting rooms",
+    "Beachfront",
+    "Laundry Service",
+    "Concierge",
+    "Internet",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Infinity Pool",
+    "Outdoor pool",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Baggage Storage",
+    "English",
+    "Complimentary Instant Cofffee",
+    "24-Hour Front Desk",
+    "Ironing Service",
+    "Parking Garage",
+    "Paid Private Parking On-site",
+    "24-Hour Security",
+    "Snack Bar",
+    "Breakfast Available",
+    "Sauna",
+    "Bicycle Rental",
+    "Car Hire",
+    "Currency Exchange",
+    "Beach Access"
+  ],
+  "parent_brand": "Barcelo Hotels & Resorts",
+  "brand": "Barcelo Hotels & Resorts",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Ocean View",
+    "Great View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15565880",
+      "name": "Sant Marti"
+    },
+    {
+      "location_id": "15565924",
+      "name": "Diagonal Mar i el Front Maritim del Poblenou"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "600"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1107"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "109"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "306"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "346"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

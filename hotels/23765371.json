@@ -1,0 +1,165 @@
+{
+  "location_id": "23765371",
+  "name": "SKAF Hotels",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d23765371-Reviews-SKAF_Hotels-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Jadaf",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Al Jadaf, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.22102",
+  "longitude": "55.33446",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d23765371-SKAF_Hotels-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#566 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "566"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "90",
+  "review_rating_count": {
+    "1": "19",
+    "2": "7",
+    "3": "13",
+    "4": "16",
+    "5": "35"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "191",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d23765371-m66827-Reviews-SKAF_Hotels-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Restaurant",
+    "Bar/Lounge",
+    "Wifi",
+    "Free Wifi",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Air conditioning",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Safe",
+    "Rooftop Pool",
+    "Housekeeping",
+    "Suites",
+    "Wheelchair access",
+    "Spa",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Laundry Service",
+    "Concierge",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Breakfast Available"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quaint",
+    "Luxury"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "17"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "24"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "14"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "13"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "10"
+    }
+  ],
+  "awards": []
+}

@@ -1,0 +1,288 @@
+{
+  "location_id": "21511241",
+  "name": "Avani+ Palm View Dubai Hotel & Suites",
+  "description": "Get comfortable in the ideal location for long-term luxury stays in the city. A seamless blend of urban style and comfortable modernity, Avani Palm View Dubai is a great place to unwind after work and play. Grab great views of the city, take the family for some waterpark fun or shop till you drop in beachfront boutiques on Palm Jumeirah or JBR, whatever you need you’ll find it on your doorstep. With eleven different room types to choose from and a host of amenities, guests can find their own comfort. 247 rooms and suites offer contemporary living with views across the dazzling skyline and Arabian Gulf sea. Perfect for business travellers and those who need a great city base, kitchens and mod-cons mean convenience is included. Connecting rooms are available for families and larger groups. Our restaurants at Avani Palm View Dubai Hotel & Suites offer atmosphere, variety and tasty treats. Take in the remarkable panorama from the outdoor pool or enjoy an upbeat workout at the fully equipped gym AvaniFit. Only 25 minutes from Dubai International Airport right beside both Dubai Media City and the entrance to the iconic Palm Jumeirah, Avani Palm View Dubai hotel is perfectly situated for stays that last longer. Only a few minutes’ drive from Dubai Marina, shopping and dining options are on the doorstep while waterparks and other family attractions are nearby too. For visitors who want to wander further, the hotel is also connected to Dubai Tram and The Palm Monorail.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d21511241-Reviews-Avani_Palm_View_Dubai_Hotel_Suites-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Dubai Media City, TECOM",
+    "street2": "Al Sufouh - Al Sufouh 2",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Dubai Media City, TECOM Al Sufouh - Al Sufouh 2, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.098036",
+  "longitude": "55.157055",
+  "timezone": "Asia/Dubai",
+  "phone": "01197146042222",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d21511241-Avani_Palm_View_Dubai_Hotel_Suites-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#22 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "22"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "1088",
+  "review_rating_count": {
+    "1": "5",
+    "2": "2",
+    "3": "10",
+    "4": "55",
+    "5": "1016"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "988",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d21511241-m66827-Reviews-Avani_Palm_View_Dubai_Hotel_Suites-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Kitchenette",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Microwave",
+    "Refrigerator in room",
+    "Safe",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Infinity Pool",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Sauna",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Clothes Dryer",
+    "Coffee / Tea Maker",
+    "Desk",
+    "Dishwasher",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "Fitness Classes",
+    "Free Private Parking Nearby",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Kitchenware",
+    "Pool / Beach Towels",
+    "Russian",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shoeshine",
+    "Snack Bar",
+    "Special Diet Menus",
+    "Sun Loungers / Beach Chairs",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Washing Machine",
+    "Bar/Lounge",
+    "Business center",
+    "Family Rooms",
+    "Flatscreen TV",
+    "Cable / Satellite TV",
+    "Catalan",
+    "Express Check-in / Check-out",
+    "Children's Television Networks",
+    "Chinese",
+    "Clothes Rack",
+    "Currency Exchange",
+    "Dining Area",
+    "Electric Kettle",
+    "Extra Long Beds",
+    "First Aid Kit",
+    "French",
+    "German",
+    "Landmark View",
+    "Laptop Safe",
+    "Nepali",
+    "Outdoor Dining Area",
+    "Oven",
+    "Personal Trainer",
+    "Pool View",
+    "Pool with View",
+    "Portuguese",
+    "Private Bathrooms",
+    "Radio",
+    "Sofa Bed",
+    "Spanish",
+    "Stovetop",
+    "Swahili",
+    "Thai",
+    "Tile / Marble Floor",
+    "Ukrainian",
+    "Umbrella",
+    "Valet Parking",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Water Park Off-site"
+  ],
+  "parent_brand": "Minor Hotel Group",
+  "brand": "Avani Hotels & Resorts",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "City View",
+    "Romantic"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620603",
+      "name": "Al Sufouh"
+    },
+    {
+      "location_id": "15620605",
+      "name": "Al Sufouh 2"
+    },
+    {
+      "location_id": "15620633",
+      "name": "Dubai Media City (DMC)"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "176"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "186"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "60"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "379"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "96"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

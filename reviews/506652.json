@@ -1,0 +1,293 @@
+{
+  "data": [
+    {
+      "id": 945952201,
+      "lang": "en",
+      "location_id": 506652,
+      "published_date": "2024-04-09T08:59:07Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d506652-r945952201-Reviews-B_Hotel-Barcelona_Catalonia.html?m=66827#review945952201",
+      "text": "I stayed at The B hotel from the USA last week(April 2024) for 2 nights/3 days.  It was an excellent stay.  The rooms were great the location was even greater.  Marianne at the front desk was excellent and very helpful in assisting with directions and things in the area.  I would definitely recommend this hotel to any and everyone. Located right next to the mall and the subway system.  You cold get anywhere in 5/10 minutes.  1 subway connection and to the airport or the Aerobus lets you out in the square as well; which I took from the airport.  Was a great stay!!",
+      "title": "Great Location!! Great hotel!!",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "coach02",
+        "user_location": {
+          "id": "50207",
+          "name": "Cleveland, Ohio"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ef/32/default-avatar-2020-12.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ef/32/default-avatar-2020-12.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ef/32/default-avatar-2020-12.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ef/32/default-avatar-2020-12.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ef/32/default-avatar-2020-12.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 945356164,
+      "lang": "en",
+      "location_id": 506652,
+      "published_date": "2024-04-04T13:36:56Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d506652-r945356164-Reviews-B_Hotel-Barcelona_Catalonia.html?m=66827#review945356164",
+      "text": "Great hotel for a short break, we stayed 3 nights, and it was ideal. Very modern, clean, tidy hotel, and the staff at reception were very friendly and helpful. \n\nWe asked for a quiet room and got one, with a very comfortable bed and great facilities in the room. The only negative was a very small shower head that was better suited for pets!\n\nLocation of the hotel was perfect, First stop on the airport autobus and 5  minutes walk to the hotel from the bus stop, metro, and local buses.\n\nWould certainly stay there again next time I'm in Barcelona and would definitely recommend it.",
+      "title": "Short Break In Barcelona ",
+      "trip_type": "Couples",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "karlr505",
+        "user_location": {
+          "id": "187063",
+          "name": "Leamington Spa, Warwickshire, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ee/db/default-avatar-2020-10.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 944631544,
+      "lang": "en",
+      "location_id": 506652,
+      "published_date": "2024-03-31T08:07:10Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d506652-r944631544-Reviews-B_Hotel-Barcelona_Catalonia.html?m=66827#review944631544",
+      "text": "The steak was fantastic so tender and very juicy! The staffs(Adam and Lucas) were very accommodating and polite. We love the design and ambiance of the place. Will definitely recommend this to my family and friends. Kudos Johnny’s Steak and Grill!",
+      "title": "Satisfied customer",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "florencegH1231TV",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/7a/default-avatar-2020-25.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 935474238,
+      "lang": "en",
+      "location_id": 506652,
+      "published_date": "2024-01-25T01:50:02Z",
+      "rating": 2,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d506652-r935474238-Reviews-B_Hotel-Barcelona_Catalonia.html?m=66827#review935474238",
+      "text": "Hotel is in a good place, rooms Big and confortable. But if hotel is to.sleep, this its impossible in bhotel because the traffic noise is there all day and nigth the Windows non isolatate  from It and seems you have the bed in the street.",
+      "title": "Impossible to sleep",
+      "trip_type": "Business",
+      "travel_date": "2024-01-31",
+      "user": {
+        "username": "danielltc2024",
+        "user_location": {
+          "id": "187452",
+          "name": "Oviedo, Asturias"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f3/23/default-avatar-2020-28.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f3/23/default-avatar-2020-28.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f3/23/default-avatar-2020-28.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f3/23/default-avatar-2020-28.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f3/23/default-avatar-2020-28.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 943985254,
+        "title": "Owner response",
+        "text": "\nWe're sorry to hear about your experience with the noise levels during your stay. While we're glad to know that you found the location convenient and the rooms spacious and comfortable, we understand that uninterrupted sleep is essential for our guests. We apologize for any inconvenience caused by the traffic noise, and we appreciate your feedback. We'll certainly look into ways to improve the soundproofing of our windows to ensure a more peaceful stay for our guests in the future. If you have any further concerns or if there's anything else we can assist you with, please don't hesitate to reach out to us. We value your feedback and hope to have the opportunity to welcome you back for a more restful experience.\n\nB-hotel staff ",
+        "lang": "en",
+        "author": "B- Hotel",
+        "published_date": "2024-03-27T05:54:55Z"
+      }
+    },
+    {
+      "id": 932753412,
+      "lang": "en",
+      "location_id": 506652,
+      "published_date": "2024-01-07T13:44:10Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d506652-r932753412-Reviews-B_Hotel-Barcelona_Catalonia.html?m=66827#review932753412",
+      "text": "Thank you B Hotel for making our stay pleasant. From making our room tidy and clean daily, to accommodating our requests, and went extra with leaving a wine and cakefor my birthday, well done team! Thank you Mari Ann for all the recommendations!:)",
+      "title": "Best Service",
+      "trip_type": "Couples",
+      "travel_date": "2024-01-31",
+      "user": {
+        "username": "jobertc2024",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ed/ce/default-avatar-2020-7.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 943985068,
+        "title": "Owner response",
+        "text": "\n\nThank you for your wonderful feedback! We're thrilled to hear that you enjoyed your stay at B Hotel and that our team was able to exceed your expectations. It's always our goal to provide the best service possible, and we're delighted to know that you found our room cleanliness and attentiveness to your requests satisfactory.\n\nWe're especially glad that we could make your birthday celebration extra special with the wine and cake. MARIANNE will be recognized for her outstanding service, and we're happy that her recommendations enhanced your experience.\n\nWe truly appreciate your kind words and your decision to stay with us. If you ever find yourself back in Barcelona, we would love to welcome you again at B Hotel. If there's anything else we can assist you with, please don't hesitate to reach out. Thank you for choosing us for your stay!\n\nB-hotel staff ",
+        "lang": "en",
+        "author": "B- Hotel",
+        "published_date": "2024-03-27T05:52:52Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": 883296438,
+      "lang": "en",
+      "location_id": 23787171,
+      "published_date": "2023-03-23T14:07:30Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23787171-r883296438-Reviews-Expo_Stay-Dubai_Emirate_of_Dubai.html?m=66827#review883296438",
+      "text": "I stayed here for two nights end of March 2022 for visiting the Expo and I would stay there again next time :) It's a simple shared room, the owner was very kind to me and the vibes in general were very good. Everybody greeted me when I arrived, very welcoming atmosphere. Met nice people from all around the world. Recommend also because of the location. Very nice, clean houses and outside area. Metro station is close by. Thank you! ",
+      "title": "Very pleasant stay, I had a nice time",
+      "trip_type": "Solo travel",
+      "travel_date": "2022-04-30",
+      "user": {
+        "username": "juliesmithfl",
+        "user_location": {
+          "id": "34345",
+          "name": "Key West, Florida Keys, Florida"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1c/9e/46/c0/juliesmithfl.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1c/9e/46/c0/juliesmithfl.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1c/9e/46/c0/juliesmithfl.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1c/9e/46/c0/juliesmithfl.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1c/9e/46/c0/juliesmithfl.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    }
+  ]
+}

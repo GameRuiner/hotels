@@ -1,0 +1,289 @@
+{
+  "data": [
+    {
+      "id": 945921550,
+      "lang": "en",
+      "location_id": 23579558,
+      "published_date": "2024-04-09T03:46:38Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23579558-r945921550-Reviews-Al_Khoory_Sky_Garden_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945921550",
+      "text": "Amazing hotel and amazing people. Very relaxing. Its giving you a vibe of nature since you can see green plants and trees everywhere. Their staff in cenceirge are amazing. The hotel design is very unquie and they have indoor and outdoor play area for kids.",
+      "title": "Best time spend",
+      "trip_type": "Family",
+      "travel_date": "2023-09-30",
+      "user": {
+        "username": "noreenc527",
+        "user_location": {
+          "id": "295424",
+          "name": "Dubai, Emirate of Dubai"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/a3/default-avatar-2020-38.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 945812771,
+      "lang": "en",
+      "location_id": 23579558,
+      "published_date": "2024-04-08T06:27:46Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23579558-r945812771-Reviews-Al_Khoory_Sky_Garden_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945812771",
+      "text": "It’s clean with a nice lounge for a coffee. The staff is helpful, Francis specifically did a  thorough job in cleaning my room. The location is a bit far and near the airport but this also means it’s near the highway. It takes 15-20 minutes to go downtown.",
+      "title": "Good but a bit far",
+      "trip_type": "Business",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "alexanderkN426LW",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e6/ea/default-avatar-2020-54.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e6/ea/default-avatar-2020-54.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e6/ea/default-avatar-2020-54.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e6/ea/default-avatar-2020-54.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e6/ea/default-avatar-2020-54.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945912578,
+        "title": "Owner response",
+        "text": "Dear Alexander, \n\nThank you for your review, we are happy to read that you had such an enjoyable stay with us!\n\nWe are glad that you appreciated our attention to detail and exceptional service.\n\nWe always strive for great hospitality and reading constructive and positive feedback like yours is our guide that we are heading the right direction.\n\nThank you again for your wonderful review and we look forward to having the pleasure to welcome you back soon!\n\nKind regards,\nFiras Al Alami\nGeneral Manager\n",
+        "lang": "en",
+        "author": "Firas Al Alami",
+        "published_date": "2024-04-09T01:50:22Z"
+      }
+    },
+    {
+      "id": 945410016,
+      "lang": "en",
+      "location_id": 23579558,
+      "published_date": "2024-04-05T02:44:41Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23579558-r945410016-Reviews-Al_Khoory_Sky_Garden_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945410016",
+      "text": "This is my first trip in United Arab Emirates and Al Khoory  Hotel is my home for 5 days. The room is very spacious and the employees very accommodating to our needs. The service was very good, and our stay was so relaxing. I had an amazing experience in dubai.",
+      "title": "Business trip",
+      "trip_type": "Business",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "merzg2020",
+        "user_location": {
+          "id": "294248",
+          "name": "Luzon"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e3/1f/default-avatar-2020-46.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945912617,
+        "title": "Owner response",
+        "text": "Dear Merz, \n\nThank you for your review, we are happy to read that you had such an enjoyable stay with us!\n\nWe are glad that you appreciated our attention to detail and exceptional service.\n\nWe always strive for great hospitality and reading constructive and positive feedback like yours is our guide that we are heading the right direction.\n\nThank you again for your wonderful review and we look forward to having the pleasure to welcome you back soon!\n\nKind regards,\nFiras Al Alami\nGeneral Manager\n",
+        "lang": "en",
+        "author": "Firas Al Alami",
+        "published_date": "2024-04-09T01:50:54Z"
+      }
+    },
+    {
+      "id": 945280789,
+      "lang": "en",
+      "location_id": 23579558,
+      "published_date": "2024-04-03T23:45:41Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23579558-r945280789-Reviews-Al_Khoory_Sky_Garden_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945280789",
+      "text": "Flordelyn\n@ good  in assisting in the cafeteria, suggest the menu fit for our tastes, coupled with a good ambiance and respectful visitors like ours, then if you want to go to in the wash there is an informative instructions and course with very clean lavatory..",
+      "title": "Thank you flordelyn for your amazing hospitality",
+      "trip_type": "Business",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "J6031XNmichaels",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/b8/default-avatar-2020-22.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945525859,
+        "title": "Owner response",
+        "text": "Dear Michael, \n\nThank you for your review, we are happy to read that you had such an enjoyable stay with us!\n\nWe are glad that you appreciated our attention to detail and exceptional service.\n\nWe always strive for great hospitality and reading constructive and positive feedback like yours is our guide that we are heading the right direction.\n\nThank you again for your wonderful review and we look forward to having the pleasure to welcome you back soon!\n\nKind regards,\nFiras Al Alami\nGeneral Manager\n",
+        "lang": "en",
+        "author": "Firas Al Alami",
+        "published_date": "2024-04-06T01:53:23Z"
+      }
+    },
+    {
+      "id": 945212472,
+      "lang": "en",
+      "location_id": 23579558,
+      "published_date": "2024-04-03T10:00:41Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23579558-r945212472-Reviews-Al_Khoory_Sky_Garden_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945212472",
+      "text": "The staff were amazing and the facilities were really clean and very refreshing. The treatment of the staff was over and beyond especially mister sanoop who took every measure to mak3 sure me and my fellow guests were having a good time. \n\nDefinitely recommend",
+      "title": "Amaz8nf experience",
+      "trip_type": "Business",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "R5695SJomars",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e8/91/default-avatar-2020-62.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945404627,
+        "title": "Owner response",
+        "text": "Dear Omar, \n\nThank you for your review, we are happy to read that you had such an enjoyable stay with us!\n\nWe are glad that you appreciated our attention to detail and exceptional service.\n\nWe always strive for great hospitality and reading constructive and positive feedback like yours is our guide that we are heading the right direction.\n\nThank you again for your wonderful review and we look forward to having the pleasure to welcome you back soon!\n\nKind regards,\nFiras Al Alami\nGeneral Manager\n",
+        "lang": "en",
+        "author": "Firas Al Alami",
+        "published_date": "2024-04-05T01:17:14Z"
+      }
+    }
+  ]
+}

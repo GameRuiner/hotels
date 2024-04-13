@@ -1,0 +1,162 @@
+{
+  "location_id": "23039005",
+  "name": "Sleep 'N fly At Dubai International Airport C-Gates Terminal 3",
+  "description": "A Sleep Lounge located in Dubai International Airport's Terminal 3 (C-Gates). The lounge features 12 FlexiSuites (sleep pods) and five Cabins (rooms). FlexiSuites can accommodate one person, while Bunk Cabins can accommodate a maximum of two people, and Double Cabins can accommodate two adults and one child up to 115cm in height. As this is not a hotel please note that no meals are provided, no shower facilities available, and bathrooms are located just outside of the lounge in the airport terminal.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d23039005-Reviews-Sleep_N_fly_At_Dubai_International_Airport_C_Gates_Terminal_3-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "C-Gates Terminal 3, Reception Next To Gate C14",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "643879",
+    "address_string": "C-Gates Terminal 3, Reception Next To Gate C14, Dubai 643879 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.25116",
+  "longitude": "55.35726",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d23039005-Sleep_N_fly_At_Dubai_International_Airport_C_Gates_Terminal_3-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#25 of 766 Specialty lodging in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "766",
+    "ranking": "25"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "114",
+  "review_rating_count": {
+    "1": "4",
+    "2": "2",
+    "3": "2",
+    "4": "6",
+    "5": "100"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "47",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d23039005-m66827-Reviews-Sleep_N_fly_At_Dubai_International_Airport_C_Gates_Terminal_3-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Free Wifi",
+    "Air conditioning",
+    "Wheelchair access",
+    "Non-smoking rooms",
+    "24-Hour Check-in",
+    "24-Hour Front Desk",
+    "Wake Up Service / Alarm Clock"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [
+    "Business",
+    "Quaint"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620553",
+      "name": "Al Garhoud"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "6"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "13"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "73"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "9"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "2"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

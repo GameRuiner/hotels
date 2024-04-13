@@ -1,0 +1,321 @@
+{
+  "location_id": "1823675",
+  "name": "Oaks Ibn Battuta Gate Dubai",
+  "description": "Named as one of the TOP 50 hotels in the Middle East, Oaks Ibn Battuta Gate Dubai is an Impressive 5-star luxury hotel near the Dubai Expo 2020. Enjoy vibrant Dubai and discover the Dubai Expo 2020 as you immerse yourself in the authentic Arabian style of Oaks Ibn Battuta Gate Dubai. Our luxury hotel is just 15 minutes away from the Expo 2020 venue location, walking distance from Ibn Battuta Shopping Mall and the Dubai Metro, with easy access to Dubai’s top attractions. The Palm Jumeirah, Dubai Parks and Resorts, Dubai Marina, Dubai Outlet Village, and the Jebel Ali Free Zone are nearby and just a few minutes’ drive which are also accessible by metro and bus. With different themes adapted from the 14th century travels of the Arab explorer Ibn Battuta, the 396 rooms and suites, boast intricate design details complemented with free Wi-Fi. Stay in one of our themed Battuta Suites for a special experience and savour delicious cuisines from China, India, Arabia and the Mediterranean in one of our eight restaurants, bars and lounges. Unwind in our rooftop swimming pool, stay fit in the gym or enjoy a treatment at the Spa. Take advantage of a private beach access including free scheduled shuttle service offering during your stay. Children can enjoy some fun activities at our kids' club. Host an unforgettable Dubai conference or event in our ballroom, 15 meeting rooms, outdoor venues or magnificent grand hall with its 88 locally crafted lanterns. Have a Safe Stay at Oaks Ibn Battuta Gate Dubai. We have implemented new and improved processes to ensure the safety and well-being of our guests and team members.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1823675-Reviews-Oaks_Ibn_Battuta_Gate_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Garden Cross Road",
+    "street2": "Opposite Ibn Battuta Mall",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "211508",
+    "address_string": "Garden Cross Road Opposite Ibn Battuta Mall, Dubai 211508 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.041748",
+  "longitude": "55.115215",
+  "timezone": "Asia/Dubai",
+  "phone": "01197144440000",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1823675-Oaks_Ibn_Battuta_Gate_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#147 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "147"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "10603",
+  "review_rating_count": {
+    "1": "109",
+    "2": "127",
+    "3": "369",
+    "4": "1745",
+    "5": "8253"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "2723",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1823675-m66827-Reviews-Oaks_Ibn_Battuta_Gate_Dubai-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Free parking",
+    "Suites",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Bar/Lounge",
+    "Laundry Service",
+    "Pool",
+    "Internet",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Spa",
+    "Airport transportation",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Rooftop Pool",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Electric vehicle charging station",
+    "Additional Bathroom",
+    "Allergy-free Room",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Billiards",
+    "Blackout Curtains",
+    "Board Games / Puzzles",
+    "Books, DVDs, Music for Children",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Express Check-in / Check-out",
+    "Children's Television Networks",
+    "Chinese",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Convenience Store",
+    "Currency Exchange",
+    "Desk",
+    "Doorperson",
+    "Dutch",
+    "English",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Free Private Parking Nearby",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Head Massage",
+    "Hindi",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Italian",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Laptop Safe",
+    "Massage",
+    "Newspaper",
+    "Outdoor Furniture",
+    "Parking Garage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Private Check-in / Check-out",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shoeshine",
+    "Shops",
+    "Snack Bar",
+    "Soundproof Rooms",
+    "Spanish",
+    "Special Diet Menus",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Swedish",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Vietnamese",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Public Wifi",
+    "Kids pool",
+    "Bidet",
+    "Bowling Off-site",
+    "Cable / Satellite TV",
+    "Couples Massage",
+    "Electric Kettle",
+    "Executive Lounge Access",
+    "First Aid Kit",
+    "Free Wifi in the Business Center",
+    "Free Wired Internet in the Business Center",
+    "Hand Massage",
+    "Happy Hour",
+    "Highchairs Available",
+    "iPod Docking Station",
+    "Landmark View",
+    "Massage Chair",
+    "Neck Massage",
+    "Nepali",
+    "Outdoor Dining Area",
+    "Patio",
+    "Personal Trainer",
+    "Private Bathrooms",
+    "Serbian",
+    "Sofa",
+    "Sofa Bed",
+    "Strollers",
+    "Tamil",
+    "Tile / Marble Floor",
+    "Ukrainian",
+    "Urdu",
+    "Valet Parking",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Water Park Off-site",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "parent_brand": "Minor Hotel Group",
+  "brand": "Oaks Hotels & Resorts",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Business",
+    "Green"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620624",
+      "name": "Discovery Gardens"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "2110"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "3153"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "410"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "2914"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "1160"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "location_id": "506652",
+  "name": "B-Hotel",
+  "description": "Located at the heart of Barcelona, right next to Plaza España, B-Hotel offers its guests 84 rooms with lots of daylight, designed and finished with the best materials combined with the latest technologies (home automation).\n\nThe hotel also boasts a terrace on the 8th floor with a solarium and infinity pool, where you can enjoy fantastic panoramic views over Barcelona. It also has a mezzanine level with meeting rooms.\n\nWith free Wi-Fi access, B-Hotel rounds off its services with a Starbucks on the ground floor, private car park, room service, laundry service and safes, all to make sure your stay with us is unique and unbeatable.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d506652-Reviews-B_Hotel-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Gran Via de les Corts Catalanes, 389-391",
+    "street2": "Plaza Espana",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08015",
+    "address_string": "Gran Via de les Corts Catalanes, 389-391 Plaza Espana, 08015 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.376488",
+  "longitude": "2.150509",
+  "timezone": "Europe/Madrid",
+  "phone": "01134935529500",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d506652-B_Hotel-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#81 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "81"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "3006",
+  "review_rating_count": {
+    "1": "26",
+    "2": "51",
+    "3": "212",
+    "4": "979",
+    "5": "1738"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1482",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d506652-m66827-Reviews-B_Hotel-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Free Internet",
+    "Free Wifi",
+    "Business center",
+    "Internet",
+    "Room service",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Infinity Pool",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Complimentary Tea",
+    "English",
+    "Complimentary Instant Cofffee",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Cable / Satellite TV",
+    "Desk",
+    "Complimentary Toiletries",
+    "Spanish",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Modern",
+    "Business"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230970",
+      "name": "Eixample"
+    },
+    {
+      "location_id": "15565887",
+      "name": "La Nova Esquerra de l'Eixample"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "287"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1607"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "124"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "343"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "354"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

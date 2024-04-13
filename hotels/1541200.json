@@ -1,0 +1,275 @@
+{
+  "location_id": "1541200",
+  "name": "Sentido Port Royal Villas & Spa",
+  "description": "The SENTIDO Port Royal Villas & Spa offers exceptional service, elegant restaurants with delicious dishes, atmospheric bars and an inviting spa area for pure relaxation. The hotel's rooms and suites are comfortable and stylishly decorated, and if you want an active holiday, you can work out in the fitness room or take part in one of the activities arranged by our hosts. The beachfront location and idyllic setting amidst olive trees combined with the hotel's discrete luxury and authentic quality will ensure you have a pleasant and enjoyable holiday in a relaxed atmosphere. Pleas note, this hotel has an age limit of 16 years. The SENTIDO Port Royal Villas & Spa has 202 tastefully furnished rooms in different categories. Bungalow sea view suites, superior bungalow sea view suites and bungalow beach front suites with private pool have a bedroom with a double bed and a living room. The beach front Presidential Suite has two bedrooms and a living room. Beachfront suites and Presidential suite have terrace with sun loungers and a private pool.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g635615-d1541200-Reviews-Sentido_Port_Royal_Villas_Spa-Kolimbia_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street1": "Efkalipton Street",
+    "city": "Kolimbia",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "85103",
+    "address_string": "Efkalipton Street, Kolimbia 85103 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Kolimbia",
+      "location_id": "635615"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.253292",
+  "longitude": "28.166622",
+  "timezone": "Europe/Athens",
+  "write_review": "https://www.tripadvisor.com/UserReview-g635615-d1541200-Sentido_Port_Royal_Villas_Spa-Kolimbia_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "635615",
+    "ranking_string": "#2 of 33 hotels in Kolimbia",
+    "geo_location_name": "Kolimbia",
+    "ranking_out_of": "33",
+    "ranking": "2"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "2080",
+  "review_rating_count": {
+    "1": "5",
+    "2": "17",
+    "3": "68",
+    "4": "297",
+    "5": "1693"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "3268",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g635615-d1541200-m66827-Reviews-Sentido_Port_Royal_Villas_Spa-Kolimbia_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Beachfront",
+    "Free parking",
+    "Suites",
+    "Free Internet",
+    "Internet",
+    "Kids Activities",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Pets Allowed",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Infinity Pool",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Private Pools",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Adults Only",
+    "Aerobics",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bridal Suite",
+    "Car Hire",
+    "Couples Massage",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Greek",
+    "Hair Dryer",
+    "Hammam",
+    "Head Massage",
+    "Ironing Service",
+    "Italian",
+    "Laptop Safe",
+    "Massage",
+    "Pool / Beach Towels",
+    "Salon",
+    "Snack Bar",
+    "Solarium",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Telephone",
+    "VIP Room Facilities",
+    "Chapel / Shrine",
+    "Express Check-in / Check-out",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Complimentary Welcome Drink",
+    "Manicure",
+    "Pedicure",
+    "Personal Trainer",
+    "Walking Tours",
+    "Waxing Services",
+    "Yoga Classes",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Charming",
+    "Great View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "8"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1389"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "25"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "231"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "151"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

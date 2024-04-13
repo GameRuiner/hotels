@@ -1,0 +1,181 @@
+{
+  "location_id": "1724002",
+  "name": "Signature Hotel Apartments and Spa Dubai Marina",
+  "description": "Overlooking the Marina waterfront and a 5-minute drive from Marina Mall, the Signature Hotel Apartments and Spa offers self-catering apartments and a spa. Other features include a city view pool. The luxurious units at the Signature Hotel Apartments and Spa are decorated with modern design. All have a kitchen equipped with a multi burner stove, fridge and dishwasher. Rooms also have a flat-screen TV, DVD-player and tea/coffee maker. Guests can relax at the Spa featuring an outdoor swimming pool and a Health Club which offers a variety of beauty and health treatments. A fitness center and sauna are also available. The hotel has easy access to various malls and is easy to reach from the Jebel Ali Free Zone.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1724002-Reviews-Signature_Hotel_Apartments_and_Spa_Dubai_Marina-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Dubai Marina",
+    "street2": "Near Sheikh Zayed Road",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "376332",
+    "address_string": "Dubai Marina Near Sheikh Zayed Road, Dubai 376332 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.06876",
+  "longitude": "55.130795",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1724002-Signature_Hotel_Apartments_and_Spa_Dubai_Marina-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#46 of 766 Specialty lodging in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "766",
+    "ranking": "46"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "526",
+  "review_rating_count": {
+    "1": "68",
+    "2": "37",
+    "3": "90",
+    "4": "140",
+    "5": "191"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "562",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1724002-m66827-Reviews-Signature_Hotel_Apartments_and_Spa_Dubai_Marina-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Restaurant",
+    "Kitchenette",
+    "Suites",
+    "Fitness center",
+    "Internet",
+    "Room service",
+    "Free Internet",
+    "Wheelchair access",
+    "Wifi",
+    "Free Wifi",
+    "Spa",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Microwave",
+    "Refrigerator in room",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Outdoor pool",
+    "Parking",
+    "Arabic",
+    "Free parking",
+    "Airport transportation",
+    "Meeting rooms",
+    "Breakfast Available",
+    "Sauna",
+    "Baggage Storage",
+    "Currency Exchange",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [
+    "Harbor View",
+    "Marina View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7282432",
+      "name": "The Marina"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "45"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "143"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "29"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "177"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "70"
+    }
+  ],
+  "awards": []
+}

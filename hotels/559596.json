@@ -1,0 +1,228 @@
+{
+  "location_id": "559596",
+  "name": "Porto Bello Hotel Resort & Spa",
+  "description": "The Porto Bello Hotel is located at the Konyaalti Beach which is one of the longest stretch of beaches in the Mediterranean region,at the skirts of the \"Beydaglari\" Mountains, and only 8 km. away from the city center, a very popular area of Antalya. The comfortable rooms that are decorated with utmost care have both Sea and Mountain View. There are 8 Senior Suites, 8 Junior Suites, 49 Family rooms, 3 Handicapped rooms and 281 Standard rooms totaling up to 346 rooms. There are two pools, indoor and outdoor. The indoor pool is heated; the outdoor pool is 1500 sqm, and the indoor pool is 100 sqm. The Chaise Lounges, umbrellas and towels are free of charge. In the Children's Club, special programs are provided for children between the ages of 04 - 12. The beach has pebbly characteristics, and is connected to the hotel by a special tube passageway. The beach is 150 m long and 50 m wide. Palm Restaurant (main), A'la Carte Restauranta, Beach Bar, Sailor Bar, Cafe Porto, Vitamin Bar. Live music, 2 illuminated Tennis Courts, Table Tennis are available. A unique experience to relax and regerate... The Porto Bello Spa Center welcomes you with variety of relaxing and revitalizing treatments, such as aqua gym, hydrotherapy, balneo, peeling, skin care and local slimming, sauna, massage and Turkish bath...",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297962-d559596-Reviews-Porto_Bello_Hotel_Resort_Spa-Antalya_Turkish_Mediterranean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Liman Mh, 1. Sk. No: 4A-4B",
+    "street2": "Konyaalti Beach",
+    "city": "Antalya",
+    "state": "Antalya Province",
+    "country": "Turkiye",
+    "postalcode": "07070",
+    "address_string": "Liman Mh, 1. Sk. No: 4A-4B Konyaalti Beach, Antalya 07070 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Antalya",
+      "location_id": "297962"
+    },
+    {
+      "level": "Province",
+      "name": "Antalya Province",
+      "location_id": "297960"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Mediterranean Coast",
+      "location_id": "658661"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "36.851288",
+  "longitude": "30.622604",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297962-d559596-Porto_Bello_Hotel_Resort_Spa-Antalya_Turkish_Mediterranean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297962",
+    "ranking_string": "#14 of 504 hotels in Antalya",
+    "geo_location_name": "Antalya",
+    "ranking_out_of": "504",
+    "ranking": "14"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "3433",
+  "review_rating_count": {
+    "1": "103",
+    "2": "110",
+    "3": "226",
+    "4": "463",
+    "5": "2531"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "3110",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297962-d559596-m66827-Reviews-Porto_Bello_Hotel_Resort_Spa-Antalya_Turkish_Mediterranean_Coast.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Beachfront",
+    "Free Internet",
+    "Beach Access",
+    "Free parking",
+    "Breakfast included",
+    "Business center",
+    "Kids Activities",
+    "Suites",
+    "Room service",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Sauna",
+    "Aerobics",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Car Hire",
+    "Convenience Store",
+    "Darts",
+    "English",
+    "Entertainment Staff",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Head Massage",
+    "Ironing Service",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shops",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Turkish",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Clothes Rack",
+    "Electric Kettle",
+    "Makeup Services",
+    "Manicure",
+    "Pedicure",
+    "Tennis Court Off-site",
+    "Wardrobe / Closet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Family Resort",
+    "Marina View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "336"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "729"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "189"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1124"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "821"
+    }
+  ],
+  "awards": []
+}

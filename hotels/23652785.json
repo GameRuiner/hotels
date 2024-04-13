@@ -1,0 +1,218 @@
+{
+  "location_id": "23652785",
+  "name": "Days Hotel By Wyndham Dubai Deira",
+  "description": "Days Hotel Dubai Deira, part of the Wyndham group, boasts of 131 spacious and elegant rooms on 8 floors that are designed with a keen eye for detail and are fully equipped with amenities to ensure ultimate comfort. Dubbed as the first hotel sitting on top of the Gold Souk Metro Station, the hotel is well connected to the Dubai Metro Line, bringing public transport service to a whole new level of accessibility and convenience for all business and leisure travelers. Discover the cultural streets of Deira and popular tourist destinations of Dubai such as Burj Khalifa and Dubai Mall which are in close proximity to the hotel.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d23652785-Reviews-Days_Hotel_By_Wyndham_Dubai_Deira-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "One Deira Plaza, Gold Souk Metro Station",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "One Deira Plaza, Gold Souk Metro Station, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.276102",
+  "longitude": "55.300926",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d23652785-Days_Hotel_By_Wyndham_Dubai_Deira-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#195 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "195"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "370",
+  "review_rating_count": {
+    "1": "10",
+    "2": "2",
+    "3": "10",
+    "4": "41",
+    "5": "307"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "239",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d23652785-m66827-Reviews-Days_Hotel_By_Wyndham_Dubai_Deira-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Safe",
+    "Rooftop Bar",
+    "Breakfast Buffet",
+    "Breakfast Available",
+    "Housekeeping",
+    "Blackout Curtains",
+    "Breakfast in the Room",
+    "Coffee Shop",
+    "Desk",
+    "English",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Ironing Service",
+    "Seating Area",
+    "24-Hour Security",
+    "Snack Bar",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Wine / Champagne",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Business center",
+    "Flatscreen TV",
+    "Parking",
+    "Bath / Shower",
+    "Bidet",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "Currency Exchange",
+    "Electric Kettle",
+    "Filipino",
+    "Complimentary Toiletries",
+    "Free Wifi in the Business Center",
+    "French",
+    "Happy Hour",
+    "Outdoor Dining Area",
+    "Sofa",
+    "Urdu",
+    "Valet Parking",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "City View",
+    "Quaint"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620623",
+      "name": "Deira Corniche"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "102"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "53"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "47"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "83"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "39"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

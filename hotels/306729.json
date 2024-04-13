@@ -1,0 +1,192 @@
+{
+  "location_id": "306729",
+  "name": "Landmark Plaza Hotel",
+  "description": "Landmark Plaza Hotel - Baniyas located in Deira at Al Nasser Square, Just next to Baniyas Metro Station in the heart of Dubai’s shopping and commercial area, just 10 minutes drive from the Dubai International Airport and the Dubai International Exhibition Center and the famous shopping malls and walking distance to the Gold Souk and the wholesale markets. The hotel atrium lobby also has its own shopping center featuring 50 different shops. Offers 127 luxurious standard rooms including 33 Queen Sized rooms, 65 Twin rooms, 17 King Size rooms, 12 Triple rooms. Each air-conditioned room is equipped with parquet flooring, working desk, IDD telephones, Free WIFI facility, satellite television with in house movies, and a hair dryer and mini bar. 24 hours room service and coffee shop, Delight Multi Cuisine Restaurant everyday serves sumptuous Buffet Breakfast and Buffet Lunch. Al Sadeeq Cafe offer variety of snacks and refreshments.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d306729-Reviews-Landmark_Plaza_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Baniyas Square",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Baniyas Square, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.2756",
+  "longitude": "55.306",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d306729-Landmark_Plaza_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#519 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "519"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "229",
+  "review_rating_count": {
+    "1": "23",
+    "2": "21",
+    "3": "66",
+    "4": "85",
+    "5": "34"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    }
+  },
+  "photo_count": "127",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d306729-m66827-Reviews-Landmark_Plaza_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Restaurant",
+    "Internet",
+    "Wifi",
+    "Free Wifi",
+    "Air conditioning",
+    "Minibar",
+    "Breakfast Buffet",
+    "Room service",
+    "Free Internet",
+    "Airport transportation",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Conference Facilities",
+    "Safe",
+    "Flatscreen TV",
+    "Private Balcony",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Housekeeping",
+    "Arabic",
+    "Baggage Storage",
+    "Bottled Water",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Clothes Rack",
+    "Coffee / Tea Maker",
+    "Currency Exchange",
+    "Electric Kettle",
+    "English",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Private Bathrooms",
+    "Paid Private Parking Nearby",
+    "Paid Public Parking Nearby",
+    "Russian",
+    "Tamil",
+    "Telephone",
+    "Wardrobe / Closet",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Centrally Located",
+    "Budget"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620596",
+      "name": "Al Rigga"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "40"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "53"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "27"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "49"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "27"
+    }
+  ],
+  "awards": []
+}

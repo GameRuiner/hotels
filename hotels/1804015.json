@@ -1,0 +1,221 @@
+{
+  "location_id": "1804015",
+  "name": "Emirates Grand Hotel",
+  "description": "Conveniently located in the heart of the commercial district, on Dubai’s prominent Sheikh Zayed Road, the alcohol-free 47-storey Emirates Grand Hotel is offering a panoramic city and Arabian Sea views. The tallest building in the world,The Burj Khalifa, and the largest Mall in the Middle East – Dubai Mall is reachable within less than 10 minutes driving, opposite Financial Center Metro Station, easily accessible to the Dubai International Financial Center, Dubai International Convention and Exhibition Center, Dubai World Trade Center, and just 15 minutes drive away from Dubai International Airport and 5 minutes from the golden sands of the Jumeirah Beach Park.Wi-Fi is available.Guests have access to the rooftop pool offering a panoramic city and Arabian Gulf views, and the fully equipped fitness center as well as a tennis court. A wellness center which includes a sauna, a hot tub and a steam room is also available. The Emirates Grand Spa offers a wide range of body treatments and facials.Enjoy home cooked meals at our world class restaurants, and the famous Arabic shesha, also well known as hubbly bubbly is served either on the rooftop lounge or in the garden area.relax with your favorite beverage at the roof top terrace.Plan a meeting in any of our four meeting rooms fully equipped with contemporary audiovisual facilities and business center guarantees every function to be a success.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1804015-Reviews-Emirates_Grand_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Zayed Road",
+    "street2": "Next to Financial Metro Station Exit #2",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Sheikh Zayed Road Next to Financial Metro Station Exit #2, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.20946",
+  "longitude": "55.27495",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1804015-Emirates_Grand_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#366 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "366"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "2059",
+  "review_rating_count": {
+    "1": "144",
+    "2": "96",
+    "3": "241",
+    "4": "490",
+    "5": "1088"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "700",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1804015-m66827-Reviews-Emirates_Grand_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Business center",
+    "Fitness center",
+    "Room service",
+    "Restaurant",
+    "Kitchenette",
+    "Suites",
+    "Free parking",
+    "Internet",
+    "Free Internet",
+    "Wheelchair access",
+    "Spa",
+    "Wifi",
+    "Free Wifi",
+    "Shuttle Bus Service",
+    "Airport transportation",
+    "Public Wifi",
+    "Paid Internet",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Microwave",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Rooftop Pool",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Butler Service",
+    "Outdoor pool",
+    "Arabic",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Doorperson",
+    "English",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Ironing Service",
+    "24-Hour Security",
+    "Taxi Service",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Art Deco Style",
+    "Centrally Located"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620627",
+      "name": "Dubai International Financial Centre (DIFC)"
+    },
+    {
+      "location_id": "15620671",
+      "name": "Trade Centre"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "782"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "305"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "167"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "400"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "255"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

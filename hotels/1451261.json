@@ -1,0 +1,189 @@
+{
+  "location_id": "1451261",
+  "name": "Marina Hotel Apartments",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1451261-Reviews-Marina_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Emreef Street",
+    "street2": "Marina Walk, Marina Near The Waterfront",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "9714",
+    "address_string": "Al Emreef Street Marina Walk, Marina Near The Waterfront, Dubai 9714 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.081738",
+  "longitude": "55.14594",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1451261-Marina_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#33 of 766 Specialty lodging in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "766",
+    "ranking": "33"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "271",
+  "review_rating_count": {
+    "1": "8",
+    "2": "6",
+    "3": "20",
+    "4": "96",
+    "5": "141"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "325",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1451261-m66827-Reviews-Marina_Hotel_Apartments-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Kitchenette",
+    "Fitness center",
+    "Internet",
+    "Suites",
+    "Free Internet",
+    "Wheelchair access",
+    "Wifi",
+    "Free Wifi",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Microwave",
+    "Refrigerator in room",
+    "Safe",
+    "Flatscreen TV",
+    "Private Balcony",
+    "Outdoor pool",
+    "Additional Bathroom",
+    "Kitchenware",
+    "Seating Area",
+    "Washing Machine",
+    "Kids Activities",
+    "Free parking",
+    "Dry Cleaning",
+    "Family Rooms",
+    "Non-smoking hotel",
+    "Kids pool",
+    "Sauna",
+    "Arabic",
+    "Car Hire",
+    "English",
+    "Filipino",
+    "Foot Bath",
+    "Hammam",
+    "Ironing Service",
+    "Outdoor Furniture",
+    "Pool / Beach Towels",
+    "Secured Parking",
+    "Squash",
+    "Steam Room",
+    "Table Tennis",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [
+    "Mid-range",
+    "Harbor View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7282432",
+      "name": "The Marina"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "15"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "37"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "7"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "136"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "43"
+    }
+  ],
+  "awards": []
+}

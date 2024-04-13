@@ -1,0 +1,194 @@
+{
+  "location_id": "266811",
+  "name": "Hotel Medicis",
+  "description": "Modern and intimate hotel situated in the vicinity of the Hospital de Sant Pau and La Sagrada Familia, well connected to the center by subway and buses day and night. Our facility is stipulated Nonsmoking, we do not allow pets or children unless accompanied by parent or guardian. Our rooms have satellite TV in several languages, telephone, air conditioning and / or heating, kettle for tea / coffee, hairdryer, hot and cold water. Optional buffet breakfast service. Parking payment prior consultation availability. 24 Hour reception.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d266811-Reviews-Hotel_Medicis-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Carrer de los Castillejos, 340",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08025",
+    "address_string": "Carrer de los Castillejos, 340, 08025 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.410652",
+  "longitude": "2.173136",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d266811-Hotel_Medicis-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#271 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "271"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "510",
+  "review_rating_count": {
+    "1": "12",
+    "2": "26",
+    "3": "102",
+    "4": "224",
+    "5": "146"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "203",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d266811-m66827-Reviews-Hotel_Medicis-Barcelona_Catalonia.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Public Wifi",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Non-smoking rooms",
+    "Refrigerator in room",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Housekeeping",
+    "Catalan",
+    "24-Hour Check-in",
+    "English",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Parking",
+    "Baggage Storage",
+    "Bulgarian",
+    "Car Hire",
+    "Express Check-in / Check-out",
+    "Clothes Rack",
+    "Desk",
+    "French",
+    "German",
+    "Italian",
+    "Parking Garage",
+    "Portuguese",
+    "Paid Private Parking Nearby",
+    "Romanian",
+    "Spanish",
+    "Sun Terrace",
+    "Telephone",
+    "Wake Up Service / Alarm Clock"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Budget",
+    "Residential Neighborhood"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15565905",
+      "name": "El Baix Guinardo"
+    },
+    {
+      "location_id": "15565878",
+      "name": "Horta-Guinardo"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "21"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "296"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "41"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "46"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "71"
+    }
+  ],
+  "awards": []
+}

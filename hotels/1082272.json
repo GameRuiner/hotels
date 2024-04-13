@@ -1,0 +1,175 @@
+{
+  "location_id": "1082272",
+  "name": "Vatan Hotel",
+  "description": "See why so many travelers make Vatan Hotel their inn of choice when visiting Izmir. Providing an ideal mix of value, comfort and convenience, it offers a budget friendly setting with an array of amenities designed for travelers like you.\nRooms at Vatan Hotel provide air conditioning, a refrigerator, and a minibar, and guests can stay connected with free wifi.\nIn addition, while staying at Vatan Hotel guests have access to a 24 hour front desk, a concierge, and room service. You can also enjoy a lounge. Need a place to park? Parking is available at Vatan Hotel.\nWhile staying at Vatan Hotel, visitors can check out Synagogue Street (Havra Sokagi) (0.2 mi) and Saint Polycarp Church (0.4 mi), some of Izmir's top attractions.\nWhile visiting Izmir, you may want to try some shrimp at one of the nearby restaurants, such as Kordon Yengec Restaurant, Deniz Restaurant, or Sakiz Alsancak.\nShould time allow, Kordonboyu, Konak Square, and Saat Kulesi (Clock Tower) are some popular attractions that are within walking distance.\nWe’re sure you’ll enjoy your stay at Vatan Hotel as you experience all of the things Izmir has to offer.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d1082272-Reviews-Vatan_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Cankaya Mah. Anafartalar Cad. No:626 Kucukyali, Konak",
+    "street2": "",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35000",
+    "address_string": "Cankaya Mah. Anafartalar Cad. No:626 Kucukyali, Konak, Izmir 35000 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.420235",
+  "longitude": "27.13945",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d1082272-Vatan_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#89 of 136 B&Bs / Inns in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "136",
+    "ranking": "89"
+  },
+  "rating": "2.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/2.5-66827-5.svg",
+  "num_reviews": "76",
+  "review_rating_count": {
+    "1": "31",
+    "2": "8",
+    "3": "15",
+    "4": "7",
+    "5": "15"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss2.5.svg",
+      "value": "2.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss2.5.svg",
+      "value": "2.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    }
+  },
+  "photo_count": "48",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d1082272-m66827-Reviews-Vatan_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Restaurant",
+    "Free Internet",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Smoking rooms available",
+    "Refrigerator in room",
+    "Minibar",
+    "Babysitting",
+    "Flatscreen TV",
+    "Turkish",
+    "Internet",
+    "Shuttle Bus Service",
+    "Bar/Lounge",
+    "Wifi",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Non-smoking hotel",
+    "Safe",
+    "Parking",
+    "Sauna",
+    "Baggage Storage",
+    "Bicycle Rental",
+    "Car Hire",
+    "Currency Exchange",
+    "English",
+    "Fireplace",
+    "24-Hour Front Desk",
+    "Hair Dryer"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "bb",
+      "localized_name": "Bed and Breakfast"
+    }
+  ],
+  "styles": [
+    "Centrally Located",
+    "Budget"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "6"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "19"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "16"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "10"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "19"
+    }
+  ],
+  "awards": []
+}

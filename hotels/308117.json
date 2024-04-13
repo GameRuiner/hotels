@@ -1,0 +1,272 @@
+{
+  "location_id": "308117",
+  "name": "Hilton Hurghada Plaza",
+  "description": "Experience the beauty of the Red Sea at the Hilton Hurghada Plaza hotel, with scuba diving and a range of water-sport activities on the private beach and regular boat trips from the marina. Work out at the gym operating 24 hours a day, enjoy a game of tennis or simply relax with a drink at the swim up pool bar. Children will love the Clown-fish Aqua Park and dedicated kids' club. Savour fresh flavours for dinner at the beachfront Lophelia Seafood Restaurant, with panoramic views of the Red Sea. Sip drinks at sunset on the beach of Hilton Hurghada Plaza, or enjoy a relaxing day at the spa, complete with extensive treatments and Turkish bath. From Hilton Guest Rooms to private Suites and multi-story Duplexes, all Hilton Hurghada Plaza hotel rooms boast stunning views of the Red Sea, combined with complimentary wireless internet access. Only fifteen minutes' drive from Hurghada International Airport, the Hilton Hurghada Plaza hotel is ideally located next to the Hurghada City Centre Mall. Boasting a ballroom for up to 150 guests, the exclusive Anaconda Night Club, and wireless internet access throughout the hotel, Hilton Hurghada Plaza has facilities for all guests needs.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297549-d308117-Reviews-Hilton_Hurghada_Plaza-Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Gabal El Hareem",
+    "street2": "Main Street",
+    "city": "Hurghada",
+    "country": "Egypt",
+    "postalcode": "",
+    "address_string": "Gabal El Hareem Main Street, Hurghada Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Hurghada",
+      "location_id": "297549"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.256971",
+  "longitude": "33.8309",
+  "timezone": "Africa/Cairo",
+  "phone": "18884466677",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297549-d308117-Hilton_Hurghada_Plaza-Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297549",
+    "ranking_string": "#81 of 325 hotels in Hurghada",
+    "geo_location_name": "Hurghada",
+    "ranking_out_of": "325",
+    "ranking": "81"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1780",
+  "review_rating_count": {
+    "1": "58",
+    "2": "46",
+    "3": "81",
+    "4": "201",
+    "5": "1394"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "2548",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297549-d308117-m66827-Reviews-Hilton_Hurghada_Plaza-Hurghada_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Restaurant",
+    "Room service",
+    "Fitness center",
+    "Beachfront",
+    "Beach Access",
+    "Suites",
+    "Free parking",
+    "Kids Activities",
+    "Bar/Lounge",
+    "Internet",
+    "Wifi",
+    "Spa",
+    "Airport transportation",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Safe",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Private Beaches",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Sauna",
+    "Aerobics",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Billiards",
+    "Blackout Curtains",
+    "Bottled Water",
+    "24-Hour Check-in",
+    "Coffee Shop",
+    "Currency Exchange",
+    "Desk",
+    "Diving",
+    "Doorperson",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Head Massage",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Nightclub / DJ",
+    "Outdoor Furniture",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Snorkeling",
+    "Solarium",
+    "Soundproof Rooms",
+    "Special Diet Menus",
+    "Squash",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Conference Facilities",
+    "Kids pool",
+    "Facilities for Disabled Guests",
+    "Electric vehicle charging station",
+    "Cable / Satellite TV",
+    "Children's Television Networks",
+    "Children's Playground",
+    "Clothes Rack",
+    "Couples Massage",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Full Body Massage",
+    "Highchairs Available",
+    "Infirmary",
+    "Laptop Safe",
+    "Makeup Services",
+    "Manicure",
+    "Outdoor Dining Area",
+    "Patio",
+    "Pedicure",
+    "Personal Trainer",
+    "Plunge Pool",
+    "Pool View",
+    "Private Bathrooms",
+    "Radio",
+    "Shallow End",
+    "Sofa",
+    "Sofa Bed",
+    "Tile / Marble Floor",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Water Sport Equipment Rentals"
+  ],
+  "parent_brand": "Hilton Worldwide",
+  "brand": "Hilton Hotels & Resorts",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Marina View",
+    "Bay View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "44"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "476"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "79"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "628"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "284"
+    }
+  ],
+  "awards": []
+}

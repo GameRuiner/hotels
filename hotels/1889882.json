@@ -1,0 +1,189 @@
+{
+  "location_id": "1889882",
+  "name": "Auris Boutique Hotel Apartments",
+  "description": "Auris Boutique Hotel Apartments, is a serviced-apartment strategically located on the affluent Sheikh Zayed Road. Stands in a 7-storey building, it consists of 60 units of modernly-design, fully-furnished apartments of One-Bedroom & Two-Bedroom. Each apartment features a fully-equipped kitchen with full-sized refrigerator, cooking range, microwave, cutleries, crockeries, kitchenware along with automatic washing machine and spin dryer. It has a separate dining and living area where guest can sit and enjoy watching on SMART LED TV through satellite channels. Wi-Fi connection is available inside the room and in all public areas for FREE use and a digital safety box for safekeeping. Reception, Housekeeping services, Security are manned 24/7 to ensure safety and prompt service. Our guests are given FREE access to the Health Club which features a well-equipped gym and an outdoor swimming pool located at the roof top. On the ground level, Hotspot café serves a full ala carte breakfast and varieties of light meals, fresh juices, aromatic coffees, and fast food throughout the day. Free use of private car parking is available at the hotel. A travel desk can be found at the lobby to arrange your desired tour package. Its close proximity to Mashreq Metro Station ensures business and leisure travelers an absolute convenience in moving around the city. The hotel is an approximately 25-minutes drive from Dubai International Airports, a 10-minute train ride to Dubai World Trade & Exhibition Centre, and a 5-minutes walking distance to Mall of the Emirates. Our location guarantees an easy access to major landmarks and sightseeing such as Burj Khalifa, Burj Al Arab, Dubai Marina, Palm Jumeirah, and Jumeirah Open Beach. Similarly, central business hubs like Dubai Media City, Internet City, Business Bay and Financial Centre are within the easy-access perimeter.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1889882-Reviews-Auris_Boutique_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Zayed Road",
+    "street2": "4th Interchange, Al Barsha 1",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "113139",
+    "address_string": "Sheikh Zayed Road 4th Interchange, Al Barsha 1, Dubai 113139 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.117395",
+  "longitude": "55.19533",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1889882-Auris_Boutique_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#34 of 766 Specialty lodging in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "766",
+    "ranking": "34"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "251",
+  "review_rating_count": {
+    "1": "9",
+    "2": "8",
+    "3": "32",
+    "4": "90",
+    "5": "112"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "103",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1889882-m66827-Reviews-Auris_Boutique_Hotel_Apartments-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Kitchenette",
+    "Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Microwave",
+    "Refrigerator in room",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Arabic",
+    "Baggage Storage",
+    "24-Hour Check-in",
+    "Complimentary Instant Cofffee",
+    "Hindi",
+    "Taxi Service",
+    "Suites",
+    "Airport transportation"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [
+    "Boutique",
+    "Classic"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620543",
+      "name": "Al Barsha"
+    },
+    {
+      "location_id": "15620544",
+      "name": "Al Barsha 1"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "25"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "59"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "14"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "100"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "37"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

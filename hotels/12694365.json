@@ -1,0 +1,262 @@
+{
+  "location_id": "12694365",
+  "name": "Yurbban Passage Hotel & Spa",
+  "description": "The Yurbban Passage Hotel is a brand new 4* Superior boutique hotel located in the center of Barcelona, on Trafalgar Street, known for its resurgence as the new 'Soho' in Barcelona. The property is the result of a firm commitment to recover a singular space that includes a textile warehouse from the year 1878 and one of the passages with more history of Barcelona, the passage of the Manufactures. Property features rooftop terrace, with panoramic views, swimming pool and relax area. Also, bar and restaurant are available, as well as a SPA area where to relax after a visiting day.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d12694365-Reviews-Yurbban_Passage_Hotel_Spa-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Trafalgar, 26",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08003",
+    "address_string": "Trafalgar, 26, 08003 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.38874",
+  "longitude": "2.17599",
+  "timezone": "Europe/Madrid",
+  "phone": "01134938828977",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d12694365-Yurbban_Passage_Hotel_Spa-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#4 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "4"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "913",
+  "review_rating_count": {
+    "1": "4",
+    "2": "4",
+    "3": "20",
+    "4": "64",
+    "5": "821"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "636",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d12694365-m66827-Reviews-Yurbban_Passage_Hotel_Spa-Barcelona_Catalonia.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Indoor pool",
+    "Outdoor pool",
+    "Housekeeping",
+    "Sauna",
+    "Allergy-free Room",
+    "Baggage Storage",
+    "Bicycle Rental",
+    "Blackout Curtains",
+    "Catalan",
+    "Complimentary Tea",
+    "Couples Massage",
+    "English",
+    "Facial Treatments",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Complimentary Instant Cofffee",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Ironing Service",
+    "Massage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "24-Hour Security",
+    "Soundproof Rooms",
+    "Spanish",
+    "Steam Room",
+    "Sun Terrace",
+    "Taxi Service",
+    "Hot Tub",
+    "Family Rooms",
+    "Breakfast Available",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Boutique",
+    "Romantic"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230966",
+      "name": "El Born / La Ribera"
+    },
+    {
+      "location_id": "21228685",
+      "name": "Sant Pere"
+    },
+    {
+      "location_id": "15565874",
+      "name": "Ciutat Vella (Old Town)"
+    },
+    {
+      "location_id": "15565882",
+      "name": "Sant Pere, Santa Caterina i la Ribera"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "62"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "447"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "42"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "171"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "91"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice Best of the Best",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png"
+      },
+      "categories": [
+        "Top"
+      ],
+      "display_name": "Travelers Choice Best of the Best"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "location_id": "228590",
+  "name": "Hotel Astoria",
+  "description": "Are you looking for an elegant, central and modern hotel for your business trips or relaxing getaways? Hotel Astoria, a classic among the hotels in Barcelona, is one of the best the city has to offer. It is a three-star hotel located just a few metres from Avinguda Diagonal and Passeig de Gràcia offering first-class service.The hotel is located in a building in Barcelona's Eixample district, with architecture typical of the beginning of the 20th century. Among its distinguishing marks, the frescoes, Art-Nouveau busts and fine Lalique crystal are of special note. The walls are decorated with interesting Art-Nouveau posters.Hotel Astoria has a terrace and an outdoor swimming pool, function rooms, a restaurant and a museum dedicated to Catalan illustrator Ricard Opisso.Facilities114 guest rooms: 25 single rooms, 48 double rooms and 41 Superior roomsAstor RestaurantBreakfast buffet24-hour room service and mini-barBusiness centreWi-Fi in all areasFunction rooms and spaces for events: Astor room, París room and the terrace-swimming pool area, located on the hotel's rooftop, and the Astor RestaurantGym and saunaOutdoor swimming pool and solariumOpisso MuseumLaundry and ironing serviceSmall dogs allowed",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d228590-Reviews-Hotel_Astoria-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Carrer de Paris, 203",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08036",
+    "address_string": "Carrer de Paris, 203, 08036 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.393997",
+  "longitude": "2.153488",
+  "timezone": "Europe/Madrid",
+  "phone": "01134932098311",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d228590-Hotel_Astoria-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#97 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "97"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1820",
+  "review_rating_count": {
+    "1": "26",
+    "2": "49",
+    "3": "221",
+    "4": "659",
+    "5": "865"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "490",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d228590-m66827-Reviews-Hotel_Astoria-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Pets Allowed",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Minibar",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Breakfast in the Room",
+    "Catalan",
+    "24-Hour Check-in",
+    "English",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "24-Hour Security",
+    "Accessible rooms",
+    "Coffee Shop",
+    "Currency Exchange",
+    "Desk",
+    "French",
+    "Hair Dryer",
+    "Ironing Service",
+    "Newspaper",
+    "Paid Private Parking Nearby",
+    "Shops",
+    "Solarium",
+    "Soundproof Rooms",
+    "Spanish",
+    "Telephone"
+  ],
+  "parent_brand": "Derby Hotels Collection S.L.",
+  "brand": "Derby Hotels Collection",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Value",
+    "Classic"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230970",
+      "name": "Eixample"
+    },
+    {
+      "location_id": "15565886",
+      "name": "L'Antiga Esquerra de l'Eixample"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "198"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "775"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "99"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "296"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "261"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

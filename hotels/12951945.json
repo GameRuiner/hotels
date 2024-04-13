@@ -1,0 +1,235 @@
+{
+  "location_id": "12951945",
+  "name": "Rose Park Hotel Al Barsha",
+  "description": "Rose Park Hotel – Al Barsha is the best new address in Al Barsha, across the street from the Sharaf DG Metro station (60 Meters), Adjacent to Sheikh Zayed Road. Discover a hotel that defines a new dimension of luxury, the newest addition to the portfolio managed by Rose Hospitality. Blending the comforts of Deluxe Hotel with the advantage of being centrally located, Rose Park Hotel – Al Barsha gives guests a 360 degree access of Dubai. The Hotel easily reaches out to the best of Dubai – be it the International Airport, the largest Ski-Zone, Shopping Malls, the Jumeirah Beach or Dubai Internet City. Rose Park Hotel – Al Barsha is well positioned to connect both the leisure and business guests. Housing168 hotel rooms including 24 Suites each exquisitely designed to create a luxurious and comfortable ambience. Restaurants of Multi-cuisine in its facet, coupled with its lavish, ﬁne dining ambiance, extensive spectrum of delicacies to suite the most earnest palate.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d12951945-Reviews-Rose_Park_Hotel_Al_Barsha-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Zayed Road",
+    "street2": "Opp. Mashreq Metro Station",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "45113",
+    "address_string": "Sheikh Zayed Road Opp. Mashreq Metro Station, Dubai 45113 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.114182",
+  "longitude": "55.190834",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d12951945-Rose_Park_Hotel_Al_Barsha-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#382 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "382"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "300",
+  "review_rating_count": {
+    "1": "21",
+    "2": "8",
+    "3": "17",
+    "4": "81",
+    "5": "173"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "422",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d12951945-m66827-Reviews-Rose_Park_Hotel_Al_Barsha-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Refrigerator in room",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Housekeeping",
+    "Arabic",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Bottled Water",
+    "24-Hour Check-in",
+    "Coffee / Tea Maker",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Interconnected room(s) available",
+    "Seating Area",
+    "24-Hour Security",
+    "Taxi Service",
+    "Telephone",
+    "Free parking",
+    "Airport transportation",
+    "Business center",
+    "Accessible rooms",
+    "Conference Facilities",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Sauna",
+    "Baggage Storage",
+    "Bidet",
+    "Clothes Rack",
+    "Currency Exchange",
+    "Filipino",
+    "Hand Massage",
+    "Head Massage",
+    "Hindi",
+    "Landmark View",
+    "Massage",
+    "Neck Massage",
+    "Private Bathrooms",
+    "Paid Public Parking Nearby",
+    "Paid Public Parking On-site",
+    "Russian",
+    "Sofa",
+    "Soundproof Rooms",
+    "Tamil",
+    "Urdu",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Classic",
+    "Family"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620543",
+      "name": "Al Barsha"
+    },
+    {
+      "location_id": "15620544",
+      "name": "Al Barsha 1"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "29"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "96"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "29"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "77"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "25"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

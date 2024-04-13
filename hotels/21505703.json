@@ -1,0 +1,258 @@
+{
+  "location_id": "21505703",
+  "name": "Variante Boutique Hotel",
+  "description": "Variante Hotel İzmir, şehrin kalbinde Konak Varyant bölgesinde yer almaktadır. 9 oda , 25 yatak kapasitesi ile yılın 12 ayı konaklama, toplantı ve organizasyonlarınıza ev sahipliği yapacaktır. İzmir'i kucaklayan merkezi konumu sayesinde şehrin her noktasına kolaylıkla ulaşım sağlarken zamandan kazandıracak, tarihi dokusu ile sizi geçmişe götürecektir.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g15263864-d21505703-Reviews-Variante_Boutique_Hotel-Konak_Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "27 404 Sokak Variante",
+    "city": "Konak",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35260",
+    "address_string": "27 404 Sokak Variante, Konak, Izmir 35260 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Konak",
+      "location_id": "15263864"
+    },
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.413303",
+  "longitude": "27.12647",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g15263864-d21505703-Variante_Boutique_Hotel-Konak_Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "15263864",
+    "ranking_string": "#3 of 12 hotels in Konak",
+    "geo_location_name": "Konak",
+    "ranking_out_of": "12",
+    "ranking": "3"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "2",
+  "review_rating_count": {
+    "1": "0",
+    "2": "0",
+    "3": "0",
+    "4": "0",
+    "5": "2"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "22",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g15263864-d21505703-m66827-Reviews-Variante_Boutique_Hotel-Konak_Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "amenities": [
+    "Internet",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Laundry Service",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Butler Service",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Adults Only",
+    "Allergy-free Room",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Bicycle Rental",
+    "Bidet",
+    "Blackout Curtains",
+    "Books, DVDs, Music for Children",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Express Check-in / Check-out",
+    "Children's Television Networks",
+    "Children's Playground",
+    "Clothes Dryer",
+    "Clothes Rack",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Convenience Store",
+    "Currency Exchange",
+    "Desk",
+    "Dining Area",
+    "Doorperson",
+    "Electric Kettle",
+    "English",
+    "Executive Lounge Access",
+    "Extra Long Beds",
+    "First Aid Kit",
+    "Free Private Parking Nearby",
+    "Free Public Parking Nearby",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "Complimentary Welcome Drink",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Happy Hour",
+    "Highchairs Available",
+    "Hiking",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Landmark View",
+    "Mountain View",
+    "Newspaper",
+    "Outdoor Dining Area",
+    "Outdoor Fireplace",
+    "Outdoor Furniture",
+    "Patio",
+    "Private Bathrooms",
+    "Paid Private Parking Nearby",
+    "Paid Public Parking Nearby",
+    "Paid Public Parking On-site",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shared Lounge / TV Area",
+    "Snack Bar",
+    "Soundproof Rooms",
+    "Special Diet Menus",
+    "Street Parking",
+    "Sun Deck",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Tile / Marble Floor",
+    "Turkish",
+    "Umbrella",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Walk-in Shower",
+    "Walking Tours",
+    "Wardrobe / Closet",
+    "Washing Machine",
+    "Wine / Champagne",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Boutique",
+    "City View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "1"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "0"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "0"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "0"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "0"
+    }
+  ],
+  "awards": []
+}

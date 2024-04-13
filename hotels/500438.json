@@ -1,0 +1,219 @@
+{
+  "location_id": "500438",
+  "name": "Mitsis Petit Palais",
+  "description": "Mitsis Petit Palais Beach Hotel is the only four-star all-inclusive city hotel in Rhodes. Centrally located, very close to the Old City of Rhodes with the remarkable sights, Mitsis Petit Palais is a unique starting point for someone to explore the island. The 215 renovated guestrooms offer all the comforts of a 4 star hotel. The hotel has an outdoor fresh water swimming pool and Jacuzzi while the beach is only 150 meters away and is ideal for children as it is gently sloping. A variety of water sports choices such as jet-ski, banana boat, parasailing, catamaran sailing and diving are available on the beach.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g635613-d500438-Reviews-Mitsis_Petit_Palais-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street1": "General Griva 3",
+    "city": "Rhodes Town",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "85100",
+    "address_string": "General Griva 3, Rhodes Town 85100 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Rhodes Town",
+      "location_id": "635613"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.453026",
+  "longitude": "28.220232",
+  "timezone": "Europe/Athens",
+  "phone": "011302111997011",
+  "write_review": "https://www.tripadvisor.com/UserReview-g635613-d500438-Mitsis_Petit_Palais-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "635613",
+    "ranking_string": "#9 of 122 hotels in Rhodes Town",
+    "geo_location_name": "Rhodes Town",
+    "ranking_out_of": "122",
+    "ranking": "9"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "2374",
+  "review_rating_count": {
+    "1": "21",
+    "2": "58",
+    "3": "177",
+    "4": "485",
+    "5": "1633"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1190",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g635613-d500438-m66827-Reviews-Mitsis_Petit_Palais-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Room service",
+    "Paid Wifi",
+    "Non-smoking rooms",
+    "Concierge",
+    "Babysitting",
+    "Breakfast Available",
+    "Pool",
+    "Restaurant",
+    "Bar/Lounge",
+    "Suites",
+    "Wheelchair access",
+    "Public Wifi",
+    "Breakfast included",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Non-smoking hotel",
+    "Safe",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Outdoor pool",
+    "Baggage Storage",
+    "Car Hire",
+    "Currency Exchange",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "French",
+    "24-Hour Front Desk",
+    "German",
+    "Greek",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Outdoor Furniture",
+    "24-Hour Security",
+    "Shared Lounge / TV Area",
+    "Snack Bar",
+    "Soundproof Rooms",
+    "Special Diet Menus",
+    "Street Parking",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Taxi Service",
+    "Wake Up Service / Alarm Clock",
+    "Pool View",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "City View",
+    "Classic"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "25"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "978"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "119"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "638"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "423"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

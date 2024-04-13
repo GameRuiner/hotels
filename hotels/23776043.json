@@ -1,0 +1,220 @@
+{
+  "location_id": "23776043",
+  "name": "Sitara Hotel Apartment",
+  "description": "Sitara Hotel Apartment is the highest category Deluxe rated luxury furnished hotel suites, positioned in a centrally located bustling Bur Dubai area, in Oud Metha, 5-10 minutes by car from Deira business district, iconic Burj Khalifa and the Dubai Mall, Dubai World Trade Center, Dubia International Exhibition Centre, Dubai International Financial Center, Sheikh Zayed Road, Dubai Health Care City and Dubai Airport, amongst many other destinations. Taxis and buses are only steps away. Dubai Metro is 20 minutes’ walk, or minutes by car. Sitara Hotel Apartment features 48 spacious fully serviced boutique Studio and One Bedroom Suites with fully fitted kitchens designed for an executive or extended family stay with free Wi-Fi, Tea/Coffee Maker, satellite-channels, in-room Electronic Safe Box, outdoor temperature-controlled Swimming Pool with a Terrace, jacuzzi, sauna, gym facilities, café restaurant with in-room dining, housekeeping and a 24-Hour Guest Services team. To ensure your safety, all stringent hygiene protocols are strictly followed.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d23776043-Reviews-Sitara_Hotel_Apartment-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "17 6B Street",
+    "street2": "Opposite Lamcy Plaza, Oud Metha",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "62850",
+    "address_string": "17 6B Street Opposite Lamcy Plaza, Oud Metha, Dubai 62850 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.23549",
+  "longitude": "55.308365",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d23776043-Sitara_Hotel_Apartment-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#540 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "540"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "4",
+  "review_rating_count": {
+    "1": "0",
+    "2": "0",
+    "3": "0",
+    "4": "0",
+    "5": "4"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "14",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d23776043-m66827-Reviews-Sitara_Hotel_Apartment-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Kitchenette",
+    "Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Microwave",
+    "Refrigerator in room",
+    "Minibar",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Pool",
+    "Heated pool",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Sauna",
+    "Additional Bathroom",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Bidet",
+    "Bottled Water",
+    "Cable / Satellite TV",
+    "24-Hour Check-in",
+    "Express Check-in / Check-out",
+    "Children's Television Networks",
+    "Clothes Dryer",
+    "Clothes Rack",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Convenience Store",
+    "Currency Exchange",
+    "Desk",
+    "Dining Area",
+    "Electric Kettle",
+    "English",
+    "Extra Long Beds",
+    "Filipino",
+    "First Aid Kit",
+    "Free Public Parking Nearby",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "Complimentary Welcome Drink",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Highchairs Available",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Kitchenware",
+    "Nepali",
+    "Oven",
+    "Private Bathrooms",
+    "Paid Public Parking Nearby",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Shops",
+    "Sinhala",
+    "Sofa",
+    "Soundproof Rooms",
+    "Stovetop",
+    "Street Parking",
+    "Sun Deck",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Tamil",
+    "Taxi Service",
+    "Telephone",
+    "Tile / Marble Floor",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Washing Machine",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Business",
+    "City View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "1"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "2"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "0"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "0"
+    }
+  ],
+  "awards": []
+}

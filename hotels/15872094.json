@@ -1,0 +1,321 @@
+{
+  "location_id": "15872094",
+  "name": "Waldorf Astoria Dubai International Financial Centre",
+  "description": "Evoking the effortless cool of sixties-era New York, The Waldorf Astoria Dubai International Financial Centre is a sophisticated celebration of urban living. Situated within the soaring Burj Daman complex, the hotel occupies several floors of this landmark tower. The ground floor accommodates the hotel’s expansive conference and event spaces allowing for easy delegate access. Express lifts then take guests directly to the 18th floor, where the hotel reception, restaurants, spa and fitness centre are located. The hotel rooms and guest suites occupy floors 27–50, with residential suites from floors 50–55, ensuring uninterrupted views of the financial hub, iconic Downtown district, the city’s coastline, and Zabeel, home of the Royal stables. • \u0007275 deluxe rooms, guest suites and residential suites • Rooftop terrace with temperature-controlled outdoor pool and jacuzzi • Waldorf Astoria Spa with four themed treatment suites • Fitness centre • Choice of three restaurants and lounges",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d15872094-Reviews-Waldorf_Astoria_Dubai_International_Financial_Centre-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Mustaqbal Street",
+    "street2": "Burj Daman, DIFC",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Al Mustaqbal Street Burj Daman, DIFC, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.211552",
+  "longitude": "55.28198",
+  "timezone": "Asia/Dubai",
+  "phone": "18884466677",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d15872094-Waldorf_Astoria_Dubai_International_Financial_Centre-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#11 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "11"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "982",
+  "review_rating_count": {
+    "1": "5",
+    "2": "3",
+    "3": "7",
+    "4": "31",
+    "5": "936"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "1119",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d15872094-m66827-Reviews-Waldorf_Astoria_Dubai_International_Financial_Centre-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Minibar",
+    "Safe",
+    "Rooftop Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Butler Service",
+    "Outdoor pool",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Additional Bathroom",
+    "Allergy-free Room",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "24-Hour Check-in",
+    "Coffee / Tea Maker",
+    "Convenience Store",
+    "Currency Exchange",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Facial Treatments",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Massage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Shoeshine",
+    "Soundproof Rooms",
+    "Special Diet Menus",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Paid Wifi",
+    "Smoking rooms available",
+    "Conference Facilities",
+    "Babysitting",
+    "Rooftop Pool",
+    "Rooftop Terrace",
+    "Breakfast Available",
+    "Bidet",
+    "Body Wrap",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "Clothes Rack",
+    "Couples Massage",
+    "Dining Area",
+    "Electric Kettle",
+    "Filipino",
+    "First Aid Kit",
+    "Foot Bath",
+    "Foot Massage",
+    "Complimentary Welcome Drink",
+    "Free Wifi in the Business Center",
+    "Full Body Massage",
+    "Hammam",
+    "Hand Massage",
+    "Happy Hour",
+    "Head Massage",
+    "iPod Docking Station",
+    "Landmark View",
+    "Laptop Safe",
+    "Manicure",
+    "Massage Chair",
+    "Neck Massage",
+    "Newspaper",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Personal Trainer",
+    "Portuguese",
+    "Private Bathrooms",
+    "Radio",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Sofa",
+    "Swahili",
+    "Tile / Marble Floor",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Wine / Champagne",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "parent_brand": "Hilton Worldwide",
+  "brand": "Waldorf Astoria Hotels & Resorts",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Charming",
+    "Luxury"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620686",
+      "name": "Zabeel"
+    },
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    },
+    {
+      "location_id": "15620627",
+      "name": "Dubai International Financial Centre (DIFC)"
+    },
+    {
+      "location_id": "15620688",
+      "name": "Zabeel 2"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "320"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "142"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "103"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "145"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "112"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice Best of the Best",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png"
+      },
+      "categories": [
+        "Luxury",
+        "Top"
+      ],
+      "display_name": "Travelers Choice Best of the Best"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

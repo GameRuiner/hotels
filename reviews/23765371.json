@@ -1,0 +1,253 @@
+{
+  "data": [
+    {
+      "id": 939383391,
+      "lang": "en",
+      "location_id": 23765371,
+      "published_date": "2024-02-22T11:27:12Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23765371-r939383391-Reviews-SKAF_Hotels-Dubai_Emirate_of_Dubai.html?m=66827#review939383391",
+      "text": "0 on cleanliness and maintenance, 0 on service, and 0 on friendliness.\nOne of the most untrained, unprofessional staff I have ever encountered.\nAll staff had really bad attitudes, was impossible to have any normal conversation with them. All hallways even on non-smoking floors smelled of smoke. Very big shame. \nIf they ever have an inspection I'm sure it will be closed down within minutes.\nAlso not sure where they got their stars from but definitely not a 4 star hotel.",
+      "title": "HORRIBLE",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "jojochammm",
+        "user_location": {
+          "id": "15621644",
+          "name": "7th Arr. - Palais-Bourbon, Paris, Ile-de-France"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/9f/default-avatar-2020-16.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 894308956,
+      "lang": "en",
+      "location_id": 23765371,
+      "published_date": "2023-06-10T07:42:32Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23765371-r894308956-Reviews-SKAF_Hotels-Dubai_Emirate_of_Dubai.html?m=66827#review894308956",
+      "text": "Well maintained Hotel, rooms are spacious and very comfortable. Food is good and the staff is ready to even make the dishes as per personal preferences.  Excellent Location. Above all very co-operative and professional staff. ",
+      "title": "Good Hotel to stay",
+      "trip_type": "Business",
+      "travel_date": "2023-06-30",
+      "user": {
+        "username": "699manishc",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/7c/01/default-avatar-2020-5.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 903688838,
+        "title": "Owner response",
+        "text": "Dear Guest\n\nThank you for the feedback regarding your visit to our hotel. I am delighted to hear that you had a memorable stay with us.\n\nWe look forward to welcoming you soon to Skaf Hotel.\n\nWhen you decide to visit us next, please mail me at gm@skafhotels.com. I will be happy to handle the arrangements personally.",
+        "lang": "en",
+        "author": "SKAF HOTELS",
+        "published_date": "2023-07-17T09:49:48Z"
+      }
+    },
+    {
+      "id": 894171464,
+      "lang": "en",
+      "location_id": 23765371,
+      "published_date": "2023-06-09T08:25:06Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23765371-r894171464-Reviews-SKAF_Hotels-Dubai_Emirate_of_Dubai.html?m=66827#review894171464",
+      "text": "The best hotel i stayed in Dubai. I recommend to all. Indian Clubs restaurant and pub awesome place to chill out with all amenities in 4 star hotel in Jaddaf Dubai near to creek. Metro is also near from Hotel. It have ATM inside the hotel.",
+      "title": "Jaddaf hotel",
+      "trip_type": "Business",
+      "travel_date": "2023-06-30",
+      "user": {
+        "username": "changet2023",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ec/a2/default-avatar-2020-3.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ec/a2/default-avatar-2020-3.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ec/a2/default-avatar-2020-3.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ec/a2/default-avatar-2020-3.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ec/a2/default-avatar-2020-3.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 903688881,
+        "title": "Owner response",
+        "text": "Dear Guest\n\nThank you for the feedback regarding your visit to our hotel. I am delighted to hear that you had a memorable stay with us.\n\nWe look forward to welcoming you soon to Skaf Hotel.\n\nWhen you decide to visit us next, please mail me at gm@skafhotels.com. I will be happy to handle the arrangements personally.",
+        "lang": "en",
+        "author": "SKAF HOTELS",
+        "published_date": "2023-07-17T09:50:01Z"
+      }
+    },
+    {
+      "id": 888876323,
+      "lang": "en",
+      "location_id": 23765371,
+      "published_date": "2023-05-03T18:46:58Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23765371-r888876323-Reviews-SKAF_Hotels-Dubai_Emirate_of_Dubai.html?m=66827#review888876323",
+      "text": "It was very bad experience in this hotel it not safe to stay in this hotel the manager is very bad at women's . He was using bad words to girls not giving any kind of respect . Women's are not safe in this hotel",
+      "title": "Not safe for women's",
+      "trip_type": "Couples",
+      "travel_date": "2023-02-28",
+      "user": {
+        "username": "GrandTour30152922706",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f3/7c/default-avatar-2020-29.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f3/7c/default-avatar-2020-29.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f3/7c/default-avatar-2020-29.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f3/7c/default-avatar-2020-29.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f3/7c/default-avatar-2020-29.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 903688708,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nThank you for writing to us your experience. We would like to apologize for inconvenience occurred. Skaf hotel has changed the Management and we would like to welcome you again with the trust of giving best service what we known for.\n\nPlease write us on gm@skafhotels.com when you planning to visit again and I would be arranging your stay.\n\nThanks and Regards,\nOperation Manager\nSkaf Hotels, Al Jaddaf\nDubai",
+        "lang": "en",
+        "author": "SKAF HOTELS",
+        "published_date": null
+      }
+    },
+    {
+      "id": 855311832,
+      "lang": "en",
+      "location_id": 23765371,
+      "published_date": "2022-08-20T16:15:10Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23765371-r855311832-Reviews-SKAF_Hotels-Dubai_Emirate_of_Dubai.html?m=66827#review855311832",
+      "text": "A good hotel run by unprofessional people.\nThey are uncourteous, rude, rigid and non cooperative.\nThe house keeping is even more terrible, as they don't change the used laundry or linen with fresh ones, rather replace with the used laundry.\n\nPlease check in details before you do any kind of booking and get in the trap...",
+      "title": "Poor Experience",
+      "trip_type": "Family",
+      "travel_date": "2022-08-31",
+      "user": {
+        "username": "sumitgO2488JV",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ea/74/default-avatar-2020-68.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ea/74/default-avatar-2020-68.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ea/74/default-avatar-2020-68.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ea/74/default-avatar-2020-68.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ea/74/default-avatar-2020-68.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 887943326,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nThank you for writing to us your experience. We would like to apologize for inconvenience occurred. Skaf hotel has changed the Management and we would like to welcome you again with the trust of giving best service what we known for.\n\nPlease write us on gm@skafhotels.com when you planning to visit again and I would be arranging your stay.\n\nThanks and Regards,\nOperation Manager\nSkaf Hotels, Al Jaddaf\nDubai",
+        "lang": "en",
+        "author": "SKAF HOTELS",
+        "published_date": "2023-04-27T07:50:47Z"
+      }
+    }
+  ]
+}

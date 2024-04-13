@@ -1,0 +1,276 @@
+{
+  "location_id": "308196",
+  "name": "SUNRISE Crystal Bay Resort -Grand Select",
+  "description": "Seek out an outstanding experience and an unforgettable vacation at SUNRISE Crystal Bay Resort -Grand Select-. Nestled directly at a sandy beach with a private lagoon on the Red Sea, the 5-star deluxe resort comes with a wonderful garden surrounding and large pool areas including 3 pools and one jacuzzi pool. Free Wi-Fi is available throughout the resort and in all rooms. The spacious 364 rooms at SUNRISE Crystal Bay Resort offer all the comfort and luxury you need for an unforgettable holiday at the Red Sea. Every room has satellite TV, air conditioning, minibar with soft drinks, tea & coffee making facilities and much more. For guest seeking an extra outstanding experience, SUNRISE Crystal Bay offers sea view suites, that can come with private Jacuzzi or pool area and royal club privileges. Experience culinary delights in the international restaurant with a daily changing theme buffet or dine at one of the 5 a-la-carte restaurants serving Mediterranean, Indian, Greek, Egyptian Cuisine (included in all-inclusive) and delicacies from the sea at Felucca Seafood restaurant (chargeable). I addition, the resort houses 9 Bars & Cafes: Pool Bar, 2 Beach Bars, Cocktail Bar & Lounge, Sports Bar, Shisha Cafe, Royal Club Lounge, a club and a 24h Lobby Bar. SUNRISE Crystal Bay Resort features a fully equipped gym, luxury spa & beauty salon (chargeable). The SUNRISE Kid’s Club let by professional care takers is available for kids between 3-12 years old offering Daily Educational, Entertaining Sports & Activities. Located 19km (20 min) to Hurghada Centre and 15km (16 min) to Hurghada International Airport, the resort features a distinctive location. Our all-inclusive concept includes: Breakfast, Lunch and Dinner in Buffets or a la carte Restaurants (unlimited reservations), Snacks from 12-17:00, 22:30-01:00, local alcoholic Beverages from 10:00-00:00, Soft and Hot Beverages 24/7, Minibar with water and soft drinks, Wi-Fi, free entertainment and sports activities, and much more. Some activities/services such as Diving Center, Spa Treatment are extra charge.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297549-d308196-Reviews-SUNRISE_Crystal_Bay_Resort_Grand_Select-Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Km 19 Village Road",
+    "city": "Hurghada",
+    "country": "Egypt",
+    "postalcode": "",
+    "address_string": "Km 19 Village Road, Hurghada Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Hurghada",
+      "location_id": "297549"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.10223",
+  "longitude": "33.82806",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297549-d308196-SUNRISE_Crystal_Bay_Resort_Grand_Select-Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297549",
+    "ranking_string": "#19 of 325 hotels in Hurghada",
+    "geo_location_name": "Hurghada",
+    "ranking_out_of": "325",
+    "ranking": "19"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "8355",
+  "review_rating_count": {
+    "1": "70",
+    "2": "96",
+    "3": "298",
+    "4": "1107",
+    "5": "6784"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "7417",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297549-d308196-m66827-Reviews-SUNRISE_Crystal_Bay_Resort_Grand_Select-Hurghada_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Beachfront",
+    "Free Internet",
+    "Beach Access",
+    "Suites",
+    "Free parking",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Laundry Service",
+    "Concierge",
+    "Family Rooms",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Meeting rooms",
+    "Fitness center",
+    "Banquet Room",
+    "Multilingual Staff",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Butler Service",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Private Pools",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Sauna",
+    "Aerobics",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Billiards",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Darts",
+    "Desk",
+    "Diving",
+    "Doorperson",
+    "Dutch",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Head Massage",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Laptop Safe",
+    "Massage",
+    "Nightclub / DJ",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Snorkeling",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Kids pool",
+    "Archery Off-site",
+    "Cable / Satellite TV",
+    "Children's Playground",
+    "Electric Kettle",
+    "Makeup Services",
+    "Manicure",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Pool View",
+    "Private Bathrooms",
+    "Tile / Marble Floor",
+    "Wardrobe / Closet",
+    "Yoga Classes"
+  ],
+  "parent_brand": "Sunrise Resorts & Cruises",
+  "brand": "Sunrise Resorts",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Bay View",
+    "Modern"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "50"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "3587"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "212"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "3045"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "859"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

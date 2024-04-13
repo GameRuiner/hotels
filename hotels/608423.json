@@ -1,0 +1,191 @@
+{
+  "location_id": "608423",
+  "name": "Fortune Karama Hotel",
+  "description": "Karama Hotel, is now a part of Fortune Group of Hotels - A Praveen Shetty Enterprise. Now renamed as \" Fortune Karama Hotel \" is located in the heart of Dubai next to ADCB Metro Station. 10 minutes away from Dubai International Airport , its downtown location allows access to the main commercial and entertainment hots-pots of the city . Providing a superb combination of service and style. Fortune Karama Hotel ensures you have a worry-free stay. The hotel is a popular place for business travelers and tourist alike.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d608423-Reviews-Fortune_Karama_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "2 Street - 14-B - Al Karama",
+    "street2": "Near ADCB Metro Station",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "2 Street - 14-B - Al Karama Near ADCB Metro Station, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.242386",
+  "longitude": "55.298004",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d608423-Fortune_Karama_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#584 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "584"
+  },
+  "rating": "3.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.0-66827-5.svg",
+  "num_reviews": "201",
+  "review_rating_count": {
+    "1": "30",
+    "2": "30",
+    "3": "58",
+    "4": "53",
+    "5": "30"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss2.5.svg",
+      "value": "2.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    }
+  },
+  "photo_count": "95",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d608423-m66827-Reviews-Fortune_Karama_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Restaurant",
+    "Room service",
+    "Bar/Lounge",
+    "Wifi",
+    "Non-smoking rooms",
+    "Concierge",
+    "Air conditioning",
+    "Smoking rooms available",
+    "Breakfast Buffet",
+    "Hindi",
+    "Nightclub / DJ",
+    "Internet",
+    "Suites",
+    "Wheelchair access",
+    "Airport transportation",
+    "Public Wifi",
+    "Paid Wifi",
+    "Paid Internet",
+    "Dry Cleaning",
+    "Business center",
+    "Laundry Service",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Bath / Shower",
+    "Bidet",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Cable / Satellite TV",
+    "Coffee / Tea Maker",
+    "Desk",
+    "Extra Long Beds",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Shoeshine",
+    "Sofa",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Centrally Located",
+    "Budget"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620559",
+      "name": "Al Karama"
+    },
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "57"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "32"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "27"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "23"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "39"
+    }
+  ],
+  "awards": []
+}

@@ -1,0 +1,233 @@
+{
+  "location_id": "21186198",
+  "name": "Beach Walk Hotel",
+  "description": "“Take a break ,Escape and Relax.” Beach Walk Hotel offers a subtle blend of modern day comfort vibe ideally suited to cater travelers that seek to explore the city as well as taking a break and relaxing at the beach at the same time. Situated along the streets of Jumeirah Beach Road, this 4-star hotel offers 80 stylish guest rooms with air-conditioned rooms fitted with a 49 inch LED screen TV. Free WiFi to all guests, a rooftop swimming pool to enjoy the view, 24-hour front desk and daily continental breakfast. Dubai International Airport is 20kms away from and just minutes away from Kite & Surf Beach with easy access to different restaurants.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d21186198-Reviews-Beach_Walk_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Jumeirah Beach Road",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "120242",
+    "address_string": "Jumeirah Beach Road, Dubai 120242 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.17389",
+  "longitude": "55.21862",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d21186198-Beach_Walk_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#447 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "447"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "39",
+  "review_rating_count": {
+    "1": "1",
+    "2": "1",
+    "3": "3",
+    "4": "6",
+    "5": "28"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    }
+  },
+  "photo_count": "68",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d21186198-m66827-Reviews-Beach_Walk_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Wheelchair access",
+    "Wifi",
+    "Free Wifi",
+    "Fitness center",
+    "Free Private Parking Nearby",
+    "Pool",
+    "Beachfront",
+    "Room service",
+    "Free parking",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Minibar",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Private Balcony",
+    "Adult pool",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Sauna",
+    "Afrikaans",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Bicycle Rental",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Desk",
+    "Electric Kettle",
+    "English",
+    "Filipino",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "Complimentary Welcome Drink",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Landmark View",
+    "Laptop Safe",
+    "Nepali",
+    "Pool with View",
+    "Private Bathrooms",
+    "Paid Public Parking Nearby",
+    "Paid Public Parking On-site",
+    "Russian",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shoeshine",
+    "Street Parking",
+    "Tamil",
+    "Telephone",
+    "Tile / Marble Floor",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Photo Copier / Fax In Business Center",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Ocean View",
+    "Quaint"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620679",
+      "name": "Umm Suqeim"
+    },
+    {
+      "location_id": "15620680",
+      "name": "Umm Suqeim 1"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "2"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "8"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "6"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "9"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "5"
+    }
+  ],
+  "awards": []
+}

@@ -1,0 +1,269 @@
+{
+  "data": [
+    {
+      "id": 945956664,
+      "lang": "en",
+      "location_id": 15812053,
+      "published_date": "2024-04-09T09:40:35Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d15812053-r945956664-Reviews-Yurbban_Ramblas_Boutique_Hotel-Barcelona_Catalonia.html?m=66827#review945956664",
+      "text": "There are some places that are just magical… and the staff at Yurbban Ramblas Boutique Hotel in Barcelona take a beautiful property in an incredible city and make it MAGICAL. \nFrom the first person to grab our bags as we pulled up to the door all the way to the Manager (aka Ms. Maria), I have never had better service anywhere - including the Ritz and The Four Seasons.\n\nThis is the place to stay if you want to come to Barcelona as a tourist and leave feeling like you became part of the Yurbban Family.\nYou can’t replicate this property with this level of service.",
+      "title": "Yurbban Ramblas Boutique Hotel Barcelona",
+      "trip_type": "Couples",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "607gabel",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/df/99/default-avatar-2020-40.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/df/99/default-avatar-2020-40.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/df/99/default-avatar-2020-40.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/df/99/default-avatar-2020-40.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/df/99/default-avatar-2020-40.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 945418331,
+      "lang": "en",
+      "location_id": 15812053,
+      "published_date": "2024-04-05T04:25:34Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d15812053-r945418331-Reviews-Yurbban_Ramblas_Boutique_Hotel-Barcelona_Catalonia.html?m=66827#review945418331",
+      "text": "We went as a three to this hotel - us and my 16 year old.  The family room set up here is perfect.  Technically we had two rooms - 18 &19, but they shared an 'external' door to the rest of the hotel. So my 16yo had their own room and bathroom, as did we.  All the benefits of a family room but they weren't on a sofa bed in the corner.  That was brilliant.  \n\nThe hotel too is great.  Location is at the top of the ramblas, nr Pl Catalunya.  The staff are all absolutely lovely. Hotel is perfectly placed to explore El Raval and the Barri Gothic, and about 100 yards from the metro.  The Ramblas is noisy all the time, but the hotel is a haven away from that.  \n\nThere's a small roof terrace with honesty bar so you can sit in the sun and enjoy the world going by.  Breakfast is served downstairs and is very nice (typical European - fruit, breads, cheese and meats, and fresh eggs cooked to your liking each day).\n\nWe thought it was brilliant = exactly what we needed",
+      "title": "Perfect location, fantastic staff, great stay",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "chriswA9476RI",
+        "user_location": {
+          "id": "186338",
+          "name": "London, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/df/99/default-avatar-2020-40.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/df/99/default-avatar-2020-40.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/df/99/default-avatar-2020-40.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/df/99/default-avatar-2020-40.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/df/99/default-avatar-2020-40.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945495596,
+        "title": "Owner response",
+        "text": "Dear Chris,\n\nThank you for sharing your experience with us! \n\nWe're delighted to hear that you had a fantastic stay and found our hotel to be a perfect choice for your family trip.\n It's great to know that our family room setup met your needs perfectly, providing both privacy and convenience for everyone.\n\nWe're glad you enjoyed our prime location at the top of the Ramblas. Our staff is thrilled to hear your kind words about their service as well.\n\nThank you for choosing to stay with us, and we hope to welcome you back for another brilliant stay in the future!\n\nBest regards,\nMagdalena - Front Desk Agent",
+        "lang": "en",
+        "author": "Yurbban Ramblas",
+        "published_date": "2024-04-05T16:53:22Z"
+      }
+    },
+    {
+      "id": 943865284,
+      "lang": "en",
+      "location_id": 15812053,
+      "published_date": "2024-03-26T06:12:23Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d15812053-r943865284-Reviews-Yurbban_Ramblas_Boutique_Hotel-Barcelona_Catalonia.html?m=66827#review943865284",
+      "text": "Great hotel, great room, great staff, great location - what more do you need. Would definitely consider going back. Breakfast was lovely and plenty of it. Roof terrace was great for watching the world go by as was our room terrace.  Hotel was very clean and tidy.",
+      "title": "Fabulous weekend away with my daughter.",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "deborahlO443QL",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ef/32/default-avatar-2020-12.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ef/32/default-avatar-2020-12.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ef/32/default-avatar-2020-12.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ef/32/default-avatar-2020-12.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ef/32/default-avatar-2020-12.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 943918681,
+        "title": "Owner response",
+        "text": "Dear guest,\n\nThank you so much for sharing your experience! We're thrilled to hear that you and your daughter had a fabulous weekend away at our hotel. It's wonderful to know that you found everything from our rooms to our staff to be exceptional. We are delighted that you enjoyed the breakfast and your kind words about our cleanliness are truly appreciated. We would be absolutely delighted to welcome you back for another memorable stay whenever you're ready. \nWarm regards,\nHotel Yurbban Ramblas",
+        "lang": "en",
+        "author": "Yurbban Ramblas",
+        "published_date": "2024-03-26T14:13:13Z"
+      }
+    },
+    {
+      "id": 942751041,
+      "lang": "en",
+      "location_id": 15812053,
+      "published_date": "2024-03-18T06:51:35Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d15812053-r942751041-Reviews-Yurbban_Ramblas_Boutique_Hotel-Barcelona_Catalonia.html?m=66827#review942751041",
+      "text": "We are two couples who stayed for 4 nights from 10 March 2024. The hotel is in a perfect location and is furnished beautifully.  All the staff were fantastic but a particular thanks goes out to Joan who could not have been more helpful.  Breakfasts were great and we loved Wine-o-Clock for an hour from 7pm.  The roof terrace is also an added bonus in such a beautiful city.  We cannot recommend this hotel enough.",
+      "title": "Fabulous stay at Yurrban Ramblas",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "lustleigh",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/01/2e/70/8d/avatar014.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/01/2e/70/8d/avatar014.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/01/2e/70/8d/avatar014.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 942823890,
+        "title": "Owner response",
+        "text": "Dear Guests,\n\nWe are thrilled to read your glowing review following your recent stay with us. It was more than a pleasure to host you during your visit!\n\nYour kind words regarding our hotel's facilities, location, and fantastic staff (especially Joan is very grateful for your words) really warm our hearts. \n\nWe are delighted that you also enjoyed our delicious breakfasts and our wine time.\n\nYour recommendation means a great deal to us, and we cannot thank you enough for sharing your positive experience. \n\nWe look forward to the opportunity to welcome you back for another lovely stay in the future.",
+        "lang": "en",
+        "author": "Yurbban Ramblas",
+        "published_date": "2024-03-18T17:29:02Z"
+      }
+    },
+    {
+      "id": 940900310,
+      "lang": "en",
+      "location_id": 15812053,
+      "published_date": "2024-03-05T07:58:08Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d15812053-r940900310-Reviews-Yurbban_Ramblas_Boutique_Hotel-Barcelona_Catalonia.html?m=66827#review940900310",
+      "text": "Visited Barcelona for around 6 days at the end of January as a birthday surprise from my partner and we stayed in Yurbban Ramblas for the duration of our trip. I would book this hotel again, without a doubt, if we were ever to visit again. Arrived early but Ramon and the team were able to get us up to our room, with a complimentary glass of bubbles for the journey. The reception team were a huge help in suggesting restaurants and must sees. The roof terrace is amazing, the music is a lovely touch. It's all the extra touches that make this hotel so enjoyable, the wine hours, the daily little gifts with lovely messages, the acknowledgment of a birthday, the consistency of being greeted every day. The place is a wonder. Thank you for a wonderful base for our holiday <3",
+      "title": "6 days in Barcelona",
+      "trip_type": "Couples",
+      "travel_date": "2024-01-31",
+      "user": {
+        "username": "Cuurdah",
+        "user_location": {
+          "id": "186605",
+          "name": "Dublin, County Dublin"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e9/ef/default-avatar-2020-66.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 940973647,
+        "title": "Owner response",
+        "text": "Dear guest, Thank you so much for your amazing review and for staying with us. We are really happy that you enjoyed your stay with us and that you felt comfortable. More than that, we also appreciate your kind words abour our staff ;). Remember that you are always welcome here! Best regards,\nYurbban Ramblas Team",
+        "lang": "en",
+        "author": "Yurbban Ramblas",
+        "published_date": "2024-03-05T23:43:57Z"
+      }
+    }
+  ]
+}

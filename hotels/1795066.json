@@ -1,0 +1,182 @@
+{
+  "location_id": "1795066",
+  "name": "Kordon Otel Alsancak",
+  "description": "Welcome to Kordon Otel Alsancak, your Izmir “home away from home.” Kordon Otel Alsancak aims to make your visit as relaxing and enjoyable as possible, which is why so many guests continue to come back year after year.\nGiven the close proximity of popular landmarks, such as Saint Polycarp Church (0.3 mi) and Synagogue Street (Havra Sokagi) (0.7 mi), guests of Kordon Otel Alsancak can easily experience some of Izmir's most well known attractions.\nYou’ll enjoy relaxing rooms that offer air conditioning, a minibar, and a refrigerator, and you can stay connected during your stay as Kordon Otel Alsancak offers guests free wifi.\nThe hotel features a 24 hour front desk, room service, and baggage storage. Plus, Kordon Otel Alsancak offers breakfast, providing a pleasant respite from your busy day. For guests with a vehicle, free parking is available.\nWhen you’re feeling hungry, be sure to check out Sushico, Tea&Pot, and Red Dragon, which are some Asian restaurants that are popular with locals and out-of-towners alike.\nIf you’re looking for something to do, Kordonboyu (0.4 mi), Konak Square (0.9 mi), and Saat Kulesi (Clock Tower) (0.9 mi) are a nice way to spend some time, and they are all within walking distance of Kordon Otel Alsancak.\nKordon Otel Alsancak puts the best of Izmir at your fingertips, making your stay both relaxing and enjoyable.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d1795066-Reviews-Kordon_Otel_Alsancak-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "1377 Sokak No 9",
+    "street2": "Alsancak",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "",
+    "address_string": "1377 Sokak No 9 Alsancak, Izmir Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.42966",
+  "longitude": "27.13729",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d1795066-Kordon_Otel_Alsancak-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#57 of 218 hotels in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "218",
+    "ranking": "57"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "133",
+  "review_rating_count": {
+    "1": "11",
+    "2": "7",
+    "3": "34",
+    "4": "51",
+    "5": "30"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "53",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d1795066-m66827-Reviews-Kordon_Otel_Alsancak-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Internet",
+    "Room service",
+    "Free Internet",
+    "Restaurant",
+    "Bar/Lounge",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Air conditioning",
+    "Smoking rooms available",
+    "Refrigerator in room",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Breakfast Available",
+    "Housekeeping",
+    "Desk",
+    "Suites",
+    "Free parking",
+    "Wifi",
+    "Public Wifi",
+    "Breakfast included",
+    "Meeting rooms",
+    "Laundry Service",
+    "Minibar",
+    "Non-smoking hotel",
+    "Safe",
+    "Baggage Storage",
+    "Currency Exchange",
+    "English",
+    "French",
+    "24-Hour Front Desk",
+    "German",
+    "Hair Dryer",
+    "Ironing Service",
+    "Newspaper",
+    "Telephone",
+    "Turkish",
+    "Wake Up Service / Alarm Clock"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Centrally Located",
+    "Quiet"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "45"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "33"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "9"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "22"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "15"
+    }
+  ],
+  "awards": []
+}

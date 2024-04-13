@@ -1,0 +1,174 @@
+{
+  "location_id": "2538214",
+  "name": "Hostal Sans",
+  "description": "Everyone needs a place to lay their weary head. For travelers visiting Barcelona, Hostal Sans is an excellent choice for rest and rejuvenation. Well-known for its budget friendly environment and proximity to great restaurants and attractions, Hostal Sans makes it easy to enjoy the best of Barcelona.\nRooms at Hostal Sans provide air conditioning, and guests can stay connected with free wifi.\nIn addition, while staying at Hostal Sans guests have access to a 24 hour front desk, a concierge, and baggage storage. You can also enjoy breakfast buffet.\nGiven the close proximity of popular landmarks, such as Montjuic Castle (1.8 mi) and Casa Batllo (1.9 mi), guests of Hostal Sans can easily experience some of Barcelona's most well known attractions.\nIf you’re looking for a wine bar, consider a visit to Can Paixano (La Xampanyeria), El Nacional, or Quimet & Quimet, which are all conveniently located a short distance from Hostal Sans.\nPlus, during your trip, don’t forget to check out some of the popular history museums, such as Museu d'Historia de Barcelona - MUHBA, Museu d'Història de Catalunya, and Museu Maritim de Barcelona.\nWhether you’re traveling for business, pleasure or both, Hostal Sans is sure to make your visit to Barcelona one worth remembering.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d2538214-Reviews-Hostal_Sans-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Antoni de Capmany, 82",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08014",
+    "address_string": "Antoni de Capmany, 82, 08014 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.3753",
+  "longitude": "2.135366",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d2538214-Hostal_Sans-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#429 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "429"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "72",
+  "review_rating_count": {
+    "1": "11",
+    "2": "8",
+    "3": "13",
+    "4": "22",
+    "5": "18"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "78",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d2538214-m66827-Reviews-Hostal_Sans-Barcelona_Catalonia.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Non-smoking rooms",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Breakfast Buffet",
+    "Catalan",
+    "24-Hour Front Desk",
+    "Spanish",
+    "Public Wifi",
+    "Non-smoking hotel",
+    "Baggage Storage",
+    "English",
+    "French",
+    "Italian",
+    "Portuguese",
+    "Shared Lounge / TV Area",
+    "Vending Machine",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Budget"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15565893",
+      "name": "Sants"
+    },
+    {
+      "location_id": "15565875",
+      "name": "Sants-Montjuic"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "2"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "36"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "8"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "8"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "8"
+    }
+  ],
+  "awards": []
+}

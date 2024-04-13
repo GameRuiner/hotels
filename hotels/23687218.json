@@ -1,0 +1,165 @@
+{
+  "location_id": "23687218",
+  "name": "La Quinta by Wyndham Dubai Jumeirah",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d23687218-Reviews-La_Quinta_by_Wyndham_Dubai_Jumeirah-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Rashid Rd",
+    "street2": "next to international  modern hospital  d",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "117428",
+    "address_string": "Sheikh Rashid Rd next to international  modern hospital  d, Dubai 117428 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.26309",
+  "longitude": "55.33682",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d23687218-La_Quinta_by_Wyndham_Dubai_Jumeirah-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#247 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "247"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "214",
+  "review_rating_count": {
+    "1": "11",
+    "2": "2",
+    "3": "2",
+    "4": "15",
+    "5": "184"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "67",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d23687218-m66827-Reviews-La_Quinta_by_Wyndham_Dubai_Jumeirah-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Minibar",
+    "Safe",
+    "Breakfast Buffet",
+    "Arabic",
+    "Car Hire",
+    "Complimentary Instant Cofffee",
+    "24-Hour Front Desk",
+    "24-Hour Security"
+  ],
+  "parent_brand": "La Quinta",
+  "brand": "La Quinta Inn & Suites",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quaint",
+    "Luxury"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "26"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "28"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "11"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "56"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "47"
+    }
+  ],
+  "awards": []
+}

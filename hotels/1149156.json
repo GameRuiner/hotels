@@ -1,0 +1,410 @@
+{
+  "location_id": "1149156",
+  "name": "Grand Millennium Dubai",
+  "description": "Within easy reach of the city's prime business & leisure attractions\nCreating memorable stay experiences is a priority at the Grand Millennium Dubai hotel where contemporary interiors of 337 rooms are met with warm hospitality and immaculate levels of service to make every stay a unique and unforgettable one.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1149156-Reviews-Grand_Millennium_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Zayed Road - Exit 36",
+    "street2": "Exit 36, Al Barsha Heights",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Sheikh Zayed Road - Exit 36 Exit 36, Al Barsha Heights, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.101562",
+  "longitude": "55.17735",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1149156-Grand_Millennium_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#159 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "159"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1975",
+  "review_rating_count": {
+    "1": "47",
+    "2": "61",
+    "3": "117",
+    "4": "404",
+    "5": "1346"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "862",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1149156-m66827-Reviews-Grand_Millennium_Dubai-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Pool",
+    "Business center",
+    "Fitness center",
+    "Room service",
+    "Restaurant",
+    "Suites",
+    "Free parking",
+    "Internet",
+    "Wheelchair access",
+    "Kitchenette",
+    "Spa",
+    "Wifi",
+    "Shuttle Bus Service",
+    "Free Internet",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Public Wifi",
+    "Paid Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Butler Service",
+    "Outdoor pool",
+    "Parking",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Sauna",
+    "Additional Bathroom",
+    "Allergy-free Room",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Bridal Suite",
+    "Car Hire",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Free Private Parking Nearby",
+    "Complimentary Instant Cofffee",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Head Massage",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Kids' Meals",
+    "Massage",
+    "Nightclub / DJ",
+    "Parking Garage",
+    "Pool / Beach Towels",
+    "Russian",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Soundproof Rooms",
+    "Special Diet Menus",
+    "Steam Room",
+    "Street Parking",
+    "Sun Terrace",
+    "Taxi Service",
+    "Telephone",
+    "Thai",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Safe",
+    "Heated pool",
+    "Breakfast Available",
+    "Bidet",
+    "Billiards",
+    "Breakfast in the Room",
+    "Cable / Satellite TV",
+    "Children's Television Networks",
+    "Chinese",
+    "Clothes Dryer",
+    "Clothes Rack",
+    "Convenience Store",
+    "Couples Massage",
+    "Darts",
+    "Electric Kettle",
+    "Farsi",
+    "First Aid Kit",
+    "Foot Massage",
+    "Complimentary Toiletries",
+    "Complimentary Welcome Drink",
+    "Free Wifi in the Business Center",
+    "Free Wired Internet in the Business Center",
+    "French",
+    "Full Body Massage",
+    "Gift Shop",
+    "Hammam",
+    "Hand Massage",
+    "Happy Hour",
+    "Highchairs Available",
+    "Iron",
+    "Italian",
+    "Karaoke",
+    "Kid-Friendly Buffet",
+    "Laptop Safe",
+    "Manicure",
+    "Neck Massage",
+    "Newspaper",
+    "On-Demand Movies",
+    "Outdoor Dining Area",
+    "Outdoor Furniture",
+    "Pedicure",
+    "Personal Trainer",
+    "Pool with View",
+    "Private Bathrooms",
+    "Paid Public Parking Nearby",
+    "Paid Public Parking On-site",
+    "Salon",
+    "Shoeshine",
+    "Shops",
+    "Snack Bar",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Umbrella",
+    "Urdu",
+    "Wardrobe / Closet",
+    "Whirlpool Bathtub",
+    "Wine / Champagne",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "parent_brand": "Millennium & Copthorne Hotels",
+  "brand": "Grand Millennium Hotels",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Residential Neighborhood",
+    "Quiet"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620543",
+      "name": "Al Barsha"
+    },
+    {
+      "location_id": "15620547",
+      "name": "Al Barsha Heights (Tecom)"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "796"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "323"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "148"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "337"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "247"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

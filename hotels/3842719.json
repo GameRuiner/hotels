@@ -1,0 +1,305 @@
+{
+  "location_id": "3842719",
+  "name": "Hyatt Regency Galleria Residence Dubai",
+  "description": "The Galleria Residence offers all the facilities of luxury, modern day living in Deira, the heritage heart of Dubai. Recently remodeled as chic spaces, these fully furnished apartments are conveniently situated in close proximity to the metro station, gold, spice and textile souks, business district, shopping malls and other popular attractions. Connected to Hyatt Regency Dubai hotel, The Galleria offers its residents a place to unwind at the hotel’s flavorful restaurants and upbeat bars including Al Dawaar, Dubai’s only rooftop, revolving restaurant; Miyako Japanese restaurant; Hibiki Karaoke Lounge and Carpenter’s Sports Bar. Extensive leisure facilities include a fitness center, gym, spa, rooftop swimming pool, sun deck, tennis courts and ice skating rink.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d3842719-Reviews-Hyatt_Regency_Galleria_Residence_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Khaleej Road",
+    "street2": "Deira Corniche",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Al Khaleej Road Deira Corniche, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.278942",
+  "longitude": "55.304455",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d3842719-Hyatt_Regency_Galleria_Residence_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#38 of 766 Specialty lodging in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "766",
+    "ranking": "38"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "196",
+  "review_rating_count": {
+    "1": "17",
+    "2": "9",
+    "3": "19",
+    "4": "40",
+    "5": "111"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "149",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d3842719-m66827-Reviews-Hyatt_Regency_Galleria_Residence_Dubai-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Suites",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Kitchenette",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Microwave",
+    "Refrigerator in room",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Housekeeping",
+    "Aerobics",
+    "Arabic",
+    "ATM On Site",
+    "Bath / Shower",
+    "Kids Activities",
+    "Room service",
+    "Free Internet",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Hot Tub",
+    "Banquet Room",
+    "Multilingual Staff",
+    "Conference Facilities",
+    "Rooftop Pool",
+    "Kids pool",
+    "Facilities for Disabled Guests",
+    "Kids Club",
+    "Sauna",
+    "Bathrobes",
+    "BBQ Facilities",
+    "Bidet",
+    "Blackout Curtains",
+    "Body Wrap",
+    "Bosnian",
+    "Breakfast in the Room",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Children's Playground",
+    "Clothes Dryer",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Convenience Store",
+    "Couples Massage",
+    "Currency Exchange",
+    "Desk",
+    "Dining Area",
+    "Doorperson",
+    "Electric Kettle",
+    "English",
+    "Facial Treatments",
+    "Farsi",
+    "Filipino",
+    "First Aid Kit",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hand Massage",
+    "Head Massage",
+    "Hindi",
+    "Indonesian",
+    "Iron",
+    "Ironing Service",
+    "Karaoke",
+    "Kitchenware",
+    "Landmark View",
+    "Laptop Safe",
+    "Makeup Services",
+    "Malay",
+    "Manicure",
+    "Massage",
+    "Neck Massage",
+    "Newspaper",
+    "Nightclub / DJ",
+    "Oven",
+    "Pedicure",
+    "Personal Trainer",
+    "Pool View",
+    "Pool with View",
+    "Private Bathrooms",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Serbian",
+    "Shops",
+    "Snack Bar",
+    "Sofa",
+    "Special Diet Menus",
+    "Steam Room",
+    "Stovetop",
+    "Sun Deck",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Tamil",
+    "Taxi Service",
+    "Telephone",
+    "Tile / Marble Floor",
+    "Urdu",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Washing Machine",
+    "Waxing Services",
+    "Wine / Champagne",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "parent_brand": "Hyatt Hotels",
+  "brand": "Hyatt Regency",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [
+    "Ocean View",
+    "City View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620623",
+      "name": "Deira Corniche"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "30"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "12"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "9"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "99"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "24"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

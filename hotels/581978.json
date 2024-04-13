@@ -1,0 +1,285 @@
+{
+  "location_id": "581978",
+  "name": "Mitsis Faliraki",
+  "description": "The charming five-star all-inclusive Mitsis Faliraki Beach Hotel & Spa is situated on the east coast next to the town of Faliraki with its beautiful sandy beaches, 5 km from the Afandou Golf course (18 holes) and only 14 km from the town of Rhodes, where there is also a casino. The hotel is completely renovated and has 348 rooms, of which 27 are placed around a separate swimming pool. There is a variety of facilities and activities, such as restaurants, bars, swimming pools, tennis courts, football and basketball courts etc, and a variety of water sports activities, such as water ski, jet-ski, banana boat, parasailing, pedal boats and canoes and an experienced team of animators, promising unforgettable holidays. A point of reference at Mitsis Faliraki Beach Hotel & Spa is the wellness center, offering relaxation and rejuvenation.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g635612-d581978-Reviews-Mitsis_Faliraki-Faliraki_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street2": "",
+    "city": "Faliraki",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "85105",
+    "address_string": "Faliraki 85105 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Faliraki",
+      "location_id": "635612"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.34217",
+  "longitude": "28.202755",
+  "timezone": "Europe/Athens",
+  "phone": "011302241085301",
+  "write_review": "https://www.tripadvisor.com/UserReview-g635612-d581978-Mitsis_Faliraki-Faliraki_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "635612",
+    "ranking_string": "#2 of 90 hotels in Faliraki",
+    "geo_location_name": "Faliraki",
+    "ranking_out_of": "90",
+    "ranking": "2"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "2697",
+  "review_rating_count": {
+    "1": "42",
+    "2": "39",
+    "3": "177",
+    "4": "450",
+    "5": "1989"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "3650",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g635612-d581978-m66827-Reviews-Mitsis_Faliraki-Faliraki_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Paid Wifi",
+    "Breakfast included",
+    "Tennis Court",
+    "Family Rooms",
+    "Minibar",
+    "Free parking",
+    "Pool",
+    "Internet",
+    "Beachfront",
+    "Restaurant",
+    "Wifi",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Free Internet",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Spa",
+    "Public Wifi",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Private Beaches",
+    "Kids Club",
+    "ATM On Site",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Clothes Dryer",
+    "Complimentary Tea",
+    "Convenience Store",
+    "Currency Exchange",
+    "Darts",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Game Room",
+    "German",
+    "Gift Shop",
+    "Greek",
+    "Hair Dryer",
+    "Head Massage",
+    "Indoor Play Area for Children",
+    "Ironing Service",
+    "Italian",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Polish",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shared Lounge / TV Area",
+    "Shops",
+    "Snack Bar",
+    "Special Diet Menus",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Wine / Champagne",
+    "Kids pool",
+    "Breakfast Available",
+    "Badminton",
+    "Bicycle Rental",
+    "Bicycle Tours",
+    "Body Wrap",
+    "Express Check-in / Check-out",
+    "Children's Playground",
+    "Clothes Rack",
+    "Couples Massage",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Complimentary Welcome Drink",
+    "Highchairs Available",
+    "Manicure",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Pool View",
+    "Private Bathrooms",
+    "Sofa",
+    "Strollers",
+    "Sun Deck",
+    "Wardrobe / Closet",
+    "Waterslide",
+    "Water Sport Equipment Rentals",
+    "Yoga Classes",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Centrally Located",
+    "Family"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "8"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "792"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "40"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1214"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "324"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

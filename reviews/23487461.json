@@ -1,0 +1,280 @@
+{
+  "data": [
+    {
+      "id": 940437001,
+      "lang": "en",
+      "location_id": 23487461,
+      "published_date": "2024-03-01T09:47:05Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23487461-r940437001-Reviews-Rose_Executive_Hotel_DWTC-Dubai_Emirate_of_Dubai.html?m=66827#review940437001",
+      "text": "All staff were very courteous and friendly. One of the nicest guy was from the restaurant - Kapadokya- Mr.Hasan. Very obedient / polite and helpful. Made the breakfast super fast and kind. \nThis was our first stay at Rose Executive. \nGreat stay ! \n\nRooms could have been a little more spacious.",
+      "title": "Pleasant Stay !",
+      "trip_type": "Business",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "595blaisep",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/81/default-avatar-2020-43.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 940528833,
+        "title": "Owner response",
+        "text": "Dear Valued Guest,\nThank you for taken the time to share your wonderful experience with us online, and thank you very much for your rating. At The Rose Executive Hotel, all our colleagues make every effort to maintain the high standards of timely and quality service delivery and we are delighted that we have been successful in achieving this during your stay with us in Dubai. Once again, thank you for sharing your feedback. All team members and I, look forward to welcoming you back. \nThanks & regards \nSameh Elkhwaga | Asst. Front Office Manager\n",
+        "lang": "en",
+        "author": "Sameh  El Khwaga",
+        "published_date": "2024-03-02T06:56:10Z"
+      }
+    },
+    {
+      "id": 939553477,
+      "lang": "en",
+      "location_id": 23487461,
+      "published_date": "2024-02-24T00:13:58Z",
+      "rating": 2,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23487461-r939553477-Reviews-Rose_Executive_Hotel_DWTC-Dubai_Emirate_of_Dubai.html?m=66827#review939553477",
+      "text": "Hotel is cool and cozy. \nBut the breakfast was nightmare cause the servant touching foods with his hands without wearing gloves🤮🤮 also they don’t have options🤐\nRooms are nice and clean. Bathroom very nice. Lobby don’t have much shops. Reception teams are very welcoming and treating with respect",
+      "title": "Worse breakfast and servent touching food with their Hands🤮",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "almarar12",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e9/ef/default-avatar-2020-66.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 939835078,
+        "title": "Owner response",
+        "text": "Dear Guest, \nThank you for taking the time to tell us about your experience at the Rose Executive Hotel. We appreciate your feedback at the same time your concern has been addressed. Rest assured that we are taking appropriate measures. Hope you will give us the opportunity to serve you better in the near future. \nThanks & Regards\nSameh Elkhwaga | Asst. Front Office Manager\n",
+        "lang": "en",
+        "author": "Sameh  El Khwaga",
+        "published_date": "2024-02-26T06:13:07Z"
+      }
+    },
+    {
+      "id": 938586413,
+      "lang": "en",
+      "location_id": 23487461,
+      "published_date": "2024-02-17T03:07:38Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23487461-r938586413-Reviews-Rose_Executive_Hotel_DWTC-Dubai_Emirate_of_Dubai.html?m=66827#review938586413",
+      "text": "Nice hotel, we checked in early. Friendly staff, good cleaning. All the needs are there. also thanks a lot to the staff for their help and Abdul Rab. There was also a corner where you can take a tour of various attractions in Dubai and beyond 👍🏼👍🏼👍🏼",
+      "title": "Nice hotel",
+      "trip_type": "Couples",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "beeek18",
+        "user_location": {
+          "id": "298484",
+          "name": "Moscow, Central Russia"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e6/ea/default-avatar-2020-54.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e6/ea/default-avatar-2020-54.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e6/ea/default-avatar-2020-54.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e6/ea/default-avatar-2020-54.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e6/ea/default-avatar-2020-54.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 938830810,
+        "title": "Owner response",
+        "text": "Dear Valued Guest,\nThank you for taken the time to share your wonderful experience with us online, and thank you very much for your rating. At The Rose Executive Hotel, all our colleagues make every effort to maintain the high standards of timely and quality service delivery and we are delighted that we have been successful in achieving this during your stay with us in Dubai. Once again, thank you for sharing your feedback. All team members and I, look forward to welcoming you back. \nThanks & regards \nSameh Elkhwaga | Asst. Front Office Manager\n",
+        "lang": "en",
+        "author": "Sameh  El Khwaga",
+        "published_date": "2024-02-18T23:26:29Z"
+      }
+    },
+    {
+      "id": 937823915,
+      "lang": "en",
+      "location_id": 23487461,
+      "published_date": "2024-02-12T02:38:27Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23487461-r937823915-Reviews-Rose_Executive_Hotel_DWTC-Dubai_Emirate_of_Dubai.html?m=66827#review937823915",
+      "text": "It was an amazing experience, the whole team is  hard working and very professional epecially Abdul Rab, Sagar, Kiran and Kanwal. It a must stay for people who are on business trips or with family, the hotel location is good and so many attractions nearby.",
+      "title": "Great people to stay with!!",
+      "trip_type": "Business",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "C7461TOzeeshana",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ef/32/default-avatar-2020-12.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ef/32/default-avatar-2020-12.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ef/32/default-avatar-2020-12.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ef/32/default-avatar-2020-12.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ef/32/default-avatar-2020-12.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 937848636,
+        "title": "Owner response",
+        "text": "Dear Valued Guest,\nThank you for taken the time to share your wonderful experience with us online, and thank you very much for your rating. At The Rose Executive Hotel, all our colleagues make every effort to maintain the high standards of timely and quality service delivery and we are delighted that we have been successful in achieving this during your stay with us in Dubai. Once again, thank you for sharing your feedback. All team members and I, look forward to welcoming you back. \nThanks & regards \nSameh Elkhwaga | Asst. Front Office Manager\n",
+        "lang": "en",
+        "author": "Sameh  El Khwaga",
+        "published_date": "2024-02-12T06:51:08Z"
+      }
+    },
+    {
+      "id": 920141847,
+      "lang": "en",
+      "location_id": 23487461,
+      "published_date": "2023-10-07T04:43:33Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23487461-r920141847-Reviews-Rose_Executive_Hotel_DWTC-Dubai_Emirate_of_Dubai.html?m=66827#review920141847",
+      "text": "I want to say thank you to IMON because I took care of my room, really helpful, polite, good worker, always asking if I need something else.\nThe personnel is really kindly, disponible and polite.\nSee you soon ",
+      "title": "Thank you IMON",
+      "trip_type": "Business",
+      "travel_date": "2023-10-31",
+      "user": {
+        "username": "davideT5536DA",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/77/ae/default-avatar-2020-2.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/77/ae/default-avatar-2020-2.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/77/ae/default-avatar-2020-2.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/77/ae/default-avatar-2020-2.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/77/ae/default-avatar-2020-2.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 920315701,
+        "title": "Owner response",
+        "text": "Thank you for taken the time to share your wonderful experience with us online, and thank you very much for your rating.\n\nAt The Rose Executive Hotel, all our colleagues make every effort to maintain the high standards of timely and quality service delivery and we are delighted that we have been successful in achieving this during your stay with us in Dubai.\nOnce again, thank you for sharing your feedback. All team members and I, look forward to welcoming you back.\n\nThanks & Regards\nShahnavaj Hussain I Front Office Supervisor ",
+        "lang": "en",
+        "author": "Sameh  El Khwaga",
+        "published_date": "2023-10-08T08:04:49Z"
+      }
+    }
+  ]
+}

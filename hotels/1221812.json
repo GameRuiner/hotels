@@ -1,0 +1,240 @@
+{
+  "location_id": "1221812",
+  "name": "Aurora Oriental Resort Sharm El Sheikh",
+  "description": "Aurora Oriental Resort is located in the heart of Nabq, which has become the most sought-after location in Sharm El Sheikh. The resort boasts a breathtaking beach with crystalline waters, sun-kissed sand and luxurious spacious accommodation surrounded by lush exotic gardens.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g303855-d1221812-Reviews-Aurora_Oriental_Resort_Sharm_El_Sheikh-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_an.html?m=66827",
+  "address_obj": {
+    "city": "Nabq Bay",
+    "country": "Egypt",
+    "postalcode": "002069",
+    "address_string": "Nabq Bay, Sharm El Sheikh 002069 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Nabq Bay",
+      "location_id": "303855"
+    },
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "28.04432",
+  "longitude": "34.432014",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g303855-d1221812-Aurora_Oriental_Resort_Sharm_El_Sheikh-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "303855",
+    "ranking_string": "#18 of 41 hotels in Nabq Bay",
+    "geo_location_name": "Nabq Bay",
+    "ranking_out_of": "41",
+    "ranking": "18"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "4984",
+  "review_rating_count": {
+    "1": "234",
+    "2": "196",
+    "3": "432",
+    "4": "893",
+    "5": "3229"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "6119",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g303855-d1221812-m66827-Reviews-Aurora_Oriental_Resort_Sharm_El_Sheikh-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_an.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Internet",
+    "Beachfront",
+    "Paid Wifi",
+    "Paid Internet",
+    "Beach Access",
+    "Suites",
+    "Free parking",
+    "Pool",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Swimup Bar",
+    "Rooftop Pool",
+    "Heated pool",
+    "Flatscreen TV",
+    "Water Park",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Infinity Pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Free airport transportation",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Aerobics",
+    "Arabic",
+    "Baggage Storage",
+    "Car Hire",
+    "Currency Exchange",
+    "Darts",
+    "Diving",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "24-Hour Front Desk",
+    "German",
+    "Gift Shop",
+    "Hammam",
+    "Indoor Play Area for Children",
+    "Ironing Service",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Nightclub / DJ",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shops",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Public Wifi"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Centrally Located",
+    "Quirky Hotels"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "31"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1347"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "269"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1696"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "1228"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

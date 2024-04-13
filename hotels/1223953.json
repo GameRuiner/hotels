@@ -1,0 +1,212 @@
+{
+  "location_id": "1223953",
+  "name": "Hotel SB Diagonal Zero",
+  "description": "Hotel SB Diagonal Zero Hotel is conveniently located across from the CCIB and Auditorium, near the beaches, coastline and the Diagonal Mar Shopping Centre. With magnificent sea views from the pool floor 17. There are Deluxe rooms and Suites with Jacuzzi, and also family rooms, most of them with sea views. In the hotel there si an SPA: the Spazio Wellness where you can relax.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d1223953-Reviews-Hotel_SB_Diagonal_Zero-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Placa Llevant, S/N",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08039",
+    "address_string": "Placa Llevant, S/N, 08039 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.41177",
+  "longitude": "2.219365",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d1223953-Hotel_SB_Diagonal_Zero-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#362 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "362"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "3096",
+  "review_rating_count": {
+    "1": "193",
+    "2": "195",
+    "3": "503",
+    "4": "1160",
+    "5": "1045"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1470",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d1223953-m66827-Reviews-Hotel_SB_Diagonal_Zero-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Non-smoking hotel",
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Microwave",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Sauna",
+    "Catalan",
+    "English",
+    "Facial Treatments",
+    "Fitness / Spa Locker Rooms",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Ironing Service",
+    "Massage",
+    "Parking Garage",
+    "Spanish",
+    "Baggage Storage",
+    "Beach Access"
+  ],
+  "parent_brand": "SB Hotels Spain",
+  "brand": "SB Hotels",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Bay View",
+    "Ocean View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15565880",
+      "name": "Sant Marti"
+    },
+    {
+      "location_id": "15565931",
+      "name": "Forum"
+    },
+    {
+      "location_id": "13191254",
+      "name": "El Besos i el Maresme"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "535"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1210"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "93"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "698"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "349"
+    }
+  ],
+  "awards": []
+}

@@ -1,0 +1,191 @@
+{
+  "data": [
+    {
+      "id": 932629137,
+      "lang": "en",
+      "location_id": 25176842,
+      "published_date": "2024-01-06T14:56:57Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d25176842-r932629137-Reviews-City_Palace_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review932629137",
+      "text": "Extremely Bad Hotel \nDont ever even think to stay there  \nSpecially nightshift reception unprofessional.. Not a problem solver \nNot educated Not welcoming zero Hospitality.. Big mistake to choose this Hotel Sorry...",
+      "title": "Extremely Bad",
+      "trip_type": "Business",
+      "travel_date": "2024-01-31",
+      "user": {
+        "username": "662hasans",
+        "user_location": {
+          "id": "295424",
+          "name": "Dubai, Emirate of Dubai"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/11/default-avatar-2020-23.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 930923246,
+      "lang": "en",
+      "location_id": 25176842,
+      "published_date": "2023-12-24T18:52:54Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d25176842-r930923246-Reviews-City_Palace_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review930923246",
+      "text": "The room we are staying is so bad, AC has very loud sounds coming from the ceiling, and the  music are so loud from the bar. And upon check-in it's quite unpleasant approach, no smile and even a nice greetings, maybe because of our nationality?",
+      "title": "Very Bad Experince",
+      "trip_type": "Couples",
+      "travel_date": "2023-11-30",
+      "user": {
+        "username": "jhaymarriee",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f6/0d/default-avatar-2020-34.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 929715032,
+      "lang": "en",
+      "location_id": 25176842,
+      "published_date": "2023-12-16T14:42:12Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d25176842-r929715032-Reviews-City_Palace_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review929715032",
+      "text": "Very nice like a Luxury hotel Hotel service is very nice looking like a Wow mr Shabaz khan very helpful nice person good job very nice good location and like my home feeling and Mr zafran very cool boy very friendly thank you my All friends and by by",
+      "title": "Hotel service is very nice looking like a Wow mr Shabaz khan",
+      "trip_type": "Friends getaway",
+      "travel_date": "2023-12-31",
+      "user": {
+        "username": "92mohdn",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f6/0d/default-avatar-2020-34.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 910337427,
+      "lang": "en",
+      "location_id": 25176842,
+      "published_date": "2023-08-14T14:57:29Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d25176842-r910337427-Reviews-City_Palace_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review910337427",
+      "text": "The hotel staffs are amazing Shirley, Sneha, Mr. Mohammed, Mr Buparti n all staffs, they poilet and serviceable. The cleaning service is neatly done and good.\nThe hotel is also very close to the metro stations n bus stops just a min walk to different destinations in town. \nAlso close to several malls around the conner. \nLove my time there.",
+      "title": "City Palace hotel Al Ghubaiba ",
+      "trip_type": "Solo travel",
+      "travel_date": "2023-08-31",
+      "user": {
+        "username": "dimud2022",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e9/bb/default-avatar-2020-65.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 872084466,
+      "lang": "en",
+      "location_id": 25176842,
+      "published_date": "2022-12-18T08:40:53Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d25176842-r872084466-Reviews-City_Palace_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review872084466",
+      "text": "Very warm and welcoming staff superb service .h/k is up to date and always available.thanks to the reception team for asisting us with good and spacious room.special thanks to Mr.Aveejit,Sneha,Zeeshan,Pramood and all the other members of the Front Office .for sure would love to come again 🥰",
+      "title": "Fantastic stay Superb Hotel .",
+      "trip_type": "Business",
+      "travel_date": "2022-12-31",
+      "user": {
+        "username": "zeeshank555",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ef/9c/default-avatar-2020-14.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ef/9c/default-avatar-2020-14.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ef/9c/default-avatar-2020-14.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ef/9c/default-avatar-2020-14.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ef/9c/default-avatar-2020-14.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 872271065,
+        "title": "Owner response",
+        "text": "Thank you So Much Sir to give us your valuable  time to put a nice Feed back for us..\nYour Honest Review will help us to Improve and boost up our service quality .\nThank you",
+        "lang": "en",
+        "author": "City Palace",
+        "published_date": "2022-12-20T03:51:47Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "location_id": "13954590",
+  "name": "Hay Alsancak",
+  "description": "Şehrin eğlenceli otelinde konakla, her yerde “hayda!” demeye alış. Herkes sana “nerede kalıyorsun” diye soracak. Sen, “hayda” dedikçe şehir sana daha yaklaşacak. Burası İzmir’deki evin, odan, yerin. Konakladığın Hay Alsancak, Alsancak ve İzmir’ in eğlence yeri olan Kıbrıs Şehitleri caddesinde. Tasarımı ile eski İzmir’in güzel yapılarına selam gönderen; dekorasyonu ile yenilikçi, genç ve renkli bir otel. Bilindik otellerden farklı çünkü çok neşeli. Odalarımızda kaldığın zamanlarda Kordon’ da yemeğini yemek için bir araca binmene gerek yok, çünkü yürüme mesafesinde; gece dışarıya çıkıp İzmir’ in eğlenceli zamanlarını yaşadığında dönüş derdini düşünmene de gerek yok çünkü Alsancak’ın en güzel yerindesin. Dinlenmek istersen şehrin gürültüsü de yok; çünkü sakin bir yerde. Kentin eğlence ve kültürel hayatının tam ortasında. Gündüz ister İzmir’in tarihi yerlerini gez, sahilde yürüyüşünü yap, bisiklete bin ya da işine trafik derdi olmadan git. İzmir’de kaldığın süre boyunca sakin ya da eğlenceli zamanlar için hep Hayda! de.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d13954590-Reviews-Hay_Alsancak-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "1476/1 Sokak No 5 Alsancak",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35220",
+    "address_string": "1476/1 Sokak No 5 Alsancak, Izmir 35220 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.441425",
+  "longitude": "27.144243",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d13954590-Hay_Alsancak-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#2 of 218 hotels in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "218",
+    "ranking": "2"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "177",
+  "review_rating_count": {
+    "1": "1",
+    "2": "2",
+    "3": "1",
+    "4": "16",
+    "5": "157"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "92",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d13954590-m66827-Reviews-Hay_Alsancak-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Suites",
+    "Free Internet",
+    "Restaurant",
+    "Bar/Lounge",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Refrigerator in room",
+    "Safe",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bottled Water",
+    "24-Hour Check-in",
+    "Clothes Rack",
+    "Desk",
+    "English",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Meeting rooms",
+    "Minibar",
+    "Breakfast Available",
+    "Blackout Curtains",
+    "Cable / Satellite TV",
+    "Electric Kettle",
+    "Hair Dryer",
+    "Highchairs Available",
+    "Laptop Safe",
+    "Private Bathrooms",
+    "Paid Private Parking Nearby",
+    "Paid Public Parking Nearby",
+    "Shared Lounge / TV Area",
+    "Soundproof Rooms",
+    "Telephone",
+    "Turkish",
+    "Wake Up Service / Alarm Clock"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quaint",
+    "Charming"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "51"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "48"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "15"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "29"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "24"
+    }
+  ],
+  "awards": []
+}

@@ -1,0 +1,206 @@
+{
+  "location_id": "3490066",
+  "name": "Al Khoory Executive Hotel, Al Wasl",
+  "description": "Conveniently located in the middle of Dubai in Al Wasl Road, Al Khoory ExecutiveHotel offers modern accommodation. It is just a 10-minute drive from Burj Khalifa and Dubai Mall. All accommodation are equipped with the latest technology and finest amenities including a flat-screen TV, minibar and safety deposit box. Some rooms include an extended terrace. The bathroom is fitted with toiletries and a hairdryer. Guests can savour various discerning palates at Al Khoory Executive from light snacks to an American breakfast and international a-la-carte specialties. Mood Restaurant serves all day dining from a globally inspired menu and Deli Mood offers snacks and pastries. A vigorous workout can be enjoyed at the fully equipped gym. For more relaxed options, a sauna and steam room is available. The tour desk can arrange local excursion tours to major landmarks in Dubai. We speak your language! Hotel Rooms: 208, Hotel Chain: Al Khoory Hotels",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d3490066-Reviews-Al_Khoory_Executive_Hotel_Al_Wasl-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Wasl Rd",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Al Wasl Rd, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.231575",
+  "longitude": "55.27059",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d3490066-Al_Khoory_Executive_Hotel_Al_Wasl-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#119 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "119"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1311",
+  "review_rating_count": {
+    "1": "26",
+    "2": "28",
+    "3": "77",
+    "4": "292",
+    "5": "888"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "712",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d3490066-m66827-Reviews-Al_Khoory_Executive_Hotel_Al_Wasl-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Free parking",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Room service",
+    "Wheelchair access",
+    "Meeting rooms",
+    "Business center",
+    "Concierge",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Shuttle Bus Service",
+    "Suites",
+    "Restaurant",
+    "Airport transportation",
+    "Public Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Laundry Service",
+    "Banquet Room",
+    "Air conditioning",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Babysitting",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Arabic",
+    "Baggage Storage",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Ironing Service",
+    "Russian",
+    "24-Hour Security",
+    "Taxi Service"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Classic",
+    "Modern"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620541",
+      "name": "Al Bada"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "324"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "282"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "169"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "257"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "180"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

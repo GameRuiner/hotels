@@ -1,0 +1,283 @@
+{
+  "location_id": "1469127",
+  "name": "Apollo Blue Hotel",
+  "description": "The Apollo Blue hotel is a Five Star hotel located on the impressive Faliraki beach of the legendary island of Rhodes. It is the ideal destination for those seeking natural beauty and the discreet luxury of a modern hotel. Designed in harmony with local colors and inspired by the architectural style of ancient Greece, the Apollo Blue hotel is the quintessence of Rhodes'most inspiring elements: stylish design,warm hospitality, excellent cuisine and stunning seascapes. Just 20 minutes from the Rhodes International Airport and 15 minutes from the spectacular Medieval City of Rhodes which is inscribed on the UNESCO World Heritage List.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g635612-d1469127-Reviews-Apollo_Blue_Hotel-Faliraki_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street1": "Kallithea Avenue",
+    "street2": "",
+    "city": "Faliraki",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "85105",
+    "address_string": "Kallithea Avenue, Faliraki 85105 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Faliraki",
+      "location_id": "635612"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.3444",
+  "longitude": "28.2032",
+  "timezone": "Europe/Athens",
+  "write_review": "https://www.tripadvisor.com/UserReview-g635612-d1469127-Apollo_Blue_Hotel-Faliraki_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "635612",
+    "ranking_string": "#10 of 90 hotels in Faliraki",
+    "geo_location_name": "Faliraki",
+    "ranking_out_of": "90",
+    "ranking": "10"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "476",
+  "review_rating_count": {
+    "1": "7",
+    "2": "18",
+    "3": "33",
+    "4": "131",
+    "5": "287"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "658",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g635612-d1469127-m66827-Reviews-Apollo_Blue_Hotel-Faliraki_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Free parking",
+    "Fitness center",
+    "Internet",
+    "Free Internet",
+    "Spa",
+    "Free Wifi",
+    "Beachfront",
+    "Suites",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Wifi",
+    "Public Wifi",
+    "Breakfast included",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Swimup Bar",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Private Pools",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Billiards",
+    "Blackout Curtains",
+    "Car Hire",
+    "English",
+    "Facial Treatments",
+    "Fitness / Spa Locker Rooms",
+    "24-Hour Front Desk",
+    "German",
+    "Ironing Service",
+    "Family Rooms",
+    "Heated pool",
+    "Indoor pool",
+    "Kids pool",
+    "Sauna",
+    "Electric vehicle charging station",
+    "Bathrobes",
+    "Boating",
+    "Bottled Water",
+    "Bowling Off-site",
+    "Breakfast in the Room",
+    "Cable / Satellite TV",
+    "24-Hour Check-in",
+    "Clothes Rack",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Couples Massage",
+    "Doorperson",
+    "Electric Kettle",
+    "Evening Entertainment",
+    "First Aid Kit",
+    "Foot Massage",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "Complimentary Welcome Drink",
+    "Free Wifi in the Business Center",
+    "Full Body Massage",
+    "Game Room",
+    "Gift Shop",
+    "Greek",
+    "Hair Dryer",
+    "Hammam",
+    "Head Massage",
+    "Highchairs Available",
+    "Hiking",
+    "Infirmary",
+    "Interconnected room(s) available",
+    "Italian",
+    "Manicure",
+    "Massage",
+    "Mountain View",
+    "Neck Massage",
+    "Newspaper",
+    "Outdoor Dining Area",
+    "Outdoor Furniture",
+    "Pedicure",
+    "Pool / Beach Towels",
+    "Pool View",
+    "Pool with View",
+    "Private Bathrooms",
+    "Radio",
+    "Seating Area",
+    "Shallow End",
+    "Sofa",
+    "Soundproof Rooms",
+    "Steam Room",
+    "Sun Deck",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Tennis Court Off-site",
+    "Tile / Marble Floor",
+    "Umbrella",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet",
+    "Water Park Off-site",
+    "Waxing Services",
+    "Wine / Champagne",
+    "Yoga Classes",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Modern",
+    "Luxury"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "7"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "230"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "9"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "129"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "41"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

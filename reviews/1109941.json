@@ -1,0 +1,323 @@
+{
+  "data": [
+    {
+      "id": 945970060,
+      "lang": "en",
+      "location_id": 1109941,
+      "published_date": "2024-04-09T11:43:30Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d1109941-r945970060-Reviews-The_Radisson_Blu_Residence_Dubai_Marina-Dubai_Emirate_of_Dubai.html?m=66827#review945970060",
+      "text": "Being a \"residence\" I'm of the opinion that the apartment could be a bit better furnished (sofa quite tired) and the kitchen a bit better equipped (limited pots and pans). The complimentary water bottles could be supplied in bigger quantities and size as this is a hot country where you usually have to drink quite much due to the heat (especially being a foreigner from Nordic countries), and it's quite rudimentary and low cost to supply for someone commiting to a longterm stay. The TV's chromecast connection works poorly, so it's a struggle to get Neflix going. Luckily it works after some hustle...\n\nAnyway, I have chosen to extend my stay at this place (multiple months in Dubai for work) and a big reason is the nice personnel doing room service (cleaning) and the friendly rescue/service peopl at the pool. The location is quite good with walking distance to many basic needs (waitrose, marina walk, good restaurants). Unfortunately the highway is a bit busy and right beside the building.\nThere are adequate fitness spaces for amateur workouts. If they had a heavy barbell and rack I would have everything I needed personally. The 15 meter pool works well for shorter swims as complimentary and easy exercise.\nOtherwise the pool area is quite basic, but a good place to relax at.\n\nOverall I think I will enjoy living in this place. How the parking place and traffic availability works remains to be seen as I have not yet started renting a car.",
+      "title": "Four out of five rating. A few things could be improved. Some things works really well.",
+      "trip_type": "Business",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "kimbA8926WZ",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/06/e5/b1/d8/kim-b.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/06/e5/b1/d8/kim-b.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/06/e5/b1/d8/kim-b.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/06/e5/b1/d8/kim-b.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 945513701,
+      "lang": "en",
+      "location_id": 1109941,
+      "published_date": "2024-04-05T21:35:55Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d1109941-r945513701-Reviews-The_Radisson_Blu_Residence_Dubai_Marina-Dubai_Emirate_of_Dubai.html?m=66827#review945513701",
+      "text": "Great location, stayed in their studio apartment which was spacious and well equipped.\nGreat with cleaning every day (Shakeel, thanks for a job well done every day of my stay)\n\nThanks for ease of check in and help with my bags upon arrival.\nI would definitely come back",
+      "title": "Great hotel for business and leisure",
+      "trip_type": "Business",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "nadja207",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f3/23/default-avatar-2020-28.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f3/23/default-avatar-2020-28.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f3/23/default-avatar-2020-28.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f3/23/default-avatar-2020-28.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f3/23/default-avatar-2020-28.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945612597,
+        "title": "Owner response",
+        "text": "Dear Nadja, \n\nThank you for choosing to stay with us and for taking the time to share your wonderful feedback. We are thrilled to hear that you enjoyed your experience at our hotel, both for business and leisure.\n\nIt's fantastic to know that you found our studio apartment spacious and well-equipped for your needs. We take pride in maintaining a high standard of cleanliness, and we will be sure to pass along your kind words to Shakeel for his excellent service.\n\nWe look forward to welcoming you back on your next visit.\n\nWarm regards,\nMamdouh Doma \nDuty Manager ",
+        "lang": "en",
+        "author": "mamdouh doma",
+        "published_date": "2024-04-06T16:12:01Z"
+      }
+    },
+    {
+      "id": 945427097,
+      "lang": "en",
+      "location_id": 1109941,
+      "published_date": "2024-04-05T05:59:18Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d1109941-r945427097-Reviews-The_Radisson_Blu_Residence_Dubai_Marina-Dubai_Emirate_of_Dubai.html?m=66827#review945427097",
+      "text": "i will stay radisson blu residence blu staff is really helpful and and swimming pool is very good and pool staff rosario very helpful and whenever i pass by lobby area concierge always smile and spices Ramesh kumar always ready to help thanks you so much i will definitely come back again 🙏🙏",
+      "title": "feedback",
+      "trip_type": "Business",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "639asseli",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e8/91/default-avatar-2020-62.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945612429,
+        "title": "Owner response",
+        "text": "Dear Asseli \n\nThank you so much for your glowing review! We're delighted to hear that your stay was positive experience. Our team takes great pride in providing exceptional service, and it's wonderful to know that you found our staff, especially Rosario and Ramesh Kumar, to be so helpful. We'll be sure to pass along your kind words to them.\n\nWe can't wait to welcome you back for another fantastic stay. Please don't hesitate to reach out if there's anything we can do to make your next visit even more memorable.\n\nWarm regards,\nMamdouh Doma \nDuty Manager ",
+        "lang": "en",
+        "author": "mamdouh doma",
+        "published_date": "2024-04-06T16:10:37Z"
+      }
+    },
+    {
+      "id": 945294165,
+      "lang": "en",
+      "location_id": 1109941,
+      "published_date": "2024-04-04T03:36:09Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d1109941-r945294165-Reviews-The_Radisson_Blu_Residence_Dubai_Marina-Dubai_Emirate_of_Dubai.html?m=66827#review945294165",
+      "text": "That was nice hotel specially Mr. Ajay which was keep our room always clean and prepare what he can.\nWe had good experinece in this hotel and it is good place with the familiy and it was really near to the mall, supermarket and Marina.\nI recomend to go foe this hotel if you are familiy and have child.",
+      "title": "Nice place and room services",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "240farshida",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ee/10/default-avatar-2020-8.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945372276,
+        "title": "Owner response",
+        "text": "Dear Guest \n\nThank you for taking the time to share your wonderful feedback with us. We are thrilled to hear that you enjoyed your stay with us and that Ajay's exceptional service contributed to making your experience memorable. Providing impeccable cleanliness and attentive service is our priority, and we are delighted to learn that we succeeded in meeting your expectations.\n\nThank you for recommending our hotel to other travelers. We appreciate your support and hope to have the pleasure of welcoming you and your family back for another enjoyable stay in the near future.\n\nWarm regards,\nMamdouh Doma \nDuty Manager",
+        "lang": "en",
+        "author": "mamdouh doma",
+        "published_date": "2024-04-04T16:05:55Z"
+      }
+    },
+    {
+      "id": 945030888,
+      "lang": "en",
+      "location_id": 1109941,
+      "published_date": "2024-04-03T05:39:03Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d1109941-r945030888-Reviews-The_Radisson_Blu_Residence_Dubai_Marina-Dubai_Emirate_of_Dubai.html?m=66827#review945030888",
+      "text": "Mansi Star Tourism offers a personalized touch to the desert safari experience. The itinerary is thoughtfully designed to allow ample time for each activity, ensuring that guests never feel rushed. Whether it's the exhilarating experience of sandboarding, the serene camel ride at sunset, or the opportunity to capture the breathtaking desert landscape in photos, every moment is curated for maximum enjoyment.The drivers, skilled in the art of dune bashing, navigate the desert with precision and care, offering both excitement and peace of mind for all on board. And thanks to Sohail Khan for the good recommendations.",
+      "title": "excellent services",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "shaligb",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f4/5d/default-avatar-2020-32.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945225293,
+        "title": "Owner response",
+        "text": "Dear Shaligb\n\nThank you so much for sharing your fantastic experience with us! We're thrilled to hear that your desert safari tour became a highlight of your trip to Dubai.\n\nIt's our goal to provide our guests with unforgettable and personalized experiences, and we're delighted to know that we succeeded in doing so during your excursion. Our crew takes great pride in ensuring the comfort and satisfaction of our guests, and it's wonderful to hear that their courtesy and attentiveness contributed to your enjoyment.\n\nThank you once again for choosing us, and we look forward to welcoming you back for another memorable experience in the future!\n\nBest regards,\nMamdouh Doma \nDuty Manager ",
+        "lang": "en",
+        "author": "mamdouh doma",
+        "published_date": "2024-04-03T11:46:29Z"
+      }
+    }
+  ]
+}

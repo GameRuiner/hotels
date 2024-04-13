@@ -1,0 +1,279 @@
+{
+  "location_id": "1758129",
+  "name": "Delphin Be Grand Resort",
+  "description": "A magnificent resort situated at one of the most beautiful beaches of the Mediterranean in an inviting and relaxing atmosphere. Delphin BE Grand Resort offers unrivalled luxury superb cuisine elegantly furnished rooms excellent conference facilities and a wide range of outdoor and in door leisure amenities. 15 km to city center 11 km to airport located on 112.000 sq m area with 400 m private sandy beach in Botanik Exclusive Resort Lara you will experience more than what you expect from an Ultra All Inclusive holiday concept",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g20116893-d1758129-Reviews-Delphin_Be_Grand_Resort-Kemeragzi_Antalya_Turkish_Mediterranean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Yasar Sobutay BulvarI No:38",
+    "street2": "Yeşilbahçe",
+    "city": "Kemeragzi",
+    "state": "Antalya Province",
+    "country": "Turkiye",
+    "postalcode": "07160",
+    "address_string": "Yasar Sobutay BulvarI No:38 Yeşilbahçe, Kemeragzi, Antalya 07160 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Kemeragzi",
+      "location_id": "20116893"
+    },
+    {
+      "level": "Municipality",
+      "name": "Antalya",
+      "location_id": "297962"
+    },
+    {
+      "level": "Province",
+      "name": "Antalya Province",
+      "location_id": "297960"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Mediterranean Coast",
+      "location_id": "658661"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "36.85514",
+  "longitude": "30.863945",
+  "timezone": "Europe/Istanbul",
+  "phone": "011908505320700",
+  "write_review": "https://www.tripadvisor.com/UserReview-g20116893-d1758129-Delphin_Be_Grand_Resort-Kemeragzi_Antalya_Turkish_Mediterranean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "20116893",
+    "ranking_string": "#6 of 16 hotels in Kemeragzi",
+    "geo_location_name": "Kemeragzi",
+    "ranking_out_of": "16",
+    "ranking": "6"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "2978",
+  "review_rating_count": {
+    "1": "105",
+    "2": "92",
+    "3": "142",
+    "4": "300",
+    "5": "2339"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "4761",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g20116893-d1758129-m66827-Reviews-Delphin_Be_Grand_Resort-Kemeragzi_Antalya_Turkish_Mediterranean_Coast.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Beachfront",
+    "Beach Access",
+    "Suites",
+    "Free parking",
+    "Internet",
+    "Kids Activities",
+    "Room service",
+    "Free Internet",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Wifi",
+    "Breakfast included",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Lazy River",
+    "Rooftop Terrace",
+    "Water Park",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Adult pool",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Aerobics",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Billiards",
+    "Bottled Water",
+    "Bowling",
+    "Bridal Suite",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Complimentary Tea",
+    "Convenience Store",
+    "Darts",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Game Room",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Indoor Play Area for Children",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Turkish",
+    "Wake Up Service / Alarm Clock",
+    "Wine / Champagne",
+    "Kids pool",
+    "Cable / Satellite TV",
+    "Children's Playground",
+    "Clothes Rack",
+    "Couples Massage",
+    "Complimentary Welcome Drink",
+    "Full Body Massage",
+    "Highchairs Available",
+    "Infirmary",
+    "Outdoor Dining Area",
+    "Pool View",
+    "Shallow End",
+    "Sun Deck",
+    "Wardrobe / Closet"
+  ],
+  "parent_brand": "Delphin Hotels & Resorts",
+  "brand": "Delphin Hotels",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Luxury",
+    "City View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "37"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "372"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "22"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1991"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "172"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

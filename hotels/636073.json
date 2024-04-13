@@ -1,0 +1,229 @@
+{
+  "location_id": "636073",
+  "name": "Atlantica Mikri Poli Rhodes",
+  "description": "Atlantica Mikri Poli Rhodes is peacefully tucked away in the resort of Kolymbia, surrounded by crystal blue waters making it idea for pool or beach lovers. The unforgettable service combined with beautifully decorated rooms and endless fun at the hotel's waterpark, makes this hotel the ideal destination for the ultimate family experience.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g635615-d636073-Reviews-Atlantica_Mikri_Poli_Rhodes-Kolimbia_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street2": "",
+    "city": "Kolimbia",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "851 03",
+    "address_string": "Kolimbia 851 03 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Kolimbia",
+      "location_id": "635615"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.259357",
+  "longitude": "28.163334",
+  "timezone": "Europe/Athens",
+  "write_review": "https://www.tripadvisor.com/UserReview-g635615-d636073-Atlantica_Mikri_Poli_Rhodes-Kolimbia_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "635615",
+    "ranking_string": "#7 of 33 hotels in Kolimbia",
+    "geo_location_name": "Kolimbia",
+    "ranking_out_of": "33",
+    "ranking": "7"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1494",
+  "review_rating_count": {
+    "1": "17",
+    "2": "30",
+    "3": "99",
+    "4": "372",
+    "5": "976"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1864",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g635615-d636073-m66827-Reviews-Atlantica_Mikri_Poli_Rhodes-Kolimbia_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Free parking",
+    "Restaurant",
+    "Bar/Lounge",
+    "Fitness center",
+    "Kids Activities",
+    "Beachfront",
+    "Suites",
+    "Spa",
+    "Airport transportation",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Refrigerator in room",
+    "Babysitting",
+    "Safe",
+    "Swimup Bar",
+    "Flatscreen TV",
+    "Lazy River",
+    "Water Park",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Private Beaches",
+    "Kids Club",
+    "Aerobics",
+    "Baggage Storage",
+    "Car Hire",
+    "Darts",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "French",
+    "24-Hour Front Desk",
+    "Game Room",
+    "German",
+    "Gift Shop",
+    "Greek",
+    "Indoor Play Area for Children",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Shops",
+    "Snack Bar",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Park View",
+    "Ocean View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "2"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "152"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "11"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1038"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "67"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

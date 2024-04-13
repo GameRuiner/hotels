@@ -1,0 +1,266 @@
+{
+  "location_id": "19253952",
+  "name": "Avani Ibn Battuta Dubai Hotel",
+  "description": "Right beside Dubai Metro, superb shopping right on your doorstep and a dizzying array of exciting activities. Only 30 minutes drive from both Dubai International Airport and Dubai World Central airport, Avani Ibn Battuta Dubai Hotel is situated in a well-developed part of the city. The Dubai Metro is accessible via the Ibn Battuta Metro Link, just next door, connecting visitors to the financial district, cultural hotspots and the tallest building in the world, Burj Khalifa. For relaxation, guests can take a short taxi to the golden sands of the Arabian Gulf or explore entertainment options such as a state-of-the-art cinema and bowling alley just a few minutes away on foot. Avani Ibn Battuta Dubai Hotel is an ideal base for Expo 2020. Whether business or pleasure, guests will find a convenient city escape under our roof. When you want to work, play and sleep your way, we take care of the details that matter.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d19253952-Reviews-Avani_Ibn_Battuta_Dubai_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Zayed Road",
+    "street2": "Ibn Battuta Mall",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "22315",
+    "address_string": "Sheikh Zayed Road Ibn Battuta Mall, Dubai 22315 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.045734",
+  "longitude": "55.118225",
+  "timezone": "Asia/Dubai",
+  "phone": "01197145743111",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d19253952-Avani_Ibn_Battuta_Dubai_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#274 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "274"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1035",
+  "review_rating_count": {
+    "1": "38",
+    "2": "21",
+    "3": "40",
+    "4": "117",
+    "5": "819"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "660",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d19253952-m66827-Reviews-Avani_Ibn_Battuta_Dubai_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Babysitting",
+    "Non-smoking hotel",
+    "Safe",
+    "Heated pool",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Coffee Shop",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "Free Public Parking Nearby",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Newspaper",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shared Lounge / TV Area",
+    "Soundproof Rooms",
+    "Street Parking",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Shuttle Bus Service",
+    "Free Internet",
+    "Business center",
+    "Family Rooms",
+    "Minibar",
+    "Flatscreen TV",
+    "Kids pool",
+    "Air Purifier",
+    "Bulgarian",
+    "Cable / Satellite TV",
+    "Children's Television Networks",
+    "Chinese",
+    "Clothes Rack",
+    "Currency Exchange",
+    "Dining Area",
+    "Electric Kettle",
+    "First Aid Kit",
+    "French",
+    "Highchairs Available",
+    "Hindi",
+    "Indonesian",
+    "Laptop Safe",
+    "Nepali",
+    "Outdoor Dining Area",
+    "Pool View",
+    "Private Bathrooms",
+    "Russian",
+    "Sinhala",
+    "Sofa",
+    "Sun Deck",
+    "Tamil",
+    "Thai",
+    "Ukrainian",
+    "Urdu",
+    "Valet Parking",
+    "Walk-in Shower",
+    "Wardrobe / Closet"
+  ],
+  "parent_brand": "Minor Hotel Group",
+  "brand": "Avani Hotels & Resorts",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Modern",
+    "Romantic"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620624",
+      "name": "Discovery Gardens"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "295"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "150"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "116"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "139"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "132"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

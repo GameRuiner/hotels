@@ -1,0 +1,230 @@
+{
+  "location_id": "23957670",
+  "name": "Pearly Hotel & Spa",
+  "description": "Olağanüstü güzellik ve eşsiz kültürel miraslarıyla dünyanın en ilham verici konumlarından Antalya Konyaaltı'nda Pearly Hotel sizi bekliyor. Sizi büyüleyici ortamın kalbine yerleştiren şey ise olağanüstü tarzımız ve hizmetimiz. Sahilde, doğada ve kentsel konumlarda unutulmaz deneyimler ve basitçe 'olmak' için muhteşem alanlar; Pearly Hotel'de unutulmaz anlar sonsuz mavilere uyanmakla başlıyor",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g23456196-d23957670-Reviews-Pearly_Hotel_Spa-Konyaalti_Antalya_Turkish_Mediterranean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "KuskavagI mahallesi Akdeniz BulvarI No:104",
+    "city": "Konyaalti",
+    "state": "Antalya Province",
+    "country": "Turkiye",
+    "address_string": "KuskavagI mahallesi Akdeniz BulvarI No:104, Konyaalti, Antalya Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Konyaalti",
+      "location_id": "23456196"
+    },
+    {
+      "level": "Municipality",
+      "name": "Antalya",
+      "location_id": "297962"
+    },
+    {
+      "level": "Province",
+      "name": "Antalya Province",
+      "location_id": "297960"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Mediterranean Coast",
+      "location_id": "658661"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "36.870575",
+  "longitude": "30.651236",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g23456196-d23957670-Pearly_Hotel_Spa-Konyaalti_Antalya_Turkish_Mediterranean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "23456196",
+    "ranking_string": "#2 of 19 hotels in Konyaalti",
+    "geo_location_name": "Konyaalti",
+    "ranking_out_of": "19",
+    "ranking": "2"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "17",
+  "review_rating_count": {
+    "1": "0",
+    "2": "3",
+    "3": "2",
+    "4": "3",
+    "5": "9"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "84",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g23456196-d23957670-m66827-Reviews-Pearly_Hotel_Spa-Konyaalti_Antalya_Turkish_Mediterranean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Beachfront",
+    "Spa",
+    "Beach Access",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Restaurant",
+    "Bar/Lounge",
+    "Pets Allowed",
+    "Airport transportation",
+    "Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Accessible rooms",
+    "Minibar",
+    "Non-smoking hotel",
+    "Safe",
+    "Private Balcony",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Sauna",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bicycle Rental",
+    "Blackout Curtains",
+    "Boating",
+    "Bottled Water",
+    "Bowling Off-site",
+    "Bridal Suite",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Express Check-in / Check-out",
+    "Children's Television Networks",
+    "Clothes Rack",
+    "Coffee Shop",
+    "Couples Massage",
+    "Desk",
+    "Electric Kettle",
+    "English",
+    "First Aid Kit",
+    "Fitness / Spa Locker Rooms",
+    "Free Private Parking Nearby",
+    "Free Public Parking Nearby",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "Complimentary Welcome Drink",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Hair Dryer",
+    "Hammam",
+    "Hand Massage",
+    "Happy Hour",
+    "Head Massage",
+    "Highchairs Available",
+    "Hiking",
+    "Ironing Service",
+    "Kids' Meals",
+    "Laptop Safe",
+    "Massage",
+    "Mountain View",
+    "Outdoor Dining Area",
+    "Private Check-in / Check-out",
+    "24-Hour Security",
+    "Sofa Bed",
+    "Steam Room",
+    "Street Parking",
+    "Taxi Service",
+    "Turkish",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Water Park Off-site",
+    "Wine / Champagne"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "City View",
+    "Quaint"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "0"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "8"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "2"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "3"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "0"
+    }
+  ],
+  "awards": []
+}

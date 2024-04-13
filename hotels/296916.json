@@ -1,0 +1,250 @@
+{
+  "location_id": "296916",
+  "name": "Hotel Jazz",
+  "description": "Hotel Jazz is located at number 3 Pelai Street, in the center of Barcelona.\n\nWith its privileged location in the center of Barcelona, with metro lines just a few meters away and connection to the airport and Sants station (High Speed train), Hotel Jazz is the perfect place to enjoy everything this beautiful city has to offer, from the vibrant nightlife to the stunning modernist architecture and delicious Mediterranean cuisine. Without a doubt, it is an excellent choice for those looking for an unforgettable experience in Barcelona, whether you are visiting for business or pleasure.\n\nThe Hotel Jazz is equipped to the smallest detail with a wide range of services in each of the rooms. The Family Deluxe rooms stand out, spacious rooms perfect for romantic stays, trips with friends or family vacations. \n\nIn addition, it offers a wide range of services and amenities, such as online check-in, 24-hour reception, laundry service, adapted access and spaces, meeting rooms, business center, luggage room and private parking.\n\nIts leisure areas are also noteworthy. On the second floor is the Jazz Bar, a perfect space for afterworks, social events or informal meetings and the Jazz Club terrace on the 8th floor where you can enjoy cocktails and tapas by the pool and solarium.\n\nEnjoy your stay in Barcelona!",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d296916-Reviews-Hotel_Jazz-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Pelai 3",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08001",
+    "address_string": "Pelai 3, 08001 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.386112",
+  "longitude": "2.165785",
+  "timezone": "Europe/Madrid",
+  "phone": "01134935529696",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d296916-Hotel_Jazz-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#43 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "43"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "5754",
+  "review_rating_count": {
+    "1": "28",
+    "2": "38",
+    "3": "204",
+    "4": "1732",
+    "5": "3752"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1879",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d296916-m66827-Reviews-Hotel_Jazz-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Laundry Service",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Catalan",
+    "24-Hour Check-in",
+    "Complimentary Tea",
+    "English",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Laptop Safe",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Paid Private Parking Nearby",
+    "Paid Public Parking Nearby",
+    "Snack Bar",
+    "Spanish",
+    "Special Diet Menus",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Taxi Service",
+    "Telephone",
+    "Bidet",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Desk",
+    "French",
+    "Highchairs Available",
+    "Italian",
+    "Newspaper",
+    "Paid Private Parking On-site",
+    "Soundproof Rooms",
+    "Sun Deck",
+    "Umbrella",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Value",
+    "City View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230970",
+      "name": "Eixample"
+    },
+    {
+      "location_id": "15565885",
+      "name": "La Dreta de l'Eixample"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "277"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "2821"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "194"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "992"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "704"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "id": 801345638,
+      "lang": "en",
+      "location_id": 23140682,
+      "published_date": "2021-08-02T13:41:26Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g3343875-d23140682-r801345638-Reviews-Nyx_Hotel-Guzelbahce_Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review801345638",
+      "text": "We have been there for a weekend away. The location is right in the middle of Guzelbahce's grand boulevard. 15 min away from pub streets by walking. A view to  the egean sea. The hotel has beautiful rooms with jacuzzis. All furnitures and sheets are new and clean. Breakfast is satisfying but do not expect the traditional Turkish 'serpme' breakfast. It is more like accompanying your morning coffee. The owners and employees are respectful and nice people. I must mention that their kindness wasn't compromised when they had to deal with couriering back our stuff that we had forgotten there. If you have plans around or in Guzelbahce, I strongly recommend Nyx Hotel. \nThanks Ezgi Hanım and Mehmet Bey for your hospitality and kindness 🙏⭐☀️",
+      "title": "Hospitality, Atmosphere, Elegance and Comfort",
+      "trip_type": "NONE",
+      "travel_date": "2021-07-31",
+      "user": {
+        "username": "Getaway37241947648",
+        "user_location": {
+          "id": "298006",
+          "name": "Izmir, Izmir Province, Turkish Aegean Coast"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ee/10/default-avatar-2020-8.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    }
+  ]
+}

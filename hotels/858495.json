@@ -1,0 +1,259 @@
+{
+  "location_id": "858495",
+  "name": "Amwaj Rotana",
+  "description": "Ideally located along Dubai's famous leisure and retail strip known as \"The Walk\", Jumeirah Beach Residence (JBR), you will experience the height of comfort at Amwaj Rotana Hotel. Presenting a portfolio of 301 tastefully furnished sea view rooms and suites including the prestigious Club Rotana offering lavish personalized hospitality, Amwaj Rotana Hotel boasts the largest rooms along JBR each with its own balcony. With three award-winning restaurants offering Italian, Japanese and international cuisine as well as live entertainment, happy hours, theme nights and more, guests of Amwaj Rotana can expect a fun-filled visit. Recreational diversions on the hotel grounds includes Bodylines Fitness & Wellness Club that comprises of temperature-controlled adults' and kids' swimming pools, a fully-equipped gymnasium, Jacuzzi, steam rooms, sauna and spa. Complimentary WiFi is available in all public areas of the hotel. The hotel benefits from the features around the vicinity such as the recently opened The Beach Mall featuring a children's water park, direct access to Jumeirah Beach, retail and entertainment options as well as the Dubai Tram at Jumeirah Beach Residences 2 station, just a three-minute walk from the hotel. Guests can also enjoy a scenic walk around the Dubai Marina Promenade. Complimentary shuttle service is also available from the hotel to prominent malls in Dubai.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d858495-Reviews-Amwaj_Rotana-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "The Walk, Al Sayorah Street",
+    "street2": "Jumeirah Beach Residence",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "86834",
+    "address_string": "The Walk, Al Sayorah Street Jumeirah Beach Residence, Dubai 86834 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.073702",
+  "longitude": "55.130455",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d858495-Amwaj_Rotana-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#246 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "246"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "6938",
+  "review_rating_count": {
+    "1": "153",
+    "2": "125",
+    "3": "422",
+    "4": "1498",
+    "5": "4740"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "3004",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d858495-m66827-Reviews-Amwaj_Rotana-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Free parking",
+    "Business center",
+    "Paid Wifi",
+    "Paid Internet",
+    "Suites",
+    "Shuttle Bus Service",
+    "Internet",
+    "Kids Activities",
+    "Room service",
+    "Free Internet",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Butler Service",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Additional Bathroom",
+    "Arabic",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Complimentary Instant Cofffee",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Head Massage",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Laptop Safe",
+    "Massage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shoeshine",
+    "Special Diet Menus",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "VIP Room Facilities",
+    "Beach Access"
+  ],
+  "parent_brand": "Rotana Hotel Management Corporation Ltd.",
+  "brand": "Rotana",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Bay View",
+    "Ocean View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620642",
+      "name": "Jumeirah Beach Residence (JBR)"
+    },
+    {
+      "location_id": "7282432",
+      "name": "The Marina"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "619"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "2297"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "323"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "2376"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "671"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

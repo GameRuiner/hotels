@@ -1,0 +1,179 @@
+{
+  "location_id": "1222973",
+  "name": "Tulip Hotel Apartments",
+  "description": "Tulip Hotel Apartments is a standard hotel apartment located in the hub of the commercial district of Bur Dubai, surrounded by banks, bazaars, and shopping malls and just 3 minutes walk away from the Al Fahide Metro Station & the Bus Stations. It offers 154 furnished apartments with a fully-fitted kitchen, refrigerator, washer & dryer, and amenities including internet connection & cable television with satellite channels. Tulip Hotel also provides a fitness center that includes a steam & sauna, a gym, and a swimming pool on the rooftop. (Note: Please note that the availability of the facilities e.g. Sauna & Steam depends on the changing situations.)",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1222973-Reviews-Tulip_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "5-A Street",
+    "street2": "Near Al Fahidi & Burjuman Metro Station",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "114020",
+    "address_string": "5-A Street Near Al Fahidi & Burjuman Metro Station, Dubai 114020 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.255686",
+  "longitude": "55.298306",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1222973-Tulip_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#570 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "570"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "283",
+  "review_rating_count": {
+    "1": "45",
+    "2": "24",
+    "3": "57",
+    "4": "113",
+    "5": "44"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    }
+  },
+  "photo_count": "160",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1222973-m66827-Reviews-Tulip_Hotel_Apartments-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Free parking",
+    "Pool",
+    "Kitchenette",
+    "Wifi",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Microwave",
+    "Refrigerator in room",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Outdoor pool",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Wheelchair access",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Desk",
+    "English",
+    "24-Hour Front Desk",
+    "Oven",
+    "Private Bathrooms",
+    "Telephone",
+    "Urdu",
+    "Wardrobe / Closet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quiet",
+    "Mid-range"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620564",
+      "name": "Al Mankhool"
+    },
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "35"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "59"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "19"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "110"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "29"
+    }
+  ],
+  "awards": []
+}

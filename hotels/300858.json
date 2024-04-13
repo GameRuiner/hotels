@@ -1,0 +1,200 @@
+{
+  "location_id": "300858",
+  "name": "Ege Palas",
+  "description": "The concept of unlimited service... Ege Palas Hotel, which overlooks the unique view of Izmir Bay, offers the ideal options for its guests with an excellent service and hospitable personnel. Ege Palas Hotel, which is located in Alsancak, downtown Izmir, overlooking the unique view of Izmir Bay, offers an exquisite service to its guests with its superb location between the Waterfront (Kordon) and the shopping centres. Ege Palas Hotel, which maintains its stable place among the most prestigious hotels in Izmir with its outstanding service since 1993, attracts attention of local guest along with international guests and business travellers. Every single detail is considered with great care to make its guests feel comfort of their home. Ege Palas accommodates 110 standard rooms, 2 suites, 1 family suite, 1 corner club room, and 2 disabled rooms. All standard rooms been renovated in late 2014. The hotel, which is located only 90 meters from the sea, also offers facilities to its guests who visit Izmir for vacation or business with its banquette halls, as well as its high quality and fully-equipped meeting halls with the capacity of 10-400 people and hosts all sort of private and corporate organizations with a concept of excellent service. Some events organized by Ege Palas Organization Department are; Valentine's Day Celebrations, New Year Balls, Karaoke Nights for private groups, meetings and weddings. The Best Service Ege Palas targets to offer consistent and exclusive service for its guests to make them feel like home. Constant customer satisfaction and continuity are the main principles of Ege Palas.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d300858-Reviews-Ege_Palas-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Cumhuriyet BulvarI No 210",
+    "street2": "Alsancak",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35220",
+    "address_string": "Cumhuriyet BulvarI No 210 Alsancak, Izmir 35220 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.436188",
+  "longitude": "27.141727",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d300858-Ege_Palas-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#26 of 218 hotels in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "218",
+    "ranking": "26"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "308",
+  "review_rating_count": {
+    "1": "13",
+    "2": "15",
+    "3": "56",
+    "4": "129",
+    "5": "95"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "186",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d300858-m66827-Reviews-Ege_Palas-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Restaurant",
+    "Room service",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Bar/Lounge",
+    "Suites",
+    "Free parking",
+    "Public Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Rooftop Bar",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Butler Service",
+    "Breakfast Available",
+    "Parking",
+    "Bath / Shower",
+    "Desk",
+    "English",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Wheelchair access",
+    "Fitness center",
+    "Concierge",
+    "Family Rooms",
+    "Sauna",
+    "Hammam",
+    "Iron",
+    "Ironing Service",
+    "Karaoke",
+    "Massage",
+    "Newspaper",
+    "Salon",
+    "Seating Area",
+    "Secured Parking",
+    "Shoeshine",
+    "Shops",
+    "Steam Room",
+    "Telephone",
+    "Turkish",
+    "Wake Up Service / Alarm Clock"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Classic",
+    "Ocean View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "125"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "61"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "21"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "52"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "31"
+    }
+  ],
+  "awards": []
+}

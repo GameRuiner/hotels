@@ -1,0 +1,304 @@
+{
+  "location_id": "602352",
+  "name": "Blue Beach Tower The Walk JBR",
+  "description": "The luxury of space on Dubai’s iconic beach strip Located on The Walk, Jumeirah Beach Residence, Blue Beach Tower features ultra-spacious 2, 3 and 4-bedroom apartments that provide easy access to both the beach and the city. Each of the 180 apartments feature en-suite bedrooms, expansive kitchens and living spaces, free WiFi and impressive cityscape and sea views. Guests enjoy access to 2 outdoor swimming pools with sun decks, a hot tub, and a kids’ pool with a water slide. The fully equipped gym includes a sauna and a steam room, while the Chill Zone offers games and entertainment for the little ones. Stroll along The Walk Promenade to discover casual dining spots with al fresco areas, cinemas, plenty of retail outlets and novelty shops. Blue Beach Tower is close to golf courses and water parks, with a free shuttle to major shopping malls. The property is about 10 to 15-minutes’ drive from Emirates Golf Club, Ibn Battuta Mall, Mall of the Emirates and Ski Dubai. Dubai Parks and Resorts and other theme parks can be reached in 25 minutes. The hotel is 30 minutes away from Dubai International Airport. Tours can be arranged by our concierge.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d602352-Reviews-Blue_Beach_Tower_The_Walk_JBR-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "The Walk - Jumeirah Beach Residence",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "The Walk - Jumeirah Beach Residence, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.079836",
+  "longitude": "55.136654",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d602352-Blue_Beach_Tower_The_Walk_JBR-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#329 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "329"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "2942",
+  "review_rating_count": {
+    "1": "39",
+    "2": "46",
+    "3": "138",
+    "4": "544",
+    "5": "2175"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1683",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d602352-m66827-Reviews-Blue_Beach_Tower_The_Walk_JBR-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Free Internet",
+    "Kitchenette",
+    "Free Wifi",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Accessible rooms",
+    "Microwave",
+    "Refrigerator in room",
+    "Conference Facilities",
+    "Babysitting",
+    "Non-smoking hotel",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Private Balcony",
+    "Outdoor pool",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Sauna",
+    "Additional Bathroom",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Bottled Water",
+    "Clothes Dryer",
+    "Coffee / Tea Maker",
+    "Dishwasher",
+    "English",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Toiletries",
+    "Gift Shop",
+    "Hair Dryer",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kitchenware",
+    "Newspaper",
+    "Pool / Beach Towels",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shops",
+    "Sofa",
+    "Soundproof Rooms",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Washing Machine",
+    "Kids pool",
+    "Arabic",
+    "Bidet",
+    "Blackout Curtains",
+    "Car Hire",
+    "Express Check-in / Check-out",
+    "Clothes Rack",
+    "Desk",
+    "Dining Area",
+    "Electric Kettle",
+    "Extra Long Beds",
+    "Facial Treatments",
+    "First Aid Kit",
+    "Foot Massage",
+    "French",
+    "24-Hour Front Desk",
+    "Hand Massage",
+    "Head Massage",
+    "Hindi",
+    "Laptop Safe",
+    "Manicure",
+    "Massage",
+    "Neck Massage",
+    "Open-air Bath",
+    "Oven",
+    "Pedicure",
+    "Private Bathrooms",
+    "Private Check-in / Check-out",
+    "Russian",
+    "Salon",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Stovetop",
+    "Tile / Marble Floor",
+    "Urdu",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Family",
+    "Quiet"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620642",
+      "name": "Jumeirah Beach Residence (JBR)"
+    },
+    {
+      "location_id": "7282432",
+      "name": "The Marina"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "118"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "124"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "37"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1929"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "485"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice Best of the Best",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png"
+      },
+      "categories": [
+        "Family"
+      ],
+      "display_name": "Travelers Choice Best of the Best"
+    },
+    {
+      "award_type": "Travelers Choice Best of the Best",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png"
+      },
+      "categories": [
+        "Family"
+      ],
+      "display_name": "Travelers Choice Best of the Best"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

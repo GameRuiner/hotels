@@ -1,0 +1,228 @@
+{
+  "location_id": "1942264",
+  "name": "Kaya Izmir Thermal & Convention",
+  "description": "Kaya hotel features thermal and spa facilities of the region, indoor and outdoor pools and a well-equipped gym .The air-conditioned guest rooms of the Kaya Izmir Thermal & Spa offer contemporary furnishings with flat-screen satellite TV. They all include a seating area and a work desk.A selection of Turkish and international specialties is served at the restaurant of the hotel. Guests can also benefit from an attentive room service.With a jacuzzi, a traditional hammam, sauna and massage facilities, the extensive spa provides an array of facial and body treatments.Kaya Izmir is a 17-minute drive from both the Adnan Menderes International Airport and the Basmane Train Station. Free private parking is available on site.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g1192097-d1942264-Reviews-Kaya_Izmir_Thermal_Convention-Narlidere_Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Ilica Mah. Zeytin Sok. No: 112",
+    "street2": "",
+    "city": "Narlidere",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35320",
+    "address_string": "Ilica Mah. Zeytin Sok. No: 112, Narlidere, Izmir 35320 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Narlidere",
+      "location_id": "1192097"
+    },
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.38652",
+  "longitude": "27.032108",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g1192097-d1942264-Kaya_Izmir_Thermal_Convention-Narlidere_Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "1192097",
+    "ranking_string": "#1 of 3 hotels in Narlidere",
+    "geo_location_name": "Narlidere",
+    "ranking_out_of": "3",
+    "ranking": "1"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1462",
+  "review_rating_count": {
+    "1": "38",
+    "2": "39",
+    "3": "87",
+    "4": "208",
+    "5": "1091"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "618",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g1192097-d1942264-m66827-Reviews-Kaya_Izmir_Thermal_Convention-Narlidere_Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Restaurant",
+    "Pool",
+    "Wheelchair access",
+    "Fitness center",
+    "Internet",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Bar/Lounge",
+    "Spa",
+    "Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Butler Service",
+    "Outdoor pool",
+    "Parking",
+    "Kids Club",
+    "Sauna",
+    "Baggage Storage",
+    "Bridal Suite",
+    "Facial Treatments",
+    "Fitness / Spa Locker Rooms",
+    "24-Hour Front Desk",
+    "Hammam",
+    "Hot Spring Bath",
+    "Ironing Service",
+    "Massage",
+    "Salon",
+    "Steam Room",
+    "Turkish"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Great View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "281"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "245"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "79"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "528"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "219"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

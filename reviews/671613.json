@@ -1,0 +1,324 @@
+{
+  "data": [
+    {
+      "id": 945950866,
+      "lang": "en",
+      "location_id": 671613,
+      "published_date": "2024-04-09T08:47:43Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d671613-r945950866-Reviews-Swissotel_Buyuk_Efes_Izmir-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review945950866",
+      "text": "What an amazing stay!!! This was my second time in Izmir but first time here. The whole experience was incredible. The rooms are lovely and comfy, the staff could not do enough for you, nothing was too much trouble and they were so friendly!! The food was delicious and very well priced. I would highly recommend this hotel!!",
+      "title": "Amazing hotel! Great staff!",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "jamiesJ2221ZL",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/48/default-avatar-2020-15.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 945538568,
+      "lang": "en",
+      "location_id": 671613,
+      "published_date": "2024-04-06T04:42:36Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d671613-r945538568-Reviews-Swissotel_Buyuk_Efes_Izmir-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review945538568",
+      "text": "Great location, excellent Food and most important, amazing services, especially by Ayge & Berke at front desk!\nThe pools facilities are awesome for families! \nBuffet breakfast was outstanding and dinner at Cappri was delightful!\nI highly recommend this hotel!",
+      "title": "Top hotel in Izmir",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "C6001SHlucd",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/43/default-avatar-2020-11.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945669109,
+        "title": "Owner response",
+        "text": "Dear Guest,\nThank you for your feedback.\nYour comments are very important for our team who put a great effort into providing the most quality service. It is an honor to know that we got your appreciation. We will let our colleagues know about your nice comment.\nThanks to those valuable comments our team works even harder to keep our guests satisfied.\nWe would love to see you soon in our hotel again.\nSincerely\nGuest Relations\n",
+        "lang": "en",
+        "author": "Rıza Elibol",
+        "published_date": "2024-04-07T05:20:12Z"
+      }
+    },
+    {
+      "id": 944818722,
+      "lang": "en",
+      "location_id": 671613,
+      "published_date": "2024-04-01T12:43:47Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d671613-r944818722-Reviews-Swissotel_Buyuk_Efes_Izmir-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review944818722",
+      "text": "Housekeeping is very successful and kind. Hafıze was very kind and professional.  The hotel front desk team (reception and valet) is so young and need to know more about property because it took me almost 20 min. to arrive to the spa from my room; I was asking to valet that I met at the corridor and calling to reception\nbut they both gave me wrong directions...anyway, generally all is good",
+      "title": "Good hotel",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "elcinb2020",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f1/42/default-avatar-2020-20.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f1/42/default-avatar-2020-20.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f1/42/default-avatar-2020-20.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f1/42/default-avatar-2020-20.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/42/default-avatar-2020-20.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945430440,
+        "title": "Owner response",
+        "text": "Sayın Elçin Hanım,\nSwissotel Büyük Efes İzmir ‘de gerçekleştirdiğiniz seyahat süresince yaşadıklarınızı dikkatimize sunduğunuz için teşekkür ederiz. \n\nYaşamış olduğunuz olumsuz deneyim ile ilgili ekip üyeleri ile gerçekleştirdiğim görüşme sonucu, aynı durumun ilerleyen tarihlerde, tekrar meydana gelmesini engellemek amacı ile gerekli önlemlerin alındığını bildirmek isterim.\n\nDüşüncelerinizi bildirmek üzere ayırdığınız zamana bir kez daha teşekkür eder, geri bildirimlerinizin, hizmetlerimizin kalitesini sürekli olarak arttırmak için yürüttüğümüz çalışmalarımızın gelişmesi açısından son derece değerli olduğunu belirtmek isteriz.\n\nBir başka seyahatinizde, sizi tekrar Otelimizde ağırlamaktan mutluluk duyacağız.\n\nSaygılarımızla,\nMisafir İlişkileri",
+        "lang": "tr",
+        "author": "Rıza Elibol",
+        "published_date": "2024-04-05T06:37:17Z"
+      }
+    },
+    {
+      "id": 944223219,
+      "lang": "en",
+      "location_id": 671613,
+      "published_date": "2024-03-28T04:28:59Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d671613-r944223219-Reviews-Swissotel_Buyuk_Efes_Izmir-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review944223219",
+      "text": "It was a great experience being with some awesome people \nMs ayşe and MR hunkar were the best \nAll of the staff were perfect 👌 Ms Gozen also was so nice \nThe breakfast was amazing with some nice staff there\nThe service was amazing \nAlso the  LCC was a great membership which Ms buse and Ms selen helped us with \nAll rounded one of the best hotels I've ever stayed at\nHope all the people that I mentioned get what they deserve",
+      "title": "Perfect",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "166iliap",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/d5/default-avatar-2020-17.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944929996,
+        "title": "Owner response",
+        "text": "Dear Mr.İllia,\nThank you for your feedback.\nYour comments are very important for our team who put a great effort into providing the most quality service. It is an honor to know that we got your appreciation. We will let our colleagues know about your nice comment.\nThanks to those valuable comments our team works even harder to keep our guests satisfied.\nWe would love to see you soon in our hotel again.\nSincerely\nGuest Relations\n",
+        "lang": "en",
+        "author": "Rıza Elibol",
+        "published_date": "2024-04-02T09:12:28Z"
+      }
+    },
+    {
+      "id": 943882184,
+      "lang": "en",
+      "location_id": 671613,
+      "published_date": "2024-03-26T08:56:42Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d671613-r943882184-Reviews-Swissotel_Buyuk_Efes_Izmir-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review943882184",
+      "text": "Great property great hospitality\n\n very smooth check in experience. thanks to Mehmet Can\n\nI visit the property every year for business all my stays have been excellent\n\nLocation is quite central \n\nproperty is top notch\n\nI recommend it for both business and leisure travelers",
+      "title": "Great location, top-notch property, professional staff I recommend it for both business & leisure travelers, enjoy Izmir",
+      "trip_type": "Business",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "diashotel",
+        "user_location": {
+          "id": "189509",
+          "name": "Alexandroupoli, Evros Region, East Macedonia and Thrace"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/20/bf/00/8a/diashotel.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/20/bf/00/8a/diashotel.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/20/bf/00/8a/diashotel.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-o/20/bf/00/8a/diashotel.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 944930108,
+        "title": "Owner response",
+        "text": "Dear Guest,\nThank you for your feedback.\nYour comments are very important for our team who put a great effort into providing the most quality service. It is an honor to know that we got your appreciation. We will let our colleagues know about your nice comment.\nThanks to those valuable comments our team works even harder to keep our guests satisfied.\nWe would love to see you soon in our hotel again.\nSincerely\nGuest Relations\n",
+        "lang": "en",
+        "author": "Rıza Elibol",
+        "published_date": "2024-04-02T09:13:19Z"
+      }
+    }
+  ]
+}

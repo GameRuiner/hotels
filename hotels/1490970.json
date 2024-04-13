@@ -1,0 +1,197 @@
+{
+  "location_id": "1490970",
+  "name": "Avenue Hotel",
+  "description": "Located in the heart of Dubai, Avenue Hotel offers air-conditioned rooms with a flat-screen TV. Its rooftop pool features panoramic views of the city. Dubai Airport is just 3.9 km away. The rooms at Avenue Hotel Dubai have a modern décor with warm colors and elegant European furniture. All rooms have a work desk, a minibar, and tea and coffee making facilities. The 24 Seven Manhattan Restaurant offers international buffets for breakfast, lunch and dinner. Guests can enjoy flame-grilled steaks and seafood at The Gold Rush, which has an American Wild West theme. Avenue Hotel’s 24-hour reception can help arrange excursions to Dubai’s main attractions. The hotel also offers a fitness centre, a gift shop, and car rental. The Al Rigga Metro Station is just a few steps away. Shopping Mall Deira City Center is 1.4 km from the hotel whilst the Dubai Creek Golf & Yachtclub is 2.3 km away. Free private parking is available on site.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1490970-Reviews-Avenue_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Rigga Road",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "182244",
+    "address_string": "Al Rigga Road, Dubai 182244 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.262642",
+  "longitude": "55.32615",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1490970-Avenue_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#438 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "438"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "308",
+  "review_rating_count": {
+    "1": "21",
+    "2": "14",
+    "3": "66",
+    "4": "116",
+    "5": "91"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "260",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1490970-m66827-Reviews-Avenue_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Room service",
+    "Restaurant",
+    "Free parking",
+    "Pool",
+    "Internet",
+    "Suites",
+    "Free Internet",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Minibar",
+    "Conference Facilities",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Parking",
+    "Baggage Storage",
+    "English",
+    "24-Hour Front Desk",
+    "Nightclub / DJ",
+    "24-Hour Security",
+    "Taxi Service",
+    "Hot Tub",
+    "Smoking rooms available",
+    "Breakfast Available"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Centrally Located",
+    "Classic"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620569",
+      "name": "Al Muraqqabat"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "76"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "68"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "45"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "51"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "44"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

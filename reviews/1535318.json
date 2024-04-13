@@ -1,0 +1,296 @@
+{
+  "data": [
+    {
+      "id": 945625932,
+      "lang": "en",
+      "location_id": 1535318,
+      "published_date": "2024-04-06T18:26:16Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297549-d1535318-r945625932-Reviews-Pickalbatros_Jungle_Aqua_Park_Neverland_Hurghada-Hurghada_Red_Sea_and_Sinai.html?m=66827#review945625932",
+      "text": "I love this hotel, and I've been 5 times for that water park I can spend all day there. \nRooms are big, and they have double room bunkbeds for the kids' slide door to shut and every 10/20 rooms in a row get there own pools as well as the rest of them so many. 1 is heated during the winter, but there winter is our summer. There are so many food places to choose from in the hotel. They have a cocktail bar for adults they also have a hoy drinks stand for delicious hot chocolate or espresso, etc.\nThe only fact is that it is 25 minutes, drive to Sheraton where all the shops are, but you do have Senzo Mall next to you 5 mins they have McDonald's and KFC and loads of shops but really expensive. They also have an arcade there, but if you take the left, go up the escalatos. There is a lovely restaurant I go to every time. Also, 1 tobacco/alcohol shop. They have a beach where you can get food n drinks. That's it.",
+      "title": "Love it",
+      "trip_type": "Friends getaway",
+      "travel_date": "2023-05-31",
+      "user": {
+        "username": "308missiem",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e5/2b/default-avatar-2020-52.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e5/2b/default-avatar-2020-52.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e5/2b/default-avatar-2020-52.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e5/2b/default-avatar-2020-52.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e5/2b/default-avatar-2020-52.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945696179,
+        "title": "Owner response",
+        "text": "Dear Valued Guest\nThank you very much for the excellent rating you gave to our Jungle Aqua Park hotel.\nWe really appreciate your support and the team will be delighted you have recognized their great efforts. We look forward to having the pleasure of welcoming you to our hotel again very soon, at which time I hope to speak with you and personally ensuring your holiday here in the sunshine will exceed all your expectations.\nKind regards,\nGuest relation Department\nPickalbatros Jungle Aqua park Resort Hotel.\n",
+        "lang": "en",
+        "author": "Jungle Aqua Park Guest Relation",
+        "published_date": "2024-04-07T09:31:35Z"
+      }
+    },
+    {
+      "id": 945547114,
+      "lang": "en",
+      "location_id": 1535318,
+      "published_date": "2024-04-06T06:18:05Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297549-d1535318-r945547114-Reviews-Pickalbatros_Jungle_Aqua_Park_Neverland_Hurghada-Hurghada_Red_Sea_and_Sinai.html?m=66827#review945547114",
+      "text": "Very good resort, for families. \nKids loved the slides, pools and entertainment. \nThe food was good but all in different restaurants, would be better if more choice in one area for the kids. \nInternet wasn't great but good in reception. \nClean also. \nSpa was fantastic",
+      "title": "Family holiday",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "F4605IMashleye",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e7/99/default-avatar-2020-57.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e7/99/default-avatar-2020-57.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e7/99/default-avatar-2020-57.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e7/99/default-avatar-2020-57.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/99/default-avatar-2020-57.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945696124,
+        "title": "Owner response",
+        "text": "Dear Valued Guest\nThank you very much for the excellent rating you gave to our Jungle Aqua Park hotel.\nWe really appreciate your support and the team will be delighted you have recognized their great efforts. We look forward to having the pleasure of welcoming you to our hotel again very soon, at which time I hope to speak with you and personally ensuring your holiday here in the sunshine will exceed all your expectations.\nKind regards,\nGuest relation Department\nPickalbatros Jungle Aqua park Resort Hotel.\n",
+        "lang": "en",
+        "author": "Jungle Aqua Park Guest Relation",
+        "published_date": "2024-04-07T09:31:15Z"
+      }
+    },
+    {
+      "id": 945502524,
+      "lang": "en",
+      "location_id": 1535318,
+      "published_date": "2024-04-05T18:08:22Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297549-d1535318-r945502524-Reviews-Pickalbatros_Jungle_Aqua_Park_Neverland_Hurghada-Hurghada_Red_Sea_and_Sinai.html?m=66827#review945502524",
+      "text": "I came back today after a week here with my son and we had the absolute best time! Our room was lovely and had a pool right outside it.\nIt was our first visit to Egypt,  and I was a little nervous to be going there just the 2 of us, but I felt so safe and welcomed in the resort. There are so many staff, that you couldn't walk further than 4 feet without seeing a worker, but they weren't intrusive in the slightest and were so very friendly. I feel that they take all possible steps to ensure guest safety and enjoyment. The facilities are superb, everything you can  imagine needing for a fun holiday are there. From the huge waterpark to a faux ice rink, a fairground and a fab animation team. The staff were intent to make sure the guests had everything they could possibly want or need, from plenty of whatever it was they chose to drink, to food or in the case of the room staff, plenty of fresh water in the room fridge and a lovely clean room every day. The resort itself was super clean, and throughout the day and night the workers were constantly cleaning up after us messy guests. \nThe pools were very well maintained, with guest safety and enjoyment obviously the priority, with plenty of lifeguards and each pool and slide monitored. I didn't notice a shortage of sun loungers, I did have to wander to find one a couple of times, but there were always some available somewhere and, if I had asked, a staff member would've found me one. \nThe food was very good, there were plenty of restaurants and snack bars to choose from for each meal and we didn't get even get to them all. You could check the  daily menu for each restaurant from the link you're given on check in to help you preplan where to eat during your stay. \nI will definitely go back, we are planning for next Easter. This resort is everything you could want for an amazing time and I can't recommend it enough in all honesty. I give it all the stars and more",
+      "title": "Absolutely fabulous holiday",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "Road31147141708",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e7/7b/default-avatar-2020-56.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e7/7b/default-avatar-2020-56.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e7/7b/default-avatar-2020-56.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e7/7b/default-avatar-2020-56.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/7b/default-avatar-2020-56.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945552308,
+        "title": "Owner response",
+        "text": "Dear Valued Guest\nThank you very much for the excellent rating you gave to our Jungle Aqua Park hotel.\nWe really appreciate your support and the team will be delighted you have recognized their great efforts. We look forward to having the pleasure of welcoming you to our hotel again very soon, at which time I hope to speak with you and personally ensuring your holiday here in the sunshine will exceed all your expectations.\nKind regards,\nGuest relation Department\nPickalbatros Jungle Aqua park Resort Hotel.\n",
+        "lang": "en",
+        "author": "Jungle Aqua Park Guest Relation",
+        "published_date": "2024-04-06T07:15:56Z"
+      }
+    },
+    {
+      "id": 945470333,
+      "lang": "en",
+      "location_id": 1535318,
+      "published_date": "2024-04-05T13:00:58Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297549-d1535318-r945470333-Reviews-Pickalbatros_Jungle_Aqua_Park_Neverland_Hurghada-Hurghada_Red_Sea_and_Sinai.html?m=66827#review945470333",
+      "text": "Having been to Hurghada 12 times over the years and staying in different hotels this one topped them all. Huge resort 3 water parks and a fun fair at night 7pm - 10pm. There’s at least 12 restaurants on the whole resort with no need to reserve as all buffet. Taj was by far the best. The Nepalese chef was superb and even made us something special on our last day..the curry was as good as what you get at an Indian wedding. Entertainment day and night at different parts of hotel. Animation team outstanding. Hotel clean everywhere even pool toilets were emmaculate. Just floor very slippy especially by pools. If I could give it more stars it would be 10.",
+      "title": "Best by far",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Natalina2016",
+        "user_location": {
+          "id": "190762",
+          "name": "Wolverhampton, West Midlands, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1d/93/e7/ce/natalina2016.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1d/93/e7/ce/natalina2016.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1d/93/e7/ce/natalina2016.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1d/93/e7/ce/natalina2016.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1d/93/e7/ce/natalina2016.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945552319,
+        "title": "Owner response",
+        "text": "Dear Valued Guest\nThank you very much for the excellent rating you gave to our Jungle Aqua Park hotel.\nWe really appreciate your support and the team will be delighted you have recognized their great efforts. We look forward to having the pleasure of welcoming you to our hotel again very soon, at which time I hope to speak with you and personally ensuring your holiday here in the sunshine will exceed all your expectations.\nKind regards,\nGuest relation Department\nPickalbatros Jungle Aqua park Resort Hotel.\n",
+        "lang": "en",
+        "author": "Jungle Aqua Park Guest Relation",
+        "published_date": "2024-04-06T07:16:01Z"
+      }
+    },
+    {
+      "id": 945451916,
+      "lang": "en",
+      "location_id": 1535318,
+      "published_date": "2024-04-05T10:11:07Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297549-d1535318-r945451916-Reviews-Pickalbatros_Jungle_Aqua_Park_Neverland_Hurghada-Hurghada_Red_Sea_and_Sinai.html?m=66827#review945451916",
+      "text": "Went for an 11 night stay with my 12 year old daughter.\n\nWe stayed in room 4259 which was perfect for the 2 of us.  Had an amazing time. The place was spotless. Food was great and all the staff even during Ramadan were polite and helpful. The water park is the best we have been to in Egypt.\n\nWe landed back 3am on Wednesday and rebooked to go back for Easter in April 2025 by the Wednesday afternoon. That's how good a holiday we had.\n\nYou really do need to visit the jungle aqua park website to appreciate all it has to offer.",
+      "title": "Best water park in Egypt ",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "L8867PXcraigb",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/17/77/5b/88/craig-b.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/17/77/5b/88/craig-b.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/17/77/5b/88/craig-b.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/17/77/5b/88/craig-b.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/17/77/5b/88/craig-b.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945552333,
+        "title": "Owner response",
+        "text": "Dear Valued Guest\nThank you very much for the excellent rating you gave to our Jungle Aqua Park hotel.\nWe really appreciate your support and the team will be delighted you have recognized their great efforts. We look forward to having the pleasure of welcoming you to our hotel again very soon, at which time I hope to speak with you and personally ensuring your holiday here in the sunshine will exceed all your expectations.\nKind regards,\nGuest relation Department\nPickalbatros Jungle Aqua park Resort Hotel.\n",
+        "lang": "en",
+        "author": "Jungle Aqua Park Guest Relation",
+        "published_date": "2024-04-06T07:16:10Z"
+      }
+    }
+  ]
+}

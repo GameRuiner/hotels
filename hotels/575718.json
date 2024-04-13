@@ -1,0 +1,319 @@
+{
+  "location_id": "575718",
+  "name": "JA Palm Tree Court",
+  "description": "JA The Resort is home to 3 iconic five-star properties; JA Beach Hotel, Dubai’s first resort , JA Lake View Hotel, the lifestyle hub of The Resort and JA Palm Tree Court, a truly serene all-suite beachfront escape.\n\nJA Palm Tree Court (212 rooms):\n\nBoasting 25 restaurants and bars that inspire a culinary journey ranging from award-winning Indian Michelin star chef led Kinara by Vikas Khanna, the very popular White Orchid serving South-East Asian specialties, the Italian signature restaurant and lounge Sette with Sicilian-inspired cuisine to mouth-watering tapas with late-night drinks at Taperia, crafted burgers and over-the-top milkshakes at Smokin’ Gun and Sports Café serving up European pub grub and overlooking the magnificent marina, JA The Resort has guests spoilt for choice.\nWith over 40 incredible activities to thrill all generations, JA The Resort provides a plethora of choices ranging from seven landscaped pools with four swim up bars, a 9-hole, par 35 championship standard golf course with driving range, putting and pitching greens and Leadbetter Golf Academy Dubai, 4 tennis courts and tennis academy, padel tennis, squash and badminton courts, beach volleyball, horse riding stables, mini-golf course, a watersports centre with motorized and non-motorized sports and a private 104-berth full service marina. It also provides 6 shooting ranges, Calm Spa, a bio-garden, a crèche, Just Splash splash park and splash pad, Pirates and Mermaids Kids’ Club and Babysitting service.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d575718-Reviews-JA_Palm_Tree_Court-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Zayed Road",
+    "street2": "Exit 13",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "",
+    "address_string": "Sheikh Zayed Road Exit 13, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "24.987482",
+  "longitude": "55.021893",
+  "timezone": "Asia/Dubai",
+  "phone": "01197148145500",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d575718-JA_Palm_Tree_Court-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#222 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "222"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "6412",
+  "review_rating_count": {
+    "1": "81",
+    "2": "78",
+    "3": "214",
+    "4": "888",
+    "5": "5151"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "4282",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d575718-m66827-Reviews-JA_Palm_Tree_Court-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Free parking",
+    "Beachfront",
+    "Beach Access",
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Suites",
+    "Kids Activities",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Golf course",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Butler Service",
+    "Infinity Pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Additional Bathroom",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Billiards",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Complimentary Tea",
+    "Couples Massage",
+    "Currency Exchange",
+    "Darts",
+    "Diving",
+    "Doorperson",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Gift Shop",
+    "Hair Dryer",
+    "Head Massage",
+    "Hindi",
+    "Horseback Riding",
+    "Indoor Play Area for Children",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Laptop Safe",
+    "Massage",
+    "Mini Golf",
+    "Newspaper",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shops",
+    "Snorkeling",
+    "Special Diet Menus",
+    "Squash",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Kids pool",
+    "Archery",
+    "Archery Off-site",
+    "Badminton",
+    "Body Wrap",
+    "Children's Playground",
+    "Electric Kettle",
+    "Foot Bath",
+    "Free Wifi in the Business Center",
+    "Hand Massage",
+    "Highchairs Available",
+    "Landmark View",
+    "Manicure",
+    "Neck Massage",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Saltwater Pool",
+    "Sofa",
+    "Sofa Bed",
+    "Tennis Court Off-site",
+    "Walk-in Shower",
+    "Water Park Off-site",
+    "Waterslide",
+    "Windsurfing",
+    "Yoga Classes"
+  ],
+  "parent_brand": "JA Resorts & Hotels LLC",
+  "brand": "JA Resorts & Hotels",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Family",
+    "Hidden Gem"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620641",
+      "name": "Jebel Ali"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "102"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1946"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "95"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "3192"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "350"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice Best of the Best",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png"
+      },
+      "categories": [
+        "Family"
+      ],
+      "display_name": "Travelers Choice Best of the Best"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

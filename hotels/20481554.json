@@ -1,0 +1,321 @@
+{
+  "location_id": "20481554",
+  "name": "Th8 Palm Dubai Beach Resort, Vignette Collection",
+  "description": "Five-star luxury beach resort at Palm Jumeirah Dubai offering panoramic view of the Ocean, City skyline and beyond. \nNamed after the 8th phase of the moon, Th8 Palm offers you the opportunity to reconnect with yourself however you wish. The hotel offers self-care fashioned your way from personal shopping and moon gazing to beach lounging and \ndecadent dining. 134 rooms and suites, panoramic skyline views, private beach access, immersive infinity pools, dynamic dining options and an all-day coffee shop.\nLittle touches make a more carefree stay with families in mind including luxurious family suites and kids club. With design nods to the fashion and art deco scene of Miami Beach, hotel programming comes to life through unique partnerships with art institutions for year-round rotating art installations in the hotel’s public spaces. \nSavor an irresistible menu with panoramic views at our Fluid beach club or Envy. Experience locally inspired dishes with heady Middle Eastern flavors.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d20481554-Reviews-Th8_Palm_Dubai_Beach_Resort_Vignette_Collection-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Crescent Road West",
+    "street2": "Palm Jumeirah",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Crescent Road West Palm Jumeirah, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.117588",
+  "longitude": "55.109463",
+  "timezone": "Asia/Dubai",
+  "phone": "18778595102",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d20481554-Th8_Palm_Dubai_Beach_Resort_Vignette_Collection-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#73 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "73"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "1438",
+  "review_rating_count": {
+    "1": "16",
+    "2": "15",
+    "3": "17",
+    "4": "73",
+    "5": "1318"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "2312",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d20481554-m66827-Reviews-Th8_Palm_Dubai_Beach_Resort_Vignette_Collection-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Kids Activities",
+    "Beachfront",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Kitchenette",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Minibar",
+    "Safe",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Butler Service",
+    "Infinity Pool",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Afrikaans",
+    "Arabic",
+    "Baggage Storage",
+    "Bathrobes",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Coffee Shop",
+    "Currency Exchange",
+    "English",
+    "Evening Entertainment",
+    "Extra Long Beds",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Ironing Service",
+    "Kids' Meals",
+    "Nightclub / DJ",
+    "Outdoor Furniture",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Private Check-in / Check-out",
+    "Russian",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shops",
+    "Special Diet Menus",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Wake Up Service / Alarm Clock",
+    "Beach Access",
+    "Public Wifi",
+    "Flatscreen TV",
+    "Pool View",
+    "Tile / Marble Floor",
+    "Valet Parking",
+    "Walk-in Shower"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quaint",
+    "Boutique"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620663",
+      "name": "Palm Jumeirah"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "57"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "404"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "69"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "307"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "464"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

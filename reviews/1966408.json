@@ -1,0 +1,204 @@
+{
+  "data": [
+    {
+      "id": 842354926,
+      "lang": "en",
+      "location_id": 1966408,
+      "published_date": "2022-06-11T04:12:26Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d1966408-r842354926-Reviews-Mini_Fuar_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review842354926",
+      "text": "Convenient location, professional staff, daily housekeeping, great breakfast buffet.\n————————————————————————-\nWe stayed 3 nights and had a really good time. Receptionist spoke good English so we had no problem with communication.",
+      "title": "Good hotel for short visit.",
+      "trip_type": "Couples",
+      "travel_date": "2022-05-31",
+      "user": {
+        "username": "JorgeCZ2014",
+        "user_location": {
+          "id": "274707",
+          "name": "Prague, Bohemia"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/de/e7/default-avatar-2020-37.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/de/e7/default-avatar-2020-37.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/de/e7/default-avatar-2020-37.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/de/e7/default-avatar-2020-37.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/de/e7/default-avatar-2020-37.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 708250257,
+      "lang": "en",
+      "location_id": 1966408,
+      "published_date": "2019-09-09T14:49:28Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d1966408-r708250257-Reviews-Mini_Fuar_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review708250257",
+      "text": "Stayed here ony for 2 nights. The Hotel is situated near the big hospital, you can walk to an amusement park in 5 minutes. \nIt`s not big, the hotel is clean, rooms have everything you need, tecg is working, staff is nice and polite.\nAfter the breakfast we got turkish coffee for free which was especially good. \nThe atmosphare there is nicely kind, it`s also very quiet.",
+      "title": "Nice",
+      "trip_type": "NONE",
+      "travel_date": "2019-08-31",
+      "user": {
+        "username": "shamil_aina",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/3d/default-avatar-2020-55.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 658582391,
+      "lang": "en",
+      "location_id": 1966408,
+      "published_date": "2019-03-15T06:44:13Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d1966408-r658582391-Reviews-Mini_Fuar_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review658582391",
+      "text": "Hotel was nice,budget with decent breakfast ( 07.00-11.00 ).Reception staff kind and helpful.Negative: Next room aircon, unit was in our room balcony creating a lot of noise,since we didnt use ours.The other one is not a hotels problem,but I would like to mentioned is the sign over the nearest metro station Hilal which was very diffical to understant.",
+      "title": "Nice hotel",
+      "trip_type": "Friends getaway",
+      "travel_date": "2019-03-31",
+      "user": {
+        "username": "GreeceYannis",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/04/d0/5c/f4/greeceyannis.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/04/d0/5c/f4/greeceyannis.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/04/d0/5c/f4/greeceyannis.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/04/d0/5c/f4/greeceyannis.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/04/d0/5c/f4/greeceyannis.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Rooms"
+        },
+        "1": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "2": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 626699779,
+      "lang": "en",
+      "location_id": 1966408,
+      "published_date": "2018-10-20T06:49:37Z",
+      "rating": 2,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d1966408-r626699779-Reviews-Mini_Fuar_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review626699779",
+      "text": "Mustafa and Serkan are really the only two positives we can take away from our 6 day stop at this hotel. These two are way way too good for this hotel. Both work tirelessly on reception and can never do enough for you.  The outside and reception area look fine but from there on it gets bad. In fact it gets down right terrible.  The rooms are filthy and the contents such as beds, fridge, wardrobes, shower all belong in a skip. See pics ! Apart from the staff there is no way this even earns a 2 star rating !! Breakfast was mediocre...nothing special but clean and adequate.  The hotel is situated bmore or less central and everything is reachable with a 20-30 min walk or a 5-10 min taxibride.but bevwarned, it is directly opposite a hospital which incurs lots and lots of traffic.  Also, lots of stray cats and dogs walking around.  Again, it's a shame I've had to say these things and the staff deserve such a  better hotel to work with.",
+      "title": "Such a shame!!",
+      "trip_type": "Couples",
+      "travel_date": "2018-10-31",
+      "user": {
+        "username": "118amandaw",
+        "user_location": {
+          "id": "528795",
+          "name": "Barnsley, South Yorkshire, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/28/d6/71/64/caption.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/28/d6/71/64/caption.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/28/d6/71/64/caption.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/28/d6/71/64/caption.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/28/d6/71/64/caption.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 618930189,
+      "lang": "en",
+      "location_id": 1966408,
+      "published_date": "2018-09-23T14:48:54Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d1966408-r618930189-Reviews-Mini_Fuar_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review618930189",
+      "text": "Great little hotel.\nHandy location to major roads and city centre attractions.\nSercan, who checked us into the hotel was fantastic. Couldnt do enough to help. Helped with baggage, directions, arranged hammam for us, ordered taxis, was always friendly when we came through the foyer.\nPricing was good.\nWell appointed room. Good toiletries.\nHad a very nice breakfast included in our room rate.\nHad on street parking directly outside.\nBed was good. Towels were soft.\nFridge in the room.\nOnly two criticisms are that there was a little noise from other rooms and the bathroom was not well cleaned and had hair in it.",
+      "title": "Nice hotel, Fantastic Staff, but bathroom not clean",
+      "trip_type": "Couples",
+      "travel_date": "2018-09-30",
+      "user": {
+        "username": "AndPancho",
+        "user_location": {
+          "id": "255068",
+          "name": "Brisbane, Brisbane Region, Queensland"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/13/09/72/e8/andpancho.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/13/09/72/e8/andpancho.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/13/09/72/e8/andpancho.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/13/09/72/e8/andpancho.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-w/13/09/72/e8/andpancho.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "1": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "2": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    }
+  ]
+}

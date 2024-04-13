@@ -1,0 +1,200 @@
+{
+  "data": [
+    {
+      "id": 915260227,
+      "lang": "en",
+      "location_id": 232792,
+      "published_date": "2023-09-07T01:47:08Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d232792-r915260227-Reviews-Pol_Grace_Hotel-Barcelona_Catalonia.html?m=66827#review915260227",
+      "text": "Small, smelly room and the staff manager is extremely rude and  unpleasant! The prices of the hotel are those of a 4stars but the hotel standards are barely those of a 2stars! I won’t definitely return there and l do not recommend this hotel! They will spoil Barcelona for you! ",
+      "title": "Prices of a 4starts for a less than a 2stars experience!",
+      "trip_type": "Business",
+      "travel_date": "2023-09-30",
+      "user": {
+        "username": "Z2337UHdanielad",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/9f/default-avatar-2020-16.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 919593171,
+        "title": "Owner response",
+        "text": "Good afternoon Daniela,\nThanks for writing us your feedback about your recent stay with us.\nWe would like to clarify for other guests that laundry service, as mentioned on the room directory, has an extra cost. Our surprise was that you did not want to take care of it having an inappropiate behaviour and using bad words. This is just a matter of respect to our staff members and this is something we cannot tolerate.\nWe sincerely regret that this is your perspective of our staff as we work everyday to provide the best service and always looking for our guest’s comfort.\nWe send you greetings of the whole Pol & Grace team.\nJúlia Colet – Team Leader\n",
+        "lang": "en",
+        "author": "Maria Esteve",
+        "published_date": "2023-10-03T08:02:23Z"
+      }
+    },
+    {
+      "id": 892025125,
+      "lang": "en",
+      "location_id": 232792,
+      "published_date": "2023-05-26T10:09:18Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d232792-r892025125-Reviews-Pol_Grace_Hotel-Barcelona_Catalonia.html?m=66827#review892025125",
+      "text": "We highly recommend this place. We were a bit in distress because we had to leave our previous place and Pol & Grace helped us greatly. They were very friendly, very understanding of our situation. The hotel and rooms are clean and we had a very good rest. The reception is nice to work with complimentary tea and coffee. We had a dog and it could stay without any extra charge, which is not common in hotels.\n\nFriendliness goes a long way and Pol & Grace really delivers on that! Thank you!",
+      "title": "Very friendly staff in a clean and pleasant hotel",
+      "trip_type": "Couples",
+      "travel_date": "2023-05-31",
+      "user": {
+        "username": "janjT3652PH",
+        "user_location": {
+          "id": "186338",
+          "name": "London, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/4a/default-avatar-2020-42.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/4a/default-avatar-2020-42.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/4a/default-avatar-2020-42.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/4a/default-avatar-2020-42.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/4a/default-avatar-2020-42.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 925004884,
+        "title": "Owner response",
+        "text": "Thank you very much for this great review 😊 There is nothing more satisfying than knowing that we were able to take care of you well and leave with such a memorable impression. Your recognition is the best reward for our staff who work day after day to offer you an impeccable service. It will be an honor for us to receive you once again in the near future.\nWarm regards,\nJúlia Colet - Team Leader",
+        "lang": "en",
+        "author": "Júlia Colet",
+        "published_date": "2023-11-08T06:30:18Z"
+      }
+    },
+    {
+      "id": 891097384,
+      "lang": "en",
+      "location_id": 232792,
+      "published_date": "2023-05-20T04:35:22Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d232792-r891097384-Reviews-Pol_Grace_Hotel-Barcelona_Catalonia.html?m=66827#review891097384",
+      "text": "I couldn’t recommend Pol and Grace highly enough, this hotel has everything you need and more to comfortably accommodate a city break. \n\nThe hotel is in a perfect location within a minutes walk to the metro station that connects you to La Rambla, also within walking distance to Park Guell which was a nice surprise! We travelled from the airport to the hotel via public transport and found this to be easy enough.\n\nThe staff are all lovely, a big thank you to the gent on reception who provided us with some fantastic bar recommendations and the fantastic ladies who helped us book a taxi when we required one.\n\nThe rooms are fantastic and with a real clean and modern feel, the beds are ginormous!! But very comfortable with a powerful shower in the bathroom which is always appreciated. \n\nThank you to the Pol and Grace team for making our stay so comfortable, we will be back ! 😊",
+      "title": "City break",
+      "trip_type": "Couples",
+      "travel_date": "2023-05-31",
+      "user": {
+        "username": "hannahlcuise",
+        "user_location": {
+          "id": "2640729",
+          "name": "Sandhurst, Berkshire, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/21/88/5b/6c/hannahlcuise.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/21/88/5b/6c/hannahlcuise.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/21/88/5b/6c/hannahlcuise.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/21/88/5b/6c/hannahlcuise.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/21/88/5b/6c/hannahlcuise.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 888722738,
+      "lang": "en",
+      "location_id": 232792,
+      "published_date": "2023-05-02T15:24:46Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d232792-r888722738-Reviews-Pol_Grace_Hotel-Barcelona_Catalonia.html?m=66827#review888722738",
+      "text": "Stayed at this hotel for around 6 nights and it was a great stay. The location is great being close to several metro/subway/bus stations (closest is less than 5 minute walk and the farthest around 10 minutes). The hotel looks new and the facilities are fine; the room and bathroom are a good size and beds/pillows were comfy. Our room was on the 2nd floor, quite, no view obviously but the doors are a bit heavy and they shut down aggressively so if you’re a light sleeper like me, make sure to take your ear plugs as to not wake up on ever door shut. \nBreakfast was fine, nothing special, same thing repeats everyday but it has all the basics (Croissant are gooood!)\nThe staff are amazing and super helpful. My parents had an issue with their AC and the 2 ladies at reception did everything they could (at 2 am!) to move them to a better room (special thanks to you girls, unfortunately didn’t get to know your names :/ but you know who you are👏)\nI’d definitely stay at Pol & Grace hotel again!",
+      "title": "A Great Choice",
+      "trip_type": "Family",
+      "travel_date": "2023-04-30",
+      "user": {
+        "username": "HISKANDARANI",
+        "user_location": {
+          "id": "293986",
+          "name": "Amman, Amman Governorate"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ea/2e/default-avatar-2020-67.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 880730651,
+      "lang": "en",
+      "location_id": 232792,
+      "published_date": "2023-03-02T14:03:53Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d232792-r880730651-Reviews-Pol_Grace_Hotel-Barcelona_Catalonia.html?m=66827#review880730651",
+      "text": "A very nice and clean hotel in a good and safe location.  We stayed in a triple too big enough for 3 people.\n\nThe staff was very attentive and always happy to help. \n\nI deeply recommend it and I would definitely go back.\n\n",
+      "title": "Lovely experience",
+      "trip_type": "Friends getaway",
+      "travel_date": "2023-02-28",
+      "user": {
+        "username": "176ariannaz",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/16/9c/6e/39/caption.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/16/9c/6e/39/caption.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/16/9c/6e/39/caption.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/16/9c/6e/39/caption.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "id": 860886186,
+      "lang": "en",
+      "location_id": 23620265,
+      "published_date": "2022-09-19T09:28:30Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d23620265-r860886186-Reviews-Juliet_Alacati-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review860886186",
+      "text": "The location was very convenient, close to the market and a big parking lot. The service and stuff were super friendly and accommodating. The rooms where tidy and clean and the whole place really stood out among the few places that we visited. Isfeher took care of us and made it feel like home. She is a superwoman in disguise. Thank you!",
+      "title": "Made our vacation in Alaçati fun. ",
+      "trip_type": "Couples",
+      "travel_date": "2022-09-30",
+      "user": {
+        "username": "smanvan",
+        "user_location": {
+          "id": "152515",
+          "name": "Cabo San Lucas, Los Cabos, Baja California"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/a3/default-avatar-2020-38.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 853262920,
+      "lang": "en",
+      "location_id": 23620265,
+      "published_date": "2022-08-10T12:59:31Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d23620265-r853262920-Reviews-Juliet_Alacati-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review853262920",
+      "text": "We had such a warm welcome into the hotel by sitting by the pool with cold drink and stuff members introducing themselves. The management, Emre, is a lovely, caring and trustful person. He really made us feel comfortable around the hotel and they all made us feel like home. All the guests in the hotel are really friendly, we became friends with everyone. Everyone in the hotel is positive and smiling. The hotel is very well presented and very clean. The rooms were very big which we were 3 girls and had 2 double beds. The security of the hotel is very good, as they have someone on site all the time. Emre helped us so much with taxi and giving us suggestions on where to visit in Alacati. Location of the hotel was 2 mins by walk to alacati centre. We went to beach clubs, clubbing and evening restaurants which were 10 mins by drive. Such a perfect location!  I also enjoyed sitting by the pool and chilling, which was being cleaned every evening. The breakfast was very delicious with a variety of fresh and organic jams, salads, pastry’s, egg and many more. Oh, can’t miss out that Emre speaks very well English which is very important for foreigners coming to Alacati. I would like to say a massive thank you Juliet Hotel for everything! Really enjoyed our week there. 😊 We left the hotel with a smile on our face and was always upset wishing we stayed longer.",
+      "title": "Best Hotel in Alacati!!!",
+      "trip_type": "Friends getaway",
+      "travel_date": "2022-08-31",
+      "user": {
+        "username": "melisk5969",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e9/60/default-avatar-2020-64.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e9/60/default-avatar-2020-64.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e9/60/default-avatar-2020-64.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e9/60/default-avatar-2020-64.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e9/60/default-avatar-2020-64.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

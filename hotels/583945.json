@@ -1,0 +1,173 @@
+{
+  "location_id": "583945",
+  "name": "Rolla Residence",
+  "description": "See why so many travelers make Rolla Residence their hotel of choice when visiting Dubai. Providing an ideal mix of value, comfort and convenience, it offers a family-friendly setting with an array of amenities designed for travelers like you.\nFor those interested in checking out popular landmarks while visiting Dubai, Rolla Residence Dubai is located a short distance from Dubai Frame (1.5 mi) and Dream Journey (1.8 mi).\nRolla Residence Hotel offers guests an array of room amenities including a flat screen TV, air conditioning, and a refrigerator, and getting online is possible, as free wifi is available.\nThe hotel offers room service, to make your visit even more pleasant. The property also features a pool and an on-site restaurant. Guests arriving by vehicle have access to free parking.\nDuring your visit, be sure to check out one of Dubai's popular shrimp restaurants such as The Cheesecake Factory, Al Dawaar, and Zuma, all a short distance from Rolla Residence.\nShould time allow, Dubai Creek, Grand Mosque, and Meena Bazaar are some popular attractions that are within walking distance.\nAt Rolla Residence, your comfort and satisfaction come first, and they look forward to welcoming you to Dubai.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d583945-Reviews-Rolla_Residence-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Rolla Road",
+    "street2": "Behind Al Khaleej Center Dubai",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "126",
+    "address_string": "Al Rolla Road Behind Al Khaleej Center Dubai, Dubai 126 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.25689",
+  "longitude": "55.292763",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d583945-Rolla_Residence-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#473 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "473"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "179",
+  "review_rating_count": {
+    "1": "12",
+    "2": "8",
+    "3": "29",
+    "4": "84",
+    "5": "46"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "95",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d583945-m66827-Reviews-Rolla_Residence-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Fitness center",
+    "Internet",
+    "Free parking",
+    "Kitchenette",
+    "Free Wifi",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Air conditioning",
+    "Microwave",
+    "Refrigerator in room",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Kids Activities",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Wheelchair access",
+    "Restaurant",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Family Rooms",
+    "Outdoor pool"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Mid-range",
+    "Centrally Located"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620595",
+      "name": "Al Raffa"
+    },
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "24"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "45"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "20"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "58"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "16"
+    }
+  ],
+  "awards": []
+}

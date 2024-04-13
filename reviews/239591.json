@@ -1,0 +1,274 @@
+{
+  "data": [
+    {
+      "id": 945720829,
+      "lang": "en",
+      "location_id": 239591,
+      "published_date": "2024-04-07T12:40:14Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d239591-r945720829-Reviews-Leonardo_Hotel_Barcelona_Las_Ramblas-Barcelona_Catalonia.html?m=66827#review945720829",
+      "text": "Great location, just two side streets from Las Ramblas and the Boqueria (food market).  Arrived early to a warm welcome, and able to go straight to our room. \nGreat comfortable family sized room, (Deluxe), water and coffee machine in room.   \nLovely continental breakfast, great service and food quality.  Children loved it.\nSmall pool on roof, plenty of space to sunbathe and a pool bar.",
+      "title": "Perfect for family trip to Barcelona",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "susanpell",
+        "user_location": {
+          "id": "2079053",
+          "name": "Disneyland Paris, Ile-de-France"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/b8/default-avatar-2020-26.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 943925100,
+      "lang": "en",
+      "location_id": 239591,
+      "published_date": "2024-03-26T15:15:49Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d239591-r943925100-Reviews-Leonardo_Hotel_Barcelona_Las_Ramblas-Barcelona_Catalonia.html?m=66827#review943925100",
+      "text": "Just home from a 3 night stay at Leonardo hotel. It was a great choice, easy to find, fast and friendly check in, very comfy bed, room was cleaned every day. Good breakfast times. Roof top terrace and plunge pool great. Easy for the metro, las Ramblas and gothic centre. Will definitely stay again when next visit.",
+      "title": "Made the right choice",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "K1996CAsueh",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ed/7b/default-avatar-2020-6.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ed/7b/default-avatar-2020-6.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ed/7b/default-avatar-2020-6.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ed/7b/default-avatar-2020-6.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ed/7b/default-avatar-2020-6.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944272845,
+        "title": "Owner response",
+        "text": "Dear guest,\n\nWe appreciate your comments about the quality, service, staff and the rooms in general. We will transmit your comments to our entire team who always appreciate words of praise.\nThank you so much!!\n\nLeonardo Hotel Barcelona Las Ramblas\n",
+        "lang": "en",
+        "author": "Leonardo Hotels",
+        "published_date": "2024-03-28T12:33:21Z"
+      }
+    },
+    {
+      "id": 939854990,
+      "lang": "en",
+      "location_id": 239591,
+      "published_date": "2024-02-26T09:03:44Z",
+      "rating": 5,
+      "helpful_votes": 2,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d239591-r939854990-Reviews-Leonardo_Hotel_Barcelona_Las_Ramblas-Barcelona_Catalonia.html?m=66827#review939854990",
+      "text": "City hotels can be very small and worn. We arrived to the hotel which was located 5 minutes from the Metro. The staff was super friendly and helpful. Checking in was fast and without any problems. Our room was clean and relatively spacious for a city hotel. We were welcomed by a bottle of red wine, coffee machine, bottled water and fresh fruit. It was a lovely surprise.\nThe room was cleaned very nicely daily.\nIf we were to come back to Barcelona we would chose this hotel again.",
+      "title": "Great location and quality",
+      "trip_type": "Couples",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "943adrienneh",
+        "user_location": {
+          "id": "528783",
+          "name": "Kidderminster, Worcestershire, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/de/e7/default-avatar-2020-37.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/de/e7/default-avatar-2020-37.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/de/e7/default-avatar-2020-37.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/de/e7/default-avatar-2020-37.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/de/e7/default-avatar-2020-37.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 939945286,
+        "title": "Owner response",
+        "text": "Dear customer,\n\nWe appreciate your comments about the quality, service, staff and the rooms in general. We will transmit your comments to our entire team who always appreciate words of praise.\nThank you very very much!!!\n\nLeonardo Hotel Barcelona Las Ramblas\n",
+        "lang": "en",
+        "author": "Leonardo Hotels",
+        "published_date": "2024-02-27T03:42:23Z"
+      }
+    },
+    {
+      "id": 938286128,
+      "lang": "en",
+      "location_id": 239591,
+      "published_date": "2024-02-14T13:39:43Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d239591-r938286128-Reviews-Leonardo_Hotel_Barcelona_Las_Ramblas-Barcelona_Catalonia.html?m=66827#review938286128",
+      "text": "Lovely hotel. On a street just off Las Ramblas conveniently located close to la boqueria Market, Las ramblas and transport connections. Just minutes walk away from Las ramblas.\nBreakfast was really nice good selection, all fresh and lots of choice. We didn't try any evening meals or the bar as there's so many restaurants and bars in the city centre. \nRoom was perfect we were a family of 4 and it was really spacious with a balcony. \nRoom was spotless and was cleaned everyday. \nStaff were really friendly and so helpful with directions when we asked. Check in and check out was efficient.\nWould recommend this hotel to anyone and would stay again 100%.",
+      "title": "Fantastic location perfect for  3 night stay",
+      "trip_type": "Family",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "Cl4ire564",
+        "user_location": {
+          "id": "186470",
+          "name": "Belfast, Northern Ireland"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e4/2d/default-avatar-2020-48.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e4/2d/default-avatar-2020-48.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e4/2d/default-avatar-2020-48.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e4/2d/default-avatar-2020-48.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e4/2d/default-avatar-2020-48.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 938379396,
+        "title": "Owner response",
+        "text": "Dear Claire,\n\nThank you for choosing our establishment for your last stay in Barcelona and for your positive assessment. Your comments about our location, service and quality, are the best reward and encouragement to continue making our guests' stay an unforgettable experience.\nThank you so much!!\n\nLeonardo Hotel Barcelona Las Ramblas ",
+        "lang": "en",
+        "author": "Leonardo Hotels",
+        "published_date": "2024-02-15T08:45:21Z"
+      }
+    },
+    {
+      "id": 937677317,
+      "lang": "en",
+      "location_id": 239591,
+      "published_date": "2024-02-10T16:51:22Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d239591-r937677317-Reviews-Leonardo_Hotel_Barcelona_Las_Ramblas-Barcelona_Catalonia.html?m=66827#review937677317",
+      "text": "Excellent staff! Attentive. Friendly! Even though the property needs an update. It’s all top level because the staff is clearly appreciated helping when needed. \n\nA bit concerned about some of the security given the danger in the area - which is sadly legit. Don’t walk back alone after 11;00.\n\nRegardless- the staff and property are very good. Some of the best I’ve come across in the EU.",
+      "title": "EXCELLENT STAFF!!! Be careful in the are - but the staff is as good as it gets.",
+      "trip_type": "Business",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "mansfieldkelly",
+        "user_location": {
+          "id": "189158",
+          "name": "Lisbon, Lisbon District, Central Portugal"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/2b/32/20/c4/mansfieldkelly.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/2b/32/20/c4/mansfieldkelly.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/2b/32/20/c4/mansfieldkelly.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/2b/32/20/c4/mansfieldkelly.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/2b/32/20/c4/mansfieldkelly.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 937945973,
+        "title": "Owner response",
+        "text": "Dear guest,\n\nThank you for choosing our establishment for your last stay in Barcelona and for your super positive assessment. Your comments about our location, service, staff and quality, are the best reward and encouragement to continue making our guests' stay an unforgettable experience.\nTHANK YOU VERY MUCH!!\n\nLeonardo Hotel Barcelona Las Ramblas\n",
+        "lang": "en",
+        "author": "Leonardo Hotels",
+        "published_date": "2024-02-13T03:46:36Z"
+      }
+    }
+  ]
+}

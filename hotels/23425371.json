@@ -1,0 +1,281 @@
+{
+  "location_id": "23425371",
+  "name": "ME Barcelona",
+  "description": "ME Barcelona es el nuevo epicentro cultural de la ciudad condal en el que vivir una experiencia exclusiva, personalizada e inmersiva. Conoce lo último en arte, diseño, música y moda; conecta con tu lado más creativo e inspírate con la visión más contemporánea de la ciudad.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d23425371-Reviews-ME_Barcelona-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Carrer Casp 1-13",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08010",
+    "address_string": "Carrer Casp 1-13, 08010 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.396294",
+  "longitude": "2.179692",
+  "timezone": "Europe/Madrid",
+  "phone": "19292071033",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d23425371-ME_Barcelona-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#27 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "27"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "202",
+  "review_rating_count": {
+    "1": "2",
+    "2": "1",
+    "3": "8",
+    "4": "13",
+    "5": "178"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "340",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d23425371-m66827-Reviews-ME_Barcelona-Barcelona_Catalonia.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Pets Allowed",
+    "Free Wifi",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Banquet Room",
+    "Air conditioning",
+    "Minibar",
+    "Safe",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Housekeeping",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Catalan",
+    "24-Hour Check-in",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Doorperson",
+    "English",
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Concierge",
+    "Family Rooms",
+    "Accessible rooms",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Heated pool",
+    "Flatscreen TV",
+    "Poolside Bar",
+    "Butler Service",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Electric vehicle charging station",
+    "Blackout Curtains",
+    "Body Wrap",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "Express Check-in / Check-out",
+    "Children's Television Networks",
+    "Clothes Rack",
+    "Coffee Shop",
+    "Couples Massage",
+    "Currency Exchange",
+    "Extra Long Beds",
+    "Facial Treatments",
+    "First Aid Kit",
+    "Foot Massage",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "Complimentary Welcome Drink",
+    "Free Wifi in the Business Center",
+    "Free Wired Internet in the Business Center",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Hair Dryer",
+    "Hand Massage",
+    "Head Massage",
+    "Highchairs Available",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Italian",
+    "Landmark View",
+    "Laptop Safe",
+    "Massage",
+    "Neck Massage",
+    "On-Demand Movies",
+    "Outdoor Dining Area",
+    "Outdoor Furniture",
+    "Personal Trainer",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Portuguese",
+    "Private Bathrooms",
+    "Private Check-in / Check-out",
+    "Paid Public Parking Nearby",
+    "Paid Public Parking On-site",
+    "24-Hour Security",
+    "Shallow End",
+    "Shoeshine",
+    "Soundproof Rooms",
+    "Spanish",
+    "Special Diet Menus",
+    "Sun Deck",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Umbrella",
+    "Valet Parking",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Wine / Champagne",
+    "Yoga Classes"
+  ],
+  "parent_brand": "Melia Hotels International",
+  "brand": "ME by Melia",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quaint",
+    "City View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230970",
+      "name": "Eixample"
+    },
+    {
+      "location_id": "15565883",
+      "name": "El Fort Pienc"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "18"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "91"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "7"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "29"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "23"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

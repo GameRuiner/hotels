@@ -1,0 +1,280 @@
+{
+  "data": [
+    {
+      "id": 945221766,
+      "lang": "en",
+      "location_id": 13437023,
+      "published_date": "2024-04-03T11:16:17Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d13437023-r945221766-Reviews-Barcelo_Residences_Dubai_Marina-Dubai_Emirate_of_Dubai.html?m=66827#review945221766",
+      "text": "An Oasis in the Heart of Dubai!My stay at Barceló Residences Dubai Marina was nothing short of exceptional. Nestled amidst the vibrant skyline of Dubai, this luxurious accommodation offers the perfect blend of city living and seaside charm. The apartments are spacious, elegant, and equipped with all the amenities one could ask for. The outdoor pool and hot tub provide a relaxing retreat after a day of exploring the nearby attractions, including the iconic Palm Jumeirah and the bustling Walk. With its convenient location and impeccable service, Barceló Residences Dubai Marina is truly the ideal choice for a memorable holiday with family, friends, or that special someone. Can't wait to return!",
+      "title": "Oasis in the heart of Marina",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "richardleise",
+        "user_location": {
+          "id": "1087412",
+          "name": "Veenendaal"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/23/c3/b2/5d/richardleise.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/23/c3/b2/5d/richardleise.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/23/c3/b2/5d/richardleise.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/23/c3/b2/5d/richardleise.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/23/c3/b2/5d/richardleise.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945663117,
+        "title": "Owner response",
+        "text": "Dear Guest, \n\nThank you very much for your kind feedback.\n\nWe are thrilled to hear that you found Barceló Residences Dubai Marina to be your oasis amidst the vibrant cityscape. It brings us great joy to know that our spacious and elegant apartments provided you with the comfort and amenities you desired. \n\nYour appreciation for the serene retreat of our outdoor pool and hot tub after a day of adventure in Dubai is much valued. We are also delighted that our location served as a convenient gateway to the city's iconic attractions like Palm Jumeirah and The Walk.\n\nWe look forward to welcoming you back for another memorable experience.\n\nBest wishes,\n\nChristopher Ngugi\n\nGuest Relations.",
+        "lang": "en",
+        "author": "Hotel- cmanager",
+        "published_date": "2024-04-07T04:20:17Z"
+      }
+    },
+    {
+      "id": 943398500,
+      "lang": "en",
+      "location_id": 13437023,
+      "published_date": "2024-03-22T13:09:07Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d13437023-r943398500-Reviews-Barcelo_Residences_Dubai_Marina-Dubai_Emirate_of_Dubai.html?m=66827#review943398500",
+      "text": "All the services were so kind and friendly, that we felt very good, location of the residence is really good position since it’s near to the JBR and 10-15 min walk to train and trams, which is very convenient to reach other popular places. We ‘ve stayed with family so to have kitchen at the apartment was good decision since our parents(elderly person) can’t eat food from outside everyday.",
+      "title": "While my trip",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "yerimbet98",
+        "user_location": {
+          "id": "298251",
+          "name": "Almaty"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/de/e7/default-avatar-2020-37.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/de/e7/default-avatar-2020-37.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/de/e7/default-avatar-2020-37.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/de/e7/default-avatar-2020-37.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/de/e7/default-avatar-2020-37.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 943717086,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nThank you for taking the time to review your stay.\n\nWe are delighted that you had such a memorable stay with us and appreciate your kind comments about our team who work hard to ensure that we deliver the best service and always meet your expectations.\n\nIt's delightful to hear that you found our location convenient for exploring the local attractions and the kitchen facilities well-suited for your family's needs. \n\nWe're also glad that the proximity to public transport added to the ease of your visit. We are very pleased to read that you did like the room we accommodated you in and that you found it to be clean and comfortable at all times.\n\nWe look forward to welcoming you back in the future.\n\n Best wishes,\n\nChristopher Ngugi\n\nGuest Relations.",
+        "lang": "en",
+        "author": "Hotel- cmanager",
+        "published_date": "2024-03-25T03:48:57Z"
+      }
+    },
+    {
+      "id": 942469081,
+      "lang": "en",
+      "location_id": 13437023,
+      "published_date": "2024-03-16T01:57:11Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d13437023-r942469081-Reviews-Barcelo_Residences_Dubai_Marina-Dubai_Emirate_of_Dubai.html?m=66827#review942469081",
+      "text": " The staff is very warm and friendly. Apartment on the 15-th floor is clean, nice view at the Marina Bay which is on 5 minutes walking and also the beach at 500 meters. Nice restaurants near the building ",
+      "title": "Very good vacation.",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "ionuzali",
+        "user_location": {
+          "id": "304064",
+          "name": "Ploiesti, Prahova County, Southern Romania"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/59/default-avatar-2020-24.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/59/default-avatar-2020-24.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/59/default-avatar-2020-24.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/59/default-avatar-2020-24.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/59/default-avatar-2020-24.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 942736142,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nThank you for taking the time to review your stay.\n\nWe are thrilled to hear that you enjoyed your stay at our property, particularly the warm and friendly service provided by our team, the cleanliness of your apartment, and the stunning views of Marina Bay. \n\nIt's great to know our proximity to the beach and nearby restaurants added value to your stay. Your appreciation for the room quality, location, and overall service truly means a lot to us.\n\nWe're also pleased that you found the sleep quality to your satisfaction, ensuring a restful experience during your vacation.\n\nThe entire team look forward to welcoming you back for a future visit.\n\nBest regards,\n\nChristopher Ngugi\n\nGuest Relations.",
+        "lang": "en",
+        "author": "Hotel- cmanager",
+        "published_date": "2024-03-18T04:43:08Z"
+      }
+    },
+    {
+      "id": 942208729,
+      "lang": "en",
+      "location_id": 13437023,
+      "published_date": "2024-03-13T16:33:09Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d13437023-r942208729-Reviews-Barcelo_Residences_Dubai_Marina-Dubai_Emirate_of_Dubai.html?m=66827#review942208729",
+      "text": "Stayed here with two little kids with my husband while he was on business. Really great place for families because the apartments are really spacious and there’s a full kitchen with everything you need. The best part was the staff, always kind and helpful, especially the security guys when I needed to get in and out of taxis with a double stroller and two littles. Topher should also be mentioned, he brought my phone directly up to me when I left it downstairs at reception and didn’t even realize. The cleaning staff also great because they always restocked bottles of water each was nice.",
+      "title": "Family-friendly and kind staff j",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "JasmineM354",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/07/70/68/e6/jasmine-m.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/07/70/68/e6/jasmine-m.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/07/70/68/e6/jasmine-m.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/07/70/68/e6/jasmine-m.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/07/70/68/e6/jasmine-m.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 942736123,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nThank you for your positive feedback.\n\nWe're delighted to hear that our spacious apartments were well-suited for your family's needs and that the full kitchen added convenience to your stay. \n\nIt's also rewarding to know that our staff, especially Topher and the security team, provided you with exemplary service, ensuring a hassle-free experience with your little ones and promptly returning your forgotten phone. Our housekeeping team is dedicated to maintaining a comfortable environment, and we're glad that the additional touches, such as restocking water bottles, were appreciated.\n\nWe look forward to welcoming you back on a future occasion.\n\nBest wishes,\n\nChristopher Ngugi\n\nGuest Relations.",
+        "lang": "en",
+        "author": "Hotel- cmanager",
+        "published_date": "2024-03-18T04:42:57Z"
+      }
+    },
+    {
+      "id": 940424776,
+      "lang": "en",
+      "location_id": 13437023,
+      "published_date": "2024-03-01T07:50:01Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d13437023-r940424776-Reviews-Barcelo_Residences_Dubai_Marina-Dubai_Emirate_of_Dubai.html?m=66827#review940424776",
+      "text": "Great location as you could walk to the beach and restaurants.  We stayed on the 29th floor in a one bedroom apartment.  Perfect as you got a good nights sleep, no noise from building works or traffic.  Apartment was really clean and had 2 bathrooms which was great.  I was there with my husband.  Bed so comfortable. Staff really nice and helpful.. My daughter who lives in Dubai was also able to stay a few nights and park her car in hotel car park free of charge.  Thanks for a great holiday. I would highly recommend.",
+      "title": "Lovely Hotel and great Location.",
+      "trip_type": "Couples",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "Tourist320710",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/d5/default-avatar-2020-17.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 940626938,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nThank you for taking the time to review your stay.\n\nWe're delighted to hear that the tranquil ambiance of our one-bedroom apartment on the 29th floor provided you with a restful night's sleep, free from any external noise. It's great to know that the cleanliness of your apartment met your expectations and that the convenience of two bathrooms added to the comfort of your stay. \n\nYour kind words about our team's service are truly appreciated and we're thrilled they could contribute to a memorable holiday for you and your husband. Furthermore, it's lovely to learn that the complimentary parking was beneficial for your daughter during her visit.\n\nThe entire team looks forward to welcoming you back for a future visit.\n\nBest wishes,\n\nChristopher Ngugi\n\nGuest Relations.",
+        "lang": "en",
+        "author": "Hotel- cmanager",
+        "published_date": "2024-03-03T03:04:29Z"
+      }
+    }
+  ]
+}

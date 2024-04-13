@@ -1,0 +1,229 @@
+{
+  "location_id": "5039858",
+  "name": "DoubleTree by Hilton Hotel and Residences Dubai Al Barsha",
+  "description": "Set in the vibrant Al Barsha area - Dubai’s world-class shopping, entertainment and dining hub, the contemporary DoubleTree by Hilton Hotel & Residences Dubai – Al Barsha is located just behind the Mall of The Emirates and is only 30 minutes from Dubai Airport (DXB) and 15 minutes from numerous major business areas. Golf lovers will appreciate the hotel's close proximity to two world-renowned Dubai golf courses. A complimentary shuttle service runs from the hotel to Jumeirah Beach and the Mall of The Emirates. Enjoy spacious accommodations, modern facilities and a warm welcome when you stay at our stylish, full-service Dubai hotel. You will even be greeted with a signature DoubleTree chocolate chip cookie when you check-in.All of the stylish, air-conditioned guest rooms at this Dubai hotel offer a variety of amenities, including an elegant bathroom, a mini-bar, a 42-inch TV, WiFi and an MP3 alarm clock. Upgrade to a suite or a one or two-bedroom apartment for additional space and features. Work out in the complimentary 24-hour fitness center overlooking the sparkling outdoor pool. Enjoy breakfast in the All-Day Dining Restaurant, serving international cuisine with both buffet and a la carte options. Savor Indian specialties prepared in an exciting show kitchen in our Indian Restaurant and unwind in our relaxed Lobby Lounge. With three flexible meeting rooms, a 24-hour business center and a dedicated events team, our Dubai hotel is perfect for a successful conference.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d5039858-Reviews-DoubleTree_by_Hilton_Hotel_and_Residences_Dubai_Al_Barsha-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Barsha Road",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Al Barsha Road, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.114738",
+  "longitude": "55.20111",
+  "timezone": "Asia/Dubai",
+  "phone": "01197143750999",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d5039858-DoubleTree_by_Hilton_Hotel_and_Residences_Dubai_Al_Barsha-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#389 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "389"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "2075",
+  "review_rating_count": {
+    "1": "91",
+    "2": "77",
+    "3": "209",
+    "4": "664",
+    "5": "1034"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1155",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d5039858-m66827-Reviews-DoubleTree_by_Hilton_Hotel_and_Residences_Dubai_Al_Barsha-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Paid Internet",
+    "Free parking",
+    "Meeting rooms",
+    "Fitness center",
+    "Room service",
+    "Kitchenette",
+    "Concierge",
+    "Multilingual Staff",
+    "Pool",
+    "Shuttle Bus Service",
+    "Suites",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Business center",
+    "Laundry Service",
+    "Banquet Room",
+    "Self-Serve Laundry",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Parking",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Kids Stay Free",
+    "Sauna",
+    "Electric vehicle charging station",
+    "Arabic",
+    "Baggage Storage",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Coffee Shop",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "24-Hour Front Desk",
+    "Gift Shop",
+    "Hindi",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Newspaper",
+    "Pool / Beach Towels",
+    "24-Hour Security",
+    "Taxi Service",
+    "Breakfast Available",
+    "Housekeeping",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Desk",
+    "Electric Kettle",
+    "Free Private Parking Nearby",
+    "Complimentary Welcome Drink",
+    "Free Wifi in the Business Center",
+    "Iron",
+    "Pool View",
+    "Private Bathrooms",
+    "Paid Private Parking Nearby",
+    "Seating Area",
+    "Special Diet Menus",
+    "Steam Room",
+    "Telephone",
+    "Valet Parking",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet"
+  ],
+  "parent_brand": "Hilton Worldwide",
+  "brand": "DoubleTree by Hilton",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Mid-range",
+    "Modern"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620543",
+      "name": "Al Barsha"
+    },
+    {
+      "location_id": "15620544",
+      "name": "Al Barsha 1"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "444"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "481"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "158"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "629"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "191"
+    }
+  ],
+  "awards": []
+}

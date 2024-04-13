@@ -1,0 +1,247 @@
+{
+  "location_id": "1109585",
+  "name": "Sea Beach Aqua Park Resort Managed By Blue Resorts",
+  "description": "Located direct on the Beach, ideally located in the middle of Nabq Bay at a short distance from Sharm El Sheikh International Airport (08 Km) and the famous shopping arcade and night life of Sharm El Sheikh Na'ama Bay (22 Km). Combining an exquisite blend of Moorish architecture and refined services, Sea Beach Auqa Park Resort will be perfect place for an unforgettable holiday. Distance Sharm El Sheikh Airport : 8 km / Transfer Time 15 Min. City Center/ Naama Bay : 22 km / Transfer Time 30 min.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g303855-d1109585-Reviews-Sea_Beach_Aqua_Park_Resort_Managed_By_Blue_Resorts-Nabq_Bay_Sharm_El_Sheikh_South_Sina.html?m=66827",
+  "address_obj": {
+    "street1": "El Salam Coast Road",
+    "city": "Nabq Bay",
+    "country": "Egypt",
+    "postalcode": "46628",
+    "address_string": "El Salam Coast Road, Nabq Bay, Sharm El Sheikh 46628 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Nabq Bay",
+      "location_id": "303855"
+    },
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "28.05512",
+  "longitude": "34.43805",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g303855-d1109585-Sea_Beach_Aqua_Park_Resort_Managed_By_Blue_Resorts-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "303855",
+    "ranking_string": "#15 of 41 hotels in Nabq Bay",
+    "geo_location_name": "Nabq Bay",
+    "ranking_out_of": "41",
+    "ranking": "15"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "3411",
+  "review_rating_count": {
+    "1": "221",
+    "2": "114",
+    "3": "199",
+    "4": "450",
+    "5": "2427"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "4798",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g303855-d1109585-m66827-Reviews-Sea_Beach_Aqua_Park_Resort_Managed_By_Blue_Resorts-Nabq_Bay_Sharm_El_Sheikh_South_Sina.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Fitness center",
+    "Restaurant",
+    "Kids Activities",
+    "Beachfront",
+    "Free parking",
+    "Beach Access",
+    "Internet",
+    "Room service",
+    "Bar/Lounge",
+    "Spa",
+    "Public Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Refrigerator in room",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Water Park",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Private Pools",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Aerobics",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bicycle Rental",
+    "Billiards",
+    "Books, DVDs, Music for Children",
+    "Bottled Water",
+    "24-Hour Check-in",
+    "Coffee Shop",
+    "Couples Massage",
+    "Currency Exchange",
+    "Diving",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Hammam",
+    "Indoor Play Area for Children",
+    "Ironing Service",
+    "Italian",
+    "Karaoke",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Nightclub / DJ",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Shops",
+    "Snack Bar",
+    "Snorkeling",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Kids pool",
+    "Aerobics Off-site",
+    "Children's Playground",
+    "Free Wifi in the Business Center",
+    "Hand Massage",
+    "Highchairs Available",
+    "Makeup Services",
+    "Outdoor Dining Area",
+    "Personal Trainer",
+    "Pool View",
+    "Private Bathrooms",
+    "Ukrainian",
+    "Water Park Off-site",
+    "Waterslide",
+    "Water Sport Equipment Rentals",
+    "Yoga Classes"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Centrally Located",
+    "Quaint"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "17"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "467"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "100"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1629"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "666"
+    }
+  ],
+  "awards": []
+}

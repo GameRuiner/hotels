@@ -1,0 +1,237 @@
+{
+  "location_id": "4323634",
+  "name": "H10 Urquinaona Plaza",
+  "description": "Located on Placa Urquinaona, in the heart of Barcelona, the H10 Urquinaona Plaza is a newly built hotel housed within a nineteenth century building that maintains some of its original structure and beautifully crafted ceilings, which have been combined with a very contemporary interior design that uses clean lines and simple colours. The hotel features the Novecento Restaurant, bar, gym and Chill-Out Terrace with plunge pool and outstanding views over the city. It also has 3 meeting rooms that are perfect for small company events.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d4323634-Reviews-H10_Urquinaona_Plaza-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Plaza Urquinaona, 2",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08010",
+    "address_string": "Plaza Urquinaona, 2, 08010 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.38929",
+  "longitude": "2.172539",
+  "timezone": "Europe/Madrid",
+  "phone": "01134932202583",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d4323634-H10_Urquinaona_Plaza-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#55 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "55"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1678",
+  "review_rating_count": {
+    "1": "15",
+    "2": "24",
+    "3": "63",
+    "4": "382",
+    "5": "1194"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "1138",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d4323634-m66827-Reviews-H10_Urquinaona_Plaza-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Free Internet",
+    "Free Wifi",
+    "Restaurant",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Pets Allowed",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Minibar",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Blackout Curtains",
+    "Catalan",
+    "24-Hour Check-in",
+    "Complimentary Tea",
+    "English",
+    "Complimentary Instant Cofffee",
+    "Ironing Service",
+    "Laptop Safe",
+    "24-Hour Security",
+    "Taxi Service",
+    "Accessible rooms",
+    "Baggage Storage",
+    "Coffee Shop",
+    "French",
+    "24-Hour Front Desk",
+    "German",
+    "Italian",
+    "Paid Public Parking Nearby",
+    "Snack Bar",
+    "Solarium",
+    "Soundproof Rooms",
+    "Spanish",
+    "Sun Terrace"
+  ],
+  "parent_brand": "H10 Hotels",
+  "brand": "H10 Hotels",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Green",
+    "Modern"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230970",
+      "name": "Eixample"
+    },
+    {
+      "location_id": "15565885",
+      "name": "La Dreta de l'Eixample"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "98"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "960"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "52"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "268"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "163"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

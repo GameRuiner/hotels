@@ -1,0 +1,240 @@
+{
+  "location_id": "23765511",
+  "name": "Novotel Jumeirah Village Triangle",
+  "description": "Novotel Jumeirah Village Triangle is alcohol-free 4-star hotel that offers modern comfort in one of its 375 rooms and suites. Savor a healthy breakfast at Thyme or start your day with a refreshing swim in one of its pools. Guests can enjoy access to the fitness center, spa, sauna, and Jacuzzi while the little ones enjoy a unique water-themed play area and kids club.\n\nPlease note, that all children below the age of 5 are not allowed into the adult swimming pool can access the Aqua Park, and must be accompanied by an adult all the time.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d23765511-Reviews-Novotel_Jumeirah_Village_Triangle-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "B1 Joory Street District 3",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "450763",
+    "address_string": "B1 Joory Street District 3, Dubai 450763 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.041426",
+  "longitude": "55.18722",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d23765511-Novotel_Jumeirah_Village_Triangle-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#301 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "301"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "361",
+  "review_rating_count": {
+    "1": "23",
+    "2": "10",
+    "3": "14",
+    "4": "13",
+    "5": "301"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss1.0.svg",
+      "value": "1.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    }
+  },
+  "photo_count": "233",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d23765511-m66827-Reviews-Novotel_Jumeirah_Village_Triangle-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Kids Activities",
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Air conditioning",
+    "Safe",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Housekeeping",
+    "Sauna",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "24-Hour Check-in",
+    "Chinese",
+    "Coffee Shop",
+    "Currency Exchange",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Free Public Parking Nearby",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hammam",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Newspaper",
+    "Seating Area",
+    "24-Hour Security",
+    "Steam Room",
+    "Free parking",
+    "Airport transportation",
+    "Laundry Service",
+    "Concierge",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Conference Facilities",
+    "Flatscreen TV",
+    "Kids pool",
+    "Parking",
+    "Kids Stay Free",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "Children's Television Networks",
+    "Children's Playground",
+    "Couples Massage",
+    "Dining Area",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Foot Massage",
+    "Full Body Massage",
+    "Head Massage",
+    "Highchairs Available",
+    "Kid-Friendly Buffet",
+    "Massage",
+    "Neck Massage",
+    "Russian",
+    "Separate Living Room",
+    "Sofa",
+    "Sofa Bed",
+    "Sun Terrace",
+    "Taxi Service",
+    "Telephone",
+    "Urdu",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet",
+    "Water Park Off-site"
+  ],
+  "parent_brand": "Accor",
+  "brand": "Novotel",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "City View",
+    "Business"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "48"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "50"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "42"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "156"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "52"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

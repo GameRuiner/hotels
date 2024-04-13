@@ -1,0 +1,300 @@
+{
+  "location_id": "1675299",
+  "name": "Holiday Inn Express Dubai Airport, an IHG Hotel",
+  "description": "Welcome to the Holiday Inn Express Dubai Airport. We strive to provide you with a clean and comfortable room and friendly attentive service while you are away from home. \nConveniently located opposite Terminal 3 of Dubai International Airport, the hotel is a nearby neighbour to major business hubs and shopping malls, and a five-minute walk to Emirates HQ Metro Station which can take you to almost everywhere in Dubai. From Dubai International Airport, hop on to our free shuttle service to take you to the hotel. \n\nStart your day right with a free Express Start breakfast or grab & go option and stay connected with our free WiFi Internet all throughout the hotel or at the 24-hour Business Centre. Recharge your day with refreshing drinks at The Brick Wall Sports Bar and get the most out of your stay from our 24-hour Fitness Centre located on the rooftop which offers views across Dubai.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1675299-Reviews-Holiday_Inn_Express_Dubai_Airport_an_IHG_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Opposite Dubai Int'l Airport, Terminal 3",
+    "street2": "Umm Ramool",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Opposite Dubai Int'l Airport, Terminal 3 Umm Ramool, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.24253",
+  "longitude": "55.3598",
+  "timezone": "Asia/Dubai",
+  "phone": "18778595095",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1675299-Holiday_Inn_Express_Dubai_Airport_an_IHG_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#322 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "322"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "3078",
+  "review_rating_count": {
+    "1": "149",
+    "2": "174",
+    "3": "571",
+    "4": "1073",
+    "5": "1113"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "1522",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1675299-m66827-Reviews-Holiday_Inn_Express_Dubai_Airport_an_IHG_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Free parking",
+    "Restaurant",
+    "Fitness center",
+    "Shuttle Bus Service",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Breakfast included",
+    "Internet",
+    "Free Internet",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Meeting rooms",
+    "Business center",
+    "Laundry Service",
+    "Free airport transportation",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Free Shuttle or Taxi Services",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Allergy-free Room",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Car Hire",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "French",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Newspaper",
+    "Russian",
+    "24-Hour Security",
+    "Soundproof Rooms",
+    "Taxi Service",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests"
+  ],
+  "parent_brand": "InterContinental",
+  "brand": "Holiday Inn Express",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quiet",
+    "Modern"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620553",
+      "name": "Al Garhoud"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "922"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "740"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "476"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "486"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "228"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

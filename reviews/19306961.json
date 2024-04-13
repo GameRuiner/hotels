@@ -1,0 +1,221 @@
+{
+  "data": [
+    {
+      "id": 945808141,
+      "lang": "en",
+      "location_id": 19306961,
+      "published_date": "2024-04-08T05:48:51Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d19306961-r945808141-Reviews-Millennium_Mont_Rose-Dubai_Emirate_of_Dubai.html?m=66827#review945808141",
+      "text": "Excellent customer service especially with Mr. Ikhlaq, the hotel is really clean and tide and very near from everything the rooms are huge and clean, the staff very welcoming and their services are amazing. Also the prices are also very afordable",
+      "title": "Excellent customer service and cleanliness",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "109rawada",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/7a/default-avatar-2020-25.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945917342,
+        "title": "Owner response",
+        "text": "Dear Rawad\n\nWhat a wonderful review for the team especially Ikhlaq  to receive. \n\nWe share all feedback in our daily line ups and in the heart of our house. \n\nThank you for motivating us by taking the time to share your highlights of your stay.\n\nWe look forward to welcoming you back again soon to Millennium Montrose. \n\nWith best regards,\nZiad El Hawi\nCluster General Manager\n\n",
+        "lang": "en",
+        "author": "Millennium Montrose",
+        "published_date": "2024-04-09T02:52:24Z"
+      }
+    },
+    {
+      "id": 945799924,
+      "lang": "en",
+      "location_id": 19306961,
+      "published_date": "2024-04-08T04:35:03Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d19306961-r945799924-Reviews-Millennium_Mont_Rose-Dubai_Emirate_of_Dubai.html?m=66827#review945799924",
+      "text": "Assad was very accommodating to our needs. The rest of the hotel staff were exeptional and the service was outstanding. The superior suite was perfect for me and my son, with 2 bathrooms and a very comfortable bed and sofa bed. Would highly recommend.",
+      "title": "First class service",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "P7694LUheatherr",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/e6/default-avatar-2020-45.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945917437,
+        "title": "Owner response",
+        "text": "Dear Heather \n\nWe very much appreciate your comments regarding your stay at the Millennium Montrose.\n\nIt is always a pleasure to receive positive feedback. We will share your comments with our team especially Assad..\n\nI am sure that this feedback will serve as an encouragement to all of our staff as we strive to continuously improve the quality of our services.\n\nThank you again for sharing your experience, and we hope your next visit will be as pleasant as the previous one.\n\nWith best regards,\nZiad El Hawi\nCluster General Manager\n\n",
+        "lang": "en",
+        "author": "Millennium Montrose",
+        "published_date": "2024-04-09T02:53:35Z"
+      }
+    },
+    {
+      "id": 945792500,
+      "lang": "en",
+      "location_id": 19306961,
+      "published_date": "2024-04-08T03:27:16Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d19306961-r945792500-Reviews-Millennium_Mont_Rose-Dubai_Emirate_of_Dubai.html?m=66827#review945792500",
+      "text": "Everything was perfect I had a nice trip the stuff was really nice specially Ikhlaq , very clean quiet and nice area big room nice view I recommend at 200 per cent . I loved the Iftar food the supermarket around and the mosque for Ramadan . The cleaning is done every day wonderful !!",
+      "title": "BEST STUDIO HOTEL",
+      "trip_type": "Business",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "mercedesk841",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/b8/default-avatar-2020-22.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945917216,
+        "title": "Owner response",
+        "text": "Dear Valued Guest \n\nThank you for staying with us recently and for taking the time to share your feedback with us. \n\nThe response from our guests is of extreme importance and value to us.\n\nWe will continue to work hard to ensure you have positive memories each time you visit Millennium Montrose.\n\nRamadan in UAE is the best experience. \n\nI look forward to welcoming you back with us again very soon!\n\nWith best regards,\nZiad El Hawi\nCluster General Manager\n",
+        "lang": "en",
+        "author": "Millennium Montrose",
+        "published_date": "2024-04-09T02:50:57Z"
+      }
+    },
+    {
+      "id": 945732035,
+      "lang": "en",
+      "location_id": 19306961,
+      "published_date": "2024-04-07T14:02:02Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d19306961-r945732035-Reviews-Millennium_Mont_Rose-Dubai_Emirate_of_Dubai.html?m=66827#review945732035",
+      "text": "What makes things better is when we have people around us with the heart of gold 💛\nMr.Ikhlaq& Karshima.\n\nThe staff was the friendliest and more efficient we have experienced in a long time. We really enjoyed every interaction with them. Will come back soon  but wanted to show my appreciation.",
+      "title": "Wonderful stay",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "N961UQalexandrav",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/2b/d1/2f/92/alexandra-v.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/2b/d1/2f/92/alexandra-v.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/2b/d1/2f/92/alexandra-v.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/2b/d1/2f/92/alexandra-v.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945917524,
+        "title": "Owner response",
+        "text": "Dear Alexandra \n\nThank you very much for your motivating review on TripAdvisor. \n\nWe are delighted to know you enjoyed your staycation. \n\nThe entire team, especially Ikhlaq & karishma       will be thrilled to know that they have contributed positively to your experience and were recognized by you.\n\nWe appreciate you recommending us and hope to have the great pleasure to welcome you soon again!\n\nWith best regards,\nZiad El Hawi\nCluster General Manager\n\n",
+        "lang": "en",
+        "author": "Millennium Montrose",
+        "published_date": "2024-04-09T02:55:03Z"
+      }
+    },
+    {
+      "id": 945584116,
+      "lang": "en",
+      "location_id": 19306961,
+      "published_date": "2024-04-06T12:03:18Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d19306961-r945584116-Reviews-Millennium_Mont_Rose-Dubai_Emirate_of_Dubai.html?m=66827#review945584116",
+      "text": "· just perfect .room size was perfect, the bed was exceptional, the bathtub was perfect, i loved the whole setup of the room. the view was so stunning city view special thanks to Ikhlaq he was always in reception to help us when ever we need anything.",
+      "title": "A wonderful hotel, beautifully designed",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "mosaa489",
+        "user_location": {
+          "id": "295424",
+          "name": "Dubai, Emirate of Dubai"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/7c/01/default-avatar-2020-5.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945917607,
+        "title": "Owner response",
+        "text": "Dear Mosa\n\nThank you for staying with us recently and for this great review that you have posted.\n\nWe are pleased to read that you had a brilliant stay with us and you were happy with the service and facilities provided at the hotel. \n\nWe can’t wait to have you back with us.\n\nWe will share your appreciation with Ikhlaq.\n\nWe look forward to welcoming you back in the future.\n\nWith best regards,\nZiad El Hawi\nCluster General Manager\n\n",
+        "lang": "en",
+        "author": "Millennium Montrose",
+        "published_date": "2024-04-09T02:56:13Z"
+      }
+    }
+  ]
+}

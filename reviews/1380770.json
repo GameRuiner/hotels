@@ -1,0 +1,191 @@
+{
+  "data": [
+    {
+      "id": 914647652,
+      "lang": "en",
+      "location_id": 1380770,
+      "published_date": "2023-09-03T14:33:13Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d1380770-r914647652-Reviews-Blanca_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review914647652",
+      "text": "Great service, amazing food at the M Club. Sera was amazing: professional, kind and very helpful. She not only made sure that we're enjoying our time but also was happy to provide recommendations and tips on what to do in İzmir - highly recommend! ",
+      "title": "Great Service at M Club",
+      "trip_type": "Family",
+      "travel_date": "2023-08-31",
+      "user": {
+        "username": "535riyadhr",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e4/ca/default-avatar-2020-51.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e4/ca/default-avatar-2020-51.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e4/ca/default-avatar-2020-51.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e4/ca/default-avatar-2020-51.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e4/ca/default-avatar-2020-51.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 907117529,
+      "lang": "en",
+      "location_id": 1380770,
+      "published_date": "2023-08-01T01:04:16Z",
+      "rating": 2,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d1380770-r907117529-Reviews-Blanca_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review907117529",
+      "text": "The pillows were good and the room was good too, but the food was not good, I went with a guide group and for dinner we had buffet. I didn’t like anything and most of the food was cold (when it was not supposed to).",
+      "title": "The food could be better…",
+      "trip_type": "Family",
+      "travel_date": "2023-07-31",
+      "user": {
+        "username": "H4794RTpaulas",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ef/73/default-avatar-2020-13.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 891628487,
+      "lang": "en",
+      "location_id": 1380770,
+      "published_date": "2023-05-23T13:23:49Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d1380770-r891628487-Reviews-Blanca_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review891628487",
+      "text": "Good experience, service was very good, food acceptable. Bathroom very good. Very comfortable beds, slept like a log.A little fat from the center but it was quiet. Will probably come back some day. Very good in general.",
+      "title": "Two nights in izmir",
+      "trip_type": "Friends getaway",
+      "travel_date": "2023-05-31",
+      "user": {
+        "username": "Resort03008368529",
+        "user_location": {
+          "id": "1898563",
+          "name": "Villa Elisa, Province of Entre Rios, Litoral"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/11/default-avatar-2020-23.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 880147833,
+      "lang": "en",
+      "location_id": 1380770,
+      "published_date": "2023-02-26T01:20:00Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d1380770-r880147833-Reviews-Blanca_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review880147833",
+      "text": "Absolutely beautiful, the room was so comfy and well taken care of. Comfortable bed and amazing food. Sitting down to breakfast now and staff couldn't be more helpful :) rooms are lovely and can control the temperature which is a bonus. Clean bathroom on top of that too",
+      "title": "Absloutely lovely",
+      "trip_type": "Friends getaway",
+      "travel_date": "2023-02-28",
+      "user": {
+        "username": "430kerryanneb",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f1/06/default-avatar-2020-18.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f1/06/default-avatar-2020-18.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f1/06/default-avatar-2020-18.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f1/06/default-avatar-2020-18.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/06/default-avatar-2020-18.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 855883473,
+      "lang": "en",
+      "location_id": 1380770,
+      "published_date": "2022-08-23T08:51:16Z",
+      "rating": 3,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d1380770-r855883473-Reviews-Blanca_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review855883473",
+      "text": "When I book and pay a triple room and I just get one bottle of mineral water as courtesy thats not a very cool detail. Room was clean although a little bit noisy as was close to the main Road with many cars",
+      "title": "Not cool details",
+      "trip_type": "Family",
+      "travel_date": "2022-08-31",
+      "user": {
+        "username": "919palv",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/4a/default-avatar-2020-42.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/4a/default-avatar-2020-42.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/4a/default-avatar-2020-42.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/4a/default-avatar-2020-42.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/4a/default-avatar-2020-42.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 872182727,
+        "title": "Owner response",
+        "text": "Dear our guest\nFirst of all thank you for your interest and confidence in our hotel.\nYour sharing feedbacks about the positive and negative stiuations that you have experienced during your stay help us to better serve you and improve our service quality.\nOn your next trip we would like to welcome you again.\nBest Regards,\nFatma OKUR (gm)",
+        "lang": "en",
+        "author": "Blanca Hotel  İzmir",
+        "published_date": "2022-12-19T07:34:43Z"
+      }
+    }
+  ]
+}

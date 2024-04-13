@@ -1,0 +1,276 @@
+{
+  "location_id": "18717692",
+  "name": "FIVE Jumeirah Village Hotel",
+  "description": "Escape the everyday at FIVE Jumeirah Village, a dare-to-be different hotel that captures the glamour of new Dubai. Experience a chic penthouse lifestyle with 269 pools and Jacuzzi, lush green terraces and a culinary scene like no other. Tuck into food from across the world at a range of modern restaurants and cafés or recharge at REFIVE, a contemporary spa. Enjoy the best of both worlds, enjoy exclusive access to FIVE Palm Jumeirah’s private beach and keep the party going at 17 food and beverage venues. Designed with more than sleep in mind. Host your own high rise pool party, sunbath in style with your girls or enjoy a special dinner overlooking what Dubai has to offer. Our private pool sky villas were designed with more than sleep in mind, take advantage of the hotel’s design your vibe packages from live entertainment, to food and decorations – after all, FIVE knows how to throw a party.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d18717692-Reviews-FIVE_Jumeirah_Village_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "District 14, Street 1",
+    "street2": "Jumeirah Village Circle",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "District 14, Street 1 Jumeirah Village Circle, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.053967",
+  "longitude": "55.20719",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d18717692-FIVE_Jumeirah_Village_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#267 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "267"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "4227",
+  "review_rating_count": {
+    "1": "125",
+    "2": "40",
+    "3": "69",
+    "4": "227",
+    "5": "3766"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "3580",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d18717692-m66827-Reviews-FIVE_Jumeirah_Village_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Air conditioning",
+    "Minibar",
+    "Pool",
+    "Internet",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Kitchenette",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Swimup Bar",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Butler Service",
+    "Outdoor pool",
+    "Private Pools",
+    "Breakfast Available",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Additional Bathroom",
+    "Allergy-free Room",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bottled Water",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Clothes Rack",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Couples Massage",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Entertainment Staff",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Head Massage",
+    "Hindi",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Massage",
+    "Nightclub / DJ",
+    "Outdoor Furniture",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Snack Bar",
+    "Sofa",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Kids pool",
+    "Parking",
+    "Electric vehicle charging station",
+    "Body Wrap",
+    "Breakfast in the Room",
+    "Chinese",
+    "Dining Area",
+    "Electric Kettle",
+    "Extra Long Beds",
+    "Full Body Massage",
+    "Happy Hour",
+    "Highchairs Available",
+    "Manicure",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Personal Trainer",
+    "Plunge Pool",
+    "Pool View",
+    "Private Bathrooms",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Special Diet Menus",
+    "Sun Deck",
+    "Wardrobe / Closet",
+    "Whirlpool Bathtub",
+    "Yoga Classes"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Romantic",
+    "City View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "272"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "825"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "310"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "779"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "1663"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

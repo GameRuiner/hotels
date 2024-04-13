@@ -1,0 +1,235 @@
+{
+  "location_id": "13565259",
+  "name": "FORM Hotel Dubai",
+  "description": "First and only Design hotel in MENA designed to provide you with everything you value and nothing you don't. FORM your own stay by adding experiences, services or amenities that you are most likely to consume through our weFORM platform. Aside of the free high-speed WiFi throughout the property, private bathroom with a walk-in high pressure rain showers, custom-built luxury beds meet the timeless design reflecting the historical segments of the Dubai's oldest creek dhow featuring modern elements.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d13565259-Reviews-FORM_Hotel_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Jaddaf Street",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Al Jaddaf Street, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.22308",
+  "longitude": "55.334625",
+  "timezone": "Asia/Dubai",
+  "phone": "01197143179030",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d13565259-FORM_Hotel_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#286 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "286"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "299",
+  "review_rating_count": {
+    "1": "4",
+    "2": "7",
+    "3": "23",
+    "4": "48",
+    "5": "217"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "564",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d13565259-m66827-Reviews-FORM_Hotel_Dubai-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Suites",
+    "Free Internet",
+    "Wheelchair access",
+    "Restaurant",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Outdoor pool",
+    "Housekeeping",
+    "Afrikaans",
+    "Arabic",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "English",
+    "Complimentary Instant Cofffee",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Ironing Service",
+    "24-Hour Security",
+    "Telephone",
+    "Room service",
+    "Free parking",
+    "Meeting rooms",
+    "Business center",
+    "Refrigerator in room",
+    "Minibar",
+    "Breakfast Available",
+    "Facilities for Disabled Guests",
+    "Breakfast in the Room",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "Express Check-in / Check-out",
+    "Currency Exchange",
+    "Electric Kettle",
+    "Filipino",
+    "French",
+    "Gift Shop",
+    "Landmark View",
+    "Nepali",
+    "Pool with View",
+    "Soundproof Rooms",
+    "Urdu",
+    "VIP Room Facilities",
+    "Walk-in Shower",
+    "Wardrobe / Closet"
+  ],
+  "parent_brand": "Marriott",
+  "brand": "Design Hotels",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Boutique",
+    "Modern"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    },
+    {
+      "location_id": "15620557",
+      "name": "Al Jaddaf"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "54"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "93"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "34"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "58"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "33"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

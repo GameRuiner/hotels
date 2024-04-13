@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": 912171235,
+      "lang": "en",
+      "location_id": 25002054,
+      "published_date": "2023-08-22T09:46:21Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d25002054-r912171235-Reviews-Ramise_hanIm_kosku-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review912171235",
+      "text": "Excellent artistic accommodation in a lovely picturesque village . Really worth visiting the place! Friendly people polite and hospitable! The rooms are so well kept and decorated everywhere there is a little piece of art ! Lovely garden small but well preserved! In my opinion it’s the best place in the village!",
+      "title": "The best little boutique hotel in cirince",
+      "trip_type": "Couples",
+      "travel_date": "2023-08-31",
+      "user": {
+        "username": "464katerinaz",
+        "user_location": {
+          "id": "189470",
+          "name": "Katerini, Pieria Region, Central Macedonia"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/01/2e/70/99/avatar025.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/01/2e/70/99/avatar025.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/01/2e/70/99/avatar025.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

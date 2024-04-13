@@ -1,0 +1,102 @@
+{
+  "location_id": "25798691",
+  "name": "Sun Pearl Resort Cesme",
+  "description": "Sun Pearl Resort Çeşme, Çeşme'nin en güzel plajında yer alan otelimiz üst düzey konforu, özenle dekore edilmiş odaları, denize sıfır çarpıcı manzaraları ve damak zevkine uygun çeşitli menüleri olan mutfağı ile sizi bekliyor.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d25798691-Reviews-Sun_Pearl_Resort_Cesme-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Universite Mah. 4208 Sok. No:2/1",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35930",
+    "address_string": "Universite Mah. 4208 Sok. No:2/1, Izmir 35930 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.428036",
+  "longitude": "27.193062",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d25798691-Sun_Pearl_Resort_Cesme-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#30 of 194 Specialty lodging in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "194",
+    "ranking": "30"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "1",
+  "review_rating_count": {
+    "1": "0",
+    "2": "0",
+    "3": "0",
+    "4": "0",
+    "5": "1"
+  },
+  "subratings": {},
+  "photo_count": "0",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d25798691-m66827-Reviews-Sun_Pearl_Resort_Cesme-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$$",
+  "amenities": [],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "0"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "0"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "0"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "0"
+    }
+  ],
+  "awards": []
+}

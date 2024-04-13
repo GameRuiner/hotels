@@ -1,0 +1,189 @@
+{
+  "location_id": "6894743",
+  "name": "Marine Congo Hotel",
+  "description": "Featuring an outdoor swimming pool and restaurant, Congo Hotel is located in Rhodes, 1.5 km from the centre of Rhodes Town, with restaurants and cafeterias. A garden and sun terrace are included. Free Wi-Fi is offered in public areas. Offering a balcony, all air-conditioned rooms come with a TV and fridge. Guests can visit the Grand Master of the Knights and the Clocktower of Rhodes, located 1 km from Hotel Congo. The property lies 15 km from Rhodes International Airport.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g635613-d6894743-Reviews-Marine_Congo_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street1": "N.L Tiliakou 145",
+    "city": "Rhodes Town",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "85100",
+    "address_string": "N.L Tiliakou 145, Rhodes Town 85100 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Rhodes Town",
+      "location_id": "635613"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.432045",
+  "longitude": "28.235926",
+  "timezone": "Europe/Athens",
+  "write_review": "https://www.tripadvisor.com/UserReview-g635613-d6894743-Marine_Congo_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "635613",
+    "ranking_string": "#67 of 122 hotels in Rhodes Town",
+    "geo_location_name": "Rhodes Town",
+    "ranking_out_of": "122",
+    "ranking": "67"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "70",
+  "review_rating_count": {
+    "1": "3",
+    "2": "5",
+    "3": "9",
+    "4": "20",
+    "5": "33"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "63",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g635613-d6894743-m66827-Reviews-Marine_Congo_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Bar/Lounge",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Paid Internet",
+    "Concierge",
+    "Air conditioning",
+    "Kids Activities",
+    "Free parking",
+    "Pets Allowed",
+    "Non-smoking rooms",
+    "Refrigerator in room",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Housekeeping",
+    "Baggage Storage",
+    "Bath / Shower",
+    "BBQ Facilities",
+    "Billiards",
+    "Car Hire",
+    "Express Check-in / Check-out",
+    "Coffee Shop",
+    "English",
+    "Free Public Parking Nearby",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "German",
+    "Greek",
+    "Shared Lounge / TV Area",
+    "Street Parking",
+    "Taxi Service",
+    "Telephone",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Family",
+    "Classic"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "1"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "20"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "7"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "16"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "13"
+    }
+  ],
+  "awards": []
+}

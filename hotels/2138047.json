@@ -1,0 +1,182 @@
+{
+  "location_id": "2138047",
+  "name": "Zagy Hotel",
+  "description": "Zagy Hotel is an excellent choice for travelers visiting Dubai, offering a budget friendly environment alongside many helpful amenities designed to enhance your stay.\nFor those interested in checking out popular landmarks while visiting Dubai, Zagy Hotel is located a short distance from Bur Dubai Abra Dock (0.6 mi) and Sheikh Mohammed Centre for Cultural Understanding (0.8 mi).\nYou’ll enjoy relaxing rooms that offer air conditioning, a refrigerator, and a desk, and you can stay connected during your stay as Zagy Hotel offers guests wifi.\nThe hotel features a 24 hour front desk, 24 hour check-in, and a concierge. Plus, Zagy Hotel offers an on-site restaurant, providing a pleasant respite from your busy day.\nIf you’re looking for a seafood restaurant, consider a visit to NOÉPE, Alfonso X Sushi Bar, or The Boardwalk, which are all conveniently located a short distance from Zagy Hotel.\nPlus, during your trip, don't forget to check out a government building, such as Dubai Smart Police Station.\nEnjoy your stay in Dubai!\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d2138047-Reviews-Zagy_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Yousaf Baker Road",
+    "street2": "Al Nakheel Street",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "49725",
+    "address_string": "Yousaf Baker Road Al Nakheel Street, Dubai 49725 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.27137",
+  "longitude": "55.310425",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d2138047-Zagy_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#651 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "651"
+  },
+  "rating": "3.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.0-66827-5.svg",
+  "num_reviews": "17",
+  "review_rating_count": {
+    "1": "1",
+    "2": "4",
+    "3": "8",
+    "4": "3",
+    "5": "1"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss2.5.svg",
+      "value": "2.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss2.5.svg",
+      "value": "2.5"
+    }
+  },
+  "photo_count": "6",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d2138047-m66827-Reviews-Zagy_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Free Wifi",
+    "Air conditioning",
+    "Internet",
+    "Room service",
+    "Free Internet",
+    "Restaurant",
+    "Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Family Rooms",
+    "Refrigerator in room",
+    "Non-smoking hotel",
+    "Safe",
+    "Housekeeping",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "24-Hour Check-in",
+    "Clothes Rack",
+    "Convenience Store",
+    "Currency Exchange",
+    "Desk",
+    "English",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Gift Shop",
+    "Hindi",
+    "Massage Chair",
+    "24-Hour Security",
+    "Shops",
+    "Telephone",
+    "Urdu"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Budget"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620661",
+      "name": "Naif"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "4"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "5"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "3"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "4"
+    }
+  ],
+  "awards": []
+}

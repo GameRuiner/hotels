@@ -1,0 +1,202 @@
+{
+  "location_id": "671967",
+  "name": "Sun and Sands Hotel",
+  "description": "Located in the heart of Dubai's business district, a 5-minute walk from Clock Tower, this hotel has an indoor pool and a gym. Rooms are elegantly furnished and have satellite TV. Some of Sun & Sands Hotel's luxurious rooms come with a large living area with modern furnishings. Guests can relax in Hotel Sun & Sands' sauna and hot tub. The hotel's tour desk offers information of the local area. Hotel Sun & Sands restaurant serves local and international dishes. Drinks and refreshments are offered at the hotel's bar. Dubai Airport is a 10-minute drive from Sun & Sands Hotel. An airport shuttle service is provided by the hotel. Free private parking is available and a reservation is required. Deira is a great choice for travellers interested in outlets, street food and fine art museums.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d671967-Reviews-Sun_and_Sands_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "37th Street, Al Rigga Road",
+    "street2": "Clock Tower",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "35659",
+    "address_string": "37th Street, Al Rigga Road Clock Tower, Dubai 35659 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.260448",
+  "longitude": "55.32352",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d671967-Sun_and_Sands_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#694 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "694"
+  },
+  "rating": "3.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.0-66827-5.svg",
+  "num_reviews": "230",
+  "review_rating_count": {
+    "1": "51",
+    "2": "38",
+    "3": "63",
+    "4": "58",
+    "5": "20"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss2.5.svg",
+      "value": "2.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    }
+  },
+  "photo_count": "167",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d671967-m66827-Reviews-Sun_and_Sands_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Bar/Lounge",
+    "Wifi",
+    "Public Wifi",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Rooftop Pool",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Indoor pool",
+    "Breakfast Available",
+    "Room service",
+    "Free Internet",
+    "Wheelchair access",
+    "Restaurant",
+    "Airport transportation",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Family Rooms",
+    "Self-Serve Laundry",
+    "Smoking rooms available",
+    "Refrigerator in room",
+    "Minibar",
+    "Safe",
+    "Flatscreen TV",
+    "Housekeeping",
+    "Sauna",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Express Check-in / Check-out",
+    "Coffee Shop",
+    "Currency Exchange",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Iron",
+    "Massage",
+    "Nightclub / DJ",
+    "Paid Private Parking On-site",
+    "Paid Public Parking Nearby",
+    "Russian",
+    "24-Hour Security"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Budget",
+    "Centrally Located"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620596",
+      "name": "Al Rigga"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "30"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "47"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "21"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "74"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "40"
+    }
+  ],
+  "awards": []
+}

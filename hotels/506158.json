@@ -1,0 +1,254 @@
+{
+  "location_id": "506158",
+  "name": "Hotel 1898",
+  "description": "Hotel 1898 is located at number 109 La Rambla, in the heart of Barcelona. \n\nIts excellent location, right in the center, not only guarantees quick and direct access by any means of transport but also allows you to walk to the main tourist attractions, such as Plaza Cataluña, the Gothic Quarter, Paseo de Gracia, the Cathedral or the Boqueria Market. \n\nThe H1898 is equipped to the smallest detail with a wide range of services in each of the rooms. The Colonial Suites stand out, equipped with a terrace and private pool where you can enjoy the best views of the city. \n\nIt also has a wide range of services and amenities to satisfy guests, such as online check-in, 24-hour reception, room service, breakfast in the room, laundry service, access and adapted spaces, fitness room, business center, library, luggage room, and private parking.\n\nThe leisure and relaxation areas stand out. Like the inimitable terrace La Isabela, where you can enjoy the most admirable skyline of Barcelona, exquisite tapas, original cocktails, and dips in the pool. For more relaxation, the ideal place is the Spa Siargao, Organic & Vegan, \nwhich has a thermal circuit, massages, and treatments.\n\nEnjoy your stay in Barcelona!",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d506158-Reviews-Hotel_1898-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "La Rambla, 109",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08001",
+    "address_string": "La Rambla, 109, 08001 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.383476",
+  "longitude": "2.171058",
+  "timezone": "Europe/Madrid",
+  "phone": "01134935529552",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d506158-Hotel_1898-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#31 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "31"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "6540",
+  "review_rating_count": {
+    "1": "73",
+    "2": "84",
+    "3": "212",
+    "4": "1132",
+    "5": "5039"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "2828",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d506158-m66827-Reviews-Hotel_1898-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Suites",
+    "Free Internet",
+    "Free Wifi",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Family Rooms",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Business center",
+    "Fitness center",
+    "Multilingual Staff",
+    "Conference Facilities",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Butler Service",
+    "Outdoor pool",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Sauna",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Catalan",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Desk",
+    "English",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Hair Dryer",
+    "Head Massage",
+    "Ironing Service",
+    "Italian",
+    "Laptop Safe",
+    "Massage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Portuguese",
+    "24-Hour Security",
+    "Spanish",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Breakfast Available",
+    "Couples Massage",
+    "Doorperson",
+    "Facial Treatments",
+    "Highchairs Available",
+    "Landmark View",
+    "Private Bathrooms",
+    "Paid Private Parking On-site",
+    "Sun Deck",
+    "Umbrella",
+    "Wardrobe / Closet",
+    "Wine / Champagne",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Business",
+    "City View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230964",
+      "name": "La Rambla"
+    },
+    {
+      "location_id": "15565874",
+      "name": "Ciutat Vella (Old Town)"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "421"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "3726"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "188"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "871"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "643"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

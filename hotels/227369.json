@@ -1,0 +1,358 @@
+{
+  "location_id": "227369",
+  "name": "Best Western Plus Hotel Plaza",
+  "description": "At the Best Western Plus Hotel Plaza you're sure to find that little something extra. With our modern amenities and thoughtful design, the Best Western Plus Hotel Plaza will stand out among other hotels in Rhodes,. For the business traveler, a spacious work desk and free internet access are included in all our guest rooms to ensure you don't miss a beat while you're away from the office. For extended stays, each room provides a convenient in-room mini fridge that is ideal for drinks and snacks.  We also have an in-house fitness room, so you can keep up your workout routine while you're on the road. As always, the Best Western Plus Hotel Plaza will provide you with the superior customer service that you are used to at any Best Western hotel.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g635613-d227369-Reviews-Best_Western_Plus_Hotel_Plaza-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street1": "7 Ieroy Lochou Street",
+    "street2": "",
+    "city": "Rhodes Town",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "85100",
+    "address_string": "7 Ieroy Lochou Street, Rhodes Town 85100 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Rhodes Town",
+      "location_id": "635613"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.450703",
+  "longitude": "28.222511",
+  "timezone": "Europe/Athens",
+  "write_review": "https://www.tripadvisor.com/UserReview-g635613-d227369-Best_Western_Plus_Hotel_Plaza-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "635613",
+    "ranking_string": "#27 of 122 hotels in Rhodes Town",
+    "geo_location_name": "Rhodes Town",
+    "ranking_out_of": "122",
+    "ranking": "27"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "1062",
+  "review_rating_count": {
+    "1": "22",
+    "2": "37",
+    "3": "135",
+    "4": "457",
+    "5": "411"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "473",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g635613-d227369-m66827-Reviews-Best_Western_Plus_Hotel_Plaza-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Pool",
+    "Room service",
+    "Restaurant",
+    "Wheelchair access",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Suites",
+    "Bar/Lounge",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Refrigerator in room",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "24-Hour Check-in",
+    "English",
+    "24-Hour Front Desk",
+    "Greek",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Public Wifi",
+    "Breakfast included",
+    "Banquet Room",
+    "Conference Facilities",
+    "Sauna",
+    "Aerobics Off-site",
+    "Allergy-free Room",
+    "Archery Off-site",
+    "Boating",
+    "Bottled Water",
+    "Bowling Off-site",
+    "Breakfast in the Room",
+    "Canoeing Off-site",
+    "Car Hire",
+    "Express Check-in / Check-out",
+    "Clothes Rack",
+    "Desk",
+    "Finnish",
+    "First Aid Kit",
+    "Fishing",
+    "Free Public Parking Nearby",
+    "Complimentary Toiletries",
+    "Free Wifi in the Business Center",
+    "Free Wired Internet in the Business Center",
+    "French",
+    "Full Body Massage",
+    "German",
+    "Hair Dryer",
+    "Highchairs Available",
+    "Horseback Riding",
+    "Italian",
+    "Makeup Services",
+    "Manicure",
+    "Massage",
+    "Neck Massage",
+    "Outdoor Furniture",
+    "Pedicure",
+    "Pool / Beach Towels",
+    "Pool View",
+    "Private Bathrooms",
+    "Paid Private Parking Nearby",
+    "Paid Public Parking Nearby",
+    "Paid Public Parking On-site",
+    "Radio",
+    "24-Hour Security",
+    "Shallow End",
+    "Snack Bar",
+    "Sofa Bed",
+    "Soundproof Rooms",
+    "Squash Off-site",
+    "Street Parking",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Tennis Court Off-site",
+    "Wake Up Service / Alarm Clock",
+    "Walking Tours",
+    "Wardrobe / Closet",
+    "Water Park Off-site",
+    "Windsurfing",
+    "Beach Access"
+  ],
+  "parent_brand": "Best Western",
+  "brand": "Best Western Plus",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Business",
+    "Mid-range"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "106"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "434"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "68"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "228"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "112"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

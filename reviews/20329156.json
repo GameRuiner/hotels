@@ -1,0 +1,98 @@
+{
+  "data": [
+    {
+      "id": 942377355,
+      "lang": "en",
+      "location_id": 20329156,
+      "published_date": "2024-03-15T07:02:45Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d20329156-r942377355-Reviews-Methis_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review942377355",
+      "text": "I stayed at this hotel after the surgery for 3 nights. Hotel itself is small but clean and tidy. Rooms are cleaned daily. There is a fridge, kettle and air conditioning with heating in the room. The reception is very friendly, all my wishes were fulfilled. For example i wanted to order a pizza to the hotel and reception organized that. Also i asked where the shops and cafes are located and they guided me. I would recommend this hotel.",
+      "title": "Heartwarming hotel",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "marinakX374QV",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e4/a9/default-avatar-2020-50.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 940161379,
+      "lang": "en",
+      "location_id": 20329156,
+      "published_date": "2024-02-29T01:42:03Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d20329156-r940161379-Reviews-Methis_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review940161379",
+      "text": "Lovely hotel! \nSuper comfortable bed; and room is clean and equipped with everything I needed.\nStaff are  lovely  and will not hesitate to help in whatever needed 🥰 \nBreakfast is delicious, served in a calm setting and with a smile.\nMost definitely recommend! ⭐️",
+      "title": "Brilliant stay!",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "574danib",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/06/72/47/95/dani-b.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/06/72/47/95/dani-b.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/06/72/47/95/dani-b.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/06/72/47/95/dani-b.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/06/72/47/95/dani-b.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    }
+  ]
+}

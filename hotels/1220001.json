@@ -1,0 +1,250 @@
+{
+  "location_id": "1220001",
+  "name": "Continental Plaza Beach Resort",
+  "description": "Continental Plaza Beach Resort is an excellent choice for travelers visiting Sharm El Sheikh, offering a family-friendly environment alongside many helpful amenities designed to enhance your stay.\nYou’ll enjoy relaxing rooms that offer air conditioning and a refrigerator, and you can stay connected during your stay as Continental Plaza Beach Resort offers guests internet access.\nThe resort features a concierge. Plus, Continental Plaza Beach Hotel offers a pool and free breakfast, providing a pleasant respite from your busy day. For guests with a vehicle, free parking is available.\nWhile you’re here, be sure to check out Peking, one of the Chinese restaurants that can be found in Sharm El Sheikh, which is a short distance from Continental Plaza Beach Hotel.\nIf you are interested in exploring Sharm El Sheikh, check out some of the nearby attractions, such as Hollywood Sharm El Sheikh (1.0 mi) and Ghibli Raceway (0.8 mi), all of which are within walking distance of Continental Plaza Beach Hotel.\nEnjoy your stay in Sharm El Sheikh!\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d1220001-Reviews-Continental_Plaza_Beach_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street2": "",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "postalcode": "466911",
+    "address_string": "Sharm El Sheikh 466911 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.918201",
+  "longitude": "34.356426",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d1220001-Continental_Plaza_Beach_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#87 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "87"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "1752",
+  "review_rating_count": {
+    "1": "228",
+    "2": "138",
+    "3": "214",
+    "4": "330",
+    "5": "842"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    }
+  },
+  "photo_count": "2296",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d1220001-m66827-Reviews-Continental_Plaza_Beach_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Restaurant",
+    "Fitness center",
+    "Beachfront",
+    "Beach Access",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Business center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Accessible rooms",
+    "Safe",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Water Park",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Billiards",
+    "Blackout Curtains",
+    "Coffee / Tea Maker",
+    "Currency Exchange",
+    "Diving",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Extra Long Beds",
+    "Fitness / Spa Locker Rooms",
+    "24-Hour Front Desk",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Ironing Service",
+    "Italian",
+    "Kids' Meals",
+    "Massage",
+    "Outdoor Furniture",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Snorkeling",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Internet",
+    "Public Wifi",
+    "Smoking rooms available",
+    "Conference Facilities",
+    "Kids pool",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Bidet",
+    "Board Games / Puzzles",
+    "Cable / Satellite TV",
+    "Express Check-in / Check-out",
+    "Children's Playground",
+    "Complimentary Tea",
+    "Complimentary Welcome Drink",
+    "Highchairs Available",
+    "Indoor Play Area for Children",
+    "Manicure",
+    "Outdoor Dining Area",
+    "Polish",
+    "Pool View",
+    "Shared Lounge / TV Area",
+    "Sofa",
+    "Sofa Bed",
+    "Special Diet Menus",
+    "Steam Room",
+    "Tennis Court Off-site",
+    "VIP Room Facilities",
+    "Water Sport Equipment Rentals",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Lagoon View",
+    "Classic"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "23"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "409"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "73"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "686"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "399"
+    }
+  ],
+  "awards": []
+}

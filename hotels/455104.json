@@ -1,0 +1,169 @@
+{
+  "location_id": "455104",
+  "name": "Orchid Hotel",
+  "description": "Everyone needs a place to lay their weary head. For travelers visiting Dubai, Orchid Hotel is an excellent choice for rest and rejuvenation. Well-known for its proximity to great restaurants and attractions, Orchid Hotel makes it easy to enjoy the best of Dubai.\nPaid internet access is offered to guests, and rooms at Orchid Hotel offer air conditioning.\nDuring your stay, take advantage of some of the amenities offered, including room service. Guests of Orchid Hotel are also welcome to enjoy a rooftop pool and an on-site restaurant.\nClose to some of Dubai's most popular landmarks, such as Bur Dubai Abra Dock (1.5 mi) and Sheikh Mohammed Centre for Cultural Understanding (1.5 mi), Orchid Hotel is a great destination for tourists.\nWhen you’re feeling hungry, be sure to check out The Draft House, Somersets, and Hard Rock Cafe Dubai, which are some pubs that are popular with locals and out-of-towners alike.\nDuring your visit, be sure to check out popular attractions like Dream Journey (1.0 mi) and Al Seef (0.9 mi), which are all within walking distance of the hotel.\nWhether you’re traveling for business, pleasure or both, Orchid Hotel is sure to make your visit to Dubai one worth remembering.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d455104-Reviews-Orchid_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "40 C St",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "14042",
+    "address_string": "40 C St, Dubai 14042 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.260431",
+  "longitude": "55.324657",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d455104-Orchid_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#697 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "697"
+  },
+  "rating": "2.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/2.5-66827-5.svg",
+  "num_reviews": "119",
+  "review_rating_count": {
+    "1": "35",
+    "2": "18",
+    "3": "29",
+    "4": "21",
+    "5": "16"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss2.5.svg",
+      "value": "2.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss2.5.svg",
+      "value": "2.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss2.5.svg",
+      "value": "2.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    }
+  },
+  "photo_count": "44",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d455104-m66827-Reviews-Orchid_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Restaurant",
+    "Air conditioning",
+    "Internet",
+    "Kids Activities",
+    "Room service",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Spa",
+    "Wifi",
+    "Paid Internet",
+    "Non-smoking rooms",
+    "Business center",
+    "Laundry Service",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Babysitting",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Baggage Storage",
+    "Car Hire",
+    "Currency Exchange"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Centrally Located",
+    "Budget"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620596",
+      "name": "Al Rigga"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "21"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "17"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "26"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "29"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "16"
+    }
+  ],
+  "awards": []
+}

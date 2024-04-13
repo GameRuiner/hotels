@@ -1,0 +1,212 @@
+{
+  "location_id": "518387",
+  "name": "IC Hotels Airport",
+  "description": "IC Hotels Airport located only 800 meters to the Airport, and 10 minutes to Antalya city center is not simply an airport hotel, but a city hotel hosting weddings and special gatherings. It serves all needs thanks to its great location close to business and shopping centers. IC Hotels Airport is designed to serve short term travellers, group tour organizations, meeting and seminar organization businesses, and guests who want to spend their weekends and holidays with their families in a decent environment with a variety of activities. It also offers a pleasant facilty for Antalya citizens to spend their weekdays or weekends with different activities, at the gym, and sports club.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297962-d518387-Reviews-IC_Hotels_Airport-Antalya_Turkish_Mediterranean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Guzelyurt Mevkii Calkaya",
+    "city": "Antalya",
+    "state": "Antalya Province",
+    "country": "Turkiye",
+    "postalcode": "07110",
+    "address_string": "Guzelyurt Mevkii Calkaya, Antalya 07110 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Antalya",
+      "location_id": "297962"
+    },
+    {
+      "level": "Province",
+      "name": "Antalya Province",
+      "location_id": "297960"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Mediterranean Coast",
+      "location_id": "658661"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "36.927567",
+  "longitude": "30.809578",
+  "timezone": "Europe/Istanbul",
+  "phone": "011902424631010",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297962-d518387-IC_Hotels_Airport-Antalya_Turkish_Mediterranean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297962",
+    "ranking_string": "#59 of 504 hotels in Antalya",
+    "geo_location_name": "Antalya",
+    "ranking_out_of": "504",
+    "ranking": "59"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "361",
+  "review_rating_count": {
+    "1": "24",
+    "2": "20",
+    "3": "52",
+    "4": "90",
+    "5": "175"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "284",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297962-d518387-m66827-Reviews-IC_Hotels_Airport-Antalya_Turkish_Mediterranean_Coast.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Fitness center",
+    "Pool",
+    "Room service",
+    "Restaurant",
+    "Free parking",
+    "Bar/Lounge",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Suites",
+    "Wheelchair access",
+    "Spa",
+    "Public Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Laundry Service",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Indoor pool",
+    "Outdoor pool",
+    "Sauna",
+    "Baggage Storage",
+    "Fitness / Spa Locker Rooms",
+    "24-Hour Front Desk",
+    "Hammam",
+    "Ironing Service",
+    "Massage",
+    "Salon",
+    "24-Hour Security",
+    "Turkish",
+    "Concierge",
+    "Heated pool",
+    "Free airport transportation",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Park View",
+    "Mid-range"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "117"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "80"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "45"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "43"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "44"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "location_id": "308235",
+  "name": "St.George Hotel",
+  "description": "Strategically located by the famous Dubai creek, offering magnificent views of old and new Dubai, The George Hotel by Saffron, Dubai Creek brings you the true essence of the traditional city. Surrounded by Heritage Village, the ancient Spice Souk and the Gold Souk, the hotel is ideal for holidaymakers. Conveniently situated within easy distance of the bustling Dubai business district, our hotel is also ideal for business travelers. Saffron Global Hospitality prides itself in 15 years of international hospitality and glad to introduce The George Hotel to the group. We strive to make every guest of The George Hotel by Saffron feel special and at home. Friendliness and the highest standards of personalized services are the pillars of our philosophy. Stylish yet homely, the hotel is designed with comfort and need in mind.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d308235-Reviews-St_George_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Baniyas Road",
+    "street2": "Near Public Library Al Ras",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "3944",
+    "address_string": "Baniyas Road Near Public Library Al Ras, Dubai 3944 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.26646",
+  "longitude": "55.2942",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d308235-St_George_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#492 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "492"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "144",
+  "review_rating_count": {
+    "1": "19",
+    "2": "16",
+    "3": "31",
+    "4": "40",
+    "5": "38"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    }
+  },
+  "photo_count": "134",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d308235-m66827-Reviews-St_George_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Bar/Lounge",
+    "Restaurant",
+    "Wifi",
+    "Free Wifi",
+    "Concierge",
+    "Safe",
+    "Breakfast Buffet",
+    "Breakfast Available",
+    "Bath / Shower",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Wheelchair access",
+    "Spa",
+    "Airport transportation",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Multilingual Staff",
+    "Flatscreen TV",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Arabic",
+    "Baggage Storage",
+    "Bicycle Rental",
+    "Cable / Satellite TV",
+    "Express Check-in / Check-out",
+    "Coffee Shop",
+    "Currency Exchange",
+    "Desk",
+    "English",
+    "Filipino",
+    "First Aid Kit",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Game Room",
+    "Hair Dryer",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Nightclub / DJ",
+    "On-Demand Movies",
+    "Paid Private Parking On-site",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shops",
+    "Sofa",
+    "Street Parking",
+    "Telephone",
+    "Valet Parking",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Classic",
+    "Great View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "7282429",
+      "name": "The Creek"
+    },
+    {
+      "location_id": "15620593",
+      "name": "Al Ras"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "24"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "32"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "16"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "37"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "26"
+    }
+  ],
+  "awards": []
+}

@@ -1,0 +1,334 @@
+{
+  "data": [
+    {
+      "id": 944910862,
+      "lang": "en",
+      "location_id": 4114901,
+      "published_date": "2024-04-02T06:20:29Z",
+      "rating": 3,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d4114901-r944910862-Reviews-Anantara_Downtown_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review944910862",
+      "text": "We have stayed at this property numerous times when it was run by its predecessor The Oberoi. The Oberoi was of the highest standard. Having returned to Dubai after a few years, we thought we would give The Anantara a try as we love the room size and the location.  Unfortunately, there were many glitches in our stay. The service overall was poor - this includes reception, housekeeping, in room dining. The staff appear to be amateurs. We complained on more than one occasion and the hotel was slow to respond. The offering at breakfast was also poor. The breakfast area was grimy. The floors and tables were not clean - no side plates, lots of crumbs. The waiters were slow.  The plates were scratched. It is a pity that The Anantara has not been able to maintain the high standards that were previously set at this property.",
+      "title": "Disappointing",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "madamSouthAfrica",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e5/66/default-avatar-2020-53.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e5/66/default-avatar-2020-53.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e5/66/default-avatar-2020-53.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e5/66/default-avatar-2020-53.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e5/66/default-avatar-2020-53.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945470234,
+        "title": "Owner response",
+        "text": "Dear Madam,  \n\nThank you for taking the time to share your feedback with us regarding your recent stay at Anantara Downtown Dubai Hotel. We sincerely apologize for any inconvenience or disappointment you experienced during your visit.\n\nWe deeply regret to learn that your stay did not meet your expectations and that you encountered issues with the service provided by our team, as well as the breakfast experience. Please be assured that we take your comments seriously, and we will address these concerns with the relevant departments to ensure that necessary improvements are made.\n\nAt Anantara, we strive to deliver exceptional service and maintain high standards, and we are saddened to hear that we fell short on this occasion. Your feedback is invaluable to us as it helps us identify areas for improvement and take appropriate action.\n\nWe hope that you will consider giving us another opportunity to provide you with the excellent service and experience that you deserve. Please feel free to reach out to us directly if you would like to discuss your feedback further or if there is anything we can do to assist you.\n\nWarm regards,\n\nHusam Malki\nGeneral Manager ",
+        "lang": "en",
+        "author": "Husam Malki",
+        "published_date": "2024-04-05T13:00:02Z"
+      }
+    },
+    {
+      "id": 944881476,
+      "lang": "en",
+      "location_id": 4114901,
+      "published_date": "2024-04-02T01:04:46Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d4114901-r944881476-Reviews-Anantara_Downtown_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review944881476",
+      "text": "We had a wonderful experience throughout at Anantara. Everyone has been so kind and helpful. A huge thanks to Lakshan for leaving our room spotless and his honesty. I had left the safe open by mistake and when we came back stressing about it, it was heartwarming to see that nothing was touched. Thank you very very much, we will sure be back",
+      "title": "Wonderful Experience",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "mariachiaraemanuele",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/2b/c4/d2/7b/mariachiaraemanuele.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/2b/c4/d2/7b/mariachiaraemanuele.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/2b/c4/d2/7b/mariachiaraemanuele.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/2b/c4/d2/7b/mariachiaraemanuele.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2b/c4/d2/7b/mariachiaraemanuele.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945470140,
+        "title": "Owner response",
+        "text": "Dear Ms. Maria,  \n\nThank you for sharing your wonderful experience with us at Anantara Downtown Dubai Hotel. We are delighted to hear that you enjoyed your stay and that Lakshan's exceptional service left a positive impression on you. It is always our aim to provide a spotless and comfortable environment for our guests, and we are glad that Lakshan's honesty and diligence contributed to your peace of mind during your stay.\n\nWe truly appreciate your kind words and recognition of Lakshan's efforts. Rest assured, we will pass on your compliments to him and the rest of our team. Your satisfaction is our utmost priority, and we look forward to welcoming you back for another memorable experience in the future.\n\nWarm regards,\n\nHusam Malki\nGeneral Manager ",
+        "lang": "en",
+        "author": "Husam Malki",
+        "published_date": "2024-04-05T12:59:14Z"
+      }
+    },
+    {
+      "id": 944488544,
+      "lang": "en",
+      "location_id": 4114901,
+      "published_date": "2024-03-30T06:39:18Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d4114901-r944488544-Reviews-Anantara_Downtown_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review944488544",
+      "text": "I was there in the spa for a massage with Pranar, it was very good, I went twice, he does a great job, you are very relaxed and feel fresh. The room was also clean and everything was fresh\n\nWhat I can't recommend, however, is that they forgot or didn't bring a lot of breakfast items",
+      "title": "Massage in Spa",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "C617XKjensb",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/df/99/default-avatar-2020-40.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/df/99/default-avatar-2020-40.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/df/99/default-avatar-2020-40.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/df/99/default-avatar-2020-40.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/df/99/default-avatar-2020-40.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945470049,
+        "title": "Owner response",
+        "text": "Dear Mr. Jen, \n\nThank you for choosing to stay at Anantara Downtown Dubai Hotel and for sharing your feedback with us. We are pleased to hear that you enjoyed your experience at our spa and that Pranar provided you with excellent massages, leaving you feeling relaxed and rejuvenated. We will certainly pass on your compliments to him.\n\nWe appreciate your feedback regarding the breakfast items, and we apologize for any inconvenience caused. Please rest assured that we will address this issue with our breakfast team to ensure that such oversights are not repeated in the future.\n\nOnce again, thank you for your valuable feedback, and we hope to have the pleasure of welcoming you back for another rejuvenating stay with us in the future.\n\nBest regards,\n\nHusam Malki\nGeneral Manager ",
+        "lang": "en",
+        "author": "Husam Malki",
+        "published_date": "2024-04-05T12:58:27Z"
+      }
+    },
+    {
+      "id": 944466145,
+      "lang": "en",
+      "location_id": 4114901,
+      "published_date": "2024-03-30T01:54:20Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d4114901-r944466145-Reviews-Anantara_Downtown_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review944466145",
+      "text": "Absolutely amazing hotel just a few steps from the metro. You can walk to the Burj Khalifa. The hotel (ex Oberoi) is undergoing a light refresh, especially in the social areas. The interiors are very pleasant. Our room was spacious with a large bathroom and provided an amazing view. the half-board dinner was excellent. The staff is very prompt and professional. The outdoor pool with very pleasant warm water was an oasis in the middle of the big city. We will definitely be back.",
+      "title": "Traditional quality",
+      "trip_type": "Friends getaway",
+      "travel_date": "2023-12-31",
+      "user": {
+        "username": "TomasCernicky",
+        "user_location": {
+          "id": "274707",
+          "name": "Prague, Bohemia"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/09/36/c3/d4/tomascernicky.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/09/36/c3/d4/tomascernicky.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/09/36/c3/d4/tomascernicky.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/09/36/c3/d4/tomascernicky.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-w/09/36/c3/d4/tomascernicky.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945469959,
+        "title": "Owner response",
+        "text": "Dear Mr. Cernicky,  \n\nThank you for choosing to stay with us at Anantara Downtown Dubai Hotel and for taking the time to share your feedback. We are delighted to hear that you had an absolutely amazing experience during your stay.\n\nIt's wonderful to know that you enjoyed our convenient location, spacious rooms, and the refreshing outdoor pool. We're also thrilled that you appreciated the quality of our half-board dinner and found our staff to be prompt and professional.\n\nYour kind words are truly appreciated and will be shared with our team, who will be encouraged by your praise. We are committed to providing exceptional experiences to all our guests, and we are glad to hear that we succeeded in making your stay memorable.\n\nThank you for your recommendation, and we look forward to welcoming you back for another enjoyable stay in the future.\n\nBest regards,\n\nHusam Malki\nGeneral Manager ",
+        "lang": "en",
+        "author": "Husam Malki",
+        "published_date": "2024-04-05T12:57:36Z"
+      }
+    },
+    {
+      "id": 944302054,
+      "lang": "en",
+      "location_id": 4114901,
+      "published_date": "2024-03-28T17:02:42Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d4114901-r944302054-Reviews-Anantara_Downtown_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review944302054",
+      "text": "I stayed in the Anantara Downtown I loved the location very central , the rooms were so nice the bath room was fantastic. The room service comes twice a day so when you come back in the evening your room is all fresh for which I really liked. The breakfast has a wide selection of food even had a keto section I travel a lot and this is the first time I’ve seen this . I stayed @ the same hotel in the palm and I liked the rooms better at downtown , staff can’t do enough for you so pleasant I will definitely be returning to this hotel . ",
+      "title": "Amazing hotel .",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "SYTHEEXPLORER",
+        "user_location": {
+          "id": "186338",
+          "name": "London, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f6/0d/default-avatar-2020-34.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944349003,
+        "title": "Owner response",
+        "text": "Dear Madam,  \n\nThank you for sharing your wonderful experience at Anantara Downtown Dubai Hotel. We are thrilled to hear that you had such an enjoyable stay with us.\n\nIt's fantastic to know that you loved our central location and found our rooms to be comfortable and well-appointed. We're delighted that you appreciated the twice-daily room service, ensuring that your room was fresh and welcoming each time you returned.\n\nWe're also pleased to hear that you enjoyed our breakfast selection, including the keto options. We strive to cater to the diverse dietary preferences of our guests, and we're glad you found something to your liking.\n\nYour kind words about our staff and their exceptional service are greatly appreciated. We pride ourselves on providing personalized and attentive service to ensure our guests have a memorable stay.\n\nThank you for choosing Anantara Downtown Dubai Hotel, and we look forward to welcoming you back for another exceptional stay in the future.\n\nWarm regards,\n\nHusam Malki\nGeneral Manager",
+        "lang": "en",
+        "author": "Husam Malki",
+        "published_date": "2024-03-29T05:09:33Z"
+      }
+    }
+  ]
+}

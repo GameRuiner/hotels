@@ -1,0 +1,62 @@
+{
+  "data": [
+    {
+      "id": 919633890,
+      "lang": "en",
+      "location_id": 14182829,
+      "published_date": "2023-10-03T12:46:48Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d14182829-r919633890-Reviews-Wox_Ew_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review919633890",
+      "text": "European concept hotel - friendly staff,  central location, clean and good value for money.  The breakfast was wonderful with a lot of variety,  the tea was really good.  We also enjoyed sitting outside in the evenings where they had a bar.  I would stay there again. ",
+      "title": "Good value for money ",
+      "trip_type": "Family",
+      "travel_date": "2023-10-31",
+      "user": {
+        "username": "Seku11",
+        "user_location": {
+          "id": "303843",
+          "name": "Goma, North Kivu Province"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ed/7b/default-avatar-2020-6.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ed/7b/default-avatar-2020-6.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ed/7b/default-avatar-2020-6.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ed/7b/default-avatar-2020-6.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ed/7b/default-avatar-2020-6.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 723075627,
+      "lang": "en",
+      "location_id": 14182829,
+      "published_date": "2019-11-01T14:46:31Z",
+      "rating": 2,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d14182829-r723075627-Reviews-Wox_Ew_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review723075627",
+      "text": "Stayed there for one day and it was enough for me. İt is an old hotel but the name was changed to this one. You can see from the pictures that the room was not in a good shape. Staff were helpful and the breakfast was average. Exposed cables and socket, moist in room, broken window handle, problem with shower door ....etc are just some issues İ've noticed. ",
+      "title": "Not good",
+      "trip_type": "Solo travel",
+      "travel_date": "2019-10-31",
+      "user": {
+        "username": "940kamals",
+        "user_location": {
+          "id": "609054",
+          "name": "Bolu, Bolu Province, Turkish Black Sea Coast"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/3d/default-avatar-2020-55.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

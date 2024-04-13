@@ -1,0 +1,287 @@
+{
+  "location_id": "5288230",
+  "name": "Carlton Downtown Hotel",
+  "description": "Carlton Downtown is home to 362 rooms and suites with built-in kitchenettes, dining and lifestyle venues, spa, fitness center, tennis court, swimming pool and twenty three fully-equipped meeting rooms for conferences and events. This upscale hotel offers a range of entertainment options including Jimmy Wickets Sports Bar & Lounge and level 47 , the highest AL fresco rooftop lounge in Dubai. Carlton Downtown is situated on Sheikh Zayed Road, only two minutes' walk from the metro station and in close proximity to convention center , Dubai Mall, Burj Khalifa and other tourist and business destinations.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d5288230-Reviews-Carlton_Downtown_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Zayed Road",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "7143",
+    "address_string": "Sheikh Zayed Road, Dubai 7143 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.209175",
+  "longitude": "55.274803",
+  "timezone": "Asia/Dubai",
+  "phone": "01197145069999",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d5288230-Carlton_Downtown_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#328 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "328"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "2630",
+  "review_rating_count": {
+    "1": "104",
+    "2": "96",
+    "3": "216",
+    "4": "736",
+    "5": "1479"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1314",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d5288230-m66827-Reviews-Carlton_Downtown_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Pool",
+    "Free parking",
+    "Meeting rooms",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Family Rooms",
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Business center",
+    "Fitness center",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Butler Service",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Sauna",
+    "Allergy-free Room",
+    "Arabic",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Coffee / Tea Maker",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Massage",
+    "Nightclub / DJ",
+    "Pool / Beach Towels",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Steam Room",
+    "Taxi Service",
+    "Telephone",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Kids pool",
+    "Afrikaans",
+    "ATM On Site",
+    "Bathrobes",
+    "Bidet",
+    "Billiards",
+    "Body Wrap",
+    "Cable / Satellite TV",
+    "Children's Television Networks",
+    "Clothes Rack",
+    "Complimentary Tea",
+    "Couples Massage",
+    "Currency Exchange",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Foot Bath",
+    "Foot Massage",
+    "Free Wifi in the Business Center",
+    "French",
+    "Full Body Massage",
+    "Hand Massage",
+    "Happy Hour",
+    "Head Massage",
+    "Highchairs Available",
+    "Italian",
+    "Neck Massage",
+    "Nepali",
+    "Newspaper",
+    "Outdoor Dining Area",
+    "Private Bathrooms",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Shoeshine",
+    "Sofa",
+    "Sun Umbrellas",
+    "Tile / Marble Floor",
+    "Urdu",
+    "Valet Parking",
+    "Vending Machine",
+    "Wardrobe / Closet",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Centrally Located",
+    "Mid-range"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620627",
+      "name": "Dubai International Financial Centre (DIFC)"
+    },
+    {
+      "location_id": "15620671",
+      "name": "Trade Centre"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "801"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "517"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "196"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "658"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "270"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": 945461031,
+      "lang": "en",
+      "location_id": 25270120,
+      "published_date": "2024-04-05T11:34:39Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g15263864-d25270120-r945461031-Reviews-Riva_Hotel_Alsancak-Konak_Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review945461031",
+      "text": "The hotel is very nice, staff are very kind. The bedding is very good with nice and very clean sheets. we had the one plus one suite which was very comfortable. Room cleaning was done reguraly and upon request. The location is excellent and in the centre.",
+      "title": "Pleasant nice stay in the heart of Alsancak",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "Guelareh",
+        "user_location": {
+          "id": "293999",
+          "name": "Tehran, Tehran Province"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f1/79/default-avatar-2020-21.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f1/79/default-avatar-2020-21.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f1/79/default-avatar-2020-21.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f1/79/default-avatar-2020-21.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/79/default-avatar-2020-21.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

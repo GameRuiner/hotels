@@ -1,0 +1,243 @@
+{
+  "location_id": "23393331",
+  "name": "Howard Johnson Plaza by Wyndham Dubai Deira",
+  "description": "Take in this awe-inspiring city from Howard Johnson Plaza by Wyndham Dubai Deira, walking distance from Union Metro Station and six kilometers from Dubai International Airport (DXB). Located in the business district of Deira, we’re close to shopping at Al Ghurair Centre and Deira City Centre (reachable via our free shuttle). Easily access the Dubai Aquarium & Underwater Zoo in The Dubai Mall as well as Ski Dubai in the expansive Mall of the Emirates. Our contemporary hotel welcomes you with a fitness center, rooftop pool, and free parking. Enjoy a rooftop pool, gym, free WiFi, and on-site dining Stay satiated with our restaurant and bars; stay connected with free WiFi and a business center. Work out in the gym and make time for relaxation in the outdoor pool, spa, steam room, and sauna. We also offer free basement parking and a 24/7 hotel vehicle to DXB airport. Whether you need babysitting or dry cleaning service, just ask our 24/7 front desk staff or concierge. Each stylish guest room features a flat-screen TV, mini bar, coffee/tea maker, desk, safe, ironing amenities, hair dryer, bath products, bathrobe, slippers, and bottled water. Our hotel is near the best of Dubai. See the man-made island Palm Jumeirah, soak up the sun at Al Mamzar Beach, or enjoy spectacular views from the Dubai Frame. Pick up souvenirs at the Dubai Gold and Spice Souks learn about Dubai’s past at Heritage Village, or take a dhow cruise on Dubai Creek. The iconic Burj Khalifa offers a magnificent nightly fountain shows, while Al Fahidi Historical District features homes dating back to the 19th century. You can also tour the opulent Jumeirah Mosque and see enchanting light sculptures at Dubai Garden Glow.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d23393331-Reviews-Howard_Johnson_Plaza_by_Wyndham_Dubai_Deira-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "26 B Street Al Rigga Al Muraqqabat Deira",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "128455",
+    "address_string": "26 B Street Al Rigga Al Muraqqabat Deira, Dubai 128455 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.265018",
+  "longitude": "55.322186",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d23393331-Howard_Johnson_Plaza_by_Wyndham_Dubai_Deira-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#685 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "685"
+  },
+  "rating": "3.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.0-66827-5.svg",
+  "num_reviews": "299",
+  "review_rating_count": {
+    "1": "110",
+    "2": "24",
+    "3": "28",
+    "4": "55",
+    "5": "82"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    }
+  },
+  "photo_count": "177",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d23393331-m66827-Reviews-Howard_Johnson_Plaza_by_Wyndham_Dubai_Deira-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Wheelchair access",
+    "Free Wifi",
+    "Air conditioning",
+    "Safe",
+    "Pool",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Restaurant",
+    "Bar/Lounge",
+    "Public Wifi",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Adult pool",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Sauna",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Express Check-in / Check-out",
+    "Chinese",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Currency Exchange",
+    "Desk",
+    "Electric Kettle",
+    "English",
+    "Facial Treatments",
+    "First Aid Kit",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Toiletries",
+    "Free Wifi in the Business Center",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hand Massage",
+    "Head Massage",
+    "Highchairs Available",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Laptop Safe",
+    "Light Therapy",
+    "Massage",
+    "Neck Massage",
+    "Nepali",
+    "Newspaper",
+    "Pool / Beach Towels",
+    "Private Bathrooms",
+    "Russian",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shoeshine",
+    "Soundproof Rooms",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Tamil",
+    "Taxi Service",
+    "Telephone",
+    "Urdu",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "parent_brand": "Wyndham Hotel Group",
+  "brand": "Howard Johnson",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Budget",
+    "Mid-range"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620569",
+      "name": "Al Muraqqabat"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "78"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "18"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "17"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "35"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "28"
+    }
+  ],
+  "awards": []
+}

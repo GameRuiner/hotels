@@ -1,0 +1,206 @@
+{
+  "location_id": "793508",
+  "name": "Club Reef Resort & Spa",
+  "description": "If you’re looking for a family-friendly hotel in Sharm El Sheikh, look no further than Club Reef Resort.\nClose to some of Sharm El Sheikh's most popular landmarks, such as The Heavenly Cathedral (1.3 mi) and Ghibli Raceway (2.6 mi), Club Reef Village Hotel is a great destination for tourists.\nThe rooms offer air conditioning and a refrigerator, and getting online is possible, as free internet access is available, allowing you to rest and refresh with ease.\nClub Reef Resort features a concierge. In addition, as a valued Club Reef Resort guest, you can enjoy a pool and free breakfast that are available on-site. Guests arriving by vehicle have access to free parking.\nDuring your visit, be sure to check out a popular Sharm El Sheikh dumplings  restaurant such as Little Buddha, which is a short distance from Club Reef Resort.\nIf you’re looking for something to do, Al Mustafa Mosque is a nice way to spend some time.\nThe staff at Club Reef Resort looks forward to serving you during your upcoming visit.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d793508-Reviews-Club_Reef_Resort_Spa-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Tower Bay, Om Elsid Hill",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "postalcode": "11231",
+    "address_string": "Tower Bay, Om Elsid Hill, Sharm El Sheikh 11231 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.887135",
+  "longitude": "34.324196",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d793508-Club_Reef_Resort_Spa-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#13 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "13"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "2463",
+  "review_rating_count": {
+    "1": "41",
+    "2": "33",
+    "3": "124",
+    "4": "389",
+    "5": "1876"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "4041",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d793508-m66827-Reviews-Club_Reef_Resort_Spa-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Restaurant",
+    "Beachfront",
+    "Bar/Lounge",
+    "Beach Access",
+    "Suites",
+    "Free parking",
+    "Wheelchair access",
+    "Spa",
+    "Wifi",
+    "Meeting rooms",
+    "Laundry Service",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Conference Facilities",
+    "Safe",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Outdoor pool",
+    "Private Beaches",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Aerobics",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Billiards",
+    "Darts",
+    "Diving",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "24-Hour Front Desk",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Italian",
+    "Karaoke",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Seating Area",
+    "Shops",
+    "Snorkeling",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Kids pool",
+    "Cable / Satellite TV",
+    "Children's Playground",
+    "Electric Kettle",
+    "Pool View",
+    "Private Bathrooms",
+    "Sofa",
+    "Wardrobe / Closet",
+    "Yoga Classes"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Mountain View",
+    "Great View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "21"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "672"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "153"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "838"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "597"
+    }
+  ],
+  "awards": []
+}

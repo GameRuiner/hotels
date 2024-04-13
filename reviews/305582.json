@@ -1,0 +1,253 @@
+{
+  "data": [
+    {
+      "id": 945415087,
+      "lang": "en",
+      "location_id": 305582,
+      "published_date": "2024-04-05T03:47:35Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d305582-r945415087-Reviews-Axel_Hotel_Barcelona-Barcelona_Catalonia.html?m=66827#review945415087",
+      "text": "It’s was amazing! The hotel is clean, friendly, and the people in the reception are super nice and helpful (eric is the best!) definitely I’ll come back in my next visit. The room was big enough for both of us, we had everything we need inside the hotel, the location is amazing and close to everything\nLove it!!!",
+      "title": "Amazing young and friendly",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "336tamarh",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f4/20/default-avatar-2020-31.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 942956303,
+      "lang": "en",
+      "location_id": 305582,
+      "published_date": "2024-03-19T20:26:26Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d305582-r942956303-Reviews-Axel_Hotel_Barcelona-Barcelona_Catalonia.html?m=66827#review942956303",
+      "text": "The men Eric that help us at reception was very nice and helpful to help us with booking xtra days at the hotel. It was very last minute but gives us amazing room at the hotel and was very friendly. So this was really that we get so good help also the hotel very clean",
+      "title": "Very nice help",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "752theoh",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e9/ef/default-avatar-2020-66.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 943350091,
+        "title": "Owner response",
+        "text": "Dear guest, \nWe are happy to hear your opinion about the staff at the hotel, our main goal is providing an excellent service and comments like yours are very appreciated. \nWe are looking forward to welcoming you again in the future. \nKindest Regards\nJorge - Hotel Manager ",
+        "lang": "en",
+        "author": "AXEL BARCELONA AXEL",
+        "published_date": "2024-03-22T04:40:42Z"
+      }
+    },
+    {
+      "id": 941179042,
+      "lang": "en",
+      "location_id": 305582,
+      "published_date": "2024-03-06T07:20:04Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d305582-r941179042-Reviews-Axel_Hotel_Barcelona-Barcelona_Catalonia.html?m=66827#review941179042",
+      "text": "Comfortable and super clean and fancy hotel in the center of Barcelona. It starts with a welcome at the check-in with the smile from Eric continues with the amazing mattresses that you sleep like in heaven.\n\nI personally didn’t use the spa this time but if I come back late spring or summer, I sure will. The restaurant can be reached without leaving the house is amazing I am 100% satisfied and won’t look for another location unless it’s overbooked. 100% love it.",
+      "title": "My No 1 places to stay in Barcelona",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "tintenkleckser",
+        "user_location": {
+          "id": "951338",
+          "name": "Zofingen, Canton of Aargau"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ec/a2/default-avatar-2020-3.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ec/a2/default-avatar-2020-3.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ec/a2/default-avatar-2020-3.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ec/a2/default-avatar-2020-3.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ec/a2/default-avatar-2020-3.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 941378631,
+        "title": "Owner response",
+        "text": "Dear guest,\nWe really appreciate your positive review about your stay. We hope you enjoyed your time in Barcelona and it will be a pleasure to host you again in the near future. \nYours Sincerely,\nJorge - Hotel Manager",
+        "lang": "en",
+        "author": "AXEL BARCELONA AXEL",
+        "published_date": "2024-03-08T03:32:58Z"
+      }
+    },
+    {
+      "id": 941012265,
+      "lang": "en",
+      "location_id": 305582,
+      "published_date": "2024-03-06T06:07:30Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d305582-r941012265-Reviews-Axel_Hotel_Barcelona-Barcelona_Catalonia.html?m=66827#review941012265",
+      "text": "Great hotel, amazing restaurant and staff. Especially Eric was super helpful, thanks a lot for that!\nIt was super clean, the rooms were superb with a great if not one of the best views you can get. \nUnfortunately the Bar at rooftop is only on weekends, but I‘ll definitely come back!",
+      "title": "Lovely!",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "stefan_grgic",
+        "user_location": {
+          "id": "188113",
+          "name": "Zurich"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/df/2b/default-avatar-2020-39.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 941378582,
+        "title": "Owner response",
+        "text": "Dear Stefan, \nWe are happy to hear your opinion about the staff at the hotel, our main goal is providing an excellent service and comments like yours are very appreciated. \nWe are looking forward to welcoming you again in the future. \nKindest Regards\nJorge - Hotel Manager ",
+        "lang": "en",
+        "author": "AXEL BARCELONA AXEL",
+        "published_date": "2024-03-08T03:32:20Z"
+      }
+    },
+    {
+      "id": 940759431,
+      "lang": "en",
+      "location_id": 305582,
+      "published_date": "2024-03-04T03:58:34Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d305582-r940759431-Reviews-Axel_Hotel_Barcelona-Barcelona_Catalonia.html?m=66827#review940759431",
+      "text": "My experience at Axel was great. Had a nice time, good and clean rooms and a nice bar. Unfortunately i couldnt use the pool because of the weather but looks nice\nEric on the frontdesk was really helpful and kind\nDefenetly coming back next summer",
+      "title": "AXEL HOTEL BARCELONA",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Companion10716748222",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/de/e7/default-avatar-2020-37.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/de/e7/default-avatar-2020-37.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/de/e7/default-avatar-2020-37.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/de/e7/default-avatar-2020-37.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/de/e7/default-avatar-2020-37.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 941378556,
+        "title": "Owner response",
+        "text": "Dear guest, \nWe are happy to hear your opinion about the staff at the hotel, our main goal is providing an excellent service and comments like yours are very appreciated. \nWe are looking forward to welcoming you again in the future. \nKindest Regards\nJorge - Hotel Manager ",
+        "lang": "en",
+        "author": "AXEL BARCELONA AXEL",
+        "published_date": "2024-03-08T03:32:04Z"
+      }
+    }
+  ]
+}

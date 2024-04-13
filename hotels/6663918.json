@@ -1,0 +1,282 @@
+{
+  "location_id": "6663918",
+  "name": "SUNRISE Montemare Resort -Grand Select-",
+  "description": "Highlights: • Luxury resort with private beach and coral reef • Family friendly while keeping adults-only realms • Swim-up and Jacuzzi Rooms & Suites • 1 buffet and 7 à la carte restaurants (unlimited visits when booking all-inclusive and 1 seafood \"Felucca\" against extra charge) • Royal club privileges upon booking selected suites • Indian Ayurveda Spa availability Experience all the pleasures and luxuries of Sharm El Sheikh at SUNRISE Montemare Resort -Grand Select- a beautiful vacation spot overlooking the Gulf of Aqaba and Tiran Island. The 5-star luxury resort is family-friendly, however keeping its adults-only realms. The 367 rooms at SUNRISE Montemare Resort offer all the comfort and luxury you need for an unforgettable holiday at the Red Sea. Every room comes with satellite TV, air conditioning, minibar with soft drinks, tea & coffee making facilities and much more. Free Wi-Fi is available throughout the resort and in all rooms. For guest seeking an extra outstanding experience, the resort offers swim-up rooms & suites, as well as sea view suites with private garden and pool. Experience culinary delights in the international restaurant with a daily changing theme buffet or dine at one of the 7 à-la-carte restaurants serving Asian, Italian, Egyptian, Steak. BBQ, Diet & Light Cuisine. Delicacies from the sea can be enjoyed at Felucca Seafood restaurant (chargeable). In addition, the resort houses 7 Bars: 3 Pool Bars, Beach Bar, Sports Bar, Shisha Lounge, and a 24h Lobby Bar. As the first hotel chain in Egypt, SUNRISE Resorts & Cruises introduces Ayurveda treatments in SUNRISE Montemare Resort in Sharm El Sheikh. The introduction of the Ayurveda Spa with its highly selected and trained staff from India will make the Resort a new attraction for wellness, health and healing enthusiasts. With a spectacular beachfront and 4 outdoor pools, the Resort offers the perfect retreat. Located 10km (13 min) to Sharm El Sheikh Centre and 22km (21 min) to Sharm El Sheikh International Airport, the resort features a distinctive location. Our all-inclusive concept includes: Breakfast, Lunch and Dinner in Buffets or a la carte Restaurants (unlimited reservations), Snacks from 12:00-17:00, 22:30-01:00, local alcoholic Beverages from 10:00-00:00, Water and Hot Beverages 24/7, Minibar with water and soft drinks, Wi-Fi, free entertainment and sports activities, and much more. Some activities/services such as Diving Center, Spa Treatment are extra charge. Please get back to the hotel AI Formula for detailed information.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d6663918-Reviews-SUNRISE_Montemare_Resort_Grand_Select-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "El Fanar Street",
+    "street2": "Hadaba",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "postalcode": "1234",
+    "address_string": "El Fanar Street Hadaba, Sharm El Sheikh 1234 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.85367",
+  "longitude": "34.316113",
+  "timezone": "Africa/Cairo",
+  "phone": "01120693666681",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d6663918-SUNRISE_Montemare_Resort_Grand_Select-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#24 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "24"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "3704",
+  "review_rating_count": {
+    "1": "43",
+    "2": "56",
+    "3": "146",
+    "4": "392",
+    "5": "3067"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "4843",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d6663918-m66827-Reviews-SUNRISE_Montemare_Resort_Grand_Select-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Beachfront",
+    "Free Internet",
+    "Pool",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Water Park",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Butler Service",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Private Pools",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Sauna",
+    "Aerobics",
+    "Arabic",
+    "ATM On Site",
+    "Bath / Shower",
+    "Bathrobes",
+    "Billiards",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Bridal Suite",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Darts",
+    "Desk",
+    "Diving",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Foot Massage",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Head Massage",
+    "Hebrew",
+    "Ironing Service",
+    "Italian",
+    "Laptop Safe",
+    "Massage",
+    "Mini Golf",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Snorkeling",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Kids pool",
+    "Body Wrap",
+    "Cable / Satellite TV",
+    "Children's Playground",
+    "Couples Massage",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Hand Massage",
+    "Highchairs Available",
+    "Landmark View",
+    "Manicure",
+    "Neck Massage",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Personal Trainer",
+    "Pool View",
+    "Private Bathrooms",
+    "Tile / Marble Floor",
+    "Umbrella",
+    "VIP Room Facilities",
+    "Wardrobe / Closet",
+    "Waterslide",
+    "Yoga Classes",
+    "Beach Access"
+  ],
+  "parent_brand": "Sunrise Resorts & Cruises",
+  "brand": "Sunrise Resorts",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Great View",
+    "Ocean View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "67"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1577"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "186"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "908"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "621"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "location_id": "302136",
+  "name": "Iberotel Palace",
+  "description": "The Adults-only 16+ Iberotel Palace exudes a distinct charm and warm hospitality. The resort welcomes adults only, to ensure privacy and relaxation. It’s location is one of a kind, with stunning views overlooking the Red Sea. Iberotel Palace has a premier address in the heart of Sharm El Sheikh. Our property overlooks a vast swathe of sandy beach and turquoise water in the Sharm El Maya bay, within walking distance of the Old Town. This grants guests access to the most stunning sandy beach in the sea, with the wind break area that depicts the calm waves. Our resort is situated within easy driving distance of the airport (20 km) and Naama Bay (10 km), five minutes from Sharm El Sheikh's main gate. It is with gratitude to mention that the hotel's astonishing location is near Ras Mohamed National Park, and is also very close to El Sahaba Mosque in old Market (an ottoman-style architectural masterpiece). Iberotel Palace is an oasis of luxury and sophistication in the heart of Sharm El Sheikh. It’s beautiful beach-front location makes it the top choice for those who are looking for a blend of culture, nature and adventure, along with seamless service and a sophisticated ambience. Access to two private beaches – a sweeping sandy beach for sunbathing and swimming, and an expanse of coral beach for snorkeling. A terrific location in the heart of Sharm El Sheikh, with stunning views of the Red Sea Tranquil and expansive, the Mividaspa at Iberotel Palace is the perfect place to unwind and revitalize. An adults-only hotel, combining privacy, elegance, and a unique atmosphere.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d302136-Reviews-Iberotel_Palace-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Sharm El Maya Bay",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "postalcode": "8761022",
+    "address_string": "Sharm El Maya Bay, Sharm El Sheikh 8761022 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.863379",
+  "longitude": "34.293736",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d302136-Iberotel_Palace-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#23 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "23"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "5745",
+  "review_rating_count": {
+    "1": "32",
+    "2": "52",
+    "3": "201",
+    "4": "819",
+    "5": "4641"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "6060",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d302136-m66827-Reviews-Iberotel_Palace-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Restaurant",
+    "Fitness center",
+    "Room service",
+    "Beachfront",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Suites",
+    "Free parking",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Housekeeping",
+    "Sauna",
+    "Aerobics",
+    "Arabic",
+    "ATM On Site",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "24-Hour Check-in",
+    "Diving",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Ironing Service",
+    "Massage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Public Wifi",
+    "Express Check-in / Check-out",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Mountain View",
+    "Outdoor Dining Area",
+    "Pool View",
+    "Tile / Marble Floor",
+    "Umbrella",
+    "Wardrobe / Closet",
+    "Yoga Classes",
+    "Beach Access"
+  ],
+  "parent_brand": "Jaz Hotel Group",
+  "brand": "Jaz Hotel Group",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "City View",
+    "Business"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "34"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "3338"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "166"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1112"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "543"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

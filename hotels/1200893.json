@@ -1,0 +1,228 @@
+{
+  "location_id": "1200893",
+  "name": "Dusit Princess Residences - Dubai Marina",
+  "description": "Dusit Princess Residences Dubai Marina is a luxury holiday home apartments set within a stunning 35-storey landmark tower overlooking the lifestyle enclave of Dubai Marina. Within easy proximity to all of Dubai's business and leisure areas, each of the 146 residences offers panoramic views of the Marina or across the Arabian Gulf. Well-designed living spaces are integrated with comprehensive facilities and gracious Thai service to support your every need. It offers all the conveniences of a residence and the advantages of a hotel. We invite you to elevate your stay in Dubai to memorable heights with Dusit Princess Residences Dubai Marina. Located in the heart of Dubai Marina, Dusit Princess Residences Dubai Marina offers holiday home accommodations with breath-taking views over the Marina canal. It features 1, 2, and 3 bedroom apartments with a fully equipped kitchen, interactive television, and free Wi-Fi. A dishwasher, washing machine, and dryer are available in every apartment. Housekeeping service is available 24/7. There is an outdoor temperature-controlled swimming pool and fitness center available for guests' use. Our guests can enjoy a set-menu breakfast at the delightful restaurant, the Baker’s Kitchen, located on the Ground Floor Lobby Level. Dusit Princess Residences Dubai Marina is in close proximity to the favorite tourist sites i.e. the Marina Walk, the JBR beach, Bluewaters Island, and more. Also, has the ease of commuting through metro and tram station just within 10 minutes of walking distance. Dusit Princess Residences Dubai Marina is situated right at the waterfront with easy access to the promenade which is great for jogging or leisure strolls. The city's hotspots, cafes/restaurants are at just a few minutes walking distance from the property. Free underground parking is available for Dusit Princess Residences guests.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1200893-Reviews-Dusit_Princess_Residences_Dubai_Marina-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Emreef St",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "212744",
+    "address_string": "Al Emreef St, Dubai 212744 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.08297",
+  "longitude": "55.144466",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1200893-Dusit_Princess_Residences_Dubai_Marina-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#32 of 766 Specialty lodging in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "766",
+    "ranking": "32"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "696",
+  "review_rating_count": {
+    "1": "35",
+    "2": "33",
+    "3": "74",
+    "4": "248",
+    "5": "306"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "403",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1200893-m66827-Reviews-Dusit_Princess_Residences_Dubai_Marina-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Kitchenette",
+    "Suites",
+    "Free parking",
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Spa",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Microwave",
+    "Refrigerator in room",
+    "Babysitting",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Additional Bathroom",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Dishwasher",
+    "Hindi",
+    "Safe",
+    "Housekeeping",
+    "Arabic",
+    "Bidet",
+    "Bottled Water",
+    "Cable / Satellite TV",
+    "24-Hour Check-in",
+    "Express Check-in / Check-out",
+    "Children's Playground",
+    "Clothes Dryer",
+    "Clothes Rack",
+    "Complimentary Tea",
+    "Desk",
+    "Dining Area",
+    "Electric Kettle",
+    "English",
+    "Filipino",
+    "First Aid Kit",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Iron",
+    "Kitchenware",
+    "Landmark View",
+    "Laptop Safe",
+    "Oven",
+    "Pool with View",
+    "Private Bathrooms",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Shoeshine",
+    "Sofa",
+    "Stovetop",
+    "Tamil",
+    "Taxi Service",
+    "Telephone",
+    "Tile / Marble Floor",
+    "Urdu",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Washing Machine",
+    "Beach Access"
+  ],
+  "parent_brand": "Dusit International",
+  "brand": "Dusit Hotels and Resorts",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [
+    "Mid-range",
+    "Lagoon View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7282432",
+      "name": "The Marina"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "127"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "81"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "28"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "334"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "78"
+    }
+  ],
+  "awards": []
+}

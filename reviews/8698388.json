@@ -1,0 +1,259 @@
+{
+  "data": [
+    {
+      "id": 945822499,
+      "lang": "en",
+      "location_id": 8698388,
+      "published_date": "2024-04-08T07:55:24Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d8698388-r945822499-Reviews-Nikki_Beach_Resort_Spa_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review945822499",
+      "text": "i liked this place with my friends  , this beach club is so nice, the best in dubai, the party is also very nice, the pool and the food as well, and also it has access to the beach and the sea ,  i will come back for sure ! thank you ! i recommend this place",
+      "title": "nice",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "370orianab",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e7/7b/default-avatar-2020-56.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e7/7b/default-avatar-2020-56.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e7/7b/default-avatar-2020-56.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e7/7b/default-avatar-2020-56.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/7b/default-avatar-2020-56.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945910439,
+        "title": "Owner response",
+        "text": "Dear Bizern o ,\n\nI am absolutely thrilled to read that though brief you had a great time with us. Additionally, it makes me so proud to learn that you were well looked after by our talents. Our team members constantly put lots of energy and passion into creating memorable experiences for our guests, and we are glad to know that we succeeded.\n\nWe wish to see you soon and until then...keep Celebrating Life!\n\nBest Regards,\nFahd Mohamed \nResort Manager",
+        "lang": "en",
+        "author": "Nikki Beach",
+        "published_date": "2024-04-09T01:15:30Z"
+      }
+    },
+    {
+      "id": 945716488,
+      "lang": "en",
+      "location_id": 8698388,
+      "published_date": "2024-04-07T12:06:49Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d8698388-r945716488-Reviews-Nikki_Beach_Resort_Spa_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review945716488",
+      "text": "I had amazing day with my friends at Nikki beach club ! The beach club is very big and nice , they have big pool and also amazing open sea , so beautiful beach . The food was amazing , I highly recommend sea bass ) was very good . Beautiful sunset amazing atmosphere . One of my favorite place in dubai",
+      "title": "Amazing beach club",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "V7630NBjulial",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e3/1f/default-avatar-2020-46.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945910512,
+        "title": "Owner response",
+        "text": "Dear V7630NBjulial,\n\nI am absolutely thrilled to read that though brief you had a great time with us. Additionally, it makes me so proud to learn that you were well looked after by our talents. Our team members constantly put lots of energy and passion into creating memorable experiences for our guests, and we are glad to know that we succeeded.\n\nWe wish to see you soon and until then...keep Celebrating Life!\n\nBest Regards,\nFahd Mohamed \nResort Manager",
+        "lang": "en",
+        "author": "Nikki Beach",
+        "published_date": "2024-04-09T01:16:59Z"
+      }
+    },
+    {
+      "id": 945668336,
+      "lang": "en",
+      "location_id": 8698388,
+      "published_date": "2024-04-07T05:12:55Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d8698388-r945668336-Reviews-Nikki_Beach_Resort_Spa_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review945668336",
+      "text": "Such a beautiful beach club, convenient location, food was great and staff is friendly, enjoyed taking pics in the pool and beach. Me and my girls enjoyed the DJ and the atmosphere, I would totally recommend it. Special thanks to Alex for making our experience even better",
+      "title": "Great",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "giuvalenzuela",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1d/e4/5f/bd/giuliana-v.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1d/e4/5f/bd/giuliana-v.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1d/e4/5f/bd/giuliana-v.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1d/e4/5f/bd/giuliana-v.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1d/e4/5f/bd/giuliana-v.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945910601,
+        "title": "Owner response",
+        "text": "Dear Giuliana V,\n\nI am absolutely thrilled to read that though brief you had a great time with us. Additionally, it makes me so proud to learn that you were well looked after by our talents. Our team members constantly put lots of energy and passion into creating memorable experiences for our guests, and we are glad to know that we succeeded.\n\nWe wish to see you soon and until then...keep Celebrating Life!\n\nBest Regards,\nFahd Mohamed \nResort Manager",
+        "lang": "en",
+        "author": "Nikki Beach",
+        "published_date": "2024-04-09T01:18:34Z"
+      }
+    },
+    {
+      "id": 945660093,
+      "lang": "en",
+      "location_id": 8698388,
+      "published_date": "2024-04-07T03:51:02Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d8698388-r945660093-Reviews-Nikki_Beach_Resort_Spa_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review945660093",
+      "text": "We met up with some old friends for brunch at Nikki Beach. Brandon greeted us and helped us select a great table. He looked after us throughout our meal and was an amazing host.  Even at the end, he helped us find sofas so we could enjoy the sunset overlooking the beach. \nThe atmosphere was really relaxed and the pool and restaurant area were beautiful. \nThe food was great - really varied options for the starters and the desserts and the fish and meat options for the main were beautifully cooked and presented. \nChampagne flowed throughout - totally recommend that package. Thanks Brandon and team, we’ll be back for sure.",
+      "title": "Best brunch in dubai",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "W5154XXandyb",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ee/10/default-avatar-2020-8.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945910564,
+        "title": "Owner response",
+        "text": "Dear Andy B,\n\nI am absolutely thrilled to read that though brief you had a great time with us. Additionally, it makes me so proud to learn that you were well looked after by our talents. Our team members constantly put lots of energy and passion into creating memorable experiences for our guests, and we are glad to know that we succeeded.\n\nWe wish to see you soon and until then...keep Celebrating Life!\n\nBest Regards,\nFahd Mohamed \nResort Manager",
+        "lang": "en",
+        "author": "Nikki Beach",
+        "published_date": "2024-04-09T01:17:51Z"
+      }
+    },
+    {
+      "id": 945563814,
+      "lang": "en",
+      "location_id": 8698388,
+      "published_date": "2024-04-06T09:05:12Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d8698388-r945563814-Reviews-Nikki_Beach_Resort_Spa_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review945563814",
+      "text": "Amazing Service at the Brunch.  Great value for money and the best brunch we’ve been to Dubai. Brandon was amazing.. great experience from start to finish. Nothing was too much trouble for him. \n\nFood was beautiful.  Would definitely recommend.",
+      "title": "Amazing Brunch Experience",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "jennyrZ4115EL",
+        "user_location": {
+          "id": "528789",
+          "name": "Bury, Greater Manchester, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/48/default-avatar-2020-15.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945608925,
+        "title": "Owner response",
+        "text": "Dear jennyrZ4115EL,\n\nI am absolutely thrilled to read that though brief you had a great time with us. Additionally, it makes me so proud to learn that you were well looked after by our talents. Our team members constantly put lots of energy and passion into creating memorable experiences for our guests, and we are glad to know that we succeeded.\n\nWe wish to see you soon and until then...keep Celebrating Life!\n\nBest Regards,\nFahd Mohamed \nResort Manager",
+        "lang": "en",
+        "author": "Nikki Beach",
+        "published_date": "2024-04-06T15:41:17Z"
+      }
+    }
+  ]
+}

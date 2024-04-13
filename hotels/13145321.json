@@ -1,0 +1,291 @@
+{
+  "location_id": "13145321",
+  "name": "Akti Imperial Deluxe Resort & Spa Dolce by Wyndham",
+  "description": "Recently renovated, and featuring a private beach, this ultra-all-inclusive resort is a modern, elegant 5-star historical hotel overlooking the sea, perfect for an unforgettable vacation, in the enchanting setting of Ixia and the Aegean Sea. Surrounded by gardens, 4 fresh-water outdoor pools and just footsteps away from the long, magnificent sandy-pebble beach of Ixia, this impressive hotel is just 5 minutes’ drive from Rhodes Town and the Medieval City of Rhodes. It offers an extensive spa center, a well-equipped fitness center, an indoor fresh-water pool, 8 restaurants and conference facilities. WiFi is free in all areas. Free sun loungers and parasols available for both pool and beach use. The modern guestrooms come with air conditioning, a balcony and safe-deposit box. Rooms come with private bathrooms featuring a shower or bathtub, with a full size hairdryer and free toiletries for your comfort. A free minibar and flat-screen TV with satellite channels are available in each unit.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g635614-d13145321-Reviews-Akti_Imperial_Deluxe_Resort_Spa_Dolce_by_Wyndham-Ialyssos_Rhodes_Dodecanese_South_Aeg.html?m=66827",
+  "address_obj": {
+    "street1": "Ialyssos Avenue",
+    "city": "Ialyssos",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "85101",
+    "address_string": "Ialyssos Avenue, Ialyssos 85101 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Ialyssos",
+      "location_id": "635614"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.424965",
+  "longitude": "28.197304",
+  "timezone": "Europe/Athens",
+  "write_review": "https://www.tripadvisor.com/UserReview-g635614-d13145321-Akti_Imperial_Deluxe_Resort_Spa_Dolce_by_Wyndham-Ialyssos_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "635614",
+    "ranking_string": "#21 of 43 hotels in Ialyssos",
+    "geo_location_name": "Ialyssos",
+    "ranking_out_of": "43",
+    "ranking": "21"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "2059",
+  "review_rating_count": {
+    "1": "111",
+    "2": "109",
+    "3": "256",
+    "4": "475",
+    "5": "1108"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "3646",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g635614-d13145321-m66827-Reviews-Akti_Imperial_Deluxe_Resort_Spa_Dolce_by_Wyndham-Ialyssos_Rhodes_Dodecanese_South_Aeg.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Kids Activities",
+    "Beachfront",
+    "Suites",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Facilities for Disabled Guests",
+    "Kids Club",
+    "Sauna",
+    "Aerobics",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Billiards",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Car Hire",
+    "Chapel / Shrine",
+    "24-Hour Check-in",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Convenience Store",
+    "Darts",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Game Room",
+    "German",
+    "Gift Shop",
+    "Greek",
+    "Hair Dryer",
+    "Head Massage",
+    "Indoor Play Area for Children",
+    "Ironing Service",
+    "Italian",
+    "Kid-Friendly Buffet",
+    "Massage",
+    "Outdoor Furniture",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shops",
+    "Snack Bar",
+    "Spanish",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Swedish",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Beach Access",
+    "Kids pool",
+    "Archery",
+    "Cable / Satellite TV",
+    "Express Check-in / Check-out",
+    "Couples Massage",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Complimentary Welcome Drink",
+    "Free Wifi in the Business Center",
+    "Highchairs Available",
+    "Manicure",
+    "Mountain View",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Private Bathrooms",
+    "Serbian",
+    "Sofa Bed",
+    "Tile / Marble Floor",
+    "Umbrella",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Yoga Classes"
+  ],
+  "parent_brand": "Dolce Hotels and Resorts",
+  "brand": "Dolce Hotels and Resorts",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Trendy",
+    "Business"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "7"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "612"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "23"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "879"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "159"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

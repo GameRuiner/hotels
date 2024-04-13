@@ -1,0 +1,184 @@
+{
+  "location_id": "2096204",
+  "name": "Tanik Hotel",
+  "description": "TANİK HOTEL İS GLAD TO WELCOME YOU İN İZMİR , THE MOST BEATİFUL AEGEAN HARBOUR CİTY WİTH THE MOST GLORİOUS SCENE. OUR 24 HOURS OPEN HOTEL , WHİCH İS LOCATED AT A DİSTANCE OF 300 METRES FROM ''9 EYLÜL MEYDANI'' NEAR İZMİR İNTERNATİONAL FAİR, İS DESİGNED TO FULFİL YOUR POSSİBLE NEED.OUR ROOMS İNCLUDE LCD TV,SATTALİTE ,MUSİC BROADCAST,HOT WATER , HEATİNG SYSTEM , MİNİBAR .",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d2096204-Reviews-Tanik_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Gazi Bulv. 1364. Sok. No:13",
+    "street2": "Basmane, Konak",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "",
+    "address_string": "Gazi Bulv. 1364. Sok. No:13 Basmane, Konak, Izmir Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.423794",
+  "longitude": "27.140312",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d2096204-Tanik_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#49 of 218 hotels in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "218",
+    "ranking": "49"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "109",
+  "review_rating_count": {
+    "1": "8",
+    "2": "8",
+    "3": "21",
+    "4": "38",
+    "5": "34"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "81",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d2096204-m66827-Reviews-Tanik_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Free Wifi",
+    "Breakfast included",
+    "Non-smoking rooms",
+    "Air conditioning",
+    "Family Rooms",
+    "Minibar",
+    "Breakfast Buffet",
+    "Pets Allowed",
+    "Wifi",
+    "Dry Cleaning",
+    "Laundry Service",
+    "Concierge",
+    "Smoking rooms available",
+    "Non-smoking hotel",
+    "Safe",
+    "Breakfast Available",
+    "Housekeeping",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Breakfast in the Room",
+    "Express Check-in / Check-out",
+    "Coffee Shop",
+    "Currency Exchange",
+    "English",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Iron",
+    "Ironing Service",
+    "Newspaper",
+    "Outdoor Furniture",
+    "Private Check-in / Check-out",
+    "Shared Lounge / TV Area",
+    "Shoeshine",
+    "Snack Bar",
+    "Telephone",
+    "Turkish"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Classic",
+    "Quaint"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "16"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "32"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "9"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "22"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "17"
+    }
+  ],
+  "awards": []
+}

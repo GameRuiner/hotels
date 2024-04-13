@@ -1,0 +1,272 @@
+{
+  "location_id": "1141245",
+  "name": "Rehana Royal Beach Resort - Aquapark & Spa",
+  "description": "The hotel has a total number of 682 rooms of different types: Standard - comfortable room with pool and garden view; Family - large room with garden and pool view; Superior – nice room with the seaside view; Each room is equipped with individually controlled air conditioning, private bathroom with shower, television, telephone, safe box. Balcony or terrace with a beautiful view of the garden, palm trees and swimming pools can be found in every room. Hotel has 10 different shaped swimming pools, Aqua Park with water slides for kids and adults. Some of them, including the Main one, are heated in winter. We provide 24 HOURS ALL INCLUSIVE with lots of different meals and snacks, kids menu in the main restaurant, cotton candy, popcorn, ice cream – for free. Internet is available for free in the lobby and food court area!",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g303855-d1141245-Reviews-Rehana_Royal_Beach_Resort_Aquapark_Spa-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_an.html?m=66827",
+  "address_obj": {
+    "street1": "7th Km North Sharm Airport",
+    "street2": "",
+    "city": "Nabq Bay",
+    "country": "Egypt",
+    "postalcode": "",
+    "address_string": "7th Km North Sharm Airport, Nabq Bay, Sharm El Sheikh Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Nabq Bay",
+      "location_id": "303855"
+    },
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "28.019712",
+  "longitude": "34.436817",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g303855-d1141245-Rehana_Royal_Beach_Resort_Aquapark_Spa-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "303855",
+    "ranking_string": "#26 of 41 hotels in Nabq Bay",
+    "geo_location_name": "Nabq Bay",
+    "ranking_out_of": "41",
+    "ranking": "26"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "4182",
+  "review_rating_count": {
+    "1": "197",
+    "2": "184",
+    "3": "348",
+    "4": "677",
+    "5": "2776"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "5573",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g303855-d1141245-m66827-Reviews-Rehana_Royal_Beach_Resort_Aquapark_Spa-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_an.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Restaurant",
+    "Fitness center",
+    "Beachfront",
+    "Beach Access",
+    "Suites",
+    "Internet",
+    "Free parking",
+    "Bar/Lounge",
+    "Wifi",
+    "Free Internet",
+    "Spa",
+    "Public Wifi",
+    "Paid Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Conference Facilities",
+    "Safe",
+    "Swimup Bar",
+    "Flatscreen TV",
+    "Water Park",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Pools",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Sauna",
+    "Aerobics",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Billiards",
+    "Bottled Water",
+    "24-Hour Check-in",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Darts",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Game Room",
+    "Gift Shop",
+    "Hair Dryer",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Karaoke",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shoeshine",
+    "Shops",
+    "Snack Bar",
+    "Special Diet Menus",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Telephone",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Body Wrap",
+    "Cable / Satellite TV",
+    "Children's Playground",
+    "Diving",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Complimentary Welcome Drink",
+    "Full Body Massage",
+    "Highchairs Available",
+    "Landmark View",
+    "Makeup Services",
+    "Manicure",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Pool View",
+    "Private Bathrooms",
+    "Sofa",
+    "Tennis Court Off-site",
+    "Tile / Marble Floor",
+    "Wardrobe / Closet",
+    "Waterslide",
+    "Yoga Classes"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Marina View",
+    "Family"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "24"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "804"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "133"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1521"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "1175"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice Best of the Best",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png"
+      },
+      "categories": [
+        "AllInclusive"
+      ],
+      "display_name": "Travelers Choice Best of the Best"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "id": 714764232,
+      "lang": "en",
+      "location_id": 16852817,
+      "published_date": "2019-10-02T11:02:52Z",
+      "rating": 2,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g15306079-d16852817-r714764232-Reviews-Second_House-Cigli_Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review714764232",
+      "text": "Stayed for one night as there was no other available hotel in the area.\nThe place is more like a \"Apart Hotel\" where we got a suite room. \n\nCons:\n1. You don't get no key. All doors are unlocked and you get in your room and lock the door from the inside. When we protested they say it's safe and they have cameras. I'd leave but had no other option as we left lap tops etc as we were out for dinner.\n2. No elevator. You have to climb up very narrow stairs to get on your room up to 4th or 5th floor. \n3. Only one staff and s/he is at reception. The TV wasn't working in the bedroom but they first refused to service. When I insisted they just stalled and didn't show up at all.\n4. No breakfast. No where to have breakfast. Just rooms and a desk that works as reception on the stairway\n\nPros:\n1. Very spacious. Room had 4 rooms one large bathroom where the shower was also spacious and the water was hot. No tub. But of course this was the suite room so I don't know the normal rooms.\n2. Lots of printed paintings and movie posters. Nice if you like that stuff. A bit cheesy tho as it is really too much. Also they have a few old radios and phones on the stairway, which you may like or find cheesy.\n3. Has parking space right infront of the hotel but only for three cars. It was available for us so it goes as a pro.\n\nI didn't have time to check the internet so I can't vote on that. \nWould I say again? No. If I have to go there and make a meeting or so I may use it as a meeting room but the key issue is a deal breaker really.",
+      "title": "No room keys",
+      "trip_type": "Business",
+      "travel_date": "2019-09-30",
+      "user": {
+        "username": "zengin",
+        "user_location": {
+          "id": "293974",
+          "name": "Istanbul"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/01/2e/70/67/avatar045.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/01/2e/70/67/avatar045.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/01/2e/70/67/avatar045.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Service"
+        },
+        "2": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    }
+  ]
+}

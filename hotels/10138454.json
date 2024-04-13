@@ -1,0 +1,152 @@
+{
+  "location_id": "10138454",
+  "name": "Spil Suites",
+  "description": "Farklı konseptte dekor edilmis dairelerimide single yatak odalı birimlerde 4 kisiye kadar konaklama imkanı bulunmaktadır. Konuklarına ev rahatlıgında otel komformu sunan tesislerimizde yemek hazırlama mutfak ucretsiz market servisi,utu hizmeti,otopark hizmeti,24 saat lobi ve resepsiyon hizmeti sunmaktayız, Tesislerimiz izmir konak ilcesinde kultur park&fuar cevresinde bulunmaktadır.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d10138454-Reviews-Spil_Suites-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Oguzlar Mahallesi 1258 Sokak No:9",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35090",
+    "address_string": "Oguzlar Mahallesi 1258 Sokak No:9, Izmir 35090 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.42391",
+  "longitude": "27.148588",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d10138454-Spil_Suites-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#18 of 194 Specialty lodging in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "194",
+    "ranking": "18"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "7",
+  "review_rating_count": {
+    "1": "1",
+    "2": "0",
+    "3": "0",
+    "4": "3",
+    "5": "3"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "7",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d10138454-m66827-Reviews-Spil_Suites-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Pets Allowed",
+    "Kitchenette",
+    "Wifi",
+    "Free Wifi",
+    "Business center",
+    "Kids Activities",
+    "Laundry Service",
+    "Air conditioning",
+    "Family Rooms",
+    "Non-smoking hotel",
+    "Housekeeping",
+    "Bottled Water",
+    "Car Hire",
+    "Children's Television Networks",
+    "English",
+    "Free Private Parking Nearby",
+    "Russian",
+    "Secured Parking",
+    "Shared Kitchen",
+    "Shared Lounge / TV Area",
+    "Turkish",
+    "VIP Room Facilities"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [
+    "Family",
+    "Luxury"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "1"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "0"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "3"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "0"
+    }
+  ],
+  "awards": []
+}

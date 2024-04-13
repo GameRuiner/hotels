@@ -1,0 +1,283 @@
+{
+  "data": [
+    {
+      "id": 945936929,
+      "lang": "en",
+      "location_id": 23610170,
+      "published_date": "2024-04-09T06:29:09Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23610170-r945936929-Reviews-Courtyard_by_Marriott_World_Trade_Centre_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review945936929",
+      "text": "Excellent hotel, good breakfast, the staff were extremely helpful, patient and kind. In particular reception staff Shaheryar and Prasad were very helpful for all queries. The location was quiet but close to the World Trade Center and plenty of restaurants. The Sips N Taps bar also showed live sports games.",
+      "title": "Nice hotel",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "Stephen_Fowler1",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/eb/default-avatar-2020-27.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/eb/default-avatar-2020-27.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/eb/default-avatar-2020-27.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/eb/default-avatar-2020-27.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/eb/default-avatar-2020-27.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 945691413,
+      "lang": "en",
+      "location_id": 23610170,
+      "published_date": "2024-04-07T08:54:00Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23610170-r945691413-Reviews-Courtyard_by_Marriott_World_Trade_Centre_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review945691413",
+      "text": "Great location! Away from hustle bustle but still connected to dubai through World trade centre metro station. All staff are very friendly and helpful. Nayem- housekeeping staff made sure room looked and smelled great at the end of every cleaning.",
+      "title": "Fine experience",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "947kushalg",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/11/default-avatar-2020-23.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945861613,
+        "title": "Owner response",
+        "text": "Dear 947kushalg,\nThank you for your feedback! We're thrilled you enjoyed your stay  and found our staff friendly and helpful. We'll be sure to pass on your compliments to Nayem .We look forward to welcoming you back soon!\n\nBest regards,",
+        "lang": "en",
+        "author": "Mohamed El Attaoui ",
+        "published_date": "2024-04-08T13:16:00Z"
+      }
+    },
+    {
+      "id": 945600170,
+      "lang": "en",
+      "location_id": 23610170,
+      "published_date": "2024-04-06T14:25:31Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23610170-r945600170-Reviews-Courtyard_by_Marriott_World_Trade_Centre_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review945600170",
+      "text": "Our stay at Courtyard was nothing short of spectacular. The hotel’s elegant design, combined with its top-notch amenities, made for a truly relaxing and enjoyable experience. The attentive and courteous staff especially Ms. Joy and her dedicated team Sherelyn,  Oussema and Robin as well as Robina on the phone catered to my every need, ensuring that my stay was as comfortable as possible. With its convenient location and outstanding service, Courtyard by Marriott has quickly become my go-to choice for accommodations whenever I travel to the Dubai. Amazing!",
+      "title": "Exceptional Experience in Courtyard by Marriott",
+      "trip_type": "Couples",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "ni_amael2020",
+        "user_location": {
+          "id": "295424",
+          "name": "Dubai, Emirate of Dubai"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/df/99/default-avatar-2020-40.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/df/99/default-avatar-2020-40.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/df/99/default-avatar-2020-40.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/df/99/default-avatar-2020-40.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/df/99/default-avatar-2020-40.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 945861446,
+        "title": "Owner response",
+        "text": "Dear ni_amael2020,\n\nThank you for sharing your experience at Courtyard by Marriott! We're thrilled to hear that you enjoy your stay with us and It's wonderful to know that Joy ,Sherelyn, Oussema, robin and  Robina provided you with an exceptional service .We greatly appreciate your kind words . We look forward to welcoming you back for another amazing stay in the future!\n\nWarm regards,",
+        "lang": "en",
+        "author": "Mohamed El Attaoui ",
+        "published_date": "2024-04-08T13:14:40Z"
+      }
+    },
+    {
+      "id": 944956062,
+      "lang": "en",
+      "location_id": 23610170,
+      "published_date": "2024-04-02T12:41:56Z",
+      "rating": 3,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23610170-r944956062-Reviews-Courtyard_by_Marriott_World_Trade_Centre_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review944956062",
+      "text": "Our dinner experience at the Marriott Courtyard World Trade Center was unfortunately not up to our expectations. Despite booking an iftar dinner for 18 people in advance, we found that the seating arrangement was not accommodating. Only 14 chairs were initially provided, and when we requested for them to be arranged together for a group photo, we were told to adjust them ourselves.\n\nFurthermore, the food options in the open buffet were quite limited, leaving us feeling unsatisfied with the overall dining experience. We had hoped for a more enjoyable and seamless evening with our colleagues, but unfortunately, the lack of attention to detail and limited food choices left us feeling disappointed.",
+      "title": "Okay.",
+      "trip_type": "Business",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "Nessyblew",
+        "user_location": {
+          "id": "295424",
+          "name": "Dubai, Emirate of Dubai"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/14/52/aa/35/nessyblew.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/14/52/aa/35/nessyblew.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/14/52/aa/35/nessyblew.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/14/52/aa/35/nessyblew.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-w/14/52/aa/35/nessyblew.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945210960,
+        "title": "Owner response",
+        "text": "Dear Nessyblew,\n\nThank you for providing your feedback regarding your recent dinner experience at the Courtyard by Marriott World Trade Centre. \n\nWe sincerely apologize for any inconvenience or disappointment you and your colleagues experienced during your iftar dinner.\n\nWe regret that the seating arrangement did not meet your expectations and for any inconvenience caused by the initial shortage of chairs. It is our standard practice to ensure that all arrangements are meticulously prepared to accommodate our guests' needs, and we apologize for falling short in this regard. We acknowledge that the request to adjust the chairs yourselves was not appropriate and should have been handled more efficiently by our team. \n\nRegarding the limited food options in the open buffet, we understand the importance of offering a diverse and satisfying dining experience. However, the menu has been shared upon proceeding with the booking. We apologize for any dissatisfaction caused by the selection and assure you that your feedback will be shared with our culinary team for further review and improvement. \n\nPlease be assured that we take your feedback seriously and will use it to enhance our services and ensure a more enjoyable and seamless experience for our guests in the future.\n\nWe value your patronage and hope to have the opportunity to welcome you back for a more positive experience. \n\nIf you have any further concerns or would like to discuss your experience in more detail, please feel free to contact us directly. \n\nThank you for bringing these matters to our attention.\n\nWarm regards,\n\nJoy Salario\nDuty Manager\n",
+        "lang": "en",
+        "author": "Joy Salario",
+        "published_date": "2024-04-03T09:47:58Z"
+      }
+    },
+    {
+      "id": 944775926,
+      "lang": "en",
+      "location_id": 23610170,
+      "published_date": "2024-04-01T07:59:00Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23610170-r944775926-Reviews-Courtyard_by_Marriott_World_Trade_Centre_Dubai-Dubai_Emirate_of_Dubai.html?m=66827#review944775926",
+      "text": "I recently had the pleasure of staying at the Courtyard by Marriott, and it exceeded my expectations in every way. From the moment I stepped into the lobby, I was greeted with warmth and professionalism by the staff.\n\nPrasad, Mhd. Elbatial, Shubham, abdul and prasant were the people who made our stay easy and comfortable. Made it feel like home. The room was impeccably clean and tastefully decorated, providing a cozy retreat after a long day of travel",
+      "title": "Recommend to stay",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "S_senorita31",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ee/10/default-avatar-2020-8.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944970948,
+        "title": "Owner response",
+        "text": "Dear S_senorita31,\n\nThank you for your wonderful feedback! We're thrilled to hear that your stay at Courtyard by Marriott World Trade Centre Dubai  exceeded your expectations. We're especially grateful for your kind words about Prasad, Elbatial, Shubham, Abdul, and Prasant—they'll be delighted to hear they made your stay feel like home. We look forward to welcoming you back for another comfortable stay soon!\nBest Wishes,\n\n",
+        "lang": "en",
+        "author": "Mohamed El Attaoui ",
+        "published_date": "2024-04-02T14:55:54Z"
+      }
+    }
+  ]
+}

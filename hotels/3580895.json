@@ -1,0 +1,225 @@
+{
+  "location_id": "3580895",
+  "name": "Ramada By Wyndham Dubai Deira",
+  "description": "Ramada by Wyndham Dubai Deira Hotel, is situated in the heart of Dubai’s historical and cultural district of Deira, 10 minutes away from Dubai International Airport and minutes away from the Dubai’s first Shopping Mall Al Ghurair Center. The hotel has undergone a multi-million renovation, upgrading all its facilities including bedrooms, restaurants, public areas and Wi-Fi. The hotel has 173 bedrooms and suites, two restaurants and a roof top pool and is located on Salahuddin Street a few steps away from a Metro Station connecting guests to the rest of Dubai’s landmarks and beaches. At the Ramada by Wyndham Dubai Deira hotel, guests will experience the perfect blend of amenities and services to make a comfortable stay.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d3580895-Reviews-Ramada_By_Wyndham_Dubai_Deira-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "155 Salahudin Road",
+    "street2": "Deira",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "00000",
+    "address_string": "155 Salahudin Road Deira, Dubai 00000 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.270355",
+  "longitude": "55.32168",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d3580895-Ramada_By_Wyndham_Dubai_Deira-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#136 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "136"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "2072",
+  "review_rating_count": {
+    "1": "55",
+    "2": "48",
+    "3": "184",
+    "4": "374",
+    "5": "1411"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "604",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d3580895-m66827-Reviews-Ramada_By_Wyndham_Dubai_Deira-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Free parking",
+    "Free Wifi",
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Pets Allowed",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Rooftop Pool",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Kids Stay Free",
+    "Sauna",
+    "Arabic",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Coffee Shop",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "French",
+    "24-Hour Front Desk",
+    "Gift Shop",
+    "Hindi",
+    "Ironing Service",
+    "Newspaper",
+    "Pool / Beach Towels",
+    "Russian",
+    "24-Hour Security",
+    "Shoeshine",
+    "Shops",
+    "Snack Bar",
+    "Steam Room",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Public Wifi",
+    "Foot Bath",
+    "Foot Massage",
+    "Free Wifi in the Business Center",
+    "Full Body Massage",
+    "Hand Massage",
+    "Head Massage",
+    "Highchairs Available",
+    "Neck Massage"
+  ],
+  "parent_brand": "Wyndham Hotel Group",
+  "brand": "Ramada",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Centrally Located",
+    "Quiet"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620571",
+      "name": "Al Muteena"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "401"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "347"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "293"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "507"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "339"
+    }
+  ],
+  "awards": []
+}

@@ -1,0 +1,264 @@
+{
+  "location_id": "1718075",
+  "name": "Stella Di Mare Beach Hotel & Spa",
+  "description": "This luxurious 5-star full resort is located nearest to Naama Bay. Gourmet dining, expert diving lessons, and evening entertainment, all with stunning views of the Red Sea. The rooms at Stella di Mare Beach Hotel and Spa feature a contemporary design, and are fully modern with flat screen TVs. Each room includes a private balcony or terrace. Stella di Mare has a state-of-the-art PADI diving center and training facilities on-site. A lavish 600 square meter spa and Wellness Center offers guests full relaxation. Saunas, steam baths, indoor and outdoor Jacuzzi are available. Guests can swim in the Stella di Mare's grand outdoor pool, with panoramic views of the surrounding area. The Stella's acclaimed a la carte restaurants offer a variety of dishes from Mediterranean cuisine to Sushi, all prepared by a team of highly-trained international chefs. We also offer guests the chance to play golf on our fantastic short course. Guest's can play whilst enjoying spectacular views of the clear blue sea and can also benefit from our professional golf instructor. The Stella di Mare Beach Hotel and Spa also provides its own evening entertainment program, featuring local Egyptian belly-dancers and international singers nightly. The Resort is located just 10 km from Sharm el-Sheikh International Airport. Free parking is available on-site. Hotel Rooms: 298.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d1718075-Reviews-Stella_Di_Mare_Beach_Hotel_Spa-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Naama Bay",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "postalcode": "14211",
+    "address_string": "Naama Bay, Sharm El Sheikh 14211 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.904852",
+  "longitude": "34.329918",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d1718075-Stella_Di_Mare_Beach_Hotel_Spa-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#19 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "19"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "6681",
+  "review_rating_count": {
+    "1": "38",
+    "2": "46",
+    "3": "182",
+    "4": "655",
+    "5": "5760"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "8629",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d1718075-m66827-Reviews-Stella_Di_Mare_Beach_Hotel_Spa-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Beachfront",
+    "Room service",
+    "Restaurant",
+    "Fitness center",
+    "Free parking",
+    "Bar/Lounge",
+    "Business center",
+    "Suites",
+    "Internet",
+    "Kids Activities",
+    "Free Internet",
+    "Spa",
+    "Wifi",
+    "Breakfast included",
+    "Laundry Service",
+    "Shuttle Bus Service",
+    "Wheelchair access",
+    "Airport transportation",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Butler Service",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Sauna",
+    "Aerobics",
+    "Arabic",
+    "Baggage Storage",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Car Hire",
+    "Couples Massage",
+    "Currency Exchange",
+    "Diving",
+    "Doorperson",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Hammam",
+    "Head Massage",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Massage",
+    "Nightclub / DJ",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shoeshine",
+    "Shops",
+    "Snorkeling",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "VIP Room Facilities",
+    "Beach Access"
+  ],
+  "parent_brand": "Stella Di Mare Hotels & Resorts",
+  "brand": "Stella Di Mare",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Great View",
+    "Harbor View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "77"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "3029"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "362"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1791"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "765"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

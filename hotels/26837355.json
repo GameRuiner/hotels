@@ -1,0 +1,169 @@
+{
+  "location_id": "26837355",
+  "name": "Damac Maison Aykon City",
+  "description": "Step into an opulent sanctuary in one of the new landmarks on Sheikh Zayed Road, overlooking Dubai Canal.   \n\nWith its soaring towers, sleek lines, and premium finishes, AYKON City is your gateway to luxury living.\n\nIt offers highly luxurious residential units in Studio, One-, Two-, and Three-Bedroom configurations, Hotel Rooms, Hotel Apartments and Office Spaces, with spectacular exteriors, breathtaking views, premium interiors and access to leisure amenities.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d26837355-Reviews-Damac_Maison_Aykon_City-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "395 Sheikh Zayed Rd",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "395 Sheikh Zayed Rd, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.18148",
+  "longitude": "55.253323",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d26837355-Damac_Maison_Aykon_City-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#441 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "441"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "26",
+  "review_rating_count": {
+    "1": "1",
+    "2": "0",
+    "3": "0",
+    "4": "1",
+    "5": "24"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "38",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d26837355-m66827-Reviews-Damac_Maison_Aykon_City-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Kids Activities",
+    "Free Internet",
+    "Free parking",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Air conditioning",
+    "Microwave",
+    "Refrigerator in room",
+    "Conference Facilities",
+    "Kids pool",
+    "Adult pool",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Bottled Water",
+    "Cable / Satellite TV",
+    "Clothes Dryer",
+    "Coffee / Tea Maker",
+    "Currency Exchange",
+    "Desk",
+    "Dining Area",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Highchairs Available",
+    "Indoor Play Area for Children",
+    "Iron",
+    "Ironing Service",
+    "Kids' Outdoor Play Equipment",
+    "Pool / Beach Towels",
+    "Seating Area",
+    "24-Hour Security",
+    "Sofa Bed",
+    "Taxi Service",
+    "Telephone",
+    "Umbrella",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Washing Machine"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "7"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "2"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "4"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "6"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "7"
+    }
+  ],
+  "awards": []
+}

@@ -1,0 +1,255 @@
+{
+  "location_id": "302796",
+  "name": "SUNRISE Holidays Resort (Adults Only)",
+  "description": "Highlights • Located in the center of Hurghada • Situated on a private beach lagoon • Stunning sea view rooms • 2 buffet and 4 à la carte restaurants • Adults Only (16+) SUNRISE Holidays Resort (Adults Only) is a 5-star Resort in the centre of Hurghada. The adults-only hotel (16+) is situated on a private beach lagoon that enriches the rejuvenating holiday vacation with its idyllic sea view. The Resort comprises of 383 comfortable rooms with balcony or terrace. The stunning sea views rooms with the best views over the Red Sea, are set to keep our guests in awe. Free Wi-Fi is available throughout the resort and in all rooms. Every room has satellite TV, air conditioning, minibar with soft drinks, tea & coffee making facilities and much more. The hotel offers 2 remarkable theme buffets. Guest can enjoy dinner at any of the 4 à-la-carte restaurants including Mediterranean, Egyptian, Diet & Light Cuisine or fusion cuisine in Nasaya Restaurant (chargeable). The adults- only Resort features 1 outdoor pool and jacuzzi pool, a private sandy beach lagoon, and a total of 8 bars. SUNRISE Holidays Resort features a fully equipped gym, spa & beauty salon (chargeable). Located 500m (10 min) to Hurghada Centre and 9km (14 min) to Hurghada International Airport, the Resort offers the best of both worlds: enjoying a relaxing and revitalizing atmosphere as well as experiencing the exciting nightlife of Hurghada. On-site parking is available free of charge. Our all-inclusive concept includes: Breakfast, Lunch and Dinner in Buffets or optional in a la carte Restaurants (1 free visit per week in each restaurant). Snacks from 12:00-17:00, 22:30-01:00, local alcoholic Beverages from 10:00-00:00, Water and Hot Beverages 24/7, Minibar with water and soft drinks, Wi-Fi, free entertainment and sports activities, and much more. Some activities/services such as Diving Center, Spa Treatment are extra charge. Please get back to the hotel AI Formula for detailed information.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297549-d302796-Reviews-SUNRISE_Holidays_Resort_Adults_Only-Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Corniche Road, Sheraton Street",
+    "city": "Hurghada",
+    "country": "Egypt",
+    "postalcode": "84511",
+    "address_string": "Corniche Road, Sheraton Street, Hurghada 84511 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Hurghada",
+      "location_id": "297549"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.209175",
+  "longitude": "33.846275",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297549-d302796-SUNRISE_Holidays_Resort_Adults_Only-Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297549",
+    "ranking_string": "#71 of 325 hotels in Hurghada",
+    "geo_location_name": "Hurghada",
+    "ranking_out_of": "325",
+    "ranking": "71"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "9518",
+  "review_rating_count": {
+    "1": "195",
+    "2": "236",
+    "3": "676",
+    "4": "1852",
+    "5": "6559"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "8362",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297549-d302796-m66827-Reviews-SUNRISE_Holidays_Resort_Adults_Only-Hurghada_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Suites",
+    "Free Internet",
+    "Non-smoking rooms",
+    "Beachfront",
+    "Free parking",
+    "Laundry Service",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Business center",
+    "Fitness center",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Sauna",
+    "Adults Only",
+    "Aerobics",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Billiards",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Car Hire",
+    "Clothes Rack",
+    "Coffee / Tea Maker",
+    "Convenience Store",
+    "Currency Exchange",
+    "Darts",
+    "Desk",
+    "Diving",
+    "Dutch",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fishing",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Free Public Parking Nearby",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Head Massage",
+    "Interconnected room(s) available",
+    "Italian",
+    "Karaoke",
+    "Massage",
+    "Nightclub / DJ",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Romanian",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Snorkeling",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Cable / Satellite TV",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Complimentary Welcome Drink",
+    "Laptop Safe",
+    "Manicure",
+    "Pedicure",
+    "Pool View",
+    "Private Bathrooms",
+    "Tile / Marble Floor",
+    "Ukrainian",
+    "Umbrella",
+    "Wardrobe / Closet",
+    "Yoga Classes",
+    "Beach Access"
+  ],
+  "parent_brand": "Sunrise Resorts & Cruises",
+  "brand": "Sunrise Resorts",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Great View",
+    "Centrally Located"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "35"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "4515"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "658"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1490"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "1929"
+    }
+  ],
+  "awards": []
+}

@@ -1,0 +1,209 @@
+{
+  "location_id": "1989060",
+  "name": "Grums Hotel & Spa",
+  "description": "We are a 4 stars Hotel in Barcelona, located in one of the most emblematic and central zones of the city, Grums Hotel & Spa is a great option for discover the charms of Barcelona. Modern and cosmopolitan, involved in culture, arts and the most cultural and representing movements of Barcelona. All of this is reflected in every single room, where our clients can discover a part of Barcelona in each room. The City is an art, design, avant-garde, trend, fashion... And Grums Hotel & Spa is \"Very Barcelona\". Our perfect location in one of the most active areas of the city, makes Grums Hotel & Spa a perfect choice to spend some days with all your family, in couple or in a business trip. We are waiting for you...",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d1989060-Reviews-Grums_Hotel_Spa-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Palaudaries 26",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08004",
+    "address_string": "Palaudaries 26, 08004 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.37287",
+  "longitude": "2.171946",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d1989060-Grums_Hotel_Spa-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#203 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "203"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "1451",
+  "review_rating_count": {
+    "1": "37",
+    "2": "60",
+    "3": "203",
+    "4": "618",
+    "5": "533"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "515",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d1989060-m66827-Reviews-Grums_Hotel_Spa-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Fitness center",
+    "Room service",
+    "Restaurant",
+    "Bar/Lounge",
+    "Wheelchair access",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Facilities for Disabled Guests",
+    "Baggage Storage",
+    "24-Hour Check-in",
+    "English",
+    "Complimentary Instant Cofffee",
+    "Massage",
+    "Snack Bar",
+    "Spanish",
+    "Parking",
+    "Breakfast in the Room",
+    "Catalan",
+    "Children's Television Networks",
+    "Clothes Rack",
+    "Coffee Shop",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Hammam",
+    "Highchairs Available",
+    "Italian",
+    "Outdoor Dining Area",
+    "Parking Garage",
+    "Paid Private Parking On-site",
+    "Steam Room",
+    "Sun Deck",
+    "Sun Terrace",
+    "Taxi Service",
+    "Telephone",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Residential Neighborhood",
+    "Quiet"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15565875",
+      "name": "Sants-Montjuic"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "81"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "661"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "25"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "393"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "167"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

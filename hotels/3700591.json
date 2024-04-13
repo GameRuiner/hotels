@@ -1,0 +1,280 @@
+{
+  "location_id": "3700591",
+  "name": "Vogue Hotel Supreme",
+  "description": "A UNIQUE HOLIDAY EXPERIENCE We are very happy to welcome you at our hotel. All of our staff are aware of how important your holiday is for you during your stay. Vogue Hotel Bodrum offers you the best quality service. In Vogue Hotel Bodrum we wish you a wonderful and happy holiday... In order to savor the sun in the Bodrum Torba bay and to cool off in the crystal waters of the Aegean Sea, the beach with the sparkling sand of Vogue Hotel Bodrum is waiting for you. Vogue Hotel welcomes you to a spectacular view, in the lush green bay of Bodrum, 33 water sculptures will accelerate your heart beats and you will enjoy the day between the waves. ***Entrance in Candyland area is free for all guests.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298663-d3700591-Reviews-Vogue_Hotel_Supreme-Torba_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Usuluk Sokak No: 10 A-B-C",
+    "city": "Torba",
+    "state": "Mugla Province",
+    "country": "Turkiye",
+    "postalcode": "48400",
+    "address_string": "Usuluk Sokak No: 10 A-B-C, Torba 48400 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Torba",
+      "location_id": "298663"
+    },
+    {
+      "level": "District",
+      "name": "Bodrum District",
+      "location_id": "298020"
+    },
+    {
+      "level": "Province",
+      "name": "Mugla Province",
+      "location_id": "298019"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "37.0818",
+  "longitude": "27.4757",
+  "timezone": "Europe/Istanbul",
+  "phone": "011902525300031",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298663-d3700591-Vogue_Hotel_Supreme-Torba_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298663",
+    "ranking_string": "#15 of 33 hotels in Torba",
+    "geo_location_name": "Torba",
+    "ranking_out_of": "33",
+    "ranking": "15"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "6435",
+  "review_rating_count": {
+    "1": "172",
+    "2": "147",
+    "3": "408",
+    "4": "739",
+    "5": "4969"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "5528",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298663-d3700591-m66827-Reviews-Vogue_Hotel_Supreme-Torba_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Internet",
+    "Beachfront",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Beach Access",
+    "Pool",
+    "Kids Activities",
+    "Room service",
+    "Free parking",
+    "Spa",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Multilingual Staff",
+    "Babysitting",
+    "Suites",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Public Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Business center",
+    "Air conditioning",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Water Park",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Butler Service",
+    "Outdoor pool",
+    "Private Beaches",
+    "Private Pools",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Sauna",
+    "Additional Bathroom",
+    "Aerobics",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Board Games / Puzzles",
+    "Books, DVDs, Music for Children",
+    "Bottled Water",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Convenience Store",
+    "Darts",
+    "Desk",
+    "Diving",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Extra Long Beds",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Game Room",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Head Massage",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Nightclub / DJ",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Soundproof Rooms",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Turkish",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Boating",
+    "Cable / Satellite TV",
+    "Canoeing Off-site",
+    "Children's Television Networks",
+    "Children's Playground",
+    "Clothes Rack",
+    "Electric Kettle",
+    "Complimentary Welcome Drink",
+    "Highchairs Available",
+    "Mountain View",
+    "Outdoor Dining Area",
+    "Pool View",
+    "Shallow End",
+    "Sofa Bed",
+    "Sun Deck",
+    "Umbrella",
+    "Video Game Console",
+    "Wardrobe / Closet",
+    "Waterslide"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Modern",
+    "Family"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "156"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "775"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "70"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "4247"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "577"
+    }
+  ],
+  "awards": []
+}

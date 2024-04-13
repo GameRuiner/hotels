@@ -1,0 +1,307 @@
+{
+  "data": [
+    {
+      "id": 945945958,
+      "lang": "en",
+      "location_id": 23579571,
+      "published_date": "2024-04-09T08:03:16Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23579571-r945945958-Reviews-Al_Khoory_Courtyard_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945945958",
+      "text": "AL Khoory Courtyard Hotel offers an exceptional experience with its inviting ambience and delicious food. The presence of housekeeping supervisor Manoj ensures impeccable cleanliness, adding to the overall pleasure of the stay. Guests are treated to a memorable experience, enjoying both the delectable cuisine and the attentive care.",
+      "title": "Wow",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "714mohdw",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/3d/default-avatar-2020-55.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "1": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 945419803,
+      "lang": "en",
+      "location_id": 23579571,
+      "published_date": "2024-04-05T04:41:39Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23579571-r945419803-Reviews-Al_Khoory_Courtyard_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945419803",
+      "text": "I visited this hotel in March and this is a good hotel to stay and good sustainable hospitality and room arrangement is very best and also, towels' art arrangement is superb. finally, I enjoyed my vacation and found excellent cleaning provided by Nimesh during my stay, until sign-off.",
+      "title": "nice hotel to enjoy your vacation",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "rasikaj2023",
+        "user_location": {
+          "id": "295424",
+          "name": "Dubai, Emirate of Dubai"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f1/79/default-avatar-2020-21.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f1/79/default-avatar-2020-21.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f1/79/default-avatar-2020-21.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f1/79/default-avatar-2020-21.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/79/default-avatar-2020-21.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945583887,
+        "title": "Owner response",
+        "text": "Dear Valued Guest,\n\nWe sincerely thank you for having chosen Al Khoory Courtyard Hotel for your recent stay. We value quality in all we do and strive to achieve it. It is important for us to understand how effectively we meet our guests' needs in order to constantly improve the standards of our services.\nWe appreciate receiving your feedback and were delighted to read that you enjoyed your experience with us. We are glad to know that our rooms, staff, and hotel location suited your trip to Dubai, and we shall share your compliments with our team to keep them motivated. Meanwhile, please do contact us at your convenience for any requirements for your future stay in Dubai. Looking forward to welcoming you again.\n\nWarm regards,\nAl Khoory Courtyard Hotel Management.",
+        "lang": "en",
+        "author": "Gopinath Gopalan",
+        "published_date": "2024-04-06T12:01:02Z"
+      }
+    },
+    {
+      "id": 944589265,
+      "lang": "en",
+      "location_id": 23579571,
+      "published_date": "2024-03-30T23:00:56Z",
+      "rating": 2,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23579571-r944589265-Reviews-Al_Khoory_Courtyard_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review944589265",
+      "text": "Not sure how this place received 4 stars, but here is my review:\n1. They do not supply washcloths and seem to have no idea what I was asking for when I requested washcloths be delivered to my room from the front desk and cleaning staff.\n2. I paid for a room upgrade that I did not get until my second night, that issue they completely blamed on the travel agency, I honestly do not know who was to blame.\n3. The room was freezing every night, even after I requested the air be turned off, and there was no heat in the rooms to balance out the freezing.\n4. There was a leak in the ceiling in the bathroom of the upgraded room.\n5. The bathroom was not clean the entire time I was there. The soap scum on the shower fixtures that was NEVER cleaned is my proof of that and none of the trash bags I filled with empty food containers were ever removed during my entire stay. If I didn't sit the bags outside my room door, which I find a tacky practice, they would just remain stacking up near the trash can in the room\n6. The refrigerator in the room does not get cold enough to keep food in it. When I asked they said the refrigerator is only for beverages, but that was not true because the refrigerator did not get cold enough to keep ANYTHING cold. There was no way to turn up the temp in the refrigerator.\n7. The is noticeable water damage all around the baseboards and ceiling of the rooms and hall. Makes me wonder about mold in the walls.\n8. I got hair dye on a towel, and they charged me 50 American dollars for ONE towel... that is ridiculous. Not saying I should have paid nothing, but $50 is outrageous and highly inflated.\n9. This is a 2.5 to 3-star hotel at best, but it is absolutely NOT 4-star.",
+      "title": "This is a 2.5 to 3-star hotel at best, but it is absolutely NOT 4-star",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "roselandg2024",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e7/fe/default-avatar-2020-58.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e7/fe/default-avatar-2020-58.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e7/fe/default-avatar-2020-58.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e7/fe/default-avatar-2020-58.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/fe/default-avatar-2020-58.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944660236,
+        "title": "Owner response",
+        "text": "Dear Valued Guest,\n\nThank you for staying with us and for sharing your experience. We appreciate your patronage, hence were disappointed to read that your recent experience was not up to your expectations.\nwe sincerely apologize for the challenges experienced and rest assured that we have shared your feedback with our management in order to bring you a better experience on your next visit.\n\nWarm regards,\nAl Khoory Courtyard Hotel Management.",
+        "lang": "en",
+        "author": "Gopinath Gopalan",
+        "published_date": "2024-03-31T11:44:47Z"
+      }
+    },
+    {
+      "id": 944347292,
+      "lang": "en",
+      "location_id": 23579571,
+      "published_date": "2024-03-29T04:48:58Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23579571-r944347292-Reviews-Al_Khoory_Courtyard_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review944347292",
+      "text": "Good room very species and comfortable clean and neat recommended friendly staffs quick response from the front desk free parking available fully furnished rooms nice place to enjoy with friends and it's also good for business or solo I liked it.",
+      "title": "Very good experience",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "703syedt",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e8/5b/default-avatar-2020-61.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e8/5b/default-avatar-2020-61.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e8/5b/default-avatar-2020-61.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e8/5b/default-avatar-2020-61.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e8/5b/default-avatar-2020-61.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944660279,
+        "title": "Owner response",
+        "text": "Dear Valued Guest,\n\nWe sincerely thank you for having chosen Al Khoory Courtyard Hotel for your recent stay. We value quality in all we do and strive to achieve it. It is important for us to understand how effectively we meet our guests' needs in order to constantly improve the standards of our services.\nWe appreciate receiving your feedback and were delighted to read that you enjoyed your experience with us. We are glad to know that our rooms, staff, and hotel location suited your trip to Dubai, and we shall share your compliments with our team to keep them motivated. Meanwhile, please do contact us at your convenience for any requirements for your future stay in Dubai. Looking forward to welcoming you again.\n\nWarm regards,\nAl Khoory Courtyard Hotel Management.",
+        "lang": "en",
+        "author": "Gopinath Gopalan",
+        "published_date": "2024-03-31T11:45:08Z"
+      }
+    },
+    {
+      "id": 943463275,
+      "lang": "en",
+      "location_id": 23579571,
+      "published_date": "2024-03-23T04:31:11Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23579571-r943463275-Reviews-Al_Khoory_Courtyard_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review943463275",
+      "text": "We had a really nice stay in the al khoory hotel.\n\nEverything is nice and clean. The rooms are spacious.\nThe bed is so comfy too\n\nStaff very friendly and was always available to help us.\n\nLocation is good if you have a car. You can find grocery stores and restaurants just nearby",
+      "title": "Very nice hotel",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "damiansS2849IG",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/48/default-avatar-2020-15.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 943540302,
+        "title": "Owner response",
+        "text": "Dear Valued Guest,\n\nWe sincerely thank you for having chosen Al Khoory Courtyard Hotel for your recent stay. We value quality in all we do and strive to achieve it. It is important for us to understand how effectively we meet our guests' needs in order to constantly improve the standards of our services.\nWe appreciate receiving your feedback and were delighted to read that you enjoyed your experience with us. We are glad to know that our rooms, staff, and hotel location suited your trip to Dubai, and we shall share your compliments with our team to keep them motivated. Meanwhile, please do contact us at your convenience for any requirements for your future stay in Dubai. Looking forward to welcoming you again.\n\nWarm regards,\nAl Khoory Courtyard Hotel Management.",
+        "lang": "en",
+        "author": "Gopinath Gopalan",
+        "published_date": "2024-03-23T16:50:30Z"
+      }
+    }
+  ]
+}

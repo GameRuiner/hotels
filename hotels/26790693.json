@@ -1,0 +1,120 @@
+{
+  "location_id": "26790693",
+  "name": "Vida Creek Beach",
+  "description": "Nestled along the waterfront, Vida Creek Beach is a  boutique hotel which seamlessly blends modern elegance with artsy glamour. Set in a new and dynamic neighborhood, Dubai Creek Harbour, the hotel offers a serene escape with panoramic views of the water canal. Accessibility is key, with Downtown Dubai and DXB Airport just 15 minutes away. The hotel effortlessly combines contemporary design with Arabesque installations and bespoke art pieces, providing a backdrop of elegance. Presenting 99 comfortable rooms & suites as well as vibrant curated spaces for work and play, art and glam infuse every corner of Vida Creek Beach, with unique installations inspired by 20th and 21st-century art movements. Leisure options include a man-made Crystal Lagoon, an Infinity Pool, and a fully-equipped Fitness Centre. Dining is a culinary journey, from The Courtyard’s vibrant ambience to Stage2’s unconventional charm. Origins offers wholesome meals, and Float Beach Lounge provides a tranquil oasis by the Crystal Lagoon. For events, Vida Creek Beach offers top-notch facilities, while versatile spaces cater to various wedding styles. Experience artistry and natural beauty at Vida Creek Beach, where every moment inspires, relaxes, and rejuvenates.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d26790693-Reviews-Vida_Creek_Beach-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Dubai Creek Harbour",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Dubai Creek Harbour, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.203102",
+  "longitude": "55.34923",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d26790693-Vida_Creek_Beach-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#403 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "403"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "46",
+  "review_rating_count": {
+    "1": "1",
+    "2": "1",
+    "3": "0",
+    "4": "0",
+    "5": "44"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "77",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d26790693-m66827-Reviews-Vida_Creek_Beach-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Air conditioning",
+    "Restaurant"
+  ],
+  "parent_brand": "Emaar Hospitality Group",
+  "brand": "Vida Hotels and Resorts",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "8"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "7"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "7"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "18"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "6"
+    }
+  ],
+  "awards": []
+}

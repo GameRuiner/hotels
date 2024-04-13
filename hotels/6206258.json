@@ -1,0 +1,187 @@
+{
+  "location_id": "6206258",
+  "name": "Ramada Plaza By Wyndham Izmir",
+  "description": "Ramada Plaza Izmir, Which uses Ramada Worldwide's Elite Class of Concept: Plaza is located in Basmane Square and is walking distance to places such as Alsancak, Kahramanlar, Pasaport and Konak. It is 16 km to Adnan Menderes Airport (izmir) and is right opposite the Izmir International congress center. The Hotel Decor has been designed so not only would you feel at home, but also stay up to date with work and online social activities using the latest and highest technology throughout the building. There is a personally adjustable Air-condition unit as well as a LED TV in all rooms where you can watch cable television with the option of Premium channels (subject to a fee) and check your room balance. There is also a high-speed fiber optic internet port plus a computer designed for businessmen & women. Our Executive, Corner Junior Suite plus the Executive Lounge found on the 7th floor await those who require a more executive and unique level of service. You will have the chance to protect your well being and fitness levels using our Salt rooms and Fitness Centre, Specially designed for those on the go. Our Business Center offers clients the opportunity to hold meetings and events in the Yesim, Lal, Safir and Topaz rooms. Our Restaurant offer a wide range of foods which are local and international, as well as an authentic Ramada Service provided to you. Our Lobby Bar allows you to enjoy your beverages and / or light snacks in a warm and friendly atmosphere.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d6206258-Reviews-Ramada_Plaza_By_Wyndham_Izmir-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Murselsapa Bulv No. 12/104",
+    "street2": "Etiler Mah",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35240",
+    "address_string": "Murselsapa Bulv No. 12/104 Etiler Mah, Izmir 35240 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.42395",
+  "longitude": "27.14539",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d6206258-Ramada_Plaza_By_Wyndham_Izmir-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#33 of 218 hotels in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "218",
+    "ranking": "33"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "207",
+  "review_rating_count": {
+    "1": "33",
+    "2": "13",
+    "3": "25",
+    "4": "27",
+    "5": "109"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "128",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d6206258-m66827-Reviews-Ramada_Plaza_By_Wyndham_Izmir-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Wheelchair access",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Restaurant",
+    "Bar/Lounge",
+    "Breakfast included",
+    "Meeting rooms",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Housekeeping",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Desk",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Ironing Service",
+    "Telephone",
+    "Turkish",
+    "Valet Parking",
+    "Suites",
+    "Room service",
+    "Laundry Service",
+    "Breakfast Available",
+    "Parking",
+    "Wardrobe / Closet"
+  ],
+  "parent_brand": "Wyndham Hotel Group",
+  "brand": "Ramada",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Residential Neighborhood",
+    "Quiet"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "70"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "31"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "11"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "38"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "21"
+    }
+  ],
+  "awards": []
+}

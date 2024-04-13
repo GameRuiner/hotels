@@ -1,0 +1,178 @@
+{
+  "location_id": "673812",
+  "name": "Dolphin Hotel Apartments",
+  "description": "See why so many travelers make Dolphin Hotel Apartments their hotel of choice when visiting Dubai. Providing an ideal mix of value, comfort and convenience, it offers a family-friendly setting with an array of amenities designed for travelers like you.\nGuest rooms offer amenities such as air conditioning and a kitchenette, and guests can go online with free internet access offered by the hotel.\nDolphin Hotel Apartments features room service, to help make your stay more enjoyable. The property also boasts a rooftop pool and free breakfast.\nGiven the close proximity of popular landmarks, such as Dream Journey (1.6 mi) and Dubai Frame (1.7 mi), guests of Dolphin Hotel Apartments can easily experience some of Dubai's most well known attractions.\nDuring your visit, be sure to check out a popular Dubai surf and turf restaurant such as JW's Steakhouse, which is a short distance from Dolphin Hotel Apartments.\nIf you’re looking for things to do, you can check out Dubai Creek (0.4 mi), Grand Mosque (0.3 mi), or Meena Bazaar (0.1 mi), which are popular attractions amongst tourists, and they are all within walking distance.\nWe’re sure you’ll enjoy your stay at Dolphin Hotel Apartments as you experience all of the things Dubai has to offer.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d673812-Reviews-Dolphin_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Khalid Bin Al Waleed Rd",
+    "street2": "Metro Station Meena Bazaar - 90 - 92, Next To Al Fahidi",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "",
+    "address_string": "Khalid Bin Al Waleed Rd Metro Station Meena Bazaar - 90 - 92, Next To Al Fahidi, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.2596",
+  "longitude": "55.2897",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d673812-Dolphin_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#525 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "525"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "104",
+  "review_rating_count": {
+    "1": "10",
+    "2": "6",
+    "3": "37",
+    "4": "34",
+    "5": "17"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    }
+  },
+  "photo_count": "56",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d673812-m66827-Reviews-Dolphin_Hotel_Apartments-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Wifi",
+    "Paid Wifi",
+    "Air conditioning",
+    "Pool",
+    "Internet",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Room service",
+    "Free Internet",
+    "Wheelchair access",
+    "Restaurant",
+    "Kitchenette",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Family Rooms",
+    "Rooftop Pool",
+    "Breakfast Buffet",
+    "Outdoor pool"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Centrally Located",
+    "Family"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620551",
+      "name": "Al Fahidi"
+    },
+    {
+      "location_id": "7282429",
+      "name": "The Creek"
+    },
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    },
+    {
+      "location_id": "15620602",
+      "name": "Al Souk Al Kabir"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "23"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "15"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "10"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "41"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "8"
+    }
+  ],
+  "awards": []
+}

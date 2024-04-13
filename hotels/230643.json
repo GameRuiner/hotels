@@ -1,0 +1,232 @@
+{
+  "location_id": "230643",
+  "name": "Hotel Barcelona Universal",
+  "description": "The Hotel Barcelona Universal located on Avenida Paral-lel 76, known for its theaters and cabarets, very close to La Rambla, puts within reach such representative areas of Barcelona as the Rambla del Mar, the Barri Gòtic, the Gran Teatre del Liceu, the Palau de la Música Catalana, the Catedral, Montjuïc, the Poble Espanyol, and the Estadi Olímpic. An endless number of tourist attractions, without forgetting the World Trade Center, the Fira de Barcelona and the Palau de Congressos as key points of Barcelona's business activity.\n\nThe Hotel Barcelona Universal is equipped down to the smallest detail with a wide range of services in each of the rooms. The Jacuzzi Suite Skyline, exclusive rooms distributed in three environments and equipped with Jacuzzi, stand out. Located on the highest floor of the building, with a private terrace where you can enjoy panoramic views of Barcelona.\n\nIt also offers a wide range of services and amenities, such as online check-in, 24-hour reception, room service, laundry service, adapted access and spaces, fitness room, business center, luggage room and private parking.\n\nThe hotel's leisure areas are particularly noteworthy. The firts floor of the hotel is transformed in the evenings into The Wolf Tavern, the hotel's most social space. On the 10th floor is the TUniversal, the lounge & pool terrace. Guests can enjoy a swim in the outdoor pool, get a tan in the solarium, keep fit in the fitness room, enjoy magnificent panoramic views of the city and enjoy a selection of tapas and cocktails.\n\nEnjoy your stay in Barcelona!",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d230643-Reviews-Hotel_Barcelona_Universal-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Av. del Paral.lel, 76-80",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08001",
+    "address_string": "Av. del Paral.lel, 76-80, 08001 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.37516",
+  "longitude": "2.168423",
+  "timezone": "Europe/Madrid",
+  "phone": "01134935677447",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d230643-Hotel_Barcelona_Universal-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#136 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "136"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "5688",
+  "review_rating_count": {
+    "1": "72",
+    "2": "102",
+    "3": "399",
+    "4": "1948",
+    "5": "3167"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "2002",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d230643-m66827-Reviews-Hotel_Barcelona_Universal-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Catalan",
+    "24-Hour Check-in",
+    "Complimentary Tea",
+    "Doorperson",
+    "English",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Kid-Friendly Buffet",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "24-Hour Security",
+    "Spanish",
+    "Special Diet Menus",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Family",
+    "Mid-range"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15565874",
+      "name": "Ciutat Vella (Old Town)"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "192"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "2751"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "117"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1061"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "820"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

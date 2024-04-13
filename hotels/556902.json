@@ -1,0 +1,189 @@
+{
+  "location_id": "556902",
+  "name": "Grand Halomy Resort",
+  "description": "Situated at the cliff top of Naama Bay, Grand Halomy Resort offers panoramic views of the Tiran Island. The hotel features an outdoor swimming pool, a diving center and a buffet restaurant. The air-conditioned rooms feature a spacious seating area with a satellite TV and a minibar. Some rooms have a balcony or a terrace overlooking the Red Sea. A hairdryer is fitted in the bathroom. The buffet restaurant serves breakfast, lunch and dinner. Guests can enjoy cocktails that are served at the Beach Bar. The old market is a 15-minute drive from Hotel. Sharm El Sheikh International Airport is a 20-minute drive away. Free private parking is possible on site.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d556902-Reviews-Grand_Halomy_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Halomy Street",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "postalcode": "46619",
+    "address_string": "Halomy Street, Sharm El Sheikh 46619 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.90439",
+  "longitude": "34.33106",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d556902-Grand_Halomy_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#230 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "230"
+  },
+  "rating": "3.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.0-66827-5.svg",
+  "num_reviews": "643",
+  "review_rating_count": {
+    "1": "121",
+    "2": "89",
+    "3": "116",
+    "4": "163",
+    "5": "154"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    }
+  },
+  "photo_count": "981",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d556902-m66827-Reviews-Grand_Halomy_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Restaurant",
+    "Beachfront",
+    "Bar/Lounge",
+    "Public Wifi",
+    "Non-smoking rooms",
+    "Poolside Bar",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Internet",
+    "Wifi",
+    "Paid Wifi",
+    "Paid Internet",
+    "Air conditioning",
+    "Smoking rooms available",
+    "Safe",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Kids pool",
+    "Housekeeping",
+    "Arabic",
+    "Cable / Satellite TV",
+    "Express Check-in / Check-out",
+    "Clothes Rack",
+    "English",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Kids' Outdoor Play Equipment",
+    "Mountain View",
+    "Parking Garage",
+    "Pool View",
+    "Private Bathrooms",
+    "Private Check-in / Check-out",
+    "Russian",
+    "Seating Area",
+    "Secured Parking",
+    "Shops",
+    "Snorkeling",
+    "Sofa",
+    "Sofa Bed",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Great View",
+    "Quaint"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "6"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "233"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "84"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "122"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "114"
+    }
+  ],
+  "awards": []
+}

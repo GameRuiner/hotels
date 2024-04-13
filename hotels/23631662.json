@@ -1,0 +1,253 @@
+{
+  "location_id": "23631662",
+  "name": "The First Collection at Jumeirah Village Circle",
+  "description": "Set in the vibrant Jumeirah Village Circle, this sleek hotel in a glass building is 10 km from Dubai Miracle Garden, and 13 km from indoor skiing and shopping at the Mall of the Emirates. Dubai International Airport is 34 km away. Sophisticated rooms offer city views, smart TVs and Wi-Fi, plus minibars, and tea and coffeemaking facilities. Some have terraces. Suites add separate living areas with sofabeds. Room service is available 24/7.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d23631662-Reviews-The_First_Collection_at_Jumeirah_Village_Circle-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Street 1",
+    "street2": "Jumeirah Village Circle",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "215373",
+    "address_string": "Street 1 Jumeirah Village Circle, Dubai 215373 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.05443",
+  "longitude": "55.20534",
+  "timezone": "Asia/Dubai",
+  "phone": "01197142756666",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d23631662-The_First_Collection_at_Jumeirah_Village_Circle-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#9 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "9"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "2181",
+  "review_rating_count": {
+    "1": "8",
+    "2": "4",
+    "3": "22",
+    "4": "105",
+    "5": "2042"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1284",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d23631662-m66827-Reviews-The_First_Collection_at_Jumeirah_Village_Circle-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Pets Allowed",
+    "Spa",
+    "Airport transportation",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Accessible rooms",
+    "Babysitting",
+    "Safe",
+    "Heated pool",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Afrikaans",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "Free Public Parking Nearby",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Seating Area",
+    "24-Hour Security",
+    "Special Diet Menus",
+    "Street Parking",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Free Internet",
+    "Wifi",
+    "Public Wifi",
+    "Paid Wifi",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Kids pool",
+    "Facilities for Disabled Guests",
+    "Bidet",
+    "Cable / Satellite TV",
+    "Clothes Rack",
+    "Dining Area",
+    "First Aid Kit",
+    "Complimentary Welcome Drink",
+    "Happy Hour",
+    "Outdoor Dining Area",
+    "Private Bathrooms",
+    "Shallow End",
+    "Sofa",
+    "Sun Deck",
+    "Swimming Pool Toys",
+    "Urdu",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Walk-in Shower",
+    "Wardrobe / Closet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Business",
+    "City View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "259"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "546"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "303"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "452"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "423"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice Best of the Best",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png"
+      },
+      "categories": [
+        "HottestNewHotels"
+      ],
+      "display_name": "Travelers Choice Best of the Best"
+    }
+  ]
+}

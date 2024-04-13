@@ -1,0 +1,226 @@
+{
+  "location_id": "455422",
+  "name": "Riviera Hotel Dubai",
+  "description": "See why so many travelers make Riviera Hotel their hotel of choice when visiting Dubai. Providing an ideal mix of value, comfort and convenience, it offers a family-friendly setting with an array of amenities designed for travelers like you.\nRooms at Riviera Hotel offer a flat screen TV, air conditioning, and a minibar providing exceptional comfort and convenience, and guests can go online with free wifi.\nA 24 hour front desk, room service, and a concierge are some of the conveniences offered at this hotel. A fitness center and free breakfast will also help to make your stay even more special. If you are driving to Riviera Hotel Dubai, parking is available.\nWhile staying at Riviera Hotel, visitors can check out Bur Dubai Abra Dock (0.3 mi) and Deira Old Souk Abra Station (0.5 mi), some of Dubai's top attractions.\nWhen you’re feeling hungry, be sure to check out NOÉPE, Alfonso X Sushi Bar, and The Boardwalk, which are some seafood restaurants that are popular with locals and out-of-towners alike.\nDuring your visit, be sure to check out popular attractions like Dubai Creek (0.6 mi), Grand Mosque (0.6 mi), and Dream Journey (0.7 mi), which are all within walking distance of the hotel.\nWe’re sure you’ll enjoy your stay at Riviera Hotel as you experience all of the things Dubai has to offer.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d455422-Reviews-Riviera_Hotel_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Baniyas Road",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "",
+    "address_string": "Baniyas Road, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.267204",
+  "longitude": "55.306423",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d455422-Riviera_Hotel_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#374 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "374"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "446",
+  "review_rating_count": {
+    "1": "8",
+    "2": "7",
+    "3": "51",
+    "4": "215",
+    "5": "165"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "421",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d455422-m66827-Reviews-Riviera_Hotel_Dubai-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Refrigerator in room",
+    "Minibar",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Breakfast Available",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Arabic",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Public Wifi",
+    "Meeting rooms",
+    "Banquet Room",
+    "Family Rooms",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Baggage Storage",
+    "Bathrobes",
+    "Bidet",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Express Check-in / Check-out",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Currency Exchange",
+    "Desk",
+    "Dutch",
+    "English",
+    "Farsi",
+    "Filipino",
+    "Complimentary Toiletries",
+    "Free Wifi in the Business Center",
+    "24-Hour Front Desk",
+    "German",
+    "Hair Dryer",
+    "Hindi",
+    "Indonesian",
+    "Interconnected room(s) available",
+    "Iron",
+    "Japanese",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Landmark View",
+    "Laptop Safe",
+    "Newspaper",
+    "Private Bathrooms",
+    "Paid Public Parking Nearby",
+    "Russian",
+    "24-Hour Security",
+    "Shoeshine",
+    "Soundproof Rooms",
+    "Street Parking",
+    "Tamil",
+    "Telephone",
+    "Urdu",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "River View",
+    "Mid-range"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620596",
+      "name": "Al Rigga"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "52"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "135"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "68"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "83"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "56"
+    }
+  ],
+  "awards": []
+}

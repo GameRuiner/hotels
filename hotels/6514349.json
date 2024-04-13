@@ -1,0 +1,193 @@
+{
+  "location_id": "6514349",
+  "name": "Zeniva Hotel",
+  "description": "Zeniva Hotel, located at the heart of Izmir in Alsancak, offers guests convenient, comfortable and delightful accommodation with its close proximity to the city's business centers, recreational areas and shopping centers. Zeniva Hotel is within walking distance of the International Izmir Fair and only 50m away from Cumhuriyet Meydani, one of the city's most famous piazzas. Zeniva Hotel's exquisite architectural design, unique amenities and unparalleled dedication to guests combined with its complimentary vale service guarantee all guests a wonderful and memorable stay. Not to forget that the International Adnan Menderes Airport is only 15km away.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d6514349-Reviews-Zeniva_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Kizilay Caddesi No:1/1 Alsancak",
+    "street2": "Alsancak",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "address_string": "Kizilay Caddesi No:1/1 Alsancak Alsancak, Izmir Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.42913",
+  "longitude": "27.135834",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d6514349-Zeniva_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#29 of 218 hotels in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "218",
+    "ranking": "29"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "176",
+  "review_rating_count": {
+    "1": "14",
+    "2": "2",
+    "3": "19",
+    "4": "55",
+    "5": "86"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "62",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d6514349-m66827-Reviews-Zeniva_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Wheelchair access",
+    "Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Breakfast Available",
+    "Bath / Shower",
+    "Turkish",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Restaurant",
+    "Airport transportation",
+    "Dry Cleaning",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Refrigerator in room",
+    "Parking",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Bathrobes",
+    "Bicycle Rental",
+    "Bottled Water",
+    "Cable / Satellite TV",
+    "Express Check-in / Check-out",
+    "Children's Television Networks",
+    "Electric Kettle",
+    "English",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Highchairs Available",
+    "Ironing Service",
+    "Radio",
+    "Sofa",
+    "Sofa Bed",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quaint",
+    "Quiet"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "44"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "54"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "9"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "36"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "17"
+    }
+  ],
+  "awards": []
+}

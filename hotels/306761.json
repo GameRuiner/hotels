@@ -1,0 +1,198 @@
+{
+  "location_id": "306761",
+  "name": "Carlton Palace Hotel",
+  "description": "Luxurious 5-star service at the Carlton Palace Hotel. Welcome to the Carlton Palace Hotel - a grand 5-star hotel in the heart of Deira within easy reach of Dubai Creek, Dubai Airport, metro stations and the World Trade Centre. Carlton Palace Hotel is a luxurious hotel for both leisure and business travellers with an unparalleled combination of exemplary service, beautifully renovated rooms, stunning decor, international dining, central location and value for money. Reminiscent of an elegant era, the magnificent Baroque lobby with an imposing double staircase leads to the 212 spacious and newly refurbished rooms and suites. The rooms range from 32-250 m² and are centred around an imposing balustrade-lined Atrium with greenery encircling a fountain. The hotel features all the facilities of a 5-star hotel including rooftop swimming pool, spacious fitness centre with views of the city, business centre, a variety of restaurants and bars, 24-hour room service, conference and ballroom facilities as well as three floors dedicated to executive rooms and suites overlooking a classic Executive Lounge. Our welcoming staff will attend to your every need at check-in and beyond. That's a promise.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d306761-Reviews-Carlton_Palace_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Maktoum Street",
+    "street2": "Near Deira Clock Tower, Al Dana Centre Building",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Al Maktoum Street Near Deira Clock Tower, Al Dana Centre Building, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.261791",
+  "longitude": "55.3197",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d306761-Carlton_Palace_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#391 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "391"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "1394",
+  "review_rating_count": {
+    "1": "87",
+    "2": "63",
+    "3": "158",
+    "4": "418",
+    "5": "668"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "712",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d306761-m66827-Reviews-Carlton_Palace_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Business center",
+    "Fitness center",
+    "Room service",
+    "Restaurant",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Bar/Lounge",
+    "Wheelchair access",
+    "Suites",
+    "Spa",
+    "Airport transportation",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Arabic",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Ironing Service",
+    "24-Hour Security",
+    "Taxi Service",
+    "VIP Room Facilities",
+    "Rooftop Terrace"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Classic",
+    "Mid-range"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620596",
+      "name": "Al Rigga"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "357"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "336"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "143"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "249"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "162"
+    }
+  ],
+  "awards": []
+}

@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": 833995499,
+      "lang": "en",
+      "location_id": 23504122,
+      "published_date": "2022-04-10T01:16:38Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d23504122-r833995499-Reviews-Emen_s_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review833995499",
+      "text": "Didn't know what to expect but so happy with the result.  The rooms are perfect with kettle/fridge/teas/coffee/mini-bar.  All very cleverly decorated.  Great rain-shower and hand-held with toiletries.  Very varied breakfast and above all really good service, especially Ersun who is usually on nights at reception.  Everyone very friendly and helpful.  Very clean.  Great location with loads of shops nearby, main train station 100 metres away as well as the Kemeraltii market on the other side",
+      "title": "Fantastic surprise",
+      "trip_type": "NONE",
+      "travel_date": "2022-04-30",
+      "user": {
+        "username": "BaghdadSuzanne",
+        "user_location": {
+          "id": "188644",
+          "name": "Brussels"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ee/10/default-avatar-2020-8.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    }
+  ]
+}

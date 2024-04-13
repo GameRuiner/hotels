@@ -1,0 +1,237 @@
+{
+  "location_id": "1501787",
+  "name": "Sixtytwo Hotel",
+  "description": "The Sixtytwo Hotel Barcelona is the perfect hotel for those who enjoy the finer things in life and who appreciate privacy and personalised service. Located on the emblematic Paseo de Gracia surrounded by Barcelona’s best shopping, it is right in the heart of the latest fashion trends and Gaudi’s most representative buildings. The Sixtytwo is an authentic boutique hotel where design and modernism harmonise perfectly.Located between Gaudi’s Casa Batlló and La Pedrera, The Sixtytwo has preserved its 1897 modernist façade and interiors and coupled them with designer furnishings. Tasteful touches courtesy of Moooi, Vitra, B&B and Philippe Starck give life to the hotel lobby and lounge, while the comfort of its 45 rooms is in part thanks to televisions by Bang&Olufsen, telephones by Jacob Jensen, taps by Tangent, Etro bathroom products, iPod stations, intelligent lighting systems and Nespresso coffee machines. At The Sixtytwo, all guests enjoy complimentary internet access. Our breakfast offer, including both a buffet prepared with fresh quality products as well as dishes à la carte cooked to order, will not leave you indifferent.The Sixtytwo Cocktail Lounge is open from 5pm until midnight. With a peaceful and cosmopolitan ambience, it is a meeting point for those in search of an extended wine list and a varied gin and tonic selection. ",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d1501787-Reviews-Sixtytwo_Hotel-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Passeig de Gracia 62",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08007",
+    "address_string": "Passeig de Gracia 62, 08007 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.392868",
+  "longitude": "2.164512",
+  "timezone": "Europe/Madrid",
+  "phone": "01134932724180",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d1501787-Sixtytwo_Hotel-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#5 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "5"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "2685",
+  "review_rating_count": {
+    "1": "14",
+    "2": "17",
+    "3": "79",
+    "4": "513",
+    "5": "2062"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1013",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d1501787-m66827-Reviews-Sixtytwo_Hotel-Barcelona_Catalonia.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Room service",
+    "Suites",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Allergy-free Room",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Breakfast in the Room",
+    "Catalan",
+    "Complimentary Tea",
+    "English",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Ironing Service",
+    "Italian",
+    "Kid-Friendly Buffet",
+    "Private Check-in / Check-out",
+    "24-Hour Security",
+    "Spanish",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Parking",
+    "Car Hire",
+    "Express Check-in / Check-out",
+    "Currency Exchange",
+    "Laptop Safe",
+    "Portuguese",
+    "Paid Public Parking Nearby",
+    "Soundproof Rooms",
+    "Special Diet Menus",
+    "VIP Room Facilities"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Trendy",
+    "Green"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230970",
+      "name": "Eixample"
+    },
+    {
+      "location_id": "15565885",
+      "name": "La Dreta de l'Eixample"
+    },
+    {
+      "location_id": "15565927",
+      "name": "Passeig de Gracia"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "244"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1223"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "125"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "568"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "236"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

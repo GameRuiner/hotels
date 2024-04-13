@@ -1,0 +1,267 @@
+{
+  "location_id": "582611",
+  "name": "Sierra Sharm El Sheikh",
+  "description": "Just a short drive from Sharm El Sheikh international airport and Na'ama Bay, the Sierra Sharm El Sheikh hotel is the perfect destination for those who want to explore the Red Sea and beyond or alternatively kick back and relax. The Sierra Sharm El Sheikh is superbly located next to Soho Square where you will find a variety of restaurants and bars, ten pin bowling, ice skating rink, the Ice Bar, daily entertainment shows and live bands. This is an exciting destination with enviable all year round temperatures.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d582611-Reviews-Sierra_Sharm_El_Sheikh-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "SOHO Square, White Knight Beach",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "postalcode": "46628",
+    "address_string": "SOHO Square, White Knight Beach, Sharm El Sheikh 46628 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.964687",
+  "longitude": "34.392075",
+  "timezone": "Africa/Cairo",
+  "phone": "01120693628756",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d582611-Sierra_Sharm_El_Sheikh-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#8 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "8"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "8612",
+  "review_rating_count": {
+    "1": "148",
+    "2": "184",
+    "3": "454",
+    "4": "1446",
+    "5": "6380"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "7098",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d582611-m66827-Reviews-Sierra_Sharm_El_Sheikh-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Fitness center",
+    "Room service",
+    "Restaurant",
+    "Spa",
+    "Suites",
+    "Bar/Lounge",
+    "Internet",
+    "Shuttle Bus Service",
+    "Free parking",
+    "Wifi",
+    "Paid Wifi",
+    "Paid Internet",
+    "Kids Activities",
+    "Free Internet",
+    "Airport transportation",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Business center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Rooftop Bar",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Free airport transportation",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Sauna",
+    "Aerobics",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Car Hire",
+    "Complimentary Tea",
+    "Couples Massage",
+    "Currency Exchange",
+    "Diving",
+    "Doorperson",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Head Massage",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Italian",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Mini Golf",
+    "Nightclub / DJ",
+    "Outdoor Furniture",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shared Lounge / TV Area",
+    "Shops",
+    "Snack Bar",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Kids pool",
+    "Cable / Satellite TV",
+    "Clothes Rack",
+    "Full Body Massage",
+    "Mountain View",
+    "Neck Massage",
+    "Outdoor Dining Area",
+    "Pool View",
+    "Private Bathrooms",
+    "Squash Off-site",
+    "Tennis Court Off-site",
+    "Tile / Marble Floor",
+    "Wardrobe / Closet",
+    "Photo Copier / Fax In Business Center",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Hidden Gem",
+    "Family"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "197"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "2545"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "229"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "3191"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "1778"
+    }
+  ],
+  "awards": []
+}

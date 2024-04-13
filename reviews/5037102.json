@@ -1,0 +1,172 @@
+{
+  "data": [
+    {
+      "id": 835548320,
+      "lang": "en",
+      "location_id": 5037102,
+      "published_date": "2022-04-22T05:29:23Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d5037102-r835548320-Reviews-Baity_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827#review835548320",
+      "text": "Baity Hotel Appartment In Mankhool  Kuwaiti street is a perfect place to stay in Dubai.  It is close to the center, Metro and  Airport The rooms was very pleasant, it was cozy and clean. Breakfast was excellent and incredibly varied. The hotel team has always been friendly, patient and helpful. That impressed me the most. No matter what time of day or night, you could turn to them with all your concerns. On my next stays, I will definitely check into this Hotel Appartment  The price performance ratio is very good. Great Thanks to Mr. Nilesh and support",
+      "title": "Baity Hotel Appartment",
+      "trip_type": "Family",
+      "travel_date": "2022-03-31",
+      "user": {
+        "username": "humrishi",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/11/default-avatar-2020-23.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 835269496,
+      "lang": "en",
+      "location_id": 5037102,
+      "published_date": "2022-04-20T03:18:56Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d5037102-r835269496-Reviews-Baity_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827#review835269496",
+      "text": "Good hotel centrally located friendly staff. clean rooms good service , good breakfast well equipped pool and gymnasium. best parking , lot of space and , family friendly, 1 bhk and 2 bhk apartments and kitchen.",
+      "title": "stay at Hotel",
+      "trip_type": "NONE",
+      "travel_date": "2022-01-31",
+      "user": {
+        "username": "vinodhumble",
+        "user_location": {
+          "id": "295424",
+          "name": "Dubai, Emirate of Dubai"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/3d/default-avatar-2020-55.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 835117189,
+      "lang": "en",
+      "location_id": 5037102,
+      "published_date": "2022-04-19T02:07:25Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d5037102-r835117189-Reviews-Baity_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827#review835117189",
+      "text": "Very good experience. The facilities are amazing. House cleaning staff is very friendly and good at their job. The Management is also very good with their behaviour. Over all I had the amazing experience.",
+      "title": "Good hotel",
+      "trip_type": "Business",
+      "travel_date": "2021-08-31",
+      "user": {
+        "username": "Palashjain2602",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f4/5d/default-avatar-2020-32.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 783368960,
+      "lang": "en",
+      "location_id": 5037102,
+      "published_date": "2021-02-22T09:30:39Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d5037102-r783368960-Reviews-Baity_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827#review783368960",
+      "text": "What a lovely place to stay at Baity. Amazing view, clean rooms staffs are very accommodating they are very helpful during our stay. Chakraa restaurant has a lot of foods to indulge and very delicious. Safety precautions where implemented. With the view of Burj Khalifa ❤️❤️❤️ definitely will come again soon!",
+      "title": "Amazing and safe stay",
+      "trip_type": "Friends getaway",
+      "travel_date": "2021-02-28",
+      "user": {
+        "username": "G2964LXaishaa",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e9/bb/default-avatar-2020-65.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 740005703,
+      "lang": "en",
+      "location_id": 5037102,
+      "published_date": "2020-01-19T10:15:44Z",
+      "rating": 5,
+      "helpful_votes": 2,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d5037102-r740005703-Reviews-Baity_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827#review740005703",
+      "text": "We stayed here for 4 days and nights too,in this month.The 1BHK apartments are comfortable.Kitchen was well equipped.Staff was co operative.\nKitchen staff packed us an early breakfast at 7.00 am as we had a flight to catch.\nThe only funny thing,they donot provide soap or cleaning material to clean kitchen and dishes.We were asked to buy it from supermarket.\nAll in all,I would go back there if I ever visited Dubai.",
+      "title": "Good experience.",
+      "trip_type": "Family",
+      "travel_date": "2020-01-31",
+      "user": {
+        "username": "DIPALIS67",
+        "user_location": {
+          "id": "1532344",
+          "name": "Navi Mumbai, Maharashtra"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/11/11/b1/7d/dipali-s.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/11/11/b1/7d/dipali-s.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/11/11/b1/7d/dipali-s.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/11/11/b1/7d/dipali-s.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 767859902,
+        "title": "Owner response",
+        "text": "Dear Ms. Dipali, thank you for your time to review our hotel and we are pleased that overall you have enjoyed your stay. We hope to welcome you back again. The Hotel Management.",
+        "lang": "en",
+        "author": "Baity Hotel Apartments Bur Dubai",
+        "published_date": "2020-08-30T05:01:35Z"
+      }
+    }
+  ]
+}

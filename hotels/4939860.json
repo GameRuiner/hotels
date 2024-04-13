@@ -1,0 +1,220 @@
+{
+  "location_id": "4939860",
+  "name": "In Camera Art Boutique Hotel",
+  "description": "In Camera Art Boutique Hotel is a hotel inspired by the past and designed for the future, with its respect to both culture and the environment. Located in the heart of the historical Medieval Town of Rhodes, the hotel's interior design is a fusion of the traditional Greek houses, with the comforts of modern design.Stone-built walls, arches, beamed ceilings, ornamented tiles are only a few of the features uniquely blended in all suites and the villa at In Camera Art Boutique Hotel. They are decorated with unique art photos and cameras and offer COCO-MAT matresses, flat-screen TV with satellite channels, air-conditioned accommodation with free Wi-Fi.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g635613-d4939860-Reviews-In_Camera_Art_Boutique_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street1": "35 Sofokleous",
+    "street2": "Medieval Town",
+    "city": "Rhodes Town",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "851 00",
+    "address_string": "35 Sofokleous Medieval Town, Rhodes Town 851 00 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Rhodes Town",
+      "location_id": "635613"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.44179",
+  "longitude": "28.227787",
+  "timezone": "Europe/Athens",
+  "write_review": "https://www.tripadvisor.com/UserReview-g635613-d4939860-In_Camera_Art_Boutique_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "635613",
+    "ranking_string": "#4 of 122 hotels in Rhodes Town",
+    "geo_location_name": "Rhodes Town",
+    "ranking_out_of": "122",
+    "ranking": "4"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "541",
+  "review_rating_count": {
+    "1": "1",
+    "2": "0",
+    "3": "2",
+    "4": "17",
+    "5": "521"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "360",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g635613-d4939860-m66827-Reviews-In_Camera_Art_Boutique_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Public Wifi",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Minibar",
+    "Suites",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Hot Tub",
+    "Multilingual Staff",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Breakfast Available",
+    "Housekeeping",
+    "Allergy-free Room",
+    "Baggage Storage",
+    "Bottled Water",
+    "Bridal Suite",
+    "English",
+    "Greek",
+    "Laptop Safe",
+    "Massage",
+    "Private Check-in / Check-out",
+    "Soundproof Rooms",
+    "Special Diet Menus",
+    "Car Hire",
+    "Express Check-in / Check-out",
+    "Coffee Shop",
+    "Diving",
+    "Full Body Massage",
+    "Ironing Service",
+    "Manicure",
+    "Pedicure",
+    "Salon",
+    "Turkish",
+    "Yoga Classes",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Romantic",
+    "Quirky Hotels"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "6"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "320"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "16"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "108"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "30"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

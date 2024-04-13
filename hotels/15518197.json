@@ -1,0 +1,309 @@
+{
+  "location_id": "15518197",
+  "name": "LEVA Hotel Mazaya Centre",
+  "description": "Stay Close to Downtown Dubai. A Four-Star hotel conveniently located on Sheikh Zayed Road facing the Downtown Dubai. The perfect address to access and explore Burj Khalifa and Dubai Mall. The perfect location to discover the new City Walk – the urban lifestyle shopping and dining destination. The 178 chic and contemporary rooms and suites are equipped with an array of facilities and modern comforts. All hotel rooms are fitted with Kitchenette. The rooms come with a flat-screen TV and satellite channels, tea-coffee making facilities. The facilities in the hotel also feature free private parking. The hotel offers free Wi-Fi and an outdoor swimming pool, and the guests have access to the well-equipped fitness room. Leva Hotel Sheikh Zayed Road is 5 minutes walking distance to the Dubai Mall / Burj Khalifa Metro Station, 7 Minutes walking distance from the Business Bay Metro Station, 1.5 Kms from the City Walk Mall, 1 Km from the Dubai Mall and Burj Khalifa and 14 Kms from the Dubai International Airport. Staff at the reception can speak English, German, French, Arabic, Hindi and Tagalog. Guest at the hotel have access to an all-day dining restaurant, business hub and Market Place at the lobby level. Blending fresh and purposeful spaces with comfort, the beautiful property is a statement in style and enjoys close proximity to some of Dubai’s biggest leisure attractions and business landmarks. Part of a mixed-use development that includes Al Mazaya Shopping Centre and residential spaces, LEVA make for an ideal address for both business and leisure travellers in Dubai.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d15518197-Reviews-LEVA_Hotel_Mazaya_Centre-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Zayed Road",
+    "street2": "Mazaya Centre",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Sheikh Zayed Road Mazaya Centre, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.1982",
+  "longitude": "55.265263",
+  "timezone": "Asia/Dubai",
+  "phone": "01197145266000",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d15518197-LEVA_Hotel_Mazaya_Centre-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#16 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "16"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "1556",
+  "review_rating_count": {
+    "1": "9",
+    "2": "4",
+    "3": "20",
+    "4": "98",
+    "5": "1426"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "929",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d15518197-m66827-Reviews-LEVA_Hotel_Mazaya_Centre-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Kitchenette",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Accessible rooms",
+    "Microwave",
+    "Refrigerator in room",
+    "Babysitting",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Indoor pool",
+    "Outdoor pool",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Sauna",
+    "Additional Bathroom",
+    "Afrikaans",
+    "Allergy-free Room",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Desk",
+    "Doorperson",
+    "Dutch",
+    "English",
+    "Extra Long Beds",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "Free Private Parking Nearby",
+    "Free Public Parking Nearby",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hindi",
+    "Indonesian",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Italian",
+    "Kids' Meals",
+    "Kitchenware",
+    "Massage",
+    "Newspaper",
+    "Outdoor Furniture",
+    "Parking Garage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shops",
+    "Snack Bar",
+    "Soundproof Rooms",
+    "Spanish",
+    "Steam Room",
+    "Street Parking",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Thai",
+    "Wake Up Service / Alarm Clock",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Kids pool",
+    "Breakfast Available",
+    "Bidet",
+    "Cable / Satellite TV",
+    "Children's Television Networks",
+    "Children's Playground",
+    "Clothes Rack",
+    "Dining Area",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Free Wifi in the Business Center",
+    "Free Wired Internet in the Business Center",
+    "Full Body Massage",
+    "Hand Massage",
+    "Head Massage",
+    "Highchairs Available",
+    "iPod Docking Station",
+    "Landmark View",
+    "Nepali",
+    "Outdoor Dining Area",
+    "Oven",
+    "Patio",
+    "Private Bathrooms",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Sinhala",
+    "Sofa",
+    "Sofa Bed",
+    "Stovetop",
+    "Sun Deck",
+    "Swahili",
+    "Tamil",
+    "Tile / Marble Floor",
+    "Ukrainian",
+    "Umbrella",
+    "Valet Parking",
+    "Walk-in Shower",
+    "Walking Tours",
+    "Wardrobe / Closet",
+    "Whirlpool Bathtub"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Charming",
+    "City View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7282431",
+      "name": "Downtown Dubai"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "231"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "369"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "232"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "370"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "215"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

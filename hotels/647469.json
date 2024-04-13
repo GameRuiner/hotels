@@ -1,0 +1,298 @@
+{
+  "location_id": "647469",
+  "name": "Melia Desert Palm member of Melia Collection",
+  "description": "Meliá Desert Palm member of Meliá Collection in Dubai is a 5-star boutique retreat with 39 rooms, suites and private pool villas. Set on a private polo estate the property offers two award winning restaurants - RARE and Epicure, an internationally acclaimed Samana Spa and an inviting bar which overlooks one of the four championship sized polo fields and Dubai skyline beyond.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d647469-Reviews-Melia_Desert_Palm_member_of_Melia_Collection-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Awir Road",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "119171",
+    "address_string": "Al Awir Road, Dubai 119171 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.168133",
+  "longitude": "55.44685",
+  "timezone": "Asia/Dubai",
+  "phone": "19292071033",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d647469-Melia_Desert_Palm_member_of_Melia_Collection-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#5 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "5"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "1629",
+  "review_rating_count": {
+    "1": "12",
+    "2": "21",
+    "3": "34",
+    "4": "116",
+    "5": "1446"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "931",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d647469-m66827-Reviews-Melia_Desert_Palm_member_of_Melia_Collection-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Free parking",
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Suites",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Kids Activities",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Pets Allowed",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Multilingual Staff",
+    "Conference Facilities",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Outdoor pool",
+    "Private Pools",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Electric vehicle charging station",
+    "Additional Bathroom",
+    "Aerobics",
+    "Allergy-free Room",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "BBQ Facilities",
+    "Bicycle Rental",
+    "Bicycles Available",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Chinese",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Desk",
+    "Dishwasher",
+    "English",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Free Public Parking Nearby",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Horseback Riding",
+    "Indonesian",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kitchenware",
+    "Massage",
+    "Newspaper",
+    "Outdoor Furniture",
+    "Parking Garage",
+    "Picnic Area",
+    "Pool / Beach Towels",
+    "Private Check-in / Check-out",
+    "Russian",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shoeshine",
+    "Spanish",
+    "Special Diet Menus",
+    "Squash",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Thai",
+    "Wake Up Service / Alarm Clock",
+    "Kitchenette",
+    "Banquet Room",
+    "Family Rooms",
+    "Private Balcony",
+    "Butler Service",
+    "Breakfast Available",
+    "Sauna",
+    "Bidet",
+    "Body Wrap",
+    "Cable / Satellite TV",
+    "Couples Massage",
+    "Dining Area",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Complimentary Welcome Drink",
+    "Full Body Massage",
+    "Happy Hour",
+    "Highchairs Available",
+    "Kids' Outdoor Play Equipment",
+    "Landmark View",
+    "Laptop Safe",
+    "Outdoor Dining Area",
+    "Oven",
+    "Patio",
+    "Personal Trainer",
+    "Plunge Pool",
+    "Pool View",
+    "Pool with View",
+    "Private Bathrooms",
+    "Salon",
+    "Seating Area",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Sofa",
+    "Squash Off-site",
+    "Stovetop",
+    "Sun Deck",
+    "Swimming Pool Toys",
+    "Tennis Court Off-site",
+    "Tile / Marble Floor",
+    "Umbrella",
+    "Valet Parking",
+    "Video Game Console",
+    "Walk-in Shower",
+    "Walking Tours",
+    "Wardrobe / Closet",
+    "Yoga Classes",
+    "Yoga Room"
+  ],
+  "parent_brand": "Melia Hotels International",
+  "brand": "Melia Collection",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Charming",
+    "Boutique"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620683",
+      "name": "Warisan"
+    },
+    {
+      "location_id": "15620684",
+      "name": "Warisan 2"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "117"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "523"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "137"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "523"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "211"
+    }
+  ],
+  "awards": []
+}

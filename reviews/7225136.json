@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "id": 866407140,
+      "lang": "en",
+      "location_id": 7225136,
+      "published_date": "2022-10-29T10:28:02Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d7225136-r866407140-Reviews-Avin_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review866407140",
+      "text": "This hotel is absolutely terrible, dirty, smelly and rundown. We booked a non-smoking room which does not exist in this hotel, it is a smoking hotel and everywhere stinks enough to give you an instant headache. The staff was rude, not accommodating when we asked for a different room that was actually non-smoking, argumentative when we pointed out the false advertising, very unhelpful and took 0 ownership. I would highly recommend against staying here, there are plenty other hotels in the area that would be better options. This hotel is definitely not suitable for children or families. ",
+      "title": "Horrible disgusting experience with rude, unhelpful staff ",
+      "trip_type": "Couples",
+      "travel_date": "2022-10-31",
+      "user": {
+        "username": "alicia1995taylor",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f4/5d/default-avatar-2020-32.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 832803920,
+      "lang": "en",
+      "location_id": 7225136,
+      "published_date": "2022-03-30T05:05:42Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d7225136-r832803920-Reviews-Avin_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review832803920",
+      "text": "I spent a night at thus hotel. The location is at the center approximately and great access to famous places like konak square. Kind staffs and good food in comparison to a 3 star hotel. Usually the hotela in izmir in case of being old, are like apartments",
+      "title": "Nice and easy",
+      "trip_type": "Business",
+      "travel_date": "2022-03-31",
+      "user": {
+        "username": "762masouds",
+        "user_location": {
+          "id": "293998",
+          "name": "Iran"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f3/e4/default-avatar-2020-30.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 324616814,
+      "lang": "en",
+      "location_id": 7225136,
+      "published_date": "2015-11-05T09:02:01Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d7225136-r324616814-Reviews-Avin_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review324616814",
+      "text": "We tried to book room via reception, the man was trying to cheat   us,wanted to sell us by 180 tl instead of usual cost 150 tl and he said that only by cash, but finally we dealed on 150 tl but without breakfast ... The guy who helped us with luggage was very nice and helpful and told us, that breakfasts included... All other staff was really nice and helpful . Situated near railway station, but with my husband I felt safety walking in the late evening. Breakfast was ok, bed linen clean, in the room quite clean.",
+      "title": "Izmir business hotel",
+      "trip_type": "Couples",
+      "travel_date": "2015-10-31",
+      "user": {
+        "username": "squirrellllc",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/d0/default-avatar-2020-33.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/d0/default-avatar-2020-33.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f4/d0/default-avatar-2020-33.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f4/d0/default-avatar-2020-33.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f4/d0/default-avatar-2020-33.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

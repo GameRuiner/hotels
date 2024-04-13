@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "id": 945905720,
+      "lang": "en",
+      "location_id": 16735656,
+      "published_date": "2024-04-08T23:36:45Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d16735656-r945905720-Reviews-Address_Sky_View-Dubai_Emirate_of_Dubai.html?m=66827#review945905720",
+      "text": "Thank you for providing such a stunning and remarkable view and exceptional service! The friendly staff at the lobby lounge made our experience truly enjoyable as we savored snacks and delicious coffees. Their welcoming attitude added a special touch to the visit, making it even more memorable. I highly recommend this establishment to others based on the fantastic service received. A special shoutout to the Filipina lady who went above and beyond with her kindness – though her name remains unknown to me, her exceptional hospitality did not go unnoticed. This place truly exceeded my expectations in every way possible!",
+      "title": "Beautiful view with amazing service",
+      "trip_type": "Couples",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "asifaN7213QW",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/9f/default-avatar-2020-16.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945936793,
+        "title": "Owner response",
+        "text": "Dear asifaN7213QW,\n\nWe are delighted to hear that you enjoyed your stay with us here at Address Skyview! \nThank you for taking time to share your feedback of your recent visit at Address Skyview. Feedback like this is very valuable for us and will assist us to improve our services and ensure that we meet and even exceed our guests’ expectations. \nWe look forward to welcoming you back again soon for another wonderful stay. \nBest wishes,\nManagement Office\n",
+        "lang": "en",
+        "author": "Marianne  Fitzgerald",
+        "published_date": "2024-04-09T06:27:49Z"
+      }
+    },
+    {
+      "id": 945832947,
+      "lang": "en",
+      "location_id": 16735656,
+      "published_date": "2024-04-08T09:25:03Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d16735656-r945832947-Reviews-Address_Sky_View-Dubai_Emirate_of_Dubai.html?m=66827#review945832947",
+      "text": "Thanks so much for his assisting in the gym today for me and  for everyone,   very amazing person with nice attitude, everyone's like him ,i come to hotel every weekend really amazing hotel very comfortable vibe ,I  enjoyed staying there and I hope back again in the next week because ,i had there amazing memories with Mansour and everyone.",
+      "title": "Special thanks for Coach Mansour",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "manekm203",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/2b/d1/d2/e0/manek-m.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/2b/d1/d2/e0/manek-m.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/2b/d1/d2/e0/manek-m.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/2b/d1/d2/e0/manek-m.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945936674,
+        "title": "Owner response",
+        "text": "Dear manekm2024,\n\nWe are delighted to hear that you enjoyed your stay with us here at Address Skyview! \nThank you for taking time to share your feedback of your recent visit at Address Skyview. Feedback like this is very valuable for us and will assist us to improve our services and ensure that we meet and even exceed our guests’ expectations. \nWe look forward to welcoming you back again soon for another wonderful stay. \nBest wishes,\nManagement Office\n",
+        "lang": "en",
+        "author": "Marianne  Fitzgerald",
+        "published_date": "2024-04-09T06:26:43Z"
+      }
+    },
+    {
+      "id": 945648983,
+      "lang": "en",
+      "location_id": 16735656,
+      "published_date": "2024-04-07T01:29:21Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d16735656-r945648983-Reviews-Address_Sky_View-Dubai_Emirate_of_Dubai.html?m=66827#review945648983",
+      "text": "Murtaza from Rayna Tours was instrumental in ensuring that we had the best time in Dubai.  We went to Dubai to celebrate my best friend’s 50th birthday along with our families.  I was in touch with Murtaza a few months before our arrival to get our itinerary outlined and booked.  We bought tours for the Burj Khalifa, the Dubai city,  the desert safari, and the Abu Dhabi all through Murtaza.  He answered all my questions and was very patient.  All of the tours were exactly as described with great drivers/tour guides and vehicles.",
+      "title": "Murtaza from Rayna Tours at Address Sky View was magnificent!!",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "369kiranj",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/11/ca/32/9f/kiran-j.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/11/ca/32/9f/kiran-j.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/11/ca/32/9f/kiran-j.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/11/ca/32/9f/kiran-j.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945670501,
+        "title": "Owner response",
+        "text": "Dear Kiran J,\n\nWe are delighted to hear that you enjoyed your stay with us here at Address Skyview! \nThank you for taking time to share your feedback of your recent visit at Address Skyview. Feedback like this is very valuable for us and will assist us to improve our services and ensure that we meet and even exceed our guests’ expectations. \nWe look forward to welcoming you back again soon for another wonderful stay. \nBest wishes,\nManagement Office\n",
+        "lang": "en",
+        "author": "Marianne  Fitzgerald",
+        "published_date": "2024-04-07T05:33:03Z"
+      }
+    },
+    {
+      "id": 945616939,
+      "lang": "en",
+      "location_id": 16735656,
+      "published_date": "2024-04-06T16:49:36Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d16735656-r945616939-Reviews-Address_Sky_View-Dubai_Emirate_of_Dubai.html?m=66827#review945616939",
+      "text": "I'm going to deckto with my friends and we met Hamshari  with a wonderful smile and provided us with good service and an amazing shisha. He has experience in customer service that makes the experience unforgettable. Thank you very much Hamshari for this enjoyable time. Thank you also for the good reception and hospitality. We will definitely come back again.",
+      "title": "Very good service and hospitality ",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "Passenger08301398436",
+        "user_location": {
+          "id": "295424",
+          "name": "Dubai, Emirate of Dubai"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/a3/default-avatar-2020-38.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945670408,
+        "title": "Owner response",
+        "text": "Dear Passenger08301398436,\n\nWe are delighted to hear that you enjoyed your stay with us here at Address Skyview! \nThank you for taking time to share your feedback of your recent visit at Address Skyview. Feedback like this is very valuable for us and will assist us to improve our services and ensure that we meet and even exceed our guests’ expectations. \nWe look forward to welcoming you back again soon for another wonderful stay. \nBest wishes,\nManagement Office\n",
+        "lang": "en",
+        "author": "Marianne  Fitzgerald",
+        "published_date": "2024-04-07T05:32:18Z"
+      }
+    },
+    {
+      "id": 945532076,
+      "lang": "en",
+      "location_id": 16735656,
+      "published_date": "2024-04-06T03:24:56Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d16735656-r945532076-Reviews-Address_Sky_View-Dubai_Emirate_of_Dubai.html?m=66827#review945532076",
+      "text": "Amazing experience! I had the best massage by Nining. I will definitely come back soon! \nAlso Sudheer was making a very good job at the Spa front desk. Lovely team. \nThe hotel breakfast has a big variety of very good quality food. Ezekiel and John were absolutely lovely. \nOverall a wonderful experience.",
+      "title": "Spa experience",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "danahA6519WS",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ed/7b/default-avatar-2020-6.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ed/7b/default-avatar-2020-6.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ed/7b/default-avatar-2020-6.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ed/7b/default-avatar-2020-6.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ed/7b/default-avatar-2020-6.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945670227,
+        "title": "Owner response",
+        "text": "Dear danahA6519WS,\n\nWe are delighted to hear that you enjoyed your stay with us here at Address Skyview! \nThank you for taking time to share your feedback of your recent visit at Address Skyview. Feedback like this is very valuable for us and will assist us to improve our services and ensure that we meet and even exceed our guests’ expectations. \nWe look forward to welcoming you back again soon for another wonderful stay. \nBest wishes,\nManagement Office\n",
+        "lang": "en",
+        "author": "Marianne  Fitzgerald",
+        "published_date": "2024-04-07T05:30:58Z"
+      }
+    }
+  ]
+}

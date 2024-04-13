@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": 850522741,
+      "lang": "en",
+      "location_id": 23341907,
+      "published_date": "2022-07-29T00:51:13Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d23341907-r850522741-Reviews-Kybele_AlacatI_Otel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review850522741",
+      "text": "Amazing nice good! Cant wait to be back !!! Clean , new , quite , harmony (new hotel)  ... staff very nice and friendly ... free  car parking ! I fel like i m at home, swiming pool  ! I became inlove !!!!Thanks  for sure i ll be back !!!! And recomend it fot friends.",
+      "title": "Amazing",
+      "trip_type": "Friends getaway",
+      "travel_date": "2022-07-31",
+      "user": {
+        "username": "Rimasasa",
+        "user_location": {
+          "id": "293974",
+          "name": "Istanbul"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/19/c1/4e/32/diana-k.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/19/c1/4e/32/diana-k.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/19/c1/4e/32/diana-k.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/19/c1/4e/32/diana-k.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/19/c1/4e/32/diana-k.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

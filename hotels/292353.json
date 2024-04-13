@@ -1,0 +1,297 @@
+{
+  "location_id": "292353",
+  "name": "Rodos Palladium Leisure & Wellness",
+  "description": "A TRUE OASIS OF FIVE-STAR LEISURE & WELLNESS EXPERIENCES AT THE BEACHFRONT!\nBeing one of the most granted hotels on the island, Rodos Palladium has earned a reputation for pleasing even the most demanding holidaymakers. This 5-star premier-class resort occupies a prominent position on the Blue Flag-awarded sandy & pebble beach of Kallithea. The establishment is renowned for its genuine, timeless passion for providing Greek hospitality, offering its guests an authentic experience with meticulous attention to detail. Fine Greek & Mediterranean tastes, cosmopolitan bars, a large tropical pool and a Spa with an indoor heated pool mark Rodos Palladium the ideal choice for your stay in Rhodes. Situated within just 8 km distance from Rhodes town, it unquestionably guarantees a relaxing and carefree holiday environment.\nDress Code: The following attire is NOT ACCEPTED: Sports shorts or training trousers, sports t-shirts or tank tops or sleeveless shirts and flip-flops.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g1012852-d292353-Reviews-Rodos_Palladium_Leisure_Wellness-Kallithea_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street1": "Leof. Kallitheas",
+    "city": "Kallithea",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "851 00",
+    "address_string": "Leof. Kallitheas, Kallithea 851 00 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Kallithea",
+      "location_id": "1012852"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.36882",
+  "longitude": "28.221567",
+  "timezone": "Europe/Athens",
+  "phone": "011302241057300",
+  "write_review": "https://www.tripadvisor.com/UserReview-g1012852-d292353-Rodos_Palladium_Leisure_Wellness-Kallithea_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "1012852",
+    "ranking_string": "#2 of 26 hotels in Kallithea",
+    "geo_location_name": "Kallithea",
+    "ranking_out_of": "26",
+    "ranking": "2"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "2231",
+  "review_rating_count": {
+    "1": "33",
+    "2": "51",
+    "3": "138",
+    "4": "446",
+    "5": "1563"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "2594",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g1012852-d292353-m66827-Reviews-Rodos_Palladium_Leisure_Wellness-Kallithea_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Free parking",
+    "Restaurant",
+    "Business center",
+    "Fitness center",
+    "Beachfront",
+    "Room service",
+    "Internet",
+    "Wifi",
+    "Free Wifi",
+    "Suites",
+    "Bar/Lounge",
+    "Kids Activities",
+    "Breakfast included",
+    "Wheelchair access",
+    "Spa",
+    "Airport transportation",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Conference Facilities",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Aerobics",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Coffee / Tea Maker",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Greek",
+    "Hair Dryer",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Massage",
+    "Mini Golf",
+    "Outdoor Furniture",
+    "Pool / Beach Towels",
+    "Salon",
+    "Seating Area",
+    "Shops",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Wine / Champagne",
+    "Free Internet",
+    "Family Rooms",
+    "Kids pool",
+    "Allergy-free Room",
+    "Billiards",
+    "Blackout Curtains",
+    "Body Wrap",
+    "Cable / Satellite TV",
+    "Clothes Rack",
+    "Couples Massage",
+    "Currency Exchange",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Foot Bath",
+    "French",
+    "Hand Massage",
+    "Head Massage",
+    "Highchairs Available",
+    "Interconnected room(s) available",
+    "Italian",
+    "Makeup Services",
+    "Manicure",
+    "Mountain View",
+    "Neck Massage",
+    "Pedicure",
+    "Private Bathrooms",
+    "Russian",
+    "Shallow End",
+    "Shared Lounge / TV Area",
+    "Sofa",
+    "Sofa Bed",
+    "Sun Deck",
+    "Tile / Marble Floor",
+    "Umbrella",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Waxing Services",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Classic",
+    "Green"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "23"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "987"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "57"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "697"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "185"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

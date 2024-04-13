@@ -1,0 +1,214 @@
+{
+  "data": [
+    {
+      "id": 945972791,
+      "lang": "en",
+      "location_id": 12349800,
+      "published_date": "2024-04-09T12:08:15Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d12349800-r945972791-Reviews-Rixos_Premium_Dubai_JBR-Dubai_Emirate_of_Dubai.html?m=66827#review945972791",
+      "text": "Clovise so kind and help me, during aur staying rixos Dubai and hotel was amazing. And enjoyebel we dont have more to say ruhen give rixos jbr, İ will very happy.  Beach was very  good. The staff was very helpful and Dubai was very amazing. İ am very happy about us",
+      "title": "Bade",
+      "trip_type": "Family",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "Elifsoylun1",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e7/7b/default-avatar-2020-56.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e7/7b/default-avatar-2020-56.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e7/7b/default-avatar-2020-56.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e7/7b/default-avatar-2020-56.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/7b/default-avatar-2020-56.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945987300,
+        "title": "Owner response",
+        "text": "Dear Bade,\n\nThank you very much for leaving these wonderful comments on Tripadvisor, we are delighted that you enjoyed your stay among us. \n\nOn the other hand we thank you for pointing out the kindness and enthusiasm of our staff, their friendliness and helpfulness being our hotels’ main strength we will definitely congratulate them all on your behalf for their contribution to your wellbeing whilst staying among us. \n\nAgain we thank you for this wonderful review, it has been a pleasure for us to read and we look forward to serving you again soon\n\nBest Regards,\nGuest Relations Team.\n",
+        "lang": "en",
+        "author": "Salman Khan",
+        "published_date": null
+      }
+    },
+    {
+      "id": 945949191,
+      "lang": "en",
+      "location_id": 12349800,
+      "published_date": "2024-04-09T08:33:21Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d12349800-r945949191-Reviews-Rixos_Premium_Dubai_JBR-Dubai_Emirate_of_Dubai.html?m=66827#review945949191",
+      "text": "Very good place and service. Nagis from housekeeping was very friendly. Good food and nice beach. Clean rooms, beach and restaurants. Nice spot to go also for families with little babies. Jbr is general is good location to see the rest of Dubai",
+      "title": "Family holiday",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "531ekinu",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ea/74/default-avatar-2020-68.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ea/74/default-avatar-2020-68.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ea/74/default-avatar-2020-68.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ea/74/default-avatar-2020-68.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ea/74/default-avatar-2020-68.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945974856,
+        "title": "Owner response",
+        "text": "Dear Valuable Guest,\n\nThank you for reviewing your recent stay in our Rixos Premium Dubai. It is wonderful to hear we were able to make your stay special from the moment you arrived until the moment you departed.\n\nThank you for referencing so many of our team members by name, as we are now able to reach out to them individually and let them know how they made such a positive impact on your stay. \n\nThank you again for this heartwarming review of your stay with us, we look forward to your next visit. \n\nBest Regards,\nGuest Relations Team.\n",
+        "lang": "en",
+        "author": "Salman Khan",
+        "published_date": "2024-04-09T12:26:11Z"
+      }
+    },
+    {
+      "id": 945945740,
+      "lang": "en",
+      "location_id": 12349800,
+      "published_date": "2024-04-09T08:01:16Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d12349800-r945945740-Reviews-Rixos_Premium_Dubai_JBR-Dubai_Emirate_of_Dubai.html?m=66827#review945945740",
+      "text": "Nice hotel very helpful staff nice location room is very clean  nice view every think perfect Krishna from housekeeping and his friends kasun subash  very helpful friendly pool and beach area very clean thanks Krishna Kasun and subash we will definitely come back",
+      "title": "Great Hotel",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "haniehm162",
+        "user_location": {
+          "id": "null"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945960427,
+        "title": "Owner response",
+        "text": "Dear valued guest!\n\nWe always find it nice to read that our guests went home with great holiday memories and we are very grateful for the time and effort you spent to share your personal experience at our Rixos Premium Dubai hotel with us and Tripadvisor readers.\nWe are glad to read that you really enjoyed our unbeatable location to visit the wonders of a vacation in Dubai. We are also very pleased to read your complete satisfaction with the comfort of the room we accommodated you in and are grateful for your highlight on the beauty of our accommodations aimed at guaranteeing a memorable stay in our hotel. On the other hand we thank you for pointing out the kindness and enthusiasm of our team member, his friendliness and helpfulness being our hotels’ main strength we will definitely congratulate him on your behalf for his contribution to your wellbeing whilst \nAgain we thank you for this very kind review of our hotel and we look forward to serving you again in the future.\n\nKindest regards,\nGuest Relations Team.",
+        "lang": "en",
+        "author": "Salman Khan",
+        "published_date": "2024-04-09T10:16:14Z"
+      }
+    },
+    {
+      "id": 945945736,
+      "lang": "en",
+      "location_id": 12349800,
+      "published_date": "2024-04-09T08:01:14Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d12349800-r945945736-Reviews-Rixos_Premium_Dubai_JBR-Dubai_Emirate_of_Dubai.html?m=66827#review945945736",
+      "text": "The hotel was top notch… Algerim and Ivan especially. Service, food, atmosphere. Would definitely stay again and recommend to my friends!! Didn’t want to leave. 20. \"Rixos Premium Dubai's commitment to accessibility was commendable. The hotel provided\naccessible facilities and services that catered to the needs of all guests.\"",
+      "title": "Amazing stay",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "Tour819762",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/e6/default-avatar-2020-45.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945960465,
+        "title": "Owner response",
+        "text": "Dear Valued Guest,\n\nThank you very much for leaving these wonderful comments on Tripadvisor, we are delighted that you enjoyed your stay among us. \n\nI am truly happy to know that we have managed to exceed your expectations in regards to hospitality and service delivered and will not fail to pass your comments to those team members whom you have personally mentioned. \n\nOnce more we thank you for choosing our hotel for your holiday and very much look forward to having the opportunity to serve you again in the future.\n\nKindest Regards,\nGuest Relations Team\n",
+        "lang": "en",
+        "author": "Salman Khan",
+        "published_date": "2024-04-09T10:16:41Z"
+      }
+    },
+    {
+      "id": 945944636,
+      "lang": "en",
+      "location_id": 12349800,
+      "published_date": "2024-04-09T07:51:06Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d12349800-r945944636-Reviews-Rixos_Premium_Dubai_JBR-Dubai_Emirate_of_Dubai.html?m=66827#review945944636",
+      "text": "Everything is very good, the service is fast, the employees are friendly, they are very fast in cleaning, they take care of everything quickly, the rooms are cleaned immediately, the moment we enter the room, it is cleaned, the cleaning team is also very nice, thank you for your attention, Nagıs, Krıshna and Kausan were the pool attenders that helped us to find out sunbeds in the beach and the beach is very neat and clean every time. Definitely we'll come back again.",
+      "title": "Good place",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "Departure02194484050",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e5/66/default-avatar-2020-53.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e5/66/default-avatar-2020-53.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e5/66/default-avatar-2020-53.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e5/66/default-avatar-2020-53.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e5/66/default-avatar-2020-53.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945960421,
+        "title": "Owner response",
+        "text": "Dear valued guest!\n\nWe always find it nice to read that our guests went home with great holiday memories and we are very grateful for the time and effort you spent to share your personal experience at our Rixos Premium Dubai hotel with us and Tripadvisor readers.\nWe are glad to read that you really enjoyed our unbeatable location to visit the wonders of a vacation in Dubai. We are also very pleased to read your complete satisfaction with the comfort of the room we accommodated you in and are grateful for your highlight on the beauty of our accommodations aimed at guaranteeing a memorable stay in our hotel. On the other hand we thank you for pointing out the kindness and enthusiasm of our team member, his friendliness and helpfulness being our hotels’ main strength we will definitely congratulate him on your behalf for his contribution to your wellbeing whilst \nAgain we thank you for this very kind review of our hotel and we look forward to serving you again in the future.\n\nKindest regards,\nGuest Relations Team.",
+        "lang": "en",
+        "author": "Salman Khan",
+        "published_date": "2024-04-09T10:16:09Z"
+      }
+    }
+  ]
+}

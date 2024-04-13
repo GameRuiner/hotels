@@ -1,0 +1,274 @@
+{
+  "location_id": "19092478",
+  "name": "Seventy Barcelona",
+  "description": "Hotel Seventy Barcelona is located at 344 Carrer de Còrsega, between the elegance of Passeig de Gràcia, with its luxury boutiques, and the cosmopolitan customs of the artistic neighborhood of Gràcia, with its signature restaurants and local designer boutiques. It also offers two different visions of Barcelona thanks to its perfect location between Gràcia and the Eixample, orderly, rational and full of architectural gems. The hotel offers the opportunity to walk to the most interesting places in Barcelona, such as the Sagrada Familia, La Pedrera, Casa Batllò or Plaça Catalunya.\n\nSeventy Barcelona is equipped to the smallest detail with a wide range of services in each of the rooms. Among which the two Duplex Suites stand out, offering maximum exclusivity and comfort with their two atmospheres; and the Lounge Terrace Rooms, perfect for taking the air in their spacious and sunny private terraces.\n\nIt also has a wide range of services and amenities to satisfy guests, such as online check-in, 24-hour reception, room service, laundry service, access and adapted spaces, fitness room, business center and luggage room.\n\nSeventy Barcelona include several areas dedicated to gastronomy - natural and healthy recipes of Mediterranean cuisine; a typical Eixample patio for breakfast or lunch surrounded by olive trees; and the Urban Beach Club located on the rooftop of the building (7th floor), a terrace with a swimming pool, solarium and restaurant exclusively for guests. The hotel also has a gym and an Organic & Vegan Spa; several independent spaces to organize all kinds of events; and the 24-hour parking, with direct access to the hotel.\n\nEnjoy your stay in Barcelona!\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d19092478-Reviews-Seventy_Barcelona-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Carrer Corsega, 344-352",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08037",
+    "address_string": "Carrer Corsega, 344-352, 08037 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.39786",
+  "longitude": "2.16161",
+  "timezone": "Europe/Madrid",
+  "phone": "01134930121270",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d19092478-Seventy_Barcelona-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#9 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "9"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "942",
+  "review_rating_count": {
+    "1": "3",
+    "2": "2",
+    "3": "15",
+    "4": "47",
+    "5": "875"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "1143",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d19092478-m66827-Reviews-Seventy_Barcelona-Barcelona_Catalonia.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Indoor pool",
+    "Butler Service",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Sauna",
+    "Allergy-free Room",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Breakfast in the Room",
+    "Catalan",
+    "Coffee / Tea Maker",
+    "Desk",
+    "English",
+    "Facial Treatments",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Italian",
+    "Massage",
+    "Pool / Beach Towels",
+    "Paid Private Parking On-site",
+    "Seating Area",
+    "24-Hour Security",
+    "Shared Lounge / TV Area",
+    "Soundproof Rooms",
+    "Spanish",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Telephone",
+    "Conference Facilities",
+    "Cable / Satellite TV",
+    "Clothes Rack",
+    "Couples Massage",
+    "Electric Kettle",
+    "Full Body Massage",
+    "German",
+    "Hand Massage",
+    "Head Massage",
+    "iPod Docking Station",
+    "Laptop Safe",
+    "Neck Massage",
+    "Private Bathrooms",
+    "Sun Deck",
+    "Tile / Marble Floor",
+    "Wardrobe / Closet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Charming",
+    "Trendy"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230970",
+      "name": "Eixample"
+    },
+    {
+      "location_id": "15565885",
+      "name": "La Dreta de l'Eixample"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "94"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "383"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "34"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "91"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "85"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice Best of the Best",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png"
+      },
+      "categories": [
+        "Top"
+      ],
+      "display_name": "Travelers Choice Best of the Best"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

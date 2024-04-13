@@ -1,0 +1,273 @@
+{
+  "data": [
+    {
+      "id": 945329336,
+      "lang": "en",
+      "location_id": 614923,
+      "published_date": "2024-04-04T09:37:35Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d614923-r945329336-Reviews-Arabian_Park_Dubai_An_Edge_by_Rotana_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945329336",
+      "text": "Very good 5 star hotel. Service excellent throughout. Ms Saida and Mr Babu very helpful at reception extending a late checkout until 4pm without additional charges. Breakfast buffet menu was so varied that accommodated variety of tastes. Gym was very good as well as bodylines massage deals. All and all very good experience if you need to be around government complex buildings. \nIm coming back to the same hotel in two weeks time",
+      "title": "Very good relaxed business accommodation with superb service",
+      "trip_type": "Business",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "ArdyG694",
+        "user_location": {
+          "id": "186225",
+          "name": "Cambridge, Cambridgeshire, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/3d/default-avatar-2020-55.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 944883211,
+      "lang": "en",
+      "location_id": 614923,
+      "published_date": "2024-04-02T01:33:49Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d614923-r944883211-Reviews-Arabian_Park_Dubai_An_Edge_by_Rotana_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review944883211",
+      "text": "It was our first time at this hotel and if I have one word to express my feeling about our week stay, I can't use anything else but - great.\n\nAt first glance, the hotel impresses with its constantly maintained perfect cleanliness and perhaps more importantly for the guest's pleasant feeling - the friendly and smiling staff. Everyone we encountered throughout the week gave us a smile, a wish for a good day, and also made it clear that they cared about making us feel comfortable. If I ran a hotel, these are the kind of people I would want on my team.\n\nEvery time we came back to the hotel from the city, our room was clean, the coffee or tea set was replenished and we could have an early evening siesta on the balcony... \n\nWe had half board, all I can say about the food is that neither at breakfast nor at dinner was there the slightest problem to choose according to taste from the menu, which was sufficiently replenished as long as the dining room was open. Here, too, cleanliness and order were very carefully maintained.\n\nIf I were to answer the question of whether I would want to return to this particular \nhotel, the answer would be unequivocal: Yes, and I can recommend the stay to everyone with a clear conscience. Although the hotel modestly states a three star category, I would definitely add at least one.\n\nAfter all, there is nothing to do but thank the entire staff for a lovely week in our lives.",
+      "title": "If you're looking to explore Dubai and are looking for the perfect base with friendly staff - this is the hotel.",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "JiriMarek",
+        "user_location": {
+          "id": "2423251",
+          "name": "Pardubice Region, Bohemia"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/10/4f/f9/2d/jirimarek.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/10/4f/f9/2d/jirimarek.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/10/4f/f9/2d/jirimarek.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/10/4f/f9/2d/jirimarek.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/10/4f/f9/2d/jirimarek.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 944483042,
+      "lang": "en",
+      "location_id": 614923,
+      "published_date": "2024-03-30T05:36:53Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d614923-r944483042-Reviews-Arabian_Park_Dubai_An_Edge_by_Rotana_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review944483042",
+      "text": "My stay is fun and the food in Gardenia tastes delicious. The staffs are very accommodating and professional. I commend Nielson of Gardenia for catering us with great service. It is an amazing experience and accessible to many good places.",
+      "title": "Great experience",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "maceciliat2024",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e5/2b/default-avatar-2020-52.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e5/2b/default-avatar-2020-52.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e5/2b/default-avatar-2020-52.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e5/2b/default-avatar-2020-52.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e5/2b/default-avatar-2020-52.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 944755234,
+        "title": "Owner response",
+        "text": "Dear Maceciliat2024,\n\nThank you for sharing your feedback on TripAdvisor.\n\nIt is always rewarding to receive such praise regarding our products and services. Compliments like yours keep us all very motivated in creating an amazing experience for our guests.\n\nThe whole team looks forward to welcoming you back soon.\n\nBest regards,\n\nStefan Schmid\nGeneral Manager",
+        "lang": "en",
+        "author": "Guest Services Team",
+        "published_date": "2024-04-01T05:05:46Z"
+      }
+    },
+    {
+      "id": 944468883,
+      "lang": "en",
+      "location_id": 614923,
+      "published_date": "2024-03-30T02:42:56Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d614923-r944468883-Reviews-Arabian_Park_Dubai_An_Edge_by_Rotana_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review944468883",
+      "text": "Although we are new to the hotel, we are not new to the neighborhood. The location has always been my favorite! Breakfast was nice and provided lovely selection, the breakfast serving staff, Nielson, really seemed to care whether we enjoyed the food or not, smiled a lot and were attentive without being overbearing.",
+      "title": "💯",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "angelicamhel",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ef/73/default-avatar-2020-13.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944755382,
+        "title": "Owner response",
+        "text": "Dear Angelicamhel,\n\nThank you for sharing your feedback on TripAdvisor.\n\nIt is always rewarding to receive such praise regarding our products and services. Compliments like yours keep us all very motivated in creating an amazing experience for our guests.\n\nThe whole team looks forward to welcoming you back soon.\n\nBest regards,\n\nStefan Schmid\nGeneral Manager",
+        "lang": "en",
+        "author": "Guest Services Team",
+        "published_date": "2024-04-01T05:07:11Z"
+      }
+    },
+    {
+      "id": 944213563,
+      "lang": "en",
+      "location_id": 614923,
+      "published_date": "2024-03-28T02:27:47Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d614923-r944213563-Reviews-Arabian_Park_Dubai_An_Edge_by_Rotana_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review944213563",
+      "text": "I had a very smooth check in.I stamped for 9 nights, My stay was smooth until the last day of check in.However, during my stay, they misplaced my dinner voucher in one of jumeirah restaurant worth of Aed1500.On my check out day,I paid Aed90 to extend till 6pm.I went to the mall for some shopping, but unfortunately I got stock in traffic and arrive around 9:30pm.The receptionist and his manager(MUSTAPHA) wasn’t helpful atall.They are so rude & very unprofessional.They made me pay additional Aed60 even after explaining my situation.",
+      "title": "RUDE & UNPROFESSIONAL STAFFS",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Cruiser63907086610",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/48/default-avatar-2020-15.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    }
+  ]
+}

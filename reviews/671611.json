@@ -1,0 +1,282 @@
+{
+  "data": [
+    {
+      "id": 284313491,
+      "lang": "en",
+      "location_id": 671611,
+      "published_date": "2015-06-30T13:58:14Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d671611-r284313491-Reviews-Izmir_Comfort_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review284313491",
+      "text": "A great place to stay in Izmir! comfortable with massage bath in room, great buffet breakfast! The staff and the food are excellent! Located in the heart of Izmir bordering the Culture Park. Easy access to all public transport and major bus tours.",
+      "title": "Inexpensive and conveinent!",
+      "trip_type": "Friends getaway",
+      "travel_date": "2015-05-31",
+      "user": {
+        "username": "Sunstar9",
+        "user_location": {
+          "id": "293816",
+          "name": "Mauritius"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/02/77/2b/f7/sunisles.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/02/77/2b/f7/sunisles.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/02/77/2b/f7/sunisles.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/02/77/2b/f7/sunisles.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 246335282,
+      "lang": "en",
+      "location_id": 671611,
+      "published_date": "2014-12-29T10:03:28Z",
+      "rating": 2,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d671611-r246335282-Reviews-Izmir_Comfort_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review246335282",
+      "text": "I stayed only for one night during a road trip to Marmaris in August 2014. The hotel is easy to reach on a street full with other hotels.\nThe room was large but there was a bad smell everywhere. The bathroom was not clean. Breakfast poor. \nIf you are visiting Izmir by car, DO NOT leave it at hotel's parking, especially if your car is a low one.",
+      "title": "Please... not again!",
+      "trip_type": "Family",
+      "travel_date": "2014-08-31",
+      "user": {
+        "username": "ismetsmella",
+        "user_location": {
+          "id": "7106667",
+          "name": "Stratoni, Halkidiki Region, Central Macedonia"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/07/1c/38/50/ismet-smell-a.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/07/1c/38/50/ismet-smell-a.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/07/1c/38/50/ismet-smell-a.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/07/1c/38/50/ismet-smell-a.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "1": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Cleanliness"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 233750486,
+      "lang": "en",
+      "location_id": 671611,
+      "published_date": "2014-10-11T09:14:30Z",
+      "rating": 2,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d671611-r233750486-Reviews-Izmir_Comfort_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review233750486",
+      "text": "Its a dirty dump that stinks of cigarette smoke. Doors don't lock, breakfast is poor (but has a great view), internet is slow, beds are old.... Definitely seen better days. All that said the staff is friendly and accommodating but generally speaks poor english.",
+      "title": "its a dump",
+      "trip_type": "Business",
+      "travel_date": "2014-10-31",
+      "user": {
+        "username": "443DavidC",
+        "user_location": {
+          "id": "5562707",
+          "name": "Villaverde de Pontones, Cantabria"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1c/3b/ea/12/caption.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1c/3b/ea/12/caption.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1c/3b/ea/12/caption.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/1c/3b/ea/12/caption.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Rooms"
+        },
+        "1": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Service"
+        },
+        "2": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 135447921,
+      "lang": "en",
+      "location_id": 671611,
+      "published_date": "2012-07-26T12:35:25Z",
+      "rating": 3,
+      "helpful_votes": 2,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d671611-r135447921-Reviews-Izmir_Comfort_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review135447921",
+      "text": "After the hotel we stayed in in Istanbul I did not expect much from a hotel in Izmir but we were surprised.\nCheckin - was easy and the people very friendly.\nRoom - would have to say old world charm.  Large with comfortable bed, minibar, clean room and clean bathroom.\nHotel - has a nice feel about it inside.  It is older type of architecture and looks quite nice.\nPool - older style pool with quite basic surrounds but for the cost of the stay to have a pool as well was quite nice.\nFood - we only had breakfast there and it is very basic and not much selection at all but was included in the room price, so no complaints since you can get great local food anywhere.\nWould recommend this hotel if you are just travelling around from place to place and need somewhere to sleep for a night or two.\nA lot of tables near the pool were decorated for what seemed to be a wedding or large reception, but in the evening or next mornig still looked the same and not used.",
+      "title": "1 Night in Comfort Hotel",
+      "trip_type": "Friends getaway",
+      "travel_date": "2012-07-31",
+      "user": {
+        "username": "MichaelB629",
+        "user_location": {
+          "id": "294013",
+          "name": "Abu Dhabi, Emirate of Abu Dhabi"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/11/default-avatar-2020-23.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 20191419,
+      "lang": "en",
+      "location_id": 671611,
+      "published_date": "2008-09-19T05:59:56Z",
+      "rating": 4,
+      "helpful_votes": 2,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d671611-r20191419-Reviews-Izmir_Comfort_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review20191419",
+      "text": "Hello, this was the first time for me in Izmir. I choose this hotel by istinct and I have to admit I remained really impressed. Big rooms, clean, super low price and central position in the city.\nI didn't give the excellent evaluation only for some problems I had to talk to reception, they speak almost NO english or just some words.\n\nI would return anyway there.\n\nFausto",
+      "title": "Super Quality/Price",
+      "trip_type": "Business",
+      "travel_date": "2008-09-30",
+      "user": {
+        "username": "fditrani",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f4/20/default-avatar-2020-31.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_CHECK_IN",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Check in / front desk"
+        },
+        "5": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "6": {
+          "name": "RATE_BUSINESS_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Business service (e.g., internet access)"
+        }
+      }
+    }
+  ]
+}

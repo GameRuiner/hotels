@@ -1,0 +1,265 @@
+{
+  "location_id": "23176887",
+  "name": "Adagio Premium The Palm",
+  "description": "Adagio Premium The Palm is ideally situated on the Palm Jumeirah, Dubai's most prominent community, boasting chic studios and contemporary one-bedroom apartments. Live at ease and relax in any of our 163 bright and spacious fully serviced apartments, which feature fully-equipped kitchens, laundry facilities and free WIFI. Bask in the sun on our private beach at the Palm West Beach, enjoy the rooftop pool or get fit in our 24-hour fitness centre. Grab a healthy bite at Fixie, a bicycle inspired community cafe, serving best Barista coffee. Easy access to the key tourist attractions such as Nakheel Mall, Mall of the Emirates, Burj Khalifa and Expo 2020. Few minutes away from the Palm Jumeirah Monorail , connecting to Dubai Tram and Metro makes it an ideal location to stay, live and enjoy. The Pointe, Dubai's new iconic waterfront destination. Step in today and explore the vibrant neighbourhood where you can #FeelatHome Enjoy Fixie, our bicycle inspired community café that offers healthy smoothies, signature coffees and hearty homemade dishes. Join us for weekend kids activities, premium non-alcoholic drinks and all day breakfast.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d23176887-Reviews-Adagio_Premium_The_Palm-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Palm Jumeirah West Beach",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "10223",
+    "address_string": "Palm Jumeirah West Beach, Dubai 10223 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.108885",
+  "longitude": "55.143093",
+  "timezone": "Asia/Dubai",
+  "phone": "01197142813813",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d23176887-Adagio_Premium_The_Palm-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#460 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "460"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "535",
+  "review_rating_count": {
+    "1": "7",
+    "2": "5",
+    "3": "9",
+    "4": "35",
+    "5": "479"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "571",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d23176887-m66827-Reviews-Adagio_Premium_The_Palm-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Beachfront",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Kitchenette",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Concierge",
+    "Air conditioning",
+    "Microwave",
+    "Refrigerator in room",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Pool",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Housekeeping",
+    "Sauna",
+    "Allergy-free Room",
+    "Arabic",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "24-Hour Check-in",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Free Private Parking Nearby",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Kitchenware",
+    "Beach Access",
+    "Internet",
+    "Kids Activities",
+    "Free Internet",
+    "Wifi",
+    "Public Wifi",
+    "Business center",
+    "Laundry Service",
+    "Family Rooms",
+    "Flatscreen TV",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Kids Stay Free",
+    "Baggage Storage",
+    "Bathrobes",
+    "Bicycles Available",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Burmese",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "Chapel / Shrine",
+    "Express Check-in / Check-out",
+    "Children's Television Networks",
+    "Chinese",
+    "Clothes Rack",
+    "Convenience Store",
+    "Currency Exchange",
+    "Electric Kettle",
+    "Filipino",
+    "First Aid Kit",
+    "Fitness / Spa Locker Rooms",
+    "Free Wifi in the Business Center",
+    "Free Wired Internet in the Business Center",
+    "German",
+    "Highchairs Available",
+    "Hindi",
+    "Indonesian",
+    "Laptop Safe",
+    "Malay",
+    "Nepali",
+    "Newspaper",
+    "On-Demand Movies",
+    "Outdoor Dining Area",
+    "Oven",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Private Bathrooms",
+    "Private Check-in / Check-out",
+    "Paid Private Parking Nearby",
+    "Russian",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Shared Lounge / TV Area",
+    "Sofa",
+    "Sofa Bed",
+    "Soundproof Rooms",
+    "Special Diet Menus",
+    "Steam Room",
+    "Stovetop",
+    "Street Parking",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Swahili",
+    "Taxi Service",
+    "Telephone",
+    "Umbrella",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet",
+    "Washing Machine",
+    "Water Park Off-site",
+    "Wine / Champagne"
+  ],
+  "parent_brand": "Accor",
+  "brand": "Adagio",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "City View",
+    "Ocean View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "50"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "119"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "69"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "136"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "81"
+    }
+  ],
+  "awards": []
+}

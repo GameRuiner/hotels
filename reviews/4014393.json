@@ -1,0 +1,243 @@
+{
+  "data": [
+    {
+      "id": 944944496,
+      "lang": "en",
+      "location_id": 4014393,
+      "published_date": "2024-04-02T11:10:16Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d4014393-r944944496-Reviews-Hotel_Catalonia_Passeig_de_Gracia-Barcelona_Catalonia.html?m=66827#review944944496",
+      "text": "Delightful hotel with personalized service and exceptional quality. My husband and I stayed for 4 nights. The staff, who all spoke English, was wonderful, and I am particularly grateful to Javiera. She was so helpful and kind, attending to all our various needs. The quality was everything you'd expect for a luxury hotel.",
+      "title": "Charming luxury hotel",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "TUTAP",
+        "user_location": {
+          "id": "33804",
+          "name": "Hartford, Connecticut"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/9f/default-avatar-2020-16.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945426964,
+        "title": "Owner response",
+        "text": "Dear Mr Tutap, First of all, thank you very much for taking the time to share your experience at the Catalonia Passeig de Gracia. We appreciate your fantastic review and generous mark. We hope to see you soon in any of our Catalonia Hotels & Resorts! Kind regards",
+        "lang": "en",
+        "author": "DAVID CORAL",
+        "published_date": "2024-04-05T05:58:05Z"
+      }
+    },
+    {
+      "id": 944714538,
+      "lang": "en",
+      "location_id": 4014393,
+      "published_date": "2024-03-31T19:32:33Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d4014393-r944714538-Reviews-Hotel_Catalonia_Passeig_de_Gracia-Barcelona_Catalonia.html?m=66827#review944714538",
+      "text": "I stayed here with a friend in a Duplex Suite. The Duplex Suite was on the top floor and took up two levels. The upper level had a private terrace with an outdoor shower, a bedroom, a sink, and a toilet. Downstairs we had a sofa bed, desk, mini bar, coffee maker, and a bathroom with a shower. The room was very quiet and comfortable. \n\nThe location on Gran Via was very good. It was a short walk to Plaça Catalunya, Casa Batlló, Casa Milá, Palau de música, La Rambla, and Barrí Gotíc. It was also very easy to catch a cab to La Sagrada Familia and Park Guell. \n\nThe staff at the front desk was very helpful and nice. The two women in the breakfast room were also very pleasant and hard working. There were several choices in the breakfast room including melted chocolate.",
+      "title": "Clean, quiet, nice staff, good location",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "azogal",
+        "user_location": {
+          "id": "29556",
+          "name": "Ann Arbor, Michigan"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/01/ad/c2/74/azogal.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/01/ad/c2/74/azogal.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/01/ad/c2/74/azogal.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/01/ad/c2/74/azogal.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945426947,
+        "title": "Owner response",
+        "text": "Dear Mr. Azogal, First of all, thank you very much for taking the time to share your experience at the Catalonia Passeig de Gracia. We appreciate your fantastic review and generous mark. We hope to see you soon in any of our Catalonia Hotels & Resorts! Kind regards",
+        "lang": "en",
+        "author": "DAVID CORAL",
+        "published_date": "2024-04-05T05:57:53Z"
+      }
+    },
+    {
+      "id": 943516954,
+      "lang": "en",
+      "location_id": 4014393,
+      "published_date": "2024-03-23T13:25:35Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d4014393-r943516954-Reviews-Hotel_Catalonia_Passeig_de_Gracia-Barcelona_Catalonia.html?m=66827#review943516954",
+      "text": "The hotel is in a great central location.  We had a lovely room at the front of the building, which was surprising quiet given it is on a main road.  The room was a decent size with a very comfy bed.  Although we weren't able to use it, the outside area is lovely and would be great in the summer.  I have only given this hotel a 4 mainly because we were very disappointed with the breakfast, especially when compared to other Catalonia hotels we have stayed in - the main issue being that the choice was a bit limiting especially when items weren't replenished meaning that if you were there at the wrong time the choice was extremely poor.  Having said that the restaurant staff were lovely.",
+      "title": "Great location and lovely building",
+      "trip_type": "Couples",
+      "travel_date": "2024-01-31",
+      "user": {
+        "username": "TTK",
+        "user_location": {
+          "id": "186273",
+          "name": "Brighton, East Sussex, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f3/e4/default-avatar-2020-30.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 945426913,
+        "title": "Owner response",
+        "text": "Dear Mr TTK, First of all, thank you very much for taking the time to share your experience at the Catalonia Passeig de Gracia. We appreciate your fantastic review and generous mark. We hope to see you soon in any of our Catalonia Hotels & Resorts! Kind regards",
+        "lang": "en",
+        "author": "DAVID CORAL",
+        "published_date": "2024-04-05T05:57:35Z"
+      }
+    },
+    {
+      "id": 937603277,
+      "lang": "en",
+      "location_id": 4014393,
+      "published_date": "2024-02-10T03:05:00Z",
+      "rating": 4,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d4014393-r937603277-Reviews-Hotel_Catalonia_Passeig_de_Gracia-Barcelona_Catalonia.html?m=66827#review937603277",
+      "text": "Just a few things I experienced. the air conditioning is definitely an issue so I would suggest possibly booking a lower level room. We had multiple issues and had to move 2 times to get a room that was working properly and we just got back. I can’t imagine what the summer months would be like. \nHowever and most important the staff is amazing and the owners should be very thankful that their hospitality is stellar. My suggestion to the owners invest in a new cooling system as well as a keyless entry option since the cards are sensitive and it was annoying having to go get a card every time it wasn’t working.",
+      "title": "Good not great and here is why",
+      "trip_type": "Couples",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "739SusanK",
+        "user_location": {
+          "id": "48583",
+          "name": "Scotia, New York"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/08/62/f0/ed/susan-k.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/08/62/f0/ed/susan-k.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/08/62/f0/ed/susan-k.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/08/62/f0/ed/susan-k.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/08/62/f0/ed/susan-k.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 938717424,
+        "title": "Owner response",
+        "text": "Deat MrsSusan, First of all, thank you very much for taking the time to share your experience at the Catalonia Passeig de Gracia. We really appreciate your fantastic review and generous mark. We hope to see you soon in any of our Catalonia Hotels & Resorts! Kind regard",
+        "lang": "en",
+        "author": "DAVID CORAL",
+        "published_date": "2024-02-18T04:23:33Z"
+      }
+    },
+    {
+      "id": 937565214,
+      "lang": "en",
+      "location_id": 4014393,
+      "published_date": "2024-02-09T15:06:13Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d4014393-r937565214-Reviews-Hotel_Catalonia_Passeig_de_Gracia-Barcelona_Catalonia.html?m=66827#review937565214",
+      "text": "Had an amazing stay here and could not recommend this hotel enough! Staff were so helpful and kind. Room was spotlessly clean and so glad I booked a room with a view. Breakfast was lovely and everything was fresh. Location is perfect. Would definitely return!",
+      "title": "Amazing hotel!",
+      "trip_type": "Couples",
+      "travel_date": "2024-01-31",
+      "user": {
+        "username": "giraffe9861",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e5/2b/default-avatar-2020-52.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e5/2b/default-avatar-2020-52.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e5/2b/default-avatar-2020-52.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e5/2b/default-avatar-2020-52.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e5/2b/default-avatar-2020-52.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 938717337,
+        "title": "Owner response",
+        "text": "Dear Mrs. Giraffe, First of all, thank you very much for taking the time to share your experience at the Catalonia Passeig de Gracia. We really appreciate your fantastic review and generous mark. We hope to see you soon in any of our Catalonia Hotels & Resorts! Kind regard",
+        "lang": "en",
+        "author": "DAVID CORAL",
+        "published_date": "2024-02-18T04:22:53Z"
+      }
+    }
+  ]
+}

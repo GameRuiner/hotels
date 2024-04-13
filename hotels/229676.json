@@ -1,0 +1,257 @@
+{
+  "location_id": "229676",
+  "name": "Catalonia Barcelona Plaza",
+  "description": "This imposing hotel is situated in Plaza Espana, next to the Fira de Barcelona facilities and Montjuic. Guests can enjoy excellent connections with every means of public transport. It has its own parking facilities and offers ideal accommodation for business trips or short breaks. The panoramic terrace and most of the rooms have unbeatable views. The gardened marquee, which is located in the central courtyard, creates an ideal atmosphere for cocktails and dinner parties. We also offer you our 13 meeting rooms, where you can organise business meetings, conventions and family celebrations.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d229676-Reviews-Catalonia_Barcelona_Plaza-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Plaza Espana 6-8",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08014",
+    "address_string": "Plaza Espana 6-8, 08014 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.375496",
+  "longitude": "2.148495",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d229676-Catalonia_Barcelona_Plaza-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#207 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "207"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "3819",
+  "review_rating_count": {
+    "1": "189",
+    "2": "240",
+    "3": "494",
+    "4": "1125",
+    "5": "1771"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "2035",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d229676-m66827-Reviews-Catalonia_Barcelona_Plaza-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Business center",
+    "Internet",
+    "Suites",
+    "Free Internet",
+    "Free Wifi",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Pets Allowed",
+    "Spa",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Fitness center",
+    "Laundry Service",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "ATM On Site",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Breakfast in the Room",
+    "Catalan",
+    "Desk",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Toiletries",
+    "German",
+    "Hair Dryer",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Italian",
+    "Parking Garage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Paid Private Parking On-site",
+    "Paid Private Parking Nearby",
+    "24-Hour Security",
+    "Snack Bar",
+    "Solarium",
+    "Spanish",
+    "Sun Terrace",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Bidet",
+    "Children's Television Networks",
+    "Clothes Rack",
+    "Electric Kettle",
+    "English",
+    "French",
+    "24-Hour Front Desk",
+    "Highchairs Available",
+    "Landmark View",
+    "Mountain View",
+    "Private Bathrooms",
+    "Romanian",
+    "Slovak",
+    "Sofa Bed",
+    "Soundproof Rooms",
+    "Wardrobe / Closet",
+    "Beach Access"
+  ],
+  "parent_brand": "Hoteles Catalonia",
+  "brand": "Catalonia",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "City View",
+    "Great View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15565875",
+      "name": "Sants-Montjuic"
+    },
+    {
+      "location_id": "15565891",
+      "name": "Hostafrancs"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "1099"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1073"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "222"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "680"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "457"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

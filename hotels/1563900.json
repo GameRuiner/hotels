@@ -1,0 +1,260 @@
+{
+  "location_id": "1563900",
+  "name": "Ramada Plaza by Windham Antalya",
+  "description": "Looking for a place to stay in Antalya? Then look no further than Ramada Plaza Antalya, a family-friendly hotel that brings the best of Antalya to your doorstep.\nRamada Plaza Antalya Hotel offers guests an array of room amenities including a flat screen TV, air conditioning, and a minibar, and getting online is possible, as free wifi is available.\nThe hotel offers room service and a concierge, to make your visit even more pleasant. The property also features a pool and free breakfast. Guests arriving by vehicle have access to free parking.\nClose to some of Antalya's most popular landmarks, such as Hidirlik Kulesi (0.4 mi) and Kesik Minaret Mosque (0.5 mi), Ramada Plaza Antalya Hotel is a great destination for tourists.\nDuring your visit, be sure to check out a popular Antalya crab restaurant such as Vanilla, which is a short distance from Ramada Plaza Antalya.\nLooking to explore? Then look no further than Kaleici (0.7 mi), Harbour District/ Antalya Marina (0.6 mi), and Hadrian's Gate (0.6 mi), which are some popular Antalya attractions – all conveniently located within walking distance of the hotel.\nWe’re sure you’ll enjoy your stay at Ramada Plaza Antalya as you experience everything Antalya has to offer.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297962-d1563900-Reviews-Ramada_Plaza_by_Windham_Antalya-Antalya_Turkish_Mediterranean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Fevzi Cakmak Caddesi No. 22",
+    "street2": "Gençlik Mah.",
+    "city": "Antalya",
+    "state": "Antalya Province",
+    "country": "Turkiye",
+    "postalcode": "07100",
+    "address_string": "Fevzi Cakmak Caddesi No. 22 Gençlik Mah., Antalya 07100 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Antalya",
+      "location_id": "297962"
+    },
+    {
+      "level": "Province",
+      "name": "Antalya Province",
+      "location_id": "297960"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Mediterranean Coast",
+      "location_id": "658661"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "36.876842",
+  "longitude": "30.708273",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297962-d1563900-Ramada_Plaza_by_Windham_Antalya-Antalya_Turkish_Mediterranean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297962",
+    "ranking_string": "#28 of 504 hotels in Antalya",
+    "geo_location_name": "Antalya",
+    "ranking_out_of": "504",
+    "ranking": "28"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "3373",
+  "review_rating_count": {
+    "1": "181",
+    "2": "131",
+    "3": "305",
+    "4": "625",
+    "5": "2131"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "3303",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297962-d1563900-m66827-Reviews-Ramada_Plaza_by_Windham_Antalya-Antalya_Turkish_Mediterranean_Coast.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Free parking",
+    "Free Wifi",
+    "Suites",
+    "Kids Activities",
+    "Beachfront",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Butler Service",
+    "Infinity Pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Aerobics",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Billiards",
+    "Bridal Suite",
+    "Car Hire",
+    "Convenience Store",
+    "Couples Massage",
+    "Currency Exchange",
+    "Diving",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Head Massage",
+    "Indoor Play Area for Children",
+    "Iron",
+    "Ironing Service",
+    "Massage",
+    "Pool with View",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shops",
+    "Snorkeling",
+    "Steam Room",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Turkish",
+    "Kids pool",
+    "Clothes Rack",
+    "Electric Kettle",
+    "Highchairs Available",
+    "Infirmary",
+    "Mountain View",
+    "Pool View",
+    "Paid Private Parking Nearby",
+    "Paid Public Parking Nearby",
+    "Walk-in Shower",
+    "Beach Access"
+  ],
+  "parent_brand": "Wyndham Hotel Group",
+  "brand": "Ramada",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Mountain View",
+    "Harbor View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "336"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1125"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "264"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "787"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "563"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

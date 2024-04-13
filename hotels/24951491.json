@@ -1,0 +1,245 @@
+{
+  "location_id": "24951491",
+  "name": "Radisson Beach Resort Palm Jumeirah",
+  "description": "Radisson Beach Resort Palm Jumeriah is a 4-star, lifestyle beach resort situated in one of the trendiest beachfront promenades in Dubai, Palm Jumeirah's West Beach, overlooking the sparkling ocean of the Arabian Gulf and the glittering views of Dubai Marina and Ain Dubai. For those looking for upbeat, vibrant experiences in a lively neighborhood, Radisson Beach Resort Palm Jumeirah offers a variety of chic and vibrant Food & Beverage options, with flavors from Tex Mex to Latin American, Mediterranean and international cuisines. The resort has 389 contemporary rooms, each with floor-to-ceiling windows for plenty of daylight and a private balcony to enjoy the views. Each of the rooms and suites feature modern amenities including free Wi-Fi, air conditioning, and comfortable, stylish furnishings. Additionally, the hotel offers a private beach with sun loungers and umbrellas, a podium swimming pool, a gym with stunning views and a SPA, as well as three day-lit meeting rooms.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d24951491-Reviews-Radisson_Beach_Resort_Palm_Jumeirah-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Palm Jumeirah, West Beach",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "454519",
+    "address_string": "Palm Jumeirah, West Beach, Dubai 454519 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.108168",
+  "longitude": "55.14247",
+  "timezone": "Asia/Dubai",
+  "phone": "01197142175555",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d24951491-Radisson_Beach_Resort_Palm_Jumeirah-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#375 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "375"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "682",
+  "review_rating_count": {
+    "1": "55",
+    "2": "34",
+    "3": "54",
+    "4": "103",
+    "5": "436"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "595",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d24951491-m66827-Reviews-Radisson_Beach_Resort_Palm_Jumeirah-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Beachfront",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Concierge",
+    "Air conditioning",
+    "Rooftop Bar",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Housekeeping",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Car Hire",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Desk",
+    "English",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Pool with View",
+    "24-Hour Security",
+    "Secured Parking",
+    "Beach Access",
+    "Suites",
+    "Free parking",
+    "Laundry Service",
+    "Family Rooms",
+    "Safe",
+    "Flatscreen TV",
+    "Kids pool",
+    "Facilities for Disabled Guests",
+    "Additional Bathroom",
+    "Afrikaans",
+    "Bathrobes",
+    "Bidet",
+    "Breakfast in the Room",
+    "Burmese",
+    "Cable / Satellite TV",
+    "24-Hour Check-in",
+    "Complimentary Tea",
+    "Couples Massage",
+    "Currency Exchange",
+    "Dining Area",
+    "Electric Kettle",
+    "Evening Entertainment",
+    "Filipino",
+    "Complimentary Instant Cofffee",
+    "French",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Highchairs Available",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Kids' Meals",
+    "Landmark View",
+    "Laptop Safe",
+    "Massage",
+    "Outdoor Dining Area",
+    "Outdoor Furniture",
+    "Patio",
+    "Pool / Beach Towels",
+    "Pool View",
+    "Private Bathrooms",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Snack Bar",
+    "Sofa",
+    "Sofa Bed",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Tile / Marble Floor",
+    "Ukrainian",
+    "Umbrella",
+    "Valet Parking",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Water Park Off-site",
+    "Water Sport Equipment Rentals"
+  ],
+  "parent_brand": "Carlson Rezidor",
+  "brand": "Radisson",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Ocean View",
+    "City View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "35"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "199"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "55"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "115"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "144"
+    }
+  ],
+  "awards": []
+}

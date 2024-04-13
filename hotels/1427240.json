@@ -1,0 +1,249 @@
+{
+  "location_id": "1427240",
+  "name": "Novotel Suites Dubai Mall of the Emirates",
+  "description": "Novotel Suites Dubai Mall of the Emirates boasts sleek and stylish suites, 24 hours fitness centre, an outdoor swimming pool, free daily parking, a restaurant and full access to connecting ibis Dubai Mall of the Emirates facilities. Few minutes' walk away from Mashreq Dubai Metro Station and Mall of the Emirates Metro Station, you can easily reach the Dubai Expo 2020 site and wander around Dubai in no time. Catch the complimentary shuttle bus to Kite Beach and stay connected with our free Wi Fi access or 24-hour Web Corner. The hotel is situated in the Al Barsha business and leisure district 30 minutes away from Dubai International Airport, with close proximity to the Burj Khalifa in Downtown Dubai, the new Dubai Water Canal, Dubai Marina, Media City and Internet City. Our hotel is also just just minutes from Jumeirah Beach, Wild Wadi Waterpark and 15 minutes from Jebel Ali Free Zone.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1427240-Reviews-Novotel_Suites_Dubai_Mall_of_the_Emirates-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Barsha 1, 2A Street",
+    "street2": "Opposite Mall of the Emirates",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "283825",
+    "address_string": "Al Barsha 1, 2A Street Opposite Mall of the Emirates, Dubai 283825 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.116714",
+  "longitude": "55.196075",
+  "timezone": "Asia/Dubai",
+  "phone": "43823200",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1427240-Novotel_Suites_Dubai_Mall_of_the_Emirates-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#214 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "214"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "3710",
+  "review_rating_count": {
+    "1": "58",
+    "2": "81",
+    "3": "298",
+    "4": "1024",
+    "5": "2249"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "846",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1427240-m66827-Reviews-Novotel_Suites_Dubai_Mall_of_the_Emirates-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Free parking",
+    "Suites",
+    "Free Internet",
+    "Free Wifi",
+    "Internet",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Butler Service",
+    "Outdoor pool",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Express Check-in / Check-out",
+    "Chinese",
+    "Coffee / Tea Maker",
+    "Currency Exchange",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Newspaper",
+    "Pool / Beach Towels",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shoeshine",
+    "Soundproof Rooms",
+    "Sun Terrace",
+    "Taxi Service",
+    "Telephone",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Public Wifi",
+    "Kids pool",
+    "Air Purifier",
+    "Clothes Rack",
+    "First Aid Kit",
+    "Private Bathrooms",
+    "Sofa",
+    "Sofa Bed",
+    "Walk-in Shower",
+    "Wardrobe / Closet"
+  ],
+  "parent_brand": "Accor",
+  "brand": "Novotel",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Green",
+    "Centrally Located"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620543",
+      "name": "Al Barsha"
+    },
+    {
+      "location_id": "15620544",
+      "name": "Al Barsha 1"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "691"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "766"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "380"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1233"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "413"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

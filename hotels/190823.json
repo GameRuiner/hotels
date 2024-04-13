@@ -1,0 +1,241 @@
+{
+  "location_id": "190823",
+  "name": "Hotel Colon",
+  "description": "There are certain pleasures that are only available to those that stay at the Hotel Colón. For example, waking up early in the morning, crossing over to the window, pulling aside the curtains, and seeing the image of the Barcelona Cathedral bathed in the sun’s first rays. It’s an image that will fill you with energy throughout the whole day! Many of our 129 rooms in the hotel offer this privilege, in addition to amenities such as air-conditioning, telephone, LCD television with international channels, high-speed Internet, safety deposit box, a well-stocked mini-bar, and the finishing touches of a 4 star hotel. If you are traveling for leisure, after a nice shower and a full breakfast, you’ll find it convenient to have the main tourist attractions within walking distance. If you are traveling for professional reasons, having two ample lounges at your disposal offers you infinite options for any event, convention, business meeting, or celebration. In both cases, it’s good to know that, for lunch or dinner, you can depend on the excellent service at the Cathedral 1951 restaurant. All of these reasons make a stay at the Hotel Colón unforgettable. What more can you ask of a hotel?",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d190823-Reviews-Hotel_Colon-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Avenida Catedral 7",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08002",
+    "address_string": "Avenida Catedral 7, 08002 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.385017",
+  "longitude": "2.175842",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d190823-Hotel_Colon-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#122 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "122"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "2956",
+  "review_rating_count": {
+    "1": "63",
+    "2": "80",
+    "3": "215",
+    "4": "938",
+    "5": "1660"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1554",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d190823-m66827-Reviews-Hotel_Colon-Barcelona_Catalonia.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Business center",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Baggage Storage",
+    "Breakfast in the Room",
+    "Catalan",
+    "English",
+    "Fitness / Spa Locker Rooms",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Laptop Safe",
+    "24-Hour Security",
+    "Taxi Service",
+    "Telephone",
+    "Meeting rooms",
+    "Sauna",
+    "Body Wrap",
+    "Car Hire",
+    "Currency Exchange",
+    "Facial Treatments",
+    "Foot Massage",
+    "French",
+    "German",
+    "Head Massage",
+    "Italian",
+    "Massage",
+    "Paid Public Parking Nearby",
+    "Salon",
+    "Solarium",
+    "Soundproof Rooms",
+    "Spanish",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Centrally Located",
+    "Great View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230963",
+      "name": "Barrio Gotico (Barri Gotic)"
+    },
+    {
+      "location_id": "15565874",
+      "name": "Ciutat Vella (Old Town)"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "134"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1218"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "173"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "643"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "344"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

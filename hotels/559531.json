@@ -1,0 +1,239 @@
+{
+  "location_id": "559531",
+  "name": "Kempinski Hotel Barbaros Bay Bodrum",
+  "description": "Kempinski Hotel Barbaros Bay is an excellent choice for travelers visiting Yaliciftlik, offering a luxury environment alongside many helpful amenities designed to enhance your stay.\nThe rooms offer a flat screen TV, air conditioning, and a minibar, and getting online is possible, as free wifi is available, allowing you to rest and refresh with ease.\nKempinski Hotel Barbaros Bay features room service and a concierge. In addition, as a valued Kempinski Hotel Barbaros Bay guest, you can enjoy a pool and free breakfast that are available on-site. Guests arriving by vehicle have access to free parking.\nWhile in Yaliciftlik, you may want to check out the nearby Mediterranean restaurant Ciftlik Garden Restaurant.\nEnjoy your stay in Yaliciftlik!\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298665-d559531-Reviews-Kempinski_Hotel_Barbaros_Bay_Bodrum-Yaliciftlik_Bodrum_District_Mugla_Province_Turkish_.html?m=66827",
+  "address_obj": {
+    "street1": "Hacigiden Caddesi No: 33/1",
+    "street2": "Yali Mahallesi",
+    "city": "Yaliciftlik",
+    "state": "Mugla Province",
+    "country": "Turkiye",
+    "postalcode": "48400",
+    "address_string": "Hacigiden Caddesi No: 33/1 Yali Mahallesi, Yaliciftlik 48400 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Yaliciftlik",
+      "location_id": "298665"
+    },
+    {
+      "level": "District",
+      "name": "Bodrum District",
+      "location_id": "298020"
+    },
+    {
+      "level": "Province",
+      "name": "Mugla Province",
+      "location_id": "298019"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "36.99355",
+  "longitude": "27.510973",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298665-d559531-Kempinski_Hotel_Barbaros_Bay_Bodrum-Yaliciftlik_Bodrum_District_Mugla_Province_Turkish_Aegean_Coa.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298665",
+    "ranking_string": "#2 of 5 hotels in Yaliciftlik",
+    "geo_location_name": "Yaliciftlik",
+    "ranking_out_of": "5",
+    "ranking": "2"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "958",
+  "review_rating_count": {
+    "1": "24",
+    "2": "45",
+    "3": "68",
+    "4": "175",
+    "5": "646"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "1292",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298665-d559531-m66827-Reviews-Kempinski_Hotel_Barbaros_Bay_Bodrum-Yaliciftlik_Bodrum_District_Mugla_Province_Turkish_.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Free parking",
+    "Free Internet",
+    "Free Wifi",
+    "Suites",
+    "Beachfront",
+    "Beach Access",
+    "Internet",
+    "Kids Activities",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Pets Allowed",
+    "Spa",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Babysitting",
+    "Non-smoking hotel",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Butler Service",
+    "Infinity Pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Kids Club",
+    "Sauna",
+    "Additional Bathroom",
+    "Bathrobes",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Couples Massage",
+    "Doorperson",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Hammam",
+    "Ironing Service",
+    "Massage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Salon",
+    "Shops",
+    "Steam Room",
+    "Sun Umbrellas",
+    "Turkish",
+    "Airport transportation",
+    "Breakfast included",
+    "Family Rooms",
+    "Conference Facilities"
+  ],
+  "parent_brand": "Kempinski Hotels",
+  "brand": "Kempinski",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Romantic",
+    "Park View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "42"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "385"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "31"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "299"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "97"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

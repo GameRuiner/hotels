@@ -1,0 +1,307 @@
+{
+  "location_id": "8433328",
+  "name": "Casa Cook Rhodes",
+  "description": "An island of contrasts, Rhodes is the perfect marriage of ancient and modern culture. Set against the backdrop of Tsambika Mountain, Casa Cook Rhodes offers a hideaway for modern travellers. This adults-only boutique hotel is a modern retreat featuring minimalist design featuring with wood and natural colours in keeping with the surrounding landscape of olive groves and rocky hills. If you're looking for a stylishly bohemian escape in a stunning setting, Casa Cook Rhodes is your destination. Morning or evening, the Kitchen Club serves as the hotel's heart. Here, the bar, restaurant and main pool area merge seamlessly and form the perfect backdrop for guests to relax, socialise or even celebrate over perfectly crafted drinks and plates of Greek mezze while enjoying the amazing beats from the hotel's resident DJ. For a change of scenery, Kolymbia and Kolymbia Beach are within easy walking distance. Tsambika Beach with its broad stretch of sand in a secluded location is a short drive from the resort. Further afield is Rhodes Town. This UNESCO World Heritage site offers a fascinating experience steeped in medieval history and the chance to explore local culture. An active holiday or a relaxing getaway? The choice is yours. Energetic guests can enjoy sailing or hike in the nearby hills to drink in spectacular views of the coastline. Guests longing for inner harmony can take part in group or private open-air yoga classes at the yoga shala. Whatever you prefer, this ticks all the boxes for a sublime holiday.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g635615-d8433328-Reviews-Casa_Cook_Rhodes-Kolimbia_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street1": "European Union St.",
+    "city": "Kolimbia",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "85102",
+    "address_string": "European Union St., Kolimbia 85102 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Kolimbia",
+      "location_id": "635615"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.24145",
+  "longitude": "28.15436",
+  "timezone": "Europe/Athens",
+  "phone": "011302241056333",
+  "write_review": "https://www.tripadvisor.com/UserReview-g635615-d8433328-Casa_Cook_Rhodes-Kolimbia_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "635615",
+    "ranking_string": "#1 of 33 hotels in Kolimbia",
+    "geo_location_name": "Kolimbia",
+    "ranking_out_of": "33",
+    "ranking": "1"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "1378",
+  "review_rating_count": {
+    "1": "4",
+    "2": "16",
+    "3": "24",
+    "4": "92",
+    "5": "1242"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "3082",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g635615-d8433328-m66827-Reviews-Casa_Cook_Rhodes-Kolimbia_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Pool",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Pools",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Adults Only",
+    "Aerobics",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Bicycle Rental",
+    "Bicycles Available",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Coffee Shop",
+    "Convenience Store",
+    "Couples Massage",
+    "Doorperson",
+    "English",
+    "Facial Treatments",
+    "Fence Around Pool",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Greek",
+    "Head Massage",
+    "Ironing Service",
+    "Massage",
+    "Pool / Beach Towels",
+    "Snack Bar",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Conference Facilities",
+    "Bicycle Tours",
+    "Body Wrap",
+    "Bridal Suite",
+    "Cable / Satellite TV",
+    "Clothes Dryer",
+    "Clothes Rack",
+    "Currency Exchange",
+    "Diving",
+    "First Aid Kit",
+    "Foot Bath",
+    "Complimentary Welcome Drink",
+    "Free Wifi in the Business Center",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hand Massage",
+    "Hiking",
+    "Italian",
+    "Laptop Safe",
+    "Mountain View",
+    "Neck Massage",
+    "Outdoor Dining Area",
+    "Outdoor Furniture",
+    "Personal Trainer",
+    "Pool View",
+    "Pool with View",
+    "Private Bathrooms",
+    "Seating Area",
+    "Secured Parking",
+    "Shallow End",
+    "Shared Bathroom",
+    "Shoeshine",
+    "Skiing",
+    "Ski Rentals",
+    "Ski School",
+    "Special Diet Menus",
+    "Street Parking",
+    "Sun Deck",
+    "Taxi Service",
+    "Telephone",
+    "Tennis Court Off-site",
+    "Tile / Marble Floor",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Wine / Champagne",
+    "Yoga Classes",
+    "Yoga Room",
+    "Beach Access"
+  ],
+  "parent_brand": "Fosun Tourism Group",
+  "brand": "Casa Cook Hotels",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Trendy",
+    "Modern"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "32"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "883"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "33"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "90"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "159"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice Best of the Best",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png"
+      },
+      "categories": [
+        "Romance"
+      ],
+      "display_name": "Travelers Choice Best of the Best"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

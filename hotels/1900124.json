@@ -1,0 +1,283 @@
+{
+  "location_id": "1900124",
+  "name": "Pegasos Deluxe Beach Hotel",
+  "description": "The cosmopolitan Pegasos Deluxe Beach Hotel welcomes you to its facilities and promise you the most enjoyable vacation in Rhodes Island. Located right on the beach just a few minutes away from famous monument of Kallithea Springs and 10 minutes from UNESCO World Heritage \"Medieval Rhodes Town\" . Pegasos Deluxe Beach Hotel is a spectacular resort located on the East Coast of Rhodes, 2 km away from the centre of Faliraki. Steps away from sandy beach and crystal water and the unique seafront location of the hotel with the dramatic backdrop of the green mountains and lush gardens gives you the sensation of being in another world full of contrasts. Our Hotel is ideal for family vacations, romantic holidays, weddings in our St. George chapel, honeymoons, professional meetings & seminars. We offer 397 elegant guest rooms & suites with Free Wi-Fi. Hotel serves a fabulous concept for unique gourmet experience in our “Elia” A la Carte Restaurant.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g635612-d1900124-Reviews-Pegasos_Deluxe_Beach_Hotel-Faliraki_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street1": "Main Street",
+    "city": "Faliraki",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "85100",
+    "address_string": "Main Street, Faliraki 85100 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Faliraki",
+      "location_id": "635612"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.35479",
+  "longitude": "28.20948",
+  "timezone": "Europe/Athens",
+  "phone": "011302241085103",
+  "write_review": "https://www.tripadvisor.com/UserReview-g635612-d1900124-Pegasos_Deluxe_Beach_Hotel-Faliraki_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "635612",
+    "ranking_string": "#6 of 90 hotels in Faliraki",
+    "geo_location_name": "Faliraki",
+    "ranking_out_of": "90",
+    "ranking": "6"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "2640",
+  "review_rating_count": {
+    "1": "41",
+    "2": "55",
+    "3": "169",
+    "4": "608",
+    "5": "1767"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "2233",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g635612-d1900124-m66827-Reviews-Pegasos_Deluxe_Beach_Hotel-Faliraki_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Beachfront",
+    "Free parking",
+    "Internet",
+    "Kids Activities",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Pets Allowed",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Swimup Bar",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Aerobics",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bicycle Rental",
+    "Billiards",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Clothes Dryer",
+    "Darts",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Foot Massage",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Greek",
+    "Hair Dryer",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "Shared Lounge / TV Area",
+    "Shops",
+    "Soundproof Rooms",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Kids pool",
+    "Chapel / Shrine",
+    "Children's Playground",
+    "Clothes Rack",
+    "Couples Massage",
+    "Electric Kettle",
+    "Complimentary Welcome Drink",
+    "Highchairs Available",
+    "Manicure",
+    "Massage Chair",
+    "Mountain View",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Pool View",
+    "Private Bathrooms",
+    "Sofa",
+    "Sofa Bed",
+    "Tile / Marble Floor",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Waterslide",
+    "Waxing Services",
+    "Yoga Classes",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Ocean View",
+    "Park View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "7"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "850"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "39"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1126"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "427"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

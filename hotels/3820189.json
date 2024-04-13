@@ -1,0 +1,196 @@
+{
+  "location_id": "3820189",
+  "name": "The New Hotel Zeybek",
+  "description": "Finding an ideal hotel in Izmir does not have to be difficult. Welcome to Zeybek Hotel, a nice option for travelers like you.\nNearby landmarks such as Saint Polycarp Church (0.4 mi) and Synagogue Street (Havra Sokagi) (0.4 mi) make Zeybek Hotel a great place to stay when visiting Izmir.\nFree wifi is offered to guests, and rooms at Zeybek Hotel offer air conditioning and a minibar.\nDuring your stay, take advantage of some of the amenities offered, including a 24 hour front desk, a concierge, and room service. Guests of Zeybek Hotel are also welcome to enjoy breakfast, located on site. For travelers arriving by car, parking is available.\nWhile you’re here, be sure to check out some of the Mediterranean restaurants, including Cafe La Cigale, Windows On The Bay Restaurant, and Akbiyik Doner, all of which are a short distance from Zeybek Hotel.\nIf you are interested in exploring Izmir, check out some of the nearby attractions, such as Kordonboyu (0.9 mi), Konak Square (0.8 mi), and Saat Kulesi (Clock Tower) (0.8 mi), all of which are within walking distance of Zeybek Hotel.\nZeybek Hotel looks forward to welcoming you on your visit to Izmir.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d3820189-Reviews-The_New_Hotel_Zeybek-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "1368 Sk. No:5",
+    "street2": "Fevzipaşa Bulv.",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35210",
+    "address_string": "1368 Sk. No:5 Fevzipaşa Bulv., Izmir 35210 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.423004",
+  "longitude": "27.142014",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d3820189-The_New_Hotel_Zeybek-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#141 of 218 hotels in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "218",
+    "ranking": "141"
+  },
+  "rating": "3.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.0-66827-5.svg",
+  "num_reviews": "76",
+  "review_rating_count": {
+    "1": "23",
+    "2": "8",
+    "3": "13",
+    "4": "21",
+    "5": "11"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss2.5.svg",
+      "value": "2.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss2.5.svg",
+      "value": "2.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    }
+  },
+  "photo_count": "45",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d3820189-m66827-Reviews-The_New_Hotel_Zeybek-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Internet",
+    "Concierge",
+    "Air conditioning",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Room service",
+    "Free Internet",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Family Rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Non-smoking hotel",
+    "Safe",
+    "Breakfast Available",
+    "Parking",
+    "Free airport transportation",
+    "Housekeeping",
+    "Baggage Storage",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Express Check-in / Check-out",
+    "Currency Exchange",
+    "English",
+    "Free Public Parking Nearby",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "German",
+    "Hair Dryer",
+    "Ironing Service",
+    "Laptop Safe",
+    "Newspaper",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shoeshine",
+    "Soundproof Rooms",
+    "Taxi Service",
+    "Telephone",
+    "Turkish",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Mid-range",
+    "Classic"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "13"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "12"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "10"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "25"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "10"
+    }
+  ],
+  "awards": []
+}

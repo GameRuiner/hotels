@@ -1,0 +1,184 @@
+{
+  "location_id": "10129251",
+  "name": "Signature 1 Hotel Barsha Heights",
+  "description": "Signature 1 Hotel Tecom is an excellent choice for travelers visiting Dubai, offering a family-friendly environment alongside many helpful amenities designed to enhance your stay. Rooms at Signature 1 Hotel Tecom provide a flat screen TV and air conditioning, and guests can stay connected with free wifi. In addition, while staying at Signature 1 Hotel Tecom guests have access to room service and a concierge. You can also enjoy a pool and an on-site restaurant. Need a place to park? Free parking is available at Signature 1 Hotel Tecom. Close to some of Dubai's most popular landmarks, such as The Palladium (0.5 mi) and Dubai Media City Amphitheater (1.4 mi), Signature 1 Hotel is a great destination for tourists. While in Dubai, you may want to check out some of the restaurants that are a short walk away from Signature 1 Hotel Tecom, including Day and Night (0.3 mi), La Fontana (0.9 mi), and Belgian Beer Cafe (0.1 mi). Enjoy your stay in Dubai!",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d10129251-Reviews-Signature_1_Hotel_Barsha_Heights-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Thanayah Fourth _ 1 2 A St _ 1",
+    "street2": "Tecom, Barsha Heights",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "113562",
+    "address_string": "Al Thanayah Fourth _ 1 2 A St _ 1 Tecom, Barsha Heights, Dubai 113562 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.09633",
+  "longitude": "55.174057",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d10129251-Signature_1_Hotel_Barsha_Heights-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#420 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "420"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "405",
+  "review_rating_count": {
+    "1": "43",
+    "2": "19",
+    "3": "45",
+    "4": "110",
+    "5": "188"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "296",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d10129251-m66827-Reviews-Signature_1_Hotel_Barsha_Heights-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Arabic",
+    "Breakfast in the Room",
+    "Coffee Shop",
+    "Complimentary Tea",
+    "Complimentary Instant Cofffee",
+    "Kids' Meals",
+    "24-Hour Security",
+    "Happy Hour",
+    "Outdoor Dining Area"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Mid-range",
+    "Family"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620543",
+      "name": "Al Barsha"
+    },
+    {
+      "location_id": "15620547",
+      "name": "Al Barsha Heights (Tecom)"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "88"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "115"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "43"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "57"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "56"
+    }
+  ],
+  "awards": []
+}

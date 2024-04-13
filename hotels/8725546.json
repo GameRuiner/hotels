@@ -1,0 +1,181 @@
+{
+  "location_id": "8725546",
+  "name": "Rooster Hostel",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d8725546-Reviews-Rooster_Hostel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "1460 sk.no:28",
+    "street2": "Alsancak",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35220",
+    "address_string": "1460 sk.no:28 Alsancak, Izmir 35220 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.438183",
+  "longitude": "27.145657",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d8725546-Rooster_Hostel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#10 of 194 Specialty lodging in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "194",
+    "ranking": "10"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "17",
+  "review_rating_count": {
+    "1": "2",
+    "2": "0",
+    "3": "1",
+    "4": "3",
+    "5": "11"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss2.0.svg",
+      "value": "2.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss2.5.svg",
+      "value": "2.5"
+    }
+  },
+  "photo_count": "11",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d8725546-m66827-Reviews-Rooster_Hostel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "amenities": [
+    "Free Wifi",
+    "Shuttle Bus Service",
+    "Bar/Lounge",
+    "Pets Allowed",
+    "Airport transportation",
+    "Dry Cleaning",
+    "Laundry Service",
+    "Air conditioning",
+    "Non-smoking hotel",
+    "Safe",
+    "Housekeeping",
+    "Arabic",
+    "Azerbaijani",
+    "Baggage Storage",
+    "BBQ Facilities",
+    "Bicycles Available",
+    "Bottled Water",
+    "Car Hire",
+    "Express Check-in / Check-out",
+    "Children's Television Networks",
+    "Coffee Shop",
+    "Currency Exchange",
+    "English",
+    "Evening Entertainment",
+    "Free Public Parking Nearby",
+    "24-Hour Front Desk",
+    "Gift Shop",
+    "Ironing Service",
+    "Newspaper",
+    "Private Check-in / Check-out",
+    "Shared Kitchen",
+    "Shared Lounge / TV Area",
+    "Snack Bar",
+    "Street Parking",
+    "Strollers",
+    "Sun Terrace",
+    "Turkish",
+    "VIP Room Facilities",
+    "Wine / Champagne"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [
+    "Charming",
+    "Budget"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "1"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "4"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "7"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "0"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "4"
+    }
+  ],
+  "awards": []
+}

@@ -1,0 +1,315 @@
+{
+  "data": [
+    {
+      "id": 945675513,
+      "lang": "en",
+      "location_id": 6204834,
+      "published_date": "2024-04-07T06:23:29Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d6204834-r945675513-Reviews-Catalonia_Square-Barcelona_Catalonia.html?m=66827#review945675513",
+      "text": "Location, excellent. Breakfast, magnificent. Pool, beautiful. Service, 5 stars. Room, really quiet and a comfortable bed. I never sleep good in hotels so this was really something. Thank you. Highly can recommend this hotel for exploring Barcelona. ⭐️⭐️⭐️⭐️⭐️",
+      "title": "5 stars",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "6niinav",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ec/3d/default-avatar-2020-1.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ec/3d/default-avatar-2020-1.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ec/3d/default-avatar-2020-1.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ec/3d/default-avatar-2020-1.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ec/3d/default-avatar-2020-1.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945942180,
+        "title": "Owner response",
+        "text": "Dear Niinav,\n\" 5  Stars\". This statement make us feel our main goal was achieved. You do not imagine how wonderful is for us to read such a wonderful review, thank you very much for your kindness. We wish you a wonderful April. Best regards from the Catalonia Square.",
+        "lang": "en",
+        "author": "Catalonia Square",
+        "published_date": "2024-04-09T07:26:07Z"
+      }
+    },
+    {
+      "id": 945498433,
+      "lang": "en",
+      "location_id": 6204834,
+      "published_date": "2024-04-05T17:20:36Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d6204834-r945498433-Reviews-Catalonia_Square-Barcelona_Catalonia.html?m=66827#review945498433",
+      "text": "Lovely hotel in a great location with lots of restaurants and shops in walking distance. The staff was so friendlly and helpful.  We stayed in a Junior suite which was very comfortable and quiet. The breakfast at the hotel was on of the best I've had. Such a wide variety of hot and cold options. Highly recommended especially if travelling with kids!",
+      "title": "Lovely hotel",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "12theresek",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/2b/cc/42/ec/therese-k.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/2b/cc/42/ec/therese-k.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/2b/cc/42/ec/therese-k.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/2b/cc/42/ec/therese-k.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2b/cc/42/ec/therese-k.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945941992,
+        "title": "Owner response",
+        "text": "Dear Therese,\nThank you very much on behalf our team. They will be very proud to know how much you enjoyed your nreakfast and of course your stay with us. . We look forward to hearing from you very soon. Best regards from Barcelona.",
+        "lang": "en",
+        "author": "Catalonia Square",
+        "published_date": "2024-04-09T07:23:52Z"
+      }
+    },
+    {
+      "id": 941552002,
+      "lang": "en",
+      "location_id": 6204834,
+      "published_date": "2024-03-09T14:07:57Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d6204834-r941552002-Reviews-Catalonia_Square-Barcelona_Catalonia.html?m=66827#review941552002",
+      "text": "We stayed for 5 nights, Monday to Saturday \nThe hotel is very well situated for the city centre and most of the attractions are within walking distance. If they’re not within walking distance you can get the metro which is easy to use once you get the hang of it I\nIt’s easy to get to by shuttle bus from the airport, just get off at Catalunya metro station.\nThe staff were very friendly and the room was very clean with a very nice bathroom and gave us everything we needed.\n\nBreakfast was a bit pricey so we just walked to a Starbucks 2 minutes away \n\nFor the location we thought the nightly rate was reasonably \nCheck out the Tapas bar Tracatra next door, food was excellent but you might have to book a table \n\nSo we would definitely recommend the hotel for a stay in Barcelona",
+      "title": "5 night Stay at The Catalonia Square",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "RobABam",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/9f/default-avatar-2020-16.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 941802983,
+        "title": "Owner response",
+        "text": "Dear Robert,\n\nThank you very much indeed for your wonderful comments. We are glad to know the hotel reached your expectations. Of course breakfast rates will be always cheaper in a coffe shop than in a superior four stars hotel, believe us when we say that our buffet brekfast is very competitive rate in the city. Once again, thank you very much for sharing your opinion with other users of the web site. Best regards from Barcelona.\n",
+        "lang": "en",
+        "author": "Catalonia Square",
+        "published_date": "2024-03-11T13:29:04Z"
+      }
+    },
+    {
+      "id": 939821224,
+      "lang": "en",
+      "location_id": 6204834,
+      "published_date": "2024-02-26T04:08:18Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d6204834-r939821224-Reviews-Catalonia_Square-Barcelona_Catalonia.html?m=66827#review939821224",
+      "text": "Great hotel in a superb location, the staff were friendly and informative and the rooms were quiet and comfortable couldn't fault. We will definitely return again and would highly recommend to others. \n",
+      "title": "Very happy guests",
+      "trip_type": "NONE",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "zpeskett",
+        "user_location": {
+          "id": "186338",
+          "name": "London, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f3/e4/default-avatar-2020-30.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 940450508,
+        "title": "Owner response",
+        "text": "Dear Zpeskett,\n\nNothing will make us happier than reading \"Very happy guest\". Mission accomplished. We wish you a wonderful March and we look forward to hearing from you soon. Best regards from the Catalonia Square.\n",
+        "lang": "en",
+        "author": "Catalonia Square",
+        "published_date": "2024-03-01T12:05:17Z"
+      }
+    },
+    {
+      "id": 939548967,
+      "lang": "en",
+      "location_id": 6204834,
+      "published_date": "2024-02-23T22:31:03Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d6204834-r939548967-Reviews-Catalonia_Square-Barcelona_Catalonia.html?m=66827#review939548967",
+      "text": "Last week of January, we stayed for 2nights. Kryzzle, help us communicate with norwegian airline because we forgot our drone bag. We already did the checkout, she is still updating us by email regarding the drone we forgot in the plane. We recovered our drone and we went back to stay 1more night, she nicely treated us especially the kids and gave the room early. All the staff are well-trained.",
+      "title": "Personal of the hotel",
+      "trip_type": "Family",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "846khangl",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e9/60/default-avatar-2020-64.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e9/60/default-avatar-2020-64.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e9/60/default-avatar-2020-64.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e9/60/default-avatar-2020-64.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e9/60/default-avatar-2020-64.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 940450670,
+        "title": "Owner response",
+        "text": "Dear Khangl,\n\nThank you very much indeed for your amazing words. Our Staff will be very happy and proud of their job, specially Krizzle. We look forward to hearing from you very soon. Best regards from Barcelona.\n",
+        "lang": "en",
+        "author": "Catalonia Square",
+        "published_date": "2024-03-01T12:06:45Z"
+      }
+    }
+  ]
+}

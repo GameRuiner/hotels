@@ -1,0 +1,269 @@
+{
+  "location_id": "1006161",
+  "name": "Eden Roc Hotel",
+  "description": "The Eden Roc is a 5* waterfront Ultra All-Inclusive resort in a prime location between Kalithea Beach and Rhodes town. Following its recent major refurbishment, the Eden Roc offers an impressive dining scene featuring 9 Restaurants & 5 Bars and numerous facilities, including 4 swimming pools (1 olympic-length), waterslides, tennis, a 5x5 football, mini golf and beach-volley ball courts. Situated directly on the beach, the Eden roc seems at first like an island on its own. With a variety of dining and accommodation options, activities and entertainment for all ages, our team is committed in providing a premium all-inclusive experience. Opening season: April until late October.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g1188087-d1006161-Reviews-Eden_Roc_Hotel-Koskinou_Kallithea_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street1": "Kalithea Ave.",
+    "city": "Koskinou",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "851 00",
+    "address_string": "Kalithea Ave., Koskinou, Kallithea 851 00 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Koskinou",
+      "location_id": "1188087"
+    },
+    {
+      "level": "Municipality",
+      "name": "Kallithea",
+      "location_id": "1012852"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.399494",
+  "longitude": "28.23275",
+  "timezone": "Europe/Athens",
+  "write_review": "https://www.tripadvisor.com/UserReview-g1188087-d1006161-Eden_Roc_Hotel-Koskinou_Kallithea_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "1188087",
+    "ranking_string": "#1 of 9 hotels in Koskinou",
+    "geo_location_name": "Koskinou",
+    "ranking_out_of": "9",
+    "ranking": "1"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "3441",
+  "review_rating_count": {
+    "1": "20",
+    "2": "67",
+    "3": "225",
+    "4": "715",
+    "5": "2414"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "6478",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g1188087-d1006161-m66827-Reviews-Eden_Roc_Hotel-Koskinou_Kallithea_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Free parking",
+    "Restaurant",
+    "Beachfront",
+    "Beach Access",
+    "Kids Activities",
+    "Internet",
+    "Wifi",
+    "Suites",
+    "Free Internet",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Aerobics",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bicycle Rental",
+    "Billiards",
+    "Blackout Curtains",
+    "Car Hire",
+    "Coffee Shop",
+    "Complimentary Tea",
+    "Couples Massage",
+    "Darts",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Greek",
+    "Hair Dryer",
+    "Head Massage",
+    "Indoor Play Area for Children",
+    "Ironing Service",
+    "Italian",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Mini Golf",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Shops",
+    "Snack Bar",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Wake Up Service / Alarm Clock",
+    "Kids pool",
+    "Children's Playground",
+    "Electric Kettle",
+    "Free Wifi in the Business Center",
+    "Highchairs Available",
+    "Saltwater Pool",
+    "Strollers",
+    "Tile / Marble Floor",
+    "Water Park Off-site",
+    "Waterslide"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Ocean View",
+    "Great View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "10"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1211"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "34"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1337"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "355"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

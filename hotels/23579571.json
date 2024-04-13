@@ -1,0 +1,185 @@
+{
+  "location_id": "23579571",
+  "name": "Al Khoory Courtyard Hotel",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d23579571-Reviews-Al_Khoory_Courtyard_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Waha St",
+    "street2": "Al QuozAl Quoz 3",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Al Waha St Al QuozAl Quoz 3, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.162712",
+  "longitude": "55.24882",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d23579571-Al_Khoory_Courtyard_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#24 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "24"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "366",
+  "review_rating_count": {
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "13",
+    "5": "349"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "218",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d23579571-m66827-Reviews-Al_Khoory_Courtyard_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Room service",
+    "Free parking",
+    "Restaurant",
+    "Spa",
+    "Airport transportation",
+    "Free Wifi",
+    "Fitness center",
+    "Laundry Service",
+    "Babysitting",
+    "Safe",
+    "Kids Stay Free",
+    "Arabic",
+    "Doorperson",
+    "Free Public Parking Nearby",
+    "Complimentary Toiletries",
+    "Hindi",
+    "Interconnected room(s) available",
+    "24-Hour Security",
+    "Soundproof Rooms",
+    "Suites",
+    "Wheelchair access",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Concierge",
+    "Air conditioning"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quaint",
+    "Business"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7282435",
+      "name": "Al Quoz"
+    },
+    {
+      "location_id": "15620575",
+      "name": "Al Quoz 1"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "47"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "82"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "52"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "60"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "104"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

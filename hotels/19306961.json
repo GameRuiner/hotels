@@ -1,0 +1,204 @@
+{
+  "location_id": "19306961",
+  "name": "Millennium Executive Apartments Mont Rose",
+  "description": "Conveniently located in the heart of Al Barsha, Dubai Science Park, Millennium Mont Rose Executive Apartments offers a vibrant and growing environment for the science sector where businesses and residents can live and thrive in this innovation savvy neighborhood. Find yourself in the midst of one of Dubai’s newest suburbs, with easy access through Al Khail Road to some of the best shopping centers",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d19306961-Reviews-Millennium_Executive_Apartments_Mont_Rose-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Barsha South",
+    "street2": "Dubai Science Park",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Al Barsha South Dubai Science Park, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.074787",
+  "longitude": "55.242126",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d19306961-Millennium_Executive_Apartments_Mont_Rose-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#13 of 766 Specialty lodging in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "766",
+    "ranking": "13"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "216",
+  "review_rating_count": {
+    "1": "5",
+    "2": "0",
+    "3": "1",
+    "4": "21",
+    "5": "189"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "72",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d19306961-m66827-Reviews-Millennium_Executive_Apartments_Mont_Rose-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Refrigerator in room",
+    "Safe",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Arabic",
+    "Clothes Dryer",
+    "English",
+    "Free Public Parking Nearby",
+    "Complimentary Toiletries",
+    "Kitchenware",
+    "24-Hour Security",
+    "Kitchenette",
+    "Breakfast included",
+    "Meeting rooms",
+    "Non-smoking rooms"
+  ],
+  "parent_brand": "Millennium & Copthorne Hotels",
+  "brand": "Millennium",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [
+    "Charming",
+    "Mid-range"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620543",
+      "name": "Al Barsha"
+    },
+    {
+      "location_id": "15620548",
+      "name": "Al Barsha South"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "63"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "26"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "34"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "51"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "16"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "data": [
+    {
+      "id": 868405499,
+      "lang": "en",
+      "location_id": 21181631,
+      "published_date": "2022-11-14T06:15:31Z",
+      "rating": 2,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d21181631-r868405499-Reviews-Al_Marsa-Dubai_Emirate_of_Dubai.html?m=66827#review868405499",
+      "text": "The bed is shared, the shower is moldy, the water did not drain from the sink.  There is no bedside table.  The view is nice, but the rooms are very loud, from the sounds of traffic filtering in. Strange smells in the corridors and in the elevator.",
+      "title": "Poor accommodation",
+      "trip_type": "Friends getaway",
+      "travel_date": "2022-11-30",
+      "user": {
+        "username": "RKing2003",
+        "user_location": {
+          "id": "274893",
+          "name": "Gyor, Gyor-Moson-Sopron County, Central Transdanubia"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f1/79/default-avatar-2020-21.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f1/79/default-avatar-2020-21.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f1/79/default-avatar-2020-21.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f1/79/default-avatar-2020-21.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/79/default-avatar-2020-21.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 765199371,
+      "lang": "en",
+      "location_id": 21181631,
+      "published_date": "2020-08-16T12:16:19Z",
+      "rating": 5,
+      "helpful_votes": 2,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d21181631-r765199371-Reviews-Al_Marsa-Dubai_Emirate_of_Dubai.html?m=66827#review765199371",
+      "text": "I've just finished a 3 week vacation here and I must say there were some doubts before arrival but upon arrival at 1am I was greated with the host (Samil) who provided me with the keys and showed me around the apartment/ my room which I was staying in. I did originally book the single room with no window however I upgraded prior to arrival to the master room with private bathroom and balcony - the room was very clean and tidy and had recently been installed with a new toilet. The aircon controls are outside the room door. While I was there there were 3 Filipina ladies which were staying in one of the shared rooms together, the single room was occupied and the other double room for a short while also, the other guests staying there were long term and had been there for many months, no issues with them at all - it was actually quite nice to speak to them being a lone traveller. There was plenty of wardrobe space in all of the rooms including plenty of hangers. The private bathroom in my apartment had all required cleaning facilities to wash the floor, sweep up etc. Hand-wash was provided and 1 toilet roll however all other toiletries I provided myself which was not a problem as I already took my own anyway. In the apartment there are x2 shared bathrooms for the other three rooms to use, there's a large bathroom which is near to the master room I was in and a smaller bathroom as you walk through the main apartment door entrance, both were kept clean my the other residents. The shared kitchen was equipped with washing up liquid, utensils and other items of cutlery to use along with a variety of plans so you can cook your own meals, plenty of kitchen cupboard space available to store any items you may wish to purchase, all in one fridge/ freezer, plenty of space in both to store your food. The balcony view from the master room was absolutely fantastic and could get some pretty cool shots ta night with the background of all the buildings in.",
+      "title": "Very good stay",
+      "trip_type": "Solo travel",
+      "travel_date": "2020-08-31",
+      "user": {
+        "username": "therusselling",
+        "user_location": {
+          "id": "186217",
+          "name": "England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/27/47/f1/f6/caption.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/27/47/f1/f6/caption.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/27/47/f1/f6/caption.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/27/47/f1/f6/caption.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/27/47/f1/f6/caption.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

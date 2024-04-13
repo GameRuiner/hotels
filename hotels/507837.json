@@ -1,0 +1,232 @@
+{
+  "location_id": "507837",
+  "name": "Royal Albatros Moderna",
+  "description": "Opened in 2004, the 5* resort has a dream location on the golden sandy beach on the new hotel zone of Nabq Bay, facing coral reefs in the crystal clear waters of the Red Sea, and the shipwrecks of the nearby Straits of Tiran. The main building and the attached two-storey building are surrounded by resplendent gardens extending down to the beach. This elegant all inclusive resort is only 12 km from Sharm El Sheikh Airport, and 20 km from the famous Naama-Bay.Whether you're celebrating an anniversary or honeymoon, planning a family vacation in Sharm El Sheikh or just wanting to get away from it all, Royal Albatros Moderna is the perfect place for all ages and interests.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g303855-d507837-Reviews-Royal_Albatros_Moderna-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Peace Road",
+    "city": "Nabq Bay",
+    "country": "Egypt",
+    "postalcode": "46619",
+    "address_string": "Peace Road, Nabq Bay, Sharm El Sheikh 46619 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Nabq Bay",
+      "location_id": "303855"
+    },
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "28.059704",
+  "longitude": "34.436214",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g303855-d507837-Royal_Albatros_Moderna-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "303855",
+    "ranking_string": "#19 of 41 hotels in Nabq Bay",
+    "geo_location_name": "Nabq Bay",
+    "ranking_out_of": "41",
+    "ranking": "19"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "9767",
+  "review_rating_count": {
+    "1": "202",
+    "2": "276",
+    "3": "800",
+    "4": "2039",
+    "5": "6450"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "10647",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g303855-d507837-m66827-Reviews-Royal_Albatros_Moderna-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Restaurant",
+    "Fitness center",
+    "Internet",
+    "Beachfront",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Bar/Lounge",
+    "Beach Access",
+    "Wheelchair access",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Business center",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Free parking",
+    "Spa",
+    "Airport transportation",
+    "Paid Internet",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Water Park",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Aerobics",
+    "Arabic",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Car Hire",
+    "Convenience Store",
+    "Currency Exchange",
+    "Diving",
+    "Doorperson",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "24-Hour Front Desk",
+    "German",
+    "Gift Shop",
+    "Hammam",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Mini Golf",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Family Resort",
+    "Modern"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "32"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "3118"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "145"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "4061"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "1217"
+    }
+  ],
+  "awards": []
+}

@@ -1,0 +1,234 @@
+{
+  "data": [
+    {
+      "id": 945629543,
+      "lang": "en",
+      "location_id": 15581528,
+      "published_date": "2024-04-06T19:22:56Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d15581528-r945629543-Reviews-Hotel_Praktik_Essens-Barcelona_Catalonia.html?m=66827#review945629543",
+      "text": "Boutique hotel in the center of Barcelona, close to everything, we knew Barcelona on foot, the rooms are very clean, spacious, the staff is excellent, especially Fernando, helped us and informed us everything we asked, which was not little and is very funny.\nIn the afternoon, they give free drinks and snacks as a courtesy.\nWe will definitely come back!",
+      "title": "Beautiful experience",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "P4065JWkimberlyp",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/de/0a/default-avatar-2020-35.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/de/0a/default-avatar-2020-35.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/de/0a/default-avatar-2020-35.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/de/0a/default-avatar-2020-35.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/de/0a/default-avatar-2020-35.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 939585883,
+      "lang": "en",
+      "location_id": 15581528,
+      "published_date": "2024-02-24T07:47:57Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d15581528-r939585883-Reviews-Hotel_Praktik_Essens-Barcelona_Catalonia.html?m=66827#review939585883",
+      "text": "Nice location close to Casa Battlo and within walking distance to many restaurants and nice areas.  Fun and unique boutique feel with friendly employees.  Nice happy hour with free drinks, but no snacks this year.  No breakfast except muffins.  There is a restaurant next door with pretty good and reasonable breakfast, but they don't open until 8am.  For a hotel that prides themselves on good scents, it was a bit ironic that there was a slight odor in the bathroom.  Overall a very good experience, but there is a slight tradeoff with conveniences of big established hotels compared with the boutique hotel.",
+      "title": "Very good, but not perfect boutique hotel",
+      "trip_type": "Business",
+      "travel_date": "2024-01-31",
+      "user": {
+        "username": "PerP542",
+        "user_location": {
+          "id": "43501",
+          "name": "Saint Paul, Minnesota"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e8/91/default-avatar-2020-62.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 939866367,
+        "title": "Owner response",
+        "text": "Dear PerP542,\n\nThank you for taking the time to share your comments about your recent stay at our hotel. We are pleased to hear that you enjoyed our prime location, unique boutique ambiance, and the friendliness of our staff.\n\nYour feedback is very valuable to us as we continually strive to improve our guests' experience. We have noted your comments about the bathroom odor and are investigating, as maintaining our reputation for pleasant aromas throughout the hotel is of utmost importance to us.\n\nWe appreciate your understanding of the differences between the amenities offered by larger hotels versus the unique experiences provided by boutique hotels such as ours. We are glad that your overall experience was very good, and we are committed to making every stay perfect.\n\nThank you once again for your review. We hope to have the opportunity to welcome you back in the future for an even more satisfying stay.\n\nBest regards,\nThe Hotel Praktik Èssens eam",
+        "lang": "en",
+        "author": "Dirección Hotel Praktik Essens",
+        "published_date": "2024-02-26T10:32:25Z"
+      }
+    },
+    {
+      "id": 925573822,
+      "lang": "en",
+      "location_id": 15581528,
+      "published_date": "2023-11-12T03:43:49Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d15581528-r925573822-Reviews-Hotel_Praktik_Essens-Barcelona_Catalonia.html?m=66827#review925573822",
+      "text": "This is a true gem in Barcelona. The hotel and employees are amazing. They are there to help all the time. There is a great working space if you are travelling for business. The rooms are so spacious and comfortable. \nThe location is so central with easy access to train, metro and Aerobus.\nThe hotel has a great ambience and perfume that adds to the magic of Barcelona. ",
+      "title": "Boutique Gem in Barcelona ",
+      "trip_type": "Business",
+      "travel_date": "2023-11-30",
+      "user": {
+        "username": "Meander74751",
+        "user_location": {
+          "id": "190311",
+          "name": "Malta"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/2a/cc/49/30/caption.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/2a/cc/49/30/caption.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/2a/cc/49/30/caption.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/2a/cc/49/30/caption.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/2a/cc/49/30/caption.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 925605946,
+        "title": "Owner response",
+        "text": "It was a great pleasure for us to host you and we would like to thank you most sincerely for your charming review!\nWe celebrate that we could make your stay that enjoyable and your kind comments towards our staff service are much appreciate. \n\nThanks for the 5 stars given and we can't wait to welcome you back again.\n\nBest regard from Barcelona. \n\nHOTEL PRAKTIK ÈSSENS ",
+        "lang": "en",
+        "author": "Dirección Hotel Praktik Essens",
+        "published_date": "2023-11-12T09:21:06Z"
+      }
+    },
+    {
+      "id": 922504333,
+      "lang": "en",
+      "location_id": 15581528,
+      "published_date": "2023-10-22T17:57:47Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d15581528-r922504333-Reviews-Hotel_Praktik_Essens-Barcelona_Catalonia.html?m=66827#review922504333",
+      "text": "You cannot fault the location of this hotel and the clean room. We found the staff friendly and helpful. We had the entry level room which was small, but we managed and the bed was comfortable and the air condition worked well. We slept amazingly well given its location near the Passiege del Gracia and found it quiet. We enjoyed our stay. Whilst there were a few minor drawbacks, as in we did not get the advertised room upgrade as it was very busy, the happy hour was hammered by a few and the snacks whilst provided were basic, for us the benefits were greater than a few hiccups. I would return but get a larger room. The coffee was welcome and the pastries were ok although repeated which made it boring. The lounge area is a nice comfortable place and the outdoor area lounges were pretty, with nice lighting. Housekeeping staff worked hard. The room decor was simple, comfortable clean and modern. The shower however spilled over into the room which was a design flaw  and annoying. ",
+      "title": "A Pleasant stay in a great location. ",
+      "trip_type": "Couples",
+      "travel_date": "2023-10-31",
+      "user": {
+        "username": "sealeg",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ee/10/default-avatar-2020-8.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 925607094,
+        "title": "Owner response",
+        "text": "Dear guest, \n\nThanks for sharing such a detailed review about your recent stay at Praktik Èssens. \nWe celebrate that overall you had a good stay with us in line up with your expectations. \n\nWe appreciate all your comments that will definitely drive us keep improving. \nIt makes us so happy knowing you had an enjoyable stay these days in Barcelona and so that we help a bit on it :)\n\nYou know now where we are for your next visits to Barcelona. \n\nBest regards.\n\nHOTEL PRAKTIK ÈSSENS",
+        "lang": "en",
+        "author": "Dirección Hotel Praktik Essens",
+        "published_date": "2023-11-12T09:30:03Z"
+      }
+    },
+    {
+      "id": 912577621,
+      "lang": "en",
+      "location_id": 15581528,
+      "published_date": "2023-08-24T05:57:05Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d15581528-r912577621-Reviews-Hotel_Praktik_Essens-Barcelona_Catalonia.html?m=66827#review912577621",
+      "text": "I am currently staying here. It’s August and extremely hot outside, but this small, boutique hotel is an oasis! Very comfortable, good location, lovely seating areas, an overall charming place. I would highly recommend this small, boutique hotel.",
+      "title": "Charming oasis!",
+      "trip_type": "Family",
+      "travel_date": "2023-08-31",
+      "user": {
+        "username": "trudit2018",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ef/73/default-avatar-2020-13.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 913420566,
+        "title": "Owner response",
+        "text": "Dear guest,\nThank you for such positive feedback, it is much appreciated!\nWe really celebrate that you had such a great stay with us. That is exactly the most important point for us.\nAs you have mentioned, We are a small hotel,  with a prime location, where we try to take care of every detail.\nWe hope to welcome you back to Praktik Èssens Hotel in the not too distant future.\nYours faithfully,\n\nAndrea Garrido\nHotel Manager",
+        "lang": "en",
+        "author": "Dirección Hotel Praktik Essens",
+        "published_date": "2023-08-28T07:10:30Z"
+      }
+    }
+  ]
+}

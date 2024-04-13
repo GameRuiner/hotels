@@ -1,0 +1,187 @@
+{
+  "location_id": "657191",
+  "name": "Ramee Royal Hotel",
+  "description": "Ramee Royal Hotel is a four star deluxe property. The hotel offers 102 elegantly furnished rooms (96 standard and executive rooms and 6 suites); each room is well equipped with the best in modern convenience that would even impress travelers to a hotel of higher rating. Guests can expect to find direct dial telephone, satellite television & radio channels, coffee and tea making facilities, central air-conditioning, data port for internet, mini bar, digital safety vault and en suite bathrooms.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d657191-Reviews-Ramee_Royal_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Tariq Bin Ziad Road, Khalid Bin Waleed Street",
+    "street2": "Along Side Al Maktoum Bridge",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "26816",
+    "address_string": "Tariq Bin Ziad Road, Khalid Bin Waleed Street Along Side Al Maktoum Bridge, Dubai 26816 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.249144",
+  "longitude": "55.312515",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d657191-Ramee_Royal_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#450 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "450"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "306",
+  "review_rating_count": {
+    "1": "60",
+    "2": "26",
+    "3": "25",
+    "4": "98",
+    "5": "97"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss2.5.svg",
+      "value": "2.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss2.5.svg",
+      "value": "2.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    }
+  },
+  "photo_count": "68",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d657191-m66827-Reviews-Ramee_Royal_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Restaurant",
+    "Room service",
+    "Pool",
+    "Free parking",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Fitness center",
+    "Internet",
+    "Suites",
+    "Spa",
+    "Airport transportation",
+    "Public Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Minibar",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Doorperson",
+    "Evening Entertainment",
+    "Hindi",
+    "Nightclub / DJ",
+    "Free Internet",
+    "Wifi",
+    "Hot Tub",
+    "Business center",
+    "Concierge",
+    "Family Rooms",
+    "Self-Serve Laundry",
+    "Conference Facilities",
+    "Breakfast Available"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Centrally Located",
+    "Trendy"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620559",
+      "name": "Al Karama"
+    },
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "65"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "39"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "21"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "44"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "112"
+    }
+  ],
+  "awards": []
+}

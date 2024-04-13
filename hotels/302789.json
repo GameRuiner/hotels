@@ -1,0 +1,346 @@
+{
+  "location_id": "302789",
+  "name": "Al Maha, a Luxury Collection Desert Resort & Spa, Dubai",
+  "description": "Exclusive hotel designed to resemble a traditional Bedouin encampment - set within a 25-sq.-kilometer desert conservation reserve.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g6351830-d302789-Reviews-Al_Maha_a_Luxury_Collection_Desert_Resort_Spa_Dubai-Murqquab_Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Dubai-Al Ain Road",
+    "street2": "Dubai Desert Conservation Reserve",
+    "city": "Murqquab",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "118887",
+    "address_string": "Dubai-Al Ain Road Dubai Desert Conservation Reserve, Murqquab, Dubai 118887 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Murqquab",
+      "location_id": "6351830"
+    },
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "24.822983",
+  "longitude": "55.66261",
+  "timezone": "Asia/Dubai",
+  "phone": "18446310595",
+  "write_review": "https://www.tripadvisor.com/UserReview-g6351830-d302789-Al_Maha_a_Luxury_Collection_Desert_Resort_Spa_Dubai-Murqquab_Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "6351830",
+    "ranking_string": "#1 of 1 hotels in Murqquab",
+    "geo_location_name": "Murqquab",
+    "ranking_out_of": "1",
+    "ranking": "1"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "2148",
+  "review_rating_count": {
+    "1": "22",
+    "2": "14",
+    "3": "33",
+    "4": "133",
+    "5": "1946"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "3773",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g6351830-d302789-m66827-Reviews-Al_Maha_a_Luxury_Collection_Desert_Resort_Spa_Dubai-Murqquab_Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Pool",
+    "Free parking",
+    "Restaurant",
+    "Meeting rooms",
+    "Fitness center",
+    "Internet",
+    "Room service",
+    "Free Internet",
+    "Bar/Lounge",
+    "Wifi",
+    "Free Wifi",
+    "Suites",
+    "Spa",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Airport transportation",
+    "Public Wifi",
+    "Hot Tub",
+    "Business center",
+    "Laundry Service",
+    "Concierge",
+    "Multilingual Staff",
+    "Conference Facilities",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Butler Service",
+    "Infinity Pool",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Pools",
+    "Parking",
+    "Sauna",
+    "Additional Bathroom",
+    "Afrikaans",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Chinese",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Couples Massage",
+    "English",
+    "Extra Long Beds",
+    "Facial Treatments",
+    "Filipino",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Gift Shop",
+    "Hair Dryer",
+    "Head Massage",
+    "Hindi",
+    "Horseback Riding",
+    "Ironing Service",
+    "Massage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Private Check-in / Check-out",
+    "Seating Area",
+    "24-Hour Security",
+    "Sofa",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Breakfast Available",
+    "Facilities for Disabled Guests",
+    "Currency Exchange",
+    "Shoeshine"
+  ],
+  "parent_brand": "Marriott",
+  "brand": "The Luxury Collection",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quiet"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "35"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1372"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "41"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "232"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "156"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice Best of the Best",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png"
+      },
+      "categories": [
+        "Luxury",
+        "Top"
+      ],
+      "display_name": "Travelers Choice Best of the Best"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

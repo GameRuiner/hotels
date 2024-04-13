@@ -1,0 +1,201 @@
+{
+  "location_id": "1811884",
+  "name": "MD Hotel By Gewan",
+  "description": "MD Hotel by Gewan is a luxurious yet affordable hotel located in the commercial and financial business district of central Dubai. The property welcomes the guests travelling to Dubai from all over the world and offers warm hospitality and modern amenities at a great value for money. Our property is conveniently located in proximity to the Mashreq Metro Station, Mall Of The Emirates & Ski Dubai, and a short drive to Dubai Media City, Internet City and Dubai Convention Centre. MD Hotel by Gewan boasts 312 rooms which exude comfort and luxury with their elegant furnishing and tasteful ambiance and come with all the state of the art facilities. There is also a fully equipped gym and a large swimming pool where guests can unwind after a hectic day or a long travel. Business guests can also avail a range of facilities for their corporate events at one of our fully equipped conference halls and meeting rooms. We also have vastly experienced support staff who ensure that your event runs smoothly. Our guests can also enjoy fine Emirati cuisine at our specialty restaurant 'Emarati N More'.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1811884-Reviews-MD_Hotel_By_Gewan-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Zayed Road",
+    "street2": "Opp. Mashreq Metro Station",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Sheikh Zayed Road Opp. Mashreq Metro Station, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.11369",
+  "longitude": "55.191376",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1811884-MD_Hotel_By_Gewan-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#443 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "443"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "868",
+  "review_rating_count": {
+    "1": "76",
+    "2": "77",
+    "3": "183",
+    "4": "300",
+    "5": "232"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "695",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1811884-m66827-Reviews-MD_Hotel_By_Gewan-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Suites",
+    "Free Internet",
+    "Free parking",
+    "Paid Wifi",
+    "Internet",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Refrigerator in room",
+    "Conference Facilities",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Kids Club",
+    "Arabic",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "24-Hour Check-in",
+    "Currency Exchange",
+    "Doorperson",
+    "Fitness / Spa Locker Rooms",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Ironing Service",
+    "24-Hour Security",
+    "Taxi Service"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quiet",
+    "Mid-range"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620543",
+      "name": "Al Barsha"
+    },
+    {
+      "location_id": "15620544",
+      "name": "Al Barsha 1"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "127"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "243"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "72"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "225"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "124"
+    }
+  ],
+  "awards": []
+}

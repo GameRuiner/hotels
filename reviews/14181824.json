@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": 917138795,
+      "lang": "en",
+      "location_id": 14181824,
+      "published_date": "2023-09-18T04:19:51Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d14181824-r917138795-Reviews-Fi_Homes-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review917138795",
+      "text": "This apartment was perfect for my needs and was in a great location. The kitchen included all essentials and also a washing machine and dish washer. The bed was comfortable and the space was clean. The location was good and all amenities are within walking distance, as well the park, restaurants and bars are also within walking distance. Easy to reach public transport. The reception staff were present and available 24/7, and they are all super helpful (especially Ugur). I’d stay here again without doubt.",
+      "title": "Just what and where I needed",
+      "trip_type": "Solo travel",
+      "travel_date": "2023-09-30",
+      "user": {
+        "username": "deejsta75",
+        "user_location": {
+          "id": "186337",
+          "name": "Liverpool, Merseyside, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/2a/5c/bd/28/caption.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/2a/5c/bd/28/caption.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/2a/5c/bd/28/caption.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/2a/5c/bd/28/caption.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2a/5c/bd/28/caption.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

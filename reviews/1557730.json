@@ -1,0 +1,317 @@
+{
+  "data": [
+    {
+      "id": 945951709,
+      "lang": "en",
+      "location_id": 1557730,
+      "published_date": "2024-04-09T08:54:53Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297549-d1557730-r945951709-Reviews-Jaz_Aquamarine_Resort-Hurghada_Red_Sea_and_Sinai.html?m=66827#review945951709",
+      "text": "Family friendly resort with lovely and professional staff service and entertainment activities ! as-well as evening programs, many restaurants with different cuisines to choose from 😍totally coming back next year with more family and friends",
+      "title": "Get booking ☺️",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "Maps10922401724",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ee/68/default-avatar-2020-9.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ee/68/default-avatar-2020-9.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ee/68/default-avatar-2020-9.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ee/68/default-avatar-2020-9.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ee/68/default-avatar-2020-9.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 945922112,
+      "lang": "en",
+      "location_id": 1557730,
+      "published_date": "2024-04-09T03:52:57Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297549-d1557730-r945922112-Reviews-Jaz_Aquamarine_Resort-Hurghada_Red_Sea_and_Sinai.html?m=66827#review945922112",
+      "text": "Amazing hotel. Brilliant food, staff exceptional. Friendly, clean hotel, rooms are nice. \nPool bar staff and animation team made our holiday . Would highly recommend staying here. Lovely pool’s. Plus lots of them, cant find any faults at all.",
+      "title": "Brilliant ,fantastic, amazing Pool bar staff .(Daniel)  amazing animation team. (Pola). Food brilliant , and friendly ..",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "jamesmG9300RQ",
+        "user_location": {
+          "id": "186258",
+          "name": "Plymouth, Devon, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/2a/36/e5/37/caption.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/2a/36/e5/37/caption.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/2a/36/e5/37/caption.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/2a/36/e5/37/caption.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2a/36/e5/37/caption.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945937304,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nThank you for choosing Jaz Aquamarine to spend your holiday. My team and I would also like to thank you for your valued feedback. \nWe are extremely committed to delivering the perfect holiday experience for each and every guest and are very pleased that you enjoyed your stay here with us.  \n\nWe would also like to thank you for your positive comments about our hotel, food, our staff, cleanliness, and your kind recommendation.\n\nWe hope to have the pleasure to welcome you back again in the future.\nBest Regards\nMohamed Wafa\nHurghada Area Manager\n",
+        "lang": "en",
+        "author": "Mohamed Wafa",
+        "published_date": "2024-04-09T06:32:55Z"
+      }
+    },
+    {
+      "id": 945756065,
+      "lang": "en",
+      "location_id": 1557730,
+      "published_date": "2024-04-07T17:24:23Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297549-d1557730-r945756065-Reviews-Jaz_Aquamarine_Resort-Hurghada_Red_Sea_and_Sinai.html?m=66827#review945756065",
+      "text": "Spent a week at this Hotel during the Easter break, first time to Eygpt, have to say very impressed with the Hotel, rooms are very nice and spacious, plenty of pools, great connection to the beach, staff were fantastic, the Tui representative Ali was probably one of the best we have ever had, warm friendly not at all pushy and remebered us throughout the stay, food was lovely also plenty of choice for all family only regret not staying longer.",
+      "title": "Excellent Hotel Staff & Food.",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "830robi",
+        "user_location": {
+          "id": "36265",
+          "name": "Lincolnshire, Lake County, Illinois"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1c/32/77/a9/caption.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1c/32/77/a9/caption.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1c/32/77/a9/caption.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/1c/32/77/a9/caption.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945804014,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nThank you for choosing Jaz Aquamarine to spend your holiday. My team and I would also like to thank you for your valued feedback. \nWe are extremely committed to delivering the perfect holiday experience for each and every guest and are very pleased that you enjoyed your stay here with us.  \n\nWe would also like to thank you for your positive comments about our very nice and spacious rooms, plenty of pools, great connection to the beach, fantastic staff, the Tui representative and the lovely food.  \n\nWe hope to have the pleasure to welcome you back again in the future.\n\nBest Regards\nMohamed Wafa\nHurghada Area Manager\n",
+        "lang": "en",
+        "author": "Mohamed Wafa",
+        "published_date": "2024-04-08T05:10:36Z"
+      }
+    },
+    {
+      "id": 945604572,
+      "lang": "en",
+      "location_id": 1557730,
+      "published_date": "2024-04-06T15:04:54Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297549-d1557730-r945604572-Reviews-Jaz_Aquamarine_Resort-Hurghada_Red_Sea_and_Sinai.html?m=66827#review945604572",
+      "text": "We really enjoyed spending our evenings chilling out in the Nogoum bar in the Bluemarine resort. It is so relaxing, clean and nicely decorated. The waitering staff are friendly, polite and quick to bring your drinks over, after a few days they knew what we enjoyed ordering. You get complimentary crisps which are a nice touch to have alongside the drinks. \nIt's definitely worth spending time in the bar and getting to know the staff team. Ibrahim is very friendly and looked after us really well.. thank you!\nThank you for taking care of us during our holiday.",
+      "title": "Great family holiday",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "rachelgreen3001",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/01/53/f9/78/rachelgreen3001.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/01/53/f9/78/rachelgreen3001.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/01/53/f9/78/rachelgreen3001.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/01/53/f9/78/rachelgreen3001.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945666772,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nThank you for choosing Jaz Aquamarine to spend your holiday. My team and I would also like to thank you for your valued feedback. \nWe are extremely committed to delivering the perfect holiday experience for each and every guest and are very pleased that you enjoyed your stay here with us.  \n\nWe would also like to thank you for your positive comments about our hotel, facilities, friendly staff, and the service.\n\nWe hope to have the pleasure to welcome you back again in the future.\nBest Regards\nMohamed Wafa\nHurghada Area Manager\n",
+        "lang": "en",
+        "author": "Mohamed Wafa",
+        "published_date": "2024-04-07T04:57:54Z"
+      }
+    },
+    {
+      "id": 945580993,
+      "lang": "en",
+      "location_id": 1557730,
+      "published_date": "2024-04-06T11:34:50Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297549-d1557730-r945580993-Reviews-Jaz_Aquamarine_Resort-Hurghada_Red_Sea_and_Sinai.html?m=66827#review945580993",
+      "text": "Jaz Aquamarine a Five Star, it isn't , nowhere near it, 3 at best!!!\nHotel grounds, pools etc superb. What drags this Hotel down is how its run & the staff. This was my sixth stay in a Jaz hotel in Egypt and this is by far the worse!\nThe rooms were'nt particularly that clean. The food in all the restaurants except the Asian was in general, lukewarm!!! Yes a lot of choice but would be better hot!!\nDrinks ok but sometimes glasses drinks are served in beggars belief, ie Espresso Martini in a small wine glass, beer in a small glass. They open a can to fill glass & put surplus back to fill next one..\nYou can leave your beach towels out in a bag to be replaced with clean ones. One day I got damp dirty ones!!! Not good enough!!!\nYou dine in the A La Carte & when you finish your meal they hand you a service questionnaire which is fine, to make their service better. What is wrong on every level is that before you leave they question a bad review quite aggressively & ask why!!!!  This should be read by management & acted on review by themselves!!!\nSunbeds, ok we all do the earlybird for where you want to sit. \nWent with Tui AIl Inc so had 3 a la carte meals thrown in. Four of us went to the Indian Reataurant for a second time, having used my quota & manager came upto in quite an aggressive manner stating that I had to pay 20euros each. The service was awful on every level & food not much better. The small beer glass, the confrontation on review, terrible. Complained on way out & offered a part free meal but not for all of us.  They never even offered to scrap the bill at the checkout on last day.\nIn all there attitude is that they do not give a ----!!!!\nMy advice is, go to a different hotel, BADLY RUN!!!",
+      "title": "AN HONEST REVIEW",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "Voyager39212807351",
+        "user_location": {
+          "id": "659590",
+          "name": "Cranleigh, Surrey, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/11/default-avatar-2020-23.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/11/default-avatar-2020-23.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    }
+  ]
+}

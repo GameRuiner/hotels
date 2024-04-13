@@ -1,0 +1,188 @@
+{
+  "location_id": "7277657",
+  "name": "Raviz Center Point Hotel",
+  "description": "Step into a world of ease and comfort and experience the finest in international hospitality at Raviz Center Point, the Luxury Hotel, run by one of India's top Hotel Management Groups- 'The Raviz'. Strategically located in the heart of Dubai's shopping, dining and entertainment districts in Bur Dubai and with the International Airport, Dubai Metro and other major transportation nodes at a walkable distance, this four-star deluxe hotel is the gateway to explore Dubai's wonders at your convenience. Be treated to unrivalled comfort in 109 beautifully appointed guestrooms and luxurious suites providing breathtaking views of Bur-Dubai. With FREE high-speed Internet access in the rooms and wireless access in the other public areas of the hotel, as well as comprehensive business services at our hotel, travelling Executives will find working away from home much more convenient.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d7277657-Reviews-Raviz_Center_Point_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Khalid Bin Al Waleed Street",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "33382",
+    "address_string": "Khalid Bin Al Waleed Street, Dubai 33382 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.255684",
+  "longitude": "55.301826",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d7277657-Raviz_Center_Point_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#402 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "402"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "360",
+  "review_rating_count": {
+    "1": "17",
+    "2": "12",
+    "3": "28",
+    "4": "140",
+    "5": "163"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "220",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d7277657-m66827-Reviews-Raviz_Center_Point_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Pool",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Spa",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Conference Facilities",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Breakfast Available",
+    "Blackout Curtains",
+    "Complimentary Instant Cofffee",
+    "Ironing Service",
+    "Taxi Service",
+    "Kids Activities",
+    "Bar/Lounge",
+    "Business center",
+    "Fitness center",
+    "Accessible rooms",
+    "Minibar",
+    "Baggage Storage",
+    "Car Hire",
+    "Currency Exchange"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Centrally Located",
+    "Modern"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620564",
+      "name": "Al Mankhool"
+    },
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "89"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "85"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "32"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "96"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "26"
+    }
+  ],
+  "awards": []
+}

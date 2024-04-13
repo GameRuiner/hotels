@@ -1,0 +1,197 @@
+{
+  "location_id": "599290",
+  "name": "Xperience St. George Homestay",
+  "description": "Situated on Sharm El Sheikh’s tranquil Hill, Xperience St. George Homestay combines a spectacular cosy atmosphere & an exclusive “home away from home” experience. The resort features 262 guest rooms & suites, as well as an impeccable friendly service, providing every facility to indulge the discerning traveler.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d599290-Reviews-Xperience_St_George_Homestay-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Magles El Madina St",
+    "street2": "Um El Sid Hill",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "postalcode": "260",
+    "address_string": "Magles El Madina St Um El Sid Hill, Sharm El Sheikh 260 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.87535",
+  "longitude": "34.305927",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d599290-Xperience_St_George_Homestay-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#49 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "49"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "6034",
+  "review_rating_count": {
+    "1": "136",
+    "2": "187",
+    "3": "400",
+    "4": "1241",
+    "5": "4070"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1850",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d599290-m66827-Reviews-Xperience_St_George_Homestay-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Non-smoking rooms",
+    "Kids Activities",
+    "Room service",
+    "Fitness center",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Free parking",
+    "Shuttle Bus Service",
+    "Wheelchair access",
+    "Wifi",
+    "Paid Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Hot Tub",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Kids Club",
+    "Aerobics",
+    "Arabic",
+    "Darts",
+    "Diving",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Fitness Classes",
+    "24-Hour Front Desk",
+    "Ironing Service",
+    "Karaoke",
+    "Kids' Outdoor Play Equipment",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shops",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Residential Neighborhood",
+    "Centrally Located"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "30"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "2133"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "180"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "2121"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "1031"
+    }
+  ],
+  "awards": []
+}

@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": 883732424,
+      "lang": "en",
+      "location_id": 24950181,
+      "published_date": "2023-03-27T03:47:54Z",
+      "rating": 4,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d24950181-r883732424-Reviews-Talles_City_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review883732424",
+      "text": "It is very central and new. Separate building from main Hotel. Large enough but needs little touches. Hospitality is fine. Staff are very helpful. Big advantage is close to all amenities, like railway, tramway, bus stops, metro, ferry and popular street called Kıbrıs Şehitler Caddesi in Alsancak👍",
+      "title": "Worth to Stay 〽️",
+      "trip_type": "Couples",
+      "travel_date": "2023-03-31",
+      "user": {
+        "username": "bekocandenizz",
+        "user_location": {
+          "id": "186338",
+          "name": "London, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1d/bb/ff/85/bekocandeniz.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1d/bb/ff/85/bekocandeniz.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1d/bb/ff/85/bekocandeniz.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1d/bb/ff/85/bekocandeniz.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1d/bb/ff/85/bekocandeniz.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

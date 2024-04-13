@@ -1,0 +1,272 @@
+{
+  "data": [
+    {
+      "id": 942044374,
+      "lang": "en",
+      "location_id": 285755,
+      "published_date": "2024-03-13T07:20:38Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d285755-r942044374-Reviews-Vincci_Maritimo_Barcelona-Barcelona_Catalonia.html?m=66827#review942044374",
+      "text": "Although the location of the hotel is a bit far from the city center, it is accessible by metro (but you should invest some time). The quality/price is very good. There is a free public parking in front of the hotel. The staff is very very professional and helpful. ",
+      "title": "professional staff!",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "rittafermanian",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e4/2d/default-avatar-2020-48.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e4/2d/default-avatar-2020-48.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e4/2d/default-avatar-2020-48.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e4/2d/default-avatar-2020-48.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e4/2d/default-avatar-2020-48.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 940565811,
+      "lang": "en",
+      "location_id": 285755,
+      "published_date": "2024-03-02T12:58:56Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d285755-r940565811-Reviews-Vincci_Maritimo_Barcelona-Barcelona_Catalonia.html?m=66827#review940565811",
+      "text": "The rooms are big and they are very clean, the breakfast was amazing, and location great. It was a pleasure to walk 10 minutes to the beach in the morning, and the metro and bus station are 2 minutes walk. Great hotel, great location, near to Diagonal Mar-2 minutes walk, and close to the beach.",
+      "title": "Very good",
+      "trip_type": "Family",
+      "travel_date": "2023-08-31",
+      "user": {
+        "username": "782aureliad",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e3/6a/default-avatar-2020-47.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e3/6a/default-avatar-2020-47.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e3/6a/default-avatar-2020-47.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e3/6a/default-avatar-2020-47.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e3/6a/default-avatar-2020-47.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 939395255,
+      "lang": "en",
+      "location_id": 285755,
+      "published_date": "2024-02-22T13:23:28Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d285755-r939395255-Reviews-Vincci_Maritimo_Barcelona-Barcelona_Catalonia.html?m=66827#review939395255",
+      "text": "I was attending a conference at Barcelona's International Conference Centre and the hotel was the perfect location, as it's just a short walk away. (I heard from some conference attendees that the recommended hotel was not particularly nice and almost twice as expensive!). My room was very spacious, comfortable and clean. It's close enough to go for a walk/run by the beach, which is a real treat. Staff are friendly and available. \n\nI had a chance to have dinner at the hotel's restaurant yesterday and it was very enjoyable and good value for money.",
+      "title": "Very comfortable hotel ideally located for Barcelona's International Conference Centre",
+      "trip_type": "Business",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "633elenal",
+        "user_location": {
+          "id": "186370",
+          "name": "Bath, Somerset, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/16/fd/5c/23/elena-l.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/16/fd/5c/23/elena-l.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/16/fd/5c/23/elena-l.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/16/fd/5c/23/elena-l.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/16/fd/5c/23/elena-l.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 935976342,
+      "lang": "en",
+      "location_id": 285755,
+      "published_date": "2024-01-29T14:31:50Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d285755-r935976342-Reviews-Vincci_Maritimo_Barcelona-Barcelona_Catalonia.html?m=66827#review935976342",
+      "text": "Good in overall. Location is 10 mins walk to CCIB which is perfect. Rooms are fine, bed is fine but there should be daily-use slippers which was missing. Cleanliness was good as well. Stuff should be more instructive and kind, especially the receptionists. Thank you.",
+      "title": "Good choice for attendees to CCIB",
+      "trip_type": "Business",
+      "travel_date": "2024-01-31",
+      "user": {
+        "username": "daglaaar",
+        "user_location": {
+          "id": "293974",
+          "name": "Istanbul"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e8/24/default-avatar-2020-60.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e8/24/default-avatar-2020-60.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e8/24/default-avatar-2020-60.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e8/24/default-avatar-2020-60.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e8/24/default-avatar-2020-60.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 933414403,
+      "lang": "en",
+      "location_id": 285755,
+      "published_date": "2024-01-10T09:39:23Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d285755-r933414403-Reviews-Vincci_Maritimo_Barcelona-Barcelona_Catalonia.html?m=66827#review933414403",
+      "text": "This property is well located for the Selva de Mar Metro and Tram stops. Located near to a supermarket, convenience stores, and a shopping mall, the local area has everything you want. Barcelona CBD is but a 15 minute Metro ride (L4). Rooms are spacious, well appointed with comfortable beds. I recommend the breakfast buffet and you can secure discount on checkin by committing to breakfast each morning of your stay.\n\nMy only concern was the late hour cleaning my room on one day. Other than that, I enjoyed my stay at this property.",
+      "title": "Comfortable and well located for public transport",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-01-31",
+      "user": {
+        "username": "stephLDN16",
+        "user_location": {
+          "id": "186338",
+          "name": "London, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1b/99/35/cf/stephldn16.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1b/99/35/cf/stephldn16.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1b/99/35/cf/stephldn16.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1b/99/35/cf/stephldn16.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1b/99/35/cf/stephldn16.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Service"
+        }
+      }
+    }
+  ]
+}

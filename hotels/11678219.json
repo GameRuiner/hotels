@@ -1,0 +1,234 @@
+{
+  "location_id": "11678219",
+  "name": "Premier Inn Dubai Ibn Battuta Mall",
+  "description": "Whether you’ve come to Dubai to shop, explore or work, Premier Inn Dubai Ibn Battuta Mall Hotel is the perfect base for your stay. Shop in the interconnected Ibn Battuta Mall, raise your excitement levels at nearby Dubai Parks and Resort, or ride on the Metro (the station is next to the hotel) for a whistle-stop tour of Dubai’s many attractions, including Burj Khalifa, Dubai Mall and Mall of the Emirates. Sip on a coffee at Costa, banish hunger pangs at multi-cuisine restaurant Nuevo or enjoy a beverage at Mr Toad’s before retiring to your comfy room for a great night’s sleep, guaranteed, in our slumber-inducing Hypnos beds. Wake up feeling energised and ready to go, then hit the gym or swimming pool (temporarily closed) for a pre-breakfast workout. After a long day, Soothe tired muscles in our on-site spa, and stay connected with unlimited complimentary Wi-Fi access throughout the hotel, or log on at our Business Centre.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d11678219-Reviews-Premier_Inn_Dubai_Ibn_Battuta_Mall-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Zayed Road",
+    "street2": "Ibn Battuta Mall",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Sheikh Zayed Road Ibn Battuta Mall, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.046375",
+  "longitude": "55.118805",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d11678219-Premier_Inn_Dubai_Ibn_Battuta_Mall-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#300 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "300"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "3578",
+  "review_rating_count": {
+    "1": "51",
+    "2": "62",
+    "3": "164",
+    "4": "790",
+    "5": "2511"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "827",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d11678219-m66827-Reviews-Premier_Inn_Dubai_Ibn_Battuta_Mall-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Refrigerator in room",
+    "Conference Facilities",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Bottled Water",
+    "24-Hour Check-in",
+    "Coffee Shop",
+    "Desk",
+    "English",
+    "Filipino",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Laptop Safe",
+    "Pool / Beach Towels",
+    "Seating Area",
+    "24-Hour Security",
+    "Shoeshine",
+    "Sun Terrace",
+    "Taxi Service",
+    "Telephone",
+    "VIP Room Facilities",
+    "Electric Kettle",
+    "Happy Hour",
+    "Private Bathrooms",
+    "Wardrobe / Closet"
+  ],
+  "parent_brand": "Whitbread PLC",
+  "brand": "Premier Inn",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quiet",
+    "Modern"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620624",
+      "name": "Discovery Gardens"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "1411"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "364"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "278"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "901"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "339"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

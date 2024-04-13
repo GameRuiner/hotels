@@ -1,0 +1,207 @@
+{
+  "location_id": "1520718",
+  "name": "Sercotel Rosellon",
+  "description": "Sercotel Rosellón, is a 4-star hotel in Barcelona with a modern design that leaves no one indifferent. It is located in the nerve center of the city, in the well-known Eixample of Barcelona. It has the particularity that it is just 200 meters from the incredible Sagrada Familia and, from the hotel's rooftop terrace or from one of our rooms, you can enjoy amazing views. In addition, it is close to points of interest such as the Barcelona Zoo, the Plaza de Toros de la Monumental, La Casa Batlló or La Pedrera. Are you looking for a hotel in Barcelona with private parking where you can go with your own car? At Sercotel Rosellón we have private parking, right in the center of Barcelona, as well as other 4-star hotel services. Sercotel Rosellón is a lifestyle hotel where the latest trends in decoration come together with a modern meaning of urban comfort to create a welcoming atmosphere and offer you a wide and varied range of services. Some of these services are: free Wi-Fi, parking, cafeteria or room service. But without a doubt, the star service is the terrace with exclusive 360-degree views. There you can relax and enjoy good company, a drink in the chillo ut area while you contemplate the majestic Sagrada Familia. For clients who are not staying, prior reservation and hotel confirmation is required.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d1520718-Reviews-Sercotel_Rosellon-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Carrer del Rossello_, 390",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08025",
+    "address_string": "Carrer del Rossello_, 390, 08025 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.404743",
+  "longitude": "2.172772",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d1520718-Sercotel_Rosellon-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#205 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "205"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "2170",
+  "review_rating_count": {
+    "1": "54",
+    "2": "73",
+    "3": "177",
+    "4": "730",
+    "5": "1136"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1331",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d1520718-m66827-Reviews-Sercotel_Rosellon-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Room service",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Suites",
+    "Restaurant",
+    "Business center",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Rooftop Bar",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Parking",
+    "Housekeeping",
+    "Blackout Curtains",
+    "24-Hour Check-in",
+    "Complimentary Instant Cofffee",
+    "French",
+    "24-Hour Front Desk",
+    "Ironing Service",
+    "Parking Garage",
+    "Paid Private Parking On-site",
+    "Paid Private Parking Nearby",
+    "24-Hour Security",
+    "Snack Bar",
+    "Sun Terrace",
+    "Taxi Service",
+    "Safe",
+    "Baggage Storage",
+    "Breakfast in the Room",
+    "Catalan",
+    "English",
+    "German",
+    "Italian",
+    "Newspaper",
+    "Paid Public Parking On-site",
+    "Solarium",
+    "Spanish"
+  ],
+  "parent_brand": "Sercotel Hotels",
+  "brand": "Sercotel",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Great View",
+    "Modern"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230970",
+      "name": "Eixample"
+    },
+    {
+      "location_id": "15565884",
+      "name": "La Sagrada Familia"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "175"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1118"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "114"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "310"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "280"
+    }
+  ],
+  "awards": []
+}

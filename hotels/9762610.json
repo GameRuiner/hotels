@@ -1,0 +1,223 @@
+{
+  "location_id": "9762610",
+  "name": "Hilton Dubai Al Habtoor City",
+  "description": "Soaring 44 floors above the city, the Hilton Dubai Al Habtoor City offers an upscale oasis on the banks of the Dubai Water Canal, near Downtown Dubai and World Trade Center. The location off Sheikh Zayed Road, near Dubai Metro station, puts you just minutes from wherever you want to go. Enjoy an indulgent host of family-friendly amenities including complimentary WiFi, expansive spa with views of Burj Khalifa, 3 rooftop pools, Kids’ Club, or pay a visit to La Perle, Dubai's #1 show.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d9762610-Reviews-Hilton_Dubai_Al_Habtoor_City-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Zayed Road",
+    "street2": "Al Habtoor City",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "124405",
+    "address_string": "Sheikh Zayed Road Al Habtoor City, Dubai 124405 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.18338",
+  "longitude": "55.255714",
+  "timezone": "Asia/Dubai",
+  "phone": "18884466677",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d9762610-Hilton_Dubai_Al_Habtoor_City-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#115 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "115"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "6213",
+  "review_rating_count": {
+    "1": "137",
+    "2": "93",
+    "3": "184",
+    "4": "592",
+    "5": "5209"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "3822",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d9762610-m66827-Reviews-Hilton_Dubai_Al_Habtoor_City-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Rooftop Bar",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Butler Service",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Kids Club",
+    "Kids Stay Free",
+    "Sauna",
+    "Additional Bathroom",
+    "Allergy-free Room",
+    "Arabic",
+    "Baggage Storage",
+    "Bicycle Rental",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "24-Hour Front Desk",
+    "Head Massage",
+    "Hindi",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Nightclub / DJ",
+    "Pool / Beach Towels",
+    "Salon",
+    "24-Hour Security",
+    "Steam Room",
+    "Taxi Service",
+    "Valet Parking",
+    "VIP Room Facilities"
+  ],
+  "parent_brand": "Hilton Worldwide",
+  "brand": "Hilton Hotels & Resorts",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Centrally Located",
+    "River View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620621",
+      "name": "Business Bay"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "1572"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1079"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "378"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1602"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "896"
+    }
+  ],
+  "awards": []
+}

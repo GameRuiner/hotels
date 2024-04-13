@@ -1,0 +1,205 @@
+{
+  "location_id": "15643509",
+  "name": "Coordinat Suits",
+  "description": "Coordinat Suits has a modern design and deluxe apartments. In our building consisting of two blocks within the site, we have eight different concept apartments. 7/24 security service in the site, housekeeping, technical support from many units, including our friends work for the satisfaction of our guests. There is a sauna, jacuzzi, table tennis, billiard room, fitness room and playstation in the site. Just 150 meters from the industrial metro station, Coordinat Suits can easily be reached by public transport or by private vehicles. Centrally located. In the cafeteria and beauty salon, which you can use as a fee for the building, we are at your service. We welcome our valued guests for a unique experience.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d15643509-Reviews-Coordinat_Suits-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Sokak No:1",
+    "street2": "Kazım Dirik Mahallesi 379",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35100",
+    "address_string": "Sokak No:1 Kazım Dirik Mahallesi 379, Izmir 35100 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.446594",
+  "longitude": "27.192427",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d15643509-Coordinat_Suits-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#6 of 194 Specialty lodging in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "194",
+    "ranking": "6"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "68",
+  "review_rating_count": {
+    "1": "13",
+    "2": "8",
+    "3": "5",
+    "4": "6",
+    "5": "36"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss2.0.svg",
+      "value": "2.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "66",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d15643509-m66827-Reviews-Coordinat_Suits-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Suites",
+    "Free Internet",
+    "Free parking",
+    "Kitchenette",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Fitness center",
+    "Laundry Service",
+    "Air conditioning",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Outdoor pool",
+    "Bath / Shower",
+    "Clothes Rack",
+    "Coffee / Tea Maker",
+    "Parking Garage",
+    "Telephone",
+    "Turkish",
+    "Restaurant",
+    "Spa",
+    "Airport transportation",
+    "Non-smoking rooms",
+    "Concierge",
+    "Refrigerator in room",
+    "Non-smoking hotel",
+    "Breakfast Buffet",
+    "Breakfast Available",
+    "Sauna",
+    "Baggage Storage",
+    "Billiards",
+    "Body Wrap",
+    "Car Hire",
+    "Express Check-in / Check-out",
+    "Children's Playground",
+    "Convenience Store",
+    "Couples Massage",
+    "Darts",
+    "English",
+    "Facial Treatments",
+    "Foot Massage",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Hammam",
+    "Hand Massage",
+    "Head Massage",
+    "Indoor Play Area for Children",
+    "Makeup Services",
+    "Manicure",
+    "Massage",
+    "Neck Massage",
+    "Pedicure",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shops",
+    "Table Tennis",
+    "Taxi Service",
+    "Waxing Services"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [
+    "Family",
+    "Budget"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "13"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "10"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "3"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "21"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "7"
+    }
+  ],
+  "awards": []
+}

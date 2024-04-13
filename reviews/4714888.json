@@ -1,0 +1,302 @@
+{
+  "data": [
+    {
+      "id": 944169664,
+      "lang": "en",
+      "location_id": 4714888,
+      "published_date": "2024-03-27T15:17:34Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d4714888-r944169664-Reviews-The_Level_at_Melia_Barcelona_Sky-Barcelona_Catalonia.html?m=66827#review944169664",
+      "text": "It was our second time at the hotel. Great location. Easy to get to most places either on foot or by metro. Lots of restaurants on Las Ramblas and in the area. Lovely room on the 18th floor. Great beds and pillows and it was so quiet I slept so welll. The level is great with lots of lovely tapas, beer and cava and soft drinks from lunch time until 10. We had breakfast there most days too. I would like to especially mention Julia who checked us in with a lovely glass of cava. She really went above and beyond helping us and recommended a fantastic tapas bar, I think it was Kalamata that had huge portions of great tapas ( I wouldn't order more than 4, you will not need them unless you are really hungry - even the waitress warned me the 6 we ordered were too many for 2 people but they were all fabulous. I also highly recommend the tortilla at the level which is the best I have had. Fedrico the chef was so lovely. He gave us a book his mum had written when we left and he illustrated which is a lovely memento of our trip. It really is a fabulous hotel and we hope to be back soon.",
+      "title": "Thank you to Julia and Federico for making our stay amazing",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Kay70_12",
+        "user_location": {
+          "id": "186338",
+          "name": "London, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ef/32/default-avatar-2020-12.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ef/32/default-avatar-2020-12.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ef/32/default-avatar-2020-12.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ef/32/default-avatar-2020-12.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ef/32/default-avatar-2020-12.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945328585,
+        "title": "Owner response",
+        "text": "Dear Sir, \nThank you for taking the time to leave a review of your recent stay.\n\nWe're thrilled to hear that our dedicated team members, Julia and Federico, made such a positive impact on your stay, and that you found the serenity of your room on the 18th floor to your liking. Your kind words about The Level's exclusive offerings, including the variety of tapas and beverages, fill us with pride. It's delightful to note that the gastronomic experiences, especially the tortilla and the generous tapas portions at our recommended venues, contributed to your enjoyable visit. While we're pleased with your overall positive feedback, we regret any inconvenience you may have encountered, and we're committed to continuous improvement of our service culture to ensure every guest's room experience is nothing short of exceptional.\n\nWe hope to welcome you back in the future. \nBest wishes,\n\nPaola Franco, Guest Experience Manager",
+        "lang": "en",
+        "author": "Hotel- cmanager",
+        "published_date": "2024-04-04T09:31:45Z"
+      }
+    },
+    {
+      "id": 940918412,
+      "lang": "en",
+      "location_id": 4714888,
+      "published_date": "2024-03-05T10:57:07Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d4714888-r940918412-Reviews-The_Level_at_Melia_Barcelona_Sky-Barcelona_Catalonia.html?m=66827#review940918412",
+      "text": "Fiendly welcome! Lounge on the 25 th floor with free drinks and food.\nBreakfast has everything included the view. Our room on the 22th floor had an amazing view. Maybe the location of the hotel was a little bit less, but the hospitality makes everything good.\nTHX!",
+      "title": "Super level lounge bar!",
+      "trip_type": "Couples",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "JohnMerckx",
+        "user_location": {
+          "id": "661677",
+          "name": "Dendermonde, East Flanders Province"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/2b/90/41/35/johnmerckx.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/2b/90/41/35/johnmerckx.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/2b/90/41/35/johnmerckx.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/2b/90/41/35/johnmerckx.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2b/90/41/35/johnmerckx.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 941384172,
+        "title": "Owner response",
+        "text": "Dear Sir JohnMerckx ,\nThank you for taking the time to leave a review of your recent stay.\nWe're thrilled to hear that The Level Lounge provided a superlative start to your stay, offering not just refreshments but also a panoramic embrace of the city from the 25th floor. It's wonderful to learn that our breakfast delighted you with its variety and the spectacular views it comes with. We are equally glad that the room experience on the 22nd floor met your expectations with its breathtaking vista. While the hotel's location may have seemed less ideal to you, we're heartened that our service culture had a positive impact on your stay. Please be assured that we are constantly seeking ways to enhance our guests' stay, ensuring that every visit is memorable.\nWe hope to welcome you back.\nBest wishes, \n\nPaola Franco, Guest Experience Manager",
+        "lang": "en",
+        "author": "Hotel- cmanager",
+        "published_date": "2024-03-08T04:39:20Z"
+      }
+    },
+    {
+      "id": 940877071,
+      "lang": "en",
+      "location_id": 4714888,
+      "published_date": "2024-03-05T03:26:02Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d4714888-r940877071-Reviews-The_Level_at_Melia_Barcelona_Sky-Barcelona_Catalonia.html?m=66827#review940877071",
+      "text": "We had the best weekend ever at the Level, al was Great all personal were nice, special shout out to Joan. thanks for being there for us! We would definetly go back once again if we need a hotel in Barcelona. Easy to travel with Tram or Metro, bus also nice to walk in not so Busy area. Beach is a nice walk in a straight way from Hotel.",
+      "title": "Great Hotel and personal at the Level.",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "PatS1827",
+        "user_location": {
+          "id": "188632",
+          "name": "Rotterdam, South Holland Province"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/11/default-avatar-2020-41.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 941384188,
+        "title": "Owner response",
+        "text": "Dear Guest PatS1827,\nWe appreciate receiving this positive review of your stay.\nWe're truly delighted that The Level provided an unforgettable backdrop to your best weekend in Barcelona. Your commendation of our dedicated team, especially Joan, warms our hearts and underscores our commitment to a service culture that prioritizes your comfort and satisfaction. It's wonderful to read that our location facilitated enjoyable explorations, whether by tram, metro, or a peaceful stroll to the nearby beach. Our gastronomic experiences at Merkado and Le Pool Club aim to offer the finest Mediterranean flavors, and we're glad they added to the pleasure of your stay.\nWe look forward to welcoming you again.\nBest wishes, \n\nPaola Franco, Guest Experience Manager",
+        "lang": "en",
+        "author": "Hotel- cmanager",
+        "published_date": "2024-03-08T04:39:27Z"
+      }
+    },
+    {
+      "id": 934034275,
+      "lang": "en",
+      "location_id": 4714888,
+      "published_date": "2024-01-14T14:02:50Z",
+      "rating": 4,
+      "helpful_votes": 2,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d4714888-r934034275-Reviews-The_Level_at_Melia_Barcelona_Sky-Barcelona_Catalonia.html?m=66827#review934034275",
+      "text": "We stayed January 7-12, 2024. I had a Junior Suite at the Level, my friend had a regular room on the 11th floor. The Level is a great experience & worth the extra, mainly due to the lounge. Antonio was great with tours & just any inquires and making dinner reservations. \n\nBreakfast was fantastic.  I said to my friend, \"this is like being on a cruise ship.\"  Hopefully, this explains to you the breakfast experience. Cook to order eggs, including egg benedict, scrambled eggs, meats, pastries, fresh juices, breads, and fruit. \n\nThe room was clean, there were some scrapes and gaps in places along the flooring or wall. Nothing concerning. The shower was a double rain shower with a double hand held spray nozzle. The provided soaps, shampoo, and conditioner were good.  The bath towels are huge and the Junior Suite came with bath robes. \n\nThe room is cleaned each day and two cans of water are provided in the room rate. Anything in the min-fridge or the snacks are extra. There is safe in the room.\n\nThe one aggravating factor for me was, both bathroom sinks were slow to drain.  I was not able to have this repaired during my stay even though I worked through Antonio to get this done. \n\nThe hotel restaurant has adequate offerings, the bartenders Pablo and Andrea are simply some of the best. Their drinks were great and they were happy to try to make new drinks.  Very fun experience with them, especially Pablo. \n\nThe Level in on floor 25 and this is for check-in and check-out. Plus, the Level lounge is located here too. Cava, Wine, and beer are offered during the hours of operation. However, from 5:30 p.m. - 7:00 p.m. pour your own liquor is offered. Food offerings are sandwiches, meats, cheeses, pastries, soda's, nuts, etc. \n\nWould I stay here again. Yes and without hesitation. Would I pay to stay at the Level?  I'm not sure this was worth the surcharge of several hundred USD over 5 days.",
+      "title": "Nice 5 Day Stay",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-01-31",
+      "user": {
+        "username": "C1859TSmichaelp",
+        "user_location": {
+          "id": "56208",
+          "name": "Lubbock, Texas"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/e6/default-avatar-2020-45.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 934588697,
+        "title": "Owner response",
+        "text": "Dear C1859Tsmichaelp,\nThank you for your kind feedback.\n\nIt's wonderful to hear that The Level provided you with a great experience and that Antonino was able to assist you so effectively with tours and dinner reservations. We're thrilled that you found our breakfast offerings with the high standards that we work really hard to achieve. Besides, your compliments on our clean rooms are well appreciated and we're glad you enjoyed the amenities provided in the Junior Suite. We are also delighted to know that Pablo and Andrea at the bar made your experience memorable with their excellent service and mixology skills. \n\nRegarding the issue with the bathroom sinks, we apologize for any inconvenience caused. Our team strives to address all guest concerns promptly, and we regret that we did not resolve this to your satisfaction during your stay. Rest assured, we are committed to ensuring our facilities are well-maintained for all our guests.\n\nWe look forward to seeing you again.\nBest regards,\n\nSara Domingo, Guest Service Coordinator",
+        "lang": "en",
+        "author": "Hotel- cmanager",
+        "published_date": "2024-01-18T10:55:58Z"
+      }
+    },
+    {
+      "id": 932428186,
+      "lang": "en",
+      "location_id": 4714888,
+      "published_date": "2024-01-05T15:48:28Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d4714888-r932428186-Reviews-The_Level_at_Melia_Barcelona_Sky-Barcelona_Catalonia.html?m=66827#review932428186",
+      "text": "What an amazing 6 nights !  Hotel amazing, room was fantastic, we had a junior suite. Wow two showers, two sinks and a both ! In fact if you count the shower in the bath and the rain showers there was a total of 5! \nWe would recommend the level, the experience was out of this world, great drinks plus a cocktail hour and half, lovely snacks provided every day all day. Loved the ham quiche, was divine. \nEmma who checked us in was incredibly attentive and made sure we had the best stay ever, she was always quick to help us with anything we needed. Thank you Emma. \nWe will definitely be back and can’t wait to organise the next trip to this amazing hotel. Dan and Des",
+      "title": "Amazing, superb, incredible, loved every minute ",
+      "trip_type": "Couples",
+      "travel_date": "2023-12-31",
+      "user": {
+        "username": "DesmondBeenhamD",
+        "user_location": {
+          "id": "186534",
+          "name": "Glasgow, Scotland"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/23/90/c9/9b/desmondbeenhamd.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/23/90/c9/9b/desmondbeenhamd.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/23/90/c9/9b/desmondbeenhamd.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/23/90/c9/9b/desmondbeenhamd.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/23/90/c9/9b/desmondbeenhamd.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 932823834,
+        "title": "Owner response",
+        "text": "Dear Desmondbeenhamd,\nThank you for this positive feedback.\n\nWe're thrilled to hear you enjoyed the junior suite's amenities. It's fantastic that The Level's exclusive services enhanced your stay. Our team, especially Emma, is delighted to have contributed to making your visit memorable with attentive service.\nWe eagerly anticipate the opportunity to welcome you back for another exceptional experience.\n\nWe look forward to welcoming you again.\nBest regards,\n\nSara Domingo, Guest Service Coordinator",
+        "lang": "en",
+        "author": "Hotel- cmanager",
+        "published_date": "2024-01-08T05:35:13Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "location_id": "237158",
+  "name": "Hotel Cuatro Naciones",
+  "description": "Quite affordable in light of its extremely central location on Las Ramblas, the Hotel Cuatro Naciones in Barcelona has been providing basic rooms for more than 300 years . Turn-of-the century style unfolds in a lobby decked out with high crown molding, wrought ironwork, and marble galore. ... Read MoreA sweeping staircase leads to 54 simplistic rooms with white walls and punchy pink bedspreads and curtains. Floors are smooth stone mosaic. There's also an elevator, if stairs aren't your thing. Fourteen of the rooms at the Hotel Cuatro Naciones offer sweeping views of La Rambla. The first floor salon is a must-see, featuring hotel-related news clippings through the ages and signed photos and memorabilia of the hotel's most famous guests. The fancy guest history includes Stendhal, Frederic-Francois Chopin, Ulysses S. Grant, and Buffalo Bill.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d237158-Reviews-Hotel_Cuatro_Naciones-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "La Rambla 40",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08002",
+    "address_string": "La Rambla 40, 08002 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.379215",
+  "longitude": "2.175144",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d237158-Hotel_Cuatro_Naciones-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#168 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "168"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "1339",
+  "review_rating_count": {
+    "1": "22",
+    "2": "38",
+    "3": "176",
+    "4": "653",
+    "5": "450"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "329",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d237158-m66827-Reviews-Hotel_Cuatro_Naciones-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Non-smoking rooms",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Housekeeping",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Catalan",
+    "24-Hour Check-in",
+    "Clothes Rack",
+    "Desk",
+    "English",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Italian",
+    "Spanish",
+    "Telephone",
+    "Vending Machine",
+    "Cable / Satellite TV",
+    "Highchairs Available",
+    "Laptop Safe",
+    "Private Bathrooms",
+    "Paid Private Parking Nearby",
+    "Paid Public Parking Nearby",
+    "Radio",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Classic",
+    "Centrally Located"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230964",
+      "name": "La Rambla"
+    },
+    {
+      "location_id": "7230963",
+      "name": "Barrio Gotico (Barri Gotic)"
+    },
+    {
+      "location_id": "15565874",
+      "name": "Ciutat Vella (Old Town)"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "12"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "524"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "68"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "324"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "251"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

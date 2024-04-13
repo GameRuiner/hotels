@@ -1,0 +1,176 @@
+{
+  "data": [
+    {
+      "id": 646822923,
+      "lang": "en",
+      "location_id": 634529,
+      "published_date": "2019-01-18T14:13:23Z",
+      "rating": 2,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g15263864-d634529-r646822923-Reviews-Blue_Butik_Otel-Konak_Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review646822923",
+      "text": "This is a small hotel located near public transport for travelers. Too small aisle that jeopardize silence. The TV in the room neither has proper setup nor has standard channels. Bath water is not hot enough. Breakfast is rather poor and there is no one attending to supervise self service. Maybe the best thing is satisfactory free wifi in the room.",
+      "title": "Small place, good room design, poor media",
+      "trip_type": "Business",
+      "travel_date": "2019-01-31",
+      "user": {
+        "username": "hakano0620",
+        "user_location": {
+          "id": "297958",
+          "name": "Ankara Province"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/95/94/f9/hakano0620.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/95/94/f9/hakano0620.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/95/94/f9/hakano0620.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/95/94/f9/hakano0620.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/95/94/f9/hakano0620.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Cleanliness"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 137613652,
+      "lang": "en",
+      "location_id": 634529,
+      "published_date": "2012-08-19T08:00:23Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g15263864-d634529-r137613652-Reviews-Blue_Butik_Otel-Konak_Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review137613652",
+      "text": "Not idealy located but perfect for any type of trip to Izmir. Stayed in Izmir many times at many hotels including much more expensive venues. This is always my first choice. \nIdeal for a base to explore. ",
+      "title": "Great boutique hotel for little money.",
+      "trip_type": "NONE",
+      "travel_date": "2012-03-31",
+      "user": {
+        "username": "Rockyk9",
+        "user_location": {
+          "id": "187069",
+          "name": "Manchester, Greater Manchester, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/04/aa/33/09/rockyk9.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/04/aa/33/09/rockyk9.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/04/aa/33/09/rockyk9.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-o/04/aa/33/09/rockyk9.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 55431865,
+      "lang": "en",
+      "location_id": 634529,
+      "published_date": "2010-02-07T23:13:09Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g15263864-d634529-r55431865-Reviews-Blue_Butik_Otel-Konak_Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review55431865",
+      "text": "Having stayed in several different hotels of different categories across different cities in Turkey, the Blue Boutique Hotel in Izmir was like an oasis. Having arrived very late at night, the welcome was extremely friendly and efficient. The hotel has not been opened long and fitted out to a high standard. Exerything one needs including free high speed internet connection, a large efficient enclosed shower, and a comfortabled bed. Extremely highly recommended.",
+      "title": "A delightful hotel - excellent housekeeping and very friendly service.",
+      "trip_type": "Business",
+      "travel_date": "2010-02-28",
+      "user": {
+        "username": "johnharveys",
+        "user_location": {
+          "id": "298555",
+          "name": "Guangzhou, Guangdong"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/02/36/7d/35/johnharveys.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/02/36/7d/35/johnharveys.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/02/36/7d/35/johnharveys.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/02/36/7d/35/johnharveys.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    }
+  ]
+}

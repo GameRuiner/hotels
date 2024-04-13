@@ -1,0 +1,335 @@
+{
+  "data": [
+    {
+      "id": 944262514,
+      "lang": "en",
+      "location_id": 206933,
+      "published_date": "2024-03-28T11:00:18Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d206933-r944262514-Reviews-Hotel_Derby-Barcelona_Catalonia.html?m=66827#review944262514",
+      "text": "The Derby is a lovely hotel with very clean rooms and excellent customer service. I upgraded to a room with a private patio and it was a perfect addition with the sunny, warm weather. The breakfast service was excellent with a good selection of food. The Derby also has beautiful art that you can tour while staying in the hotel. I really enjoyed my stay.",
+      "title": "Great hotel in Barcelona",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Escape07395233553",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/de/5a/default-avatar-2020-36.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/de/5a/default-avatar-2020-36.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/de/5a/default-avatar-2020-36.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/de/5a/default-avatar-2020-36.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/de/5a/default-avatar-2020-36.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945218262,
+        "title": "Owner response",
+        "text": "Dear Guest,\nThanks for your review about our hotel.\n\nWe are thrilled to hear that your decision to upgrade to a room with a private patio added a touch of perfection to your stay, especially under the Barcelona sun. \n\nOur team is committed to providing exceptional service, and we are glad that you found our rooms to be immaculate and our staff to be friendly and attentive. \n\nIt is also heartening to know that our breakfast service met your expectations, with a varied selection that catered well to your morning appetite. \n\nThe Derby prides itself not only on its hospitality but also on its art collection, and it is wonderful that you took the time to appreciate the beautiful pieces on display. \n\nYour positive remarks are greatly valued, and we look forward to continuing to provide experiences as enjoyable as the one you had.\n\nWe would love to have you return on another occasion.\nBest regards,\n\nJosé Luis Fernández, General Manager",
+        "lang": "en",
+        "author": "Hotel- cmanager",
+        "published_date": "2024-04-03T10:45:58Z"
+      }
+    },
+    {
+      "id": 941665787,
+      "lang": "en",
+      "location_id": 206933,
+      "published_date": "2024-03-10T12:58:54Z",
+      "rating": 3,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d206933-r941665787-Reviews-Hotel_Derby-Barcelona_Catalonia.html?m=66827#review941665787",
+      "text": "This hotel deserves its four stars although it starts to feel a bit tired. My medium score results from the construction works that woke me up the first morning at 07.00 a.m. I requested and got a room on a higher floor and at the back of the building. Staff wove away my suggestion to at least indicate the inconvenience on the booking sites (“not every day, can be ready shortly etc.”). Further fine: rooms are quite spacious, airco has low noise levels, fine bathroom with good sized bathtub, friendly staff.",
+      "title": "Good hotel but be aware for the construction works",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "tomhols1952",
+        "user_location": {
+          "id": "227923",
+          "name": "Zeist"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/0f/bf/c6/ae/hans-thomas-h.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/0f/bf/c6/ae/hans-thomas-h.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/0f/bf/c6/ae/hans-thomas-h.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/0f/bf/c6/ae/hans-thomas-h.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 941870782,
+        "title": "Owner response",
+        "text": "Dear Thomas,\nThank you for taking the time to share your review.\n\nWe're glad to hear that you found our rooms spacious and our staff friendly, reflecting our commitment to comfort and top-notch service. We also appreciate your recognition of our quiet air conditioning systems and the quality of our bathrooms, which we take great pride in maintaining. \n\nRegarding the disturbance from construction works, we apologize for any inconvenience caused. While we strive to ensure all our guests have a restful stay, external factors such as construction can occasionally disrupt the tranquillity. We're pleased to know that our team was able to accommodate your request for a room on a higher floor at the back of the building to mitigate the noise.\n\nThank you again. We look forward to welcoming you back soon. \nKind regards,\n\nJosé Luis Fernández, General Manager",
+        "lang": "en",
+        "author": "Hotel- cmanager",
+        "published_date": "2024-03-12T05:22:16Z"
+      }
+    },
+    {
+      "id": 941371060,
+      "lang": "en",
+      "location_id": 206933,
+      "published_date": "2024-03-08T01:41:32Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d206933-r941371060-Reviews-Hotel_Derby-Barcelona_Catalonia.html?m=66827#review941371060",
+      "text": "The location was very convenient with an access to two metro stations where you can easily transfer to the downtown Barcelona. Especially, its breakfast was one of the best ones with hot food options.",
+      "title": "Convenient location, and great breakfast.",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Passport579787",
+        "user_location": {
+          "id": "154913",
+          "name": "Calgary, Alberta"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e4/2d/default-avatar-2020-48.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e4/2d/default-avatar-2020-48.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e4/2d/default-avatar-2020-48.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e4/2d/default-avatar-2020-48.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e4/2d/default-avatar-2020-48.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 941764455,
+        "title": "Owner response",
+        "text": "Dear Guest,\nThank you very much for your kind comments.\n\nWe're delighted to hear that our strategic location provided you with convenient access to Barcelona's vibrant downtown and that our breakfast selections impressed you, particularly with the hot food options available. We aim to offer a variety of high-quality dining choices, including our à-la-carte and buffet breakfast that features a range of egg preparations and other delicacies, to ensure a pleasant start to the day for our guests.\n\nWe look forward to welcoming you back in the future. \nBest wishes,\n\nJosé Luis Fernández, General Manager",
+        "lang": "en",
+        "author": "Hotel- cmanager",
+        "published_date": "2024-03-11T08:04:47Z"
+      }
+    },
+    {
+      "id": 941333388,
+      "lang": "en",
+      "location_id": 206933,
+      "published_date": "2024-03-07T14:36:01Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d206933-r941333388-Reviews-Hotel_Derby-Barcelona_Catalonia.html?m=66827#review941333388",
+      "text": "it would have been a good location had it not been for the on-going construction works. i like the neatness of the bathroom. adding a bathroom robe and a coffeemaker to the rooms would have been a plus. ",
+      "title": "nice 24 hr front desk staff and good house-keeping",
+      "trip_type": "Business",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "Kofi_Billy",
+        "user_location": {
+          "id": "1202780",
+          "name": "Tema, Greater Accra"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/eb/default-avatar-2020-27.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/eb/default-avatar-2020-27.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/eb/default-avatar-2020-27.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/eb/default-avatar-2020-27.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/eb/default-avatar-2020-27.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 941393465,
+        "title": "Owner response",
+        "text": "Dear Kofi,\nThanks for taking the time to provide feedback about your time at our hotel.\n\nWe're delighted to hear that you appreciated our 24-hour front desk staff and the cleanliness of our bathrooms. Our housekeeping team works diligently to ensure that our guests enjoy a neat and comfortable stay. \n\nRegarding the construction works nearby, we understand that they can be an inconvenience, and we look forward to the completion of these improvements to our neighborhood. \n\nWhile we do provide bathrobes and kettles upon request, we will certainly take your suggestion about adding a coffeemaker into consideration as we continuously strive to enhance our guests' experience.\n\nWe hope to see you again in the future. \nBest regards,\n\nJosé Luis Fernández, General Manager",
+        "lang": "en",
+        "author": "Hotel- cmanager",
+        "published_date": "2024-03-08T06:32:27Z"
+      }
+    },
+    {
+      "id": 941298561,
+      "lang": "en",
+      "location_id": 206933,
+      "published_date": "2024-03-07T08:56:52Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d206933-r941298561-Reviews-Hotel_Derby-Barcelona_Catalonia.html?m=66827#review941298561",
+      "text": "The staff was really friendly and helpfull.\nBreakfast was good but not extensive. Rooms neat and clean.Beds were comfortable Public transportation nearby.\nI would recommend this hotel.\nThank you for having us😁😁\n\n",
+      "title": "Derby hotel",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Kamsirah_Warner",
+        "user_location": {
+          "id": "188632",
+          "name": "Rotterdam, South Holland Province"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/a7/default-avatar-2020-44.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 941393454,
+        "title": "Owner response",
+        "text": "Dear Warner,\nThank you for taking the time to give us your feedback.\n\nWe're thrilled to hear that you found our staff friendly and helpful, and we take great pride in our team's commitment to service. It's also wonderful to know that the cleanliness and comfort of the rooms met your expectations, reflecting our dedication to providing a restful environment. \n\nAdditionally, we're glad the proximity to public transportation contributed positively to your stay, allowing for easy exploration of Barcelona's many attractions. Your recommendation is greatly appreciated, and we're delighted that your overall experience was so positive.\n\nWe hope we have the opportunity to welcome you back again.\nKind regards,\n\nJosé Luis Fernández, General Manager",
+        "lang": "en",
+        "author": "Hotel- cmanager",
+        "published_date": "2024-03-08T06:32:18Z"
+      }
+    }
+  ]
+}

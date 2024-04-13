@@ -1,0 +1,278 @@
+{
+  "location_id": "781483",
+  "name": "SUNRISE Diamond Beach Resort -Grand Select-",
+  "description": "Highlights: • Luxurious Family Resort with aqua park • Private beach with access to coral reef • Swim-up and jacuzzi rooms • Stunning infinity pool • Adults only sanctuary • 1 buffet and 5 à la carte restaurants (unlimited visits when booking all-inclusive) • Royal club privileges upon booking selected suites Experience ultimate luxury and serenity at SUNRISE Diamond Beach Resort -Grand Select- in Sharm El Sheikh, Egypt. The 5-star resort has been fully revamped and has been designed to offer guests a luxurious vacation beyond expectations. SUNRISE Diamond Beach Resort comprises of 440 vastly spacious Rooms & Suites all of which exhibit a modern, state-of-the-art concept. Upgrade your vacation and enjoy your stay in any of the lavishly designed Swim-Up and Jacuzzi Rooms & Suites. Royal Club Privileges can be enjoyed when booking any of the Resort’s Suites. Every room comes with satellite TV, air conditioning, minibar with soft drinks, tea & coffee making facilities and much more. Free Wi-Fi is available throughout the property. This elegant resort offers a wide variety of culinary delights, including 1 international restaurant and 5 à-la-carte restaurants serving Italian, Egyptian, Indian, and Mongolian Cuisine and delicacies from the sea at Felucca Seafood restaurant (chargeable). With a total of 12 Bars, Cafés and Pubs, scattered through the Resorts’ premises you will enjoy a perfect mix of fun and relaxation. The newest addition is the Latitude Sky Bar promising spectacular views of the Red Sea. With a choice of three large heated outdoor swimming pools, along with a separate breathtaking infinity pool, and an Aqua Park that keeps the whole family splashing, enjoyment is guaranteed for everyone. Additionally, the Resort features a fully equipped gym (16+), and a high-end spa & beauty salon (chargeable). SUNRISE Diamond Beach Resort offers a private beach with access to a jetty, giving you direct access to the beautiful clear waters in which you can discover the wonders of the Red Sea’s coral reef. Located 15 km (10 min) to Sharm El Sheikh Centre and 25km (20 min) to Sharm El Sheikh International Airport, the resort features a distinctive location. Our all-inclusive concept includes: Breakfast, lunch and dinner in buffet or à-la-carte restaurants (unlimited reservations), snacks from 12:00-17:00, 23:00-01:00, local alcoholic beverages from 10:00-00:00, water and hot beverages 24/7, minibar with water & soft drinks, free entertainment and sports activities, and much more. Some activities/ services such as diving, spa treatments are extra charge. Please get back to the hotel’s AI Formula for detailed information.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d781483-Reviews-SUNRISE_Diamond_Beach_Resort_Grand_Select-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "30 Salah Taher St",
+    "street2": "Ras Om El Sid Hill",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "postalcode": "46619",
+    "address_string": "30 Salah Taher St Ras Om El Sid Hill, Sharm El Sheikh 46619 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.86441",
+  "longitude": "34.31835",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d781483-SUNRISE_Diamond_Beach_Resort_Grand_Select-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#22 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "22"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "2380",
+  "review_rating_count": {
+    "1": "31",
+    "2": "36",
+    "3": "79",
+    "4": "224",
+    "5": "2010"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "5176",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d781483-m66827-Reviews-SUNRISE_Diamond_Beach_Resort_Grand_Select-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Room service",
+    "Pool",
+    "Beachfront",
+    "Beach Access",
+    "Internet",
+    "Free Internet",
+    "Free parking",
+    "Meeting rooms",
+    "Tennis Court",
+    "Business center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Babysitting",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Suites",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Pets Allowed",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Rooftop Bar",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Water Park",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Aerobics",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Billiards",
+    "Blackout Curtains",
+    "Books, DVDs, Music for Children",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Darts",
+    "Desk",
+    "Diving",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Game Room",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Italian",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Nightclub / DJ",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Snorkeling",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Kids pool",
+    "Cable / Satellite TV",
+    "Express Check-in / Check-out",
+    "Children's Playground",
+    "Electric Kettle",
+    "Executive Lounge Access",
+    "Complimentary Welcome Drink",
+    "Highchairs Available",
+    "Makeup Services",
+    "Manicure",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Personal Trainer",
+    "Pool View",
+    "Private Bathrooms",
+    "VIP Room Facilities",
+    "Wardrobe / Closet",
+    "Waterslide",
+    "Water Sport Equipment Rentals",
+    "Yoga Classes"
+  ],
+  "parent_brand": "Sunrise Resorts & Cruises",
+  "brand": "Sunrise Resorts",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Mid-range",
+    "Great View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "19"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "568"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "61"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1124"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "291"
+    }
+  ],
+  "awards": []
+}

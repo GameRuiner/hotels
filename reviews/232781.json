@@ -1,0 +1,264 @@
+{
+  "data": [
+    {
+      "id": 945603261,
+      "lang": "en",
+      "location_id": 232781,
+      "published_date": "2024-04-06T14:53:13Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d232781-r945603261-Reviews-Hotel_Europark-Barcelona_Catalonia.html?m=66827#review945603261",
+      "text": "Place is convenient to walk to the sagrada familia and other landmarks, great small places for tapas, welcome drink, pool with view, lady at check in was nice, parking is not onsite so you have to park close by but they have a discount with the hotel guests",
+      "title": "Convenient Hotel",
+      "trip_type": "Couples",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "rodgar26",
+        "user_location": {
+          "id": "60898",
+          "name": "Atlanta, Georgia"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e6/ea/default-avatar-2020-54.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e6/ea/default-avatar-2020-54.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e6/ea/default-avatar-2020-54.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e6/ea/default-avatar-2020-54.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e6/ea/default-avatar-2020-54.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945925654,
+        "title": "Owner response",
+        "text": "\nHello Rodgar!\n\nWe're thrilled to hear that you enjoyed your stay with us and found our location convenient for exploring the Sagrada Familia and other landmarks. Our tapas spots are indeed a hidden gem! It's fantastic to know you appreciated our welcome drink and the pleasant check-in experience. While we don't have onsite parking, we're glad you were able to take advantage of our discounted arrangement nearby. We hope you took in the stunning views from our roof terrace as well.\n\nThank you for choosing to stay with us, and we look forward to welcoming you back soon!\n\nBest regards,\n\nAsun Pareja\nHotel Manager\ndireccioneuropark@nnhotels.com",
+        "lang": "en",
+        "author": "Asun Pareja",
+        "published_date": "2024-04-09T04:31:42Z"
+      }
+    },
+    {
+      "id": 944553675,
+      "lang": "en",
+      "location_id": 232781,
+      "published_date": "2024-03-30T15:53:33Z",
+      "rating": 2,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d232781-r944553675-Reviews-Hotel_Europark-Barcelona_Catalonia.html?m=66827#review944553675",
+      "text": "We stayed 4 days. We had dust in our room all time. We asked to clean the floor but nothing! We used cups and glasses, they didn’t washed or changed it! We were with our baby … it was not good for him!!!  ",
+      "title": "Good but DIRTY",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Korea89",
+        "user_location": {
+          "id": "616177",
+          "name": "Macerata, Province of Macerata, Marche"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/e3/default-avatar-2020-59.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/e3/default-avatar-2020-59.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/e3/default-avatar-2020-59.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/e3/default-avatar-2020-59.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/e3/default-avatar-2020-59.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944908948,
+        "title": "Owner response",
+        "text": "Dear Korea89,\n\nAs stated in other communications with you, we sincerely apologize for this unfortunate and isolated cleaning incident, and would truly appreciate another opportunity to serve you if your travel plans bring you back to Barcelona.\n\nBest regards,\n\nAsun Pareja\nHotel Manager\ndireccioneuropark@nnhotels.com",
+        "lang": "en",
+        "author": "Asun Pareja",
+        "published_date": "2024-04-02T06:03:02Z"
+      }
+    },
+    {
+      "id": 944400723,
+      "lang": "en",
+      "location_id": 232781,
+      "published_date": "2024-03-29T12:50:18Z",
+      "rating": 3,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d232781-r944400723-Reviews-Hotel_Europark-Barcelona_Catalonia.html?m=66827#review944400723",
+      "text": "We only payed 105 euro per night and for that price it was correct. But the price of the breakfast was not correct for the service that was given. You can eat better elsewhere for the same price. The hotel itself is ok. Nothing more, nothing less. The sheets are strange and not handy. The doors of the rooms make a lot of noise when they close.Staff is really friendly. ",
+      "title": "Basic",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "YannickVW",
+        "user_location": {
+          "id": "188669",
+          "name": "Leuven, Flemish Brabant Province"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f4/5d/default-avatar-2020-32.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 944375467,
+      "lang": "en",
+      "location_id": 232781,
+      "published_date": "2024-03-29T09:32:05Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d232781-r944375467-Reviews-Hotel_Europark-Barcelona_Catalonia.html?m=66827#review944375467",
+      "text": "This is our third stay in the hotel, our daughter lives in Barcelona and it’s so conveniently placed between her flat and attractions. We booked directly with the hotel and it was an excellent deal! Would like to give a special mention to the breakfast staff who are so friendly and the receptionist who booked us in, it was only his third day and he was very helpful. Breakfast was as always very tasty and a good selection I would never normally have cake for breakfast but the almond cake with orange was delicious. We stored our bags as we had an evening flight which was a lifesaver and really easy to get a taxi. It is an understated friendly hotel and I would really recommend it highly",
+      "title": "Third visit at this friendly hotel",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Y4053YBthomasw",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/43/default-avatar-2020-11.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 942816382,
+      "lang": "en",
+      "location_id": 232781,
+      "published_date": "2024-03-18T16:12:21Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d232781-r942816382-Reviews-Hotel_Europark-Barcelona_Catalonia.html?m=66827#review942816382",
+      "text": "The hotel is \"strategically\" placed, between the Sagrada Familia and Casa Batllo, close to the Passeig de Gracia train station. So, easy get from the airport and within walking distance from some of the major sightseeing spots in Barcelona.\n\nThe staff is friendly and helpful; I was especially surprised on my birthday, when we were offered cocktails at breakfast (after somebody from the staff noticed that we had a couple of glasses of cava). I highly recommend getting the breakfast, as it offers a good variety of food and drinks, it is very convenient option to start the day as a tourist who wants to spend the next 4-5h visiting landmarks.\n\nI didn't get to try out the swimming pool at the 8th floor, due to the weather, but the view was very nice.\n\nBeing located on a relatively busy street, I recommend getting a room with a view towards the back, in case you find traffic noise disturbing.",
+      "title": "Great location and great service",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "bogdanmS1872PC",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/d5/default-avatar-2020-17.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 943055182,
+        "title": "Owner response",
+        "text": "\nDear Bogdan,\n\nThank you so much for your delightful feedback! It brings us immense joy to hear about your wonderful experience at our hotel. We take pride in our strategic location, nestled between the iconic Sagrada Familia and Casa Batlló, with easy access to the Passeig de Gracia train station. Our dedicated staff strives to ensure every guest feels welcomed and valued, and we're thrilled that you felt the warmth of our hospitality, especially on your birthday. We're delighted that you enjoyed our delicious breakfast spread and found it to be the perfect start for your day of exploration. Although the weather didn't permit a dip in our rooftop pool, we're pleased that you still appreciated the stunning view.\n\nThank you once again for your kind words, and we look forward to welcoming you back soon for another memorable stay!\n\nWarm regards,\n\nAsun Pareja\nHotel Manager\ndireccioneuropark@nnhotels.com",
+        "lang": "en",
+        "author": "Asun Pareja",
+        "published_date": "2024-03-20T07:30:37Z"
+      }
+    }
+  ]
+}

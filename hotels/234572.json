@@ -1,0 +1,219 @@
+{
+  "location_id": "234572",
+  "name": "U232 Hotel",
+  "description": "Hotel U232 is located within the shopping and business zone of Plaza Francesc Macià, nestled between Avenida Diagonal and Paseo de Gracia. Easily accessible from all parts of the city, the hotel is just steps away from notable sites like Hospital Clinic and Camp Nou.The hotel offers 102 fully equipped rooms, including triple and family rooms, and an exclusive Top Room with private terrace. U232 also offers guests access to two meeting rooms, a fitness center, business center with complimentary Internet access, and a peaceful terrace-solarium.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d234572-Reviews-U232_Hotel-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Comte d'Urgell, 232",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08036",
+    "address_string": "Comte d'Urgell, 232, 08036 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.389725",
+  "longitude": "2.148989",
+  "timezone": "Europe/Madrid",
+  "phone": "01134933224153",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d234572-U232_Hotel-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#102 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "102"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "3967",
+  "review_rating_count": {
+    "1": "40",
+    "2": "78",
+    "3": "232",
+    "4": "1211",
+    "5": "2406"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1228",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d234572-m66827-Reviews-U232_Hotel-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Non-smoking rooms",
+    "Room service",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Catalan",
+    "24-Hour Check-in",
+    "Complimentary Tea",
+    "English",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Laptop Safe",
+    "Spanish",
+    "Bidet",
+    "Breakfast in the Room",
+    "Cable / Satellite TV",
+    "Desk",
+    "Complimentary Toiletries",
+    "French",
+    "German",
+    "Ironing Service",
+    "Italian",
+    "Newspaper",
+    "Paid Public Parking Nearby",
+    "Sun Terrace",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Mid-range",
+    "City View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230970",
+      "name": "Eixample"
+    },
+    {
+      "location_id": "15565886",
+      "name": "L'Antiga Esquerra de l'Eixample"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "362"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "2027"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "179"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "639"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "435"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

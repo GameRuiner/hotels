@@ -1,0 +1,187 @@
+{
+  "location_id": "1522778",
+  "name": "Amphoras Blu Hotel",
+  "description": "If you’re looking for a family-friendly hotel in Sharm El Sheikh, look no further than Amphoras Blu Hotel. While staying at Amphoras Blu Hotel, visitors can check out The Heavenly Cathedral (2.1 mi) and Al Mustafa Mosque (2.1 mi), some of Sharm El Sheikh's top attractions. Guest rooms offer a flat screen TV and air conditioning, and Amphoras Blu Hotel makes getting online easy as free internet access is available. You can also take advantage of some of the amenities offered by the hotel, including room service and a concierge. In addition, guests can enjoy a pool and free breakfast during their visit. As an added convenience, there is free parking available to guests. While visiting Sharm El Sheikh, you may want to try some dumplings at one of the nearby restaurants, such as Little Buddha. The staff at Amphoras Blu Hotel looks forward to serving you during your upcoming visit.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d1522778-Reviews-Amphoras_Blu_Hotel-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "31 Salah Taher St.",
+    "street2": "Om El-Seid Cliff",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "postalcode": "99999",
+    "address_string": "31 Salah Taher St. Om El-Seid Cliff, Sharm El Sheikh 99999 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.86888",
+  "longitude": "34.32015",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d1522778-Amphoras_Blu_Hotel-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#62 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "62"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "2050",
+  "review_rating_count": {
+    "1": "80",
+    "2": "77",
+    "3": "140",
+    "4": "462",
+    "5": "1291"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "2958",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d1522778-m66827-Reviews-Amphoras_Blu_Hotel-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Room service",
+    "Fitness center",
+    "Restaurant",
+    "Beachfront",
+    "Bar/Lounge",
+    "Beach Access",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Suites",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Airport transportation",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Private Beaches",
+    "Free airport transportation",
+    "Arabic",
+    "Diving",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "24-Hour Front Desk",
+    "Gift Shop",
+    "Karaoke",
+    "Massage",
+    "Russian",
+    "Shops",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Great View",
+    "Charming"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "8"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "535"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "151"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "600"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "570"
+    }
+  ],
+  "awards": []
+}

@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "id": 919492319,
+      "lang": "en",
+      "location_id": 25214481,
+      "published_date": "2023-10-02T14:08:34Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d25214481-r919492319-Reviews-Westminster_Boulevard_Point-Dubai_Emirate_of_Dubai.html?m=66827#review919492319",
+      "text": "We have to say that this was one of the best places we stayed!  It is just a stones throw away from Dubai Mall and the views from the swimming pool are absolutely amazing, and you can even watch the fountain show from the pool!  We were really impressed it is a real \"home away from home\".   We could not have picked a better place, and the host was so friendly, and took no deposit at all!  The accommodation had all you needed including a washing machine to make your holiday complete!  The security was great and the apartment was serviced and cleaned everyday.  The price was extremely good for what was on offer, and the location!  A big thumbs up from us! ",
+      "title": "Great Place!",
+      "trip_type": "Family",
+      "travel_date": "2023-08-31",
+      "user": {
+        "username": "tripsof2021",
+        "user_location": {
+          "id": "186390",
+          "name": "Guildford, Surrey, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/07/67/3f/5f/fitchyfam.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/07/67/3f/5f/fitchyfam.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/07/67/3f/5f/fitchyfam.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/07/67/3f/5f/fitchyfam.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/07/67/3f/5f/fitchyfam.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 873814616,
+      "lang": "en",
+      "location_id": 25214481,
+      "published_date": "2023-01-03T16:09:07Z",
+      "rating": 2,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d25214481-r873814616-Reviews-Westminster_Boulevard_Point-Dubai_Emirate_of_Dubai.html?m=66827#review873814616",
+      "text": "This hotel for a start is not a hotel. It is a rental apartment. There arent any services like a regular hotel. They give you their whats app when u pay a 2000 aed guarantee for the room and this building has only a security guy upon entering. This is like a big skyscraper on which Westminster operates some apartments. The kitchen has a faulty pipe drainage awful smell which they couldn’t sex for as long as we were staying there (9 days). The fridge was broken and didn’t work and they didn’t even bring a substitute even a small one. The original frodge came fixed after 9 days so we had no food stored and not chilled water. They didnt have european plugs we had to buy 6 plugs since we were five people and we had a lot of phones and iPads. The TV controller was missing from the main room. The towels were worn out and smelly and they provided very little amount of towels in my bath. Much even shampoos. You had to buy most of the cleaning year for the kitchen and sponges/detergents etc. There wasnt any breakfast at the building and the driver we had couldn’t leave his car for 1110 minutes we are they are parking lot. The carpets were awfully 30 and the cleaning maids were just 1 guy doing basic stuff who didnt help us when we wanted extra towels. The air condition made a terrible noise in the living room and didn’t provide any cold air and electricity usually fell in half of the apartment and we had to wait for 12 hours for someone to restore it. The apartment was overall dirty (sofas, counter, cupboards, fridge, bathrooms had mouldy joints on tiles). We didnt get many fotos of these since we only stayed for sleeping we couldnt stand the smell. The staff was always responding to our text with “noted madam” and couldnt fix even though random people came over, using our spare key and littering the kitchen every time they came. Apart from these, The sheets were very comfy. The view was amazing and the location was exceptional since it was very near the dubai mall entrance.",
+      "title": "The person responsible said if we made a positive review and not write the problems would give us a 50% for our nextstay",
+      "trip_type": "Family",
+      "travel_date": "2022-12-31",
+      "user": {
+        "username": "athinab_12",
+        "user_location": {
+          "id": "189400",
+          "name": "Athens, Attica"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ea/2e/default-avatar-2020-67.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

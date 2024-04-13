@@ -1,0 +1,226 @@
+{
+  "location_id": "23624061",
+  "name": "Rove City Walk",
+  "description": "Rove City Walk, a contemporary hotel operated by the award-winning Rove Hotels, a joint venture between Meraas and Emaar Properties PJSC. The hotels design is inspired by its local environment and an uncommon Dubai using art to tell stories and create irresistible instagrammable moments throughout the hotel and is expected to be equally attractive to business travellers and holidaymakers. Connectivity is key here as the hotel has a spectacular location in the heart of the city, only 15 minutes from the Dubai International Airport, and is within walking distance of the iconic Dubai Arena in City Walk and the Jumeirah beach, as well as Burj Khalifa and The Dubai Mall in Downtown Dubai. The hotel features 566 comfy rooms of which 30 percent are interconnecting and offers a rich array of amenities for the modern traveller including free Wi-Fi access, designer mattresses, sofa beds for extra guests, a convenient mini- fridge, a large safe, and a modern bathroom with power rain showers. The hotel also has the convenience of late check-out at 2pm, a 24-hour gym, a welcoming pool and sun deck cultivate a relaxing ambience. A 24-hour self-service Laundromat, luggage storerooms and safety deposit boxes, exclusive cafes and restaurant as well as lots of games in common areas, all adding to the independent lifestyle of its guests. Rove lives up to its reputation as a social hub. The Daily is an all-day neighbourhood hangout where you can eat in or ‘grab and go’ with quality coffee and healthy globally inspired food served till late.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d23624061-Reviews-Rove_City_Walk-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Safa road",
+    "street2": "Al Wasl, Junction-Sheikh Zayed Rd",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Al Safa road Al Wasl, Junction-Sheikh Zayed Rd, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.208",
+  "longitude": "55.26439",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d23624061-Rove_City_Walk-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#84 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "84"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "882",
+  "review_rating_count": {
+    "1": "8",
+    "2": "3",
+    "3": "16",
+    "4": "84",
+    "5": "771"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "497",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d23624061-m66827-Reviews-Rove_City_Walk-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Shuttle Bus Service",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Self-Serve Laundry",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Non-smoking hotel",
+    "Safe",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Electric vehicle charging station",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bottled Water",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Complimentary Instant Cofffee",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Kids' Meals",
+    "Outdoor Furniture",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "24-Hour Security",
+    "Secured Parking",
+    "Special Diet Menus",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Flatscreen TV",
+    "Parking",
+    "Clothes Rack",
+    "Currency Exchange",
+    "Filipino",
+    "Laptop Safe",
+    "Outdoor Dining Area",
+    "Private Bathrooms",
+    "Russian",
+    "Saltwater Pool",
+    "Soundproof Rooms",
+    "Sun Deck",
+    "Sun Loungers / Beach Chairs",
+    "Swimming Pool Toys",
+    "Walk-in Shower"
+  ],
+  "parent_brand": "Rove Hospitality LLC",
+  "brand": "Rove Hotels",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Boutique",
+    "City View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620601",
+      "name": "Al Satwa"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "179"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "129"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "78"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "170"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "92"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

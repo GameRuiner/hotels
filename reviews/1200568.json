@@ -1,0 +1,244 @@
+{
+  "data": [
+    {
+      "id": 944217344,
+      "lang": "en",
+      "location_id": 1200568,
+      "published_date": "2024-03-28T03:23:00Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d1200568-r944217344-Reviews-Ibis_Dubai_Mall_of_the_Emirates_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review944217344",
+      "text": "Amazing stay. Thanx to Khaled at the front desk for his amazing and prompt service. Keep up the good work. I will definitely be back because Ibis has been my favourite for years. The chicken and avo burger from in room dining was also very satisfying.",
+      "title": "Amazing service",
+      "trip_type": "Business",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "alexislorenm",
+        "user_location": {
+          "id": "294009",
+          "name": "Doha"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/2b/5b/12/2f/alexis-loren-m.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/2b/5b/12/2f/alexis-loren-m.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/2b/5b/12/2f/alexis-loren-m.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/2b/5b/12/2f/alexis-loren-m.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/2b/5b/12/2f/alexis-loren-m.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 944355857,
+        "title": "Owner response",
+        "text": "Dear Valued guest,\n\nWe very much appreciate your comments regarding your stay at Ibis Dubai Mall of the Emirates.\n\nIt is always a pleasure to receive positive feedback. I will share your comments with our team. I am sure that this feedback will serve as an encouragement to all of our staff as we strive to continuously improve the quality of our services.\n\nThank you again for sharing your experience, and we hope your next visit will be as pleasant as the previous one.\n\nSincerely,\n\nGhaith Dalati\nHotel Manager\nNovotel Suites & Ibis Mall of the Emirates Dubai.\n",
+        "lang": "en",
+        "author": "Novotel Suites MOE",
+        "published_date": "2024-03-29T06:24:22Z"
+      }
+    },
+    {
+      "id": 944128002,
+      "lang": "en",
+      "location_id": 1200568,
+      "published_date": "2024-03-27T08:41:40Z",
+      "rating": 2,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d1200568-r944128002-Reviews-Ibis_Dubai_Mall_of_the_Emirates_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review944128002",
+      "text": "Good aspects include cleanliness and a convenient location close to Mall of the Emirates and the Metro, facilitating easy access to shopping and transportation. \n\nHowever, the hotel is marred by several negative aspects. The service is notably slow, affecting the overall experience. Furthermore, interactions with some staff members can be unpleasant due to their rudeness, which detracts from the hospitality expected at a hotel. A particularly disappointing aspect is the hotel's apparent stinginess in service, which is palpable and diminishes the value of staying here. These shortcomings contribute to an overall impression that this is among the least satisfactory 3-star hotel experiences available in Dubai. Despite its few positives, the negatives heavily overshadow, making it difficult to recommend for those seeking a pleasant stay.",
+      "title": "Stingy and Slow",
+      "trip_type": "Business",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Efemosa",
+        "user_location": {
+          "id": "155019",
+          "name": "Toronto, Ontario"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/16/85/1e/9d/effatmosa.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/16/85/1e/9d/effatmosa.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/16/85/1e/9d/effatmosa.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/16/85/1e/9d/effatmosa.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/85/1e/9d/effatmosa.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944356097,
+        "title": "Owner response",
+        "text": "Dear Valued guest,\n\nThank you for taking the time to tell us about your experience at the ibis Dubai Mall of the Emirates. I am sorry that your experience did not meet your expectations; please allow me to express my sincerest apologies.\n\nAt Ibis, we strive to provide a superior service experience for every customer; therefore your feedback is very important to us. Please rest assured that we are taking the appropriate measures to address the problem and prevent future occurrence.\n\nWe appreciate your sharing your concerns, and it is our hope that you will give us the opportunity to better serve you in the near future.\n\nSincerely,\nGhaith Dalati\nHotel Manager\nNovotel Suites & Ibis Mall of the Emirates\n",
+        "lang": "en",
+        "author": "Novotel Suites MOE",
+        "published_date": "2024-03-29T06:26:36Z"
+      }
+    },
+    {
+      "id": 943968684,
+      "lang": "en",
+      "location_id": 1200568,
+      "published_date": "2024-03-27T02:32:00Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d1200568-r943968684-Reviews-Ibis_Dubai_Mall_of_the_Emirates_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review943968684",
+      "text": "Abikesh was polite and diligent at work. The room was cleaned on time and linens changed regularly. Overall it was a pleasant stay during my travel to Dubai at the Ibis property. The staff are well trained and the location is close to Mall of Emirates.",
+      "title": "Excellemt staff behaviour at property",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "pratyushr2024",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e9/bb/default-avatar-2020-65.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 944355812,
+        "title": "Owner response",
+        "text": "Dear Valued guest,\n\nWe very much appreciate your comments regarding your stay at Ibis Dubai Mall of the Emirates.\n\nIt is always a pleasure to receive positive feedback. I will share your comments with our team. I am sure that this feedback will serve as an encouragement to all of our staff as we strive to continuously improve the quality of our services.\n\nThank you again for sharing your experience, and we hope your next visit will be as pleasant as the previous one.\n\nSincerely,\n\nGhaith Dalati\nHotel Manager\nNovotel Suites & Ibis Mall of the Emirates Dubai.\n",
+        "lang": "en",
+        "author": "Novotel Suites MOE",
+        "published_date": "2024-03-29T06:23:51Z"
+      }
+    },
+    {
+      "id": 937458008,
+      "lang": "en",
+      "location_id": 1200568,
+      "published_date": "2024-02-08T13:13:07Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d1200568-r937458008-Reviews-Ibis_Dubai_Mall_of_the_Emirates_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review937458008",
+      "text": "Ibis is very blissful place. Customer service from the Receptionist Mr Abhinav is top. Always attentive to customer request. Deliver a high standard of customer service and care.\nWith a beautiful smile and humbleness.\nThanks for making us feeling like home always.",
+      "title": "Good place to be I just wish they were a a private room for business meetings",
+      "trip_type": "Family",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "anochic",
+        "user_location": {
+          "id": "189158",
+          "name": "Lisbon, Lisbon District, Central Portugal"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e8/91/default-avatar-2020-62.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 937601534,
+        "title": "Owner response",
+        "text": "Dear Valued guest,\n\nWe very much appreciate your comments regarding your stay at Ibis Dubai Mall of the Emirates.\n\nIt is always a pleasure to receive positive feedback. I will share your comments with our team. I am sure that this feedback will serve as an encouragement to all of our staff as we strive to continuously improve the quality of our services.\n\nThank you again for sharing your experience, and we hope your next visit will be as pleasant as the previous one.\n\nSincerely,\n\nGhaith Dalati\nHotel Manager\nNovotel Suites & Ibis Mall of the Emirates Dubai.\n",
+        "lang": "en",
+        "author": "Novotel Suites MOE",
+        "published_date": "2024-02-10T02:34:59Z"
+      }
+    },
+    {
+      "id": 936605065,
+      "lang": "en",
+      "location_id": 1200568,
+      "published_date": "2024-02-02T08:34:19Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d1200568-r936605065-Reviews-Ibis_Dubai_Mall_of_the_Emirates_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review936605065",
+      "text": "Excellent service and helping staff specially robin and Saeed and hotel was very good near to mall of emirates and metro station . Location is very beautiful. Excellent breakfast and best housekeeping and receptionist pari . Room was very clean",
+      "title": "I am coming for business exhibition and vacation this hotel is near by my exibition side . Dubai is very safe and clean",
+      "trip_type": "Business",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "hashrulez",
+        "user_location": {
+          "id": "295413",
+          "name": "Lahore, Punjab Province"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/de/e7/default-avatar-2020-37.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/de/e7/default-avatar-2020-37.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/de/e7/default-avatar-2020-37.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/de/e7/default-avatar-2020-37.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/de/e7/default-avatar-2020-37.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 936662416,
+        "title": "Owner response",
+        "text": "Dear Valued guest,\n\nWe very much appreciate your comments regarding your stay at Ibis Dubai Mall of the Emirates.\n\nIt is always a pleasure to receive positive feedback. I will share your comments with our team. I am sure that this feedback will serve as an encouragement to all of our staff as we strive to continuously improve the quality of our services.\n\nThank you again for sharing your experience, and we hope your next visit will be as pleasant as the previous one.\n\nSincerely,\n\nGhaith Dalati\nHotel Manager\nNovotel Suites & Ibis Mall of the Emirates Dubai.\n",
+        "lang": "en",
+        "author": "Novotel Suites MOE",
+        "published_date": "2024-02-02T21:19:32Z"
+      }
+    }
+  ]
+}

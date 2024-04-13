@@ -1,0 +1,279 @@
+{
+  "location_id": "1642600",
+  "name": "Ramada By Wyndham Downtown Dubai",
+  "description": "Ramada Downtown Dubai is located in the most popular district overlooking the Burj Khalifa and Dubai Fountain next to Dubai Opera. It is just 10-min walk to Dubai Mall and Souk Al Bahar and a short drive away to Emaar Business Square, Media City, DIFC, Health Care City, Internet City and DWTC. Other popular destinations like Jumeirah beach, Mall of the Emirates and Water Canal can be reached by the nearest metro station. International Airport is 20-min drive away and DWC Airport is accessible in 35 minutes. The 181 suites is comprised of premium studio, 1 and 2-bedroom apartments and a penthouse with 3 bedrooms and a guest's room. It has a temperature-controlled swimming pool, badminton court, a gym with a steam room, a wellness center, kids' pool, and children's indoor & outdoor play areas. The all-day dining restaurant, Kenza serves international and favorite Arabic dishes, and a coffee shop al fresco at the lobby great for meet-ups. In-room dining is also available 24 hours. For business travelers, meeting rooms are equipped with the latest in communications technology with a business center.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1642600-Reviews-Ramada_By_Wyndham_Downtown_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Boulevard Street",
+    "street2": "Downtown, Burj Khalifa",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Boulevard Street Downtown, Burj Khalifa, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.1928",
+  "longitude": "55.273",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1642600-Ramada_By_Wyndham_Downtown_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#13 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "13"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "8295",
+  "review_rating_count": {
+    "1": "106",
+    "2": "72",
+    "3": "244",
+    "4": "1068",
+    "5": "6805"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "3878",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1642600-m66827-Reviews-Ramada_By_Wyndham_Downtown_Dubai-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Free Internet",
+    "Free Wifi",
+    "Laundry Service",
+    "Suites",
+    "Kitchenette",
+    "Pool",
+    "Internet",
+    "Kids Activities",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Smoking rooms available",
+    "Microwave",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Non-smoking hotel",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Additional Bathroom",
+    "Allergy-free Room",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Clothes Dryer",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Convenience Store",
+    "Couples Massage",
+    "Currency Exchange",
+    "Darts",
+    "Desk",
+    "Dishwasher",
+    "Doorperson",
+    "English",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Head Massage",
+    "Hindi",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Kitchenware",
+    "Massage",
+    "Newspaper",
+    "Parking Garage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Seating Area",
+    "24-Hour Security",
+    "Snack Bar",
+    "Soundproof Rooms",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Taxi Service",
+    "Telephone",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Washing Machine",
+    "Kids pool",
+    "Badminton",
+    "Bidet",
+    "Cable / Satellite TV",
+    "Children's Television Networks",
+    "Children's Playground",
+    "Clothes Rack",
+    "Dining Area",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Complimentary Welcome Drink",
+    "Free Wifi in the Business Center",
+    "Full Body Massage",
+    "Highchairs Available",
+    "Landmark View",
+    "Laptop Safe",
+    "Outdoor Dining Area",
+    "Oven",
+    "Pool View",
+    "Private Bathrooms",
+    "Radio",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Sofa",
+    "Stovetop",
+    "Ukrainian",
+    "Umbrella",
+    "Urdu",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "parent_brand": "Wyndham Hotel Group",
+  "brand": "Ramada",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Park View",
+    "Centrally Located"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7282431",
+      "name": "Downtown Dubai"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "905"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1757"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "501"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "3419"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "851"
+    }
+  ],
+  "awards": []
+}

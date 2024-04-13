@@ -1,0 +1,345 @@
+{
+  "location_id": "1192327",
+  "name": "Capri by Fraser Barcelona",
+  "description": "This modern hotel and serviced apartment residence is located in Barcelona's trendy 22th business district and 3 Metro stops from Plaza Catalunya. Enjoy the sun and a few cocktails or appreciate a cultural performance at one of Spain's finest theatres. Access to the nightlife of the Olympic port's restaurants, cafes and lively bars is not far. A mere 15 minutes' walk from Barcelona's beaches and the Marina (Olympic village), as to the National Theatre and the Auditorium, are opposite. Our Restaurant features a full continental buffet offering both hot and cold fare. Along with breakfast, the Capri by Fraser offers both European and Spanish dishes at its restaurant serving lunch until 4.00 pm Monday through to Friday. In addition, room service is also available. The hotel has a 24-hour front desk with concierge services providing local information, theatre tickets, restaurant and sight-seeing recommendations and even car rental. Capri by Fraser offers spacious air-conditioned studios and apartments with 21-32\" flat-screen TV offering multi-lingual channels, a living room with sofa and seating area with double-glazed windows. There is a kitchenette, desk, digital safe, and bathrooms are equipped with hairdryer and bathroom welcome amenities. In addition, the property offers free Wi-Fi to all guests both in the apartment as well as spacious lounge and a business centre. Private car parking is also available at the hotel.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d1192327-Reviews-Capri_by_Fraser_Barcelona-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Carrer de Sancho de Avila, 34",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08018",
+    "address_string": "Carrer de Sancho de Avila, 34, 08018 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.397743",
+  "longitude": "2.188899",
+  "timezone": "Europe/Madrid",
+  "phone": "01134933208735",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d1192327-Capri_by_Fraser_Barcelona-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#152 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "152"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1394",
+  "review_rating_count": {
+    "1": "33",
+    "2": "39",
+    "3": "113",
+    "4": "550",
+    "5": "659"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "552",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d1192327-m66827-Reviews-Capri_by_Fraser_Barcelona-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Room service",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Suites",
+    "Kitchenette",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Accessible rooms",
+    "Microwave",
+    "Refrigerator in room",
+    "Conference Facilities",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Catalan",
+    "24-Hour Check-in",
+    "Desk",
+    "English",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Indoor Play Area for Children",
+    "Parking Garage",
+    "Paid Private Parking Nearby",
+    "Spanish",
+    "Taxi Service",
+    "Public Wifi",
+    "Allergy-free Room",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Bulgarian",
+    "Clothes Dryer",
+    "Coffee / Tea Maker",
+    "Dining Area",
+    "Electric Kettle",
+    "First Aid Kit",
+    "French",
+    "Highchairs Available",
+    "Iron",
+    "Ironing Service",
+    "Italian",
+    "Kitchenware",
+    "Laptop Safe",
+    "Newspaper",
+    "Outdoor Furniture",
+    "Private Bathrooms",
+    "Paid Private Parking On-site",
+    "Russian",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Sofa",
+    "Soundproof Rooms",
+    "Stovetop",
+    "Sun Deck",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Washing Machine",
+    "Beach Access"
+  ],
+  "parent_brand": "Frasers",
+  "brand": "Capri by Fraser",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Modern",
+    "City View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15565880",
+      "name": "Sant Marti"
+    },
+    {
+      "location_id": "15565922",
+      "name": "El Parc i la Llacuna del Poblenou"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "107"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "320"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "14"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "642"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "144"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

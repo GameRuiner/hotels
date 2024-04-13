@@ -1,0 +1,276 @@
+{
+  "location_id": "23706906",
+  "name": "25hours Hotel Dubai One Central",
+  "description": "One Central's new living room is here. Relaxed, fun and packed full of things to do. Guests of the 25hours Hotel One Central can experience how the ancient traditions of the Bedouins are brought back to a modern life. Overlooking the Museum of the Future, near Dubai International Financial Centre, the hotel boasts 434 rooms and suites in addition to flexible events and co-working space. A total of five characterful restaurants and bars take guests on a culinary trip around the world from Northern India to the Beer Gardens of Bavaria: this is where urban nomads meet desert flowers, where local heroes meet the well-traveled. Alongside rental of MINI cars and Schindelhauer bikes the hotel will also feature The Extra Hour Spa and Dubai's first mixed-use rooftop sauna.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d23706906-Reviews-25hours_Hotel_Dubai_One_Central-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Trade Centre Street",
+    "street2": "Off Sheikh Zayed Road",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "9914",
+    "address_string": "Trade Centre Street Off Sheikh Zayed Road, Dubai 9914 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.21942",
+  "longitude": "55.2844",
+  "timezone": "Asia/Dubai",
+  "phone": "01197142102525",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d23706906-25hours_Hotel_Dubai_One_Central-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#291 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "291"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "584",
+  "review_rating_count": {
+    "1": "22",
+    "2": "23",
+    "3": "28",
+    "4": "50",
+    "5": "462"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "944",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d23706906-m66827-Reviews-25hours_Hotel_Dubai_One_Central-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Minibar",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Outdoor pool",
+    "Housekeeping",
+    "Sauna",
+    "Allergy-free Room",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Bottled Water",
+    "24-Hour Check-in",
+    "Coffee Shop",
+    "Complimentary Tea",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Evening Entertainment",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Game Room",
+    "Gift Shop",
+    "Hair Dryer",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Newspaper",
+    "Nightclub / DJ",
+    "Outdoor Furniture",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Salon",
+    "24-Hour Security",
+    "Special Diet Menus",
+    "Sun Umbrellas",
+    "Telephone",
+    "Free Internet",
+    "Free parking",
+    "Wifi",
+    "Family Rooms",
+    "Conference Facilities",
+    "Swimup Bar",
+    "Flatscreen TV",
+    "Bicycle Rental",
+    "Bidet",
+    "Bicycles Available",
+    "Board Games / Puzzles",
+    "Breakfast in the Room",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "Express Check-in / Check-out",
+    "Children's Television Networks",
+    "Clothes Rack",
+    "Couples Massage",
+    "Currency Exchange",
+    "Facial Treatments",
+    "Filipino",
+    "First Aid Kit",
+    "Fitness Classes",
+    "Foot Bath",
+    "Foot Massage",
+    "French",
+    "Full Body Massage",
+    "German",
+    "Hand Massage",
+    "Happy Hour",
+    "Head Massage",
+    "Highchairs Available",
+    "Hindi",
+    "Indonesian",
+    "Infirmary",
+    "Iron",
+    "Italian",
+    "Kids' Meals",
+    "Laptop Safe",
+    "Makeup Services",
+    "Neck Massage",
+    "Outdoor Dining Area",
+    "Portuguese",
+    "Private Bathrooms",
+    "Private Check-in / Check-out",
+    "Russian",
+    "Seating Area",
+    "Sinhala",
+    "Sofa",
+    "Sofa Bed",
+    "Spanish",
+    "Steam Room",
+    "Sun Deck",
+    "Sun Terrace",
+    "Taxi Service",
+    "Tile / Marble Floor",
+    "Umbrella",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Whirlpool Bathtub",
+    "Wine / Champagne",
+    "Yoga Classes"
+  ],
+  "parent_brand": "Accor",
+  "brand": "25hours Hotels",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "City View",
+    "Luxury"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "150"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "95"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "92"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "76"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "98"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

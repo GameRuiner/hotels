@@ -1,0 +1,214 @@
+{
+  "location_id": "2615948",
+  "name": "Pearl Marina Hotel Apartments",
+  "description": "Pearl Marina offers modern accommodations in Dubai Marina. Each has free Wi-Fi and a fully equipped kitchen. Guests can enjoy swimming in the outdoor pool or relax on the sun terrace. The kitchen comes with a microwave and cooking facilities. Free toiletries are in the bathroom, and most accommodations have a washing machine. Soft colours and tiled floors are part of the bright décor. Dubai Marina Mall is a 5-minute drive away, and the Mall of the Emirates is 20 minutes by car. Several restaurants are within walking distance. Luggage storage and newspapers are available at the front desk. Pearl Marina also has a gym with modern cardio equipment. Couples particularly like the location — they rated it 8.6 for a two-person trip. This property is also rated for the best value in Dubai! Guests are getting more for their money when compared to other properties in this city.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d2615948-Reviews-Pearl_Marina_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Marsa Street",
+    "street2": "Marina WaterFront, Dubai Marina",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "",
+    "address_string": "Al Marsa Street Marina WaterFront, Dubai Marina, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.0714",
+  "longitude": "55.1292",
+  "timezone": "Asia/Dubai",
+  "phone": "01197144471717",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d2615948-Pearl_Marina_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#112 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "112"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1077",
+  "review_rating_count": {
+    "1": "13",
+    "2": "19",
+    "3": "69",
+    "4": "244",
+    "5": "732"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "822",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d2615948-m66827-Reviews-Pearl_Marina_Hotel_Apartments-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Free parking",
+    "Wifi",
+    "Free Wifi",
+    "Pool",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Kitchenette",
+    "Airport transportation",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Microwave",
+    "Refrigerator in room",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Outdoor pool",
+    "Parking",
+    "Arabic",
+    "Baggage Storage",
+    "Car Hire",
+    "English",
+    "Filipino",
+    "Hindi",
+    "Kitchenware",
+    "Parking Garage",
+    "24-Hour Security",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Public Wifi",
+    "Smoking rooms available",
+    "Breakfast Available",
+    "Facilities for Disabled Guests",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Harbor View",
+    "Marina View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7282432",
+      "name": "The Marina"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "65"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "311"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "66"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "353"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "148"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

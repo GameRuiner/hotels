@@ -1,0 +1,308 @@
+{
+  "location_id": "3249050",
+  "name": "Elite Byblos Hotel",
+  "description": "Elite Byblos Hotel is committed to creating a memorable Dubai experience, ensuring you check-in as a guest, check-out being a friend. Located conveniently in one of the most prime areas in the city, this 5 star property is a 6 minute walk from the iconic Mall of the Emirates and has constant shuttle services to get you anywhere you want to go! From a 15 minute drive to get to the beach or a customized desert safari trip, our staff are ready to cater all our services for your convenience. Our many different room categories ensure there is something for everyone, with all guests enjoying the same contemporary high end standards embedded into every detail of this hotel experience. Our aim is for guests to happily call Elite Byblos Hotel home for the duration of their stay as they take in the stylish and modern facilities provided for a comfortably pleasant stay. Elite Byblos Hotel, managed by the esteemed Byblos Hospitality Group, is proud of their attentive and well qualified staff, who will always have a warm welcoming smile to match high quality service 24 hours a day. Explore Dubai from Elite Byblos Hotel and enjoy your stay!",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d3249050-Reviews-Elite_Byblos_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Barsha Road",
+    "street2": "Barsha 1, Behind Mall Of The Emirates",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Al Barsha Road Barsha 1, Behind Mall Of The Emirates, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.113811",
+  "longitude": "55.20017",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d3249050-Elite_Byblos_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#347 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "347"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1821",
+  "review_rating_count": {
+    "1": "45",
+    "2": "46",
+    "3": "142",
+    "4": "481",
+    "5": "1107"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1029",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d3249050-m66827-Reviews-Elite_Byblos_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Bar/Lounge",
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Free parking",
+    "Free Wifi",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Butler Service",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Ironing Service",
+    "24-Hour Security",
+    "Taxi Service",
+    "Public Wifi",
+    "Sauna",
+    "ATM On Site",
+    "Bathrobes",
+    "Bidet",
+    "Billiards",
+    "Breakfast in the Room",
+    "Cable / Satellite TV",
+    "Children's Television Networks",
+    "Clothes Rack",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Couples Massage",
+    "Currency Exchange",
+    "Dining Area",
+    "Electric Kettle",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Executive Lounge Access",
+    "Facial Treatments",
+    "First Aid Kit",
+    "Foot Massage",
+    "Complimentary Instant Cofffee",
+    "Free Wifi in the Business Center",
+    "Full Body Massage",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Hand Massage",
+    "Happy Hour",
+    "Head Massage",
+    "Highchairs Available",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Iron",
+    "Kid-Friendly Buffet",
+    "Laptop Safe",
+    "Makeup Services",
+    "Manicure",
+    "Massage",
+    "Massage Chair",
+    "Neck Massage",
+    "Newspaper",
+    "Nightclub / DJ",
+    "Outdoor Dining Area",
+    "Outdoor Furniture",
+    "Pedicure",
+    "Personal Trainer",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Private Bathrooms",
+    "Paid Public Parking Nearby",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "Secured Parking",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Shoeshine",
+    "Shops",
+    "Snack Bar",
+    "Sofa",
+    "Steam Room",
+    "Street Parking",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Telephone",
+    "Urdu",
+    "Valet Parking",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet",
+    "Waxing Services",
+    "Wine / Champagne",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Classic",
+    "Centrally Located"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620543",
+      "name": "Al Barsha"
+    },
+    {
+      "location_id": "15620544",
+      "name": "Al Barsha 1"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "315"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "534"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "111"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "512"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "199"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

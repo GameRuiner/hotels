@@ -1,0 +1,252 @@
+{
+  "location_id": "10683772",
+  "name": "H10 Casa Mimosa",
+  "description": "H10 Casa Mimosa is a superior hotel situated in the Eixample district in Barcelona, 100 metres from La Pedrera. Guests can enjoy the on-site bar and a breakfast restaurant. Casa Batllo is 600 metres from H10 Casa Mimosa, while Plaça Catalunya is 1.2 km from the property. The nearest airport is Barcelona El Prat Airport, 13 km from H10 Casa Mimosa. Eixample is a great choice for travellers interested in architecture, food and art.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d10683772-Reviews-H10_Casa_Mimosa-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Carrer de Pau Claris, 179",
+    "street2": "Hb-004739",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08037",
+    "address_string": "Carrer de Pau Claris, 179 Hb-004739, 08037 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.39626",
+  "longitude": "2.162194",
+  "timezone": "Europe/Madrid",
+  "phone": "01134932202270",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d10683772-H10_Casa_Mimosa-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#32 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "32"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "887",
+  "review_rating_count": {
+    "1": "8",
+    "2": "5",
+    "3": "9",
+    "4": "68",
+    "5": "797"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "878",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d10683772-m66827-Reviews-H10_Casa_Mimosa-Barcelona_Catalonia.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Wifi",
+    "Free Wifi",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Minibar",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Baggage Storage",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Catalan",
+    "24-Hour Check-in",
+    "Coffee / Tea Maker",
+    "English",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Ironing Service",
+    "Outdoor Furniture",
+    "Pool with View",
+    "Soundproof Rooms",
+    "Spanish",
+    "Sun Terrace",
+    "Taxi Service",
+    "Banquet Room",
+    "Accessible rooms",
+    "Conference Facilities",
+    "Breakfast Buffet",
+    "Breakfast Available",
+    "Express Check-in / Check-out",
+    "Desk",
+    "Extra Long Beds",
+    "Complimentary Welcome Drink",
+    "French",
+    "Interconnected room(s) available",
+    "Iron",
+    "Landmark View",
+    "Russian",
+    "Sofa Bed",
+    "Solarium",
+    "Sun Deck",
+    "Telephone",
+    "Umbrella",
+    "Walk-in Shower",
+    "Wardrobe / Closet"
+  ],
+  "parent_brand": "H10 Hotels",
+  "brand": "H10 Hotels",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Value",
+    "Romantic"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230970",
+      "name": "Eixample"
+    },
+    {
+      "location_id": "15565885",
+      "name": "La Dreta de l'Eixample"
+    },
+    {
+      "location_id": "15565927",
+      "name": "Passeig de Gracia"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "40"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "471"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "36"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "134"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "60"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "location_id": "1136585",
+  "name": "Mitsis Rodos Village",
+  "description": "Mitsis Rodos Village Beach Hotel & Spa, a great sea view, premium service five-star hotel in Rhodes, is an architectural masterpiece, built with impressive color combinations inspired by the old town of Rhodes. The hotel that is only 200 meters from Kiotari and 12 km from the picturesque Lindos is promising a warm homey hospitality. It offers 408 rooms providing all the comforts of a five-star hotel. Most of the rooms are situated in the main building, overlooking the magnificent gardens and the sea, while 140 rooms were completely refurbished to welcome you in 2017. Three swimming pools, , one tennis court, a beach volley court, a bridge room, table tennis, a gym, a Spa with sauna and steam bathan and an indoor swimming pool, a multilingual animation team, offering a daylong entertainment program and a variety of infrastructures compose an unparallel holiday scenery.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g1175546-d1136585-Reviews-Mitsis_Rodos_Village-Kiotari_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "city": "Kiotari",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "851 09",
+    "address_string": "Kiotari 851 09 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Kiotari",
+      "location_id": "1175546"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.056072",
+  "longitude": "27.973764",
+  "timezone": "Europe/Athens",
+  "phone": "2244047201",
+  "write_review": "https://www.tripadvisor.com/UserReview-g1175546-d1136585-Mitsis_Rodos_Village-Kiotari_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "1175546",
+    "ranking_string": "#9 of 16 hotels in Kiotari",
+    "geo_location_name": "Kiotari",
+    "ranking_out_of": "16",
+    "ranking": "9"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "3795",
+  "review_rating_count": {
+    "1": "121",
+    "2": "200",
+    "3": "458",
+    "4": "1073",
+    "5": "1943"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "4427",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g1175546-d1136585-m66827-Reviews-Mitsis_Rodos_Village-Kiotari_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Shuttle Bus Service",
+    "Non-smoking rooms",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Free parking",
+    "Internet",
+    "Wifi",
+    "Paid Wifi",
+    "Beachfront",
+    "Bar/Lounge",
+    "Tennis Court",
+    "Pool",
+    "Kids Activities",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Wheelchair access",
+    "Restaurant",
+    "Public Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Infinity Pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Private Pools",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bicycle Rental",
+    "Bottled Water",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Currency Exchange",
+    "Darts",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Game Room",
+    "German",
+    "Gift Shop",
+    "Greek",
+    "Hair Dryer",
+    "Ironing Service",
+    "Italian",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Pool / Beach Towels",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Breakfast Available",
+    "Archery",
+    "Bathrobes",
+    "Cable / Satellite TV",
+    "Clothes Rack",
+    "Couples Massage",
+    "Doorperson",
+    "First Aid Kit",
+    "Foot Massage",
+    "Hand Massage",
+    "Head Massage",
+    "Pool View",
+    "Private Bathrooms",
+    "Radio",
+    "Saltwater Pool",
+    "Sofa",
+    "Tile / Marble Floor",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet",
+    "Washing Machine",
+    "Waterslide",
+    "Water Sport Equipment Rentals",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Family",
+    "Bay View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "9"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1140"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "40"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1660"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "450"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

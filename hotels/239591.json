@@ -1,0 +1,192 @@
+{
+  "location_id": "239591",
+  "name": "Leonardo Hotel Barcelona Las Ramblas",
+  "description": "The Leonardo Hotel Barcelona Las Ramblas is situated in the centre of Barcelona's Old Town, just 200 metres from Las Ramblas. It features a rooftop terrace, 24-hour reception and free Wi-Fi access. The Leonardo Hotel Barcelona Las Ramblas offers simple, attractive décor and spacious rooms. Each has air conditioning, a flat-screen TV with satellite channels, as well as tea and coffee making facilities. The hotel serves a daily, buffet breakfast. There are several bars, cafés and restaurants within walking distance of the Leonardo Hotel Barcelona Las Ramblas. Guests can make use of computers with internet access, available in the hotel reception area. Staff at the tour desk can provide information on Barcelona's tourist attractions and arrange car rental. The Leonardo Hotel Barcelona Las Ramblas is 10 minutes' walk from Barcelona Cathedral and the city's Gothic Quarter. The Old Port is around 700 metres from the hotel, whilst Liceu Metro is a 5-minute walk awa",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d239591-Reviews-Leonardo_Hotel_Barcelona_Las_Ramblas-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Junta de Comerc 8",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08001",
+    "address_string": "Junta de Comerc 8, 08001 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.380066",
+  "longitude": "2.171172",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d239591-Leonardo_Hotel_Barcelona_Las_Ramblas-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#252 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "252"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "835",
+  "review_rating_count": {
+    "1": "45",
+    "2": "25",
+    "3": "89",
+    "4": "354",
+    "5": "322"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "352",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d239591-m66827-Reviews-Leonardo_Hotel_Barcelona_Las_Ramblas-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Non-smoking rooms",
+    "Wheelchair access",
+    "Suites",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Housekeeping",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Catalan",
+    "Desk",
+    "English",
+    "Complimentary Instant Cofffee",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "24-Hour Security",
+    "Spanish",
+    "Sun Terrace",
+    "Taxi Service",
+    "Telephone",
+    "Public Wifi",
+    "Facilities for Disabled Guests",
+    "German",
+    "Italian",
+    "Paid Public Parking Nearby",
+    "Vending Machine",
+    "Beach Access"
+  ],
+  "parent_brand": "Fattal Hotels Group",
+  "brand": "Leonardo",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Mid-range",
+    "Centrally Located"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15565874",
+      "name": "Ciutat Vella (Old Town)"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "18"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "358"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "15"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "255"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "118"
+    }
+  ],
+  "awards": []
+}

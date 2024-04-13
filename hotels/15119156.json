@@ -1,0 +1,261 @@
+{
+  "location_id": "15119156",
+  "name": "DoubleTree by Hilton Dubai Al Jadaf",
+  "description": "Classic Beauty, Modern Comfort at our New Dubai Hotel. Welcome to DoubleTree by Hilton Dubai Al Jadaf, perfectly situated between Dubai International Airport (DXB) and Downtown Dubai. Our ideal location next to Al Jadaf Metro Station and Culture Village also puts you just 10 minutes from Dubai World Trade Center (DWTC) and Dubai International Financial Center (DIFC). Start your day with a cooked-to-order breakfast in the Somaya, our casual restaurant offering breakfast, lunch and dinner daily as well as room service every night. Unwind after a long day with a cocktail at Str. Eat culture Bar or stop by The Market any time of day for drinks, instant meals and travel essentials. Indulge in a relaxing treatment at our rooftop spa or soak up some rays next to the pool overlooking the Dubai Skyline. Our fitness center and business center are both open 24 hours to suit your busy schedule.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d15119156-Reviews-DoubleTree_by_Hilton_Dubai_Al_Jadaf-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Plot 3261450",
+    "street2": "Al Jadaf",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Plot 3261450 Al Jadaf, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.222378",
+  "longitude": "55.33173",
+  "timezone": "Asia/Dubai",
+  "phone": "18884466677",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d15119156-DoubleTree_by_Hilton_Dubai_Al_Jadaf-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#164 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "164"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "859",
+  "review_rating_count": {
+    "1": "25",
+    "2": "19",
+    "3": "35",
+    "4": "133",
+    "5": "647"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "634",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d15119156-m66827-Reviews-DoubleTree_by_Hilton_Dubai_Al_Jadaf-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Accessible rooms",
+    "Minibar",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Free Shuttle or Taxi Services",
+    "Housekeeping",
+    "Allergy-free Room",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Coffee / Tea Maker",
+    "Convenience Store",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Pool with View",
+    "24-Hour Security",
+    "Sun Loungers / Beach Chairs",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Spa",
+    "Airport transportation",
+    "Family Rooms",
+    "Conference Facilities",
+    "Safe",
+    "Breakfast Available",
+    "Facilities for Disabled Guests",
+    "Kids Stay Free",
+    "Electric vehicle charging station",
+    "Afrikaans",
+    "Electric Kettle",
+    "Filipino",
+    "Free Wifi in the Business Center",
+    "Happy Hour",
+    "Italian",
+    "Laptop Safe",
+    "Malay",
+    "Nepali",
+    "Pool / Beach Towels",
+    "Private Bathrooms",
+    "Seating Area",
+    "Sofa",
+    "Sofa Bed",
+    "Swahili",
+    "Tamil",
+    "Ukrainian",
+    "Urdu",
+    "Valet Parking",
+    "Walk-in Shower",
+    "Wardrobe / Closet"
+  ],
+  "parent_brand": "Hilton Worldwide",
+  "brand": "DoubleTree by Hilton",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Mid-range",
+    "Modern"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    },
+    {
+      "location_id": "15620557",
+      "name": "Al Jaddaf"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "171"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "149"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "82"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "230"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "126"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

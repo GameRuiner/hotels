@@ -1,0 +1,239 @@
+{
+  "location_id": "601293",
+  "name": "Moscow Hotel",
+  "description": ".",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d601293-Reviews-Moscow_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Maktoum Road",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "119911",
+    "address_string": "Al Maktoum Road, Dubai 119911 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.259405",
+  "longitude": "55.32304",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d601293-Moscow_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#627 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "627"
+  },
+  "rating": "3.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.0-66827-5.svg",
+  "num_reviews": "218",
+  "review_rating_count": {
+    "1": "42",
+    "2": "20",
+    "3": "71",
+    "4": "56",
+    "5": "29"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    }
+  },
+  "photo_count": "171",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d601293-m66827-Reviews-Moscow_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Restaurant",
+    "Internet",
+    "Bar/Lounge",
+    "Spa",
+    "Non-smoking rooms",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Pool",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Wheelchair access",
+    "Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Refrigerator in room",
+    "Safe",
+    "Rooftop Pool",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Housekeeping",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Billiards",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Children's Television Networks",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Darts",
+    "Desk",
+    "Dining Area",
+    "Electric Kettle",
+    "English",
+    "Filipino",
+    "First Aid Kit",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "Free Wifi in the Business Center",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Hair Dryer",
+    "Hand Massage",
+    "Head Massage",
+    "Hindi",
+    "Iron",
+    "Ironing Service",
+    "Massage",
+    "Neck Massage",
+    "Nightclub / DJ",
+    "Personal Trainer",
+    "Private Bathrooms",
+    "Paid Public Parking Nearby",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Snack Bar",
+    "Sofa",
+    "Sun Terrace",
+    "Taxi Service",
+    "Telephone",
+    "Urdu",
+    "Valet Parking",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet",
+    "Wine / Champagne"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Budget",
+    "City View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620665",
+      "name": "Port Saeed"
+    },
+    {
+      "location_id": "15620549",
+      "name": "Al Buteen"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "52"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "38"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "44"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "34"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "33"
+    }
+  ],
+  "awards": []
+}

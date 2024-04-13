@@ -1,0 +1,270 @@
+{
+  "data": [
+    {
+      "id": 945953638,
+      "lang": "en",
+      "location_id": 228465,
+      "published_date": "2024-04-09T09:12:09Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d228465-r945953638-Reviews-Gallery_Hotel-Barcelona_Catalonia.html?m=66827#review945953638",
+      "text": "Tremendous service by the hotel staff at every encounter.\nProperty kept in great shape at all times.\nVery responsive to any and all requests.\nGave great advice on places to see, things to do, places to eat, as well as directions and insights.",
+      "title": "Great Service",
+      "trip_type": "Couples",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "carlsN4335TB",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e6/ea/default-avatar-2020-54.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e6/ea/default-avatar-2020-54.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e6/ea/default-avatar-2020-54.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e6/ea/default-avatar-2020-54.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e6/ea/default-avatar-2020-54.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 945718584,
+      "lang": "en",
+      "location_id": 228465,
+      "published_date": "2024-04-07T12:22:37Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d228465-r945718584-Reviews-Gallery_Hotel-Barcelona_Catalonia.html?m=66827#review945718584",
+      "text": "We got there before check in and the helpful front desk staff were able to get our room ready very quickly, all while they were giving us a detailed overview of the main attractions close to the hotel.  We stayed 3 in the room so it was  tight but very manageable.  The room was modern and with a large bathroom.   The front desk staffed were friendly and helped us with restaurant recommendations and how to find a nice food market 5 minutes away.  The location was extremely close to a Metro line which was great and  the area was quiet at night but not desolate.  Finally, the buffet breakfast at the hotel had many options and was tasty and well arranged.",
+      "title": "Gallery Great in  Barcelona",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "mia2nyc",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/81/default-avatar-2020-43.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945950832,
+        "title": "Owner response",
+        "text": "Dear mia2nyc,\n\nThank you indeed for taking the time to relay your detailed and honest feedback of your recent stay with us. \n\nIt is very kind of you mentioning the possibility of doing an early check in and how we helped you to understand where the main and closest attractions and the best restaurants of the area are.\n\nThe proximity to the Metro line and the quiet yet lively neighborhood is part of our privileged location, and it really helps to feel like you're truly immersed in the heart of the city.\n\nAnd finally, we appreciate your feedback about the breakfast and its variety. We hope to welcome you back again soon!\nWarm regards,\n\nAarón Hernández\n\nFront desk assistant manager\n",
+        "lang": "en",
+        "author": "Aaron Hernández",
+        "published_date": "2024-04-09T08:47:27Z"
+      }
+    },
+    {
+      "id": 945680133,
+      "lang": "en",
+      "location_id": 228465,
+      "published_date": "2024-04-07T07:11:29Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d228465-r945680133-Reviews-Gallery_Hotel-Barcelona_Catalonia.html?m=66827#review945680133",
+      "text": "Absolutely fantastic location and a beautiful, clean hotel. Probably the most comfortable hotel bed I’ve ever slept in. You can hear the rumbling of the Metro on lower floors, but it’s not disruptive, even for a light sleeper like me. Super friendly staff and great European breakfast top off an outstanding hotel that will be my go-to hotel for future visits to Barcelona!",
+      "title": "Beautiful boutique hotel in great location!",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "radangel4851",
+        "user_location": {
+          "id": "54171",
+          "name": "Charleston, South Carolina"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ef/32/default-avatar-2020-12.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ef/32/default-avatar-2020-12.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ef/32/default-avatar-2020-12.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ef/32/default-avatar-2020-12.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ef/32/default-avatar-2020-12.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945950627,
+        "title": "Owner response",
+        "text": "Dear Rebecca,\n\nThank you for your wonderful review! We're thrilled to hear that you found our hotel's location fantastic and appreciated its cleanliness.\n\nWe are happy to know that you enjoyed the room and breakfast and it is a pleasure to ensure that each and every guest leaves us with fond memories.\n\nYour kind comment about our colleagues is highly appreciated. Rest assured that your feedback has been taken onboard fully and already been discussed with the team. This will definitely help us strive to provide the highest level of service in all areas of the hotel.\n\nWe look forward to welcoming you back again at the hotel on your next visit to Barcelona.\n\nRegards,\n\nAarón Hernández\nFront desk assistant manager\n",
+        "lang": "en",
+        "author": "Aaron Hernández",
+        "published_date": "2024-04-09T08:45:43Z"
+      }
+    },
+    {
+      "id": 943897037,
+      "lang": "en",
+      "location_id": 228465,
+      "published_date": "2024-03-26T11:02:37Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d228465-r943897037-Reviews-Gallery_Hotel-Barcelona_Catalonia.html?m=66827#review943897037",
+      "text": "I had the pleasure of visiting Barcelona with my mother as she has always wanted to see La Sagrada Familia. I chose The Gallery Hotel for its location and great reviews which are well deserved. We were warmly greeted on arrival by the wonderful Nuria and she continued to look after us beautifully during our stay - she is a fantastic asset to the Hotel. We really enjoyed our breakfast each day and the staff in the restaurant were also very good. The room was extremely comfortable and clean and the house keeping team were also very good. I can only imagine that the hotel is a lovely place to work as everyone was so friendly!",
+      "title": "Perfect stay in Barcelona",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "nataliew417",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f3/23/default-avatar-2020-28.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f3/23/default-avatar-2020-28.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f3/23/default-avatar-2020-28.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f3/23/default-avatar-2020-28.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f3/23/default-avatar-2020-28.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 944904526,
+        "title": "Owner response",
+        "text": "Dear Natalie,\n\nThank you indeed for relaying your most positive feedback of your recent stay at Gallery Hotel. It was likewise a pleasure for us to have ensure for your best care and attention throughout your stay with us.\n\nWe love showcasing the very best of Barcelona through our sevice, cuisine, hotel design and location and we're delighted to hear that you enjoyed it. \n\nNuria is utterly happy to know that you remember her name and appreciate all he has done for you. Your positive acknowledgement motivates us to do even better in delighting our guests.\n\nThe Gallery family look forward to welcoming you back again at the hotel on your next visit to Barcelona.\n\nAarón Hernández\nFront desk assistant manager\n",
+        "lang": "en",
+        "author": "Aaron Hernández",
+        "published_date": "2024-04-02T05:25:18Z"
+      }
+    },
+    {
+      "id": 943425010,
+      "lang": "en",
+      "location_id": 228465,
+      "published_date": "2024-03-22T17:36:34Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d228465-r943425010-Reviews-Gallery_Hotel-Barcelona_Catalonia.html?m=66827#review943425010",
+      "text": "Great location close to many train options. The only drawback is that you hear the trains which is underground but it is close to a lot of shopping, Gaudi buildings, great restaurants and convenience.Great location close to many train options. The only drawback is that you hear the trains which is underground but it is close to a lot of shopping, Gaudi buildings, great restaurants and convenience.",
+      "title": "Great location",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "939bangs",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f4/5d/default-avatar-2020-32.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 944904465,
+        "title": "Owner response",
+        "text": "Dear Bangs,\n\nI sincerely thank you for taking the time to share your positive feedback on your recent stay at Gallery Hotel. We are delighted to learn that you enjoyed your experience with us and that our team ensured your well-being and comfort throughout your stay.\n\nYour feedback is invaluable, not only to us but also to future guests considering staying with us. We are thrilled to hear that you enjoyed our location.\n\nHowever, we have duly noted your comment regarding the train noise. We would like to extend our sincerest apologies for any inconvenience this may have caused you. Please rest assured that your feedback has been shared with the relevant department for review and to explore improvement solutions.\n\nWe sincerely hope to have the pleasure of welcoming you back to Gallery Hotel on your next visit to Barcelona. Please feel free to contact us directly for any future inquiries or reservations.\n\nWarm regards,\n\nAarón Hernández \nAssistant Front Desk Manager\n",
+        "lang": "en",
+        "author": "Aaron Hernández",
+        "published_date": "2024-04-02T05:24:42Z"
+      }
+    }
+  ]
+}

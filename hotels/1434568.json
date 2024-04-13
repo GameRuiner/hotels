@@ -1,0 +1,159 @@
+{
+  "location_id": "1434568",
+  "name": "SUHA JBR Hotel Apartments",
+  "description": "The SUHA JBR Apartment within the famous JBR complex and just a short walk from the water of Jumeirah beach. Our apartment is the center of Dubai offer a range of option from one to four-bedrooms, making them perfect apartments for families in Dubai. A contemporary and spacious accommodation that provides comfortable living and dining areas and modern fully equipped kitchens, as well as luxurious king-size beds, free cable TV and free Wi-Fi networks, among many other services and amenities. The SUHA JBR hotel apartments in Dubai are a fantastic choice, whatever the reason for your visit or the size of your travel group. Conveniently located near all the most important business hubs such as Media City, knowledge village, internet city and Jabel Ali free zone, our apartment are also perfect for enjoying Dubai Beach life or amazing shopping and leisure opportunities. Book your stay now on official website of Suha JBR Hotel Apartments in Dubai.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1434568-Reviews-SUHA_JBR_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sadaf 3 - King Salman Bin Abdulaziz Al Saud Street",
+    "street2": "Jumeirah Beach Residence",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Sadaf 3 - King Salman Bin Abdulaziz Al Saud Street Jumeirah Beach Residence, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.079777",
+  "longitude": "55.13748",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1434568-SUHA_JBR_Hotel_Apartments-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#390 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "390"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "737",
+  "review_rating_count": {
+    "1": "50",
+    "2": "38",
+    "3": "90",
+    "4": "262",
+    "5": "297"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "454",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1434568-m66827-Reviews-SUHA_JBR_Hotel_Apartments-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Parking Garage",
+    "24-Hour Security",
+    "Kids pool",
+    "Baggage Storage",
+    "Cable / Satellite TV",
+    "Clothes Dryer",
+    "French",
+    "Outdoor Furniture",
+    "Russian",
+    "Stovetop",
+    "Sun Deck",
+    "Urdu"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Mid-range",
+    "Harbor View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620642",
+      "name": "Jumeirah Beach Residence (JBR)"
+    },
+    {
+      "location_id": "7282432",
+      "name": "The Marina"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "38"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "87"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "21"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "399"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "124"
+    }
+  ],
+  "awards": []
+}

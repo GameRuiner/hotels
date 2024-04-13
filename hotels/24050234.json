@@ -1,0 +1,138 @@
+{
+  "location_id": "24050234",
+  "name": "Movenpick Hotel Jumeirah Village Triangle",
+  "description": "Choose 5 star comfort with easy access to the attractions of Dubai at Movenpick Jumeirah Village Triangle. Home to 166 rooms and suites, this premium hotel sits just 15 minutes from JBR beach, Dubai Marina, Mall of Emirates, and Expo 2020 Dubai.\n\nPlease note, that all children below the age of 5 are not allowed into the adult swimming pool can access the Aqua Park, and must be accompanied by an adult all the time.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d24050234-Reviews-Movenpick_Hotel_Jumeirah_Village_Triangle-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "B1 Joory Street",
+    "street2": "District 3, Jumeirah Village Triangle",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "B1 Joory Street District 3, Jumeirah Village Triangle, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.041107",
+  "longitude": "55.18381",
+  "timezone": "Asia/Dubai",
+  "phone": "011971600532220",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d24050234-Movenpick_Hotel_Jumeirah_Village_Triangle-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#517 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "517"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "32",
+  "review_rating_count": {
+    "1": "6",
+    "2": "3",
+    "3": "2",
+    "4": "1",
+    "5": "20"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "72",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d24050234-m66827-Reviews-Movenpick_Hotel_Jumeirah_Village_Triangle-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Safe",
+    "Housekeeping",
+    "Arabic",
+    "Blackout Curtains"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quaint",
+    "Business"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "3"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "7"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "5"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "7"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "6"
+    }
+  ],
+  "awards": []
+}

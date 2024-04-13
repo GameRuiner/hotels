@@ -1,0 +1,172 @@
+{
+  "location_id": "12160041",
+  "name": "Perla Arya Hotel",
+  "description": "Perla Arya Hotel is an excellent choice for travelers visiting Izmir, offering a budget friendly environment alongside many helpful amenities designed to enhance your stay.\nYou’ll enjoy relaxing rooms that offer a flat screen TV, air conditioning, and a minibar, and you can stay connected during your stay as Perla Arya Hotel offers guests free wifi.\nThe small hotel features a 24 hour front desk, baggage storage, and a convenience store. For guests with a vehicle, there is free private parking available nearby.\nFor those interested in checking out popular landmarks while visiting Izmir, Perla Arya Hotel is located a short distance from Saint Polycarp Church (0.8 mi) and Synagogue Street (Havra Sokagi) (0.9 mi).\nWhile you’re here, be sure to check out some of the Mexican restaurants, including Rimo's Creperie, Cafe Brownie, and Chef 1 Pizza, all of which are a short distance from Perla Arya Hotel.\nLooking to explore? Then look no further than Kemeralti Market (1.0 mi), Kordonboyu (1.1 mi), and Konak Square (1.2 mi), which are some popular Izmir attractions – all conveniently located within walking distance of the small hotel.\nEnjoy your stay in Izmir!\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d12160041-Reviews-Perla_Arya_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Oguzlar Mahallesi, 1253 sokak No1",
+    "street2": "Konak",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35230",
+    "address_string": "Oguzlar Mahallesi, 1253 sokak No1 Konak, Izmir 35230 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.42265",
+  "longitude": "27.15079",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d12160041-Perla_Arya_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#10 of 136 B&Bs / Inns in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "136",
+    "ranking": "10"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "48",
+  "review_rating_count": {
+    "1": "1",
+    "2": "4",
+    "3": "8",
+    "4": "7",
+    "5": "28"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "15",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d12160041-m66827-Reviews-Perla_Arya_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Free Wifi",
+    "Air conditioning",
+    "Flatscreen TV",
+    "Bath / Shower",
+    "Kids Activities",
+    "Restaurant",
+    "Laundry Service",
+    "Minibar",
+    "Non-smoking hotel",
+    "Safe",
+    "Housekeeping",
+    "Baggage Storage",
+    "Bottled Water",
+    "Clothes Rack",
+    "Convenience Store",
+    "Currency Exchange",
+    "Desk",
+    "English",
+    "Free Private Parking Nearby",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Newspaper",
+    "Private Check-in / Check-out",
+    "Shared Lounge / TV Area",
+    "Shops",
+    "Soundproof Rooms",
+    "Telephone",
+    "Turkish"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "bb",
+      "localized_name": "Bed and Breakfast"
+    }
+  ],
+  "styles": [
+    "Classic",
+    "Family"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "5"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "23"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "1"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "12"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "3"
+    }
+  ],
+  "awards": []
+}

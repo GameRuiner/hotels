@@ -1,0 +1,286 @@
+{
+  "data": [
+    {
+      "id": 945843310,
+      "lang": "en",
+      "location_id": 289345,
+      "published_date": "2024-04-08T10:45:43Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d289345-r945843310-Reviews-Evenia_Rossello-Barcelona_Catalonia.html?m=66827#review945843310",
+      "text": "Everything was fine. Location was great. Reception staff were nice. Rooms were clean and modern. Breakfast was basic but of good quality. Reception staff were very helpful. I would recommend this for anyone who wants to be within Barcelona City centre. Excellent restaurants all within walking distance.",
+      "title": "Great Location and Great Stay",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "trevort381",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/d0/default-avatar-2020-33.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/d0/default-avatar-2020-33.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f4/d0/default-avatar-2020-33.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f4/d0/default-avatar-2020-33.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f4/d0/default-avatar-2020-33.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 944406288,
+      "lang": "en",
+      "location_id": 289345,
+      "published_date": "2024-03-29T13:31:45Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d289345-r944406288-Reviews-Evenia_Rossello-Barcelona_Catalonia.html?m=66827#review944406288",
+      "text": "A short stay at this hotel.  Arrived at 10.40pm and left at 09.00 the next day.  The bedroom was spacious, comfortable and clean.  Breakfast was a buffet, varied and fresh.  It appeared to be located in a business district, so it was a quiet location.",
+      "title": "Clean, comfortable and spacious!",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "920gemma",
+        "user_location": {
+          "id": "186394",
+          "name": "Newcastle upon Tyne, Tyne and Wear, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/01/2e/70/97/avatar023.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/01/2e/70/97/avatar023.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/01/2e/70/97/avatar023.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944473097,
+        "title": "Owner response",
+        "text": "Thank you for sharing your brief experience with us. We're glad you enjoyed your comfortable room during your short stay. It's great to hear that you found our breakfast buffet varied and fresh. Our location in a business district ensures a quiet environment for our guests.\nWe hope to welcome you back for another pleasant stay in the future.",
+        "lang": "en",
+        "author": "Alex Torres",
+        "published_date": "2024-03-30T03:41:49Z"
+      }
+    },
+    {
+      "id": 944314120,
+      "lang": "en",
+      "location_id": 289345,
+      "published_date": "2024-03-28T19:17:50Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d289345-r944314120-Reviews-Evenia_Rossello-Barcelona_Catalonia.html?m=66827#review944314120",
+      "text": "\"The Kappa hotel is a scam. It claims to be a 4-star hotel, but in reality, it's a 1-star hotel. It's 10 degrees Celsius outside in the morning and they refuse to turn on the heating for economic reasons. I caught a cold because of this hotel, which ruined my entire stay in Barcelona. I strongly advise against this hotel. It's a scam.\"",
+      "title": "A one star hotel",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "dafrala",
+        "user_location": {
+          "id": "187070",
+          "name": "France"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1d/22/cd/91/avatar.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1d/22/cd/91/avatar.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1d/22/cd/91/avatar.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/1d/22/cd/91/avatar.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 944337901,
+        "title": "Owner response",
+        "text": "Thank you for your feedback. However, it seems there might be some confusion as your review appears to be referencing Hotel Kappa, not Hotel Evenia Rosselló. Nonetheless, if you have any feedback specifically about our Hotel Evenia Rosselló, we would love to hear it. Kind regards",
+        "lang": "en",
+        "author": "Alex Torres",
+        "published_date": "2024-03-29T02:45:36Z"
+      }
+    },
+    {
+      "id": 943847501,
+      "lang": "en",
+      "location_id": 289345,
+      "published_date": "2024-03-26T02:55:18Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d289345-r943847501-Reviews-Evenia_Rossello-Barcelona_Catalonia.html?m=66827#review943847501",
+      "text": "Such a beautiful and clean hotel. The employees at the reception were really kind and friendly, breakfast was delicious, lots of local foods to try and big thumbs up to the cleaning ladies, they were just perfect, they even folded our clothes nicely which was really sweet and kind. Thank you so much for this wonderful experience to all the staff of this awesome hotel. ❤️",
+      "title": "Wonderful experience",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "artemis_prk",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ec/a2/default-avatar-2020-3.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ec/a2/default-avatar-2020-3.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ec/a2/default-avatar-2020-3.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ec/a2/default-avatar-2020-3.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ec/a2/default-avatar-2020-3.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 943978659,
+        "title": "Owner response",
+        "text": "Thank you for your kind words! We're thrilled that you enjoyed your stay with us and appreciated our clean facilities, friendly reception staff, delicious breakfast, and attentive cleaning team. Your satisfaction is our priority, and we're delighted to have provided you with a wonderful experience. We hope to welcome you back soon!",
+        "lang": "en",
+        "author": "Alex Torres",
+        "published_date": "2024-03-27T04:41:33Z"
+      }
+    },
+    {
+      "id": 940257605,
+      "lang": "en",
+      "location_id": 289345,
+      "published_date": "2024-02-29T20:41:42Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d289345-r940257605-Reviews-Evenia_Rossello-Barcelona_Catalonia.html?m=66827#review940257605",
+      "text": "Everything is falling apart and in disrepair. You will not get any shampoo, conditioner, body wash or lotion. No in room coffee. No working hair dryer. And on top of that got a blood stained pillow case one day! ",
+      "title": "At best two star hotel",
+      "trip_type": "NONE",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "0disappointedguest",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e8/5b/default-avatar-2020-61.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e8/5b/default-avatar-2020-61.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e8/5b/default-avatar-2020-61.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e8/5b/default-avatar-2020-61.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e8/5b/default-avatar-2020-61.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 940504988,
+        "title": "Owner response",
+        "text": "We honestly believe that you may be wrong about the Evenia Rosselló hotel. We inform you that all our rooms are equipped, among other facilities, with kettles, gel and shampoo dispensers, and we provide amenities upon request at reception. We take hygiene and guest satisfaction very seriously and find it very unusual to hear about the issues you have mentioned.\nWe would like you to visit us again so that we can rectify any concerns and ensure that you experience the high level of service and comfort that we strive to provide. Please feel free to reach out directly if we can assist you further.\n",
+        "lang": "en",
+        "author": "Alex Torres",
+        "published_date": "2024-03-02T01:33:47Z"
+      }
+    }
+  ]
+}

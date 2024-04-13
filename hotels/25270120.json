@@ -1,0 +1,145 @@
+{
+  "location_id": "25270120",
+  "name": "Riva Hotel Alsancak",
+  "description": "Restoran ve kafelerle dolu bir bölgede yer alan bu mütevazı otel, Alsancak Garı'na 4 dakikalık, İzmir Körfezi kıyısına 5 dakikalık yürüme mesafesindedir.\n\nSes yalıtımına sahip mütevazı odalarda ücretsiz WiFi, düz ekran TV ve mini buzdolabı bulunur. Bazı odalar balkonludur. Stüdyolarda mini mutfak, apart dairelerde oturma odası da vardır.\n\nBirçok katta asansör mevcuttur. Apart otel, emanet bürosu, televizyon odası ve transfer hizmeti gibi hoşa giden birçok hizmetle, rahat ve dinlendirici bir konaklama imkânı sunmaktadır. Kablosuz internet bağlantısı ile ortak alanlarda misafirler için internet erişimi (ücretsiz) sağlanmaktadır. Özel araçlarıyla gelen misafirler, bunları otelin açık otoparkına bırakabilirler.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g15263864-d25270120-Reviews-Riva_Hotel_Alsancak-Konak_Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Alsancak Mah. 1454 Sokak. No:11",
+    "city": "Konak",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35220",
+    "address_string": "Alsancak Mah. 1454 Sokak. No:11, Konak, Izmir 35220 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Konak",
+      "location_id": "15263864"
+    },
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.43701",
+  "longitude": "27.144844",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g15263864-d25270120-Riva_Hotel_Alsancak-Konak_Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "15263864",
+    "ranking_string": "#1 of 7 Specialty lodging in Konak",
+    "geo_location_name": "Konak",
+    "ranking_out_of": "7",
+    "ranking": "1"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "2",
+  "review_rating_count": {
+    "1": "0",
+    "2": "0",
+    "3": "0",
+    "4": "0",
+    "5": "2"
+  },
+  "subratings": {},
+  "photo_count": "21",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g15263864-d25270120-m66827-Reviews-Riva_Hotel_Alsancak-Konak_Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Suites",
+    "Free Internet",
+    "Kitchenette",
+    "Wifi",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Microwave",
+    "Refrigerator in room",
+    "Minibar",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Bath / Shower",
+    "Bottled Water",
+    "Bridal Suite",
+    "Cable / Satellite TV",
+    "Clothes Rack",
+    "Coffee / Tea Maker",
+    "Desk",
+    "Electric Kettle",
+    "English",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "iPod Docking Station",
+    "Ironing Service",
+    "Kitchenware",
+    "Paid Private Parking Nearby",
+    "Paid Public Parking Nearby",
+    "Seating Area",
+    "Sofa",
+    "Sofa Bed",
+    "Stovetop",
+    "Street Parking",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "0"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "0"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "0"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "1"
+    }
+  ],
+  "awards": []
+}

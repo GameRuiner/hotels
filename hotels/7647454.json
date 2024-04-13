@@ -1,0 +1,190 @@
+{
+  "location_id": "7647454",
+  "name": "Orchid Vue Hotel",
+  "description": "The Orchid Vue Hotel is located in Bur Dubai right next to the Al Fahidi Metro station and the BurJuman Shopping Mall. With its very central location, the Orchid Vue Hotel is within a 15 minute driving distance to the Dubai Mall, Jumeirah open beach, The BurjKhalifa, and Dubai International Airport. At our restaurant we offer an international cuisine with multiple dishes from all over the world. Our guests can enjoy anything from swimming on the rooftop pool to getting a full workout at our gym. We also offer a sauna steam room for all room guests and a massage spa center for a surcharge. If guests want to see any of the sites in Dubai, we have a travel desk that offer tours from all over the city and a friendly staff who can assist you with anything you need. If you need a last minute souvenir or a snack to eat, there is a gift shop located on the ground floor. With 123 rooms ranging anywhere from standard to prestige sizes, there are many facilities the rooms offer. Each room has a mini bar, flat screen HDTV, and free WiFi for all guests throughout the entire building. Each room is decorated with a unique blend of colors and a sleek finish to bring you a modern and classic contemporary feel while in the room. Valet parking is included and free of charge for all guests staying at the hotel.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d7647454-Reviews-Orchid_Vue_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Khalid Bin Al Waleed Road",
+    "street2": "Street No 1A",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "185170",
+    "address_string": "Khalid Bin Al Waleed Road Street No 1A, Dubai 185170 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.256618",
+  "longitude": "55.298172",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d7647454-Orchid_Vue_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#524 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "524"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "168",
+  "review_rating_count": {
+    "1": "19",
+    "2": "25",
+    "3": "35",
+    "4": "44",
+    "5": "45"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "74",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d7647454-m66827-Reviews-Orchid_Vue_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Pets Allowed",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Refrigerator in room",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Hindi",
+    "Suites",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Banquet Room",
+    "Family Rooms",
+    "Conference Facilities",
+    "Babysitting",
+    "Non-smoking hotel",
+    "Outdoor pool",
+    "Sauna",
+    "Baggage Storage",
+    "Car Hire",
+    "Currency Exchange"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Centrally Located",
+    "Charming"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620564",
+      "name": "Al Mankhool"
+    },
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "28"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "47"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "17"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "45"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "25"
+    }
+  ],
+  "awards": []
+}

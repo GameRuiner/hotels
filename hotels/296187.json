@@ -1,0 +1,207 @@
+{
+  "location_id": "296187",
+  "name": "Tuvana Hotel",
+  "description": "Boasting the classification of \"Special Class Hotel\", this grand old manor is an oasis of relaxation and quiescence, ensconced in the heart of the historical Mediterranean metropolis of Antalya. The Tuvana Hotel was once the centre of prestigious imperial visits during the early 18th century. Now it has been transformed into a distinguished boutique hotel, surrounded by lush and verdant gardens laden with orange, plum, tangerine and pomegranate trees, creating a fragrantly nonpareil atmosphere.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297962-d296187-Reviews-Tuvana_Hotel-Antalya_Turkish_Mediterranean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Tuzcular Mah. Karanlik Sok. No 18 Kaleici",
+    "street2": "",
+    "city": "Antalya",
+    "state": "Antalya Province",
+    "country": "Turkiye",
+    "postalcode": "07100",
+    "address_string": "Tuzcular Mah. Karanlik Sok. No 18 Kaleici, Antalya 07100 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Antalya",
+      "location_id": "297962"
+    },
+    {
+      "level": "Province",
+      "name": "Antalya Province",
+      "location_id": "297960"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Mediterranean Coast",
+      "location_id": "658661"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "36.88581",
+  "longitude": "30.706188",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297962-d296187-Tuvana_Hotel-Antalya_Turkish_Mediterranean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297962",
+    "ranking_string": "#51 of 504 hotels in Antalya",
+    "geo_location_name": "Antalya",
+    "ranking_out_of": "504",
+    "ranking": "51"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "664",
+  "review_rating_count": {
+    "1": "18",
+    "2": "23",
+    "3": "65",
+    "4": "175",
+    "5": "383"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "534",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297962-d296187-m66827-Reviews-Tuvana_Hotel-Antalya_Turkish_Mediterranean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Restaurant",
+    "Room service",
+    "Internet",
+    "Free Internet",
+    "Free parking",
+    "Wifi",
+    "Free Wifi",
+    "Suites",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Breakfast included",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Minibar",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Housekeeping",
+    "Baggage Storage",
+    "English",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Dry Cleaning",
+    "Smoking rooms available",
+    "Non-smoking hotel",
+    "Private Balcony",
+    "Breakfast Available",
+    "Parking",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Express Check-in / Check-out",
+    "Coffee Shop",
+    "German",
+    "Ironing Service",
+    "Italian",
+    "Private Check-in / Check-out",
+    "Secured Parking",
+    "Snack Bar",
+    "Special Diet Menus",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Turkish",
+    "VIP Room Facilities",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Classic",
+    "Historic Hotel"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "21"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "335"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "48"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "88"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "90"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

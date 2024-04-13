@@ -1,0 +1,203 @@
+{
+  "location_id": "1687451",
+  "name": "Centro Barsha",
+  "description": "Centro Barsha is an excellent choice for travelers visiting Dubai, offering a family-friendly environment alongside many helpful amenities designed to enhance your stay.\nRooms at Centro Barsha Hotel offer a flat screen TV and air conditioning providing exceptional comfort and convenience, and guests can go online with internet access.\nRoom service, a concierge, and a rooftop terrace are some of the conveniences offered at this hotel. A rooftop pool and an on-site restaurant will also help to make your stay even more special. If you are driving to Centro Barsha, free parking is available.\nClose to some of Dubai's most popular landmarks, such as Meem Gallery (1.2 mi) and The Palladium (1.9 mi), Centro Barsha Hotel is a great destination for tourists.\nWhile in Dubai be sure to experience local ribs favorites at Al Hambra, Mekong, or The Meat Co.\nShould time allow, Al Jaber Gallery and Al Barsha Pond Park are some popular attractions that are within walking distance.\nEnjoy your stay in Dubai!\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1687451-Reviews-Centro_Barsha-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Road 329, Al Barsha 1",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "115060",
+    "address_string": "Road 329, Al Barsha 1, Dubai 115060 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.11328",
+  "longitude": "55.19498",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1687451-Centro_Barsha-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#345 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "345"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "2474",
+  "review_rating_count": {
+    "1": "39",
+    "2": "47",
+    "3": "154",
+    "4": "795",
+    "5": "1439"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "561",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1687451-m66827-Reviews-Centro_Barsha-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Free parking",
+    "Restaurant",
+    "Fitness center",
+    "Wheelchair access",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Wifi",
+    "Paid Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Outdoor pool",
+    "Arabic",
+    "Baggage Storage",
+    "English",
+    "Filipino",
+    "Complimentary Instant Cofffee",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Ironing Service",
+    "24-Hour Security",
+    "Taxi Service",
+    "Conference Facilities",
+    "Facilities for Disabled Guests"
+  ],
+  "parent_brand": "Rotana Hotel Management Corporation Ltd.",
+  "brand": "Rotana",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Residential Neighborhood",
+    "Quiet"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620543",
+      "name": "Al Barsha"
+    },
+    {
+      "location_id": "15620544",
+      "name": "Al Barsha 1"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "872"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "673"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "275"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "313"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "230"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

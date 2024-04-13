@@ -1,0 +1,241 @@
+{
+  "location_id": "3291088",
+  "name": "Citadines Metro Central Apartments",
+  "description": "Citadines Metro Central Dubai The stylish Citadines Metro Central Dubai offers modern studios and one-bedroom suites with Wi-Fi and a flat-screen TV. Elegantly decorated units feature an open-plan living and dining area. The kitchen facilities include a stove, microwave, fridge and washing machine. All units offer views of the Marina, Sheikh Zayed Road or the new Tecom area. During leisure time guests can relax around the rooftop pool, work out in our fully equipped Gymnasium or unwind in the steam rooms at the health club. Metro Central offers a 24-hour front desk, and the Concierge Department is also available to organize desert safaris, excursions, guided tours, airport transfers or car rental. Metro Central is located 165 feet from Dubai Internet City Metro Station - two stops from Mall of the Emirates and Ski Dubai or a 15 minute drive by car. Palm Jumeirah is only 6 miles away and Dubai International Airport is 22 miles away by car. Free covered parking is available.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d3291088-Reviews-Citadines_Metro_Central_Apartments-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Barsha Heights",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Barsha Heights, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.099396",
+  "longitude": "55.173405",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d3291088-Citadines_Metro_Central_Apartments-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#1 of 766 Specialty lodging in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "766",
+    "ranking": "1"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1047",
+  "review_rating_count": {
+    "1": "11",
+    "2": "15",
+    "3": "54",
+    "4": "228",
+    "5": "739"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "764",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d3291088-m66827-Reviews-Citadines_Metro_Central_Apartments-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Free parking",
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Wheelchair access",
+    "Restaurant",
+    "Kitchenette",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Microwave",
+    "Refrigerator in room",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "24-Hour Check-in",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Iron",
+    "Ironing Service",
+    "Seating Area",
+    "24-Hour Security",
+    "Shoeshine",
+    "Soundproof Rooms",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Smoking rooms available",
+    "Clothes Rack",
+    "Dining Area",
+    "First Aid Kit",
+    "Highchairs Available",
+    "Private Bathrooms",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Sofa",
+    "Tile / Marble Floor",
+    "Urdu",
+    "Vending Machine",
+    "Wardrobe / Closet"
+  ],
+  "parent_brand": "The Ascott Limited",
+  "brand": "Citadines Apart hotel",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [
+    "Modern",
+    "Mid-range"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620543",
+      "name": "Al Barsha"
+    },
+    {
+      "location_id": "15620547",
+      "name": "Al Barsha Heights (Tecom)"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "325"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "248"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "110"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "183"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "94"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

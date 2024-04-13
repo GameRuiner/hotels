@@ -1,0 +1,376 @@
+{
+  "location_id": "23203258",
+  "name": "Radisson Hotel Dubai Damac Hills",
+  "description": "Make the Radisson Hotel Dubai DAMAC Hills your go-to hotel in Dubai. With great facilities and friendly, professional service, we aim to make your stay Simply Delightful and become your new home away from home. \n\nOur \"Yes I Can!\" philosophy means you'll always receive first-class service with a smile. An excellent location for warm days under the sun, our hotel is surrounded by several golf courses, including the Trump International Golf Club, Jumeirah Golf Estates, The Els Club, and Arabian Ranches. Also close by is the ICC Academy and Dubai International Cricket Stadium. The hotel also boasts a tennis court and swimming pools (for adults and children), a gym, and a spa that offers rejuvenating massages. \n\nChoose the perfect accommodation from our 481 rooms and suites; all with spacious balconies. Stylish with convenient facilities, they offer everything our guests need for a comfortable stay.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d23203258-Reviews-Radisson_Hotel_Dubai_Damac_Hills-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Hessa Street",
+    "street2": "Dubailand",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Hessa Street Dubailand, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.018974",
+  "longitude": "55.246216",
+  "timezone": "Asia/Dubai",
+  "phone": "01197148791111",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d23203258-Radisson_Hotel_Dubai_Damac_Hills-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#187 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "187"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "589",
+  "review_rating_count": {
+    "1": "13",
+    "2": "6",
+    "3": "10",
+    "4": "63",
+    "5": "497"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "269",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d23203258-m66827-Reviews-Radisson_Hotel_Dubai_Damac_Hills-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Kids Activities",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Self-Serve Laundry",
+    "Babysitting",
+    "Safe",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Afrikaans",
+    "Arabic",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Coffee Shop",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "Free Public Parking Nearby",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Massage",
+    "Airport transportation",
+    "Golf course",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Conference Facilities",
+    "Flatscreen TV",
+    "Kids pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Chinese",
+    "Clothes Rack",
+    "Convenience Store",
+    "Couples Massage",
+    "Dining Area",
+    "Dutch",
+    "First Aid Kit",
+    "Foot Massage",
+    "Free Private Parking Nearby",
+    "Free Wifi in the Business Center",
+    "French",
+    "Full Body Massage",
+    "Hand Massage",
+    "Happy Hour",
+    "Head Massage",
+    "Highchairs Available",
+    "Horseback Riding",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "iPod Docking Station",
+    "Italian",
+    "Kids' Outdoor Play Equipment",
+    "Landmark View",
+    "Laptop Safe",
+    "Light Therapy",
+    "Malay",
+    "Manicure",
+    "Neck Massage",
+    "Nepali",
+    "Outdoor Dining Area",
+    "Outdoor Furniture",
+    "Parking Garage",
+    "Patio",
+    "Pedicure",
+    "Personal Trainer",
+    "Pool / Beach Towels",
+    "Pool View",
+    "Pool with View",
+    "Portuguese",
+    "Private Bathrooms",
+    "Private Check-in / Check-out",
+    "Radio",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shallow End",
+    "Sinhala",
+    "Sofa",
+    "Spanish",
+    "Special Diet Menus",
+    "Steam Room",
+    "Street Parking",
+    "Sun Deck",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Swahili",
+    "Tamil",
+    "Taxi Service",
+    "Telephone",
+    "Urdu",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Wine / Champagne"
+  ],
+  "parent_brand": "Carlson Rezidor",
+  "brand": "Radisson",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Mid-range",
+    "Romantic"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620650",
+      "name": "Mudon"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "162"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "74"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "75"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "131"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "59"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

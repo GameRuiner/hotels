@@ -1,0 +1,204 @@
+{
+  "data": [
+    {
+      "id": 901051129,
+      "lang": "en",
+      "location_id": 2456384,
+      "published_date": "2023-07-07T00:39:07Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d2456384-r901051129-Reviews-Mira_Otel_Alsancak-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review901051129",
+      "text": "The hotel is horrible. It claims to be 5 stars but it is at the level of a 2 star. The hotel is old, the breakfast is the worst I've had in a hotel. the location is bad, it is convenient to stay in KUDASI. In short, I DO NOT RECOMMEND this hotel. SAVE your money and go elsewhere. the photos are not real.\n\nIndeed if you’re tourist non of the reception guys or staff speaks english.",
+      "title": "NOT GO TO THIS HOTEL",
+      "trip_type": "Family",
+      "travel_date": "2023-07-31",
+      "user": {
+        "username": "santiagotomasalaz",
+        "user_location": {
+          "id": "312741",
+          "name": "Buenos Aires, Capital Federal District"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/a7/default-avatar-2020-44.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 889652214,
+      "lang": "en",
+      "location_id": 2456384,
+      "published_date": "2023-05-09T09:01:55Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d2456384-r889652214-Reviews-Mira_Otel_Alsancak-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review889652214",
+      "text": "\nFrom the moment I came to the Hotel and spent two nights, the service was excellent.\nThe reception staff is professional, with knowledge of the English language.\nThe room is spacious and very clean.\nThe air conditioner works flawlessly.\nBreakfast, varied, some Turkish food, and something from the European style.\nThe price is decent and not excessive.\nLocation near many restaurants and cafeterias.",
+      "title": "Service at the Reception - excellent",
+      "trip_type": "Solo travel",
+      "travel_date": "2023-03-31",
+      "user": {
+        "username": "TOMOSUMIC",
+        "user_location": {
+          "id": "303838",
+          "name": "Trogir, Split-Dalmatia County, Dalmatia"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/0f/75/7d/52/tomosumic.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/0f/75/7d/52/tomosumic.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/0f/75/7d/52/tomosumic.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/0f/75/7d/52/tomosumic.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/0f/75/7d/52/tomosumic.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 714647144,
+      "lang": "en",
+      "location_id": 2456384,
+      "published_date": "2019-10-02T00:32:32Z",
+      "rating": 2,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d2456384-r714647144-Reviews-Mira_Otel_Alsancak-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review714647144",
+      "text": "The hotel is so old that it doean’t look clean. I stayed one night and resumed my stay at another hotel. Almost verything about the room needs changing. The bed was comfy. They need urgent renovation!!",
+      "title": "Bad",
+      "trip_type": "Business",
+      "travel_date": "2019-10-31",
+      "user": {
+        "username": "215karelb",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/09/0b/2a/9d/karel-b.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/09/0b/2a/9d/karel-b.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/09/0b/2a/9d/karel-b.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/09/0b/2a/9d/karel-b.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 610220157,
+      "lang": "en",
+      "location_id": 2456384,
+      "published_date": "2018-08-25T12:19:20Z",
+      "rating": 3,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d2456384-r610220157-Reviews-Mira_Otel_Alsancak-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review610220157",
+      "text": "The bath strongly needed renovation. We payed for breakfast but they didn't provide it because we left early and they didn't offer compensation. Not close to the bazar. The roads outside are extremely narrow.",
+      "title": "Expensive",
+      "trip_type": "Friends getaway",
+      "travel_date": "2018-08-31",
+      "user": {
+        "username": "Scrat59",
+        "user_location": {
+          "id": "187830",
+          "name": "Bergamo, Province of Bergamo, Lombardy"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e9/bb/default-avatar-2020-65.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 553408300,
+      "lang": "en",
+      "location_id": 2456384,
+      "published_date": "2018-01-12T14:16:48Z",
+      "rating": 3,
+      "helpful_votes": 2,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d2456384-r553408300-Reviews-Mira_Otel_Alsancak-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review553408300",
+      "text": "Spent 4 nights here again on business. Sad to say that the management of this hotel is in decline. In the space of 10 minutes, we had been allocated 3 different rooms as the description on the website conflicted with the actual bed requests despite emailing in advance, which was ignored. Our room was poorly maintained with a plug socket hanging from the wall and a shower rail that was broken - fine if you are not more than 3 foot tall. The buffet breakfast was also poor. Coffee is undrinkable and the hot food was just lukewarm. Such a pity as the front of house staff are pleasant to deal with.",
+      "title": "Sadly in decline",
+      "trip_type": "Business",
+      "travel_date": "2017-12-31",
+      "user": {
+        "username": "935barries",
+        "user_location": {
+          "id": "186338",
+          "name": "London, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/04/99/8c/bf/barrie-s.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/04/99/8c/bf/barrie-s.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/04/99/8c/bf/barrie-s.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/04/99/8c/bf/barrie-s.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/04/99/8c/bf/barrie-s.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Service"
+        },
+        "2": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    }
+  ]
+}

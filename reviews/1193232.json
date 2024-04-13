@@ -1,0 +1,237 @@
+{
+  "data": [
+    {
+      "id": 931959968,
+      "lang": "en",
+      "location_id": 1193232,
+      "published_date": "2024-01-01T22:42:41Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d1193232-r931959968-Reviews-Balcova_Termal_Otel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review931959968",
+      "text": "Best value of anyplace I've ever stayed, and I've travelled in 70 countries!  Nice room with balcony overlooking the forest, huge and delicious breakfast, use of the beautiful spa and grounds, and nearby hiking trails.  Was so great I decided to spend a whole month here!  ",
+      "title": "Best value of anyplace I've ever stayed",
+      "trip_type": "Solo travel",
+      "travel_date": "2023-11-30",
+      "user": {
+        "username": "Roam17320895609",
+        "user_location": {
+          "id": "181717",
+          "name": "North Vancouver, British Columbia"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ee/10/default-avatar-2020-8.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 778308915,
+      "lang": "en",
+      "location_id": 1193232,
+      "published_date": "2020-12-02T08:24:10Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d1193232-r778308915-Reviews-Balcova_Termal_Otel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review778308915",
+      "text": "A very good place to relax and rest. Lots of sun on the terrace, swimming pool in the complex, beautiful ocean view. Nice contact with the owner. Close to the center, shops and the beach. The port offers many attractions and excursions. The apartment is new and clean. Comfortable beds. I will definitely come back to this place.",
+      "title": "Nice Place",
+      "trip_type": "Business",
+      "travel_date": "2020-01-31",
+      "user": {
+        "username": "lukas_masseur",
+        "user_location": {
+          "id": "190455",
+          "name": "Norway"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1c/63/03/21/lukas-j.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1c/63/03/21/lukas-j.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1c/63/03/21/lukas-j.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1c/63/03/21/lukas-j.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/63/03/21/lukas-j.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "1": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "2": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 795925135,
+        "title": "Owner response",
+        "text": "Dear Guest,\nFirst of all thank you for choosing Balçova Thermal Hotel and thank you for your feedback and your comments on TripAdvisor.\nYour valuable comments will be very useful for restructuring our quality and earning your loyalty. Our goal is always to provide 100% satisfaction to our valued guests. We will be glad to see you again at our hotel.\nThank you again for choosing Balçova Thermal Hotel.\nBest Regards,\n",
+        "lang": "en",
+        "author": "Balçova Termal",
+        "published_date": "2021-07-07T04:51:47Z"
+      }
+    },
+    {
+      "id": 740936171,
+      "lang": "en",
+      "location_id": 1193232,
+      "published_date": "2020-01-24T06:45:50Z",
+      "rating": 3,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d1193232-r740936171-Reviews-Balcova_Termal_Otel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review740936171",
+      "text": "This evaluation is about the thermal pools which are located next to the hotel. As a native of this region, I go to the thermal baths from time to time, which gies me an opportunity to see the decay of management there. Namely, the pools are fine, the criteria for hygiene are very reasonable, compared to some hotels in the city. However: the visitors who do not follow up the rules and regulations about using these pools are not warned by the people who are in charge of taking care of these pools. It is clear that the management does not want to scare people by enforcing these rules. Wearing a cap should be compulsory for everybody. Other than that it's just fine.",
+      "title": "Mismanagement Problems",
+      "trip_type": "NONE",
+      "travel_date": "2019-12-31",
+      "user": {
+        "username": "excess65",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/de/0a/default-avatar-2020-35.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/de/0a/default-avatar-2020-35.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/de/0a/default-avatar-2020-35.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/de/0a/default-avatar-2020-35.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/de/0a/default-avatar-2020-35.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "1": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Cleanliness"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 742357274,
+        "title": "Owner response",
+        "text": "Dear Guest,\nFirst of all thank you for choosing Balçova Thermal Hotel and thank you for your feedback and your comments on TripAdvisor.\nYour valuable comments will be very useful for restructuring our quality and earning your loyalty. About this issue necessary information will be given to the relevant people and departments. Our goal is always to provide 100% satisfaction to our valued guests. \nWe will be glad to see you again at our hotel.\nBest Regards,\n",
+        "lang": "en",
+        "author": "Balçova T",
+        "published_date": "2020-02-01T06:04:08Z"
+      }
+    },
+    {
+      "id": 715757273,
+      "lang": "en",
+      "location_id": 1193232,
+      "published_date": "2019-10-06T11:12:29Z",
+      "rating": 3,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d1193232-r715757273-Reviews-Balcova_Termal_Otel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review715757273",
+      "text": "Stayed for two nights on a business trip. Had made the reservation via expedia. First they could not find it, after 10 min of search Evreka! Room clean and tidy, enough for a single stay but small for two.  Breakfast slightly above average. Overall average place.",
+      "title": "Average hotel & service",
+      "trip_type": "Business",
+      "travel_date": "2019-10-31",
+      "user": {
+        "username": "towfik2017",
+        "user_location": {
+          "id": "2493398",
+          "name": "Darica, Kocaeli Province"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/0c/e4/d0/72/towfik2016.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/0c/e4/d0/72/towfik2016.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/0c/e4/d0/72/towfik2016.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/0c/e4/d0/72/towfik2016.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/0c/e4/d0/72/towfik2016.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 716926569,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nFirst of all, thank you for choosing Balçova Thermal Hotel.\nOur priority is to provide you with the traditional Balçova Thermal Hospitality and to produce beautiful memories for you. We would like to emphasize that comments from our guests are very valuable to us and play an important role in achieving the highest quality standards.\nWe are happy to welcome you again in our hotel.\n\nBest Regards\n",
+        "lang": "en",
+        "author": "Balçova T",
+        "published_date": "2019-10-10T03:48:49Z"
+      }
+    },
+    {
+      "id": 711321606,
+      "lang": "en",
+      "location_id": 1193232,
+      "published_date": "2019-09-20T04:06:46Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d1193232-r711321606-Reviews-Balcova_Termal_Otel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review711321606",
+      "text": "My wife and I were some what disappointed by the cleanliness of the place, our room was a tight squize and everything felt warn or either broken and our bathroom stank of rotten egg with just a very unhyginic looking bath tub. The pictures are not true to the condition. When I called to report this, I was told the manager would call back, but nothing after that. We ended up having showers strickly in the indoor and outdoor pool showers that were also unpleasant, but at least the water wasn't smelly, just an awful experience.\n\nOn booking I mentioned that my wife and I were newly wed and it's our first trip together and if they could treat us, but nothing was done and the place seems like a place for the ill and elderly. Staff seem miserable.\n\nSome pools not were not in service so the outdoor waterpark was somthing i was looking forward to but that was half a disappointment.\n\nThe breakfast was a large selection of cheese and olives, but the hot food was always cold. I could go on, but we concluded to simply do not recommend.",
+      "title": "Expected more, the pictures misrepresent the place.",
+      "trip_type": "Couples",
+      "travel_date": "2019-09-30",
+      "user": {
+        "username": "Savaslazx",
+        "user_location": {
+          "id": "186338",
+          "name": "London, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/7a/default-avatar-2020-25.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 716617141,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nFirst of all thank you for choosing Balçova Thermal Hotel and thank you for your feedback and your comments on TripAdvisor.\nIn 2019-2020 year a renovation work done in all the hotel is planned. Due to the thermal water can be smell sometimes in the bathroom. Your comments will be forwarded to the relevant people and departments.\nYour valuable comments will be very useful for restructuring our quality and earning your loyalty. Our goal is always to provide 100% satisfaction to our valued guests. We will be glad to see you again at our hotel.\n\nBest Regards,\n\n",
+        "lang": "en",
+        "author": "Balçova T",
+        "published_date": "2019-10-09T06:54:53Z"
+      }
+    }
+  ]
+}

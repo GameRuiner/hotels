@@ -1,0 +1,310 @@
+{
+  "location_id": "4114901",
+  "name": "Anantara Downtown Dubai",
+  "description": "At Anantara Downtown Dubai Hotel, the vibrant city lies just beyond the lobby. Choose an elegant sanctuary where iconic views stretch before you and dynamic energy infuses your stay. Browse Dubai Mall, watch the wondrous Dubai Fountain and stand in awe of Burj Khalifa. Complete convenience awaits alongside exquisite gourmet experiences and tranquil moments at the Thai-inspired Anantara Spa.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d4114901-Reviews-Anantara_Downtown_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Business Bay",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "71847",
+    "address_string": "Business Bay, Dubai 71847 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.185678",
+  "longitude": "55.263123",
+  "timezone": "Asia/Dubai",
+  "phone": "01197144441444",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d4114901-Anantara_Downtown_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#204 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "204"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "3390",
+  "review_rating_count": {
+    "1": "29",
+    "2": "32",
+    "3": "81",
+    "4": "374",
+    "5": "2874"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "2427",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d4114901-m66827-Reviews-Anantara_Downtown_Dubai-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Free parking",
+    "Free Wifi",
+    "Pool",
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Electric vehicle charging station",
+    "Additional Bathroom",
+    "Allergy-free Room",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Fitness / Spa Locker Rooms",
+    "Free Private Parking Nearby",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Head Massage",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Massage",
+    "Newspaper",
+    "Outdoor Furniture",
+    "Pool / Beach Towels",
+    "Private Check-in / Check-out",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Shoeshine",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Public Wifi",
+    "Air Purifier",
+    "ATM On Site",
+    "Bidet",
+    "Burmese",
+    "Express Check-in / Check-out",
+    "Clothes Dryer",
+    "Couples Massage",
+    "Dining Area",
+    "Electric Kettle",
+    "Facial Treatments",
+    "Filipino",
+    "First Aid Kit",
+    "Foot Bath",
+    "Foot Massage",
+    "Free Wifi in the Business Center",
+    "Free Wired Internet in the Business Center",
+    "Full Body Massage",
+    "Gift Shop",
+    "Hand Massage",
+    "Highchairs Available",
+    "Hindi",
+    "Indonesian",
+    "Landmark View",
+    "Makeup Services",
+    "Manicure",
+    "Neck Massage",
+    "Nepali",
+    "Nightclub / DJ",
+    "On-Demand Movies",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Pool View",
+    "Pool with View",
+    "Private Bathrooms",
+    "Paid Private Parking On-site",
+    "Paid Private Parking Nearby",
+    "Russian",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Sinhala",
+    "Sofa",
+    "Spanish",
+    "Swahili",
+    "Tamil",
+    "Tile / Marble Floor",
+    "Ukrainian",
+    "Umbrella",
+    "Urdu",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Waxing Services",
+    "Wine / Champagne",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "parent_brand": "Anantara Group",
+  "brand": "Anantara Resort & Spa",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Value",
+    "Modern"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620621",
+      "name": "Business Bay"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "1020"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "934"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "224"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "635"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "240"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "location_id": "647102",
+  "name": "Steigenberger ALDAU Beach Hotel",
+  "description": "The Steigenberger ALDAU Beach Hotel is an exclusive luxury hotel built in fascinating Swahili architecture, situated directly on the beach at the southern tip of Hurghada with a spectacular view of the sea. The hotel is famous for its luxurious spacious rooms and superb restaurants, and it presents a variety of unrivaled features; from a unique Lazy River, inviting you to lose yourself in the tranquility of a gentle river ride, floating through the landscaped gardens until you disembark into an amazing pool covering 5,000 m3. A private beach that is almost half a kilometer in length, just to relax or to play, with \"Ilios\" the world class dive club and aqua center, where you can scuba dive, snorkel, go windsurfing, water skiing or parasailing. A 9 hole par 3 golf course, floodlit, for playing a challenging game of golf under the summer night sky. As for the feeling of complete well-being; immerse yourself in 1000 m2 of the \"Planet Spa\" for pampering body treatments.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297549-d647102-Reviews-Steigenberger_ALDAU_Beach_Hotel-Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Youssif Afifi Road",
+    "city": "Hurghada",
+    "country": "Egypt",
+    "postalcode": "84111",
+    "address_string": "Youssif Afifi Road, Hurghada 84111 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Hurghada",
+      "location_id": "297549"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.164083",
+  "longitude": "33.824524",
+  "timezone": "Africa/Cairo",
+  "phone": "01120653465400",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297549-d647102-Steigenberger_ALDAU_Beach_Hotel-Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297549",
+    "ranking_string": "#12 of 325 hotels in Hurghada",
+    "geo_location_name": "Hurghada",
+    "ranking_out_of": "325",
+    "ranking": "12"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "8736",
+  "review_rating_count": {
+    "1": "71",
+    "2": "70",
+    "3": "192",
+    "4": "870",
+    "5": "7534"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "10110",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297549-d647102-m66827-Reviews-Steigenberger_ALDAU_Beach_Hotel-Hurghada_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Pool",
+    "Free parking",
+    "Business center",
+    "Internet",
+    "Beachfront",
+    "Paid Wifi",
+    "Paid Internet",
+    "Beach Access",
+    "Suites",
+    "Free Internet",
+    "Wheelchair access",
+    "Meeting rooms",
+    "Shuttle Bus Service",
+    "Spa",
+    "Hot Tub",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Family Rooms",
+    "Babysitting",
+    "Kids Activities",
+    "Room service",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Golf course",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Lazy River",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Butler Service",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Free airport transportation",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Sauna",
+    "Additional Bathroom",
+    "Aerobics",
+    "Allergy-free Room",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Bridal Suite",
+    "Couples Massage",
+    "Currency Exchange",
+    "Darts",
+    "Diving",
+    "Doorperson",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Hammam",
+    "Head Massage",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Nightclub / DJ",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shoeshine",
+    "Shops",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock"
+  ],
+  "parent_brand": "Deutsche Hospitality",
+  "brand": "Steigenberger Hotels and Resorts",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Green",
+    "Business"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "267"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "2663"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "334"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "3513"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "950"
+    }
+  ],
+  "awards": []
+}

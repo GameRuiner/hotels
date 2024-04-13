@@ -1,0 +1,279 @@
+{
+  "data": [
+    {
+      "id": 945780002,
+      "lang": "en",
+      "location_id": 306762,
+      "published_date": "2024-04-08T00:26:21Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d306762-r945780002-Reviews-Towers_Rotana-Dubai_Emirate_of_Dubai.html?m=66827#review945780002",
+      "text": "Just returned from a weeks stay with my husband and 2 teenage sons. This hotel is faultless. Room was amazing and clean with a great view. Great location near train stop. You are one stop away from the Burj/Dubai Mall.  Pool staff can’t do enough to help you! Life guards are constantly ensuring everyone is safe, safety really is the priority with children in the pool. Reassuring to see! Staff up there find you somewhere to sit, get you towels etc.  Breakfast was busy but tasty! Room service lady was brilliant and went the extra mile every morning! Free Shuttle bus to the mall and beach was a great added touch! Very handy! All in all the staff make this hotel! Incredible!\nThank you for a fantastic holiday. We can’t wait to come back to the Towers Rotana!",
+      "title": "Amazing!!!",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "annabel6441",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/01/2e/70/97/avatar023.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/01/2e/70/97/avatar023.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/01/2e/70/97/avatar023.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 945687797,
+      "lang": "en",
+      "location_id": 306762,
+      "published_date": "2024-04-07T08:23:30Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d306762-r945687797-Reviews-Towers_Rotana-Dubai_Emirate_of_Dubai.html?m=66827#review945687797",
+      "text": "Excellent city hotel in the heart of Dubai.\nThe location is superb - 3 minutes to the metro station, about 25 minutes walk to Burj Khalifa, 15 minutes by taxi to La Mer beach.\n\nI had a club room on the 22nd floor with a gorgeous view, the room is clean and spacious, has everything you need including a capsule coffee machine.\n\nThere is a free shuttle to La Mer beach 4 times a day, you get a beach bag and towel. The hotel has a pool, it is on the 6th floor overlooking the Dubai high-rises. \n\nThe hotel has several restaurants, with different types of food, buffet and order a la carte. European and Asian cuisine, all very tasty and fresh. HB+ meals include wine and beer, you can choose lunch or dinner.\n\nOn the first floor is a traditional English pub with live music, highly recommended.\n\nI would like to mention the very friendly and always ready to help hotel staff, especially the reception staff: Shokhista, Prashant and Daryl, all speak excellent English and Shokhista knows Russian.  \n\nIt's hard to pick on anything, everything is to a very high standard, maybe we should add usb or type-c sockets to the room.\nI definitely recommend the hotel - perfect combination of price/quality!",
+      "title": "Comfortable vacation in Dubai",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "A1493GG_",
+        "user_location": {
+          "id": "298484",
+          "name": "Moscow, Central Russia"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ea/74/default-avatar-2020-68.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ea/74/default-avatar-2020-68.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ea/74/default-avatar-2020-68.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ea/74/default-avatar-2020-68.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ea/74/default-avatar-2020-68.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 944729422,
+      "lang": "en",
+      "location_id": 306762,
+      "published_date": "2024-03-31T23:53:18Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d306762-r944729422-Reviews-Towers_Rotana-Dubai_Emirate_of_Dubai.html?m=66827#review944729422",
+      "text": "We stayed at Rotana Towers because it is very near to the metro station. It is in a very convenient location. The property is very well and the room are comfortable (except that we booked for 4 people and they only had rooms with 2 beds). \nBreakfast buffet is very good and it worth it. THe bar at the lobby is really nice if you are staying with kids and want to have some \"solo\" time without leaving the hotel.\nThe staff is really helpful and very nice! ",
+      "title": "Dubai for a few days",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "valetep",
+        "user_location": {
+          "id": "293974",
+          "name": "Istanbul"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/43/default-avatar-2020-11.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/43/default-avatar-2020-11.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944916354,
+        "title": "Owner response",
+        "text": "Dear Valetep,\n\nThank you for your review on TripAdvisor.\n\nWe are deeply honored to learn that you had an exceptional experience with us. Our team is committed to delivering outstanding experiences for our guests, and your positive feedback holds immense significance for us. We eagerly anticipate your return in the near future.\n\nWith best regards,\n\nStefan Thumiger\nGeneral Manager\n",
+        "lang": "en",
+        "author": "Towers Rotana Dubai ",
+        "published_date": "2024-04-02T07:14:08Z"
+      }
+    },
+    {
+      "id": 944339173,
+      "lang": "en",
+      "location_id": 306762,
+      "published_date": "2024-03-29T03:04:21Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d306762-r944339173-Reviews-Towers_Rotana-Dubai_Emirate_of_Dubai.html?m=66827#review944339173",
+      "text": "Very good food\nVery good connections to metro stations\nFountains view\nFuture Museum\nDubai Mall\nDubai city tour\nVery good position and views \nVery good customer service\nNice people in the hotel\nVery good services from the hotel\nVery good staff hotel",
+      "title": "Very good Towers Rotana Hotel",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "P9355LHmariusm",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f4/20/default-avatar-2020-31.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 944917346,
+        "title": "Owner response",
+        "text": "Dear P9355LHmariusm,\n\nThank you for your review on TripAdvisor.\n\nReceiving praise for our products and services is always rewarding. Compliments like yours keep us all highly motivated in creating an amazing experience for our guests. The entire team looks forward to welcoming you back soon.\n\nWith best regards,\n\nStefan Thumiger\nGeneral Manager\n",
+        "lang": "en",
+        "author": "Towers Rotana Dubai ",
+        "published_date": "2024-04-02T07:23:51Z"
+      }
+    },
+    {
+      "id": 943911629,
+      "lang": "en",
+      "location_id": 306762,
+      "published_date": "2024-03-26T13:09:01Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d306762-r943911629-Reviews-Towers_Rotana-Dubai_Emirate_of_Dubai.html?m=66827#review943911629",
+      "text": "The hotel is nice and clean with delicious breakfast. The hotel staff is super friendly got my early check in as I requested them. It was perfect location for me to reach center Dubai mall and the beach.",
+      "title": "Perfect location",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "chandan541",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/7c/01/default-avatar-2020-5.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 943973449,
+        "title": "Owner response",
+        "text": "Dear Chandan541,\n\nThank you for your review on TripAdvisor.\n\nIt is truly a pleasure to read about how fantastic your visit was at Towers Rotana. Thank you for all your kind comments, and we eagerly look forward to welcoming you again in the future.\n\nWith best regards,\n\nStefan Thumiger\nGeneral Manager\n",
+        "lang": "en",
+        "author": "Towers Rotana Dubai ",
+        "published_date": "2024-03-27T03:40:10Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "location_id": "9805253",
+  "name": "Pickalbatros White Beach Resort Hurghada",
+  "description": "White Beach Resort is a contemporary resort built on 20 acres of fabulous sandy beaches. In a tranquil setting and overlooking the exotic natural seascape you’ll enjoy the holiday of your dreams. With direct access to 150m of sandy beach, this family friendly yet luxurious resort will entrance you from your first step inside. Enjoy a variety of sports and entertainment with our dynamic team or indulge and relax in our top of the line spa. Our spacious rooms benefit from sea views and beautiful furnishings; so no matter where you are in our resort, your view and experience will be fantastic.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297549-d9805253-Reviews-Pickalbatros_White_Beach_Resort_Hurghada-Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "El Corniche St., Villages Road",
+    "street2": "Al Mamsha El Seyahi",
+    "city": "Hurghada",
+    "country": "Egypt",
+    "postalcode": "84511",
+    "address_string": "El Corniche St., Villages Road Al Mamsha El Seyahi, Hurghada 84511 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Hurghada",
+      "location_id": "297549"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.21749",
+  "longitude": "33.838394",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297549-d9805253-Pickalbatros_White_Beach_Resort_Hurghada-Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297549",
+    "ranking_string": "#24 of 325 hotels in Hurghada",
+    "geo_location_name": "Hurghada",
+    "ranking_out_of": "325",
+    "ranking": "24"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "2555",
+  "review_rating_count": {
+    "1": "33",
+    "2": "33",
+    "3": "90",
+    "4": "237",
+    "5": "2163"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "4558",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297549-d9805253-m66827-Reviews-Pickalbatros_White_Beach_Resort_Hurghada-Hurghada_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Kids Activities",
+    "Beachfront",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Water Park",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Butler Service",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Aerobics",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Bottled Water",
+    "24-Hour Check-in",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Darts",
+    "Diving",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "German",
+    "Hair Dryer",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Mini Golf",
+    "Outdoor Furniture",
+    "Polish",
+    "Pool / Beach Towels",
+    "Russian",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Snorkeling",
+    "Soundproof Rooms",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Beach Access",
+    "Kids pool",
+    "Cable / Satellite TV",
+    "Children's Playground",
+    "Clothes Rack",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Full Body Massage",
+    "Highchairs Available",
+    "Outdoor Dining Area",
+    "Pool View",
+    "Private Bathrooms",
+    "Tile / Marble Floor",
+    "Umbrella",
+    "Wardrobe / Closet",
+    "Waterslide",
+    "Yoga Classes"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Trendy",
+    "Centrally Located"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "11"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "736"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "66"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1216"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "218"
+    }
+  ],
+  "awards": []
+}

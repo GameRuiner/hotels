@@ -1,0 +1,333 @@
+{
+  "data": [
+    {
+      "id": 945440388,
+      "lang": "en",
+      "location_id": 229676,
+      "published_date": "2024-04-05T08:23:54Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d229676-r945440388-Reviews-Catalonia_Barcelona_Plaza-Barcelona_Catalonia.html?m=66827#review945440388",
+      "text": "Hotel in a very good location, right in front of the hotel there is a bus stop to the airport.  Very large breakfast room and tasty food.  The only minus is the lack of smiles on the faces of the staff... as if they were working there for a penalty...",
+      "title": "Very successful stay",
+      "trip_type": "Couples",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "785_ukaszw",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/06/59/18/be/lukasz-w.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/06/59/18/be/lukasz-w.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/06/59/18/be/lukasz-w.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/06/59/18/be/lukasz-w.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945552318,
+        "title": "Owner response",
+        "text": "Dear  785_ukaszw.\n\nThank you so much for the time invested in reviewing our hotel and for the score awarded to us.\n\nWe are glad to know that your stay with us has been great and that you have enjoyed our excellent location and the fantastic buffet breakfast.\n\nWe appreciate your comments and we will work to improve.\n\nAll the Catalonia Barcelona Plaza Hotel's team is at your complete disposal and we look forward to welcoming you soon again.\n\nBest regards,\n\nMaximiliano Otero Arriola - Adjoined manager",
+        "lang": "en",
+        "author": "Lourdes Sitjà",
+        "published_date": "2024-04-06T07:16:01Z"
+      }
+    },
+    {
+      "id": 945298124,
+      "lang": "en",
+      "location_id": 229676,
+      "published_date": "2024-04-04T04:23:52Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d229676-r945298124-Reviews-Catalonia_Barcelona_Plaza-Barcelona_Catalonia.html?m=66827#review945298124",
+      "text": "Catalonia Barcelona Plaza has the best location! Convenient & practical! Our room has a good view & everything is good in our room.\nDiana, the front desk staff, has been excellent in making our stay at your hotel so comfortable & very welcome! She helped arrange our visits to the tourism spots & recommended restaurants for us too. She is lovely, friendly & helpful! Thank you!",
+      "title": "Beautiful Barcelona, April 2024",
+      "trip_type": "Couples",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "jrmlar",
+        "user_location": {
+          "id": "293951",
+          "name": "Malaysia"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/2b/a0/92/f5/jrmlar.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/2b/a0/92/f5/jrmlar.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/2b/a0/92/f5/jrmlar.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/2b/a0/92/f5/jrmlar.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945551937,
+        "title": "Owner response",
+        "text": "Dear jrmlar,\n\nThank you so much for your kind review and for the score awarded to our hotel.\n\nWe are pleased to know that your stay with us has been great and that you have enjoyed our excellent location, the comfort at our rooms and the kindness from our staff, specially from our collegue Diana.\n\nAll the Catalonia Barcelona Plaza Hotel's team is at your complete disposal and we look forward to welcoming you soon again.\n\nBest Regards,\n\nMaximiliano Otero Arriola - Adjoined manager",
+        "lang": "en",
+        "author": "Lourdes Sitjà",
+        "published_date": "2024-04-06T07:11:40Z"
+      }
+    },
+    {
+      "id": 944379874,
+      "lang": "en",
+      "location_id": 229676,
+      "published_date": "2024-03-29T10:06:51Z",
+      "rating": 4,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d229676-r944379874-Reviews-Catalonia_Barcelona_Plaza-Barcelona_Catalonia.html?m=66827#review944379874",
+      "text": "Due to unforeseen circumstances, our stay at this property was interrupted by an accident.  The staff was so helpful and caring and did everything possible to aid us. We had to extend our time at their property in order to get a flight home. Hotel management, front desk associates, waitstaff in the restaurant, bellman, you name it were there for us.  Top notch team of people with hearts of gold. Special shout out to Anna, Linda, David & Pau",
+      "title": "In time of need - people step up",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "kaye406",
+        "user_location": {
+          "id": "1438847",
+          "name": "North Carolina Mountains, North Carolina"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/9f/default-avatar-2020-16.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944753326,
+        "title": "Owner response",
+        "text": "Dear Kaye406,\n\nThank you so much for the time invested in reviewing our hotel and for the score awarded to us.\n\nIt was a pleasure for us to have you at the hotel and help you before you get back home.\n\nAll the Catalonia Barcelona Plaza Hotel's team is at your complete disposal and we look forward to welcoming you soon again.\n\nBest regards,\n\nMaximiliano Otero Arriola - Adjoined manager",
+        "lang": "en",
+        "author": "Lourdes Sitjà",
+        "published_date": "2024-04-01T04:48:34Z"
+      }
+    },
+    {
+      "id": 943388589,
+      "lang": "en",
+      "location_id": 229676,
+      "published_date": "2024-03-22T11:35:09Z",
+      "rating": 3,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d229676-r943388589-Reviews-Catalonia_Barcelona_Plaza-Barcelona_Catalonia.html?m=66827#review943388589",
+      "text": "Frequent visitor to Barcelona conference and this time at the Palau Congressos. Would have given this a four star if it weren’t for the stuffy rooms. Apparently they turned off the central aircon in March and so they recommend visitors to open the windows if they don’t want some fresh air. The room temp rose up to 29C at night when I tried to turn on the thermostat on the wall. When I opened the double windows the traffic noises outside made it harder to fall asleep. Wish they could at least put an electric fan inside the rooms. Otherwise the staff is friendly, rooms are spacious and clean, breakfast has a fair variety and of course the Metro is just right outside.",
+      "title": "Great hotel except for the lack of aircon in late March",
+      "trip_type": "Business",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "bbyma",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/13/54/f8/1c/bbyma.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/13/54/f8/1c/bbyma.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/13/54/f8/1c/bbyma.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/13/54/f8/1c/bbyma.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/13/54/f8/1c/bbyma.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 943776084,
+        "title": "Owner response",
+        "text": "Dear bbyma,\n\nThank you so much for the time invested in reviewing our hotel.\n\nWe are glad to know that you have enjoyed the kindness from our staff, our rooms' size and cleaning service and the varied buffet breakfast.\n\nWe appreciate your comments and suggestions that help us to improve our services and facilities and we will start working on them immediately.\n\nAll the Catalonia Barcelona Plaza Hotel's team is at your complete disposal and we look forward to welcoming you soon again.\n\nBest Regards,\n\nMaximiliano Otero Arriola - Adjoined manager",
+        "lang": "en",
+        "author": "Lourdes Sitjà",
+        "published_date": "2024-03-25T12:04:26Z"
+      }
+    },
+    {
+      "id": 941947472,
+      "lang": "en",
+      "location_id": 229676,
+      "published_date": "2024-03-12T17:11:51Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d229676-r941947472-Reviews-Catalonia_Barcelona_Plaza-Barcelona_Catalonia.html?m=66827#review941947472",
+      "text": "I had a great time, the hotel is wonderful, clean, the breakfast is plentiful and very tasty. The workers are nice, the cleaning ladies came to clean every day. Everything is close, the location is very good.",
+      "title": "It's wonderful!",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Heni2024",
+        "user_location": {
+          "id": "274887",
+          "name": "Budapest, Central Hungary"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e5/2b/default-avatar-2020-52.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e5/2b/default-avatar-2020-52.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e5/2b/default-avatar-2020-52.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e5/2b/default-avatar-2020-52.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e5/2b/default-avatar-2020-52.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 942156140,
+        "title": "Owner response",
+        "text": "Dear Heni2024,\n\nThank you so much for your kind review and for the score awarded to our hotel.\n\nWe are glad to know that you have had a great time during your stay and that you have enjoyed our excellent location, the comfort at our rooms, the delicious buffet breakfast and the kindness and professionalism from our staff.\n\nAll the Catalonia Barcelona Plaza Hotel's team is at your complete disposal and we look forward to welcoming you soon again.\n\nBest Regards,\n\nMaximiliano Otero Arriola - Adjoined manager\n\n ",
+        "lang": "en",
+        "author": "Lourdes Sitjà",
+        "published_date": "2024-03-13T08:26:53Z"
+      }
+    }
+  ]
+}

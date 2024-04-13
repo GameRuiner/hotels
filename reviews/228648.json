@@ -1,0 +1,299 @@
+{
+  "data": [
+    {
+      "id": 945694479,
+      "lang": "en",
+      "location_id": 228648,
+      "published_date": "2024-04-07T09:18:23Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d228648-r945694479-Reviews-Alexandra_Barcelona_Hotel_Curio_Collection_by_Hilton-Barcelona_Catalonia.html?m=66827#review945694479",
+      "text": "Nothing special on the exterior but very nice rooms....ours had a little balcony overlooking Las Ramblas de Catyluna.   Good location to walk about.   Nice bar area and very nice breakfast buffet each morning.   Comfortable, well appointed rooms.   Jacuzzi tub and rainshower head shower.   Very friendly staff and good service in the bar and restaurant",
+      "title": "Wonderful location--Nice place!",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Flipper1954",
+        "user_location": {
+          "id": "38689",
+          "name": "Ellsworth, Kansas"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ea/b2/default-avatar-2020-69.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945882853,
+        "title": "Owner response",
+        "text": "Dear Flipper1954,\n\nThank you for your positive review about your experience at the Alexandra Barcelona Hotel, Curio Collection by Hilton. We're delighted to hear that you enjoyed your stay with us and found our location convenient for exploring the city. \n\nIt's great to know that you appreciated the amenities in your room, including the balcony, jacuzzi tub, and rainshower head shower. We're also glad you enjoyed our bar area and breakfast buffet, and that our staff provided friendly and attentive service throughout your visit. \n\nWe hope to welcome you back for another enjoyable stay in the future! If there's anything else we can do to enhance your experience, please don't hesitate to let us know.\n\nKind regards,\n\nBorja Aparicio\nDuty Manager",
+        "lang": "en",
+        "author": "Borja Aparicio",
+        "published_date": "2024-04-08T16:33:19Z"
+      }
+    },
+    {
+      "id": 945526784,
+      "lang": "en",
+      "location_id": 228648,
+      "published_date": "2024-04-06T02:09:08Z",
+      "rating": 3,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d228648-r945526784-Reviews-Alexandra_Barcelona_Hotel_Curio_Collection_by_Hilton-Barcelona_Catalonia.html?m=66827#review945526784",
+      "text": "Location is perfect especially if you plan on doing some shopping outside the tourist areas. The hotel itself is very ly dark and the rooms are the equivalent of staying at your grandparents house guest bedroom. Very cluttered and mismatch of furniture and lighting. Also, we had a smell in our room and others I overheard complain as well. One of the staff said it had something to do with the sinks. They fixed ours but it’s not something that should happen frequently at a hotel. I wouldn’t stay here again unless it was a very low price per night.",
+      "title": "Disappointed for a family visiting Barcelona…",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "tripsmatter",
+        "user_location": {
+          "id": "49022",
+          "name": "Charlotte, North Carolina"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/83/87/42/tripsmatter.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/83/87/42/tripsmatter.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/83/87/42/tripsmatter.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/83/87/42/tripsmatter.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/83/87/42/tripsmatter.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945577569,
+        "title": "Owner response",
+        "text": "Dear Trips Matter,\n\nThank you for sharing your experience at the Alexandra Barcelona Hotel, Curio Collection by Hilton. We appreciate your comments about our hotel's location and are glad to hear that you found it convenient for shopping and other activities.\n\nRegarding your comments about the ambiance and furnishings of the rooms, we would like to clarify that it is part of our identity to combine the modern with the antique, although we understand that this aesthetic may not appeal to all guests. On the other hand, we understand that some guests may not find the lighting sufficient.  In these cases we can offer additional lamps.\n\nWe apologize for any inconvenience caused by the smell issue in your bathroom. Occasionally, the bathroom traps may need to be refilled, and we appreciate your patience as we addressed and resolved this issue promptly.\n\nWe value your feedback and will use it to continually improve our services and facilities. If you have any further concerns or if there's anything else we can assist you with, please don't hesitate to reach out to us. \n\nWe hope to have the opportunity to welcome you back in the future.\n\nKind regards,\n\nBorja Aparicio\nDuty Manager",
+        "lang": "en",
+        "author": "Borja Aparicio",
+        "published_date": "2024-04-06T11:05:55Z"
+      }
+    },
+    {
+      "id": 944890993,
+      "lang": "en",
+      "location_id": 228648,
+      "published_date": "2024-04-02T03:14:56Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d228648-r944890993-Reviews-Alexandra_Barcelona_Hotel_Curio_Collection_by_Hilton-Barcelona_Catalonia.html?m=66827#review944890993",
+      "text": "Walking distance to Diagonal metro station, Casa Mila, Casa Batllo and plenty of restaurants; very easy to flag down taxi outside the hotel; Staff was very nice and response to email was fast; great collection of Whisky at bar, which also serves excellent foods; the shower is very modern with multiple shower heads.\nOnly issue I encountered was soundproof....The sound proof between rooms is not very good (probably a common issue in Hotels with vintage buildings in Europe)",
+      "title": "Great location, nice service, excellent bar",
+      "trip_type": "Business",
+      "travel_date": "2024-01-31",
+      "user": {
+        "username": "FengXueSG",
+        "user_location": {
+          "id": "294265",
+          "name": "Singapore"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/07/e3/62/fd/fengyj.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/07/e3/62/fd/fengyj.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/07/e3/62/fd/fengyj.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/07/e3/62/fd/fengyj.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/07/e3/62/fd/fengyj.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 944983241,
+        "title": "Owner response",
+        "text": "Dear FengXueSG,\n\nThank you for taking the time to share your feedback about your stay at the Alexandra Barcelona Hotel, Curio Collection by Hilton. We're glad to hear that you enjoyed our convenient location, friendly service, and excellent bar offerings, including our whisky collection and food selection. We appreciate your compliments on our modern shower facilities as well.\n\nWe apologize for any inconvenience you experienced with the soundproofing in your room. We understand that noise can sometimes be a challenge in historic buildings, but we're always looking for ways to improve our guests' experience. Your feedback will be taken into consideration as we continue to make enhancements to our property.\n\nThank you again for your review, and we hope to have the opportunity to welcome you back for another enjoyable stay in the future. If there's anything else we can do to make your next visit even better, please let us know.\n\nKind regards,\n\nBorja Aparicio\nDuty Manager",
+        "lang": "en",
+        "author": "Borja Aparicio",
+        "published_date": "2024-04-02T16:48:40Z"
+      }
+    },
+    {
+      "id": 944171668,
+      "lang": "en",
+      "location_id": 228648,
+      "published_date": "2024-03-27T15:39:04Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d228648-r944171668-Reviews-Alexandra_Barcelona_Hotel_Curio_Collection_by_Hilton-Barcelona_Catalonia.html?m=66827#review944171668",
+      "text": "What often makes a space warm is more than the ambiance and the sweet art display - it's the people who are eager to make your stay enjoyable! The warmth, kindness and compassion of the staff is what makes this place more beautiful than it is! I would be glad to go back in a heartbeat, because the staff here make you feel at home!",
+      "title": "Finding compassion/kindess!",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "533waisk",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e3/1f/default-avatar-2020-46.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944524015,
+        "title": "Owner response",
+        "text": "Dear Wais K,\n\nThank you so much for your kind words! We're thrilled to hear that you had such a positive experience during your stay at the Alexandra Barcelona Hotel, Curio Collection by Hilton. Our team works hard to create a welcoming and comfortable atmosphere for all our guests, and it's wonderful to know that their efforts made your stay memorable. \n\nWe truly appreciate your feedback and look forward to welcoming you back again soon! If there's anything else we can do to make your next stay even more enjoyable, please don't hesitate to let us know.\n\nKind regards,\n\nBorja Aparicio\nDuty Manager",
+        "lang": "en",
+        "author": "Borja Aparicio",
+        "published_date": "2024-03-30T11:58:01Z"
+      }
+    },
+    {
+      "id": 943769392,
+      "lang": "en",
+      "location_id": 228648,
+      "published_date": "2024-03-25T11:13:21Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d228648-r943769392-Reviews-Alexandra_Barcelona_Hotel_Curio_Collection_by_Hilton-Barcelona_Catalonia.html?m=66827#review943769392",
+      "text": "What a disappointment.  After reading the rave reviews on this property, I canceled a reservation in another hotel and decided to stay here. Unfortunately, none of the positive reviews were true for me.  I was offered a chance to upgrade the room a week ago, which I did.  When I got to the front desk they said it wasn't available, but I had just heard them give an upgrade to the person in front of me, who hadn't even asked for it.  I came directly from the airport at 11 am, and did not expect to get into my room that early.  But I was treated like an inconvenience, not the friendliness that was touted in all the other reviews.  My view, shown in the picture, is of a corner of the building next door which juts out in front of my window. I had to go the lobby to post this, as there is no internet in my room. And the onsite restaurant is only open certain days, which is not mentioned on their website.  I will be moving to another hotel in the morning.",
+      "title": "Terribly disappointing for one-time visit to Barcelona",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "annkw2013",
+        "user_location": {
+          "id": "49365",
+          "name": "Mooresville, North Carolina"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e6/ea/default-avatar-2020-54.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e6/ea/default-avatar-2020-54.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e6/ea/default-avatar-2020-54.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e6/ea/default-avatar-2020-54.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e6/ea/default-avatar-2020-54.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 943898571,
+        "title": "Owner response",
+        "text": "Dear Ann K G,\n\nWe are truly sorry to learn by your comment in Trip Advisor that the hotel does not meet your expectations. We wish you could have given us the opportunity to check together all your concerns and work on a resolution.\n\nI would like to cover all the points mentioned so you have a better understanding of the hotel services and procedures.\n\nFirstly, in regards of the room type, you booked a King Superior room and requested a junior suite paying the price difference. The request was denied by the hotel due to the lack of availability, and you did not have a confirmation of your request. On the other hand, as a gold member you have the benefit of have a free upgrade to a better room upon checkin time under availability, however the hotel did not have any option for 4 nights as the last two nights of your stay the hotel was almost full. You overhead a conversation with another guest who had a shorter stay and there are many factors to take under consideration: room type booked, length of stay, profile preferences…\nWe allocated you in our newest floor that has been renovated in 2024 facing our back yard, which you have partial view of the pool area in spite of not being showed in the picture posted.\n\nRegarding the restaurant, we have 3 F&B outlets where food and drinks are offered: Solomillo restaurant, Charcuteria Bar and Patio Bar. Charcuteria Bar located at the lobby is open daily until 12am. All this information is available in the welcome letter provided at checkin. Any of our staff could have resolved this query with pleasure.\nAdditionally, the opening days and hours of the Solomillo Restaurant is certainly informed in our website, you can find it in the department Restaurants along with the rest.\n\nI apologize if the service when you arrived was not friendly. I can assure you that we genuinely take care of all our guests, and it is a pleasure to us. The room was not ready at 11am and we gave priority to your room as soon as you arrived as we were not aware of your arrival time. At 12:50pm, we were able to provide you an early checkin, 2 hours before the official checkin time.\n\nFinally, the hotel Wi-Fi is also new and fast. If there is any inconvenience, there is a technical support available 24h. If you had informed us and gave us the opportunity to check your connectivity with phone or PC, making sure the correct network is chosen and in case of need, being assisted by a support agent, we could have resolved the situation.\n\nWe will be pleased to welcome you back in future stays in Barcelona and offer a memorable stay with us.\n\nSincerely,\n\nCarlota Monter\nFront Desk Manager",
+        "lang": "en",
+        "author": "Carlota Monter",
+        "published_date": "2024-03-26T11:15:34Z"
+      }
+    }
+  ]
+}

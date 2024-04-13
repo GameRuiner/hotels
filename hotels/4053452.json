@@ -1,0 +1,130 @@
+{
+  "location_id": "4053452",
+  "name": "Otel B",
+  "description": "Çeşme Otel B eğlenceli ve hareketli bir tatil geçirmeniz için tam merkezde olmasının yanısıra, Çeşmenin gündüz ve gecesi ile meşhur Ayayorgi koyuna 900 mt,Çeşme marina ve sahilrestaurantlarının tümüne 500 mt mesafededir.Ayrıca Ilıca ve huzur veren konseptiyle bilinen Alaçatı'ya 3 km, Dalyan'a 2 km, Çiftlikköy'e 4 km, Şifne ve Ildır'a 6 km mesafededir. Çarşının başında bulunan otelimize tüm dolmuşlar 10 adımdır.13 odalı otelimizde tv,klima,24 saat sıcak su,wireless,ücretli transfer aracımız mevcuttur. Aile ortamımızla kendi evinizdeki rahatlığı yaşayacaksınız. Şimdiden iyi tatiller ve iyi eğlenceler.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d4053452-Reviews-Otel_B-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "16 Eylul Mah. 3010 Sokak No:8",
+    "street2": "Cesme Merkez",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35930",
+    "address_string": "16 Eylul Mah. 3010 Sokak No:8 Cesme Merkez, Izmir 35930 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.32647",
+  "longitude": "26.30738",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d4053452-Otel_B-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#38 of 136 B&Bs / Inns in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "136",
+    "ranking": "38"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "3",
+  "review_rating_count": {
+    "1": "0",
+    "2": "0",
+    "3": "0",
+    "4": "1",
+    "5": "2"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "21",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d4053452-m66827-Reviews-Otel_B-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Internet",
+    "Kids Activities",
+    "Restaurant",
+    "Wifi",
+    "Air conditioning"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "bb",
+      "localized_name": "Bed and Breakfast"
+    }
+  ],
+  "styles": [
+    "Quaint"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "0"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "0"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "1"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "0"
+    }
+  ],
+  "awards": []
+}

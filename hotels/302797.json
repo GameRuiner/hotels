@@ -1,0 +1,262 @@
+{
+  "location_id": "302797",
+  "name": "SeaGull Beach Resort",
+  "description": "Our deluxe four star resort is the perfect location for a wonderful holiday under the warm Egyptian sun. Only a few minutes from Hurghada airport and within walking distance to downtown Hurghada. The Sea Gull Hotel is the perfect location, where you can combine great fun and action with days full of wellness, sun and relaxation. Seagull Beach Resort 4 star deluxe situated in the heart of hurghada directly on the blue water of the red sea, 10 km from the airport. May 2015 a comprehensive renovation has been done for the following: Rooms Restaurants Bars Food court at the beach (Chinese,Oriental,Italian & Indian) Fish Restaurant",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297549-d302797-Reviews-SeaGull_Beach_Resort-Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheraton Road",
+    "street2": "",
+    "city": "Hurghada",
+    "country": "Egypt",
+    "postalcode": "",
+    "address_string": "Sheraton Road, Hurghada Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Hurghada",
+      "location_id": "297549"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.215631",
+  "longitude": "33.840694",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297549-d302797-SeaGull_Beach_Resort-Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297549",
+    "ranking_string": "#68 of 325 hotels in Hurghada",
+    "geo_location_name": "Hurghada",
+    "ranking_out_of": "325",
+    "ranking": "68"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "3712",
+  "review_rating_count": {
+    "1": "246",
+    "2": "184",
+    "3": "300",
+    "4": "568",
+    "5": "2415"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "4862",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297549-d302797-m66827-Reviews-SeaGull_Beach_Resort-Hurghada_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Beachfront",
+    "Room service",
+    "Fitness center",
+    "Restaurant",
+    "Kids Activities",
+    "Bar/Lounge",
+    "Wifi",
+    "Paid Wifi",
+    "Suites",
+    "Spa",
+    "Airport transportation",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Conference Facilities",
+    "Safe",
+    "Flatscreen TV",
+    "Water Park",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Additional Bathroom",
+    "Aerobics",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Billiards",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Bridal Suite",
+    "24-Hour Check-in",
+    "Coffee Shop",
+    "Convenience Store",
+    "Czech",
+    "Darts",
+    "Diving",
+    "Doorperson",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fishing",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "24-Hour Front Desk",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Indoor Play Area for Children",
+    "Ironing Service",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Nightclub / DJ",
+    "Outdoor Furniture",
+    "Polish",
+    "Pool / Beach Towels",
+    "Private Check-in / Check-out",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Shops",
+    "Snorkeling",
+    "Steam Room",
+    "Street Parking",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Kids pool",
+    "Boating",
+    "Cable / Satellite TV",
+    "Express Check-in / Check-out",
+    "Children's Television Networks",
+    "Clothes Rack",
+    "Couples Massage",
+    "First Aid Kit",
+    "Foot Bath",
+    "Foot Massage",
+    "Full Body Massage",
+    "Georgian",
+    "Hand Massage",
+    "Head Massage",
+    "Highchairs Available",
+    "Landmark View",
+    "Makeup Services",
+    "Manicure",
+    "Neck Massage",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Pool View",
+    "Private Bathrooms",
+    "Paid Private Parking Nearby",
+    "Slovak",
+    "Tile / Marble Floor",
+    "Ukrainian",
+    "Umbrella",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Waterslide",
+    "Windsurfing",
+    "Photo Copier / Fax In Business Center",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "City View",
+    "Harbor View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "23"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "719"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "239"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1408"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "924"
+    }
+  ],
+  "awards": []
+}

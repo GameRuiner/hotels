@@ -1,0 +1,231 @@
+{
+  "location_id": "316715",
+  "name": "Sol Cosmopolitan Rhodes",
+  "description": "Amphitheatrically built, surrounded by beautiful, landscaped gardens and facing Trianta Bay, the hotel is ideal for couples and families with children, attending to all your needs with modern facilities and spacious and comfortable accommodation. The 4-star all-inclusive Sol by Meliá Cosmopolitan Rhodes boasts an ideal location on the coast of Ixia. 14 km from Diagoras Airport, only a few kilometres from the main attractions and the majestic medieval town of Rhodes, and within walking distance of shops, restaurants and nightlife, making it easy to explore this historic and colourful island. Unwind in one of the 377 modern and well-equipped rooms, relax at the swimming pools, watch the famous sunset from the main bar and sample freshly prepared international, Mediterranean and local dishes in the buffet restaurant. Lie back under the Mediterranean sun or discover Ixia beach and a choice of water sports and a paradise for fans of windsurfing and kitesurfing.esurf.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g635613-d316715-Reviews-Sol_Cosmopolitan_Rhodes-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street1": "175 Iraklidon St.",
+    "street2": "",
+    "city": "Rhodes Town",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "851 01",
+    "address_string": "175 Iraklidon St., Rhodes Town 851 01 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Rhodes Town",
+      "location_id": "635613"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.42686",
+  "longitude": "28.198936",
+  "timezone": "Europe/Athens",
+  "phone": "19292071033",
+  "write_review": "https://www.tripadvisor.com/UserReview-g635613-d316715-Sol_Cosmopolitan_Rhodes-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "635613",
+    "ranking_string": "#26 of 122 hotels in Rhodes Town",
+    "geo_location_name": "Rhodes Town",
+    "ranking_out_of": "122",
+    "ranking": "26"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "2264",
+  "review_rating_count": {
+    "1": "41",
+    "2": "70",
+    "3": "295",
+    "4": "656",
+    "5": "1202"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "2159",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g635613-d316715-m66827-Reviews-Sol_Cosmopolitan_Rhodes-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Restaurant",
+    "Internet",
+    "Beachfront",
+    "Wifi",
+    "Paid Wifi",
+    "Paid Internet",
+    "Breakfast included",
+    "Beach Access",
+    "Kids Activities",
+    "Suites",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Safe",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Kids Club",
+    "Aerobics",
+    "Baggage Storage",
+    "Billiards",
+    "Car Hire",
+    "Darts",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Game Room",
+    "German",
+    "Greek",
+    "Kid-Friendly Buffet",
+    "Massage",
+    "Snack Bar",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Table Tennis"
+  ],
+  "parent_brand": "Melia Hotels International",
+  "brand": "Sol by Melia",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Family",
+    "Ocean View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "5"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "837"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "29"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "833"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "325"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

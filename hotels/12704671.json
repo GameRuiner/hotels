@@ -1,0 +1,216 @@
+{
+  "location_id": "12704671",
+  "name": "Omega Hotel",
+  "description": "If you’re looking for a hotel in Bur Dubai, look no further than Omega Hotel. For those interested in checking out popular landmarks while visiting Bur Dubai, Omega Hotel - Bur Dubai is located a short distance from Dubai World Trade Centre only 4.3 kms from the hotel, while City Centre Mall is 3 km away. The nearest airport is Dubai International, 14 kms from Omega Hotel Dubai, and the property offers a paid airport shuttle service. The Omega Hotel features 238 luxurious rooms and suites providing the perfect touch to each beautiful appointed room. The Omega Preferential Floors redefines the luxury hotel experience combining intimacy, comfort; exclusively personalized service and attention to detail that is the hallmark of Omega Hotel. Our standard rooms are perfect for single guests and couples. Every room is equipped with best in our class features and facilities including Satellite televisions, Bath Tubs, Safe Locker, etc. Stay on course by staying connected throughout your time at Omega hotel with Complimentary 24/7 Wi-Fi access across the hotel. Maxim’s - Indulge your taste buds in Maxim’s restaurant. The Journey offers unlimited varieties of international cuisine round the clock for guest to dine in. In-Room Dining - Omega brings an Exceptional dining Experience in Dubai. This menu features a vast collection of international cuisine, healthy & vegetarian options, as well as locally inspired cuisine all for you to enjoy in the privacy & comfort of your own room. Meeting & Events - With an incomparable level of personalized service, host your business meeting in our Board room. Recreation - Do find the time to rejuvenate at our Fitness Centre and keep yourself Fit. Step out and Relax at our temperature controlled swimming Pool and steam room. On site Saloon & Spa available on chargeable basis. The staff at Omega Hotel looks forward to serving you during your upcoming visit. Check-in time: 14:00 Check-out time: 12:00",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d12704671-Reviews-Omega_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "17 - 19d Street",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "17 - 19d Street, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.123363",
+  "longitude": "55.21879",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d12704671-Omega_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#317 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "317"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "379",
+  "review_rating_count": {
+    "1": "25",
+    "2": "12",
+    "3": "20",
+    "4": "45",
+    "5": "277"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "304",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d12704671-m66827-Reviews-Omega_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Kids Activities",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Babysitting",
+    "Safe",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Arabic",
+    "Baggage Storage",
+    "Bottled Water",
+    "Car Hire",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Hindi",
+    "24-Hour Security",
+    "Telephone",
+    "Family Rooms",
+    "Nepali",
+    "Tamil",
+    "Wardrobe / Closet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Boutique",
+    "Trendy"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620595",
+      "name": "Al Raffa"
+    },
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "50"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "61"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "30"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "168"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "39"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "location_id": "1122886",
+  "name": "Otel Antik Han",
+  "description": "Welcome to Otel Antik Han, your Izmir “home away from home.” Otel Antik Han aims to make your visit as relaxing and enjoyable as possible, which is why so many guests continue to come back year after year.\nNearby landmarks such as Usakizade Kosku (0.1 mi) and Synagogue Street (Havra Sokagi) (0.3 mi) make Otel Antik Han a great place to stay when visiting Izmir.\nGuest rooms offer amenities such as air conditioning, and guests can go online with free wifi offered by the small hotel.\nOtel Antik Han features a 24 hour front desk, room service, and currency exchange, to help make your stay more enjoyable. The property also boasts free breakfast. If you are driving to Otel Antik Han, free parking is available.\nWhile visiting Izmir, you may want to try some tapas at one of the nearby restaurants, such as ARGO.\nIf you are interested in exploring Izmir, check out one of the history museums, such as Ethnography Museum and Yesilova Hoyugu Ziyaretci Merkezi.\nOtel Antik Han puts the best of Izmir at your fingertips, making your stay both relaxing and enjoyable.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d1122886-Reviews-Otel_Antik_Han-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Anafartalar Cd. No: 600 Konak Cankaya",
+    "street2": "Kucukyali, Konak",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35230",
+    "address_string": "Anafartalar Cd. No: 600 Konak Cankaya Kucukyali, Konak, Izmir 35230 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.418472",
+  "longitude": "27.130007",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d1122886-Otel_Antik_Han-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#52 of 136 B&Bs / Inns in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "136",
+    "ranking": "52"
+  },
+  "rating": "3.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.0-66827-5.svg",
+  "num_reviews": "55",
+  "review_rating_count": {
+    "1": "11",
+    "2": "6",
+    "3": "13",
+    "4": "11",
+    "5": "14"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    }
+  },
+  "photo_count": "21",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d1122886-m66827-Reviews-Otel_Antik_Han-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Free Internet",
+    "Breakfast included",
+    "Internet",
+    "Shuttle Bus Service",
+    "Room service",
+    "Free parking",
+    "Restaurant",
+    "Bar/Lounge",
+    "Pets Allowed",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Non-smoking hotel",
+    "Safe",
+    "Parking",
+    "Baggage Storage",
+    "BBQ Facilities",
+    "Car Hire",
+    "Express Check-in / Check-out",
+    "Currency Exchange",
+    "24-Hour Front Desk",
+    "Valet Parking"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "bb",
+      "localized_name": "Bed and Breakfast"
+    }
+  ],
+  "styles": [
+    "Romantic",
+    "Budget"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "5"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "13"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "8"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "15"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "11"
+    }
+  ],
+  "awards": []
+}

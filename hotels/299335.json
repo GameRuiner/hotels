@@ -1,0 +1,293 @@
+{
+  "location_id": "299335",
+  "name": "Best Western Plus Hotel Konak",
+  "description": "At the Best Western Plus Hotel Konak you're sure to find that little something extra. With our modern amenities and thoughtful design, the Best Western Plus Hotel Konak will stand out among other hotels in Izmir,İzmir. For the business traveler, a spacious work desk and free internet access are included in all our guest rooms to ensure you don't miss a beat while you're away from the office. For extended stays, each room provides a convenient in-room mini fridge that is ideal for drinks and snacks.  We also have an in-house fitness room, so you can keep up your workout routine while you're on the road. As always, the Best Western Plus Hotel Konak will provide you with the superior customer service that you are used to at Best Western® Hotels & Resorts.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d299335-Reviews-Best_Western_Plus_Hotel_Konak-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Mithatpasa Cad No: 128, Konak",
+    "street2": "",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35260",
+    "address_string": "Mithatpasa Cad No: 128, Konak, Izmir 35260 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.41418",
+  "longitude": "27.1225",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d299335-Best_Western_Plus_Hotel_Konak-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#38 of 218 hotels in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "218",
+    "ranking": "38"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "191",
+  "review_rating_count": {
+    "1": "13",
+    "2": "10",
+    "3": "34",
+    "4": "74",
+    "5": "60"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "158",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d299335-m66827-Reviews-Best_Western_Plus_Hotel_Konak-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Internet",
+    "Wifi",
+    "Free Wifi",
+    "Room service",
+    "Restaurant",
+    "Breakfast included",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Parking",
+    "Housekeeping",
+    "Shuttle Bus Service",
+    "Suites",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Pets Allowed",
+    "Airport transportation",
+    "Business center",
+    "Concierge",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Non-smoking hotel",
+    "Breakfast Available",
+    "Facilities for Disabled Guests",
+    "Arabic",
+    "Baggage Storage",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Express Check-in / Check-out",
+    "Currency Exchange",
+    "English",
+    "Free Wifi in the Business Center",
+    "French",
+    "24-Hour Front Desk",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Landmark View",
+    "Outdoor Dining Area",
+    "24-Hour Security",
+    "Shoeshine",
+    "Taxi Service",
+    "Telephone",
+    "Turkish",
+    "Valet Parking",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet"
+  ],
+  "parent_brand": "Best Western",
+  "brand": "Best Western Plus",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Bay View",
+    "Quiet"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "76"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "33"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "10"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "35"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "23"
+    }
+  ],
+  "awards": []
+}

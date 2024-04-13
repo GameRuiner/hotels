@@ -1,0 +1,218 @@
+{
+  "location_id": "295819",
+  "name": "Divan Bodrum",
+  "description": "Divan Bodrum Hotel is an oasis of casual luxury and serious serenity, a boutique hotel in one of the most exclusive corners of paradise that was named \"the Most Excellent Charming Hotel of Europe and the Mediterranean\" by Conde Nast. This exceptional distinction reflects the hotel's uniquely personal approach to guest comfort and satisfaction and its flawless combination of luxury and simplicity that allows guests to both get away from it all and have it all. Luxuriate on the private boardwalk, lapped by gentle waves or relax by the pool sipping a perfectly mixed cocktail with nothing more on your mind than which of our talented chef's tempting creations to enjoy for dinner.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298660-d295819-Reviews-Divan_Bodrum-Golturkbuku_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Kelesharim Caddesi No: 22",
+    "city": "Golturkbuku",
+    "state": "Mugla Province",
+    "country": "Turkiye",
+    "postalcode": "48483",
+    "address_string": "Kelesharim Caddesi No: 22, Golturkbuku 48483 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Golturkbuku",
+      "location_id": "298660"
+    },
+    {
+      "level": "District",
+      "name": "Bodrum District",
+      "location_id": "298020"
+    },
+    {
+      "level": "Province",
+      "name": "Mugla Province",
+      "location_id": "298019"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "37.132896",
+  "longitude": "27.37599",
+  "timezone": "Europe/Istanbul",
+  "phone": "011902523775601",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298660-d295819-Divan_Bodrum-Golturkbuku_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298660",
+    "ranking_string": "#2 of 30 hotels in Golturkbuku",
+    "geo_location_name": "Golturkbuku",
+    "ranking_out_of": "30",
+    "ranking": "2"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "275",
+  "review_rating_count": {
+    "1": "12",
+    "2": "3",
+    "3": "18",
+    "4": "42",
+    "5": "200"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "267",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298660-d295819-m66827-Reviews-Divan_Bodrum-Golturkbuku_Bodrum_District_Mugla_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Room service",
+    "Free parking",
+    "Restaurant",
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Breakfast included",
+    "Beachfront",
+    "Suites",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Spa",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Bathrobes",
+    "Fitness / Spa Locker Rooms",
+    "Ironing Service",
+    "Massage",
+    "Salon",
+    "Sun Umbrellas",
+    "Turkish",
+    "Beach Access",
+    "Airport transportation",
+    "Wifi",
+    "Meeting rooms",
+    "Fitness center",
+    "Banquet Room",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Babysitting",
+    "Poolside Bar"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Business",
+    "Boutique"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "15"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "72"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "5"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "99"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "45"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

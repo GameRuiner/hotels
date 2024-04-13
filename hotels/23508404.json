@@ -1,0 +1,270 @@
+{
+  "location_id": "23508404",
+  "name": "Sunrise Remal Resort",
+  "description": "Highlights: • Family friendly resort with water slides • Access to 8 à la carte restaurants (unlimited visits) • Family friendly rooms • State-of-the-art meeting rooms • Access to neighboring sister hotel Remal Beach Resort In the middle of Sharm El Sheikh’s scenic landscape and mountains, SUNRISE Remal Resort is an intimate oasis for comfort. The 335 family- friendly rooms at Remal Resort offer all the comfort you need for an unforgettable family vacation at the Red Sea. Every room comes with satellite TV, air conditioning, minibar with soft drinks, tea & coffee making facilities and much more. Free Wi-Fi is available throughout the resort and in all rooms. The resort offers an all- inclusive dine around experience. Enjoy culinary delights in the international restaurant with a daily changing theme buffet or dine at one of the 8 renovated à-la-carte restaurants serving Steak, Egyptian, Mexican, Mediterranean, Indian & Thai cuisine. For seafood lovers, the Resort hosts a Seafood à-la-carte restaurant (chargeable). There is a 24-hour lobby bar, beach & pool bars. It features a fully equipped gym (16+), and a full-serviced spa & beauty salon (chargeable). The large pool area with slides is set to keep you splashing at all times. For those seeking for a tranquil escape, guests have access to a private sandy beach on Ras Nasrani’s beautiful sea. The SUNRISE Kid’s Club led by professional care takers is available for kids between 3-12 years old offering Daily Educational, Entertaining Sports & Activities. Located 10 minutes from Neama Bay City Centre and Sharm El Sheikh International Airport, the hotel offers the perfect balance between desert privacy and exploring the city’s nightlife. Our all-inclusive concept includes: Breakfast, Lunch and Dinner in Buffets or a la carte Restaurants (unlimited reservations), Snacks from 12:00-17:00, 22:30-01:00, local alcoholic Beverages from 10:00-00:00, Water and Hot Beverages 24/7, Minibar with water and soft drinks, Wi-Fi, free entertainment and sports activities, and much more. Some activities/services such as Diving Center, Spa Treatment are extra charge.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d23508404-Reviews-Sunrise_Remal_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "El Montazah Ras Nasrani",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "postalcode": "46619",
+    "address_string": "El Montazah Ras Nasrani, Sharm El Sheikh 46619 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.96974",
+  "longitude": "34.41329",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d23508404-Sunrise_Remal_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#28 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "28"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "991",
+  "review_rating_count": {
+    "1": "15",
+    "2": "15",
+    "3": "41",
+    "4": "104",
+    "5": "816"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "2349",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d23508404-m66827-Reviews-Sunrise_Remal_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Kids Activities",
+    "Beachfront",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Breakfast included",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Minibar",
+    "Babysitting",
+    "Safe",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Free airport transportation",
+    "Housekeeping",
+    "Kids Club",
+    "Aerobics",
+    "Allergy-free Room",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Billiards",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Darts",
+    "Desk",
+    "Diving",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Italian",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Massage",
+    "Outdoor Furniture",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Snorkeling",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Beach Access",
+    "Free Internet",
+    "Wifi",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Conference Facilities",
+    "Swimup Bar",
+    "Flatscreen TV",
+    "Kids pool",
+    "Parking",
+    "Sauna",
+    "Breakfast in the Room",
+    "Cable / Satellite TV",
+    "Express Check-in / Check-out",
+    "Children's Playground",
+    "Clothes Rack",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Full Body Massage",
+    "German",
+    "Highchairs Available",
+    "Infirmary",
+    "Laptop Safe",
+    "Outdoor Dining Area",
+    "Pool View",
+    "Private Bathrooms",
+    "Sofa",
+    "Special Diet Menus",
+    "Tile / Marble Floor",
+    "Umbrella",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet",
+    "Yoga Classes"
+  ],
+  "parent_brand": "Sunrise Resorts & Cruises",
+  "brand": "Sunrise Resorts",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Business",
+    "Luxury"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "17"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "226"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "64"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "385"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "194"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

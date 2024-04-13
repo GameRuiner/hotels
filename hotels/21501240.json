@@ -1,0 +1,318 @@
+{
+  "location_id": "21501240",
+  "name": "DoubleTree by Hilton Dubai M square Hotel & Residences",
+  "description": "A home of Hilton's Casual Luxury! In the heart of Dubai, standing next to Burjuman mall, DoubleTree by Hilton M Square is a perfect place for the stunning views of Burj Khalifa & Dubai Frame. The contemporary design inspired by \"Industrial Chic\" and state-of-the-art amenities makes the hotel a dream spot for every modern business traveler and an urban leisure enthusiast. The uniquely styled hotel brings you 458 keys of 303 Guest Rooms, 131 Apartments & 24 Suites with World-class five dining options & 24hr Business Center. All the Rooms & Suites boast stunning Dubai Downtown or Creek view through floor-to-ceiling windows and either bathtub or bathtub & rain shower, a minibar and an electric kettle55-inch HDTV and smart lighting system. Larte is the two-floored lobby café, where you can pair up freshly oven-baked patisserie with a wide range of European coffee and chocolate bars. Guest can enjoy an aquatic escape from the hustle and bustle by indulging in \"Light & Healthy\" recipes and enticing Mocktails while enjoying the temperature-controlled outdoor swimming pool and the dedicated children's pool on the mezzanine floor. Towels are provided at the poolside. Experience an exquisite gastronomic journey of seasonal fare with spices and fresh flavors at the Indian urban restaurant called The Spice Tree. SunGlo Lounge on 19th floor brings you a 360-degree view of Dubai's historical areas as well as breath-taking panoramas of the city's modern skyline. The menu offers refreshing salads, non-alcoholic Gin & Tonic and specialised ONE OF A KIND burgers. The gorgeous Menara Ballroom can welcome up to 400 guests indoor & 160 at the outdoor terrace. Menara Ballroom can be divided into 3 separate meeting rooms based on the size of your event, with a large pre-function area bathed in daylight. A fully-equipped 24-hour fitness center and massage treatment rooms are perfect for your energizing workout & relaxation. The hotel delivers an industry-leading standard of cleanliness and disinfection procedure called Hilton's CleanStay to help Hilton guests enjoy a cleaner and safer stay. Don't forget to check hotel's In-Room-Dining menu, which brings you Taste of Hilton 24hrs to your room. Dubai International Airport is only a 6km drive from the hotel. The metro station next to the hotel will keep you well connected throughout the city.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d21501240-Reviews-DoubleTree_by_Hilton_Dubai_M_square_Hotel_Residences-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Khalifa Bin Zayed Street",
+    "street2": "M Square Building, Al Mankhool",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Sheikh Khalifa Bin Zayed Street M Square Building, Al Mankhool, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.250679",
+  "longitude": "55.300755",
+  "timezone": "Asia/Dubai",
+  "phone": "18884466677",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d21501240-DoubleTree_by_Hilton_Dubai_M_square_Hotel_Residences-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#142 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "142"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1127",
+  "review_rating_count": {
+    "1": "45",
+    "2": "20",
+    "3": "25",
+    "4": "71",
+    "5": "966"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1008",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d21501240-m66827-Reviews-DoubleTree_by_Hilton_Dubai_M_square_Hotel_Residences-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Kitchenette",
+    "Spa",
+    "Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Refrigerator in room",
+    "Minibar",
+    "Babysitting",
+    "Safe",
+    "Rooftop Pool",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Adult pool",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Afrikaans",
+    "Allergy-free Room",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "Free Public Parking Nearby",
+    "24-Hour Front Desk",
+    "German",
+    "Hair Dryer",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kitchenware",
+    "Russian",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Snack Bar",
+    "Soundproof Rooms",
+    "Special Diet Menus",
+    "Street Parking",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Turkish",
+    "Wake Up Service / Alarm Clock",
+    "Airport transportation",
+    "Public Wifi",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Conference Facilities",
+    "Heated pool",
+    "Flatscreen TV",
+    "Kids pool",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Air Purifier",
+    "Azerbaijani",
+    "Bathrobes",
+    "Bidet",
+    "Bosnian",
+    "Cable / Satellite TV",
+    "Catalan",
+    "Express Check-in / Check-out",
+    "Children's Television Networks",
+    "Clothes Rack",
+    "Dining Area",
+    "Electric Kettle",
+    "Executive Lounge Access",
+    "Extra Long Beds",
+    "First Aid Kit",
+    "Complimentary Toiletries",
+    "Free Wifi in the Business Center",
+    "Free Wired Internet in the Business Center",
+    "French",
+    "Hebrew",
+    "Highchairs Available",
+    "Italian",
+    "Landmark View",
+    "Laptop Safe",
+    "Nepali",
+    "Outdoor Dining Area",
+    "Oven",
+    "Patio",
+    "Polish",
+    "Pool View",
+    "Pool with View",
+    "Portuguese",
+    "Private Bathrooms",
+    "Private Check-in / Check-out",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Serbian",
+    "Shoeshine",
+    "Sofa",
+    "Sofa Bed",
+    "Spanish",
+    "Sun Deck",
+    "Sun Terrace",
+    "Swahili",
+    "Swedish",
+    "Tamil",
+    "Tile / Marble Floor",
+    "Ukrainian",
+    "Umbrella",
+    "Urdu",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Whirlpool Bathtub",
+    "Photo Copier / Fax In Business Center",
+    "Zulu"
+  ],
+  "parent_brand": "Hilton Worldwide",
+  "brand": "DoubleTree by Hilton",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "City View",
+    "Modern"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620564",
+      "name": "Al Mankhool"
+    },
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "259"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "139"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "76"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "309"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "166"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

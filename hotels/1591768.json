@@ -1,0 +1,320 @@
+{
+  "location_id": "1591768",
+  "name": "Premier Le Reve Hotel & Spa",
+  "description": "Opening our doors for the first time in 2009, we have strived to become Luxury Adult Only Resort who is providing upscale hospitality from the heart. Through authenticity and care, we created unique memorable experiences for our guests that will be treasured for a lifetime. Over the past decade we have became destination of choice to our guests and will continue to do so for years to come. Our secret lays in our incredible team who put the soul in hospitality every day. The needs of our guests are in the forefront of everything we do. Located in Sahl Hasheesh on Egypt's Red Sea coast, an area made internationally famous by the combination of its clear skies, azure sea, and stark beauty of its desert mountains, Premier Le Rêve Hotel & Spa adds even more beauty to this work of art through its wonderfully landscaped grounds and elegant structures. Spend your vacation in luxury while enjoying the wonderful all year round weather and basking in the golden rays of the sun. This top-drawer hotel is a heaven for holidaying couples. It has its own private beach, a deluxe spa and a cluster of pools with sea views. Plus it’s adults-only, which means plenty of peace and quiet.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297549-d1591768-Reviews-Premier_Le_Reve_Hotel_Spa-Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Piece 33, Sahl Hasheesh",
+    "city": "Hurghada",
+    "country": "Egypt",
+    "postalcode": "84521",
+    "address_string": "Piece 33, Sahl Hasheesh, Hurghada 84521 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Hurghada",
+      "location_id": "297549"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.0499",
+  "longitude": "33.8855",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297549-d1591768-Premier_Le_Reve_Hotel_Spa-Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297549",
+    "ranking_string": "#5 of 325 hotels in Hurghada",
+    "geo_location_name": "Hurghada",
+    "ranking_out_of": "325",
+    "ranking": "5"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "10467",
+  "review_rating_count": {
+    "1": "29",
+    "2": "48",
+    "3": "230",
+    "4": "1041",
+    "5": "9120"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "12372",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297549-d1591768-m66827-Reviews-Premier_Le_Reve_Hotel_Spa-Hurghada_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Restaurant",
+    "Fitness center",
+    "Beachfront",
+    "Room service",
+    "Free parking",
+    "Laundry Service",
+    "Beach Access",
+    "Internet",
+    "Suites",
+    "Free Internet",
+    "Wifi",
+    "Non-smoking rooms",
+    "Shuttle Bus Service",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Business center",
+    "Spa",
+    "Airport transportation",
+    "Public Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Sauna",
+    "Adults Only",
+    "Afrikaans",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Billiards",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "24-Hour Check-in",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Couples Massage",
+    "Currency Exchange",
+    "Czech",
+    "Diving",
+    "Doorperson",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Head Massage",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Karaoke",
+    "Laptop Safe",
+    "Massage",
+    "Outdoor Furniture",
+    "Polish",
+    "Pool / Beach Towels",
+    "Romanian",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shops",
+    "Snack Bar",
+    "Snorkeling",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Bidet",
+    "Cable / Satellite TV",
+    "Electric Kettle",
+    "Executive Lounge Access",
+    "First Aid Kit",
+    "Complimentary Welcome Drink",
+    "Free Wifi in the Business Center",
+    "Latvian",
+    "Manicure",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Personal Trainer",
+    "Pool View",
+    "Private Bathrooms",
+    "Saltwater Pool",
+    "Serbian",
+    "Slovak",
+    "Tile / Marble Floor",
+    "Ukrainian",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Whirlpool Bathtub",
+    "Yoga Classes"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Romantic",
+    "Boutique"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "25"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "7836"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "156"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "666"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "620"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice Best of the Best",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png"
+      },
+      "categories": [
+        "Luxury",
+        "Top"
+      ],
+      "display_name": "Travelers Choice Best of the Best"
+    },
+    {
+      "award_type": "Travelers Choice Best of the Best",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png"
+      },
+      "categories": [
+        "Romance"
+      ],
+      "display_name": "Travelers Choice Best of the Best"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

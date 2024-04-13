@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "id": 732170994,
+      "lang": "en",
+      "location_id": 301061,
+      "published_date": "2019-12-12T01:16:41Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d301061-r732170994-Reviews-Hotel_Yumukoglu-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review732170994",
+      "text": "Hotel is in central position in Izmir. You can easily reach to Kordon from Hotel. Cleaning is good. Rooms are not bad. Price-performance balance is very good. If you do not want to stay with luxury hotel, you will choose this hotel.",
+      "title": "Central Location",
+      "trip_type": "NONE",
+      "travel_date": "2019-02-28",
+      "user": {
+        "username": "Mertkyk",
+        "user_location": {
+          "id": "298006",
+          "name": "Izmir, Izmir Province, Turkish Aegean Coast"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/19/f1/81/52/mertkyk.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/19/f1/81/52/mertkyk.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/19/f1/81/52/mertkyk.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/19/f1/81/52/mertkyk.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-w/19/f1/81/52/mertkyk.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "1": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "2": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 600339916,
+      "lang": "en",
+      "location_id": 301061,
+      "published_date": "2018-07-28T03:40:43Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d301061-r600339916-Reviews-Hotel_Yumukoglu-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review600339916",
+      "text": "Yumukoglu is a hotel we’ve known for years. However, it hasn’t made any changes so far. \nEverything in the room is so old, apparently they let people SMOKE in the rooms so for those who doesn’t smoke, it’s seriously annoying as the smoke is deep in the old carpets, curtains and the AC. \nThe bathroom makes you feel dirty when you go in to cleanse your self. \nThe walls and bed sheets have moulds.\nIm sorry for the company to write all these here. However, I do not think its fair to stay in such room just because its cheap. \nPhotos are attached!\n",
+      "title": "Terrible (Unhealthy!)",
+      "trip_type": "Couples",
+      "travel_date": "2018-07-31",
+      "user": {
+        "username": "esimay",
+        "user_location": {
+          "id": "190378",
+          "name": "Kyrenia, Kyrenia District"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/0d/7f/ee/c8/esimay-a.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/0d/7f/ee/c8/esimay-a.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/0d/7f/ee/c8/esimay-a.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/0d/7f/ee/c8/esimay-a.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 580048183,
+      "lang": "en",
+      "location_id": 301061,
+      "published_date": "2018-05-14T04:00:05Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d301061-r580048183-Reviews-Hotel_Yumukoglu-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review580048183",
+      "text": "Hotel Yumukoglu is in the center of Izmir; it is just 15 minutes away from Kordon, 10 minutes to Kulturpark and very close to other attractions; also there is a tram line and close bus stops you can go everywhere quite easily. Besides that, rooms are very clean, breakfast is good. Staff is warm and helpful.",
+      "title": "Very good hotel in the heart of city",
+      "trip_type": "Business",
+      "travel_date": "2018-05-31",
+      "user": {
+        "username": "gezerayak",
+        "user_location": {
+          "id": "187325",
+          "name": "Bremen"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/12/f1/83/ba/gezerayak.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/12/f1/83/ba/gezerayak.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/12/f1/83/ba/gezerayak.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/12/f1/83/ba/gezerayak.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/12/f1/83/ba/gezerayak.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 569718069,
+      "lang": "en",
+      "location_id": 301061,
+      "published_date": "2018-03-30T14:23:32Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d301061-r569718069-Reviews-Hotel_Yumukoglu-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review569718069",
+      "text": "Only the bed sheets and towels are clean. Carpet and curtains were dirty. Toilet was leaking water all the night. Bath also leaking water to inside bathroom. Everthing was old. Room door was so unsafe. Breakfast was ok.",
+      "title": "Terrible",
+      "trip_type": "Business",
+      "travel_date": "2018-03-31",
+      "user": {
+        "username": "aliaO7283QY",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/22/04/ce/ce/aliao7283qy.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/22/04/ce/ce/aliao7283qy.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-o/22/04/ce/ce/aliao7283qy.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/22/04/ce/ce/aliao7283qy.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 568368857,
+      "lang": "en",
+      "location_id": 301061,
+      "published_date": "2018-03-24T00:42:44Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d301061-r568368857-Reviews-Hotel_Yumukoglu-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review568368857",
+      "text": "I stayed one night at Yumukoglu. The location is great,staff are helpful , rooms are old but clean.\nDownsides ,wifi and breakfast not good at all.\n\nOverall the value is good, i can definitely stay again. ",
+      "title": "Good Value",
+      "trip_type": "Business",
+      "travel_date": "2018-03-31",
+      "user": {
+        "username": "jeansartre",
+        "user_location": {
+          "id": "293974",
+          "name": "Istanbul"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ee/db/default-avatar-2020-10.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

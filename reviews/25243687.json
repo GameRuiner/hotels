@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "id": 875765218,
+      "lang": "en",
+      "location_id": 25243687,
+      "published_date": "2023-01-20T15:57:57Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d25243687-r875765218-Reviews-Helen_Inn-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review875765218",
+      "text": "I visited Izmir for a city break and stayed at this hotel. The location is very central,  It was only 5 minutes taxi ride to Alsancak which is very lively area of Izmir. Clean and value for the money. The owner is very helpful and has a great city knowledge.",
+      "title": "Very clean and value for money",
+      "trip_type": "NONE",
+      "travel_date": "2023-01-31",
+      "user": {
+        "username": "savvytravellerGB",
+        "user_location": {
+          "id": "186338",
+          "name": "London, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/17/b8/73/f8/savvytravellergb.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/17/b8/73/f8/savvytravellergb.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/17/b8/73/f8/savvytravellergb.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-o/17/b8/73/f8/savvytravellergb.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "1": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "2": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    }
+  ]
+}

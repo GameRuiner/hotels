@@ -1,0 +1,241 @@
+{
+  "location_id": "302214",
+  "name": "Monte-Carlo Sharm Resort & SPA",
+  "description": "More than a luxurious resort, the Monte Carlo Sharm el Sheikh allows you to step into a world of relaxation and indulgence, where the finest Egyptian hospitality is guaranteed. Individual, elegant & refined, our rooms offer the ultimate in comfort & convenience. As an unsurpassed diving & snorkeling destination & just 20 minutes from Sharm el Sheikh International Airport, The Monte Carlo offers all year round sunshine in a setting of 100,000sqm of beautifully landscaped gardens, crystal clear pools & lazy river & overlooks the environmentally protected coral reefs of the Red Sea. Recalling an era of gracious living, The Monte Carlo offers the personalized service & deluxe amenities required by todays discerning traveler.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d302214-Reviews-Monte_Carlo_Sharm_Resort_SPA-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Om Elseed Hill",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "postalcode": "46086",
+    "address_string": "Om Elseed Hill, Sharm El Sheikh 46086 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.865192",
+  "longitude": "34.321014",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d302214-Monte_Carlo_Sharm_Resort_SPA-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#70 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "70"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1957",
+  "review_rating_count": {
+    "1": "63",
+    "2": "76",
+    "3": "176",
+    "4": "319",
+    "5": "1323"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "3487",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d302214-m66827-Reviews-Monte_Carlo_Sharm_Resort_SPA-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Restaurant",
+    "Beachfront",
+    "Beach Access",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Paid Wifi",
+    "Paid Internet",
+    "Free parking",
+    "Room service",
+    "Business center",
+    "Fitness center",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Suites",
+    "Spa",
+    "Airport transportation",
+    "Public Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Lazy River",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Butler Service",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Aerobics",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Bridal Suite",
+    "24-Hour Check-in",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Diving",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Ironing Service",
+    "Italian",
+    "Massage",
+    "Outdoor Furniture",
+    "Pool / Beach Towels",
+    "Russian",
+    "24-Hour Security",
+    "Shops",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Telephone",
+    "Family Rooms",
+    "Kids pool",
+    "Bidet",
+    "Cable / Satellite TV",
+    "Electric Kettle",
+    "Pool View",
+    "Tile / Marble Floor",
+    "Ukrainian",
+    "Walk-in Shower",
+    "Wardrobe / Closet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quirky Hotels",
+    "Harbor View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "15"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "624"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "81"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "660"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "371"
+    }
+  ],
+  "awards": []
+}

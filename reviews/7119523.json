@@ -1,0 +1,87 @@
+{
+  "data": [
+    {
+      "id": 336494556,
+      "lang": "en",
+      "location_id": 7119523,
+      "published_date": "2016-01-01T17:32:22Z",
+      "rating": 2,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d7119523-r336494556-Reviews-Izan_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review336494556",
+      "text": "What struck me upon my arrival to the hotel was the complete inability of the receptionist to communicate in other but Turkish language. Having thought that it was only an exception, I was reassured throughout my stay that none of the hotel stuff, including all the receptionists, are unable to speak English, which I consider a rather crucial requirement for an international hotel in Izmir's business center. The lack of communication skills has resulted in several misunderstandings regarding the lenght of stay and the means of payment, which made the whole experience of staying at the hotel rather negative.",
+      "title": "Receptionists with no English skills!",
+      "trip_type": "Business",
+      "travel_date": "2015-12-31",
+      "user": {
+        "username": "zitar2016",
+        "user_location": {
+          "id": "274707",
+          "name": "Prague, Bohemia"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/df/2b/default-avatar-2020-39.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 261483321,
+      "lang": "en",
+      "location_id": 7119523,
+      "published_date": "2015-03-24T14:03:51Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d7119523-r261483321-Reviews-Izan_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review261483321",
+      "text": "Izan is nice and clean hotel in the center of Izmir. Neighborhood is quiet and walking distance to the sea and main atractions of the city. Hotel stuff is helpful and kind. Rooms are nice, clean and big. WiFi is free and has good signal. \nVery nice impression, also I would stay here the next time I visit Izmir.",
+      "title": "Nice hotel in the center of Izmir",
+      "trip_type": "Solo travel",
+      "travel_date": "2015-03-31",
+      "user": {
+        "username": "Shakti81",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/03/7d/44/24/shakti81.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/03/7d/44/24/shakti81.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/03/7d/44/24/shakti81.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/03/7d/44/24/shakti81.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/03/7d/44/24/shakti81.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "location_id": "614392",
+  "name": "Sofitel Barcelona Skipper",
+  "description": "Sofitel Barcelona Skipper French luxury and local cuisine in the world's most exciting city Sofitel Barcelona Skipper is creating a journey to effortless, irreverent elegance, capturing the essence of Barcelona & France. Both places take risks, and transform and reinvent the classic aspect. Be sure to visit Barcelona whatever the reason. Even the tightest schedules allow you to grab a few seconds to relax and admire the stunning views from Sofitel Barcelona Skipper, located next to Barceloneta Beach. This hotel has 2 fantastic swimming pools, a solarium and many other things for you to rest and feel at home. Also don't miss the tasty tapas at its restaurant TENDIEZ. Barcelona, the city of Gaudí, is one of Spain's most modern cities for good reason, hosting major technology exhibitions like Mobile World. Not everything is focused on the future, though; history and culture are essential to understand its people. Hotel Sofitel is opposite Barceloneta, its best-known beach. A few minutes' walk is the Gothic Quarter, a major tourist attractions of Barcelona. It is well connected to the airport and the train station.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d614392-Reviews-Sofitel_Barcelona_Skipper-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Avinguda Litoral 10",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08005",
+    "address_string": "Avinguda Litoral 10, 08005 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.385853",
+  "longitude": "2.19502",
+  "timezone": "Europe/Madrid",
+  "phone": "01134932216565",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d614392-Sofitel_Barcelona_Skipper-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#34 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "34"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "3222",
+  "review_rating_count": {
+    "1": "63",
+    "2": "97",
+    "3": "286",
+    "4": "1013",
+    "5": "1763"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1802",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d614392-m66827-Reviews-Sofitel_Barcelona_Skipper-Barcelona_Catalonia.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Restaurant",
+    "Wifi",
+    "Free Wifi",
+    "Business center",
+    "Room service",
+    "Suites",
+    "Fitness center",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Bar",
+    "Swimup Bar",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Catalan",
+    "24-Hour Check-in",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Doorperson",
+    "English",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Iron",
+    "Ironing Service",
+    "Italian",
+    "Outdoor Furniture",
+    "Parking Garage",
+    "Pool / Beach Towels",
+    "24-Hour Security",
+    "Public Wifi",
+    "Arabic",
+    "Bicycle Rental",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "Express Check-in / Check-out",
+    "Coffee Shop",
+    "Electric Kettle",
+    "Extra Long Beds",
+    "First Aid Kit",
+    "Free Wifi in the Business Center",
+    "Georgian",
+    "Highchairs Available",
+    "Hungarian",
+    "Interconnected room(s) available",
+    "Kids' Meals",
+    "Laptop Safe",
+    "Newspaper",
+    "Outdoor Dining Area",
+    "Pool View",
+    "Pool with View",
+    "Portuguese",
+    "Private Bathrooms",
+    "Private Check-in / Check-out",
+    "Paid Private Parking On-site",
+    "Radio",
+    "Romanian",
+    "Russian",
+    "Snack Bar",
+    "Sofa",
+    "Sofa Bed",
+    "Soundproof Rooms",
+    "Spanish",
+    "Special Diet Menus",
+    "Strollers",
+    "Sun Deck",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Tile / Marble Floor",
+    "Ukrainian",
+    "Umbrella",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Wine / Champagne",
+    "Beach Access"
+  ],
+  "parent_brand": "Accor",
+  "brand": "Accor Live Limitless (ALL)",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Business",
+    "Marina View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15565934",
+      "name": "Port Olimpic"
+    },
+    {
+      "location_id": "7230969",
+      "name": "Ciutadella / Vila Olimpica"
+    },
+    {
+      "location_id": "15565874",
+      "name": "Ciutat Vella (Old Town)"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "586"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1431"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "138"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "484"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "354"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "location_id": "1058671",
+  "name": "Labranda Kiotari Miraluna Resort",
+  "description": "The resort is an establishment of beach fun and escapism, the perfect hideaway for family and friends on one of the most beautiful islands in the Dodecanese. The portfolio of facilities includes refreshing swimming pools, spa, a private beach and a wide variety of entertainment and sport activities to choose. Top-notch on site restaurant options, diverse dishes, from relaxed to formal dining and traditional recipes, there is really something for everyone at Labranda Kiotari Miraluna Resort.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g1175546-d1058671-Reviews-Labranda_Kiotari_Miraluna_Resort-Kiotari_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street1": "Epar.Od",
+    "street2": "Kiotari Beach",
+    "city": "Kiotari",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "85109",
+    "address_string": "Epar.Od Kiotari Beach, Kiotari 85109 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Kiotari",
+      "location_id": "1175546"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.0637",
+  "longitude": "27.9877",
+  "timezone": "Europe/Athens",
+  "write_review": "https://www.tripadvisor.com/UserReview-g1175546-d1058671-Labranda_Kiotari_Miraluna_Resort-Kiotari_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "1175546",
+    "ranking_string": "#10 of 16 hotels in Kiotari",
+    "geo_location_name": "Kiotari",
+    "ranking_out_of": "16",
+    "ranking": "10"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "2236",
+  "review_rating_count": {
+    "1": "117",
+    "2": "159",
+    "3": "234",
+    "4": "436",
+    "5": "1290"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "2182",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g1175546-d1058671-m66827-Reviews-Labranda_Kiotari_Miraluna_Resort-Kiotari_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Free parking",
+    "Restaurant",
+    "Kids Activities",
+    "Beachfront",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Breakfast included",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Safe",
+    "Swimup Bar",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Private Pools",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Aerobics",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Board Games / Puzzles",
+    "Bottled Water",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Convenience Store",
+    "Currency Exchange",
+    "Darts",
+    "Desk",
+    "Diving",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Game Room",
+    "German",
+    "Gift Shop",
+    "Greek",
+    "Hair Dryer",
+    "Indoor Play Area for Children",
+    "Ironing Service",
+    "Italian",
+    "Karaoke",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Mini Golf",
+    "Outdoor Furniture",
+    "Pool / Beach Towels",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Shared Lounge / TV Area",
+    "Shops",
+    "Snack Bar",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Wake Up Service / Alarm Clock",
+    "Kids pool",
+    "Parking",
+    "Cable / Satellite TV",
+    "Children's Playground",
+    "Couples Massage",
+    "First Aid Kit",
+    "Complimentary Welcome Drink",
+    "Hand Massage",
+    "Happy Hour",
+    "Head Massage",
+    "Highchairs Available",
+    "Makeup Services",
+    "Manicure",
+    "Massage Chair",
+    "Neck Massage",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Pool View",
+    "Private Bathrooms",
+    "Separate Living Room",
+    "Sofa",
+    "Sofa Bed",
+    "Sun Deck",
+    "Tile / Marble Floor",
+    "Vending Machine",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Waterslide",
+    "Beach Access"
+  ],
+  "parent_brand": "LABRANDA Hotels & Resorts",
+  "brand": "LABRANDA Comfort",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Mid-range",
+    "Family"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "3"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "573"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "35"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1030"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "272"
+    }
+  ],
+  "awards": []
+}

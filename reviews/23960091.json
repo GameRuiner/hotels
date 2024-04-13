@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "id": 908248326,
+      "lang": "en",
+      "location_id": 23960091,
+      "published_date": "2023-08-06T07:36:54Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d23960091-r908248326-Reviews-Soliport_Hotel_SPA-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review908248326",
+      "text": "Very nice hotel close to Alaçatı Port. The view from the hotel is amazing! The rooms, as all the hotel area, are very clean, comfortable and spacious. The pool area has lovely view over Alaçatı port. Gym and spa always clean and tidy. The breakfast is turkish style. But you can order also extra things, like pancakes, for example for free. What we really enjoyed was also the plenty of fresh fruits that you can take from the open buffet.  Mr Celal and Ersin are doing their best to satisfy the hotel guests for the breakfast time. I also have to mention the politeness and hospitality of Mr Alı Topal who made as feel like home. In general we want say a big thank you to all the staff that they are doing the best to make our stay unforgettable. ",
+      "title": "Lovely experience ",
+      "trip_type": "Couples",
+      "travel_date": "2023-08-31",
+      "user": {
+        "username": "_U2277DA",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/7c/01/default-avatar-2020-5.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    }
+  ]
+}

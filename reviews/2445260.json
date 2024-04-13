@@ -1,0 +1,219 @@
+{
+  "data": [
+    {
+      "id": 945982370,
+      "lang": "en",
+      "location_id": 2445260,
+      "published_date": "2024-04-09T13:37:21Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d2445260-r945982370-Reviews-Rixos_The_Palm_Hotel_Suites-Dubai_Emirate_of_Dubai.html?m=66827#review945982370",
+      "text": "If you speak to the manangemrnt if you have any kind of issue they will sort out immediately for you and will make your stay perfect. We had a suite overlooking the seafront. Rizal cleaned our room today and left us a bath with rose petals which was amazing. It was my husbands 50th the hotel put a cake in our room amd spelt happy birthday on the bed wirh petals. Faith, Cristy & Mohan in the bar were the friendliest, loveliest bar staff ever and arranged a happy birthday singsong and cake in the bar. The Italian did the same. The guys around the beach also cannot do enough for you. Michael Khalifa couldn't do enough for us thank you for making this a fantastic stay!",
+      "title": "Perfect",
+      "trip_type": "Couples",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "RachelK450",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/9f/default-avatar-2020-16.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 945830713,
+      "lang": "en",
+      "location_id": 2445260,
+      "published_date": "2024-04-08T09:07:49Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d2445260-r945830713-Reviews-Rixos_The_Palm_Hotel_Suites-Dubai_Emirate_of_Dubai.html?m=66827#review945830713",
+      "text": "In February we went to Rixos the palm with our mum and dad, cousins and uncle and auntie.  overall it was incredible. We loved Sarah at the patisserie because of her amazing personality she is a kind caring lady.\n\nI loved the fact that we could get tickets to the Atlantis water park it was a quick journey there and it was an awesome experience \n\nAt the rixos we all enjoy javed because he is fun and friendly. This being our 5th visit we feel like we know him now.\n\nWe enjoyed all the restaurants in the evening and for breakfast and lunch we really liked turquoise as it was quiet and relaxed.\n\nIt was a pleasure to stay at the rixos it was a great atmosphere.  We hope to see you again soon",
+      "title": "Fifth visit",
+      "trip_type": "Family",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "lewisimogenrosa",
+        "user_location": {
+          "id": "186356",
+          "name": "Nottingham, Nottinghamshire, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/2b/cf/f5/6c/caption.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/2b/cf/f5/6c/caption.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/2b/cf/f5/6c/caption.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/2b/cf/f5/6c/caption.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2b/cf/f5/6c/caption.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 945829485,
+      "lang": "en",
+      "location_id": 2445260,
+      "published_date": "2024-04-08T08:57:01Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d2445260-r945829485-Reviews-Rixos_The_Palm_Hotel_Suites-Dubai_Emirate_of_Dubai.html?m=66827#review945829485",
+      "text": "This hotel is exactly like how I thought it would be. It was an amazing experience!!! Everything was awesome. But there is one person specifically who made it the best trip ever and her name is Burcin Saglam. Great at her job and even better as a human being. There is no doubt in my mind that I will be back there. Burcin is one of the biggest reasons that I will be coming back.",
+      "title": "Amazing, friendly (Burcin), luxury",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Climber46261560153",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/de/5a/default-avatar-2020-36.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/de/5a/default-avatar-2020-36.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/de/5a/default-avatar-2020-36.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/de/5a/default-avatar-2020-36.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/de/5a/default-avatar-2020-36.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 945818134,
+      "lang": "en",
+      "location_id": 2445260,
+      "published_date": "2024-04-08T07:16:13Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d2445260-r945818134-Reviews-Rixos_The_Palm_Hotel_Suites-Dubai_Emirate_of_Dubai.html?m=66827#review945818134",
+      "text": "We visited Rixos It was very nice experience \nAlso The Staff is very kind they help us everywhere, and The most important Burcin From Guest relation she guide us very well she’s very kind and helpful She take care of me and my family whole vacation also explain packages and everything We will comeback again Soon. Thankyou!",
+      "title": "Vacation",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Passenger66643565685",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ea/2e/default-avatar-2020-67.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 945779808,
+      "lang": "en",
+      "location_id": 2445260,
+      "published_date": "2024-04-08T00:23:33Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d2445260-r945779808-Reviews-Rixos_The_Palm_Hotel_Suites-Dubai_Emirate_of_Dubai.html?m=66827#review945779808",
+      "text": "The hotel was very nice and burchin from guest relation was really kind she help us whole vacation and explain our package everything.I’ve had a great time with friends and the staffs were also very kind and welcoming. Looking forward to come to rixos again",
+      "title": "Very nice hotel with great staff and facilities and burchin from guest relations was very kind. Had a great time",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "naderm555",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/11/default-avatar-2020-41.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

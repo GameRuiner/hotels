@@ -1,0 +1,286 @@
+{
+  "location_id": "2407420",
+  "name": "The Tower Plaza Hotel Dubai",
+  "description": "Discover one of the best hotels on Sheikh Zayed Road Dubai Enjoy our 5-star luxury at a most convenient hotel address in Dubai’s finance district. Facing Dubai International Financial Centre, The Tower Plaza Hotel Dubai is perfectly positioned in the heart of the city on Sheikh Zayed Road Dubai. Our 65-storey tower offers 415 spacious guest rooms with stunning vistas overlooking Zabeel Palace and Jumeirah Beach. Accommodation on the 26th floor and up features uninterrupted views of the Dubai skyline from all sides. Business travelers will appreciate our state-of-the-art business center and 12 modern meeting and conference facilities. The Tower Plaza Hotel Dubai also provides the ideal venues for memorable weddings and successful meetings and events from 15 to 150. The hotel is an alcohol-free property; however, guests can enjoy our excellent leisure facilities, including our Health Club and Spa, Club Lounge, infinity pool and children's pool with views of the Arabian Sea. For all all-day dining, our international buffet restaurant, Metro, specializes in the best Arabic cuisine. The Infinity Pool Lounge situated on our rooftop provides panoramic city views along with a refreshing selection of juices, mocktails and light snacks. Families and corporate guests will all appreciate our centrally located hotel and easy connectivity. Our exceptional hotel places you in the financial hub of the city, with shopping options, restaurants and lounges within easy reach. The Dubai International Convention and Exhibition Centre, Dubai Mall, Burj Khalifa, Museum of the Future and the World Trade Centre are all close by, and direct access to Emirates Towers Metro Station makes it a breeze to travel out and about. The Tower Plaza Hotel Dubai offers an amazing location in the midst of the business district, earn and spend loyalty points on all qualifying stays. The level of points, benefits and privileges are subject to availability and may vary at certain participating hotels.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d2407420-Reviews-The_Tower_Plaza_Hotel_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Zayed Road",
+    "street2": "Behind Emirates Tower Metro Station",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "191055",
+    "address_string": "Sheikh Zayed Road Behind Emirates Tower Metro Station, Dubai 191055 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.217575",
+  "longitude": "55.278538",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d2407420-The_Tower_Plaza_Hotel_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#254 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "254"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "4075",
+  "review_rating_count": {
+    "1": "146",
+    "2": "124",
+    "3": "278",
+    "4": "852",
+    "5": "2675"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "2440",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d2407420-m66827-Reviews-The_Tower_Plaza_Hotel_Dubai-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Poolside Bar",
+    "Pool",
+    "Free parking",
+    "Fitness center",
+    "Internet",
+    "Room service",
+    "Free Internet",
+    "Wheelchair access",
+    "Spa",
+    "Wifi",
+    "Suites",
+    "Restaurant",
+    "Airport transportation",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Rooftop Pool",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Infinity Pool",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Sauna",
+    "Allergy-free Room",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Extra Long Beds",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Massage",
+    "Newspaper",
+    "Outdoor Fireplace",
+    "Outdoor Furniture",
+    "Parking Garage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shoeshine",
+    "Shops",
+    "Soundproof Rooms",
+    "Special Diet Menus",
+    "Steam Room",
+    "Street Parking",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Kids pool",
+    "Bidet",
+    "Cable / Satellite TV",
+    "Express Check-in / Check-out",
+    "Clothes Rack",
+    "Electric Kettle",
+    "Executive Lounge Access",
+    "First Aid Kit",
+    "Foot Bath",
+    "Foot Massage",
+    "Full Body Massage",
+    "Head Massage",
+    "Highchairs Available",
+    "Landmark View",
+    "Laptop Safe",
+    "Makeup Services",
+    "Manicure",
+    "Massage Chair",
+    "Neck Massage",
+    "Nepali",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Personal Trainer",
+    "Private Bathrooms",
+    "Paid Public Parking Nearby",
+    "Sofa",
+    "Sofa Bed",
+    "Sun Deck",
+    "Tamil",
+    "Ukrainian",
+    "Umbrella",
+    "Urdu",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Hidden Gem",
+    "City View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620627",
+      "name": "Dubai International Financial Centre (DIFC)"
+    },
+    {
+      "location_id": "15620671",
+      "name": "Trade Centre"
+    },
+    {
+      "location_id": "15620672",
+      "name": "Trade Centre 1"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "1057"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "931"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "306"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "962"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "475"
+    }
+  ],
+  "awards": []
+}

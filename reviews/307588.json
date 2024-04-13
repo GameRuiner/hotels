@@ -1,0 +1,203 @@
+{
+  "data": [
+    {
+      "id": 822811477,
+      "lang": "en",
+      "location_id": 307588,
+      "published_date": "2021-12-23T01:49:45Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d307588-r822811477-Reviews-Marla_Otel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review822811477",
+      "text": "Dirty rooms, WiFi not working, restrooms smells nasty.\nVery noisy at night couldn’t sleep at all,\nWon’t recommended, rooms doesn’t look like from TripAdvisor pictures.\nPoor explanation of the room service.\nHeather stops working night time and blows cold air👎👎👎👎",
+      "title": "Waste of night in Izmir",
+      "trip_type": "Friends getaway",
+      "travel_date": "2021-12-31",
+      "user": {
+        "username": "musya2021",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/11/default-avatar-2020-41.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 774145967,
+      "lang": "en",
+      "location_id": 307588,
+      "published_date": "2020-10-13T06:21:15Z",
+      "rating": 1,
+      "helpful_votes": 2,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d307588-r774145967-Reviews-Marla_Otel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review774145967",
+      "text": "booked 5 night for silent room. when we went shower doesnt working properly. changed the room but couldnt sleep at all during the stay. its extremely noisy. its like there is no window all the sound in the room. walls are so thin. bathroom is dated and dirty. wifi signal is very very poor. very very very poor quality hotel. i gave one star and its for the employees not for the hotel.",
+      "title": "absolutely crap",
+      "trip_type": "NONE",
+      "travel_date": "2020-10-31",
+      "user": {
+        "username": "107_zg_ra",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/3d/default-avatar-2020-55.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "1": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Cleanliness"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 724258415,
+      "lang": "en",
+      "location_id": 307588,
+      "published_date": "2019-11-05T23:39:40Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d307588-r724258415-Reviews-Marla_Otel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review724258415",
+      "text": "Hotel is centrally located. There are so many restaurants in front of the hotel. Rooms are good but can be a little bit noisy. Make sure your windows are closed. Very good breakfast . Price is reasonable .",
+      "title": "Good location",
+      "trip_type": "NONE",
+      "travel_date": "2019-11-30",
+      "user": {
+        "username": "736semrat",
+        "user_location": {
+          "id": "298656",
+          "name": "Ankara"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/0c/71/8d/77/semra-t.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/0c/71/8d/77/semra-t.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/0c/71/8d/77/semra-t.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/0c/71/8d/77/semra-t.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 706287788,
+      "lang": "en",
+      "location_id": 307588,
+      "published_date": "2019-09-04T02:39:10Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d307588-r706287788-Reviews-Marla_Otel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review706287788",
+      "text": "This year I visited this hotel for the 4th time.\n\nFirst of all the staff ath the reception is excellent.\nSecondly the location of the hotel is superb. \nNext to the pier and 5 minutes walk from the bazaar it is bautifull.\nBreakfast is very good and full of choises.\nThe only drawback is that the hotel is a bit old and in need of a renovation but for its price it is very good!",
+      "title": "Excellent location.",
+      "trip_type": "NONE",
+      "travel_date": "2019-08-31",
+      "user": {
+        "username": "dimitrakisk",
+        "user_location": {
+          "id": "189400",
+          "name": "Athens, Attica"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/19/1d/1c/92/dimitrakis-k.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/19/1d/1c/92/dimitrakis-k.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/19/1d/1c/92/dimitrakis-k.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/19/1d/1c/92/dimitrakis-k.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/19/1d/1c/92/dimitrakis-k.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "2": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 700927764,
+      "lang": "en",
+      "location_id": 307588,
+      "published_date": "2019-08-20T01:48:16Z",
+      "rating": 3,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d307588-r700927764-Reviews-Marla_Otel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review700927764",
+      "text": "Price is so good for this hotel..locatin is wonderful..room is clean..but..staff is not so helpfuul and smily..breakfest in 4 day about same..coffy maker is not work.elavator is so small..parking dont have security man in night😐😐😐",
+      "title": "Good location",
+      "trip_type": "Friends getaway",
+      "travel_date": "2019-08-31",
+      "user": {
+        "username": "elyad213",
+        "user_location": {
+          "id": "293974",
+          "name": "Istanbul"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/7c/01/default-avatar-2020-5.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/7c/01/default-avatar-2020-5.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

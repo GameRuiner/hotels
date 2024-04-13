@@ -1,0 +1,212 @@
+{
+  "location_id": "663461",
+  "name": "Matina Pefkos Aparthotel",
+  "description": "Situated just 50 metres from Pefkos main beach, the Matina hotel is the perfect location for a relaxing yet unforgettable holiday. The peaceful location and the friendly, fun atmosphere appeal to all types of guests, from families to couples and everything in between. Most importantly, we, the management and all staff at the hotel will do our very best to ensure the only thought in your mind when leaving the hotel is the idea of coming back again!",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g666539-d663461-Reviews-Matina_Pefkos_Aparthotel-Pefkos_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "city": "Pefkos",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "85107",
+    "address_string": "Pefkos 85107 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Pefkos",
+      "location_id": "666539"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.071995",
+  "longitude": "28.0524",
+  "timezone": "Europe/Athens",
+  "write_review": "https://www.tripadvisor.com/UserReview-g666539-d663461-Matina_Pefkos_Aparthotel-Pefkos_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "666539",
+    "ranking_string": "#8 of 33 hotels in Pefkos",
+    "geo_location_name": "Pefkos",
+    "ranking_out_of": "33",
+    "ranking": "8"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1545",
+  "review_rating_count": {
+    "1": "13",
+    "2": "34",
+    "3": "123",
+    "4": "379",
+    "5": "996"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "954",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g666539-d663461-m66827-Reviews-Matina_Pefkos_Aparthotel-Pefkos_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Wifi",
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Free parking",
+    "Restaurant",
+    "Kitchenette",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Kids Activities",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Laundry Service",
+    "Air conditioning",
+    "Microwave",
+    "Refrigerator in room",
+    "Safe",
+    "Rooftop Terrace",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Baggage Storage",
+    "Billiards",
+    "Convenience Store",
+    "Currency Exchange",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Free Public Parking Nearby",
+    "Greek",
+    "Hair Dryer",
+    "Indoor Play Area for Children",
+    "Kids' Outdoor Play Equipment",
+    "Kitchenware",
+    "Outdoor Furniture",
+    "Shops",
+    "Snack Bar",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Car Hire",
+    "Chapel / Shrine",
+    "Darts",
+    "Diving",
+    "Finnish",
+    "Game Room",
+    "Italian",
+    "Table Tennis",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Centrally Located",
+    "Quaint"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "0"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "509"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "15"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "750"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "119"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "location_id": "1386054",
+  "name": "Island Blue Hotel",
+  "description": "Welcome to a world of Sun kissed days and deep blue Seas...Enjoy the fabled Greek hospitality...Welcome to our World...Spread over a 12000m2 area, this newly built (2009) complex has 34 self catering apartments & 52 guestrooms. Modern in design , the complex is adjacent to Pefki Islands Resort.Two expansive pools with separate children’s swimming pools & free sun beds are available, along with pool bar, billiards, game room, playground, snack bar, restaurant & a nearby super market.A brand new restaurant and Lounge Bar named ELIA is now open on our new complex ISLAND BLUE HOTEL. It is open for Breakfast, Lunch & Dinner.You can make reservations or arrangements for all your special occasions at reception.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g12791877-d1386054-Reviews-Island_Blue_Hotel-Pefki_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street2": "",
+    "city": "Pefki",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "85107",
+    "address_string": "Pefki 85107 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Pefki",
+      "location_id": "12791877"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.0732",
+  "longitude": "28.0526",
+  "timezone": "Europe/Athens",
+  "write_review": "https://www.tripadvisor.com/UserReview-g12791877-d1386054-Island_Blue_Hotel-Pefki_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "12791877",
+    "ranking_string": "#1 of 1 hotels in Pefki",
+    "geo_location_name": "Pefki",
+    "ranking_out_of": "1",
+    "ranking": "1"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "997",
+  "review_rating_count": {
+    "1": "1",
+    "2": "7",
+    "3": "32",
+    "4": "178",
+    "5": "779"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "750",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g12791877-d1386054-m66827-Reviews-Island_Blue_Hotel-Pefki_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Free parking",
+    "Restaurant",
+    "Internet",
+    "Free Internet",
+    "Kitchenette",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Breakfast included",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Refrigerator in room",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Adult pool",
+    "Outdoor pool",
+    "Baggage Storage",
+    "Chapel / Shrine",
+    "Couples Massage",
+    "English",
+    "Facial Treatments",
+    "Foot Massage",
+    "Free Public Parking Nearby",
+    "24-Hour Front Desk",
+    "Greek",
+    "Hair Dryer",
+    "Iron",
+    "Kid-Friendly Buffet",
+    "Massage",
+    "Snack Bar",
+    "Special Diet Menus",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Telephone",
+    "Kids pool",
+    "Parking",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Children's Television Networks",
+    "Children's Playground",
+    "Convenience Store",
+    "Currency Exchange",
+    "Electric Kettle",
+    "Evening Entertainment",
+    "Full Body Massage",
+    "Happy Hour",
+    "Head Massage",
+    "Karaoke",
+    "Makeup Services",
+    "Manicure",
+    "Mountain View",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Pool View",
+    "Private Bathrooms",
+    "Salon",
+    "24-Hour Security",
+    "Sun Terrace",
+    "Vending Machine",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Waxing Services",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Business"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "0"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "505"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "3"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "335"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "58"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

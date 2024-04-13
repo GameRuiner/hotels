@@ -1,0 +1,253 @@
+{
+  "data": [
+    {
+      "id": 945546434,
+      "lang": "en",
+      "location_id": 12694365,
+      "published_date": "2024-04-06T06:09:46Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d12694365-r945546434-Reviews-Yurbban_Passage_Hotel_Spa-Barcelona_Catalonia.html?m=66827#review945546434",
+      "text": "I booked a surprise trip to Barcelona for my partner's birthday and I'm so glad that I chose to stay at the Yurbban Passage! This hotel is amazing. I travel very frequently, and this hotel might be one of my favourites. The staff couldn't be more kind. The cheese and wine happy hour is fantastic! Their rooms are very comfortable and clean. Breakfast is great. Cocktails are delicious. Could not have asked for a better stay.",
+      "title": "Incredible Hotel. Highly Recommend.",
+      "trip_type": "Couples",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "ellyssf",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e8/91/default-avatar-2020-62.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 945235614,
+      "lang": "en",
+      "location_id": 12694365,
+      "published_date": "2024-04-03T13:16:43Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d12694365-r945235614-Reviews-Yurbban_Passage_Hotel_Spa-Barcelona_Catalonia.html?m=66827#review945235614",
+      "text": "Just returned from 4 days in this wonderful hotel. The hotel is a real gem, with the bar, rooftop pool and spa. Our room was spacious and stylish. We were on the front so slightly noisier if you leave your windows open but the rooms are super quiet otherwise. Breakfast was delicious with lots of choice and the staff were really friendly. Will definitely be returning!",
+      "title": "Family get away to Barcelona",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "stephk1701",
+        "user_location": {
+          "id": "186424",
+          "name": "Worcester, Worcestershire, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f6/0d/default-avatar-2020-34.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 944744903,
+      "lang": "en",
+      "location_id": 12694365,
+      "published_date": "2024-04-01T03:35:54Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d12694365-r944744903-Reviews-Yurbban_Passage_Hotel_Spa-Barcelona_Catalonia.html?m=66827#review944744903",
+      "text": "The hotel is situated in great part of town on one side is the gothic quarter and the other Is trafalgar a modern side with cocktail bars and great breakfast places. \n\nThe staff are very friendly  and welcoming. The hotel is beautiful and minimal. Our room was great. Instantly relaxing free from clutter. \nThe beds and pillows are super comfy. We stayed in a room that overlooked the passage. Noisy in the day so not ideal if you need to sleep or take a nap. But it closes at 11pm until 8am. The spa was heaven and my partner had a massage which was not only relaxing but the masseuse took the time to explain allot about what he was doing and how to rectify ongoing issues. We will definitely stay here again.",
+      "title": "Modern, chic and cool",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "R6202FLandrewd",
+        "user_location": {
+          "id": "186298",
+          "name": "Portsmouth, Hampshire, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/15/57/2f/23/andrew-d.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/15/57/2f/23/andrew-d.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/15/57/2f/23/andrew-d.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/15/57/2f/23/andrew-d.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 943747279,
+      "lang": "en",
+      "location_id": 12694365,
+      "published_date": "2024-03-25T08:20:56Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d12694365-r943747279-Reviews-Yurbban_Passage_Hotel_Spa-Barcelona_Catalonia.html?m=66827#review943747279",
+      "text": "Large room with balcon. Rooms are very quiet. The bed is quite hard, but we slept very well. Good rainshower.\nStaff is superfriendly and helpful. Breakfast was plentiful with enough choice.\nLocation is perfect near the centre.\nRooftop bar/swimming pool is very nice. (pool is very narrow and shallow, but good for a dip).",
+      "title": "Excellent hotel in the centre",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Frederic3006",
+        "user_location": {
+          "id": "188666",
+          "name": "Ghent, East Flanders Province"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/01/2e/70/5c/avatar034.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/01/2e/70/5c/avatar034.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/01/2e/70/5c/avatar034.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 944537579,
+        "title": "Owner response",
+        "text": "Thank you for sharing your experience. It sounds like you enjoyed your stay overall, especially appreciating the friendliness of the staff, the convenient location and the facilities such as the rooftop bar and pool. It is helpful to know that the rooms are quiet and that the breakfast was plentiful. We will take note of your observation about the hardness of the bed to ensure future guests have an even more comfortable experience. We hope to see you again soon!",
+        "lang": "en",
+        "author": "Marjorie Grau",
+        "published_date": "2024-03-30T13:41:57Z"
+      }
+    },
+    {
+      "id": 943625474,
+      "lang": "en",
+      "location_id": 12694365,
+      "published_date": "2024-03-24T10:48:46Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d12694365-r943625474-Reviews-Yurbban_Passage_Hotel_Spa-Barcelona_Catalonia.html?m=66827#review943625474",
+      "text": "Things we loved:\n- very friendly check in, lots of helpful info & the recommendations were right up our street.\n- spacious rooms, tastefully designed\n- beautiful pool on sunny roof terrace with great views across the city\n- impressive breakfast buffet options and good coffee (vital)\n- the spa pool experience was welcomed after a long days’s sightseeing\n- thoughtful touches like a gift of relaxing foot balm\n\nThings we didn’t like:\n- nothing! \nWould definitely return",
+      "title": "So pleased we chose Yurbban Passage",
+      "trip_type": "Couples",
+      "travel_date": "2023-12-31",
+      "user": {
+        "username": "LondonItchyfeet",
+        "user_location": {
+          "id": "186338",
+          "name": "London, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/08/cd/3a/f9/londonitchyfeet.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/08/cd/3a/f9/londonitchyfeet.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/08/cd/3a/f9/londonitchyfeet.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/08/cd/3a/f9/londonitchyfeet.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 943646868,
+        "title": "Owner response",
+        "text": "\nThank you immensely for your glowing review! \n\nWe're thrilled that you found every aspect of your stay enjoyable and that you appreciated the efforts of our team to make your experience exceptional.\n\n We can't wait to welcome you back for another unforgettable stay!",
+        "lang": "en",
+        "author": "Marjorie Grau",
+        "published_date": "2024-03-24T13:23:07Z"
+      }
+    }
+  ]
+}

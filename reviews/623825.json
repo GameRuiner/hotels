@@ -1,0 +1,334 @@
+{
+  "data": [
+    {
+      "id": 945512395,
+      "lang": "en",
+      "location_id": 623825,
+      "published_date": "2024-04-05T21:09:38Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d623825-r945512395-Reviews-Hotel_DXB_Dubai_International_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945512395",
+      "text": "We have stayed overnight at this hotel for the past several years to break our journey from U.K. to Mauritius and for the return. The experience has always been excellent from the  meet and greet from the plane; the room; the service and food quality in the restaurant. There are many members of staff we would commend on making our stay perfect, to name a few Senthill, Abdul, Nilan and the chef whom we don’t often see Umesh. They go the extra professional mile in making the stay very positive. \nIt is an added cost to the journey so it can be expensive  but we enjoy the experience and feel refreshed after our stay.",
+      "title": "Thank you again!",
+      "trip_type": "Couples",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "E6725GCchristines",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ee/db/default-avatar-2020-10.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ee/db/default-avatar-2020-10.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945553649,
+        "title": "Owner response",
+        "text": "Dear Ms. Christine,\n\nThank you for your continued patronage and for taking the time to share your experience with us. We truly appreciate your loyalty over the years.\n\nWe are delighted to hear that your stay at Hotel DXB has consistently met your expectations, from the warm welcome upon arrival to the comfort of your room, as well as the exceptional service and dining experiences provided by our dedicated team members. Your recognition of Senthill, Abdul, Nilan, and Chef Umesh truly highlights their commitment to delivering memorable experiences for our guests.\n\nWe understand that our services may come with an added cost, but we are thrilled to know that you find the experience worthwhile and leave feeling refreshed.\n\nShould you have any further inquiries or wish to make future arrangements, please do not hesitate to visit our website at www.dihdxb.ae, reach out to us via email at hello@dihdxb.ae, or message us on WhatsApp at +971547916000.\n\nWarm regards,\nThe Hotel DXB Team",
+        "lang": "en",
+        "author": "Argie Maglalang",
+        "published_date": null
+      }
+    },
+    {
+      "id": 945401986,
+      "lang": "en",
+      "location_id": 623825,
+      "published_date": "2024-04-05T00:24:30Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d623825-r945401986-Reviews-Hotel_DXB_Dubai_International_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945401986",
+      "text": "We stayed 1 night. Overall great experience. Very clean and Great service. \nNilan , Senthil and Abdul were very helpful and provided awesome service. \nRoom was huge and super clean and restaurants had good menus as well.\nPlus, massage was very relaxing.",
+      "title": "Very Good service",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "930nazc",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/3d/default-avatar-2020-55.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945553715,
+        "title": "Owner response",
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to share your feedback with us. We are delighted to hear that you had a great experience during your recent stay at Hotel DXB.\n\nOur team takes pride in ensuring that our guests receive exceptional service, and we are pleased to learn that Nilan, Senthil, and Abdul were able to assist you effectively during your stay.\n\nWe are glad to know that you found your room spacious and impeccably clean, and that you enjoyed the diverse menu options available at our restaurants. It's wonderful to hear that you found the massage services relaxing; we strive to provide our guests with rejuvenating experiences.\n\nWe appreciate your kind words and look forward to welcoming you back to Hotel DXB in the near future. Should you have any further inquiries or require assistance, please do not hesitate to visit our website at www.dihdxb.ae, reach out to us via email at hello@dihdxb.ae, or contact us on WhatsApp at +971547916000.\n\nWarm regards,\n\nThe Hotel DXB Team",
+        "lang": "en",
+        "author": "Argie Maglalang",
+        "published_date": null
+      }
+    },
+    {
+      "id": 945288060,
+      "lang": "en",
+      "location_id": 623825,
+      "published_date": "2024-04-04T02:08:47Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d623825-r945288060-Reviews-Hotel_DXB_Dubai_International_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945288060",
+      "text": "Our experience with the hotel is par expectations. The rooms are aethetically satisfying with luxury bathrooms and a full option massage recliner to welcome you after an exhausted trip. The restaurant service is an add on which serves 24 hours. The staff is very pleasant and corodial. Chef Prabin, server Abdul and Senthil serbed us excellent meal with a service parallel to a five star hotel. The rooms are spacious with a big work desk to facilicate you.",
+      "title": "Remarkable experience!",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "suhaa368",
+        "user_location": {
+          "id": "295414",
+          "name": "Karachi, Sindh Province"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e3/6a/default-avatar-2020-47.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e3/6a/default-avatar-2020-47.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e3/6a/default-avatar-2020-47.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e3/6a/default-avatar-2020-47.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e3/6a/default-avatar-2020-47.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945401711,
+        "title": "Owner response",
+        "text": "Dear Valued Guest,\n\nThank you for sharing your recent experience with us. We are delighted to hear that your stay at Hotel DXB surpassed your expectations. Our team takes great pride in providing aesthetically pleasing rooms equipped with luxurious amenities, including our massage recliners designed to help you unwind after your journey. It's wonderful to know that you enjoyed our round-the-clock restaurant service and that our staff, including Chef Prabin, server Abdul, and Senthil, went above and beyond to ensure your dining experience was nothing short of excellent. We are pleased to hear that our spacious rooms and well-equipped work desks contributed to your comfort during your stay.\n\nShould you have any further inquiries or wish to make future reservations, please don't hesitate to visit our website at www.dihdxb.ae, message us at hello@dihdxb.ae, or reach out to us via WhatsApp at +971547916000.\n\nWarm regards,\nThe Hotel DXB Team",
+        "lang": "en",
+        "author": "Argie Maglalang",
+        "published_date": null
+      }
+    },
+    {
+      "id": 944769666,
+      "lang": "en",
+      "location_id": 623825,
+      "published_date": "2024-04-01T07:10:17Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d623825-r944769666-Reviews-Hotel_DXB_Dubai_International_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review944769666",
+      "text": "We missed our connecting flights due to a delay. We had a 6 hour wait for the next flight. Luckily the hotel had short term packages of 1-3 hours, 3-6 hours etc. It was a relief from the missed connection. ",
+      "title": "Oasis in Dubai Airport",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "77virginiaw",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e8/24/default-avatar-2020-60.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e8/24/default-avatar-2020-60.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e8/24/default-avatar-2020-60.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e8/24/default-avatar-2020-60.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e8/24/default-avatar-2020-60.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945017853,
+        "title": "Owner response",
+        "text": "Dear Ms. Virginia,\n\nThank you for sharing your recent experience with us at Hotel DXB. We are delighted to hear that our short-term packages provided you with relief during your layover due to the missed connection. Your satisfaction is our priority, and we are pleased to have been able to offer you a convenient oasis during your time at Dubai Airport.\n\nShould you require any further assistance or information, please do not hesitate to reach out to us. You can visit our website at www.dihdxb.ae, message us at hello@dihdxb.ae, or contact us via WhatsApp at +971547916000.\n\nWarm regards,\nThe Hotel DXB Team",
+        "lang": "en",
+        "author": "Argie Maglalang",
+        "published_date": "2024-04-03T03:10:27Z"
+      }
+    },
+    {
+      "id": 944689435,
+      "lang": "en",
+      "location_id": 623825,
+      "published_date": "2024-03-31T15:14:41Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d623825-r944689435-Reviews-Hotel_DXB_Dubai_International_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review944689435",
+      "text": "That was my first time staying in Emirates International  Airport. I would like to thank two wonderful souls who made my trip awesome. They are really amazing and gentle and Professional . Sadia and Gheeth from the reception.  Best luck luck  guys. Thank you so much. ",
+      "title": "A great experience.",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "ashvanj",
+        "user_location": {
+          "id": "1182241",
+          "name": "Roches Noire"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/48/default-avatar-2020-15.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945017897,
+        "title": "Owner response",
+        "text": "Dear Valued Guest,\n\nThank you for taking the time to share your recent experience with us. We are delighted to hear that your first stay at Dubai International Airport was a great one. Your kind words regarding Sadia and Gheeth from our reception team truly warm our hearts. We're thrilled to hear that they made your trip awesome with their professionalism and gentle demeanor.\n\nAt The Hotel DXB, we strive to provide exceptional service, and it's rewarding to know that Sadia and Gheeth contributed to making your stay memorable. We will ensure to pass on your compliments to them.\n\nFor any future inquiries or bookings, please feel free to visit our website at www.dihdxb.ae, message us at hello@dihdxb.ae, or contact us via WhatsApp at +971547916000.\n\nWarm regards,\nThe Hotel DXB Team",
+        "lang": "en",
+        "author": "Argie Maglalang",
+        "published_date": "2024-04-03T03:11:04Z"
+      }
+    }
+  ]
+}

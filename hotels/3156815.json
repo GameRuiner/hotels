@@ -1,0 +1,127 @@
+{
+  "location_id": "3156815",
+  "name": "Metro Otel",
+  "description": "See why so many travelers make Otel Metro their small hotel of choice when visiting Izmir. Providing an ideal mix of value, comfort and convenience, it offers an array of amenities designed for travelers like you.\nGiven the close proximity of popular landmarks, such as Saint Polycarp Church (0.6 mi) and Synagogue Street (Havra Sokagi) (0.6 mi), guests of Otel Metro can easily experience some of Izmir's most well known attractions.\nGuest rooms offer amenities such as air conditioning, and guests can go online with free wifi offered by the small hotel.\nOtel Metro features a 24 hour front desk, room service, and currency exchange, to help make your stay more enjoyable. If you are driving to Otel Metro, free parking is available.\nIzmir has plenty of Asian restaurants. So when you’re here, be sure to check out popular spots like Sushico, Tea&Pot, and Red Dragon, which are serving up some great dishes.\nDuring your visit, be sure to check out popular attractions like Kemeralti Market (1.2 mi), Kordonboyu (1.0 mi), and Konak Square (1.0 mi), which are all within walking distance of the small hotel.\nAt Otel Metro, your comfort and satisfaction come first, and they look forward to welcoming you to Izmir.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g15263864-d3156815-Reviews-Metro_Otel-Konak_Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Gaziler Caddesi No. 88",
+    "street2": "Etiler Mh",
+    "city": "Konak",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35230",
+    "address_string": "Gaziler Caddesi No. 88 Etiler Mh, Konak, Izmir 35230 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Konak",
+      "location_id": "15263864"
+    },
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.422325",
+  "longitude": "27.145983",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g15263864-d3156815-Metro_Otel-Konak_Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "15263864",
+    "ranking_string": "#1 of 2 B&Bs / Inns in Konak",
+    "geo_location_name": "Konak",
+    "ranking_out_of": "2",
+    "ranking": "1"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "1",
+  "review_rating_count": {
+    "1": "0",
+    "2": "0",
+    "3": "0",
+    "4": "1",
+    "5": "0"
+  },
+  "subratings": {},
+  "photo_count": "7",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g15263864-d3156815-m66827-Reviews-Metro_Otel-Konak_Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Internet",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Air conditioning",
+    "Non-smoking hotel",
+    "Arabic",
+    "Currency Exchange",
+    "English",
+    "24-Hour Front Desk",
+    "Newspaper",
+    "Turkish"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "bb",
+      "localized_name": "Bed and Breakfast"
+    }
+  ],
+  "styles": [
+    "Quaint"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "0"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "0"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "0"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "0"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "1"
+    }
+  ],
+  "awards": []
+}

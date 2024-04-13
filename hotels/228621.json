@@ -1,0 +1,201 @@
+{
+  "location_id": "228621",
+  "name": "Hotel Front Maritim",
+  "description": "Located in Barcelona right on the beachfront and a few meters from international congress centre CCIB, the hotel has 177 rooms with direct telephone line, internet connection, satellite TV, air conditioning, full bathrooms with bathtub or shower and hair dryer. Some of them adapted for handicapped people and some with sea views. In the hotel you can enjoy our fitness room, with cardio machines, sauna and steam bath. Also you can use our business centre with computers connected to internet and our restaurant where you will taste a large variety of Mediterranean cuisine. There is own parking available in the same building. The hotel has 6 meeting rooms with audiovisual equipment, natural light, in front of the sea and high speed internet connection. They are the ideal place for the celebration of your meetings, conventions, banquets and all kinds of social events.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d228621-Reviews-Hotel_Front_Maritim-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Passeig Garcia Faria 69-71",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08019",
+    "address_string": "Passeig Garcia Faria 69-71, 08019 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.403824",
+  "longitude": "2.213772",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d228621-Hotel_Front_Maritim-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#356 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "356"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "1272",
+  "review_rating_count": {
+    "1": "71",
+    "2": "128",
+    "3": "350",
+    "4": "432",
+    "5": "291"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "619",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d228621-m66827-Reviews-Hotel_Front_Maritim-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Restaurant",
+    "Fitness center",
+    "Room service",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Business center",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Beachfront",
+    "Public Wifi",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Parking",
+    "Sauna",
+    "Baggage Storage",
+    "Bicycle Rental",
+    "Catalan",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Parking Garage",
+    "Paid Private Parking Nearby",
+    "Spanish",
+    "Taxi Service",
+    "Dry Cleaning",
+    "Safe",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Desk",
+    "English",
+    "German",
+    "Italian",
+    "Massage",
+    "Portuguese",
+    "Beach Access"
+  ],
+  "parent_brand": "Best Hotels S.L.",
+  "brand": "Best Hotels",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Ocean View",
+    "Great View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15565880",
+      "name": "Sant Marti"
+    },
+    {
+      "location_id": "15565924",
+      "name": "Diagonal Mar i el Front Maritim del Poblenou"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "246"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "498"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "51"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "170"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "134"
+    }
+  ],
+  "awards": []
+}

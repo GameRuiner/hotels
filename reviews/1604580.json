@@ -1,0 +1,201 @@
+{
+  "data": [
+    {
+      "id": 920449365,
+      "lang": "en",
+      "location_id": 1604580,
+      "published_date": "2023-10-09T03:45:58Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d1604580-r920449365-Reviews-Sunshine_Divers_Club_Il_Porto-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review920449365",
+      "text": "The hotel is very nice and clean, the staff is amazing starting from Hamada who helped me in the booking and kept checking on me and my mum even after arrival. The restaurant staff were great in service and attitude, the beach guy Sabry was very nice and professional even the housekeeping young boys although they were very young, but so clever and quick. The beach is very nice  although small, but clean with great corals I loved the whole experience and it wont be the last time. ",
+      "title": "Great experience",
+      "trip_type": "Family",
+      "travel_date": "2023-09-30",
+      "user": {
+        "username": "73ranwas",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f1/79/default-avatar-2020-21.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f1/79/default-avatar-2020-21.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f1/79/default-avatar-2020-21.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f1/79/default-avatar-2020-21.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/79/default-avatar-2020-21.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 914961111,
+      "lang": "en",
+      "location_id": 1604580,
+      "published_date": "2023-09-05T08:22:50Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d1604580-r914961111-Reviews-Sunshine_Divers_Club_Il_Porto-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review914961111",
+      "text": "This is our second time in this cute hotel, and again, it didn't disappoint us. It is located outside of Sharm and much more quiet and peaceful than other hotels. We love the staff here - they are all super kind and helpful. The place runs its own restaurant serving delicious Italian food. The rooms are located on the same level with the beach, very clean and spacious.",
+      "title": "Lovely hotel in a great location",
+      "trip_type": "Friends getaway",
+      "travel_date": "2023-09-30",
+      "user": {
+        "username": "578avitals",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e3/1f/default-avatar-2020-46.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 875885570,
+      "lang": "en",
+      "location_id": 1604580,
+      "published_date": "2023-01-21T19:01:19Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d1604580-r875885570-Reviews-Sunshine_Divers_Club_Il_Porto-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review875885570",
+      "text": "We stayed for 2 nights in January and were very happy with our seaside room.\n\nAirport transportation was arranged by the hotel and was prompt and quick.\n\nCheck in with Angelo was informative and easy. Despite the relaxed atmosphere of a diving club, our bags were taken to our room for us while we received a short tour of the property and amenities, which made us feel like we were at a 5* property.\n\nThe room was comfortable and had a beautiful view of the beach and Red Sea. It was a treat to stay in a room that was a 15 second walk to the beach and another 15 seconds to the water.\n\nThe onsite restaurant service was attentive and professional, and opened throughout the day. Breakfast from 0800-1000, beach lunch items from 1000-1600(?) and an Italian  menu from 1900-close. We were able to 'run a tab' during our stay there - even while sitting on the beach - which was almost a little *too* easy to eat throughout the day! The restaurant was also beachside.\n\nSince we had been traveling for a few weeks and needed some laundry done, this was easily arranged by the staff.\n\nThe only reason I gave the 'sleep quality' score a 4/5 was because, as being from North America, I prefer a softer bed. I've never understood why soft beds are only found in the Americas!\n\nI would definitely stay again.",
+      "title": "Great View, Relaxed, Excellent Service",
+      "trip_type": "NONE",
+      "travel_date": "2023-01-31",
+      "user": {
+        "username": "YEGcg",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f3/7c/default-avatar-2020-29.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f3/7c/default-avatar-2020-29.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f3/7c/default-avatar-2020-29.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f3/7c/default-avatar-2020-29.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f3/7c/default-avatar-2020-29.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "2": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 867933760,
+      "lang": "en",
+      "location_id": 1604580,
+      "published_date": "2022-11-10T12:35:53Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d1604580-r867933760-Reviews-Sunshine_Divers_Club_Il_Porto-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review867933760",
+      "text": "This is a perfect place! The food and beverage in the restaurant are really good, the stuff is very friendly and professional. I recommend it to everybody who wanna spend some days on the seashore with a beautiful view and excellent service.",
+      "title": "The best place in all the Egypt.",
+      "trip_type": "Solo travel",
+      "travel_date": "2022-11-30",
+      "user": {
+        "username": "_S4750XM",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/a7/default-avatar-2020-44.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/a7/default-avatar-2020-44.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 848692210,
+      "lang": "en",
+      "location_id": 1604580,
+      "published_date": "2022-07-19T05:27:04Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d1604580-r848692210-Reviews-Sunshine_Divers_Club_Il_Porto-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review848692210",
+      "text": "We got a very warm welcome, the room was very nice and clean with AC, shower with hot water,\nGood breakfast, it was perfect to have The beach in front of our room. \nWe spent 5 days diving with Mano and we enjoyed a lot, he has been very professional and care for our underwater safety.\nAll the staff from The dive shop, the restaurant and rooms, the beach and the boat make us feeling very comfortable and welcome",
+      "title": "Lovely place",
+      "trip_type": "Friends getaway",
+      "travel_date": "2022-07-31",
+      "user": {
+        "username": "O2096MCluisab",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ef/32/default-avatar-2020-12.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ef/32/default-avatar-2020-12.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ef/32/default-avatar-2020-12.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ef/32/default-avatar-2020-12.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ef/32/default-avatar-2020-12.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

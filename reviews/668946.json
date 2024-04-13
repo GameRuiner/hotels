@@ -1,0 +1,332 @@
+{
+  "data": [
+    {
+      "id": 945773501,
+      "lang": "en",
+      "location_id": 668946,
+      "published_date": "2024-04-07T22:26:59Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d668946-r945773501-Reviews-Rixos_Golf_Villas_Suites_Sharm_El_Sheikh-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review945773501",
+      "text": "My family and I (2 adults 2 children) visited the Rixos Golf Villas and suites this April 2024 and have been blown away with the quality and care from the staff. Mohamed Hassan was very  kind and helped us organise our rooms, Mohamed Samir and Mohamed Ahmed were brilliant at the bar and also entrained the kids.  Amir Ali was very helpful and welcoming everyday.  The concierge Salim and team  were also very helpful and organised our trip Cairo.\nA special call out to the lady on the ice cream counter... Even though she was fasting and in the heat she always smiled and looked after my family.",
+      "title": "Family friendly with amazing people working at the hotel",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "S3Brij",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/b8/default-avatar-2020-26.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945823553,
+        "title": "Owner response",
+        "text": "Dear  Valuable Guest,\n\nThank you for your feedback about Rixos Golf Villas & Suites Sharm El Sheikh!\n\nWe appreciate you taking the time to share your experience with other travelers. We are delighted to receive such positive feedback. It will be shared with our entire team and will definitely encourage us to continue to provide such high-quality service and ensure all of our guests have the most unique and memorable stay.\n\nWe look forward to welcoming you back again soon.\n\nBest Regards",
+        "lang": "en",
+        "author": "Ashrakat Hussein",
+        "published_date": "2024-04-08T08:05:14Z"
+      }
+    },
+    {
+      "id": 945538394,
+      "lang": "en",
+      "location_id": 668946,
+      "published_date": "2024-04-06T04:40:27Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d668946-r945538394-Reviews-Rixos_Golf_Villas_Suites_Sharm_El_Sheikh-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review945538394",
+      "text": "Our family happy that we choose Rixos Golf for vacation. Everything was amazing there. Welcoming reception, helpful guest relations team, fast service on the bars ans restaurants. Very good treatment and comfortable hotel facilities. Clean rooms",
+      "title": "Amazing stay",
+      "trip_type": "Couples",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "B3492THirinav",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f6/0d/default-avatar-2020-34.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945549960,
+        "title": "Owner response",
+        "text": "Dear  Valuable Guest,\n\nThank you for your feedback about Rixos Golf Villas & Suites Sharm El Sheikh!\n\nWe appreciate you taking the time to share your experience with other travelers. We are delighted to receive such positive feedback. It will be shared with our entire team and will definitely encourage us to continue to provide such high-quality service and ensure all of our guests have the most unique and memorable stay.\n\nWe look forward to welcoming you back again soon.\n\nBest Regards",
+        "lang": "en",
+        "author": "Ashrakat Hussein",
+        "published_date": "2024-04-06T06:51:22Z"
+      }
+    },
+    {
+      "id": 945536215,
+      "lang": "en",
+      "location_id": 668946,
+      "published_date": "2024-04-06T04:16:16Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d668946-r945536215-Reviews-Rixos_Golf_Villas_Suites_Sharm_El_Sheikh-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review945536215",
+      "text": "We had an amazing time in the hotel. Very clean room , delicious food with good variety at Main Restaurant and a la cart, fast service everywhere. Clean and beautiful beach, comfortable hotel facilities. We will recommend for our family and friends",
+      "title": "Amazing",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "W2679HD_",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e9/bb/default-avatar-2020-65.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945549946,
+        "title": "Owner response",
+        "text": "Dear  Valuable Guest,\n\nThank you for your feedback about Rixos Golf Villas & Suites Sharm El Sheikh!\n\nWe appreciate you taking the time to share your experience with other travelers. We are delighted to receive such positive feedback. It will be shared with our entire team and will definitely encourage us to continue to provide such high-quality service and ensure all of our guests have the most unique and memorable stay.\n\nWe look forward to welcoming you back again soon.\n\nBest Regards",
+        "lang": "en",
+        "author": "Ashrakat Hussein",
+        "published_date": "2024-04-06T06:51:15Z"
+      }
+    },
+    {
+      "id": 945434544,
+      "lang": "en",
+      "location_id": 668946,
+      "published_date": "2024-04-05T07:20:45Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d668946-r945434544-Reviews-Rixos_Golf_Villas_Suites_Sharm_El_Sheikh-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review945434544",
+      "text": "The best hotel in sharm.we really enjoyed our stay.we will come back again.the hotel very clean and tidy .staff very friendly and welcomed .the food very delicious swimming pool very large and heated .beach is very good.club care every place .",
+      "title": "Worth for money you pay",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "mariammQ5018CX",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e4/59/default-avatar-2020-49.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e4/59/default-avatar-2020-49.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e4/59/default-avatar-2020-49.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e4/59/default-avatar-2020-49.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e4/59/default-avatar-2020-49.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945471170,
+        "title": "Owner response",
+        "text": "Dear  Valuable Guest,\n\nThank you for your feedback about Rixos Golf Villas & Suites Sharm El Sheikh!\n\nWe appreciate you taking the time to share your experience with other travelers. We are delighted to receive such positive feedback. It will be shared with our entire team and will definitely encourage us to continue to provide such high-quality service and ensure all of our guests have the most unique and memorable stay.\n\nWe look forward to welcoming you back again soon.\n\nBest Regards",
+        "lang": "en",
+        "author": "Ashrakat Hussein",
+        "published_date": "2024-04-05T13:08:48Z"
+      }
+    },
+    {
+      "id": 945259719,
+      "lang": "en",
+      "location_id": 668946,
+      "published_date": "2024-04-03T17:06:14Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g297555-d668946-r945259719-Reviews-Rixos_Golf_Villas_Suites_Sharm_El_Sheikh-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827#review945259719",
+      "text": "We’ve just spent 8 fabulous days at Rixos Golf Resort.  From initial check in, it was evident that customer service was a high priority. The executive room (complimentary upgrade) we had was very spacious and impeccably clean. Beds and pillows were ultra comfy too. The actual resort is very tranquil and laid back with not much animation during the day (aqua aerobics and beach volleyball) although I believe the programme will be increased. The main pool area is huge and is heated. There’s also a child’s pool along with a few other pools (which we didn’t use and I believe are unheated). The main buffet restaurant, Turquoise, has plenty of choice and the pasta station was a huge hit with my 11 year old. The Turkish A La Carte restaurant was absolutely wonderful. My partner and our son played golf (they bought their own clubs with them so I couldn’t comment on what the hired clubs are like). My son also had a few golf lessons and went to the driving range and putting green. The golf coach was brilliant with him. Despite being built in the desert the golf course was really well maintained.  We went to Rixos Seagate in Nabq for the day (Aqua side) and we had a great day there.  My 11 year old loved the water park and slides although for me it was really busy and I preferred the laid back Rixos Golf Resort. The staff at Rixos Golf really make this resort a cut above the rest. Nothing, and I mean nothing, is too much trouble. Greeted with a smile each morning, towels placed on your sunbeds, drinks served on tap, sunbed towels changed whilst you’re in the pool or at lunch. They really were so attentive. Special shout out to Rasha, who on arrival greeted us and gave us her WhatsApp where we could arrange A la carte dining and for any other queries. My son wasn’t well one of the days and they quickly got a doctor on the phone and arranged prompt delivery of medication. Also special mention to Abdul Aziz, the pool guy/lifeguard who works tirelessly cleaning round the pool, getting and changing towels constantly and always with a smile.  I honestly couldn’t praise the staff here enough. I’ve travelled extensively and I can say they really are all amazing. The hotel predominantly had Russian guests but I am aware Tui will offer this hotel this season. We spent some time with the customer services manager providing feedback on our stay and giving recommendations we thought would improve the resort even further. We thoroughly enjoyed our stay at Rixos Golf and will definitely return. Thanks for a wonderful holiday ❤️",
+      "title": "Wonderful Holiday at Rixos Golf",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Pioneer533712",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e4/a9/default-avatar-2020-50.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945304498,
+        "title": "Owner response",
+        "text": "Dear  Valuable Guest,\n\nThank you for your feedback about Rixos Golf Villas & Suites Sharm El Sheikh!\n\nWe appreciate you taking the time to share your experience with other travelers. We are delighted to receive such positive feedback. It will be shared with our entire team and will definitely encourage us to continue to provide such high-quality service and ensure all of our guests have the most unique and memorable stay.\n\nWe look forward to welcoming you back again soon.\n\nBest Regards",
+        "lang": "en",
+        "author": "Ashrakat Hussein",
+        "published_date": "2024-04-04T05:26:34Z"
+      }
+    }
+  ]
+}

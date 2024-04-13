@@ -1,0 +1,282 @@
+{
+  "location_id": "566082",
+  "name": "Staybridge Suites Dubai Financial Centre",
+  "description": "Staybridge Suites Dubai Financial Centre is located on Sheikh Zayed Road opposite the Dubai International Financial Centre (DIFC) & Dubai World Trade & Exhibition Centre and in close proximity to The Dubai Mall and the world’s tallest building Burj Khalifa. The countless leisure, dining, shopping, and entertainment attractions of Downtown, City Walk, La Mer, and Jumeirah Beach are a short drive away or can be easily reached via the Financial Centre metro station located right outside our doorstep. The 48-story tower sets an eye-catching feature to Dubai’s iconic skyline. Guests have an option between one, two, or three-bedroom suites and studios that blend contemporary design with spacious layouts. Many of our suites enjoy spectacular views of the city or the sea. Every unit features its own fully-equipped kitchen and interconnecting suites offer greater flexibility for families or small groups travelling together.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d566082-Reviews-Staybridge_Suites_Dubai_Financial_Centre-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Zayed Road",
+    "street2": "Financial Centre Metro Station",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "11189",
+    "address_string": "Sheikh Zayed Road Financial Centre Metro Station, Dubai 11189 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.21172",
+  "longitude": "55.2742",
+  "timezone": "Asia/Dubai",
+  "phone": "18778595095",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d566082-Staybridge_Suites_Dubai_Financial_Centre-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#99 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "99"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "451",
+  "review_rating_count": {
+    "1": "8",
+    "2": "4",
+    "3": "7",
+    "4": "23",
+    "5": "409"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "393",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d566082-m66827-Reviews-Staybridge_Suites_Dubai_Financial_Centre-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Room service",
+    "Fitness center",
+    "Internet",
+    "Kitchenette",
+    "Wifi",
+    "Suites",
+    "Free parking",
+    "Wheelchair access",
+    "Spa",
+    "Dry Cleaning",
+    "Laundry Service",
+    "Concierge",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Air conditioning",
+    "Microwave",
+    "Refrigerator in room",
+    "Safe",
+    "Rooftop Pool",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Additional Bathroom",
+    "Allergy-free Room",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Billiards",
+    "Blackout Curtains",
+    "Bottled Water",
+    "24-Hour Check-in",
+    "Clothes Dryer",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Convenience Store",
+    "Desk",
+    "Dishwasher",
+    "Doorperson",
+    "English",
+    "Facial Treatments",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Kitchenware",
+    "Massage",
+    "Outdoor Furniture",
+    "Pool / Beach Towels",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Steam Room",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Washing Machine",
+    "Restaurant",
+    "Kids pool",
+    "Kids Stay Free",
+    "Sauna",
+    "Azerbaijani",
+    "Bathrobes",
+    "Bidet",
+    "Currency Exchange",
+    "Dining Area",
+    "Electric Kettle",
+    "Filipino",
+    "Foot Massage",
+    "French",
+    "Full Body Massage",
+    "Hand Massage",
+    "Head Massage",
+    "Highchairs Available",
+    "Indonesian",
+    "Iron",
+    "Landmark View",
+    "Nepali",
+    "Oven",
+    "Private Bathrooms",
+    "Russian",
+    "Sofa",
+    "Sofa Bed",
+    "Soundproof Rooms",
+    "Stovetop",
+    "Swahili",
+    "Tile / Marble Floor",
+    "Turkish",
+    "Valet Parking",
+    "Walk-in Shower",
+    "Wardrobe / Closet"
+  ],
+  "parent_brand": "InterContinental",
+  "brand": "Staybridge Suites",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Park View",
+    "City View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620627",
+      "name": "Dubai International Financial Centre (DIFC)"
+    },
+    {
+      "location_id": "15620671",
+      "name": "Trade Centre"
+    },
+    {
+      "location_id": "15620672",
+      "name": "Trade Centre 1"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "70"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "62"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "31"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "159"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "54"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

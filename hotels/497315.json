@@ -1,0 +1,181 @@
+{
+  "location_id": "497315",
+  "name": "Versailles By Raviz Hotel",
+  "description": "Comfort and Convenience await you at the centrally-located all new Versailles Hotel. A fifteen minutes drive from Dubai International Airport, Versailles Hotel is located in the business and leisure district of Al Rigga Street in Deira. Landmarks such as Al Ghurair City Shopping Mall, Twin Towers Shopping Mall, Reef Mall, Abra Ferry Station are just a short walk away from the Hotel. Other attractions include Deira City Centre Shopping Mall, Government & Business Offices, Nasser Square Shopping Area etc. Al Rigga and Union Metro Stations are equidistant from the hotel -a mere five minutes walk.Versailles Hotel offers 84 luxurious Guest-rooms & Suites that include the Versailles Club Floor comprising of 14 Deluxe Rooms & Suites.Rooms and Suites are available in both Smoking & Non-Smoking categories. All Rooms & Suites are equipped with modern amenities and luxuries.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d497315-Reviews-Versailles_By_Raviz_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "15 Street, Al Rigga Road",
+    "street2": "Al Muraqqabat, Behind Al Dana Center",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "33382",
+    "address_string": "15 Street, Al Rigga Road Al Muraqqabat, Behind Al Dana Center, Dubai 33382 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.263386",
+  "longitude": "55.320305",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d497315-Versailles_By_Raviz_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#455 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "455"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "259",
+  "review_rating_count": {
+    "1": "27",
+    "2": "18",
+    "3": "51",
+    "4": "74",
+    "5": "89"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    }
+  },
+  "photo_count": "185",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d497315-m66827-Reviews-Versailles_By_Raviz_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Room service",
+    "Pool",
+    "Restaurant",
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Hindi",
+    "24-Hour Security",
+    "Suites",
+    "Free parking",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Hot Tub",
+    "Business center",
+    "Concierge",
+    "Rooftop Pool",
+    "Baggage Storage",
+    "Car Hire",
+    "Currency Exchange"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Family",
+    "Romantic"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620596",
+      "name": "Al Rigga"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "45"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "74"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "35"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "60"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "27"
+    }
+  ],
+  "awards": []
+}

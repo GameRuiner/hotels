@@ -1,0 +1,235 @@
+{
+  "location_id": "3853285",
+  "name": "Movenpick Hotel Apartments Al Mamzar Dubai",
+  "description": "Movenpick Hotel Apartments Al Mamzar is an upscale hotel with fully equipped rooms and apartments. Offering modern accommodation with free WiFi, it also features an international restaurant, an outdoor swimming pool and a fitness centre. Century Mall is a 15-minute walk away. The rooms and apartments at Movenpick Hotel Apartments Al Mamzar are furnished with wooden floors and include a flat-screen TV. Each suite comes with a kitchen or a kitchenette, a dining area and a private bathroom with free toiletries. The restaurant serves a breakfast buffet as well as an a-la-carte menu. A 24-hour room service is available. The hotel operates a daily shuttle service to Al Mamzar beach and to Deira City Centre Shopping Mall. Free private parking is available. Free shuttle service to Mamzar Beach is provided daily. Dubai Airport Free Zone is within 5 minutes’ drive. Located just 10 minutes away from Dubai International Airport, Deira and Dubai Creek with easy access to Sheikh Zayed Road. You can drive to Dubai mall and World Trade Centre in 20 minutes.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d3853285-Reviews-Movenpick_Hotel_Apartments_Al_Mamzar_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Corner Cairo Road and 46th St.",
+    "street2": "Al Mamzar",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "92114",
+    "address_string": "Corner Cairo Road and 46th St. Al Mamzar, Dubai 92114 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.290127",
+  "longitude": "55.354427",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d3853285-Movenpick_Hotel_Apartments_Al_Mamzar_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#185 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "185"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1323",
+  "review_rating_count": {
+    "1": "55",
+    "2": "56",
+    "3": "118",
+    "4": "285",
+    "5": "809"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "334",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d3853285-m66827-Reviews-Movenpick_Hotel_Apartments_Al_Mamzar_Dubai-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Free Internet",
+    "Free Wifi",
+    "Pool",
+    "Internet",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Kitchenette",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Microwave",
+    "Refrigerator in room",
+    "Conference Facilities",
+    "Safe",
+    "Rooftop Pool",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Arabic",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Car Hire",
+    "Coffee / Tea Maker",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "Complimentary Toiletries",
+    "Hair Dryer",
+    "Hindi",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kitchenware",
+    "Parking Garage",
+    "Pool with View",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Soundproof Rooms",
+    "Taxi Service",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Bidet",
+    "Express Check-in / Check-out",
+    "Children's Television Networks",
+    "Clothes Rack",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Happy Hour",
+    "Highchairs Available",
+    "Private Bathrooms",
+    "Paid Public Parking Nearby",
+    "Sofa",
+    "Urdu",
+    "Valet Parking"
+  ],
+  "parent_brand": "Accor",
+  "brand": "Movenpick",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Green",
+    "Quiet"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620639",
+      "name": "Hor Al Anz East"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "330"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "240"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "199"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "324"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "168"
+    }
+  ],
+  "awards": []
+}

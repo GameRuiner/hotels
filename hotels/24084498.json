@@ -1,0 +1,264 @@
+{
+  "location_id": "24084498",
+  "name": "Meraki Resort Sharm El Sheikh",
+  "description": "Highlights \n• The first boho-clubbing resort in Sharm El Sheikh \n• Adults Only (16+) \n• Boho-inspired rooms and suites \n• À la Carte All-Inclusive Concept (Breakfast, Lunch and Dinner) \n\nExperience an unmatched atmosphere with a panoramic scenery of the Red Sea at Meraki Resort. The resort features an aesthetic, bohemian design with a set of unmatched facilities and amenities; various accommodation styles, exceptional a la carte dining experience and all means of wellness and rejuvenation, it really is the perfect getaway for wanderers and nomadics. Being located at the world-famous diving spot, Ras Nasrani, you wouldn't want to miss out on an underwater experience and if you're not a sea person, the resort covers you with 3 different pools that are all heated in winter. You can pay a visit to Meraki Boutique and take a significant piece to save the memory forever. The boutique is located right in front of the resort at Tal Avenue, Sharm's impeccable commercial destination where you can find luxury shops, restaurants, coffee shops and Tal Sports Hub. Located 13km from Naama Bay City Center and 10km from Sharm El Sheikh Airport, the resort features a distinctive location.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d24084498-Reviews-Meraki_Resort_Sharm_El_Sheikh-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "96A Ras Nasrani",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "postalcode": "46628",
+    "address_string": "96A Ras Nasrani, Sharm El Sheikh 46628 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.658537",
+  "longitude": "33.846493",
+  "timezone": "Africa/Cairo",
+  "phone": "01120693605370",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d24084498-Meraki_Resort_Sharm_El_Sheikh-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#30 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "30"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "450",
+  "review_rating_count": {
+    "1": "12",
+    "2": "8",
+    "3": "15",
+    "4": "22",
+    "5": "393"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "1037",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d24084498-m66827-Reviews-Meraki_Resort_Sharm_El_Sheikh-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Beachfront",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Minibar",
+    "Safe",
+    "Heated pool",
+    "Poolside Bar",
+    "Private Balcony",
+    "Infinity Pool",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Private Pools",
+    "Breakfast Available",
+    "Housekeeping",
+    "Adults Only",
+    "Aerobics",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Billiards",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Darts",
+    "Diving",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Ironing Service",
+    "Massage",
+    "Outdoor Furniture",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Seating Area",
+    "24-Hour Security",
+    "Snorkeling",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Beach Access",
+    "Internet",
+    "Free Internet",
+    "Free parking",
+    "Spa",
+    "Wifi",
+    "Smoking rooms available",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Butler Service",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Sauna",
+    "Bathrobes",
+    "Bidet",
+    "Boating",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "Clothes Rack",
+    "Currency Exchange",
+    "Desk",
+    "Electric Kettle",
+    "Executive Lounge Access",
+    "First Aid Kit",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Complimentary Instant Cofffee",
+    "Complimentary Welcome Drink",
+    "Full Body Massage",
+    "Gift Shop",
+    "Head Massage",
+    "Infirmary",
+    "Laptop Safe",
+    "Makeup Services",
+    "Manicure",
+    "Nightclub / DJ",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Pool View",
+    "Private Bathrooms",
+    "Salon",
+    "Shops",
+    "Snack Bar",
+    "Sofa",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Terrace",
+    "Swimming Pool Toys",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Tile / Marble Floor",
+    "Umbrella",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Wine / Champagne",
+    "Yoga Classes"
+  ],
+  "parent_brand": "Sunrise Resorts & Cruises",
+  "brand": "Sunrise Resorts",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Luxury",
+    "Ocean View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "7"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "180"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "40"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "33"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "165"
+    }
+  ],
+  "awards": []
+}

@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": 772519975,
+      "lang": "en",
+      "location_id": 12614733,
+      "published_date": "2020-09-30T12:58:02Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d12614733-r772519975-Reviews-Bel_Canto_Alacati_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review772519975",
+      "text": "We stayed in Bel Canto Hotel only one night after 5 star hotel experience and it was so peaceful, so clean and just as what we were expecting from an Alacati stone hotel. The pool, architect, food, staff, clean rooms... They said they are open all seasons and they have fireplaces in some of the rooms. So we are planning to go again.",
+      "title": "Heaven in a beautiful Alaçatı style Yard and pool",
+      "trip_type": "Couples",
+      "travel_date": "2020-09-30",
+      "user": {
+        "username": "historicalcuriosity",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/16/48/c1/32/historicalcuriosity.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/16/48/c1/32/historicalcuriosity.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/16/48/c1/32/historicalcuriosity.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/16/48/c1/32/historicalcuriosity.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 712283441,
+      "lang": "en",
+      "location_id": 12614733,
+      "published_date": "2019-09-23T09:31:47Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d12614733-r712283441-Reviews-Bel_Canto_Alacati_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review712283441",
+      "text": "I need to start with how freaking cute is this place! Tiny 15 room sanctuary on the edge of Cesme. The room was super cute quite spacious and comfortable. The hotel was super clean and felt fresh and new. This bed and breakfast served one of my favorite Turkish breakfast of our trip not only because it was tasty and fresh. BUT it had fresh donuts!  The staff was super friendly and accommodating as I constantly was asking for first a extra blanket as my fiancé and I fight over room temperature 😂. Extra towels because only I need a million. I needed an extra sheet. (dont even Ask 🤣😂🤣😂🤣)  in short they were super accommodating and had the best hospitality.  We are having our wedding in Cesme next year and we are for sure advising guests to stay here!!!",
+      "title": "Tiny Cesme sanctuary",
+      "trip_type": "Couples",
+      "travel_date": "2019-09-30",
+      "user": {
+        "username": "Carolina_runz",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e8/5b/default-avatar-2020-61.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e8/5b/default-avatar-2020-61.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e8/5b/default-avatar-2020-61.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e8/5b/default-avatar-2020-61.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e8/5b/default-avatar-2020-61.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

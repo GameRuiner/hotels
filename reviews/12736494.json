@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "id": 602631987,
+      "lang": "en",
+      "location_id": 12736494,
+      "published_date": "2018-08-04T08:58:53Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d12736494-r602631987-Reviews-Eritrina_Butik_Otel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review602631987",
+      "text": "Located in aperfect location, close to the city center. You feel like you are at home and it was super clean and provides u great hospitality.The hotel owner Mrs. Tülin was alwoys there for us and she was so kind and and helpful. We had fantastic breakfasts everyday ! The staffs were very helpful. I'll recommend this hotel to every couple and families:)",
+      "title": "Fantastic experience at ERİTRİNA !",
+      "trip_type": "Couples",
+      "travel_date": "2018-07-31",
+      "user": {
+        "username": "nilgung2018",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/e6/default-avatar-2020-45.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    }
+  ]
+}

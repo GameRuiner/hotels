@@ -1,0 +1,316 @@
+{
+  "location_id": "594132",
+  "name": "Sunrise Royal Makadi Resort",
+  "description": "Highlights: • Family resort in Makadi Bay • Private sandy beach • 7 pools + aqua park (18 slides) • 1 buffet and 8 à la carte restaurants (unlimited visits) • Adults only designated area SUNRISE Royal Makadi Resort is the perfect place for a fun and relaxing holiday. The 5-star resort is located in the heart of Makadi Bay, a main region with the best diving and snorkelling areas. The resort is built on a serene landscape surrounded by lush gardens, seven magnificent pools and a large aqua park to keep you splashing at all times. Adults can enjoy adults- only designated areas on the beach and pool as well as 4 bars & clubs. Additionally, the large gym with latest machine equipment and the in- house spa are available for adults- only (16+). Free Wi-Fi is available throughout the resort and in all rooms. SUNRISE Royal Makadi Resort offers 465 rooms including family rooms with bunk beds or family suites with extra children's room. All rooms come with SAT LED TV, safe box minibar, tea & coffee facilities and a terrace or balcony. SUNRISE Royal Makadi Resort offers 1 international buffet restaurant and 8 à-la-carte restaurants: Italian, Mexican, Mediterranean, Bedouin, Asian, Steak and Roots Diet & Light Cuisine. The specialty Restaurant Felucca serving Seafood cuisine is available against extra charge. The resort offers 10 different theme bars including 4 Pool Bars, Beach Bar, Shisha Café, Victoria Pub & Aquarius Club (16+), 2 Lobby Bars, one operating 24h. The extensive pool areas feature 7 swimming pools, including children’s pool with multiple slides. Guests can exercise on the jogging track or at the well-equipped gym. For those who love an active holiday, the Resort features 3 Football Courts, Multipurpose Court, Volleyball Court and many other activities such as Evening Animation Shows, Amphitheatre, Aquarius Club with Resident DJ. The SUNRISE Kid’s Club let by professional care takers is available for kids between 3-12 years old offering Daily Educational, Entertaining Sports & Activities. Located 37km (40 min) to Hurghada Centre and 32km (33 min) to Hurghada International Airport, the resort features a distinctive location. Our all-inclusive concept includes: Breakfast, Lunch and Dinner in Buffets or a la carte Restaurants (unlimited reservations), Snacks from 12:00-17:00, 22:30-01:00, local alcoholic Beverages from 10:00-00:00, Water and Hot Beverages 24/7, Minibar with water and soft drinks, Wi-Fi, free entertainment and sports activities, and much more. Some activities/services such as Diving Center, Spa Treatment are extra charge. Please get back to the hotel’s AI Formula for detailed information.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297550-d594132-Reviews-Sunrise_Royal_Makadi_Resort-Makadi_Bay_Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Safaga Road",
+    "street2": "KM 17 Hurghada",
+    "city": "Makadi Bay",
+    "country": "Egypt",
+    "postalcode": "84513",
+    "address_string": "Safaga Road KM 17 Hurghada, Makadi Bay, Hurghada 84513 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Makadi Bay",
+      "location_id": "297550"
+    },
+    {
+      "level": "Municipality",
+      "name": "Hurghada",
+      "location_id": "297549"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "26.996819",
+  "longitude": "33.89762",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297550-d594132-Sunrise_Royal_Makadi_Resort-Makadi_Bay_Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297550",
+    "ranking_string": "#16 of 37 hotels in Makadi Bay",
+    "geo_location_name": "Makadi Bay",
+    "ranking_out_of": "37",
+    "ranking": "16"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "12234",
+  "review_rating_count": {
+    "1": "145",
+    "2": "194",
+    "3": "627",
+    "4": "1843",
+    "5": "9425"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "10201",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297550-d594132-m66827-Reviews-Sunrise_Royal_Makadi_Resort-Makadi_Bay_Hurghada_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Beachfront",
+    "Beach Access",
+    "Suites",
+    "Internet",
+    "Free parking",
+    "Paid Internet",
+    "Laundry Service",
+    "Pool",
+    "Kids Activities",
+    "Room service",
+    "Free Internet",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Business center",
+    "Fitness center",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Water Park",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Aerobics",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Billiards",
+    "Bottled Water",
+    "Car Hire",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Convenience Store",
+    "Currency Exchange",
+    "Darts",
+    "Desk",
+    "Diving",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Head Massage",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Italian",
+    "Karaoke",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Laptop Safe",
+    "Massage",
+    "Mini Golf",
+    "Nightclub / DJ",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Snorkeling",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Kids pool",
+    "Archery",
+    "Cable / Satellite TV",
+    "Children's Playground",
+    "Electric Kettle",
+    "Highchairs Available",
+    "Makeup Services",
+    "Manicure",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Pool View",
+    "Private Bathrooms",
+    "Ukrainian",
+    "Wardrobe / Closet",
+    "Waterslide",
+    "Yoga Classes"
+  ],
+  "parent_brand": "Sunrise Resorts & Cruises",
+  "brand": "Sunrise Resorts",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Green",
+    "Great View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "26"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "3203"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "167"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "6575"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "1239"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice Best of the Best",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png"
+      },
+      "categories": [
+        "Family"
+      ],
+      "display_name": "Travelers Choice Best of the Best"
+    },
+    {
+      "award_type": "Travelers Choice Best of the Best",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2022_L.png"
+      },
+      "categories": [
+        "Family"
+      ],
+      "display_name": "Travelers Choice Best of the Best"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

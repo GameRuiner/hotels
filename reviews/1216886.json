@@ -1,0 +1,210 @@
+{
+  "data": [
+    {
+      "id": 899631436,
+      "lang": "en",
+      "location_id": 1216886,
+      "published_date": "2023-07-02T02:37:56Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g15263864-d1216886-r899631436-Reviews-Tempo_Residence_Comfort-Konak_Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review899631436",
+      "text": "Lovely spacious rooms with kitchenette microwave washing machine. Comfortable beds. Delicious breakfast delivered to your room Every morning. Rooms are bit dated but very clean which is most important. Service is excellent and staff really nice. Good value. Surrounding area is residential so if you are looking for a view from balcony like a beach or green scenery might not be for you.But very central and easy access to public transport and taxis.",
+      "title": "Wonderful ",
+      "trip_type": "Family",
+      "travel_date": "2023-07-31",
+      "user": {
+        "username": "316salomer",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f3/e4/default-avatar-2020-30.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 798034430,
+      "lang": "en",
+      "location_id": 1216886,
+      "published_date": "2021-07-19T06:36:28Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g15263864-d1216886-r798034430-Reviews-Tempo_Residence_Comfort-Konak_Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review798034430",
+      "text": "The place is well located. The staff is really polite and helpful. In fact they were the only ones who spoke English in the city. \n\nThe beds are really comfortable, and the rooms are absolutely clean. Good breakfast that will be taken to your room. \n\nNot to miss it. ",
+      "title": "The best I've tried in Turkey ",
+      "trip_type": "Friends getaway",
+      "travel_date": "2021-07-31",
+      "user": {
+        "username": "FlyingSpaniard",
+        "user_location": {
+          "id": "294452",
+          "name": "Sofia, Sofia Region"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1d/a1/20/15/flyingspaniard.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1d/a1/20/15/flyingspaniard.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1d/a1/20/15/flyingspaniard.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1d/a1/20/15/flyingspaniard.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1d/a1/20/15/flyingspaniard.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 669381078,
+      "lang": "en",
+      "location_id": 1216886,
+      "published_date": "2019-04-26T08:48:21Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g15263864-d1216886-r669381078-Reviews-Tempo_Residence_Comfort-Konak_Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review669381078",
+      "text": "A spotless room , well equipped with a 5 star amenities. The room is well designed having a nice view (601). The breakfast was delivered to the room exactly on the requested time. The staff are friendly and helpful. The location is not that idea, however, there is a bus  station just in the front of the residence and there 2 nearby metro stations ( kemer that goes to the airport and basmane that goes to alsancak). Bottom line, this property is highly recommended. I will definitely go back there. \n",
+      "title": "Outstandingly organised.....extreme attention to details",
+      "trip_type": "Couples",
+      "travel_date": "2019-04-30",
+      "user": {
+        "username": "khouadri",
+        "user_location": {
+          "id": "294009",
+          "name": "Doha"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/81/default-avatar-2020-43.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/81/default-avatar-2020-43.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 672949705,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nThank you for taking time this sweet comment.We do our best all the time for the comfort of our guest.\nHope to see you again in Tempo Residence Comfort\n\nBest Regards - Mehmet",
+        "lang": "en",
+        "author": "Tempo R",
+        "published_date": "2019-05-10T05:15:08Z"
+      }
+    },
+    {
+      "id": 666226016,
+      "lang": "en",
+      "location_id": 1216886,
+      "published_date": "2019-04-14T01:48:22Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g15263864-d1216886-r666226016-Reviews-Tempo_Residence_Comfort-Konak_Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review666226016",
+      "text": "Great value for money. Great location proximity to main city markets. \nApartment has parking facility as welll. Though washing machine was not there in our room, they provided us free washing in their washing facility. \nBreakfast choice was slightly limited. Size of the apartment is good enough for the families with kids. Apartments are quite even though being on the main street. We had nice and quiet sleep. Only small concern is Staff speaking ability in English was limited, though we managed with google translate. Very satisfied with the services and overall facility with the price it comes. Deserve very good ratings !",
+      "title": "Nice apartment nearby main attractions",
+      "trip_type": "Family",
+      "travel_date": "2019-03-31",
+      "user": {
+        "username": "Milind18072015",
+        "user_location": {
+          "id": "294003",
+          "name": "Kuwait City"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e4/2d/default-avatar-2020-48.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e4/2d/default-avatar-2020-48.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e4/2d/default-avatar-2020-48.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e4/2d/default-avatar-2020-48.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e4/2d/default-avatar-2020-48.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "1": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 668582986,
+        "title": "Owner response",
+        "text": "Dear Valued Guest\nThank you for taking the time to share your comments on tripadvisor.com.\nWe appreciate your positive feedback and deligheted to hear your enjoy your stay with us.\nOn Behalf of Tempo Residences Comfort, i will pass on your positive comments to all our staff members. They will be delighted, to hear what great impact they made and will continue to uphold the high Standards towards all our Valued guests.\nWe Value you and look forward to seeing you again in the near future\nKindest regards,\nON BEHALF OF TEMPO RESIDENCES COMFORT MANAGEMENT.",
+        "lang": "en",
+        "author": "Tempo R",
+        "published_date": "2019-04-23T08:20:47Z"
+      }
+    },
+    {
+      "id": 657118382,
+      "lang": "en",
+      "location_id": 1216886,
+      "published_date": "2019-03-08T04:56:13Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g15263864-d1216886-r657118382-Reviews-Tempo_Residence_Comfort-Konak_Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review657118382",
+      "text": "2nd visit to this hotel and still as nice as the first time i came. Staff are great people amd really friendly. Always happy to assist you with anything. Hotel very clean and comfortable with everything you need for a pleasant stay. I would reccomend this hotel to anyone who needs to stay in izmir.",
+      "title": "2nd visit",
+      "trip_type": "Couples",
+      "travel_date": "2019-03-31",
+      "user": {
+        "username": "hjgfj",
+        "user_location": {
+          "id": "190727",
+          "name": "Poole, Dorset, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ee/10/default-avatar-2020-8.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ee/10/default-avatar-2020-8.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 658565764,
+        "title": "Owner response",
+        "text": "Dear Valued Guest,\n\nThank you taking your time for this kind comment.\nWe do our best for your happines and comfort and\nwith your comment we can realize that we are good with this :-)\nHope to see you again in Tempo Residence Comfort\n\nBest Regards\nMehmet",
+        "lang": "en",
+        "author": "Tempo R",
+        "published_date": "2019-03-15T04:54:24Z"
+      }
+    }
+  ]
+}

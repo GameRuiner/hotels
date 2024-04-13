@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": 602919863,
+      "lang": "en",
+      "location_id": 1054840,
+      "published_date": "2018-08-05T09:12:03Z",
+      "rating": 2,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d1054840-r602919863-Reviews-Hotel_Kabacam-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review602919863",
+      "text": "we've stayed just 1 night, it is so normal hotel in a busy and noisy place the room was almost clean. The staffs of hotel weren't friendly at all and the breakfast was simple. the price of hotel isn't valuable.",
+      "title": "it is not friendly hotel",
+      "trip_type": "Couples",
+      "travel_date": "2018-07-31",
+      "user": {
+        "username": "421shirins",
+        "user_location": {
+          "id": "297955",
+          "name": "Adana, Turkish Mediterranean Coast"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/11/default-avatar-2020-41.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/11/default-avatar-2020-41.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Rooms"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Service"
+        }
+      }
+    }
+  ]
+}

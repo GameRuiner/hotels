@@ -1,0 +1,196 @@
+{
+  "location_id": "232786",
+  "name": "Hotel Viladomat",
+  "description": "With sophisticated interiors and elegant, the hotel offers spacious rooms, comfortable and contemporary, including colourful elements, functional furnishings and a sense of elegance.The hotel enjoys a strategic location in the business center, just 700meters from Sants station, the fairground and the \"Palau de Congressos\", and offers excellent transport links. There is also a refined restaurant, business facilities, event rooms, wireless Internet free in the entire building and a welcoming lounge area just off the lobby.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d232786-Reviews-Hotel_Viladomat-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Viladomat, 197",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08015",
+    "address_string": "Viladomat, 197, 08015 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.383926",
+  "longitude": "2.15162",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d232786-Hotel_Viladomat-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#372 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "372"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "885",
+  "review_rating_count": {
+    "1": "49",
+    "2": "64",
+    "3": "172",
+    "4": "414",
+    "5": "186"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "263",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d232786-m66827-Reviews-Hotel_Viladomat-Barcelona_Catalonia.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Restaurant",
+    "Wheelchair access",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Minibar",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Desk",
+    "English",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Taxi Service",
+    "Bar/Lounge",
+    "Non-smoking hotel",
+    "Parking",
+    "Car Hire",
+    "Catalan",
+    "Coffee Shop",
+    "French",
+    "German",
+    "Hair Dryer",
+    "Ironing Service",
+    "Italian",
+    "Newspaper",
+    "Paid Private Parking On-site",
+    "Russian",
+    "Soundproof Rooms",
+    "Spanish",
+    "Telephone",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Residential Neighborhood",
+    "Family"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230970",
+      "name": "Eixample"
+    },
+    {
+      "location_id": "15565887",
+      "name": "La Nova Esquerra de l'Eixample"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "61"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "392"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "41"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "114"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "128"
+    }
+  ],
+  "awards": []
+}

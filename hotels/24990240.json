@@ -1,0 +1,227 @@
+{
+  "location_id": "24990240",
+  "name": "Pickalbatros Blu Spa Resort - Hurghada",
+  "description": "Indulge in a world of incomparable luxury, where you can relax and enjoy flawless service at a place that caters to your every need, where the only thing on your mind is how you can make your stay even more memorable. Blu Spa Resort Hurghada is the newest adults-only resort among Pickalbatros Hotels & Resorts to embody a Spa concept with impeccable hospitality and perfect service. The resort is located on an exclusive stretch of beachfront, where you can enjoy world-class dining and entertainment all while relaxing in the lap of luxury. The property boasts an on-site private beach with white sand and crystal-clear waters, so there’s no need to leave the grounds if you don’t want to! Spoil yourself with our exceptional spa services and five stars dining options as the resort is ideal for romantic getaways and provides the maximum level of comfort and great services",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297549-d24990240-Reviews-Pickalbatros_Blu_Spa_Resort_Hurghada-Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "El Corniche St. Villages Road",
+    "city": "Hurghada",
+    "country": "Egypt",
+    "postalcode": "84517",
+    "address_string": "El Corniche St. Villages Road, Hurghada 84517 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Hurghada",
+      "location_id": "297549"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.182596",
+  "longitude": "33.824966",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297549-d24990240-Pickalbatros_Blu_Spa_Resort_Hurghada-Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297549",
+    "ranking_string": "#4 of 325 hotels in Hurghada",
+    "geo_location_name": "Hurghada",
+    "ranking_out_of": "325",
+    "ranking": "4"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "822",
+  "review_rating_count": {
+    "1": "5",
+    "2": "4",
+    "3": "10",
+    "4": "43",
+    "5": "761"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "1391",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297549-d24990240-m66827-Reviews-Pickalbatros_Blu_Spa_Resort_Hurghada-Hurghada_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Beachfront",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Air conditioning",
+    "Minibar",
+    "Safe",
+    "Heated pool",
+    "Breakfast Buffet",
+    "Indoor pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Housekeeping",
+    "Sauna",
+    "Adults Only",
+    "Aerobics",
+    "Arabic",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "24-Hour Check-in",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Darts",
+    "Diving",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Free Public Parking Nearby",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hammam",
+    "Ironing Service",
+    "Massage",
+    "Mini Golf",
+    "Outdoor Furniture",
+    "Pool / Beach Towels",
+    "Salon",
+    "Seating Area",
+    "Snack Bar",
+    "Snorkeling",
+    "Steam Room",
+    "Street Parking",
+    "Telephone",
+    "Beach Access",
+    "Wheelchair access",
+    "Wifi",
+    "Multilingual Staff",
+    "Flatscreen TV",
+    "Body Wrap",
+    "Cable / Satellite TV",
+    "Express Check-in / Check-out",
+    "Couples Massage",
+    "First Aid Kit",
+    "Foot Bath",
+    "Foot Massage",
+    "Complimentary Welcome Drink",
+    "Full Body Massage",
+    "Hand Massage",
+    "Head Massage",
+    "Manicure",
+    "Massage Chair",
+    "Neck Massage",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Personal Trainer",
+    "Pool View",
+    "Tile / Marble Floor",
+    "Wardrobe / Closet",
+    "Waxing Services",
+    "Yoga Classes"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Luxury",
+    "Business"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "5"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "504"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "37"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "114"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "126"
+    }
+  ],
+  "awards": []
+}

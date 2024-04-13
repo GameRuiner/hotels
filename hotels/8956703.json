@@ -1,0 +1,230 @@
+{
+  "location_id": "8956703",
+  "name": "Hotel Well and Come",
+  "description": "Hotel Well And Come is located in the famous Eixample of Barcelona area, precisely on the pretty Girona Street, which touches La Diagonal, only for streets away from the legendary and well transited Paseo de Gracia and 8 minutes on foot from Gaudí´s emblematic buildings such as La Pedrera (Casa Milà), the Casa Batlló and the majestic Sagrada Familia. Our rooms are always perfectly ready and maintained so that our guests never have to worry about a thing, we´re a hotel with charm in Barcelona. Furthermore, with each of the packages we offer you´ll be able to find different services and products, each one thought of to adapt to your stay.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d8956703-Reviews-Hotel_Well_and_Come-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Carrer de Girona, 158",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08037",
+    "address_string": "Carrer de Girona, 158, 08037 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.39917",
+  "longitude": "2.165565",
+  "timezone": "Europe/Madrid",
+  "phone": "01134931224189",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d8956703-Hotel_Well_and_Come-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#52 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "52"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1607",
+  "review_rating_count": {
+    "1": "16",
+    "2": "19",
+    "3": "55",
+    "4": "324",
+    "5": "1193"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "714",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d8956703-m66827-Reviews-Hotel_Well_and_Come-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Suites",
+    "Free Internet",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Minibar",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Allergy-free Room",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Breakfast in the Room",
+    "Catalan",
+    "Complimentary Tea",
+    "English",
+    "Complimentary Instant Cofffee",
+    "French",
+    "24-Hour Front Desk",
+    "Ironing Service",
+    "Italian",
+    "Laptop Safe",
+    "Newspaper",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "24-Hour Security",
+    "Snack Bar",
+    "Solarium",
+    "Soundproof Rooms",
+    "Spanish",
+    "Sun Terrace",
+    "Taxi Service",
+    "Wake Up Service / Alarm Clock",
+    "Plunge Pool",
+    "Shallow End"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quiet",
+    "Boutique"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230970",
+      "name": "Eixample"
+    },
+    {
+      "location_id": "15565885",
+      "name": "La Dreta de l'Eixample"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "128"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "636"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "61"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "423"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "170"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

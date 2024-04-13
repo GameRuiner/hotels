@@ -1,0 +1,208 @@
+{
+  "location_id": "2649154",
+  "name": "Do Placa Reial Powered By Sonder",
+  "description": "Let the adventures begin at DO Plaça Reial — steps from La Rambla on its namesake square. The rooftop terrace overlooks palm trees and iconic street lamps designed by Antonio Gaudí. Bar Tomate BCN serves delicious tapas and paella dishes downstairs on the patio. And breakfast is available every morning. The rooftop pool is a perfect spot to cool off on hot days. Or you can unwind with a session in the sauna. This is a central location and prone to noise. This property belongs to a collection of boutique hotels powered by Sonder. No two properties are alike, but all offer our mobile-first guest experience. Use the Sonder app to navigate your stay from start to finish. Check in. Request amenities. Connect to WiFi. Contact customer support. All via our small (but mighty) app. Whatever you need, we’ve got you covered. This Sonder has a front desk which is staffed 24/7. Our on-site team is available to ensure you have a better stay.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d2649154-Reviews-Do_Placa_Reial_Powered_By_Sonder-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Placa Reial, 1",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08002",
+    "address_string": "Placa Reial, 1, 08002 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.37997",
+  "longitude": "2.174995",
+  "timezone": "Europe/Madrid",
+  "phone": "01134618567874",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d2649154-Do_Placa_Reial_Powered_By_Sonder-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#18 of 1,202 Specialty lodging in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "1202",
+    "ranking": "18"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "1329",
+  "review_rating_count": {
+    "1": "11",
+    "2": "15",
+    "3": "35",
+    "4": "121",
+    "5": "1147"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "743",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d2649154-m66827-Reviews-Do_Placa_Reial_Powered_By_Sonder-Barcelona_Catalonia.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Bar/Lounge",
+    "Wifi",
+    "Free Wifi",
+    "Suites",
+    "Restaurant",
+    "Flatscreen TV",
+    "Non-smoking rooms",
+    "Concierge",
+    "Self-Serve Laundry",
+    "Babysitting",
+    "Non-smoking hotel",
+    "Sauna",
+    "Express Check-in / Check-out",
+    "Clothes Rack",
+    "Iron",
+    "Private Bathrooms",
+    "Paid Public Parking Nearby",
+    "Seating Area",
+    "Wardrobe / Closet",
+    "Beach Access"
+  ],
+  "parent_brand": "Sonder Holdings Inc.",
+  "brand": "Sonder",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [
+    "Great View",
+    "Quaint"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230964",
+      "name": "La Rambla"
+    },
+    {
+      "location_id": "7230963",
+      "name": "Barrio Gotico (Barri Gotic)"
+    },
+    {
+      "location_id": "15565874",
+      "name": "Ciutat Vella (Old Town)"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "60"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "785"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "81"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "163"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "91"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice Best of the Best",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_bob_2023_L.png"
+      },
+      "categories": [
+        "Small"
+      ],
+      "display_name": "Travelers Choice Best of the Best"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "location_id": "736972",
+  "name": "Rehana Sharm Resort - Aquapark & Spa",
+  "description": "Comfortable 4* hotel was designed for those who love the sea, sun and fun together. Cozy and intimate, with a complex of fancy shaped pools, it is perfect for a family holiday. The hotel offers an interesting entertainment program from morning till the very evening with lots of attractions. Care about our youngest visitors is our priority! Water slides and playgrounds - a paradise for children. And for sure a lot of new international friends will be a nice special bonus. Great place to enjoy various evening shows and late dinner and all the refreshments throughout the day. Rooms : The hotel has a total number of 663 rooms of different types: * Standard - 25-29 m² - comfortable room * Superior - 28-30 m² - comfortable room of a larger size * Family -30-35 m² - one large room * Executive - 30-35 m² - luxury room * Suite - 45-60 m² - luxury 2-rooms apartment Each room is equipped with individually controlled air conditioning, private bathroom with shower or bath, television, telephone, safe box. Balcony or terrace with a beautiful view of the garden, which is well taken care of, palm trees and swimming pools can be found in every room. Two outside playgrounds will help parents to enjoy all the leisure activities together with their children not only in the Kids Club but on the beach as well. And for sure everybody are welcome for the most important part of the program - Mini - Disco! ENTERTAINMENT: Every day various classes with an international animation team (yoga, dance lessons, water volleyball, etc..) are provided all over the territory of hotel. Our evening shows held in the Old Egyptian Amphitheater will take you to the fairy-tale of Arabic night. Fakir show, belly dancers, Egyptian art, derwish show will create the spirit of ancient magic . And our live singer, violin performances and dance competition will help you to discover your hidden talents. The hotel's aqua-park consists of 12 different shaped swimming pools with area of 6,000 m² in total, large and small for children, with water slides for everybody. Some of them , including the Main one, are heated in winter. Our international animation team offers different opportunities to train not only sense of humor but body as well. Everyday you can enjoy and have a lot of fun with: * GYM and fitness * Tennis courts * Table tennis competition * Volleyball tournament * Darts * Water Polo * Aqua-aerobics * Belly-dance and Latino -dance lessons. Rehana 24 Hours All Inclusive: * 24 hours food & beverages service in all of our 25 outlets (restaurants , bars ,snack corners) * Three main buffet meals (breakfast, lunch and dinner ) & Kids' corner * Four a la carte restaurants (Italian, Mexican, Indian and Lebanese) * Early breakfast, late breakfast, snacks, tea time and late dinner * Snack Beach bar (beverages) *Food Court with full amenities * Entertainment (daily animation program, night shows ) * Sports (mini football, basketball tennis courts, table tennis, GYM, water polo, aerobics , dances lessons, darts,..)* Rehana Ultra All Inclusive: * Enjoy the 24 hours formula PLUS: * 24 hours All inclusive food & beverages * Three additional visits to a la carte restaurants (Asian and Oriental in Rehana Royal Beach and Seafood restaurant on the beach) * Mini bar upon arrival & 2 bottles of water daily * Fresh fruit platter upon arrival * Laundry service (once per stay) * Sports (mini football, table tennis , tennis court during the day & in night time free of charge) * Turn down service * Free Internet daily * Rehana souvenirs",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g303855-d736972-Reviews-Rehana_Sharm_Resort_Aquapark_Spa-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "7 Km North Of Sharm Airport",
+    "city": "Nabq Bay",
+    "country": "Egypt",
+    "postalcode": "1111",
+    "address_string": "7 Km North Of Sharm Airport, Nabq Bay, Sharm El Sheikh 1111 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Nabq Bay",
+      "location_id": "303855"
+    },
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "28.019667",
+  "longitude": "34.433777",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g303855-d736972-Rehana_Sharm_Resort_Aquapark_Spa-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "303855",
+    "ranking_string": "#24 of 41 hotels in Nabq Bay",
+    "geo_location_name": "Nabq Bay",
+    "ranking_out_of": "41",
+    "ranking": "24"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "2910",
+  "review_rating_count": {
+    "1": "146",
+    "2": "132",
+    "3": "261",
+    "4": "636",
+    "5": "1735"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "1332",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g303855-d736972-m66827-Reviews-Rehana_Sharm_Resort_Aquapark_Spa-Nabq_Bay_Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Restaurant",
+    "Fitness center",
+    "Paid Wifi",
+    "Suites",
+    "Business center",
+    "Bar/Lounge",
+    "Kids Activities",
+    "Beachfront",
+    "Free Internet",
+    "Wheelchair access",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Conference Facilities",
+    "Safe",
+    "Swimup Bar",
+    "Heated pool",
+    "Water Park",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Adult pool",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Housekeeping",
+    "Kids Club",
+    "Aerobics",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Billiards",
+    "Bottled Water",
+    "24-Hour Check-in",
+    "Darts",
+    "Diving",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "24-Hour Front Desk",
+    "Game Room",
+    "Gift Shop",
+    "Hair Dryer",
+    "Ironing Service",
+    "Karaoke",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shops",
+    "Snack Bar",
+    "Snorkeling",
+    "Special Diet Menus",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Telephone",
+    "VIP Room Facilities",
+    "Beach Access",
+    "Internet",
+    "Free parking",
+    "Spa",
+    "Public Wifi",
+    "Paid Internet",
+    "Tennis Court",
+    "Smoking rooms available",
+    "Minibar",
+    "Parking",
+    "Cable / Satellite TV",
+    "Children's Playground",
+    "Clothes Rack",
+    "First Aid Kit",
+    "Complimentary Toiletries",
+    "Complimentary Welcome Drink",
+    "Highchairs Available",
+    "Interconnected room(s) available",
+    "Kids' Meals",
+    "Landmark View",
+    "Outdoor Dining Area",
+    "Pool View",
+    "Private Bathrooms",
+    "Tennis Court Off-site",
+    "Tile / Marble Floor",
+    "Wardrobe / Closet",
+    "Waterslide",
+    "Yoga Classes"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Classic",
+    "Quaint"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "16"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "603"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "73"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1000"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "952"
+    }
+  ],
+  "awards": []
+}

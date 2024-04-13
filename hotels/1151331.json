@@ -1,0 +1,259 @@
+{
+  "location_id": "1151331",
+  "name": "The Apartments Dubai World Trade Centre",
+  "description": "When you choose an apartment with us, you’ll enjoy real space and freedom that a hotel room simply cannot match. Yet your stay comes with everything you would expect from a hotel. Our fully furnished and spacious hotel apartments are available in 4 different unit types and in 3 separate apartment blocks, ranging from studios to 3 bedroom apartments. They are all fully furnished and serviced for your comfort and convenience. Whether you are staying for one night, or several months, The Apartments Dubai World Trade Centre will happily accommodate all your needs.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1151331-Reviews-The_Apartments_Dubai_World_Trade_Centre-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Zayed Road, Trade Center 2",
+    "street2": "",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "9229",
+    "address_string": "Sheikh Zayed Road, Trade Center 2, Dubai 9229 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.22475",
+  "longitude": "55.28424",
+  "timezone": "Asia/Dubai",
+  "phone": "01197143314555",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1151331-The_Apartments_Dubai_World_Trade_Centre-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#448 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "448"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "295",
+  "review_rating_count": {
+    "1": "33",
+    "2": "17",
+    "3": "60",
+    "4": "91",
+    "5": "94"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    }
+  },
+  "photo_count": "242",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1151331-m66827-Reviews-The_Apartments_Dubai_World_Trade_Centre-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Fitness center",
+    "Kitchenette",
+    "Internet",
+    "Suites",
+    "Free Internet",
+    "Wheelchair access",
+    "Free Wifi",
+    "Non-smoking rooms",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Self-Serve Laundry",
+    "Microwave",
+    "Refrigerator in room",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Housekeeping",
+    "Arabic",
+    "Bath / Shower",
+    "English",
+    "Room service",
+    "Free parking",
+    "Restaurant",
+    "Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Laundry Service",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Conference Facilities",
+    "Poolside Bar",
+    "Adult pool",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Facilities for Disabled Guests",
+    "Kids Stay Free",
+    "Sauna",
+    "Electric vehicle charging station",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Cable / Satellite TV",
+    "24-Hour Check-in",
+    "Children's Television Networks",
+    "Children's Playground",
+    "Clothes Rack",
+    "Coffee / Tea Maker",
+    "Currency Exchange",
+    "Desk",
+    "Dining Area",
+    "Electric Kettle",
+    "Extra Long Beds",
+    "Facial Treatments",
+    "Filipino",
+    "First Aid Kit",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kids' Outdoor Play Equipment",
+    "Kitchenware",
+    "Landmark View",
+    "Laptop Safe",
+    "Makeup Services",
+    "Manicure",
+    "Nepali",
+    "Outdoor Dining Area",
+    "Oven",
+    "Pedicure",
+    "Personal Trainer",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Private Bathrooms",
+    "Paid Public Parking Nearby",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Shoeshine",
+    "Shops",
+    "Sinhala",
+    "Snack Bar",
+    "Sofa",
+    "Soundproof Rooms",
+    "Steam Room",
+    "Stovetop",
+    "Sun Deck",
+    "Sun Umbrellas",
+    "Tamil",
+    "Taxi Service",
+    "Telephone",
+    "Tile / Marble Floor",
+    "Urdu",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Wardrobe / Closet",
+    "Washing Machine",
+    "Waxing Services"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Mid-range",
+    "Centrally Located"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620671",
+      "name": "Trade Centre"
+    },
+    {
+      "location_id": "15620673",
+      "name": "Trade Centre 2"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "148"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "21"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "19"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "53"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "22"
+    }
+  ],
+  "awards": []
+}

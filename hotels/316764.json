@@ -1,0 +1,215 @@
+{
+  "location_id": "316764",
+  "name": "Nathalie Hotel",
+  "description": "Everyone needs a place to lay their weary head. For travelers visiting Rhodes Town, Nathalie Hotel is an excellent choice for rest and rejuvenation. Well-known for its romantic environment and proximity to great restaurants, Nathalie Hotel makes it easy to enjoy the best of Rhodes Town.\nGuest rooms offer air conditioning and a refrigerator, and Nathalie Hotel makes getting online easy as free internet access is available.\nYou can also take advantage of some of the amenities offered by the hotel, including a 24 hour front desk, currency exchange, and baggage storage. In addition, guests can enjoy a pool and free breakfast during their visit. As an added convenience, there is free parking available to guests.\nGiven the close proximity of popular landmarks, such as Cave Archangel Michael Panormitis (1.9 mi) and Temple of Athena Polias and Zeus Polieus (2.0 mi), guests of Nathalie Hotel can easily experience some of Rhodes Town's most well known attractions.\nRhodes Town has plenty of steakhouses. So when you’re here, be sure to check out popular spots like Skordo Kremmidi, Ora (The Time), and Special, which are serving up some great dishes.\nThere is no shortage of things to do in the area: explore popular natural history museums such as The Cultural and Geological Palace of Rhodes.\nWhether you’re traveling for business, pleasure or both, Nathalie Hotel is sure to make your visit to Rhodes Town one worth remembering.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g635613-d316764-Reviews-Nathalie_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "address_obj": {
+    "street1": "65 Sotiros",
+    "street2": "Ixia",
+    "city": "Rhodes Town",
+    "state": "Rhodes",
+    "country": "Dodecanese",
+    "postalcode": "851 01",
+    "address_string": "65 Sotiros Ixia, Rhodes Town 851 01 Greece"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Rhodes Town",
+      "location_id": "635613"
+    },
+    {
+      "level": "Island",
+      "name": "Rhodes",
+      "location_id": "189449"
+    },
+    {
+      "level": "IslandGroup",
+      "name": "Dodecanese",
+      "location_id": "189436"
+    },
+    {
+      "level": "Region",
+      "name": "South Aegean",
+      "location_id": "8561323"
+    },
+    {
+      "level": "Country",
+      "name": "Greece",
+      "location_id": "189398"
+    }
+  ],
+  "latitude": "36.41607",
+  "longitude": "28.1769",
+  "timezone": "Europe/Athens",
+  "write_review": "https://www.tripadvisor.com/UserReview-g635613-d316764-Nathalie_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "635613",
+    "ranking_string": "#18 of 122 hotels in Rhodes Town",
+    "geo_location_name": "Rhodes Town",
+    "ranking_out_of": "122",
+    "ranking": "18"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "1000",
+  "review_rating_count": {
+    "1": "13",
+    "2": "10",
+    "3": "46",
+    "4": "256",
+    "5": "675"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "844",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g635613-d316764-m66827-Reviews-Nathalie_Hotel-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Pool",
+    "Bar/Lounge",
+    "Multilingual Staff",
+    "Internet",
+    "Free Internet",
+    "Laundry Service",
+    "Air conditioning",
+    "Refrigerator in room",
+    "Safe",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Housekeeping",
+    "Baggage Storage",
+    "Billiards",
+    "Board Games / Puzzles",
+    "Currency Exchange",
+    "English",
+    "Free Public Parking Nearby",
+    "French",
+    "24-Hour Front Desk",
+    "Game Room",
+    "German",
+    "Greek",
+    "Italian",
+    "Outdoor Furniture",
+    "Pool / Beach Towels",
+    "Shared Lounge / TV Area",
+    "Snack Bar",
+    "Street Parking",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Free parking",
+    "Breakfast included",
+    "Bicycle Rental",
+    "Car Hire",
+    "Ironing Service",
+    "Romanian",
+    "Sun Terrace",
+    "Turkish",
+    "Windsurfing"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Residential Neighborhood",
+    "Mountain View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "6"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "602"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "38"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "148"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "89"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "location_id": "6400581",
+  "name": "Sant Jordi Hostels Rock Palace",
+  "description": "Sant Jordi Hostels Rock Palace is the Rock Hostel in Barcelona! A Barcelona hostel dedicated to Rock Music of all ages, it is a designer hostel in Downtown Barcelona with the best modern facilities, an ideal central location, fun atmosphere and world famous services. Made for hostel enthusiasts and connoisseurs: We're talking roof-top pool, famous bar and club themed common areas, a guitar collection, Wi-Fi everywhere, guest computers up the wazoo, sound-proofed rooms designed for optimal hostel comfort, new EVERYTHING, huge guest kitchen, spacious immaculately cleaned bathrooms, all the world famous Sant Jordi Hostels' Services and much more... all in one of the best locations in Barcelona",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d6400581-Reviews-Sant_Jordi_Hostels_Rock_Palace-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Carrer Balmes 75",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08007",
+    "address_string": "Carrer Balmes 75, 08007 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.390392",
+  "longitude": "2.16078",
+  "timezone": "Europe/Madrid",
+  "phone": "01134934533281",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d6400581-Sant_Jordi_Hostels_Rock_Palace-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#28 of 1,202 Specialty lodging in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "1202",
+    "ranking": "28"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "492",
+  "review_rating_count": {
+    "1": "13",
+    "2": "7",
+    "3": "11",
+    "4": "90",
+    "5": "371"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "202",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d6400581-m66827-Reviews-Sant_Jordi_Hostels_Rock_Palace-Barcelona_Catalonia.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Wheelchair access",
+    "Kitchenette",
+    "Public Wifi",
+    "Non-smoking rooms",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Accessible rooms",
+    "Non-smoking hotel",
+    "Rooftop Pool",
+    "Rooftop Terrace",
+    "Baggage Storage",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "24-Hour Front Desk",
+    "Shared Kitchen",
+    "Shared Lounge / TV Area",
+    "Shared Bathroom",
+    "Spanish",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Breakfast Available",
+    "Bath / Shower",
+    "Cable / Satellite TV",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Hair Dryer",
+    "Kitchenware",
+    "Oven",
+    "Portuguese",
+    "Stovetop",
+    "Sun Deck",
+    "Vending Machine"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [
+    "Quirky Hotels",
+    "Trendy"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230970",
+      "name": "Eixample"
+    },
+    {
+      "location_id": "15565886",
+      "name": "L'Antiga Esquerra de l'Eixample"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "4"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "26"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "199"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "3"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "211"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

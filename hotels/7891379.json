@@ -1,0 +1,192 @@
+{
+  "location_id": "7891379",
+  "name": "Mena ApartHotel Al Barsha",
+  "description": "Located in one of the world's most extravagant cities, Mena ApartHotel, previously known as Parkinn by Radisson Hotel Apartment, offers spacious accommodation for the modern executive traveler. Convenient access to the adjacent Mall of the Emirates ensures a complete shopping experience, while proximity to the Dubai World Trade Center as well as Media City enables you attend business events and meetings with ease. Especially ideal for long stays, this contemporary Dubai hotel and residence boasts a selection of fully equipped studios as well as 1- and 2-bedroom suites. Guests can dine within the convenience of the hotel at our on-site restaurant and lobby cafe, while the hotel's health club beckons you to unwind at the end of a busy day. Free Wireless High-speed Internet further enhances your stay.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d7891379-Reviews-Mena_ApartHotel_Al_Barsha-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "4a Street",
+    "street2": "Al Barsha 1, Next to Mall of Emirates",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "4a Street Al Barsha 1, Next to Mall of Emirates, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.117111",
+  "longitude": "55.195942",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d7891379-Mena_ApartHotel_Al_Barsha-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#469 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "469"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "163",
+  "review_rating_count": {
+    "1": "14",
+    "2": "12",
+    "3": "30",
+    "4": "43",
+    "5": "64"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "117",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d7891379-m66827-Reviews-Mena_ApartHotel_Al_Barsha-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Suites",
+    "Free Internet",
+    "Wheelchair access",
+    "Kitchenette",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Refrigerator in room",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Outdoor pool",
+    "Parking",
+    "Housekeeping",
+    "Arabic",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "24-Hour Check-in",
+    "24-Hour Security",
+    "Pool",
+    "Kids Activities",
+    "Room service",
+    "Free parking",
+    "Restaurant",
+    "Spa",
+    "Airport transportation",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Business center",
+    "Laundry Service",
+    "Concierge",
+    "Family Rooms",
+    "Self-Serve Laundry",
+    "Smoking rooms available",
+    "Microwave",
+    "Conference Facilities",
+    "Babysitting",
+    "Non-smoking hotel",
+    "Breakfast Buffet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Centrally Located",
+    "Green"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620543",
+      "name": "Al Barsha"
+    },
+    {
+      "location_id": "15620544",
+      "name": "Al Barsha 1"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "50"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "31"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "12"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "47"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "14"
+    }
+  ],
+  "awards": []
+}

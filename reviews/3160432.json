@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "id": 743244162,
+      "lang": "en",
+      "location_id": 3160432,
+      "published_date": "2020-02-05T15:51:44Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d3160432-r743244162-Reviews-Blue_City_Boutique_Hotel_Mavisehir-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review743244162",
+      "text": "I travelled here with my partner for surgery in May 2019, I loved the hotel and I’d love to go back. The 2 receptionists were so helpful, every day they would make sure I was ok and had everything I needed! I wish I took more photos as the hotel was spotless, nicely decorated and the staff were so supportive.\n\nThe lady in the room next door to me also had surgery and was really struggling, I heard the hotel receptionist helping her get up and walk every day which is beyond kind hearted. There is a shopping mall not far which the hotel will help you get a taxi to, there are lots of nice restaurants next to the hotel too. Thank you to all the staff who were so helpful during my stay.",
+      "title": "Wonderful hotel newly renovated",
+      "trip_type": "Couples",
+      "travel_date": "2019-05-31",
+      "user": {
+        "username": "dhramirez76",
+        "user_location": {
+          "id": "186217",
+          "name": "England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/0d/8e/f6/2b/deborah-f.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/0d/8e/f6/2b/deborah-f.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/0d/8e/f6/2b/deborah-f.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/0d/8e/f6/2b/deborah-f.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-w/0d/8e/f6/2b/deborah-f.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 684512495,
+      "lang": "en",
+      "location_id": 3160432,
+      "published_date": "2019-06-26T11:26:53Z",
+      "rating": 2,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d3160432-r684512495-Reviews-Blue_City_Boutique_Hotel_Mavisehir-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review684512495",
+      "text": "I stayed here in February 2019. I didn't have a say where I stayed as I was visiting Turkey for plastic surgery so the company put me up in this hotel. Trip Adviser states there is room service. There is not! If there is we were not told about this nor was there any form of menu in our room. There is really nothing locally. I got the feeling Izmir isn't a tourist place. Most food places were few and far between so I struggled to eat due to there being no room service.\nBreakfast was minimal. Boiled eggs, cheese, basic Turkish breakfast I think. Same everyday.\nWe moved room once due to the vile, dirty bathroom and live wires hanging out of the wall. The second room wasn't much better. On a busy road and dogs barking all night.\nThe staff were very nice and polite albeit when you've had major surgery you expect food and cleanliness to be key.",
+      "title": "Not as described!",
+      "trip_type": "Solo travel",
+      "travel_date": "2019-02-28",
+      "user": {
+        "username": "rosiexinns",
+        "user_location": {
+          "id": "1096775",
+          "name": "Potters Bar, Hertfordshire, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/18/12/9f/59/rosiexstevens.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/18/12/9f/59/rosiexstevens.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/18/12/9f/59/rosiexstevens.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/18/12/9f/59/rosiexstevens.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/18/12/9f/59/rosiexstevens.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Rooms"
+        },
+        "1": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 653229233,
+      "lang": "en",
+      "location_id": 3160432,
+      "published_date": "2019-02-18T09:41:58Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d3160432-r653229233-Reviews-Blue_City_Boutique_Hotel_Mavisehir-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review653229233",
+      "text": "Rooms are very big and good, stuff is very nice and hospitality is totaly ok. Only problem was with proxy internet, but not sure that have reason in hotel. Food is very tasty and good, neighboorhood is very good, boat, bus, metro etc, shopping mall etc is very close...",
+      "title": "very good hotel",
+      "trip_type": "Business",
+      "travel_date": "2019-01-31",
+      "user": {
+        "username": "durlanacperica",
+        "user_location": {
+          "id": "295382",
+          "name": "Nis, Central Serbia"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f1/42/default-avatar-2020-20.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f1/42/default-avatar-2020-20.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f1/42/default-avatar-2020-20.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f1/42/default-avatar-2020-20.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/42/default-avatar-2020-20.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "2": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 640970741,
+      "lang": "en",
+      "location_id": 3160432,
+      "published_date": "2018-12-22T06:56:54Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d3160432-r640970741-Reviews-Blue_City_Boutique_Hotel_Mavisehir-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review640970741",
+      "text": "Terrible.. Normal pricr should be 25 euro max but they charge min 70 Euro oer person.. Dirty floors and toilets.. Some Bugs are just walking on floor.. But toilet is really bacterical..They charged me the nuts which i didnt eat.. Check other alternatives i donot recommend you to stay..",
+      "title": "Bacterical Toilets and Dirty Floors..",
+      "trip_type": "Business",
+      "travel_date": "2018-12-31",
+      "user": {
+        "username": "853savask",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/0d/20/61/de/savas-k.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/0d/20/61/de/savas-k.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/0d/20/61/de/savas-k.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-o/0d/20/61/de/savas-k.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 639508151,
+      "lang": "en",
+      "location_id": 3160432,
+      "published_date": "2018-12-14T02:49:32Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d3160432-r639508151-Reviews-Blue_City_Boutique_Hotel_Mavisehir-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review639508151",
+      "text": "Very nice hotel. It’s my third time in turkey and finally I’ve found someone that speaks English :). Staff very friendly and cordial. It’s very well located and the city centre is reachable by tram and ferry.",
+      "title": "Nice hotel",
+      "trip_type": "Solo travel",
+      "travel_date": "2018-12-31",
+      "user": {
+        "username": "LSLDN1994",
+        "user_location": {
+          "id": "186338",
+          "name": "London, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/18/26/04/e1/lsldn1994.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/18/26/04/e1/lsldn1994.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/18/26/04/e1/lsldn1994.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-o/18/26/04/e1/lsldn1994.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

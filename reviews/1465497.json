@@ -1,0 +1,222 @@
+{
+  "data": [
+    {
+      "id": 945557226,
+      "lang": "en",
+      "location_id": 1465497,
+      "published_date": "2024-04-06T08:03:17Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d1465497-r945557226-Reviews-W_Barcelona-Barcelona_Catalonia.html?m=66827#review945557226",
+      "text": "Great stay. Although very large and busy the hotel is well organised. The staff and very friendly and helpful. The vibe is very cool and modern. Our room had a beautiful view of the old cable car, the beach and most importantly the sea. The breakfast buffet was excellent with international favourites and local specialties. We loved the French toast, praline filled brioche  and the açai bowls. Dinner at Noxe was spot on with great food and attentive service.  Pool area is a little small and we had to wait for someone to leave to get seats by the pool. \n\nThe only negatives I have were a dog yapping from a nearby room and the noise of the spinning sessions on Saturday morning by the pool. \n\nOverall excellent I would stay here again.",
+      "title": "Wonderful W",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "ccit33_12",
+        "user_location": {
+          "id": "186338",
+          "name": "London, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f4/20/default-avatar-2020-31.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f4/20/default-avatar-2020-31.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 944230321,
+      "lang": "en",
+      "location_id": 1465497,
+      "published_date": "2024-03-28T05:47:21Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d1465497-r944230321-Reviews-W_Barcelona-Barcelona_Catalonia.html?m=66827#review944230321",
+      "text": "Had an amazing stay here on a city break. The check in was seamless with Varum and Marlon, who upgraded our room with amazing views across the port/beach from 20th floor.\n\nBreakfast was lovely but recommend ordering off the menu as buffet was relatively cold.\n\nWe also had room service and burgers are highly recommended.\n\nIt was my birthday and they delivered a beautiful cake to my room. Lots of nice little touches.\n\nLocation was good for beach, weather wasn’t great though and quite windy. Would definitely stay here in season.\n\nAround 20 minute cab journey to La Rambla, around €12.\n\nAll in all, great stay here in Barcelona and highly recommend this hotel.",
+      "title": "Great stay at W Barcelona",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "583KimB583",
+        "user_location": {
+          "id": "186338",
+          "name": "London, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e7/3d/default-avatar-2020-55.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/3d/default-avatar-2020-55.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 941807708,
+      "lang": "en",
+      "location_id": 1465497,
+      "published_date": "2024-03-11T14:10:43Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d1465497-r941807708-Reviews-W_Barcelona-Barcelona_Catalonia.html?m=66827#review941807708",
+      "text": "We have stayed in some lovely hotels and this has been by far one of the best. I don’t  normally write reviews but wanted to take the time to share how impressed I have been. \n\nThe staff really make it, everyone from the concierge, bar staff to restaurant staff take the time to ensure you are having an enjoyable stay and go above and beyond  to accommodate you. We had excellent restaurant reviews and were handed umbrellas at the front door when it was raining outside and taxis called to the front door. \n\nThe concierge staff recommended some lovely restaurants and they took the time to print out maps for us. Honestly the service is faultless. \n\nThe hotel itself is incredible, the rooms have amazing views it’s breathtaking! \n \nWe went to the bar on the top floor and the barmen made incredible cocktails! \n\nWhat a fantastic experience. Thank you W hotel for making our experience so enjoyable. \n\nThank you we will be back to stay again!\nNick and Selina",
+      "title": "Fantastic Hotel",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "drselinaw",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ed/ce/default-avatar-2020-7.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 941652350,
+      "lang": "en",
+      "location_id": 1465497,
+      "published_date": "2024-03-10T11:18:58Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d1465497-r941652350-Reviews-W_Barcelona-Barcelona_Catalonia.html?m=66827#review941652350",
+      "text": "After several previous visits to Barcelona decided to stay at the W \nWanted to be on the water this time \nBoy glad we did \nGot upgraded to a suite due to platinum status with Bonvoy \nAppreciate the fact that they honoured the status given how busy this hotel is \nSuites are on lower floors but are perfect for viewing the water and skyline \nThey are huge , modern,clean and bright \nLoved loved loved \nVery quiet floor and suite was soundproof \nNot sure how we can ever stay elsewhere \nWas so nice to go for daily walks along the boardwalk and enjoy the spectacular views \nVery busy city but manageable in February \nWould stay away during summer and heavy cruise ship months \nRestaurants were always busy and served delicious food \nMake sure you book in advance",
+      "title": "Can’t be beat",
+      "trip_type": "Couples",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "heeto",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e8/91/default-avatar-2020-62.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e8/91/default-avatar-2020-62.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 941401585,
+      "lang": "en",
+      "location_id": 1465497,
+      "published_date": "2024-03-08T08:05:59Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d1465497-r941401585-Reviews-W_Barcelona-Barcelona_Catalonia.html?m=66827#review941401585",
+      "text": "The hotel is fantastic, my wife and I have stayed in other Marriott hotels in Barcelona, The W is the number 1 in our opinion.\nThe staff are polite and attentive, the house keeping and cleanliness first class.\nWe had previously been apprehensive to stay at the hotel  due to comments relating to noise and service, we had no such problem and can recommend the hotel.\nWe are Platinum Elite members and have stayed in lots of hotels, the W Barcelona will be a return visit.",
+      "title": "When in Barcelona look no further than the W",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "PhilipColeman",
+        "user_location": {
+          "id": "186340",
+          "name": "Middlesbrough, North Yorkshire, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/2b/95/e6/77/caption.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/2b/95/e6/77/caption.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/2b/95/e6/77/caption.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/2b/95/e6/77/caption.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2b/95/e6/77/caption.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

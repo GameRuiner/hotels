@@ -1,0 +1,198 @@
+{
+  "location_id": "4761479",
+  "name": "The White Hotel",
+  "description": "The White Alaçatı Hotel welcomes guests in a building with a 200 year history, which was given as a given by Mustafa Kemal Atatürk to his comrade in arms Sako Mahmudovic, during the War of Independence. Bay Sako is located in the center of Alaçatı. 1 suite with view of Alaçatı and terrace, 2 rooms with view of Alaçatı and terraces, 1 room with refreshing balcony, 3 delux rooms, 5 standard rooms (4 double, 1 twin), Located in the center of Alaçatı, Bay Sako has a total of 11 rooms designed in different styles with unique architecture to make guests feel at home: If you want to experience the amazing atmosphere of Alaçatı and the nostalgia of the historical tapestry in a warm, pleasure-filled holiday we invite you to come and stay at the Bay Sako Alaçatı Hotel for your stay.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d4761479-Reviews-The_White_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Cumhuriyet Caddesi No:14",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35937",
+    "address_string": "Cumhuriyet Caddesi No:14, Izmir 35937 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.283836",
+  "longitude": "26.375818",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d4761479-The_White_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#29 of 136 B&Bs / Inns in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "136",
+    "ranking": "29"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "4",
+  "review_rating_count": {
+    "1": "0",
+    "2": "0",
+    "3": "0",
+    "4": "0",
+    "5": "4"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "29",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d4761479-m66827-Reviews-The_White_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Suites",
+    "Free parking",
+    "Restaurant",
+    "Breakfast included",
+    "Internet",
+    "Beachfront",
+    "Room service",
+    "Free Internet",
+    "Pets Allowed",
+    "Airport transportation",
+    "Free Wifi",
+    "Non-smoking rooms",
+    "Business center",
+    "Laundry Service",
+    "Air conditioning",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Private Balcony",
+    "Breakfast Available",
+    "Housekeeping",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Clothes Dryer",
+    "Clothes Rack",
+    "Coffee / Tea Maker",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Extra Long Beds",
+    "First Aid Kit",
+    "Free Private Parking Nearby",
+    "Free Public Parking Nearby",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Greek",
+    "Hair Dryer",
+    "Ironing Service",
+    "Landmark View",
+    "Mountain View",
+    "Newspaper",
+    "Nightclub / DJ",
+    "Patio",
+    "Paid Private Parking Nearby",
+    "Seating Area",
+    "24-Hour Security",
+    "Sofa Bed",
+    "Sun Terrace",
+    "Taxi Service",
+    "Tile / Marble Floor",
+    "Turkish",
+    "Wardrobe / Closet",
+    "Windsurfing",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "bb",
+      "localized_name": "Bed and Breakfast"
+    }
+  ],
+  "styles": [
+    "City View",
+    "Quaint"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "0"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "0"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "0"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "1"
+    }
+  ],
+  "awards": []
+}

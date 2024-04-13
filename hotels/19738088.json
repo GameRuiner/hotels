@@ -1,0 +1,220 @@
+{
+  "location_id": "19738088",
+  "name": "Lemon Tree Hotel, Jumeirah Dubai",
+  "description": "Lemon Tree Hotel, Jumeirah, Dubai, features contemporary interiors and seamless service. The hotel offers 110 well-appointed rooms, along with a multi-cuisine coffee shop, Lemon Tree Café, complemented by a beautiful al fresco lounge. The meeting room is available to cater to guests’ business needs. It also features a refreshing rooftop swimming pool, a well-equipped fitness center, and a wellness Spa.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d19738088-Reviews-Lemon_Tree_Hotel_Jumeirah_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Wasl Road",
+    "street2": "Umm Al Sheif, Jumeirah",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "122487",
+    "address_string": "Al Wasl Road Umm Al Sheif, Jumeirah, Dubai 122487 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.133722",
+  "longitude": "55.199432",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d19738088-Lemon_Tree_Hotel_Jumeirah_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#167 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "167"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "365",
+  "review_rating_count": {
+    "1": "5",
+    "2": "5",
+    "3": "5",
+    "4": "38",
+    "5": "312"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "298",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d19738088-m66827-Reviews-Lemon_Tree_Hotel_Jumeirah_Dubai-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Air conditioning",
+    "Safe",
+    "Rooftop Pool",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Arabic",
+    "Bottled Water",
+    "English",
+    "Filipino",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Ironing Service",
+    "Parking Garage",
+    "Pool with View",
+    "24-Hour Security",
+    "Taxi Service",
+    "Telephone",
+    "Free Internet",
+    "Concierge",
+    "Smoking rooms available",
+    "Flatscreen TV",
+    "Parking",
+    "Additional Bathroom",
+    "Coffee / Tea Maker",
+    "Currency Exchange",
+    "Desk",
+    "Doorperson",
+    "Newspaper",
+    "Outdoor Dining Area",
+    "Separate Living Room",
+    "Wardrobe / Closet"
+  ],
+  "parent_brand": "Lemon Tree Hotels",
+  "brand": "Lemon Tree",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quaint",
+    "Charming"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620674",
+      "name": "Umm Al Sheif"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "64"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "73"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "57"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "71"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "64"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

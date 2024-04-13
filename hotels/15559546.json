@@ -1,0 +1,248 @@
+{
+  "location_id": "15559546",
+  "name": "Studio M Arabian Plaza",
+  "description": "Welcome to Studio M Arabian Plaza, a designer hotel in Dubai. Studio M is a chic-urban hotel brand that is part of the Millennium Hotels and Resorts. Studio M provides thoughtful, well-designed spaces with the “cool” factor combined with stylish, high-quality rooms and integrated fuss-free technology. It’s the hotel you would have designed… for Yourself! The hotel is strategically located close to both downtown Dubai and Sharjah and is a short stroll from Al Qiyadah metro station, from which you can access many of the city’s key points of interest in no time, including the Deira Clock Tower, Dubai Spice Souk and Gold Souk, and the Dubai Creek Golf & Yacht Club. Near Dubai International Terminal 2, Dubai Police Headquarters, and Dubai Free Zone Authority with convenient access to the Deira neighborhood. Complimentary shuttle service to Al Mamzar Beach and Deira City Center is provided on daily basis.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d15559546-Reviews-Studio_M_Arabian_Plaza-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Ittihad Road",
+    "street2": "Al Qiyadah Metro Station",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Al Ittihad Road Al Qiyadah Metro Station, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.276497",
+  "longitude": "55.349987",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d15559546-Studio_M_Arabian_Plaza-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#18 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "18"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "1706",
+  "review_rating_count": {
+    "1": "23",
+    "2": "18",
+    "3": "18",
+    "4": "85",
+    "5": "1562"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "579",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d15559546-m66827-Reviews-Studio_M_Arabian_Plaza-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Kitchenette",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Accessible rooms",
+    "Microwave",
+    "Refrigerator in room",
+    "Babysitting",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Electric vehicle charging station",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "24-Hour Check-in",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Desk",
+    "English",
+    "Filipino",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Kitchenware",
+    "Pool / Beach Towels",
+    "Russian",
+    "Seating Area",
+    "24-Hour Security",
+    "Snack Bar",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Telephone",
+    "Wake Up Service / Alarm Clock",
+    "Washing Machine",
+    "Free Internet",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Kids pool",
+    "Breakfast Available",
+    "Parking",
+    "Cable / Satellite TV",
+    "Dining Area",
+    "Electric Kettle",
+    "First Aid Kit",
+    "Free Wifi in the Business Center",
+    "Landmark View",
+    "Oven",
+    "Pool View",
+    "Private Bathrooms",
+    "Paid Private Parking Nearby",
+    "Radio",
+    "Sofa",
+    "Sun Deck",
+    "Swimming Pool Toys",
+    "Tamil",
+    "Umbrella",
+    "Urdu",
+    "Wardrobe / Closet",
+    "Photo Copier / Fax In Business Center"
+  ],
+  "parent_brand": "Millennium & Copthorne Hotels",
+  "brand": "Millennium",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Boutique",
+    "Trendy"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620639",
+      "name": "Hor Al Anz East"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "376"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "195"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "316"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "348"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "313"
+    }
+  ],
+  "awards": []
+}

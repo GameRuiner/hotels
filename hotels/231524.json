@@ -1,0 +1,197 @@
+{
+  "location_id": "231524",
+  "name": "Hotel Paral.lel",
+  "description": "The Hotel Paral·lel, located on Avenida Paral·lel, known for its theaters and cabarets, very close to La Rambla, puts within reach of its customers areas as representative of Barcelona as the Port Vell, the Barri Gòtic, the Gran Teatre del Liceu, the Palau de la Música Catalana, the Catedral, Montjuïc, the Poble Espanyol, and the Estadi Olímpic. A host of tourist attractions, not to mention the World Trade Center and the Fira de Barcelona as key points of business activity in Barcelona.\n\nThe hotel offers its guests 64 rooms, all fully equipped with individual air conditioning, piped music, free Wi-Fi Internet connection, satellite TV, telephone, safe, hairdryer, minibar and kettle. Also, the hotel is pet friendly and welcomes small pets.\n\nHotel Paral·lel has a wide range of services and amenities, such as online check-in, 24-hour reception, laundry service, access and adapted spaces, business center, luggage room and public parking in front of the building.\n\nIn addition, it is worth mentioning the exquisite breakfast. It features a wide selection of fresh and local products. With savory options such as cold meats, cheeses and dairy products or sweet options such as pastries, pastries, cereals and fruits.\n\nEnjoy your stay in Barcelona!",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d231524-Reviews-Hotel_Paral_lel-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Poeta Cabanyes, 5-7",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08004",
+    "address_string": "Poeta Cabanyes, 5-7, 08004 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.37481",
+  "longitude": "2.166196",
+  "timezone": "Europe/Madrid",
+  "phone": "01134944580297",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d231524-Hotel_Paral_lel-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#160 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "160"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "1822",
+  "review_rating_count": {
+    "1": "27",
+    "2": "49",
+    "3": "205",
+    "4": "725",
+    "5": "816"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "599",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d231524-m66827-Reviews-Hotel_Paral_lel-Barcelona_Catalonia.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Wheelchair access",
+    "Non-smoking rooms",
+    "Suites",
+    "Dry Cleaning",
+    "Laundry Service",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Minibar",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Baggage Storage",
+    "Catalan",
+    "English",
+    "French",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Ironing Service",
+    "Spanish",
+    "Family Rooms"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Modern",
+    "Residential Neighborhood"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15565875",
+      "name": "Sants-Montjuic"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "105"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "757"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "149"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "291"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "285"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

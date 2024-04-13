@@ -1,0 +1,213 @@
+{
+  "location_id": "1227764",
+  "name": "Barcelona Princess",
+  "description": "A 4-star hotel located in the Forum area only at 50 meters from the beach. On the 1st of Diagonal Avenue directly across from the CCIB (International Convention Centre of Barcelona) and Diagonal Mar Mall. Excellent public transport options to the city centre, just 20 minutes by metro, Tram or bus, all just 5 minutes walk from the hotel. There is also a Barcelona Touristic Bus stop behind the hotel, you can purchase tickets at the reception and start the tour on the Green Line. Spacious facilities with free access for all guests. Its modern Business Centre with computer use, Internet access and complimentary printing. Two heated outdoor pools, one on the 3rd floor next to the solarium, gym, sauna and massage room available to the customer (massages at extra cost). The other pool is on the 23rd floor with wonderful views over the Mediterranean Sea. In the rooms, modern and comfortable, there are free services such as WIFI and Mini Bar; you can also enjoy spectacular views of Barcelona and the Mediterranean at your feet.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d1227764-Reviews-Barcelona_Princess-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Diagonal Avenue 1-3",
+    "street2": "10 min from the Beach and in Front of the Convention Centre, next to a mall.",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08019",
+    "address_string": "Diagonal Avenue 1-3 10 min from the Beach and in Front of the Convention Centre, next to a mall., 08019 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.411068",
+  "longitude": "2.218752",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d1227764-Barcelona_Princess-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#341 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "341"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "3705",
+  "review_rating_count": {
+    "1": "152",
+    "2": "161",
+    "3": "451",
+    "4": "1404",
+    "5": "1537"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "2824",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d1227764-m66827-Reviews-Barcelona_Princess-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Restaurant",
+    "Fitness center",
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Pool",
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Bar/Lounge",
+    "Spa",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Non-smoking hotel",
+    "Safe",
+    "Rooftop Pool",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Infinity Pool",
+    "Outdoor pool",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Breakfast in the Room",
+    "Catalan",
+    "24-Hour Check-in",
+    "English",
+    "Facial Treatments",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Massage",
+    "Pool / Beach Towels",
+    "24-Hour Security",
+    "Spanish",
+    "Sauna",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Ocean View",
+    "Great View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15565929",
+      "name": "Diagonal Mar"
+    },
+    {
+      "location_id": "15565880",
+      "name": "Sant Marti"
+    },
+    {
+      "location_id": "15565924",
+      "name": "Diagonal Mar i el Front Maritim del Poblenou"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "739"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1659"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "131"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "396"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "404"
+    }
+  ],
+  "awards": []
+}

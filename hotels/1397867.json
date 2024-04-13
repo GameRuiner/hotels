@@ -1,0 +1,321 @@
+{
+  "location_id": "1397867",
+  "name": "Sofitel Dubai Jumeirah Beach",
+  "description": "Sofitel Dubai Jumeirah Beach draws inspiration from local culture and tradition while celebrating innovation and the French art de vivre to offer a one-of-a-kind, luxurious hotel experience. Located in Jumeirah Beach Residence, the hotel occupies a prime location in Dubai Marina. Opening directly onto \"The Walk\" – Dubai’s most popular recreation promenade as well as the new beachfront low-rise leisure and retail destination \"The Beach.\" The hotel is next to Dubai Tram Station Jumeirah Beach Residence 2 and at a 10-minute walk to DMCC Metro Station to visit famous landmarks and attractions. Business hubs Jebel Ali Free Zone, Dubai Media City and Dubai Internet City are nearby, positioning the hotel business and leisure guests at the heart of this extraordinary destination. Within the 31 story building the hotel has 444 sea-view rooms and suites including 27 Junior suites and Family suites, 12 Prestige suites and 2 Opera Suites. Each room has a private balcony with views across the Arabian Gulf.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1397867-Reviews-Sofitel_Dubai_Jumeirah_Beach-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "The Walk",
+    "street2": "Jumeirah Beach Residences",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "The Walk Jumeirah Beach Residences, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.075527",
+  "longitude": "55.132168",
+  "timezone": "Asia/Dubai",
+  "phone": "44484848",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1397867-Sofitel_Dubai_Jumeirah_Beach-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#27 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "27"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "12437",
+  "review_rating_count": {
+    "1": "138",
+    "2": "162",
+    "3": "508",
+    "4": "1842",
+    "5": "9787"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "7088",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1397867-m66827-Reviews-Sofitel_Dubai_Jumeirah_Beach-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Beachfront",
+    "Suites",
+    "Free parking",
+    "Meeting rooms",
+    "Shuttle Bus Service",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Swimup Bar",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Infinity Pool",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Sauna",
+    "Additional Bathroom",
+    "Afrikaans",
+    "Allergy-free Room",
+    "Arabic",
+    "ATM On Site",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Chinese",
+    "Clothes Dryer",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Currency Exchange",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "Free Public Parking Nearby",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Head Massage",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Italian",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Laptop Safe",
+    "Massage",
+    "Newspaper",
+    "Outdoor Furniture",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Portuguese",
+    "Private Check-in / Check-out",
+    "Romanian",
+    "Russian",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shared Lounge / TV Area",
+    "Shoeshine",
+    "Shops",
+    "Snack Bar",
+    "Soundproof Rooms",
+    "Spanish",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Taxi Service",
+    "Telephone",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Wine / Champagne",
+    "Public Wifi",
+    "Air Purifier",
+    "Azerbaijani",
+    "Bidet",
+    "Express Check-in / Check-out",
+    "Clothes Rack",
+    "Couples Massage",
+    "Dining Area",
+    "Electric Kettle",
+    "Executive Lounge Access",
+    "First Aid Kit",
+    "Foot Massage",
+    "Complimentary Welcome Drink",
+    "Free Wifi in the Business Center",
+    "Free Wired Internet in the Business Center",
+    "Hand Massage",
+    "Happy Hour",
+    "Highchairs Available",
+    "Infirmary",
+    "Neck Massage",
+    "Nepali",
+    "Outdoor Dining Area",
+    "Pool View",
+    "Private Bathrooms",
+    "Paid Private Parking Nearby",
+    "Radio",
+    "Separate Living Room",
+    "Sofa",
+    "Sofa Bed",
+    "Sun Deck",
+    "Ukrainian",
+    "Umbrella",
+    "Urdu",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Water Park Off-site",
+    "Whirlpool Bathtub",
+    "Photo Copier / Fax In Business Center",
+    "Beach Access"
+  ],
+  "parent_brand": "Accor",
+  "brand": "Sofitel",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Bay View",
+    "Great View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620642",
+      "name": "Jumeirah Beach Residence (JBR)"
+    },
+    {
+      "location_id": "7282432",
+      "name": "The Marina"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "1307"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "4815"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "677"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "3032"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "1518"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "data": [
+    {
+      "id": 945944829,
+      "lang": "en",
+      "location_id": 13455259,
+      "published_date": "2024-04-09T07:52:50Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g1189606-d13455259-r945944829-Reviews-Atlantica_Dreams_Resort-Gennadi_Rhodes_Dodecanese_South_Aegean.html?m=66827#review945944829",
+      "text": "One of the most enjoyable stays we have had, staff were lovely, they catered for our 10 month old on request with food.\n\nThe resort is lovely, we honestly didn't want to leave\n\nSpecial mention to Giorgos and Giannis from the hotel who were there to help, TUI Staff Isabel and Melina from the Baby club and Roberto our fitness trainer made our stay special and unforgettable for all three of us ",
+      "title": "Will be visiting again",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "677lionelw",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f6/0d/default-avatar-2020-34.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945965988,
+        "title": "Owner response",
+        "text": "Dear Lionel,\n\nThank you for choosing the Atlantica Dreams for your holiday this year and for taking time to share your thoughts.\n\nWe are so happy you had such a great time on your holiday and our team members contributed to this the most! We are firm believers that the human factor is what makes the difference, in addition to the services provided. We truly appreciate your recognition!\n\nThank you for the 5* review and the kind comments. We look forward to welcoming you back soon!\n\nHave a great summer ahead,\n\nMarios K",
+        "lang": "en",
+        "author": "Guest Experience Team",
+        "published_date": "2024-04-09T11:05:08Z"
+      }
+    },
+    {
+      "id": 945935964,
+      "lang": "en",
+      "location_id": 13455259,
+      "published_date": "2024-04-09T06:20:09Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g1189606-d13455259-r945935964-Reviews-Atlantica_Dreams_Resort-Gennadi_Rhodes_Dodecanese_South_Aegean.html?m=66827#review945935964",
+      "text": "Had an amazing stay everyone who worked on the resort where so caring and helpful especially George & Joanna they always go the extra mile to ensure that you are satisfied.The restaurants too were amazing especially the Greek restaurant in the evening for dinner . They made my mums 50th birthday memorable",
+      "title": "Memorable stay",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "Roam22252160320",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/48/default-avatar-2020-15.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/48/default-avatar-2020-15.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945951703,
+        "title": "Owner response",
+        "text": "Dear Roam22252160320,\n\nThank you for choosing the Atlantica Dreams for your holiday this year and for taking time to share your thoughts.\n\nWe are happy you enjoyed your stay overall and members of our staff have made this a memorable holiday and birthday for you! It is also pleasing to know that you enjoyed the food quality and variety offered in all of our restaurants and outlets.\n\nOnce again thank you for the 5* review and the kind comments. Have a great summer ahead and we look forward to welcoming you back soon!\n\nMarios K",
+        "lang": "en",
+        "author": "Guest Experience Team",
+        "published_date": "2024-04-09T08:54:51Z"
+      }
+    },
+    {
+      "id": 945920392,
+      "lang": "en",
+      "location_id": 13455259,
+      "published_date": "2024-04-09T03:33:03Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g1189606-d13455259-r945920392-Reviews-Atlantica_Dreams_Resort-Gennadi_Rhodes_Dodecanese_South_Aegean.html?m=66827#review945920392",
+      "text": "This hotel did not disappoint, rooms , hotel clean great facilities , I sometimes find at all inclusive there is almost too much food and it becomes a bit yuck . This was elegant and good variety without it becoming too much . We ate at the Al carte and we found them all good. The American one did steak and we thought was good . The peanut butter brownie was amazing .\nThere is plenty of space and places to sit and relax or sit and drink .\nThe staff were amazing and brilliant , kind and helpful . Booked our taxis for us coming and going back .\nIf there was anything to critise is in the piano bar some of the waiting staff didn’t know all the drinks menus names etc . Which wasn’t a big deal but can see in summer it irritating people . \nIf you don’t like this hotel or food you are\nextremely fussy . We wil come back soon .",
+      "title": "Amazing hotel … we will be back",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "F6673JFsabrinac",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f3/e4/default-avatar-2020-30.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945937861,
+        "title": "Owner response",
+        "text": "Dear Sabrina c,\n\nThank you for choosing the Atlantica Dreams for your holiday this year and for taking time to share your thoughts.\n\nWe are happy to know that you enjoyed the food quality and variety offered in all of our restaurants and outlets. We are also very proud that our team members contributed to have a great holiday overall. \nYour feedback is valuable and we will communicate it with the relevant departments, so next time you visit us, you notice the changes yourself!\n\nWe appreciate the 5* review and thank you for recommending us to future travellers.\n\nHave a great summer ahead!\n\nMarios K",
+        "lang": "en",
+        "author": "Guest Experience Team",
+        "published_date": "2024-04-09T06:38:36Z"
+      }
+    },
+    {
+      "id": 945873836,
+      "lang": "en",
+      "location_id": 13455259,
+      "published_date": "2024-04-08T15:07:50Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g1189606-d13455259-r945873836-Reviews-Atlantica_Dreams_Resort-Gennadi_Rhodes_Dodecanese_South_Aegean.html?m=66827#review945873836",
+      "text": "We visited as a family of six over the Easter break. Our party consisted of us Grandparents, Daughter, and partner and two Grandsons aged 5 and 3. We chose this hotel as it was described as being good for adults and families and it fully met our expectations. Our Grandsons loved the pools, the water splash park and play area as well as the Kids Club and the children’s evening entertainment. There were lots of things for them to do all day long and we were never left searching for activities for them.\n\nThere was also a good range of adult only facilities too which are great for those visiting without children and like their own space.\n\nThe hotel in general is very clean and fresh and the rooms were very good and well equipped with a mini bar, Nespresso machine etc. You can choose from swim-ups or 1st floor balcony rooms. We stayed in two seaview family rooms which were excellent.\n\nWe mainly ate in the buffet restaurant where there were plenty of options including local Greek cuisine every day. Our Grandsons particularly enjoyed the novelty of the low-level children’s serving area which had a varied offer each day. Deserts were particularly nice and well-presented throughout the week.\n\nThe all-inclusive drinks package was better than we expected, which included many Cocktail options which were all freshly made. We particularly enjoyed the ambience at the Beech Bar during the day and evening which was chilled out and relaxing. \n\nWe all enjoyed our daily visit to the Sports Bar which provided milkshakes, cakes, and a variety of excellent ice creams in a range of flavours.\n\nThe Gyros snack bar by the pool was great and provided a really good alternative to visiting the buffet restaurant for lunch.\n\nThroughout the holiday all staff were polite and attentive. They work extremely hard and are committed to providing an excellent service. We really felt that staff went above and beyond and nothing was too much trouble.\n\nWe had a late flight home so we were really pleased to be able to use the Courteousy Rooms provided which included showering facilities prior to taking our coach transfer.\n\nWe would recommend that you download both the TUI Blue and Atlantica Apps as you will need these to book activities and make reservations at the A la Carte Restaurants.\n\nOverall, a fantastic holiday was had by all of us and we would definitely return in the future for another family holiday.",
+      "title": "Fantastic family holiday",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "graytowse",
+        "user_location": {
+          "id": "186317",
+          "name": "Kingston-upon-Hull, East Riding of Yorkshire, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/06/5e/9f/24/graytowse.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/06/5e/9f/24/graytowse.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/06/5e/9f/24/graytowse.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/06/5e/9f/24/graytowse.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/06/5e/9f/24/graytowse.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945936278,
+        "title": "Owner response",
+        "text": "Dear graytowse,\n\nThank you for choosing the Atlantica Dreams for your holiday this year and for taking time to share your thoughts.\n\nWe are happy to know that you enjoyed your holiday overall and that every aspect was up to your expectations. All your kind comments will be passed to the relevant departments and our team members, as they are a great motivation for us to keep up the good work.\n\nWe appreciate the 5* review and thank you for recommending us to future travellers. We look forward to welcoming you back soon!\n\nHave a great summer ahead!\n\nMarios K",
+        "lang": "en",
+        "author": "Guest Experience Team",
+        "published_date": "2024-04-09T06:22:59Z"
+      }
+    },
+    {
+      "id": 945873647,
+      "lang": "en",
+      "location_id": 13455259,
+      "published_date": "2024-04-08T15:06:04Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g1189606-d13455259-r945873647-Reviews-Atlantica_Dreams_Resort-Gennadi_Rhodes_Dodecanese_South_Aegean.html?m=66827#review945873647",
+      "text": "Just stayed at the Atlantica Dreams Resort in Rhodes, the hotel is really nice and spotlessly clean in all areas, staff were also very good and very friendly. Our kids loved the activities especially the afternoon football. Rooms were really nice and clean, although on the small side for 4 people.\n\nNow for the not so good, the food in the buffet was at best average, however average was still way better than the Al a carte restaurants, I can only describe the American al a carte as the worst food I’ve had on a holiday in the last 20 years, an absolute joke to be honest, we walked out of the restaurant, to be fair to the waiter he asked us if he could make us more food but we politely declined. After each of our 3 al a carte meals we had to visit the buffet as we had ate hardly anything.  I will give the hotel praise for the deserts which were mostly amazing. All 3 al a cartes were all so disappointing.\nThe soft drinks in the resort are unpleasant, smelt like chlorine. Drinking the red wine was like getting an electric shock.\nI was also going to the local supermarket to buy real Fanta and Coke, which is ridiculous in a 5 star hotel.\n\nWe will not return to the hotel basically because of the food and drink, if they had been as good as the actual hotel facility we would most definitely have returned.\n\nThe attached picture is of my wife’s food at Liberty (American) Al a carte",
+      "title": "Mixed",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "freyamila1",
+        "user_location": {
+          "id": "186394",
+          "name": "Newcastle upon Tyne, Tyne and Wear, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f0/9f/default-avatar-2020-16.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/9f/default-avatar-2020-16.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945935470,
+        "title": "Owner response",
+        "text": "Dear GAD,\n\nThank you for choosing the Atlantica Dreams for your holiday this year and for taking time to share your thoughts.\n\nWe are happy to know that you appreciated that cleanliness of the premises and kept busy with the activities and facilities we have. As you have witnessed yourself and you also mention in your review, our hospitable and friendly team works hard to offer the best possible service and we are all very proud of them. Thank you for mentioning them.\n\nWe really value your feedback and we are glad it did not affect your overall evaluation of the hotel. We will take it on board and we will communicate it with the relevant departments for evaluation.\n\nWe certainly hope that you might consider revisiting us in the future!\n\nHave a great summer ahead!\nMarios K",
+        "lang": "en",
+        "author": "Guest Experience Team",
+        "published_date": "2024-04-09T06:15:03Z"
+      }
+    }
+  ]
+}

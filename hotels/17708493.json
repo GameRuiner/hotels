@@ -1,0 +1,171 @@
+{
+  "location_id": "17708493",
+  "name": "Beta Homes Boutique Hotel",
+  "description": "İzmir Buca İlçesinde yer alan otelimiz 2019 yılı Mayıs Ayında açılmıştır.Tesisimizde kişiye özel tek kullanımlık Diş Seti,Sabun,Şampuan,Duş Jeli , Traş Seti , Lif , Havlu Terlik , Bone ,Törpü , Kulak Pamuğu Vb. Ürünler Misafirlerimize sunulmaktadır.1+1 ve 2+1 suit dairelerden oluşmakta olan tesisimizin özel otoparkı mevcuttur. Konum olarak Dokuz Eylül Üniversitesine 300 Mt , Yeni Fuar Alanına 3.7 KM , Basmane Fuar Alanına 3.9 Km ,Adnan Menderes Havaalanı 14 KM - 20 Dk. Alsancak 10 Dk. , Balçova 15 Dk. , Konak 10 Dk , Bornova 15 Dk. , Karşıyaka 20 Dk. , Çeşme 45 Dk. mesafede olup toplu taşıma araçları civarındadır.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d17708493-Reviews-Beta_Homes_Boutique_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Adatepe Mah. 28/3 St. No.40",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35100",
+    "address_string": "Adatepe Mah. 28/3 St. No.40, Izmir 35100 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.389698",
+  "longitude": "27.185429",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d17708493-Beta_Homes_Boutique_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#113 of 218 hotels in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "218",
+    "ranking": "113"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "2",
+  "review_rating_count": {
+    "1": "0",
+    "2": "1",
+    "3": "0",
+    "4": "0",
+    "5": "1"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.0.svg",
+      "value": "3.0"
+    },
+    "1": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss2.0.svg",
+      "value": "2.0"
+    },
+    "2": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss1.0.svg",
+      "value": "1.0"
+    }
+  },
+  "photo_count": "62",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d17708493-m66827-Reviews-Beta_Homes_Boutique_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Internet",
+    "Kids Activities",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Kitchenette",
+    "Airport transportation",
+    "Wifi",
+    "Paid Wifi",
+    "Paid Internet",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Minibar",
+    "Air conditioning",
+    "Refrigerator in room",
+    "Private Balcony",
+    "Parking",
+    "Housekeeping",
+    "Bath / Shower",
+    "Blackout Curtains",
+    "Cable / Satellite TV",
+    "Coffee / Tea Maker",
+    "Dining Area",
+    "Electric Kettle",
+    "English",
+    "Extra Long Beds",
+    "Complimentary Toiletries",
+    "French",
+    "German",
+    "Hair Dryer",
+    "Highchairs Available",
+    "Interconnected room(s) available",
+    "Italian",
+    "Kitchenware",
+    "Secured Parking",
+    "Separate Living Room",
+    "Sofa",
+    "Sofa Bed",
+    "Soundproof Rooms",
+    "Turkish",
+    "Valet Parking",
+    "Wardrobe / Closet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Boutique",
+    "City View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "1"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "0"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "0"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "0"
+    }
+  ],
+  "awards": []
+}

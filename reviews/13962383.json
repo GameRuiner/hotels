@@ -1,0 +1,259 @@
+{
+  "data": [
+    {
+      "id": 944522186,
+      "lang": "en",
+      "location_id": 13962383,
+      "published_date": "2024-03-30T11:44:05Z",
+      "rating": 2,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d13962383-r944522186-Reviews-Radisson_Blu_1882_Hotel_Barcelona_Sagrada_Familia-Barcelona_Catalonia.html?m=66827#review944522186",
+      "text": "Room stank of suet. We asked to move to another room but the smell was equally awful. The rooftop has a tiny selection of items. Bad vide...actually no vibe. The view on the sagrada familia is a lie. You see the peak of the towers. That's not a view. We asked some tips at the receptions and the first girl didn't understand what I was saying and the second receptionist sent us to a place that was closed for private event for a week. No concierge service. Very bad value for money",
+      "title": "Disappointing on so many levels",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "marenec2015",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e4/ca/default-avatar-2020-51.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e4/ca/default-avatar-2020-51.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e4/ca/default-avatar-2020-51.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e4/ca/default-avatar-2020-51.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e4/ca/default-avatar-2020-51.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s2.0-66827-5.svg",
+          "value": 2,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 943355004,
+      "lang": "en",
+      "location_id": 13962383,
+      "published_date": "2024-03-22T05:38:06Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d13962383-r943355004-Reviews-Radisson_Blu_1882_Hotel_Barcelona_Sagrada_Familia-Barcelona_Catalonia.html?m=66827#review943355004",
+      "text": "Lovely hotel close to Sagrada Familia. Large comfortable room , all as one expects in facilities. Breakfast offered a good selection on a buffet. Eggs cooked to order - tasty omelette. Grapes looked lovely but contained huge seeds which proved very messy so left in bowl .",
+      "title": "Lovely hotel - only gripe the grapes at breakfast!",
+      "trip_type": "Family",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "fairdealHartlepoolUk",
+        "user_location": {
+          "id": "191274",
+          "name": "Hartlepool, County Durham, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/b8/default-avatar-2020-26.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/b8/default-avatar-2020-26.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 942695612,
+      "lang": "en",
+      "location_id": 13962383,
+      "published_date": "2024-03-17T18:27:42Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d13962383-r942695612-Reviews-Radisson_Blu_1882_Hotel_Barcelona_Sagrada_Familia-Barcelona_Catalonia.html?m=66827#review942695612",
+      "text": "No wonder this place has won a Traveller’s Choice award!\n\nFrom the moment we stepped into the building we were made to feel extremely welcome. Jesus checked us in and was informative, helpful and superbly professional.  We had arrived early and he accommodated us with early check in - nothing was too much trouble.\n\nRoom was lovely and spacious with well designed hanging space. Excellent amenities and facilities.\n\nPool was too chilly for us (March weather) but a nice area to sit and relax none the less.\n\nGym was a sanctuary space open all hours, so gave much more flexibility to the visit. The cardio equipment is older Technogym spec, but well maintained. My only (and small gripe) was that there is only 1 combo weight machine and the free weights only went up to 14kg.  But still, a great space to use during the vacation.\n\nOriginally we hadn’t booked breakfast, but we added it in - SO GLAD WE DID! Best meals of the trip were the breakfasts at the hotel! Sumptuous selections of hot and cold foods as well as chef prepared area and amazing pastries. \n\nOur return flight was late in the evening, so upon checkout, they graciously extended the stay and then we paid a bit extra for a further extension.  After that, the team still allowed us to store our bags and use the upper deck/pool area - which we did for a bit, but then made our way to the bar for some stylish drinks before heading off.  \n\nA truly lovely stay, incredible hospitality from every member of staff.\n\nIf we ever came back to Barcelona, we wouldn’t stay anywhere else.",
+      "title": "Don’t stay anywhere else! And get the breakfast…",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Torasia",
+        "user_location": {
+          "id": "186525",
+          "name": "Edinburgh, Scotland"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/01/43/ca/83/torasia.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/01/43/ca/83/torasia.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/01/43/ca/83/torasia.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/01/43/ca/83/torasia.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 939165801,
+      "lang": "en",
+      "location_id": 13962383,
+      "published_date": "2024-02-21T14:55:36Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d13962383-r939165801-Reviews-Radisson_Blu_1882_Hotel_Barcelona_Sagrada_Familia-Barcelona_Catalonia.html?m=66827#review939165801",
+      "text": "Wonderful hotel. Excellent breakfast buffet. Comfortable beds. Nice room setup. Rooftop views with pool. Quiet. Windows open for extra air. Staff very friendly and helpful. Location good just 6 minute walk to Sagrada Familia. Highly recommended.",
+      "title": "Lovely Hotel exceeded expectations",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "maryofmassachusetts",
+        "user_location": {
+          "id": "41773",
+          "name": "Plymouth, Massachusetts"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/25/8f/66/a9/mary-m.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/25/8f/66/a9/mary-m.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/25/8f/66/a9/mary-m.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/25/8f/66/a9/mary-m.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/25/8f/66/a9/mary-m.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 938769395,
+      "lang": "en",
+      "location_id": 13962383,
+      "published_date": "2024-02-18T11:50:37Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d13962383-r938769395-Reviews-Radisson_Blu_1882_Hotel_Barcelona_Sagrada_Familia-Barcelona_Catalonia.html?m=66827#review938769395",
+      "text": "Excellent check-in experience with very kind receptionist lady who also shared some main touristic points about neighbourhood. Hotel has excellent location, close to streets with amazing local restaurants, and also walking distance to main attractions. Breakfast is rich and working hours allow for a good sleep after Barcelona nights. Room is comfy and clean. Rooftop terrace offers beautiful view of the Sagrada. Did not check other facilities.  We can highly recommend this hotel, thanks to its staff and location, definitely will come again. ",
+      "title": "Excellent experience for 5 days visit",
+      "trip_type": "NONE",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "VladimirM282",
+        "user_location": {
+          "id": "294472",
+          "name": "Belgrade"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/b8/default-avatar-2020-22.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    }
+  ]
+}

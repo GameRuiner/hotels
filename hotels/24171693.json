@@ -1,0 +1,169 @@
+{
+  "location_id": "24171693",
+  "name": "The First Collection Business Bay",
+  "description": "Welcome to The First Collection Business Bay, an inviting haven nestled in the heart of Dubai’s vibrant Business Bay district. Here, sophistication merges with down-to-earth charm, offering an extraordinary experience that harmoniously fuses thrilling city exploration with tranquil tropical retreat. Immerse yourself in the alluring atmosphere of our lifestyle-inspired hotel, savour delightful dining experiences, and indulge in a refreshing poolside escapade, all against the breathtaking backdrop of Dubai’s cosmopolitan skyline, featuring Downtown Dubai and the iconic Burj Khalifa.\n\nFeaturing 437 stylish guestrooms and suites, The First Collection Business Bay offers business and leisure travellers the perfect base from which to explore the City of Dreams.\n\nWith a host of exciting signature F&B outlets, leisure facilities including a fully equipped gym, modern spa and 25-metre swimming pool overlooking Downtown Dubai, and exclusive access to Soluna Beach Club at The Palm Jumeirah, The First Collection Business Bay is an exciting, cutting-edge addition to The First Group’s fast-growing portfolio of upscale lifestyle hotels.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d24171693-Reviews-The_First_Collection_Business_Bay-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Amal Street",
+    "street2": "Business Bay",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Al Amal Street Business Bay, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.189419",
+  "longitude": "55.267536",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d24171693-The_First_Collection_Business_Bay-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#53 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "53"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "1389",
+  "review_rating_count": {
+    "1": "9",
+    "2": "6",
+    "3": "22",
+    "4": "65",
+    "5": "1287"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "544",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d24171693-m66827-Reviews-The_First_Collection_Business_Bay-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Babysitting",
+    "Safe",
+    "Breakfast Buffet",
+    "Kids Stay Free",
+    "Arabic",
+    "Baggage Storage",
+    "Car Hire",
+    "Doorperson",
+    "Filipino",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Ironing Service",
+    "24-Hour Security",
+    "Taxi Service"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Business"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "232"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "297"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "155"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "338"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "236"
+    }
+  ],
+  "awards": []
+}

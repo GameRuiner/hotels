@@ -1,0 +1,231 @@
+{
+  "location_id": "11955409",
+  "name": "Best Western Plus Pearl Creek",
+  "description": "Finding an ideal hotel in Dubai does not have to be difficult. Welcome to Best Western Plus Pearl Creek, a nice option for travelers like you.\nClose to some of Dubai's most popular landmarks, such as Bur Dubai Abra Dock (0.2 mi) and Sheikh Mohammed Centre for Cultural Understanding (0.4 mi), Best Western Plus Pearl Creek is a great destination for tourists.\nRooms at Best Western Plus Pearl Creek offer a flat screen TV, a minibar, and air conditioning providing exceptional comfort and convenience, and guests can go online with free wifi.\nA 24 hour front desk, a rooftop terrace, and 24 hour check-in are some of the conveniences offered at this hotel. A rooftop pool and breakfast will also help to make your stay even more special.\nWhen you’re feeling hungry, be sure to check out Traiteur, ODEON Cafe Bakery Traiteur, and Moe's on the 5th, which are some French restaurants that are popular with locals and out-of-towners alike.\nDuring your visit, be sure to check out popular attractions like Dubai Creek (0.5 mi), Grand Mosque (0.5 mi), and Dream Journey (0.8 mi), which are all within walking distance of the hotel.\nBest Western Plus Pearl Creek looks forward to welcoming you on your visit to Dubai.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d11955409-Reviews-Best_Western_Plus_Pearl_Creek-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "90 Baniyas Road",
+    "street2": "Opposite Abra",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "83163",
+    "address_string": "90 Baniyas Road Opposite Abra, Dubai 83163 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.267801",
+  "longitude": "55.30471",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d11955409-Best_Western_Plus_Pearl_Creek-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#289 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "289"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "842",
+  "review_rating_count": {
+    "1": "72",
+    "2": "33",
+    "3": "62",
+    "4": "147",
+    "5": "529"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    }
+  },
+  "photo_count": "596",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d11955409-m66827-Reviews-Best_Western_Plus_Pearl_Creek-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Wifi",
+    "Free Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Sauna",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Express Check-in / Check-out",
+    "Coffee Shop",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "24-Hour Front Desk",
+    "Gift Shop",
+    "Hindi",
+    "Ironing Service",
+    "Massage",
+    "Salon",
+    "24-Hour Security",
+    "Shops",
+    "Taxi Service",
+    "Telephone",
+    "Family Rooms",
+    "Breakfast Available"
+  ],
+  "parent_brand": "Best Western",
+  "brand": "Best Western Plus",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Great View",
+    "Centrally Located"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620596",
+      "name": "Al Rigga"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "201"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "138"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "101"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "199"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "131"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    },
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

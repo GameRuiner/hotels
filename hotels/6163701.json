@@ -1,0 +1,303 @@
+{
+  "location_id": "6163701",
+  "name": "Marriott Executive Apartments Al Jaddaf, Dubai",
+  "description": "Luxury Apartments in the Heart of Dubai!\n\nStrategically located in the heart of the city, Marriott Executive apartments features 128 luxury accomodations from One, Two & Three bedroom apartments. Thoughtfully designed to provide ultimate home away from home experience, each apartment are fully furnished, and complemented with unmatched hotel amenities and personalized services. Designed to meet every needs of today's discerning residents, our apartment features ultra-comfortable plush Bed, spacious living room, dining area and fully-equipped kitchen, 24 hours security & high spee internet making it ideal for business travel or long-term getaway. \n\nEmbrace 5-star living while staying with us and experience the hotel facilities and services including rooftop pool, exquisite hotel dining, state-of-the-art fitness facilities and an array of luxurious spa treatments. Whether you’re working internationally, relocating or traveling with your family, enjoy the ultimate comfort in your own residential space or go out and explore what the city has to offer.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d6163701-Reviews-Marriott_Executive_Apartments_Al_Jaddaf_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Oud Metha Road",
+    "street2": "Al Jaddaf Area",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "122273",
+    "address_string": "Oud Metha Road Al Jaddaf Area, Dubai 122273 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.21164",
+  "longitude": "55.31555",
+  "timezone": "Asia/Dubai",
+  "phone": "18446310595",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d6163701-Marriott_Executive_Apartments_Al_Jaddaf_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#7 of 766 Specialty lodging in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "766",
+    "ranking": "7"
+  },
+  "rating": "5.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-66827-5.svg",
+  "num_reviews": "323",
+  "review_rating_count": {
+    "1": "5",
+    "2": "1",
+    "3": "2",
+    "4": "41",
+    "5": "274"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "288",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d6163701-m66827-Reviews-Marriott_Executive_Apartments_Al_Jaddaf_Dubai-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Fitness center",
+    "Pool",
+    "Internet",
+    "Free Internet",
+    "Free parking",
+    "Kitchenette",
+    "Wifi",
+    "Free Wifi",
+    "Suites",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Business center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Microwave",
+    "Refrigerator in room",
+    "Safe",
+    "Heated pool",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Parking",
+    "Free Shuttle or Taxi Services",
+    "Housekeeping",
+    "Kids Stay Free",
+    "Additional Bathroom",
+    "Arabic",
+    "Baggage Storage",
+    "Car Hire",
+    "Doorperson",
+    "Filipino",
+    "Hindi",
+    "Ironing Service",
+    "24-Hour Security",
+    "Washing Machine",
+    "Shuttle Bus Service",
+    "Airport transportation",
+    "Non-smoking hotel",
+    "Rooftop Pool",
+    "Breakfast Available",
+    "Facilities for Disabled Guests",
+    "Sauna",
+    "Fitness / Spa Locker Rooms",
+    "Pool / Beach Towels",
+    "Secured Parking",
+    "Valet Parking"
+  ],
+  "parent_brand": "Marriott",
+  "brand": "Marriott Executive Apartments",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [
+    "Modern",
+    "Romantic"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620620",
+      "name": "Bur Dubai"
+    },
+    {
+      "location_id": "15620557",
+      "name": "Al Jaddaf"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "94"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "26"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "16"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "104"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "44"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

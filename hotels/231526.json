@@ -1,0 +1,190 @@
+{
+  "location_id": "231526",
+  "name": "Hotel Rialto",
+  "description": "The Rialto is one of the most centrally located hotels in Barcelona and also one of the most popular thanks to its unbeatable location, close to las Ramblas, the port and the Boqueria market. Its privileged location in the tourist and commercial centre of Barcelona and its excellent value for money make it a safe bet to enjoy their visit to the city. The Hotel Rialto is located in the popular Gothic quarter of Barcelona, next to the Ramblas. From here you can reach in a few minutes walking landmarks of the city, such the market of la Boqueria, Plaza Catalunya, the Liceu or Cathedral in the oldest part of Barcelona. In the surrounding streets you will find, in addition, numerous bars and restaurants. The Rialto Hotel sits on a historic building in the Centre of Barcelona, which was the birthplace of the famous Barcelona artist Joan Miro. The hotel has 197 rooms with simple decor while functional, with wooden floors and modern bathrooms. All the rooms have air conditioning and heating, bathroom with shower or bathtub, hair dryer, magnifying mirror and amenities, telephone, safe (charges apply) and a flat-screen TV.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d231526-Reviews-Hotel_Rialto-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "C/ Ferran 40 - 42",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08002",
+    "address_string": "C/ Ferran 40 - 42, 08002 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.38194",
+  "longitude": "2.176489",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d231526-Hotel_Rialto-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#310 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "310"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "105",
+  "review_rating_count": {
+    "1": "5",
+    "2": "3",
+    "3": "11",
+    "4": "36",
+    "5": "50"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "84",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d231526-m66827-Reviews-Hotel_Rialto-Barcelona_Catalonia.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Restaurant",
+    "Wifi",
+    "Wheelchair access",
+    "Dry Cleaning",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Non-smoking hotel",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Breakfast Available",
+    "Housekeeping",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Catalan",
+    "English",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Kid-Friendly Buffet",
+    "Spanish",
+    "Taxi Service",
+    "Telephone",
+    "Vending Machine",
+    "Public Wifi",
+    "Facilities for Disabled Guests",
+    "Bicycle Tours",
+    "Blackout Curtains",
+    "24-Hour Check-in",
+    "Desk",
+    "French",
+    "Ironing Service",
+    "Private Bathrooms",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Centrally Located",
+    "Classic"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "7230963",
+      "name": "Barrio Gotico (Barri Gotic)"
+    },
+    {
+      "location_id": "15565874",
+      "name": "Ciutat Vella (Old Town)"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "2"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "49"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "5"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "17"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "15"
+    }
+  ],
+  "awards": []
+}

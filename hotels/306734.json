@@ -1,0 +1,373 @@
+{
+  "location_id": "306734",
+  "name": "Habtoor Grand Resort, Autograph Collection",
+  "description": "Embrace a winning combination of urban convenience and contemporary luxury in our beautifully-designed hotel at Habtoor Grand Resort, Autograph Collection. Our unparalleled waterfront location is ideally-situated near Dubai's top local attractions, including Dubai Marina and The Walk at Jumeirah Beach Residence (JBR). After exploring the area, discover the wealth of amenities at our 5-star hotel. Lounge on our exclusive private beach, take a dip in our sparkling swimming pools, relax in our full-service spa or try one of our exciting water sports. In the evening, dine in one of our 12 remarkable dining options boasting international specialties before retreating to spacious accommodations with refined sophistication, plush bedding and sleek marble bathrooms. Guests seeking the perfect venue for business meetings or weddings will be delighted with our JBR hotel's exquisite event space boasting room for 1,500 guests. The possibilities are endless at Habtoor Grand Resort, Autograph Collection.\n\nHabtoor Grand Resort Landscaping Improvement\nAs part of our ongoing efforts to enhance the overall experience of our esteemed guests, we will be carrying out some landscaping and resort improvement work in the hotel premises. The work is scheduled to begin on 12th June 2023 and is expected to continue until 15th October 2023.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d306734-Reviews-Habtoor_Grand_Resort_Autograph_Collection-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Falea Street",
+    "street2": "Jumeirah Beach",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "",
+    "address_string": "Al Falea Street Jumeirah Beach, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.086313",
+  "longitude": "55.14115",
+  "timezone": "Asia/Dubai",
+  "phone": "18446310595",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d306734-Habtoor_Grand_Resort_Autograph_Collection-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#128 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "128"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "7745",
+  "review_rating_count": {
+    "1": "273",
+    "2": "275",
+    "3": "528",
+    "4": "1451",
+    "5": "5218"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "6324",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d306734-m66827-Reviews-Habtoor_Grand_Resort_Autograph_Collection-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Adult pool",
+    "Pool",
+    "Room service",
+    "Free parking",
+    "Meeting rooms",
+    "Tennis Court",
+    "Kids Activities",
+    "Restaurant",
+    "Beachfront",
+    "Wheelchair access",
+    "Spa",
+    "Hot Tub",
+    "Laundry Service",
+    "Concierge",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Public Wifi",
+    "Air conditioning",
+    "Family Rooms",
+    "Smoking rooms available",
+    "Minibar",
+    "Conference Facilities",
+    "Dry Cleaning",
+    "Multilingual Staff",
+    "Suites",
+    "Bar/Lounge",
+    "Business center",
+    "Fitness center",
+    "Banquet Room",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Safe",
+    "Swimup Bar",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Butler Service",
+    "Infinity Pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Additional Bathroom",
+    "Aerobics",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Bottled Water",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Chinese",
+    "Coffee / Tea Maker",
+    "Couples Massage",
+    "Currency Exchange",
+    "Desk",
+    "Doorperson",
+    "English",
+    "Entertainment Staff",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Gift Shop",
+    "Hair Dryer",
+    "Head Massage",
+    "Hindi",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Laptop Safe",
+    "Massage",
+    "Pool / Beach Towels",
+    "Pool with View",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shops",
+    "Snack Bar",
+    "Snorkeling",
+    "Special Diet Menus",
+    "Squash",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Turkish",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Kids pool",
+    "Breakfast Available",
+    "Boating",
+    "Cable / Satellite TV",
+    "Clothes Rack",
+    "First Aid Kit",
+    "Free Wifi in the Business Center",
+    "Happy Hour",
+    "On-Demand Movies",
+    "Outdoor Dining Area",
+    "Pedicure",
+    "Private Bathrooms",
+    "Sofa",
+    "Waterslide",
+    "Photo Copier / Fax In Business Center",
+    "Beach Access"
+  ],
+  "parent_brand": "Marriott",
+  "brand": "Autograph Collection",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Family Resort",
+    "Harbor View"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620642",
+      "name": "Jumeirah Beach Residence (JBR)"
+    },
+    {
+      "location_id": "7282432",
+      "name": "The Marina"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "574"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "2310"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "315"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "2862"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "863"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

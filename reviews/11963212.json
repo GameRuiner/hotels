@@ -1,0 +1,80 @@
+{
+  "data": [
+    {
+      "id": 923005755,
+      "lang": "en",
+      "location_id": 11963212,
+      "published_date": "2023-10-26T04:14:20Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d11963212-r923005755-Reviews-VE_Hotels_KarsIyaka-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review923005755",
+      "text": "Very nice comfortable hotel!! Big room, big bed very good location!!!  You can have good restaurants around\nHardly recommends this hotel and thank you Svetlana medical coordinator who booked this for me!!! \n",
+      "title": "Perfect place for dental patients!!",
+      "trip_type": "Solo travel",
+      "travel_date": "2023-10-31",
+      "user": {
+        "username": "And3nata",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e9/60/default-avatar-2020-64.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e9/60/default-avatar-2020-64.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e9/60/default-avatar-2020-64.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e9/60/default-avatar-2020-64.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e9/60/default-avatar-2020-64.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    },
+    {
+      "id": 860294510,
+      "lang": "en",
+      "location_id": 11963212,
+      "published_date": "2022-09-15T15:47:31Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d11963212-r860294510-Reviews-VE_Hotels_KarsIyaka-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review860294510",
+      "text": "Very clean and definitely worth the price. Got two separate rooms for the family. Breakfast was amazing. Service at the par. \n\nI will recommend this place in Izmir. The views from the dining room and walking areas around are awesome. \n\nKarsiyaka s unknown treasure",
+      "title": "Definitely a recommendation",
+      "trip_type": "Family",
+      "travel_date": "2022-09-30",
+      "user": {
+        "username": "Oturanboga",
+        "user_location": {
+          "id": "60763",
+          "name": "New York City, New York"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/7a/default-avatar-2020-25.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/7a/default-avatar-2020-25.jpg"
+        }
+      },
+      "subratings": {}
+    }
+  ]
+}

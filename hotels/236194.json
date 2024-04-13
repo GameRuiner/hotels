@@ -1,0 +1,204 @@
+{
+  "location_id": "236194",
+  "name": "Hotel Catalonia Park Guell",
+  "description": "Hotel Catalonia Rubens enjoys a situation privileged with an excellent connection to the city centre by public transport. It's located near some of Barcelona's most prestigious medicals centres such as Vall d'Hebron and Delfos. Moreover, Clinica Quiron is located 900 metres from the hotel: five minutes by taxi and if you take the metro, green line from Vallcarca to Penitents, just one metro stop. You can also take a walk around the renowned Parc Guell.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d236194-Reviews-Hotel_Catalonia_Park_Guell-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Passeig de la Mare de Deu del Coll, 10",
+    "street2": "",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08023",
+    "address_string": "Passeig de la Mare de Deu del Coll, 10, 08023 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.414253",
+  "longitude": "2.144828",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d236194-Hotel_Catalonia_Park_Guell-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#358 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "358"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "1381",
+  "review_rating_count": {
+    "1": "119",
+    "2": "149",
+    "3": "330",
+    "4": "499",
+    "5": "284"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "529",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d236194-m66827-Reviews-Hotel_Catalonia_Park_Guell-Barcelona_Catalonia.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Bar/Lounge",
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Pets Allowed",
+    "Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Catalan",
+    "English",
+    "French",
+    "Hair Dryer",
+    "Spanish",
+    "Taxi Service",
+    "Public Wifi",
+    "Safe",
+    "Housekeeping",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Breakfast in the Room",
+    "Desk",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Ironing Service",
+    "Newspaper",
+    "Parking Garage",
+    "Paid Private Parking Nearby",
+    "Snack Bar",
+    "Solarium",
+    "Sun Terrace",
+    "Telephone",
+    "Wake Up Service / Alarm Clock"
+  ],
+  "parent_brand": "Hoteles Catalonia",
+  "brand": "Catalonia",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Residential Neighborhood",
+    "Mid-range"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15565901",
+      "name": "El Coll"
+    },
+    {
+      "location_id": "7230968",
+      "name": "Gracia"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "164"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "544"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "88"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "250"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "209"
+    }
+  ],
+  "awards": []
+}

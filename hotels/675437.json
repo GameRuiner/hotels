@@ -1,0 +1,196 @@
+{
+  "location_id": "675437",
+  "name": "Ontur Hotel Izmir",
+  "description": "Ontur Hotel Izmir is an excellent choice for travelers visiting Izmir, offering a family-friendly environment alongside many helpful amenities designed to enhance your stay.\nNearby landmarks such as Saint Polycarp Church (0.3 mi) and Synagogue Street (Havra Sokagi) (0.4 mi) make Ontur Hotel Izmir a great place to stay when visiting Izmir.\nRooms at Ontur Hotel Izmir offer a minibar and air conditioning providing exceptional comfort and convenience, and guests can go online with free wifi.\nA 24 hour front desk, room service, and currency exchange are some of the conveniences offered at this hotel. A pool and free breakfast will also help to make your stay even more special. If you are driving to Ontur Hotel Izmir, free parking is available.\nWhen you’re feeling hungry, be sure to check out Antepli Ramazan Usta, V Lounge, and Etcibasi Restaurant, which are some barbeque restaurants that are popular with locals and out-of-towners alike.\nIf you’re looking for things to do, you can check out Kordonboyu (0.8 mi), Konak Square (0.8 mi), or Saat Kulesi (Clock Tower) (0.8 mi), which are popular attractions amongst tourists, and they are all within walking distance.\nEnjoy your stay in Izmir!\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g298006-d675437-Reviews-Ontur_Hotel_Izmir-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Ismet Kaptan Mah. Gazi Bulv. No:130 Pasaport, Konak",
+    "street2": "",
+    "city": "Izmir",
+    "state": "Izmir Province",
+    "country": "Turkiye",
+    "postalcode": "35241",
+    "address_string": "Ismet Kaptan Mah. Gazi Bulv. No:130 Pasaport, Konak, Izmir 35241 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Izmir",
+      "location_id": "298006"
+    },
+    {
+      "level": "Province",
+      "name": "Izmir Province",
+      "location_id": "298001"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Aegean Coast",
+      "location_id": "657096"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "38.423607",
+  "longitude": "27.14134",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g298006-d675437-Ontur_Hotel_Izmir-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "298006",
+    "ranking_string": "#45 of 218 hotels in Izmir",
+    "geo_location_name": "Izmir",
+    "ranking_out_of": "218",
+    "ranking": "45"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "160",
+  "review_rating_count": {
+    "1": "17",
+    "2": "12",
+    "3": "23",
+    "4": "57",
+    "5": "51"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "60",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g298006-d675437-m66827-Reviews-Ontur_Hotel_Izmir-Izmir_Izmir_Province_Turkish_Aegean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Restaurant",
+    "Room service",
+    "Bar/Lounge",
+    "Breakfast included",
+    "Internet",
+    "Free Internet",
+    "Free Wifi",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Air conditioning",
+    "Minibar",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Suites",
+    "Wheelchair access",
+    "Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Fitness center",
+    "Banquet Room",
+    "Multilingual Staff",
+    "Non-smoking hotel",
+    "Indoor pool",
+    "Sauna",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bicycle Rental",
+    "Breakfast in the Room",
+    "Car Hire",
+    "Clothes Rack",
+    "Currency Exchange",
+    "Electric Kettle",
+    "English",
+    "Facial Treatments",
+    "Complimentary Toiletries",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "Hair Dryer",
+    "Hand Massage",
+    "Head Massage",
+    "Highchairs Available",
+    "Ironing Service",
+    "Massage",
+    "Neck Massage",
+    "Newspaper",
+    "Paid Public Parking Nearby",
+    "Telephone",
+    "Turkish",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Family",
+    "City View"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "47"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "29"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "8"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "31"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "22"
+    }
+  ],
+  "awards": []
+}

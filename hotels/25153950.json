@@ -1,0 +1,260 @@
+{
+  "location_id": "25153950",
+  "name": "Address Grand Creek Harbour",
+  "description": "Address Grand Creek Harbour is a five-star luxury hotel located in Dubai’s newest waterfront district, Dubai Creek Harbour. An unmatched destination for world-class hospitality, dining and recreation this splendid hotel boasts breathtaking views of the creek and the city’s skyline. With well-appointed rooms that leave nothing to be desired, Address Grand Creek Harbour is directly connected to the harbourside promenade revealing a range of retail and entertainment outlets. Assuring an atmosphere of utmost serenity and featuring a myriad of facilities, this hotel is an ideal choice for corporate, leisure and family travellers alike. The business visitors may unwind at the posh Club Lounge or indulge in top-tier dining options and other guests can enjoy a refreshing swim at the infinity pool or retreat to The Spa while the little ones make memories of their own at Qix Club. Effortlessly close to world-famous attractions, from Burj Khalifa in Downtown Dubai to majestic souks in Deira, Address Grand Creek Harbour is just within a 15-minute drive from Dubai International Airport. Experience a new precedent in waterfront living when you choose to stay in this iconic location.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d25153950-Reviews-Address_Grand_Creek_Harbour-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Ras Al Khor Rd",
+    "street2": "Dubai Creek Harbour",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "62544",
+    "address_string": "Ras Al Khor Rd Dubai Creek Harbour, Dubai 62544 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.208923",
+  "longitude": "55.343952",
+  "timezone": "Asia/Dubai",
+  "phone": "42758888",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d25153950-Address_Grand_Creek_Harbour-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#223 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "223"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "197",
+  "review_rating_count": {
+    "1": "7",
+    "2": "3",
+    "3": "4",
+    "4": "10",
+    "5": "173"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    }
+  },
+  "photo_count": "325",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d25153950-m66827-Reviews-Address_Grand_Creek_Harbour-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Kids Activities",
+    "Suites",
+    "Room service",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Free Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Minibar",
+    "Safe",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Infinity Pool",
+    "Breakfast Available",
+    "Housekeeping",
+    "Kids Club",
+    "Sauna",
+    "Wheelchair access",
+    "Family Rooms",
+    "Conference Facilities",
+    "Babysitting",
+    "Non-smoking hotel",
+    "Flatscreen TV",
+    "Private Balcony",
+    "Kids pool",
+    "Outdoor pool",
+    "Electric vehicle charging station",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Blackout Curtains",
+    "Body Wrap",
+    "Books, DVDs, Music for Children",
+    "Bottled Water",
+    "Cable / Satellite TV",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Children's Television Networks",
+    "Children's Playground",
+    "Clothes Rack",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Complimentary Tea",
+    "Couples Massage",
+    "Currency Exchange",
+    "Desk",
+    "Dining Area",
+    "Electric Kettle",
+    "English",
+    "Evening Entertainment",
+    "Executive Lounge Access",
+    "Facial Treatments",
+    "Filipino",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Foot Massage",
+    "Complimentary Instant Cofffee",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "Full Body Massage",
+    "German",
+    "Hair Dryer",
+    "Hindi",
+    "Indoor Play Area for Children",
+    "Interconnected room(s) available",
+    "Iron",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Landmark View",
+    "Laptop Safe",
+    "Massage",
+    "Neck Massage",
+    "Nepali",
+    "Newspaper",
+    "Outdoor Dining Area",
+    "Outdoor Furniture",
+    "Personal Trainer",
+    "Pool / Beach Towels",
+    "Pool View",
+    "Pool with View",
+    "Private Bathrooms",
+    "Russian",
+    "Seating Area",
+    "24-Hour Security",
+    "Separate Dining Area",
+    "Separate Living Room",
+    "Shoeshine",
+    "Sofa",
+    "Spanish",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Deck",
+    "Sun Loungers / Beach Chairs",
+    "Sun Terrace",
+    "Sun Umbrellas",
+    "Telephone",
+    "Tile / Marble Floor",
+    "Turkish",
+    "Urdu",
+    "Valet Parking",
+    "VIP Room Facilities",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Wine / Champagne",
+    "Yoga Classes",
+    "Yoga Room"
+  ],
+  "parent_brand": "Emaar Hospitality Group",
+  "brand": "Address Hotels + Resorts",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quaint",
+    "Luxury"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "21"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "49"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "15"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "55"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "22"
+    }
+  ],
+  "awards": []
+}

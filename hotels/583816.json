@@ -1,0 +1,284 @@
+{
+  "location_id": "583816",
+  "name": "Nirvana Cosmopolitan",
+  "description": "Nirvana Cosmopolitan, located in the seafront district of Lara, Antalya, has been designed with a brand new understanding of a luxury leisure. Established on an area of 110.000 m², the hotel is 25 km from Antalya city center and 10 km from the Airport. \n\nPrivate 175 m long sandy beach with pier, mega water park and outdoor pools, various restaurants and cafe, kids club, animation and entertainment programs make Nirvana Cosmopolitan a perfect destination for a resort vacation. Congress and conference center, as well as close proximity to the airport and Antalya city center, make Nirvana Cosmopolitan hotel a comfortable place for corporate and MICE events. \n\nUnique services of Nirvana Hotels include Luxy Pet Hotel, first pet-friendly concept in Antalya and Turkey. Luxy Pet Hotel offers its guests the opportunity to have a holiday with their furry family members, enjoying the scope of 5-star services. The concept of pet-friendly vacation allows guests to spend time with their pets in the social areas such as Pet Friendly Restaurant, Pet Friendly Cafe and Pet Friendly Beach. Luxy Pet Hotel offers daily pet nursery services both for hotel guests and non-residents, it is a comfortable and safe place where you can leave your pets while you work or travel. \n\nME Spa by L'Occitane, first and only L'Occitane brand spa in Turkey, is a must-visit place while on vacation. You can enjoy the professional treatments with L'Occitane cosmetic products, inspired by the unique beauty of the Mediterranean. The Spa Center offers masseuse, facial care and weight-loss programs, body wraps and peelings, hammam and indoor swimming pool. \n\nCh'i For Life Vegan Detox & Yoga is a whole food, plant-based and vegan concept of Nirvana Hotels. In addition to the variety of vegan recipes and flavors, Ch'i For Life offers a holistic approach with detox and yoga programs. We offer a brand new experience for those who seek the mindful nutrition and healthy living. Nirvana Cosmopolitan hotel is a great place for coffee lovers. \n\nYou can enjoy your favorite Starbucks drinks offered within the We Proudly Serve concept. Besides, every room is equipped with Nespresso coffee machines and capsules, so you can have a finest coffee at any time. \n\nPersonal Assistant service, another unique feature of Nirvana Cosmopolitan, ensures the guests and unforgettable vacation experience optimized by P-Assistant, your personal holiday assistant. \n\nCosmo Fit fitness center will help you stay in shape and do not stop your daily sports during the vacation. It offers professional training programs for groups and individuals, TechnoGym branded high quality sports equipment. \n\nCosmo Luxury Mall welcomes hotel guests to discover the latest collections from world-famous fashion brands. Here you can find luxury designer clothing and accessories by Gucci, Prada, Emporio Armani, Balenciaga and more. \n\nCosmos Sports Center, a world-class multisport complex located on the territory of Nirvana Cosmopolitan hotel, welcomes amateur and professional athletes to discover its features: 5 multipurpose indoor sport courts, professional courts for basketball, volleyball and tennis, football fields, swimming, sport training camps, sport programs and activities for kids. \n\nCosmo Bike, bicycle rental service and shop, welcomes everyone who has a passion for cycling. Rent a bike and have an unforgettable travel experience discovering the genuine beauty of Antalya!",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g15300585-d583816-Reviews-Nirvana_Cosmopolitan-Muratpasa_Antalya_Turkish_Mediterranean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Yasar Sobutay BulvarI No:32",
+    "street2": "Güzeloba Mah.",
+    "city": "Muratpasa",
+    "state": "Antalya Province",
+    "country": "Turkiye",
+    "postalcode": "07230",
+    "address_string": "Yasar Sobutay BulvarI No:32 Güzeloba Mah., Muratpasa, Antalya 07230 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Muratpasa",
+      "location_id": "15300585"
+    },
+    {
+      "level": "Municipality",
+      "name": "Antalya",
+      "location_id": "297962"
+    },
+    {
+      "level": "Province",
+      "name": "Antalya Province",
+      "location_id": "297960"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Mediterranean Coast",
+      "location_id": "658661"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "36.8552",
+  "longitude": "30.858",
+  "timezone": "Europe/Istanbul",
+  "phone": "011902423220000",
+  "write_review": "https://www.tripadvisor.com/UserReview-g15300585-d583816-Nirvana_Cosmopolitan-Muratpasa_Antalya_Turkish_Mediterranean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "15300585",
+    "ranking_string": "#2 of 59 hotels in Muratpasa",
+    "geo_location_name": "Muratpasa",
+    "ranking_out_of": "59",
+    "ranking": "2"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "2378",
+  "review_rating_count": {
+    "1": "45",
+    "2": "38",
+    "3": "88",
+    "4": "180",
+    "5": "2027"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "3389",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g15300585-d583816-m66827-Reviews-Nirvana_Cosmopolitan-Muratpasa_Antalya_Turkish_Mediterranean_Coast.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Suites",
+    "Free parking",
+    "Meeting rooms",
+    "Tennis Court",
+    "Kids Activities",
+    "Beachfront",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Pets Allowed",
+    "Spa",
+    "Wifi",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Hot Tub",
+    "Non-smoking rooms",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Flatscreen TV",
+    "Water Park",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Indoor pool",
+    "Outdoor pool",
+    "Private Beaches",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Kids Stay Free",
+    "Sauna",
+    "Aerobics",
+    "Arabic",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bathrobes",
+    "Bicycle Rental",
+    "Bicycle Tours",
+    "Billiards",
+    "Blackout Curtains",
+    "Breakfast in the Room",
+    "Bridal Suite",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Coffee Shop",
+    "Coffee / Tea Maker",
+    "Convenience Store",
+    "Currency Exchange",
+    "Darts",
+    "Doorperson",
+    "English",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Extra Long Beds",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "Free Private Parking Nearby",
+    "Complimentary Toiletries",
+    "French",
+    "24-Hour Front Desk",
+    "German",
+    "Gift Shop",
+    "Hair Dryer",
+    "Hammam",
+    "Indoor Play Area for Children",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Mini Golf",
+    "Nightclub / DJ",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "Seating Area",
+    "24-Hour Security",
+    "Secured Parking",
+    "Shops",
+    "Snack Bar",
+    "Special Diet Menus",
+    "Steam Room",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "Turkish",
+    "Wake Up Service / Alarm Clock",
+    "Wine / Champagne",
+    "Beach Access",
+    "Kids pool",
+    "Archery",
+    "Body Wrap",
+    "Cable / Satellite TV",
+    "Children's Television Networks",
+    "Children's Playground",
+    "Clothes Rack",
+    "Couples Massage",
+    "Foot Bath",
+    "Foot Massage",
+    "Complimentary Welcome Drink",
+    "Full Body Massage",
+    "Highchairs Available",
+    "Manicure",
+    "Outdoor Dining Area",
+    "Patio",
+    "Pedicure",
+    "Personal Trainer",
+    "Pool View",
+    "Strollers",
+    "Valet Parking",
+    "Video Game Console",
+    "Wardrobe / Closet",
+    "Water Park Off-site",
+    "Waterslide",
+    "Yoga Classes"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Residential Neighborhood",
+    "Centrally Located"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "250"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "388"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "79"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "1091"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "322"
+    }
+  ],
+  "awards": []
+}

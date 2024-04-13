@@ -1,0 +1,178 @@
+{
+  "location_id": "1218766",
+  "name": "Panorama Naama Heights Sharm El Sheikh",
+  "description": "Amazing unique location of the breathtaking fascinating view of Naama Bay and South Sinai Mountains, the Panorama Naama Heights Resort Sharm El Sheikh surrounded with pristine picturesque landscape, the ideal place for families, very romantic gateway for couples and being the home of Space Club it’s the best place for Clubs and Disco fans.20 Minutes walking distance to Naama Bay Beach , shopping area, Restaurants and the exotic places of Sharm El Sheikh, scheduled free shuttle buses to Naama.Entertaining Aqua park with 20 meters high adults slides in addition to the children slides.The Panorama Naama Heights Resort Sharm El Sheikh features 241 spacious rooms, Family rooms and Suites with fabulous view overlooking the Swimming pools and beautiful gardens, comfortable modern rooms with modern conveniences. All of our stylish rooms feature balcony or terrace, individually controlled air condition unit, hair dryer, mini bar, Tea & Coffee Facilities, Satellite TV or LCD, electronic Safe box, Telephone, Bathroom with bath tub or shower",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d1218766-Reviews-Panorama_Naama_Heights_Sharm_El_Sheikh-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Naama Bay Heights",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "address_string": "Naama Bay Heights, Sharm El Sheikh Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.92154",
+  "longitude": "34.32227",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d1218766-Panorama_Naama_Heights_Sharm_El_Sheikh-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#110 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "110"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "1988",
+  "review_rating_count": {
+    "1": "185",
+    "2": "145",
+    "3": "223",
+    "4": "490",
+    "5": "945"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "1308",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d1218766-m66827-Reviews-Panorama_Naama_Heights_Sharm_El_Sheikh-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$$$",
+  "amenities": [
+    "Pool",
+    "Room service",
+    "Restaurant",
+    "Internet",
+    "Kids Activities",
+    "Free parking",
+    "Bar/Lounge",
+    "Shuttle Bus Service",
+    "Suites",
+    "Airport transportation",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Refrigerator in room",
+    "Safe",
+    "Water Park",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Outdoor pool",
+    "Kids Club",
+    "Arabic",
+    "Darts",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Nightclub / DJ",
+    "Russian",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Free Internet",
+    "Public Wifi",
+    "Family Rooms",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Charming",
+    "Quiet"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "12"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "589"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "82"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "626"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "449"
+    }
+  ],
+  "awards": []
+}

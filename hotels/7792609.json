@@ -1,0 +1,240 @@
+{
+  "location_id": "7792609",
+  "name": "Jaz Aquaviva",
+  "description": "Jaz Aquaviva Resort has 487 guest rooms divided as follows: 436 Family Rooms, 50 Standard Rooms & 1 Suite with pool. Located in the heart of Madinat Makadi, the 5 star Jaz Aquaviva offers Makadi Water World featuring 50 adrenalin-pumping water slides and an 18-hole Championship Golf Course an extra charge. All rooms are equipped with an individually controlled air condition & feature a spacious balcony or terrace. Room features include: In-room safe box, Satellite TV & LCD screen, Minibar, hairdryer, shaver plug & cosmetic mirror, smoke detectors, tea & coffee making facilities",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297550-d7792609-Reviews-Jaz_Aquaviva-Makadi_Bay_Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Safaga Road",
+    "street2": "Madinat Makadi",
+    "city": "Makadi Bay",
+    "country": "Egypt",
+    "postalcode": "1960402",
+    "address_string": "Safaga Road Madinat Makadi, Makadi Bay, Hurghada 1960402 Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Makadi Bay",
+      "location_id": "297550"
+    },
+    {
+      "level": "Municipality",
+      "name": "Hurghada",
+      "location_id": "297549"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "26.998833",
+  "longitude": "33.908077",
+  "timezone": "Africa/Cairo",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297550-d7792609-Jaz_Aquaviva-Makadi_Bay_Hurghada_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297550",
+    "ranking_string": "#6 of 37 hotels in Makadi Bay",
+    "geo_location_name": "Makadi Bay",
+    "ranking_out_of": "37",
+    "ranking": "6"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "8636",
+  "review_rating_count": {
+    "1": "93",
+    "2": "116",
+    "3": "322",
+    "4": "968",
+    "5": "7136"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "8611",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297550-d7792609-m66827-Reviews-Jaz_Aquaviva-Makadi_Bay_Hurghada_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Internet",
+    "Kids Activities",
+    "Shuttle Bus Service",
+    "Suites",
+    "Room service",
+    "Free Internet",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Paid Wifi",
+    "Paid Internet",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Tennis Court",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Refrigerator in room",
+    "Minibar",
+    "Conference Facilities",
+    "Safe",
+    "Rooftop Bar",
+    "Rooftop Pool",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Water Park",
+    "Breakfast Buffet",
+    "Poolside Bar",
+    "Private Balcony",
+    "Butler Service",
+    "Infinity Pool",
+    "Adult pool",
+    "Outdoor pool",
+    "Private Pools",
+    "Breakfast Available",
+    "Parking",
+    "Free airport transportation",
+    "Free Shuttle or Taxi Services",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Kids Club",
+    "Aerobics",
+    "Afrikaans",
+    "Arabic",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Car Hire",
+    "Complimentary Tea",
+    "Convenience Store",
+    "Currency Exchange",
+    "Darts",
+    "Diving",
+    "Doorperson",
+    "Entertainment Staff",
+    "Evening Entertainment",
+    "Facial Treatments",
+    "Fitness Classes",
+    "Fitness / Spa Locker Rooms",
+    "24-Hour Front Desk",
+    "German",
+    "Gift Shop",
+    "Head Massage",
+    "Indoor Play Area for Children",
+    "Ironing Service",
+    "Kids' Meals",
+    "Kid-Friendly Buffet",
+    "Kids' Outdoor Play Equipment",
+    "Massage",
+    "Nightclub / DJ",
+    "Pool / Beach Towels",
+    "Russian",
+    "Salon",
+    "24-Hour Security",
+    "Shops",
+    "Snack Bar",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Table Tennis",
+    "Taxi Service",
+    "Telephone",
+    "VIP Room Facilities"
+  ],
+  "parent_brand": "Jaz Hotel Group",
+  "brand": "Jaz Hotel Group",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Modern",
+    "Family Resort"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "15"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "1790"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "109"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "5071"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "807"
+    }
+  ],
+  "awards": []
+}

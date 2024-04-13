@@ -1,0 +1,190 @@
+{
+  "location_id": "231518",
+  "name": "Ibis Barcelona Meridiana",
+  "description": "The Ibis Barcelona Meridiana hotel is 10 min by metro from the centre of Barcelona, 6 km from the beach. Its bar serves snacks 24/24. The hotel has 143 air-conditioned rooms and Wifi Internet access for guests on a business trip. Located in the HERON CITY leisure centre, the hotel enables its clients to enjoy all the attractions on offer: bowling, restaurants, cinemas, swimming pool, golf course. Public covered parking is at your disposal. We have introduced intensified hygiene & prevention measures to ensure your safety. The ALLSAFE label represents our new elevated cleanliness protocols, and provides assurance that these standards are being met in this hotel.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g187497-d231518-Reviews-Ibis_Barcelona_Meridiana-Barcelona_Catalonia.html?m=66827",
+  "address_obj": {
+    "street1": "Paseo Andreu Nin 9",
+    "street2": "Heron City",
+    "city": "Barcelona",
+    "state": "Province of Barcelona",
+    "country": "Spain",
+    "postalcode": "08016",
+    "address_string": "Paseo Andreu Nin 9 Heron City, 08016 Barcelona Spain"
+  },
+  "ancestors": [
+    {
+      "level": "City",
+      "name": "Barcelona",
+      "location_id": "187497"
+    },
+    {
+      "level": "Province",
+      "name": "Province of Barcelona",
+      "location_id": "1969684"
+    },
+    {
+      "level": "Region",
+      "name": "Catalonia",
+      "location_id": "187496"
+    },
+    {
+      "level": "Country",
+      "name": "Spain",
+      "location_id": "187427"
+    }
+  ],
+  "latitude": "41.435448",
+  "longitude": "2.181663",
+  "timezone": "Europe/Madrid",
+  "write_review": "https://www.tripadvisor.com/UserReview-g187497-d231518-Ibis_Barcelona_Meridiana-Barcelona_Catalonia.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "187497",
+    "ranking_string": "#279 of 553 hotels in Barcelona",
+    "geo_location_name": "Barcelona",
+    "ranking_out_of": "553",
+    "ranking": "279"
+  },
+  "rating": "4.0",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.0-66827-5.svg",
+  "num_reviews": "1465",
+  "review_rating_count": {
+    "1": "40",
+    "2": "55",
+    "3": "273",
+    "4": "748",
+    "5": "349"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    }
+  },
+  "photo_count": "316",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g187497-d231518-m66827-Reviews-Ibis_Barcelona_Meridiana-Barcelona_Catalonia.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Bar/Lounge",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Wheelchair access",
+    "Restaurant",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Accessible rooms",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Baggage Storage",
+    "Catalan",
+    "Children's Television Networks",
+    "English",
+    "24-Hour Front Desk",
+    "Paid Public Parking Nearby",
+    "Dry Cleaning",
+    "Non-smoking hotel",
+    "Arabic",
+    "Bicycle Rental",
+    "French",
+    "German",
+    "Newspaper",
+    "Paid Public Parking On-site",
+    "Romanian",
+    "Snack Bar",
+    "Spanish"
+  ],
+  "parent_brand": "Accor",
+  "brand": "ibis",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Green",
+    "Business"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15565912",
+      "name": "Porta"
+    },
+    {
+      "location_id": "15565879",
+      "name": "Nou Barris"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "132"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "621"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "94"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "364"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "179"
+    }
+  ],
+  "awards": []
+}

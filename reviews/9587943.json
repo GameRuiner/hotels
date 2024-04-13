@@ -1,0 +1,234 @@
+{
+  "data": [
+    {
+      "id": 945935759,
+      "lang": "en",
+      "location_id": 9587943,
+      "published_date": "2024-04-09T06:18:03Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d9587943-r945935759-Reviews-Monument_Hotel-Barcelona_Catalonia.html?m=66827#review945935759",
+      "text": "The hotel is located in a pretty area of Barcelona and is well positioned for sightseeing.  The rooms are lovely.  What stands out is the exceptional level of service we received in all areas of the hotel.  From the warm welcome and brilliant advice given by the reception and concierge teams to the friendly and efficient service from the servers at breakfast and housekeeping staff.  Thank you so much!",
+      "title": "A perfect place for a weekend break",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "905katee",
+        "user_location": {
+          "id": "186338",
+          "name": "London, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ee/68/default-avatar-2020-9.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ee/68/default-avatar-2020-9.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ee/68/default-avatar-2020-9.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ee/68/default-avatar-2020-9.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ee/68/default-avatar-2020-9.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 945830833,
+      "lang": "en",
+      "location_id": 9587943,
+      "published_date": "2024-04-08T09:08:55Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d9587943-r945830833-Reviews-Monument_Hotel-Barcelona_Catalonia.html?m=66827#review945830833",
+      "text": "Most comfortable bed I’ve slept in, in a hotel\n\nService amazing\n\nConcierge and door men super helpful\n\nGreat mixologist\n\nGreat area as well. Very close to Casa Battlio and a ton of great restaurants\n\nParadiso bartender comes on Wednesdays with great cocktails \n\nRestaurants onsite are Michelin rated\n\nBreakfast was great! Made to order and buffet",
+      "title": "Great Hotel",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "Coastal43878504898",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f6/0d/default-avatar-2020-34.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f6/0d/default-avatar-2020-34.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 945781515,
+      "lang": "en",
+      "location_id": 9587943,
+      "published_date": "2024-04-08T00:56:06Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d9587943-r945781515-Reviews-Monument_Hotel-Barcelona_Catalonia.html?m=66827#review945781515",
+      "text": "On behalf of Mr.Sangserm,\n\nMy family and I stayed at The Monument hotel in Barcelona. Everyone provided excellent service, especially Miss Esentdy at the breakfast restaurant. The service was impeccable, with bright smiles and nothing lacking. The food was delicious, and I was very impressed with everyone's service. If I come to Barcelona again, this hotel will definitely be one of my choices, and I will recommend it to my friends to experience the same level of excellent service.",
+      "title": "Excellent service!",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "AssisPloypailin",
+        "user_location": {
+          "id": "2237680",
+          "name": "Thai Mueang, Phang Nga Province"
+        },
+        "avatar": {
+          "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-l/01/2a/fd/8f/avatar.jpg?w=100&h=100&s=1",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/01/2a/fd/8f/avatar.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 945508512,
+      "lang": "en",
+      "location_id": 9587943,
+      "published_date": "2024-04-05T19:51:52Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d9587943-r945508512-Reviews-Monument_Hotel-Barcelona_Catalonia.html?m=66827#review945508512",
+      "text": "We stayed at the Monument for 10 nights in a Monument Suite recently. From the moment we stepped out of the Taxi, until the moment we left, our stay was absolutely faultless. Staff were helpful & attentive, the gorgeous room was impeccably clean and beautifully presented, and they excelled in personal touches that make a visit so special. From a beautiful bunch of flowers for my birthday, to Easter treats on the weekend, to arranging a Doctor visit for my husband the staff are second to none. Perfectly located with an abundance of shops & amazing restaurants in walking distance, as well as a taxi rank and metro stop outside the door. We highly recommend this beautiful property!",
+      "title": "Exceptional Hotel!",
+      "trip_type": "Couples",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "bambited",
+        "user_location": {
+          "id": "255055",
+          "name": "Australia"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e4/2d/default-avatar-2020-48.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e4/2d/default-avatar-2020-48.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e4/2d/default-avatar-2020-48.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e4/2d/default-avatar-2020-48.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e4/2d/default-avatar-2020-48.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945951778,
+        "title": "Owner response",
+        "text": "Dear Bambi,\nPlease accept our thanks for your kind review regarding your stay.\n\nWe are thrilled to hear that our team provided you with the attentive and helpful service that we pride ourselves on. \n\nIt is always encouraging to know that our guests appreciate the pristine condition and elegant presentation of our rooms, designed for comfort and style. Your mention of the personal touches, such as the flowers for your birthday and Easter treats, warms our hearts as we strive to create memorable experiences for our guests. \n\nFurthermore, we are glad that our prime location on the iconic Paseo de Gracia contributed positively to your stay, giving you easy access to the best shops and restaurants in the vicinity, as well as convenient transportation options. It is gratifying to know that the amenities, from the wellness offerings to the in-house dining, met your expectations. \n\nYour commendation of the swift arrangement of medical assistance for your husband is highly appreciated. We understand how important prompt care is, and we are committed to ensuring the well-being and comfort of all our guests.\n\nWe hope that you will return on another occasion. \nBest wishes,\n\nMonica Subirats, General Manager",
+        "lang": "en",
+        "author": "Hotel- cmanager",
+        "published_date": "2024-04-09T08:55:30Z"
+      }
+    },
+    {
+      "id": 944823006,
+      "lang": "en",
+      "location_id": 9587943,
+      "published_date": "2024-04-01T13:10:25Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d9587943-r944823006-Reviews-Monument_Hotel-Barcelona_Catalonia.html?m=66827#review944823006",
+      "text": "After a long overseas flight, it was a delight to arrive at this beautiful hotel, in a wonderful location.  Even before we arrived, the concierge team was extremely helpful in getting some reservations set up for us.  They were also very responsive throughout our stay.  We were delighted by how quiet our room was (even being right off the main street below) and loved coming back to the hotel's peaceful environment after a long day of sightseeing.",
+      "title": "Wonderful Family Spring Break Hotel Experience",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "U4317ZVaudreyr",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/de/e7/default-avatar-2020-37.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/de/e7/default-avatar-2020-37.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/de/e7/default-avatar-2020-37.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/de/e7/default-avatar-2020-37.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/de/e7/default-avatar-2020-37.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945301913,
+        "title": "Owner response",
+        "text": "Dear Audrey,\nThank you for taking the time to share your review.\n\nWe are thrilled that our concierge team was able to assist you effectively even before your arrival and remained attentive throughout your stay. It’s our aim to provide a seamless and enjoyable experience for our guests. \n\nYour feedback on the tranquility of your room is much appreciated, especially given our central location on the bustling Paseig de Gracia. Our team works diligently to ensure that all guests can enjoy the peaceful sanctuary of their private space. \n\nWe are also glad to hear that after exploring the city, you felt a sense of serenity upon returning to the Monument Hotel. We take pride in creating an oasis of calm for our valued guests.\n\nWe look forward to welcoming you for a more enjoyable stay in the future.\nBest regards,\n\nMonica Subirats, General Manager",
+        "lang": "en",
+        "author": "Hotel- cmanager",
+        "published_date": "2024-04-04T05:03:30Z"
+      }
+    }
+  ]
+}

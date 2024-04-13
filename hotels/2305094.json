@@ -1,0 +1,188 @@
+{
+  "location_id": "2305094",
+  "name": "Grand Excelsior Hotel Al Barsha",
+  "description": "Located in the residential community of Al Barsha, a popular setting between Dubai Marina and downtown Dubai, the Grand Excelsior Hotel is just a few minutes-walk from Mall of the Emirates. This 4-star hotel is a favourite choice for leisure and business visitors to Dubai and offers a range of accommodation, several food and beverage outlets, an outdoor pool, gym, sauna and steam room. A range of meeting and event spaces including the Grand Safina Ballroom that can host up to 400 guests theatre reception.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d2305094-Reviews-Grand_Excelsior_Hotel_Al_Barsha-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Barsha 1",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "214343",
+    "address_string": "Al Barsha 1, Dubai 214343 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.111656",
+  "longitude": "55.20318",
+  "timezone": "Asia/Dubai",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d2305094-Grand_Excelsior_Hotel_Al_Barsha-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#419 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "419"
+  },
+  "rating": "3.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/3.5-66827-5.svg",
+  "num_reviews": "835",
+  "review_rating_count": {
+    "1": "98",
+    "2": "63",
+    "3": "123",
+    "4": "252",
+    "5": "299"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss3.5.svg",
+      "value": "3.5"
+    }
+  },
+  "photo_count": "577",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d2305094-m66827-Reviews-Grand_Excelsior_Hotel_Al_Barsha-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Pool",
+    "Free parking",
+    "Meeting rooms",
+    "Business center",
+    "Fitness center",
+    "Room service",
+    "Non-smoking rooms",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Multilingual Staff",
+    "Airport transportation",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Conference Facilities",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Arabic",
+    "Baggage Storage",
+    "24-Hour Check-in",
+    "Doorperson",
+    "Filipino",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Ironing Service",
+    "24-Hour Security",
+    "Taxi Service"
+  ],
+  "parent_brand": "Preferred Hotel Group",
+  "brand": "Preferred Hotels & Resorts",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Residential Neighborhood",
+    "Classic"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620543",
+      "name": "Al Barsha"
+    },
+    {
+      "location_id": "15620544",
+      "name": "Al Barsha 1"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "167"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "215"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "70"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "191"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "130"
+    }
+  ],
+  "awards": []
+}

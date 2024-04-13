@@ -1,0 +1,207 @@
+{
+  "location_id": "21121518",
+  "name": "Legoland Hotel Dubai",
+  "description": "Say goodbye to boring hotel rooms! Enter a playful world as you embark on The Region’s Only LEGO® Themed Hotel! Bravely enter through our dragon-guarded entrance before taking a disco elevator and dancing your way to your LEGO themed family bedroom that sleeps up to 5 people with a separate area for the kids! The hotel is packed with LEGO awesomeness including daily breakfast at Bricks Family Restaurant, in-room treasure hunts, creative workshops with our LEGO Master Builder and daily LEGO themed entertainment like no other. To complete your ultimate LEGO adventure, you will also have access to LEGOLAND® Dubai Theme Park and/or LEGOLAND Water Park just steps away from the Hotel! Plus the option to upgrade and include other Dubai Parks & Resorts theme parks. Let your imagination run wild and Build Memories together at LEGOLAND® Hotel.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d21121518-Reviews-Legoland_Hotel_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Sheikh Zayed Rd",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "address_string": "Sheikh Zayed Rd, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "24.918804",
+  "longitude": "55.01003",
+  "timezone": "Asia/Dubai",
+  "phone": "48251650",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d21121518-Legoland_Hotel_Dubai-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#306 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "306"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "504",
+  "review_rating_count": {
+    "1": "30",
+    "2": "12",
+    "3": "23",
+    "4": "52",
+    "5": "387"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "662",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d21121518-m66827-Reviews-Legoland_Hotel_Dubai-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "amenities": [
+    "Pool",
+    "Kids Activities",
+    "Suites",
+    "Room service",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Free Wifi",
+    "Non-smoking rooms",
+    "Business center",
+    "Air conditioning",
+    "Refrigerator in room",
+    "Safe",
+    "Water Park",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Housekeeping",
+    "Kids Club",
+    "Arabic",
+    "Baggage Storage",
+    "English",
+    "24-Hour Front Desk",
+    "Game Room",
+    "Gift Shop",
+    "Hindi",
+    "Indoor Play Area for Children",
+    "Seating Area",
+    "24-Hour Security",
+    "Shared Lounge / TV Area",
+    "Telephone",
+    "Free Internet",
+    "Breakfast included",
+    "Dry Cleaning",
+    "Laundry Service",
+    "Concierge",
+    "Family Rooms",
+    "Bosnian",
+    "Cable / Satellite TV",
+    "Children's Playground",
+    "Currency Exchange",
+    "Evening Entertainment",
+    "Filipino",
+    "French",
+    "German",
+    "Interconnected room(s) available",
+    "Kid-Friendly Buffet",
+    "Private Bathrooms",
+    "Russian",
+    "Serbian",
+    "Tamil",
+    "Wardrobe / Closet"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Quaint",
+    "Luxury"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620641",
+      "name": "Jebel Ali"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "1"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "5"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "1"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "367"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "7"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "location_id": "304732",
+  "name": "Dogan Hotel",
+  "description": "Situated in Kaleiçi, a scenic Turkish coastal town of the Antalya region steeped in history, culture and natural beauty, the heritage Dogan Hotel welcomes you to a unique travel experience made more special through a perfect blend of old world elegance, friendly atmosphere and an inspired brand of personalized service.Feel at home at Doğan Hotel, where every aspect of your stay reflects our dedication to your relaxation, comfort and convenience.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297962-d304732-Reviews-Dogan_Hotel-Antalya_Turkish_Mediterranean_Coast.html?m=66827",
+  "address_obj": {
+    "street1": "Kilinc Arslan Mah. Mermerli Banyo Sok. No: 5",
+    "city": "Antalya",
+    "state": "Antalya Province",
+    "country": "Turkiye",
+    "postalcode": "07100",
+    "address_string": "Kilinc Arslan Mah. Mermerli Banyo Sok. No: 5, Antalya 07100 Turkiye"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Antalya",
+      "location_id": "297962"
+    },
+    {
+      "level": "Province",
+      "name": "Antalya Province",
+      "location_id": "297960"
+    },
+    {
+      "level": "Region",
+      "name": "Turkish Mediterranean Coast",
+      "location_id": "658661"
+    },
+    {
+      "level": "Country",
+      "name": "Turkiye",
+      "location_id": "293969"
+    }
+  ],
+  "latitude": "36.883686",
+  "longitude": "30.70469",
+  "timezone": "Europe/Istanbul",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297962-d304732-Dogan_Hotel-Antalya_Turkish_Mediterranean_Coast.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297962",
+    "ranking_string": "#32 of 504 hotels in Antalya",
+    "geo_location_name": "Antalya",
+    "ranking_out_of": "504",
+    "ranking": "32"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "497",
+  "review_rating_count": {
+    "1": "13",
+    "2": "14",
+    "3": "30",
+    "4": "132",
+    "5": "308"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "675",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297962-d304732-m66827-Reviews-Dogan_Hotel-Antalya_Turkish_Mediterranean_Coast.html#photos",
+  "price_level": "$",
+  "amenities": [
+    "Restaurant",
+    "Pool",
+    "Bar/Lounge",
+    "Breakfast included",
+    "Internet",
+    "Room service",
+    "Free Internet",
+    "Free Wifi",
+    "Airport transportation",
+    "Public Wifi",
+    "Non-smoking rooms",
+    "Concierge",
+    "Air conditioning",
+    "Multilingual Staff",
+    "Minibar",
+    "Safe",
+    "Flatscreen TV",
+    "Breakfast Buffet",
+    "Private Balcony",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Housekeeping",
+    "Baggage Storage",
+    "Bath / Shower",
+    "Bottled Water",
+    "Currency Exchange",
+    "English",
+    "24-Hour Front Desk",
+    "Hair Dryer",
+    "Sun Loungers / Beach Chairs",
+    "Sun Umbrellas",
+    "Telephone",
+    "Turkish",
+    "Suites",
+    "Wifi",
+    "Non-smoking hotel",
+    "Kids pool",
+    "Breakfast in the Room",
+    "Cable / Satellite TV",
+    "Clothes Rack",
+    "Electric Kettle",
+    "First Aid Kit",
+    "German",
+    "Highchairs Available",
+    "Pool / Beach Towels",
+    "Paid Private Parking Nearby",
+    "Paid Public Parking Nearby",
+    "Sun Deck",
+    "Sun Terrace",
+    "Umbrella",
+    "Wake Up Service / Alarm Clock",
+    "Walk-in Shower",
+    "Wardrobe / Closet",
+    "Beach Access"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Mid-range",
+    "Historic Hotel"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "17"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "198"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "42"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "96"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "81"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2023",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2023_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

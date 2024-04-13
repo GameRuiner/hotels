@@ -1,0 +1,298 @@
+{
+  "data": [
+    {
+      "id": 945415358,
+      "lang": "en",
+      "location_id": 19113231,
+      "published_date": "2024-04-05T03:50:42Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d19113231-r945415358-Reviews-Park_Regis_Business_Bay_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945415358",
+      "text": "It was my first trip to Dubai with friend and it was gorgeous! We got an amazing room with Burj Khalifa view, our room was cleaned efficiently.\n Thanks a lot Ms Hannah and Mr Abdin for friendly welcome, responsiveness and smile :) \nA cuisine was healthy and tasty either, we really liked it\nI'll definitely come back here again!!!",
+      "title": "Wonderful trip to Dubai",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "Culture38969852462",
+        "user_location": {
+          "id": "295424",
+          "name": "Dubai, Emirate of Dubai"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ed/ce/default-avatar-2020-7.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945432987,
+        "title": "Owner response",
+        "text": "Dear Culture38969852462,\n\nGreetings from Park Regis Hotel Business Bay, Dubai!\n\nThank you for choosing Park Regis as your home on your first trip to Dubai. We are very happy to know that we were up to your expectations and provided you with great service that left a very positive impression of the hotel and the city. Your feedback serves as a reward for our team who are all behind your wonderful experiences.\n\nWe value your feedback and appreciation to the hotel and our team, and looking forward to your return, until then\n\nStay Well,\n\nGeneral Manager",
+        "lang": "en",
+        "author": "Park Regis Business Bay ",
+        "published_date": "2024-04-05T07:04:13Z"
+      }
+    },
+    {
+      "id": 945411878,
+      "lang": "en",
+      "location_id": 19113231,
+      "published_date": "2024-04-05T03:08:44Z",
+      "rating": 4,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d19113231-r945411878-Reviews-Park_Regis_Business_Bay_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945411878",
+      "text": "I would like to compliment the whole team working in the hotel restaurant. They are providing very good service from early morning serving  delicious breakfast with wide range of selection of dishes. Specifically I would like to mention Mrs. Hana and Mr. Abdin who are always very nice and helpful.",
+      "title": "Service at the hotel restaurant",
+      "trip_type": "Business",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "A2991DHtomaszp",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e4/2d/default-avatar-2020-48.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e4/2d/default-avatar-2020-48.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e4/2d/default-avatar-2020-48.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e4/2d/default-avatar-2020-48.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e4/2d/default-avatar-2020-48.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945432221,
+        "title": "Owner response",
+        "text": "Dear A2991DHtomaszp,\n\nGreetings from Park Regis Hotel Business Bay, Dubai!\n\nIt was indeed our pleasure having you with us while in the city and more pleased to know that you enjoyed your overall experience specially at our restaurant. Thank you for appreciating the efforts efforts of our service team specially Hana and Abdin. Your feedback is extremely rewarding to hear as we work hard to ensure that you receive the warm and attentive service that you deserve.\n\nWe look forward to be of service again in the future, until then\n\nStay Well,\n\nGeneral Manager",
+        "lang": "en",
+        "author": "Park Regis Business Bay ",
+        "published_date": "2024-04-05T06:56:52Z"
+      }
+    },
+    {
+      "id": 945406043,
+      "lang": "en",
+      "location_id": 19113231,
+      "published_date": "2024-04-05T01:45:26Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d19113231-r945406043-Reviews-Park_Regis_Business_Bay_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945406043",
+      "text": "Good buffet. Hannah was great at attending to my son’s food needs.\nThe omelette was excellent and all of the juices were freshly squeezed.  The Botha were very comfortable to sit in and the decor was nice. The space is clean and inviting. The pool area was also fun as it was heated.",
+      "title": "Good restaurant and pool in Hotel",
+      "trip_type": "Family",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "traveler1706",
+        "user_location": {
+          "id": "46481",
+          "name": "Hackettstown, New Jersey"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/df/99/default-avatar-2020-40.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/df/99/default-avatar-2020-40.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/df/99/default-avatar-2020-40.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/df/99/default-avatar-2020-40.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/df/99/default-avatar-2020-40.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945430151,
+        "title": "Owner response",
+        "text": "Dear Traveler1706,\n\nGreetings from Park Regis Hotel Business Bay, Dubai!\n\nThank you for taking some of your valuable time to share your review regarding your recent stay. We are very pleased to read your feedback and appreciation to the hotel in general and how much you enjoyed all your experiences with us. Your feedback serves as a reward for all the work done by the team to ensure you receive the warm and attentive service that you deserve.\n\nWe look forward to welcoming you back in the city and stay with us again, until then\n\nStay Well,\n\nGeneral Manager",
+        "lang": "en",
+        "author": "Park Regis Business Bay ",
+        "published_date": "2024-04-05T06:33:41Z"
+      }
+    },
+    {
+      "id": 945404290,
+      "lang": "en",
+      "location_id": 19113231,
+      "published_date": "2024-04-05T01:10:09Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d19113231-r945404290-Reviews-Park_Regis_Business_Bay_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945404290",
+      "text": "Amazing place with professional team in everything. Special thanks to front office team and lady security who helped to connect to the internet. \nI arrived earlier and they provided me a room without any extra charges.\nIftar menu was so delicious!",
+      "title": "Amazing business hotel",
+      "trip_type": "Business",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "MaxSeyd",
+        "user_location": {
+          "id": "294194",
+          "name": "Georgia"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/28/d7/e6/a5/caption.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/28/d7/e6/a5/caption.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/28/d7/e6/a5/caption.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/28/d7/e6/a5/caption.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-m/1280/28/d7/e6/a5/caption.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945428198,
+        "title": "Owner response",
+        "text": "Dear MaxSeyd,\n\nGreetings from Park Regis Hotel Business Bay, Dubai!\n\nIt was our pleasure having you with us but more so, we are delighted to know that you had a seamless and wonderful stay experience through the assistance of our able team.\n\nYour feedback is very much appreciated, and we certainly look forward to your next stay, until then\n\nStay Well,\n\nGeneral Manager",
+        "lang": "en",
+        "author": "Park Regis Business Bay ",
+        "published_date": "2024-04-05T06:11:59Z"
+      }
+    },
+    {
+      "id": 945297428,
+      "lang": "en",
+      "location_id": 19113231,
+      "published_date": "2024-04-04T04:15:56Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d19113231-r945297428-Reviews-Park_Regis_Business_Bay_Hotel-Dubai_Emirate_of_Dubai.html?m=66827#review945297428",
+      "text": "Everything was good\nGood houskeeping\nMr raju was kind and polite\nEveryone was smily and happy\nI had the pleasure of experiencing during recent stay\nI had a best of view of khalifa tower and dubai mall i got so so happy for beeing in this hotel …….",
+      "title": "Excelent",
+      "trip_type": "Solo travel",
+      "travel_date": "2024-04-30",
+      "user": {
+        "username": "shohrer2024",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/59/default-avatar-2020-24.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/59/default-avatar-2020-24.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/59/default-avatar-2020-24.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/59/default-avatar-2020-24.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/59/default-avatar-2020-24.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 945406031,
+        "title": "Owner response",
+        "text": "Dear Shohrer2024,\n\nGreetings from Park Regis Hotel Business Bay, Dubai!\n\nThank you for staying with us while enjoying the city of Dubai. We are pleased to know that you are very happy and satisfied with your overall experience from beginning to end with the assistance of our wonderful and able team.\n\nWe look forward to your next visit, until then\n\nStay Well,\n\nGeneral Manager",
+        "lang": "en",
+        "author": "Park Regis Business Bay ",
+        "published_date": "2024-04-05T01:45:13Z"
+      }
+    }
+  ]
+}

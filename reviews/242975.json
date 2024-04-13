@@ -1,0 +1,298 @@
+{
+  "data": [
+    {
+      "id": 945266622,
+      "lang": "en",
+      "location_id": 242975,
+      "published_date": "2024-04-03T18:44:26Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d242975-r945266622-Reviews-Grand_Hyatt_Barcelona-Barcelona_Catalonia.html?m=66827#review945266622",
+      "text": "My experience at Hotel Sofia was easily the best of any hotel I’ve been to. From the moment we arrived, the staff made us feel immediately welcome. From cab doors being opened on arrival, bags being taken straight to our rooms, and friendly smiles & hellos, to the extremely helpful reception staff - we could tell we’d made the right decision. \nThe rooms were perfect; modern, spacious, huge comfortable beds, and every amenity you could possibly need. \nThe facilities of the hotel were also top notch - the bar was a great experience with amazing drinks and attentive staff. The spa was so relaxing, and well worth visiting after a lot of walking around the City! The food and drinks were exceptional - with room service being a highlight for me. Fresh food at all hours, much needed after such long days exploring! \nOverall I can’t speak highly enough of my stay at the Hotel Sofia - luxurious, perfect location, amazing staff, just exceptional all round! If you’re going to Barcelona, you have to stay at Hotel Sofia.",
+      "title": "Hotel Sofia - the perfect hotel experience",
+      "trip_type": "Friends getaway",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Y1381BPalexb",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ed/ce/default-avatar-2020-7.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ed/ce/default-avatar-2020-7.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 945547233,
+        "title": "Owner response",
+        "text": "Dear Alex B,\n\nNothing can make us happier than reading your comment. \nThe entire team at GRAND HYATT Barcelona works so that our guests feel as you have felt with us.\nWe really appreciate your opinion and hope to see you again very soon.\nThanks so much.\n",
+        "lang": "en",
+        "author": "SOFIA BARCELONA",
+        "published_date": "2024-04-06T06:19:48Z"
+      }
+    },
+    {
+      "id": 944808089,
+      "lang": "en",
+      "location_id": 242975,
+      "published_date": "2024-04-01T11:34:23Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d242975-r944808089-Reviews-Grand_Hyatt_Barcelona-Barcelona_Catalonia.html?m=66827#review944808089",
+      "text": "The hotel was modern and relatively newly renovated with plenty of USB charging ports. The room was decent sized for European hotels. The staff were wonderful and professional. I had requested for additional water and body lotion, and everytime house keeping delivered in 5 min, very timely, and the staff were very courteous. The breakfast layout was typical of European 5 Star hotels. The hotel is not downtown but near Camp Nou, but the metro is close by, a 15 min metro ride and you would be close to everything. The only complaint is the bathroom layout, there was no place for me to put clean changing clothes. Our flight was in the morning and the hotel let us checkin by 11AM, which was very nice. Would strongly recommend to friends and family who don't mind not staying in the city center of barcelona.",
+      "title": "Modern hotel with wonderful staff",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "NJSHgirl",
+        "user_location": {
+          "id": "46756",
+          "name": "Princeton, New Jersey"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f2/59/default-avatar-2020-24.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f2/59/default-avatar-2020-24.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f2/59/default-avatar-2020-24.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/f2/59/default-avatar-2020-24.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/59/default-avatar-2020-24.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944893046,
+        "title": "Owner response",
+        "text": "Dear NJSHgirl,\nThank you for taking your valuable time to share this lovely review and for staying at SOFIA Barcelona.\nWe feel especially proud to know that you loved the service provided from all of us and that you were amazed by SOFIA's universe itself.\nI will for sure pass on your compliments to the entire team. Hope to have the pleasure of welcoming you back soon.\nWishing you a great day!\n",
+        "lang": "en",
+        "author": "SOFIA BARCELONA",
+        "published_date": "2024-04-02T03:36:13Z"
+      }
+    },
+    {
+      "id": 944705375,
+      "lang": "en",
+      "location_id": 242975,
+      "published_date": "2024-03-31T17:26:19Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d242975-r944705375-Reviews-Grand_Hyatt_Barcelona-Barcelona_Catalonia.html?m=66827#review944705375",
+      "text": "a wonderful hotel. Brilliant staff. So helpful and friendly. Lupe the concierge was fantastic. The food too was great and Breakfast in particular was incredible  I would thoroughly recommend this hotel and will definitely return. ",
+      "title": "Great hotel wonderful staff.",
+      "trip_type": "Business",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "antonjerges",
+        "user_location": {
+          "id": "186338",
+          "name": "London, England"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e3/6a/default-avatar-2020-47.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e3/6a/default-avatar-2020-47.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e3/6a/default-avatar-2020-47.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e3/6a/default-avatar-2020-47.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e3/6a/default-avatar-2020-47.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944750186,
+        "title": "Owner response",
+        "text": "Dear antonjerges,\nNothing can make us happier than reading your comment. The entire team at Hotel Sofia works so that our guests feel as you have felt with us.\nWe really appreciate your opinion and hope to see you again very soon.\nThanks so much.\n",
+        "lang": "en",
+        "author": "SOFIA BARCELONA",
+        "published_date": "2024-04-01T04:22:31Z"
+      }
+    },
+    {
+      "id": 944697792,
+      "lang": "en",
+      "location_id": 242975,
+      "published_date": "2024-03-31T16:18:55Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d242975-r944697792-Reviews-Grand_Hyatt_Barcelona-Barcelona_Catalonia.html?m=66827#review944697792",
+      "text": "This hotel is an amazingly brand new and beautiful finishing, we really enjoyed the stay. Since I am a Hyatt member, I was looking for a Hotel to stay with my 16-years-old son. To accommodate two men, two beds are absolutely required so this hotel came up as a top candidate among other Hyatt hotels. The decision was really right, or more than right, the stay brought us more than two beds. The staffs in the reception were friendly to us though we don’t speak Spanish fluently. They helped so many things. I had a concern on my FCB ticket bought on StubHub and I asked them a general advice. The team worked quickly and called FCB official ticket office and cleared my concern immediately. What a cool job. Lastly the location wise it seemed there was a distance from the central historical area, but taking metro L3 line we were able to access Plaza de Cataluña, Saglada Famila and Studio Olympics, and etc easily. The city of Barcelona is more compact than Tokyo, London and NYC there would be no problem in terms of access. I would rather emphasize the good access from the airport. It just took 20 mins from the hotel and costs only about 35 Euros. Remember how much you have to pay from JFK to NYC or suburbs these days. I would have to pay $200~ for large Uber Black. Lastly, we are so lucky to stay their Grand Hyatt rebranding opening day! I can’t wait to stay again, maybe after Camp Now renovation. The price will be skyrocketing after the renovation - I recommend to book early as you can. Camp Now is just a few mins walk from the Hotel.",
+      "title": "Amazing facility, access from airports/sightseeing, professional hospitality",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "ruis_hugo",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/e6/default-avatar-2020-45.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 944750779,
+        "title": "Owner response",
+        "text": "Dear Excursion34358393615,\nIt has been such a pleasure to read your lovely feedback. \nWe are so delighted to know that you felt well taken care of, as well as, you noticed the true passion we have for hospitality and service. \nWe would love to have the honor to welcome you back soon and to provide you with another unforgettable experience. Please do not hesitate to contact us directly if there is anything that our team can assist you with. \nBest regards,",
+        "lang": "en",
+        "author": "SOFIA BARCELONA",
+        "published_date": "2024-04-01T04:26:57Z"
+      }
+    },
+    {
+      "id": 944479355,
+      "lang": "en",
+      "location_id": 242975,
+      "published_date": "2024-03-30T04:55:30Z",
+      "rating": 3,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g187497-d242975-r944479355-Reviews-Grand_Hyatt_Barcelona-Barcelona_Catalonia.html?m=66827#review944479355",
+      "text": "The hotel is lovely, with quality facilities and friendly, efficient staff. Also, the location is very convenient for the airport, shopping, restaurants and tourists sights. All good. \nThe rooms, whilst beautifully finished, were clearly designed by a single man who travels alone. \nThe toilet and shower are in 2 separate rooms that open directly onto the bedroom and the wash basin is in the main bedroom. Zero privacy and makes the morning processes an experience for everyone in the room. Needs a sliding panel to afford privacy, if not a complete redesign.",
+      "title": "Brings the family very close together",
+      "trip_type": "Family",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "WatersAbroad",
+        "user_location": {
+          "id": "295424",
+          "name": "Dubai, Emirate of Dubai"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/ef/73/default-avatar-2020-13.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/ef/73/default-avatar-2020-13.jpg"
+        }
+      },
+      "subratings": {},
+      "owner_response": {
+        "id": 944507885,
+        "title": "Owner response",
+        "text": "Dear WatersAbroad,\nThank you very much for sharing your experience at Hotel Sofía. We greatly appreciate your feedback and are committed to improving in every possible area.\n\nPlease take a moment to provide more details about your experience by sending us an email at \nBCNUB-Front.Office.Manager@hyatt.com\n Your feedback is crucial to us as we strive to ensure an exceptional experience for all our guests.\n\nWe sincerely appreciate the opportunity to learn from your experience and hope to do everything we can to remedy any issues that may have arisen during your stay.\n\nSincerely,",
+        "lang": "en",
+        "author": "SOFIA BARCELONA",
+        "published_date": "2024-03-30T09:50:56Z"
+      }
+    }
+  ]
+}

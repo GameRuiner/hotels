@@ -1,0 +1,228 @@
+{
+  "location_id": "1823683",
+  "name": "AVANI Deira Dubai Hotel",
+  "description": "Located in one of the most diverse and culturally rich parts of the city AVANI Deira Dubai Hotel is ideally situated, just ten minutes away from Dubai International Airport and from the world-famous Gold Souk. Close to several shopping malls and the Dubai Metro, the hotel is well-placed for guests wanting to explore Deira's vibrant winding and historic Creek area, were local \"abra\" water taxis ply their trade. From the seven naturally-lit meeting rooms, including a fully-equipped business centre, to the hotel's restaurants, AVANI Deira Dubai Hotel offers five-star service to business and leisure travelers alike.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d1823683-Reviews-AVANI_Deira_Dubai_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Al Siddique and Sallahudin Road",
+    "street2": "Corner Abu Baker",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "234344",
+    "address_string": "Al Siddique and Sallahudin Road Corner Abu Baker, Dubai 234344 United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.270775",
+  "longitude": "55.32958",
+  "timezone": "Asia/Dubai",
+  "phone": "01197146013999",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d1823683-AVANI_Deira_Dubai_Hotel-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#156 of 982 hotels in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "982",
+    "ranking": "156"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "3150",
+  "review_rating_count": {
+    "1": "63",
+    "2": "59",
+    "3": "208",
+    "4": "703",
+    "5": "2117"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "903",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d1823683-m66827-Reviews-AVANI_Deira_Dubai_Hotel-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Free Internet",
+    "Free parking",
+    "Free Wifi",
+    "Suites",
+    "Internet",
+    "Shuttle Bus Service",
+    "Room service",
+    "Wheelchair access",
+    "Restaurant",
+    "Bar/Lounge",
+    "Spa",
+    "Airport transportation",
+    "Wifi",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Business center",
+    "Fitness center",
+    "Laundry Service",
+    "Concierge",
+    "Banquet Room",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Smoking rooms available",
+    "Accessible rooms",
+    "Minibar",
+    "Conference Facilities",
+    "Babysitting",
+    "Safe",
+    "Rooftop Pool",
+    "Heated pool",
+    "Flatscreen TV",
+    "Rooftop Terrace",
+    "Breakfast Buffet",
+    "Outdoor pool",
+    "Breakfast Available",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Kids Stay Free",
+    "Arabic",
+    "Baggage Storage",
+    "Blackout Curtains",
+    "Breakfast in the Room",
+    "Car Hire",
+    "24-Hour Check-in",
+    "Currency Exchange",
+    "Doorperson",
+    "English",
+    "Filipino",
+    "Fitness / Spa Locker Rooms",
+    "Complimentary Instant Cofffee",
+    "24-Hour Front Desk",
+    "Hindi",
+    "Interconnected room(s) available",
+    "Ironing Service",
+    "Massage",
+    "Salon",
+    "24-Hour Security",
+    "Shoeshine",
+    "Taxi Service",
+    "Valet Parking",
+    "VIP Room Facilities"
+  ],
+  "parent_brand": "Minor Hotel Group",
+  "brand": "Minor Hotel Group",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Green",
+    "Business"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620571",
+      "name": "Al Muteena"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "701"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "746"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "306"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "775"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "375"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

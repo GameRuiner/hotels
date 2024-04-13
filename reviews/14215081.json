@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": 803921269,
+      "lang": "en",
+      "location_id": 14215081,
+      "published_date": "2021-08-14T23:53:07Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d14215081-r803921269-Reviews-Brothers_Cesme_Boutique_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review803921269",
+      "text": "Hotel owners and their crew are very polite, friendly persons. They try to help all that you need. You can also get advise them about restaurants, beach clubs etc. they have very good network in this area. Central place very close to Cesme Marina. Furniture are new and well decorated. Room was very clean and big for a family. Very delicious Turkish breakfast..",
+      "title": "Friendly and Clean.",
+      "trip_type": "Family",
+      "travel_date": "2021-08-31",
+      "user": {
+        "username": "263cemc",
+        "user_location": {
+          "id": "667198",
+          "name": "Uster"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e4/a9/default-avatar-2020-50.jpg"
+        }
+      },
+      "subratings": {}
+    },
+    {
+      "id": 762795317,
+      "lang": "en",
+      "location_id": 14215081,
+      "published_date": "2020-08-03T01:50:00Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d14215081-r762795317-Reviews-Brothers_Cesme_Boutique_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review762795317",
+      "text": "I stayed at Btorhers Çeşme Butik Otel for 3 nights to spend the eid holiday with my mother, I am very satisfied with the hotel it was a really nice experience. The Owners of the hotel were friendly and very helpful.  The hotel and the rooms were very clean, comfortable and quiet.The hotel is directly in the middle of  Çeşme bazar which makes it very easy to reach every location around Çeşme. They have very delicious breakfasts in the morning and I will definitely recommend this hotel  to all my friends! Thank you for everything, Hope to see you soon.",
+      "title": "Brothers Cesme Boutique hotel was absolutely beautiful!",
+      "trip_type": "NONE",
+      "travel_date": "2020-08-31",
+      "user": {
+        "username": "Selensimsek",
+        "user_location": {
+          "id": "293974",
+          "name": "Istanbul"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1b/ae/70/79/selensimsek.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1b/ae/70/79/selensimsek.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1b/ae/70/79/selensimsek.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1b/ae/70/79/selensimsek.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1b/ae/70/79/selensimsek.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "1": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "2": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 614382484,
+      "lang": "en",
+      "location_id": 14215081,
+      "published_date": "2018-09-06T12:26:34Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g298006-d14215081-r614382484-Reviews-Brothers_Cesme_Boutique_Hotel-Izmir_Izmir_Province_Turkish_Aegean_Coast.html?m=66827#review614382484",
+      "text": "We were very impressed by this newly opened, family-owned hotel. Perfect decoration with every single detail carefully chosen, great room plans with lots of space, fabulous home-made breakfast, and utmost cleanliness for such a small business. Added to that, the centrality of the location and super-friendly staff. Made our stay a wonderful one!",
+      "title": "Great place to stay!",
+      "trip_type": "Family",
+      "travel_date": "2018-08-31",
+      "user": {
+        "username": "i_ile2018",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/14/7c/96/07/isil-e.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/14/7c/96/07/isil-e.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/14/7c/96/07/isil-e.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-s/14/7c/96/07/isil-e.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "1": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        }
+      }
+    }
+  ]
+}

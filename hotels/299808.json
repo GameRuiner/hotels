@@ -1,0 +1,307 @@
+{
+  "location_id": "299808",
+  "name": "Marriott Executive Apartments Dubai Creek",
+  "description": "If you’re looking for a family-friendly hotel in Dubai, look no further than Marriott Executive Apartments Dubai Creek.\nClose to some of Dubai's most popular landmarks, such as Bur Dubai Abra Dock (1.5 mi) and Sheikh Mohammed Centre for Cultural Understanding (1.5 mi), Marriott Dubai is a great destination for tourists.\nGuest rooms offer amenities such as a flat screen TV, air conditioning, and a kitchenette, and guests can go online with free wifi offered by the hotel.\nMarriott Executive Apartments Dubai features room service, a concierge, and a sun terrace, to help make your stay more enjoyable. The property also boasts a rooftop pool and breakfast. If you are driving to Marriott Dubai, free parking is available.\nWhile in Dubai, you may want to check out some of the restaurants that are a short walk away from Dubai Marriott, including AB's Absolute Barbecues (0.4 mi), QD's (0.9 mi), and The Acai Spot (0.4 mi).\nIf you’re looking for something to do, Dream Journey (1.1 mi) is a nice way to spend some time, and it is within walking distance of Marriott Dubai.\nThe staff at Marriott Executive Apartments Dubai Creek looks forward to serving you during your upcoming visit.\n",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g295424-d299808-Reviews-Marriott_Executive_Apartments_Dubai_Creek-Dubai_Emirate_of_Dubai.html?m=66827",
+  "address_obj": {
+    "street1": "Rigga Al Buteen St",
+    "street2": "4 Street, 9/1",
+    "city": "Dubai",
+    "state": "Emirate of Dubai",
+    "country": "United Arab Emirates",
+    "postalcode": "",
+    "address_string": "Rigga Al Buteen St 4 Street, 9/1, Dubai United Arab Emirates"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Dubai",
+      "location_id": "295424"
+    },
+    {
+      "level": "Province",
+      "name": "Emirate of Dubai",
+      "location_id": "2630221"
+    },
+    {
+      "level": "Country",
+      "name": "United Arab Emirates",
+      "location_id": "294012"
+    }
+  ],
+  "latitude": "25.258266",
+  "longitude": "55.324493",
+  "timezone": "Asia/Dubai",
+  "phone": "18446310595",
+  "write_review": "https://www.tripadvisor.com/UserReview-g295424-d299808-Marriott_Executive_Apartments_Dubai_Creek-Dubai_Emirate_of_Dubai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "295424",
+    "ranking_string": "#26 of 766 Specialty lodging in Dubai",
+    "geo_location_name": "Dubai",
+    "ranking_out_of": "766",
+    "ranking": "26"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "287",
+  "review_rating_count": {
+    "1": "9",
+    "2": "5",
+    "3": "25",
+    "4": "61",
+    "5": "187"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "1": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "255",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g295424-d299808-m66827-Reviews-Marriott_Executive_Apartments_Dubai_Creek-Dubai_Emirate_of_Dubai.html#photos",
+  "price_level": "$$$",
+  "hours": {
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "time": "0000"
+        },
+        "close": {
+          "day": 1,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "time": "0000"
+        },
+        "close": {
+          "day": 2,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "time": "0000"
+        },
+        "close": {
+          "day": 3,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "time": "0000"
+        },
+        "close": {
+          "day": 4,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "time": "0000"
+        },
+        "close": {
+          "day": 5,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "time": "0000"
+        },
+        "close": {
+          "day": 6,
+          "time": "0000"
+        }
+      },
+      {
+        "open": {
+          "day": 7,
+          "time": "0000"
+        },
+        "close": {
+          "day": 7,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 00:00 - 00:00",
+      "Tuesday: 00:00 - 00:00",
+      "Wednesday: 00:00 - 00:00",
+      "Thursday: 00:00 - 00:00",
+      "Friday: 00:00 - 00:00",
+      "Saturday: 00:00 - 00:00",
+      "Sunday: 00:00 - 00:00"
+    ]
+  },
+  "amenities": [
+    "Pool",
+    "Room service",
+    "Free parking",
+    "Restaurant",
+    "Fitness center",
+    "Internet",
+    "Free Internet",
+    "Wifi",
+    "Free Wifi",
+    "Laundry Service",
+    "Concierge",
+    "Suites",
+    "Wheelchair access",
+    "Kitchenette",
+    "Public Wifi",
+    "Dry Cleaning",
+    "Meeting rooms",
+    "Non-smoking rooms",
+    "Air conditioning",
+    "Family Rooms",
+    "Multilingual Staff",
+    "Self-Serve Laundry",
+    "Microwave",
+    "Refrigerator in room",
+    "Conference Facilities",
+    "Safe",
+    "Rooftop Pool",
+    "Flatscreen TV",
+    "Outdoor pool",
+    "Parking",
+    "Facilities for Disabled Guests",
+    "Housekeeping",
+    "Additional Bathroom",
+    "Arabic",
+    "Dishwasher",
+    "Filipino",
+    "24-Hour Front Desk",
+    "Iron",
+    "Pool / Beach Towels",
+    "Washing Machine",
+    "Kids Activities",
+    "Beachfront",
+    "Bar/Lounge",
+    "Hot Tub",
+    "Business center",
+    "Non-smoking hotel",
+    "Breakfast Buffet",
+    "Breakfast Available",
+    "Kids Stay Free",
+    "Sauna",
+    "Baggage Storage",
+    "BBQ Facilities",
+    "Game Room",
+    "Ironing Service",
+    "Snack Bar",
+    "Sun Terrace",
+    "Beach Access"
+  ],
+  "parent_brand": "Marriott",
+  "brand": "Marriott",
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "other",
+      "localized_name": "Specialty Lodging"
+    }
+  ],
+  "styles": [
+    "Mid-range",
+    "Business"
+  ],
+  "neighborhood_info": [
+    {
+      "location_id": "15620622",
+      "name": "Deira"
+    },
+    {
+      "location_id": "15620665",
+      "name": "Port Saeed"
+    },
+    {
+      "location_id": "15620549",
+      "name": "Al Buteen"
+    }
+  ],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "80"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "23"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "14"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "114"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "26"
+    }
+  ],
+  "awards": [
+    {
+      "award_type": "Travelers Choice",
+      "year": "2022",
+      "images": {
+        "tiny": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "small": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png",
+        "large": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2022_L.png"
+      },
+      "categories": [],
+      "display_name": "Travelers Choice"
+    }
+  ]
+}

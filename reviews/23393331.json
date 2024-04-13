@@ -1,0 +1,329 @@
+{
+  "data": [
+    {
+      "id": 943697712,
+      "lang": "en",
+      "location_id": 23393331,
+      "published_date": "2024-03-24T22:28:18Z",
+      "rating": 5,
+      "helpful_votes": 1,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23393331-r943697712-Reviews-Howard_Johnson_Plaza_by_Wyndham_Dubai_Deira-Dubai_Emirate_of_Dubai.html?m=66827#review943697712",
+      "text": "Very good hotel, rooms and common areas very clean. Good location very close to al rigga metro station. Personal very friendly and available all the time for everything and satisfying all your requests.",
+      "title": "MEDDAH review",
+      "trip_type": "NONE",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "mameddah",
+        "user_location": {
+          "id": "303167",
+          "name": "Oran, Oran Province"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/77/ae/default-avatar-2020-2.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/77/ae/default-avatar-2020-2.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/77/ae/default-avatar-2020-2.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/77/ae/default-avatar-2020-2.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/77/ae/default-avatar-2020-2.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      }
+    },
+    {
+      "id": 942954652,
+      "lang": "en",
+      "location_id": 23393331,
+      "published_date": "2024-03-19T19:54:20Z",
+      "rating": 3,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23393331-r942954652-Reviews-Howard_Johnson_Plaza_by_Wyndham_Dubai_Deira-Dubai_Emirate_of_Dubai.html?m=66827#review942954652",
+      "text": "Staffs are friendly. There were mold in the bathroom grouting. There are stains in fhe sink and can be easily removed by normal cleaning chemicals. The stains and molds are in the bath room during my entire stay. Maybe housekeeping supervisor is not checking.",
+      "title": "Nice staffs. Filthy washroom",
+      "trip_type": "Couples",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "gailtT4323HZ",
+        "user_location": {
+          "id": "null"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/a3/default-avatar-2020-38.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 942994308,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nThank you for taking time to share your stay experience at Howard Johnson Plaza by Wyndham Dubai Deira. We are sorry to hear that you did not meet your expectation during your stay with us. We value feedback that we receive from our guests, as it is an opportunity to improve our facilities and services.\nPlease note that your feedback  will take into consideration and necessary action will be taken .Nevertheless, we would like to assure you that we are continually looking for innovative solutions to enhance Stay experience of our guests.\n\nOur sincere apologies for the inconvenience caused.\n\nWe hope to have the opportunity to better serve you in not too distant future.\n\nSincerely,\n\nHoward Johnson Plaza by Wyndham Dubai Deira .",
+        "lang": "en",
+        "author": "Mohd Saif Pathan",
+        "published_date": "2024-03-20T06:39:40Z"
+      }
+    },
+    {
+      "id": 942500173,
+      "lang": "en",
+      "location_id": 23393331,
+      "published_date": "2024-03-16T08:46:08Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23393331-r942500173-Reviews-Howard_Johnson_Plaza_by_Wyndham_Dubai_Deira-Dubai_Emirate_of_Dubai.html?m=66827#review942500173",
+      "text": "Good location near Al Rigga Metro. Co-operative staff, ready to help any time. Smooth check in Continental breakfast is excellent. Specious rooms, feels like home  clean washroom. 10 minutes drive from Dubai Airport. I will recommend this hotel to my friends.\nMohanjit Singh Canada\n",
+      "title": "Good location Near Metro",
+      "trip_type": "Business",
+      "travel_date": "2024-03-31",
+      "user": {
+        "username": "Explorer21695684572",
+        "user_location": {
+          "id": "155032",
+          "name": "Montreal, Quebec"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e4/59/default-avatar-2020-49.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e4/59/default-avatar-2020-49.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e4/59/default-avatar-2020-49.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e4/59/default-avatar-2020-49.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e4/59/default-avatar-2020-49.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 942994338,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nThank you for the feedback on your stay at Howard Johnson Plaza by Wyndham Dubai Deira.\n\nWe very much appreciate your comments regarding your stay at Howard Johnson Plaza by Wyndham Dubai Deira . We are very happy to know that your stay with us was as memorable .\nWe are glad that you find the place worth to stay and services delivered by the team members have matched to your expectation .\n\nWe hope to have the opportunity to serve you again  not too distant future.\n\nSincerely,\n\nHoward Johnson Plaza by Wyndham Dubai Deira .\n",
+        "lang": "en",
+        "author": "Mohd Saif Pathan",
+        "published_date": "2024-03-20T06:40:06Z"
+      }
+    },
+    {
+      "id": 940984939,
+      "lang": "en",
+      "location_id": 23393331,
+      "published_date": "2024-03-06T03:03:58Z",
+      "rating": 1,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23393331-r940984939-Reviews-Howard_Johnson_Plaza_by_Wyndham_Dubai_Deira-Dubai_Emirate_of_Dubai.html?m=66827#review940984939",
+      "text": "I never suggest this hotel and never stay again.No hospitality.Reception staffs are like a robot.No authority.I stayed 3 nights.I wanted to extend my stay with the same rate.They didn't do something.Because of their nhelpful behavior for 1 night ı had to change my hotel.Pool was not look bright.They didn't change bed cover.",
+      "title": "ZERO HOSPITALITY,ZERO SATISFACTION",
+      "trip_type": "Couples",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "369rasimh",
+        "user_location": {
+          "id": "312728",
+          "name": "Hatay Province, Turkish Mediterranean Coast"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/df/2b/default-avatar-2020-39.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/df/2b/default-avatar-2020-39.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s3.0-66827-5.svg",
+          "value": 3,
+          "localized_name": "Location"
+        },
+        "2": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s1.0-66827-5.svg",
+          "value": 1,
+          "localized_name": "Service"
+        }
+      },
+      "owner_response": {
+        "id": 941397003,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nThank you for taking time to share your stay experience at Howard Johnson Plaza by Wyndham Dubai Deira. We are sorry to hear that you did not meet your expectation during your stay with us. We value feedback that we receive from our guests, as it is an opportunity to improve our facilities and services.\nPlease note that your feedback  will take into consideration and necessary action will be taken .Nevertheless, we would like to assure you that we are continually looking for innovative solutions to enhance Stay experience of our guests.\n\nOur sincere apologies for the inconvenience caused.\n\nWe hope to have the opportunity to better serve you in not too distant future.\n\nSincerely,\n\nHoward Johnson Plaza by Wyndham Dubai Deira",
+        "lang": "en",
+        "author": "Mohd Saif Pathan",
+        "published_date": "2024-03-08T07:17:04Z"
+      }
+    },
+    {
+      "id": 940564634,
+      "lang": "en",
+      "location_id": 23393331,
+      "published_date": "2024-03-02T12:48:56Z",
+      "rating": 5,
+      "helpful_votes": 0,
+      "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g295424-d23393331-r940564634-Reviews-Howard_Johnson_Plaza_by_Wyndham_Dubai_Deira-Dubai_Emirate_of_Dubai.html?m=66827#review940564634",
+      "text": "I checked reviews before booking this hotel but the reviews are quite bad. When I stepped in to this property, it was really awesome. Amazing room, tasty breakfast, but Internet was quite bad. Overall its a great stay. I will definitely book again. ",
+      "title": "Great stay",
+      "trip_type": "Business",
+      "travel_date": "2024-02-29",
+      "user": {
+        "username": "InnoviousDesigns",
+        "user_location": {
+          "id": "304558",
+          "name": "Kolkata (Calcutta), Kolkata District, West Bengal"
+        },
+        "avatar": {
+          "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "small": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "medium": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "large": "https://media-cdn.tripadvisor.com/media/photo-p/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+          "original": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e3/1f/default-avatar-2020-46.jpg"
+        }
+      },
+      "subratings": {
+        "0": {
+          "name": "RATE_VALUE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Value"
+        },
+        "1": {
+          "name": "RATE_ROOM",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Rooms"
+        },
+        "2": {
+          "name": "RATE_LOCATION",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Location"
+        },
+        "3": {
+          "name": "RATE_CLEANLINESS",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s4.0-66827-5.svg",
+          "value": 4,
+          "localized_name": "Cleanliness"
+        },
+        "4": {
+          "name": "RATE_SERVICE",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Service"
+        },
+        "5": {
+          "name": "RATE_SLEEP",
+          "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/s5.0-66827-5.svg",
+          "value": 5,
+          "localized_name": "Sleep Quality"
+        }
+      },
+      "owner_response": {
+        "id": 940910892,
+        "title": "Owner response",
+        "text": "Dear Guest,\n\nThank you for the feedback on your stay at Howard Johnson Plaza by Wyndham Dubai Deira.\n\nWe very much appreciate your comments regarding your stay at Howard Johnson Plaza by Wyndham Dubai Deira . We are very happy to know that your stay with us was as memorable .\nWe are glad that you find the place worth to stay and services delivered by the team members have matched to your expectation .\n\nWe hope to have the opportunity to serve you again  not too distant future.\n\nSincerely,\n\nHoward Johnson Plaza by Wyndham Dubai Deira .\n",
+        "lang": "en",
+        "author": "Mohd Saif Pathan",
+        "published_date": "2024-03-05T09:43:37Z"
+      }
+    }
+  ]
+}

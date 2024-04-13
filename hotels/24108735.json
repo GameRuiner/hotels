@@ -1,0 +1,164 @@
+{
+  "location_id": "24108735",
+  "name": "Safir Sharm Waterfalls Resort",
+  "description": "This property is a 9-minute walk from the beach. With a private beach and jetty, this 5-star resort in Sharm El Sheikh features 7 pools and a diving center. Rooms have private balconies overlooking the Red Sea or the gardens. Safir Sharm Waterfalls Resort offers daily animation programs, a health club with a gym and dance classes. For the active, there is a tennis court and a choice of water sports including snorkeling and water skiing. Beauty treatments and shopping can be enjoyed on site of this luxurious hotel. Guests may relax in the sauna, while kids can have fun in the children’s pools or the Kid’s Club. Safir Sharm Waterfalls Resort offers 4 restaurants from traditional Arabian dishes at Paradise Reef that overlooks the main pool to contemporary Italian cuisine at Verdi Bistro. The hotel is 25 minutes' drive from Sharm el Sheikh International Airport and just 4 mi from the town center. Couples in particular like the location – they rated it 9.2 for a two-person trip.",
+  "web_url": "https://www.tripadvisor.com/Hotel_Review-g297555-d24108735-Reviews-Safir_Sharm_Waterfalls_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "address_obj": {
+    "street1": "Ras Um El Sid plateau",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "address_string": "Ras Um El Sid plateau, Sharm El Sheikh Egypt"
+  },
+  "ancestors": [
+    {
+      "level": "Municipality",
+      "name": "Sharm El Sheikh",
+      "location_id": "297555"
+    },
+    {
+      "level": "District",
+      "name": "South Sinai",
+      "location_id": "297556"
+    },
+    {
+      "level": "Region",
+      "name": "Red Sea and Sinai",
+      "location_id": "297545"
+    },
+    {
+      "level": "Country",
+      "name": "Egypt",
+      "location_id": "294200"
+    }
+  ],
+  "latitude": "27.855925",
+  "longitude": "34.31408",
+  "timezone": "Africa/Cairo",
+  "phone": "01120693663232",
+  "write_review": "https://www.tripadvisor.com/UserReview-g297555-d24108735-Safir_Sharm_Waterfalls_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html?m=66827",
+  "ranking_data": {
+    "geo_location_id": "297555",
+    "ranking_string": "#61 of 279 hotels in Sharm El Sheikh",
+    "geo_location_name": "Sharm El Sheikh",
+    "ranking_out_of": "279",
+    "ranking": "61"
+  },
+  "rating": "4.5",
+  "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+  "num_reviews": "418",
+  "review_rating_count": {
+    "1": "17",
+    "2": "14",
+    "3": "33",
+    "4": "66",
+    "5": "288"
+  },
+  "subratings": {
+    "0": {
+      "name": "rate_location",
+      "localized_name": "Location",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss5.0.svg",
+      "value": "5.0"
+    },
+    "1": {
+      "name": "rate_sleep",
+      "localized_name": "Sleep Quality",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "2": {
+      "name": "rate_room",
+      "localized_name": "Rooms",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.0.svg",
+      "value": "4.0"
+    },
+    "3": {
+      "name": "rate_service",
+      "localized_name": "Service",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "4": {
+      "name": "rate_value",
+      "localized_name": "Value",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    },
+    "5": {
+      "name": "rate_cleanliness",
+      "localized_name": "Cleanliness",
+      "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+      "value": "4.5"
+    }
+  },
+  "photo_count": "938",
+  "see_all_photos": "https://www.tripadvisor.com/Hotel_Review-g297555-d24108735-m66827-Reviews-Safir_Sharm_Waterfalls_Resort-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html#photos",
+  "price_level": "$$",
+  "amenities": [
+    "Pool",
+    "Kids Activities",
+    "Beachfront",
+    "Room service",
+    "Free parking",
+    "Restaurant",
+    "Bar/Lounge",
+    "Airport transportation",
+    "Free Wifi",
+    "Breakfast included",
+    "Air conditioning",
+    "Safe",
+    "Breakfast Buffet",
+    "Arabic",
+    "Evening Entertainment",
+    "Italian",
+    "Massage",
+    "Russian",
+    "24-Hour Security",
+    "Beach Access",
+    "Spa",
+    "Fitness center"
+  ],
+  "category": {
+    "name": "hotel",
+    "localized_name": "Hotel"
+  },
+  "subcategory": [
+    {
+      "name": "hotel",
+      "localized_name": "Hotel"
+    }
+  ],
+  "styles": [
+    "Luxury",
+    "Business"
+  ],
+  "neighborhood_info": [],
+  "trip_types": [
+    {
+      "name": "business",
+      "localized_name": "Business",
+      "value": "7"
+    },
+    {
+      "name": "couples",
+      "localized_name": "Couples",
+      "value": "98"
+    },
+    {
+      "name": "solo",
+      "localized_name": "Solo travel",
+      "value": "26"
+    },
+    {
+      "name": "family",
+      "localized_name": "Family",
+      "value": "116"
+    },
+    {
+      "name": "friends",
+      "localized_name": "Friends getaway",
+      "value": "79"
+    }
+  ],
+  "awards": []
+}
