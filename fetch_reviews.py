@@ -2,6 +2,7 @@ from dotenv import load_dotenv
 import os
 import requests
 import json
+import pymongo
 
 load_dotenv() 
 
@@ -23,8 +24,11 @@ for hotel_id in ids_set:
     if 'message' in response_json:
       print(response_json['message'])
     else:
-      with open(f'{reviews_folder}{hotel_id}.json', 'wt', encoding="utf8") as f:
-        f.write(response)
-        added_ids.add(hotel_id)
-        proceed += 1
-        print(f'{proceed}/{total}')
+      client = pymongo.MongoClient(os.environ["MONGO_HOST"])
+      db = client["hotels"]
+      col = db["reviews"]
+      filter_criteria = {'id': response_json['id']}
+      col.update_one(filter_criteria, {'$set': response_json}, upsert=True)
+      added_ids.add(hotel_id)
+      proceed += 1
+      print(f'{proceed}/{total}')

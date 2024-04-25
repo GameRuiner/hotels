@@ -2,6 +2,7 @@ from dotenv import load_dotenv
 import os
 import requests
 import json
+import pymongo
 
 load_dotenv() 
 
@@ -18,7 +19,7 @@ hotels_folder = './hotels/'
 #    if 'message' in hotel_json:
 #       print(file)
 
-existing_ids = set([int(file.split('.')[0]) for file in os.listdir(hotels_folder)])
+existing_ids = set([int(file.split('.')[0]) for file in os.listdir(hotels_folder) if file != '.gitkeep'])
 
 added_ids = set()
 total = len(ids_set)
@@ -32,11 +33,14 @@ for hotel_id in ids_set:
     if 'message' in response_json:
       print(response_json['message'])
     else:
-      with open(f'{hotels_folder}{hotel_id}.json', 'wt', encoding="utf8") as f:
-        f.write(response)
-        added_ids.add(hotel_id)
-        proceed += 1
-        print(f'{proceed}/{total}')
+      client = pymongo.MongoClient(os.environ["MONGO_HOST"])
+      db = client["hotels"]
+      col = db["hotels"]
+      added_ids.add(hotel_id)
+      filter_criteria = {'location_id': response_json['location_id']}
+      col.update_one(filter_criteria, {'$set': response_json}, upsert=True)
+      proceed += 1
+      print(f'{proceed}/{total}')
 
 
 with open('ids.txt',  'wt', encoding="utf8") as f:

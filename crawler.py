@@ -11,6 +11,7 @@ import re
 # Sharm El Sheikh 297555 120
 
 # Rhodes 189449 60
+# Corfu 189458
 
 # Barcelona 187497 210
 
@@ -39,12 +40,14 @@ def fetch_hotels(locationId, offset='', fetch_total=False):
     return int(total_str.replace(',', ''))
 
 
-locationId = 295424
+locationId = 189458
+offset_start = 0
+limit = 210
+
+
 total_hotels = fetch_hotels(locationId, fetch_total=True)
 print(total_hotels, 'hotels')
-offset_start = 30
 offsets = [i for i in range(offset_start, total_hotels + 1, 30)]
-limit = 500
 for offset in offsets:
   if offset >= limit:
     break
