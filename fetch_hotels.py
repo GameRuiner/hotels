@@ -10,16 +10,11 @@ with open('ids.txt', encoding="utf8") as f:
   f.readlines
   ids_set = set([int(line) for line in f.readlines() if line])
 
-hotels_folder = './hotels/'
+client = pymongo.MongoClient(os.environ["MONGO_HOST"])
+db = client["hotels"]
+col = db["hotels"]
 
-# empty jsons cleaner
-
-# for file in os.listdir(hotels_folder):
-#    hotel_json = json.load(open(hotels_folder+file, 'r', encoding="utf8"))
-#    if 'message' in hotel_json:
-#       print(file)
-
-existing_ids = set([int(file.split('.')[0]) for file in os.listdir(hotels_folder) if file != '.gitkeep'])
+existing_ids = set([i['location_id'] for i in col.find({}, {'location_id': 1})])
 
 added_ids = set()
 total = len(ids_set)
@@ -33,9 +28,6 @@ for hotel_id in ids_set:
     if 'message' in response_json:
       print(response_json['message'])
     else:
-      client = pymongo.MongoClient(os.environ["MONGO_HOST"])
-      db = client["hotels"]
-      col = db["hotels"]
       added_ids.add(hotel_id)
       filter_criteria = {'location_id': response_json['location_id']}
       col.update_one(filter_criteria, {'$set': response_json}, upsert=True)

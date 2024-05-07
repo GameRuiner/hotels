@@ -6,11 +6,13 @@ import pymongo
 
 load_dotenv() 
 
-reviews_folder = './reviews/'
-hotels_folder = './hotels/'
+client = pymongo.MongoClient(os.environ["MONGO_HOST"])
+db = client["hotels"]
+hotel_col = db['hotels']
+col = db["reviews"]
 
-existing_ids = set([int(file.split('.')[0]) for file in os.listdir(reviews_folder) if file != '.gitkeep'])
-ids_set = set([int(file.split('.')[0]) for file in os.listdir(hotels_folder) if file != '.gitkeep'])
+existing_ids = set([str(i['_id']) for i in col.aggregate([{"$group": {"_id": "$location_id"}}])])
+ids_set = set([i['location_id'] for i in hotel_col.find({}, {'location_id': 1})])
 
 added_ids = set()
 total = len(ids_set)
@@ -24,11 +26,9 @@ for hotel_id in ids_set:
     if 'message' in response_json:
       print(response_json['message'])
     else:
-      client = pymongo.MongoClient(os.environ["MONGO_HOST"])
-      db = client["hotels"]
-      col = db["reviews"]
-      filter_criteria = {'id': response_json['id']}
-      col.update_one(filter_criteria, {'$set': response_json}, upsert=True)
+      for review in response_json['data']:
+        filter_criteria = {'id': review['id']}
+        col.update_one(filter_criteria, {'$set': review}, upsert=True)
       added_ids.add(hotel_id)
       proceed += 1
       print(f'{proceed}/{total}')

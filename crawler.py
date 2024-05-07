@@ -11,7 +11,7 @@ import re
 # Sharm El Sheikh 297555 120
 
 # Rhodes 189449 60
-# Corfu 189458
+# Corfu 189458 210
 
 # Barcelona 187497 210
 
