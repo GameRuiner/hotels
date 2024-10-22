@@ -15,7 +15,6 @@ existing_ids = set([str(i['_id'])
                    for i in col.aggregate([{"$group": {"_id": "$location_id"}}])])
 ids_set = set([i['location_id']
               for i in hotel_col.find({}, {'location_id': 1})])
-
 added_ids = set()
 total = len(ids_set)
 proceed = 0
@@ -34,5 +33,8 @@ for hotel_id in ids_set:
       photos = {'photos': response_json['data'], 'location_id': hotel_id}
       col.update_one(filter_criteria, {'$set': photos}, upsert=True)
       added_ids.add(hotel_id)
-      proceed += 1
-      print(f'{proceed}/{total}')
+      print('Photos fetched', end=' ')
+  else:
+    print('Photos exists', end=' ')
+  proceed += 1
+  print(f'{proceed}/{total}')
