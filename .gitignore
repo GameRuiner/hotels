@@ -2,4 +2,4 @@
 # *.json
 *.pdf
 *.pptx
-./tmp/
+tmp/*.html
