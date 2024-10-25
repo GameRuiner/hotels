@@ -3,6 +3,7 @@ from time import sleep
 import pymongo
 from dotenv import load_dotenv
 import os
+import re
 
 load_dotenv()
 
@@ -10,6 +11,7 @@ client = pymongo.MongoClient(os.environ["MONGO_HOST"])
 db = client["hotels"]
 hotel_col = db['hotels']
 
+# TODO: intersect with existing pages?
 hotels = list(hotel_col.find({'hotel_class': {'$exists': False}}, {'web_url': 1, 'location_id': 1}))
 
 def fetch_hotel_pages(hotels):
@@ -23,10 +25,13 @@ def fetch_hotel_pages(hotels):
   for hotel in hotels:
     req = requests.get(hotel['web_url'], headers=headers)
     content = req.text
+    match = re.search(r'captcha-delivery', content)
+    if match:
+      print(f"Request to {hotel['location_id']} was blocked")
+      break
     with open(f"./tmp/{hotel['location_id']}.html", 'w+', encoding="utf8") as hotel_page:
       hotel_page.write(content)
     sleep(1)
 
-print(hotels[:5])
-print(len(hotels), 'hotels')
-# fetch_hotel_pages(hotels)
+print(f"Fetching {len(hotels)} hotels")
+fetch_hotel_pages(hotels)
