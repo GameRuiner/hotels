@@ -35,9 +35,3 @@ Projekt polega na wykorzystaniu języka Python do scrapowania danych z strony or
    * Pobierz przechowywane dane z bazy danych MongoDB w celu dalszej analizy lub zadań związanych z uczeniem maszynowym.
    * Wykorzystaj zapytania MongoDB, aby wydobyć cenne wnioski i trendy w dziedzinie hotelarstwa.
 
-## Współpracownicy:
- 
- * Marko Golovko
- * Arkadiusz Stryjewski
-
-
