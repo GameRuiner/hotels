@@ -36,6 +36,6 @@ if __name__ == "__main__":
   embeddings_ = model(to_embed)
   embeddings_2D = np.reshape(embeddings_, (len(embeddings_), -1))
   
-  np.save("embeddings.npy", embeddings_2D)
-  with open("hotel_mapper.pkl", "wb") as f:
+  np.save("API/embeddings.npy", embeddings_2D)
+  with open("API/hotel_mapper.pkl", "wb") as f:
     pickle.dump(mapper, f)

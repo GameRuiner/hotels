@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+numpy
+pymongo
+python-dotenv
+scikit-learn
+tensorflow
+tensorflow-hub
