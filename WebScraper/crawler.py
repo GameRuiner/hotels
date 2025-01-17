@@ -2,23 +2,11 @@ import requests
 from time import sleep
 from bs4 import BeautifulSoup
 import re
-
-# Antalya 297962 30
-# Bodrum 298020 30
-# Izmir 298006 210
-
-# Hurghada 297549 30
-# Sharm El Sheikh 297555 120
-
-# Rhodes 189449 60
-# Corfu 189458 210
-
-# Barcelona 187497 210
-
-# Dubai 295424 510
+import json
+import sys
 
 def fetch_hotels(locationId, offset='', fetch_total=False):
-  print('fetching', locationId, 'with offset', offset)
+  print('Fetching', locationId, 'with offset', offset)
   headers = {
     'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
     'accept-encoding': 'gzip, deflate, br',
@@ -40,10 +28,16 @@ def fetch_hotels(locationId, offset='', fetch_total=False):
     return int(total_str.replace(',', ''))
 
 
-locationId = 189458
-offset_start = 0
-limit = 210
+locationId = sys.argv[1]
+limit = int(sys.argv[2])
 
+with open('fetched_cities.json') as f:
+    fetched_cities = json.load(f)
+    city = fetched_cities[locationId]
+    print(city)
+    print(f"Fetching hotels for {city['name']}, {city['country']}")
+    offset_start = city["fetched"]
+     
 
 total_hotels = fetch_hotels(locationId, fetch_total=True)
 print(total_hotels, 'hotels')

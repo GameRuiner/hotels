@@ -4,6 +4,7 @@ import os
 hotel_pages = os.listdir('./tmp/')
 
 count = 0
+# add loader
 for page in hotel_pages:
   path = f"./tmp/{page}"
   with open(path, 'r', encoding="utf8") as hotel_page:

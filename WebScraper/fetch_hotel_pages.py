@@ -12,7 +12,28 @@ db = client["hotels"]
 hotel_col = db['hotels']
 
 # TODO: intersect with existing pages?
-hotels = list(hotel_col.find({'hotel_class': {'$exists': False}}, {'web_url': 1, 'location_id': 1}))
+hotels = list(hotel_col.aggregate([
+    {
+        '$lookup': {
+            'from': 'hotels_additional_info',
+            'localField': 'location_id',
+            'foreignField': 'location_id',
+            'as': 'additional_info'
+        }
+    },
+    {
+        '$match': {
+            'additional_info.hotel_class': {'$exists': False} 
+        }
+    },
+    {
+        '$project': {
+            'web_url': 1,
+            'location_id': 1
+        }
+    }
+]))
+
 
 def fetch_hotel_pages(hotels):
   headers = {

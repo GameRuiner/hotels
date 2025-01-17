@@ -32,6 +32,7 @@ for hotel_id in ids_set:
       filter_criteria = {'location_id': response_json['location_id']}
       col.update_one(filter_criteria, {'$set': response_json}, upsert=True)
       proceed += 1
+      # TODO update with tqdm
       print(f'{proceed}/{total}')
 
 

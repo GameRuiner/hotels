@@ -1,0 +1,57 @@
+{
+  "297962": {
+    "name": "Antalya",
+    "fetched": 30,
+    "country": "Turkey"
+  },
+  "298020": {
+    "name": "Bodrum",
+    "fetched": 30,
+    "country": "Turkey"
+  },
+  "298006": {
+    "name": "Izmir",
+    "fetched": 210,
+    "country": "Turkey"
+  },
+
+  "297549": {
+    "name": "Hurghada",
+    "fetched": 30,
+    "country": "Egypt"
+  },
+  "297555": {
+    "name": "Sharm El Sheikh",
+    "fetched": 210,
+    "country": "Egypt"
+  },
+
+  "189449": {
+    "name": "Rhodes",
+    "fetched": 60,
+    "country": "Greece"
+  },
+  "189458": {
+    "name": "Corfu",
+    "fetched": 210,
+    "country": "Greece"
+  },
+
+  "187497": {
+    "name": "Barcelona",
+    "fetched": 210,
+    "country": "Spain"
+  },
+
+  "295424": {
+    "name": "Dubai",
+    "fetched": 510,
+    "country": "UAE"
+  },
+
+  "274856": {
+    "name": "Warsaw",
+    "fetched": 210,
+    "country": "Poland"
+  }
+}

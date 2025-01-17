@@ -9,10 +9,10 @@ load_dotenv()
 client = pymongo.MongoClient(os.environ["MONGO_HOST"])
 db = client["hotels"]
 hotel_col = db['hotels']
-col = db["photos"]
+photo_col = db["photos"]
 
 existing_ids = set([str(i['_id'])
-                   for i in col.aggregate([{"$group": {"_id": "$location_id"}}])])
+                   for i in photo_col.aggregate([{"$group": {"_id": "$location_id"}}])])
 ids_set = set([i['location_id']
               for i in hotel_col.find({}, {'location_id': 1})])
 added_ids = set()
@@ -31,10 +31,8 @@ for hotel_id in ids_set:
     else:
       filter_criteria = {'location_id': hotel_id}
       photos = {'photos': response_json['data'], 'location_id': hotel_id}
-      col.update_one(filter_criteria, {'$set': photos}, upsert=True)
+      photo_col.update_one(filter_criteria, {'$set': photos}, upsert=True)
       added_ids.add(hotel_id)
       print('Photos fetched', end=' ')
-  else:
-    print('Photos exists', end=' ')
   proceed += 1
   print(f'{proceed}/{total}')
