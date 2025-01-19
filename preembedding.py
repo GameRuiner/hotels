@@ -16,13 +16,27 @@ def load_model():
   print ("module %s loaded" % module_url)
   return model
 
+def get_hotel_location(hotel_doc):
+  country = ''; region = ''; city = ''
+  for ancestor in hotel_doc["ancestors"]:
+    if ancestor["level"] in ["City", "Municipality", "Island"]:
+      city = ancestor["name"]
+    elif ancestor["level"] == "Island":
+      region = ancestor["name"]
+    elif ancestor["level"] == "Country":
+      country = ancestor["name"]
+  ancestorsArray = [ancestor for ancestor in [country, region, city] if ancestor]
+  return " ".join(ancestorsArray)
+  
 
 def get_description():
   hotel_mapper = {}
   descriptions = []
   for hotel_doc in hotels_col.find({"description": {"$ne": None}}):
     hotel_mapper[len(descriptions)] = hotel_doc['location_id']
-    descriptions.append(hotel_doc['description'])
+    location = get_hotel_location(hotel_doc)
+    description = f"{location} {hotel_doc['description']}"
+    descriptions.append(description)    
   return descriptions, hotel_mapper 
 
 if __name__ == "__main__":
