@@ -11,7 +11,13 @@ client = pymongo.MongoClient(os.environ["MONGO_HOST"])
 db = client["hotels"]
 hotel_col = db['hotels']
 
-# TODO: intersect with existing pages?
+tmp_folder = 'tmp'
+fetched_ids = set(
+  os.path.splitext(filename)[0]
+  for filename in os.listdir(tmp_folder)
+  if filename.endswith('.html')
+)
+
 hotels = list(hotel_col.aggregate([
     {
         '$lookup': {
@@ -23,7 +29,8 @@ hotels = list(hotel_col.aggregate([
     },
     {
         '$match': {
-            'additional_info.hotel_class': {'$exists': False} 
+            'additional_info.hotel_class': {'$exists': False},
+            'location_id': {'$nin': list(fetched_ids)}
         }
     },
     {

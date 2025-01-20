@@ -53,5 +53,11 @@
     "name": "Warsaw",
     "fetched": 210,
     "country": "Poland"
+  },
+
+  "187323": {
+    "name": "Berlin",
+    "fetched": 60,
+    "country": "Germany"
   }
 }

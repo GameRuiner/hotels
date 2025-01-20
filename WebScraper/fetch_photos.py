@@ -35,4 +35,5 @@ for hotel_id in ids_set:
       added_ids.add(hotel_id)
       print('Photos fetched', end=' ')
   proceed += 1
+  # TODO update with tqdm
   print(f'{proceed}/{total}')
