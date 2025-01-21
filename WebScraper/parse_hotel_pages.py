@@ -42,7 +42,7 @@ for location_id in fetched_hotel_pages.intersection(hotels_without_class):
         {'$set': {'hotel_class': hotel_class}}, 
         upsert=True
       )
-      if result.matched_count > 0:
+      if result.raw_result['ok']:
         print(f"Successfully updated hotel_class {hotel_class} for location_id: {location_id}")
       else:
         print(f"No document found with location_id: {location_id}")

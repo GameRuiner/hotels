@@ -4,17 +4,20 @@ import requests
 import json
 import pymongo
 
-load_dotenv() 
+load_dotenv()
 
 client = pymongo.MongoClient(os.environ["MONGO_HOST"])
 db = client["hotels"]
 col = db["hotels"]
 
+
 def fetch_hotels(ids_set):
-  existing_ids = set([i['location_id'] for i in col.find({}, {'location_id': 1})])
+  existing_ids = set([i['location_id']
+                     for i in col.find({}, {'location_id': 1})])
   added_ids = set()
   total = len(ids_set)
   proceed = 0
+  fetched_hotels = []
   for hotel_id in ids_set:
     if hotel_id not in existing_ids:
       url = f'https://api.content.tripadvisor.com/api/v1/location/{hotel_id}/details?key={os.environ["TRIPADVISOR_KEY"]}&language=en&currency=USD'
@@ -27,9 +30,12 @@ def fetch_hotels(ids_set):
         added_ids.add(hotel_id)
         filter_criteria = {'location_id': response_json['location_id']}
         col.update_one(filter_criteria, {'$set': response_json}, upsert=True)
+        fetched_hotels.append(
+          {'location_id': response_json['location_id'], 'web_url': response_json['web_url']})
         proceed += 1
         # TODO update with tqdm
         print(f'{proceed}/{total}')
   not_added_ids = ids_set.difference(added_ids)
   if len(not_added_ids) > 0:
     print('Not added', not_added_ids)
+  return fetched_hotels

@@ -7,42 +7,15 @@ import re
 
 load_dotenv()
 
+# TODO: merge into singleton
 client = pymongo.MongoClient(os.environ["MONGO_HOST"])
 db = client["hotels"]
 hotel_col = db['hotels']
 
 tmp_folder = 'tmp'
-fetched_ids = set(
-  os.path.splitext(filename)[0]
-  for filename in os.listdir(tmp_folder)
-  if filename.endswith('.html')
-)
-
-hotels = list(hotel_col.aggregate([
-    {
-        '$lookup': {
-            'from': 'hotels_additional_info',
-            'localField': 'location_id',
-            'foreignField': 'location_id',
-            'as': 'additional_info'
-        }
-    },
-    {
-        '$match': {
-            'additional_info.hotel_class': {'$exists': False},
-            'location_id': {'$nin': list(fetched_ids)}
-        }
-    },
-    {
-        '$project': {
-            'web_url': 1,
-            'location_id': 1
-        }
-    }
-]))
-
 
 def fetch_hotel_pages(hotels):
+  print(f"Fetching {len(hotels)} hotels")
   headers = {
     'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
     'accept-encoding': 'gzip, deflate, br',
@@ -61,5 +34,33 @@ def fetch_hotel_pages(hotels):
       hotel_page.write(content)
     sleep(1)
 
-print(f"Fetching {len(hotels)} hotels")
-fetch_hotel_pages(hotels)
+if __name__ == '__main__':
+  fetched_ids = set(
+    os.path.splitext(filename)[0]
+    for filename in os.listdir(tmp_folder)
+    if filename.endswith('.html')
+  )
+
+  hotels = list(hotel_col.aggregate([
+      {
+          '$lookup': {
+              'from': 'hotels_additional_info',
+              'localField': 'location_id',
+              'foreignField': 'location_id',
+              'as': 'additional_info'
+          }
+      },
+      {
+          '$match': {
+              'additional_info.hotel_class': {'$exists': False},
+              'location_id': {'$nin': list(fetched_ids)}
+          }
+      },
+      {
+          '$project': {
+              'web_url': 1,
+              'location_id': 1
+          }
+      }
+  ]))
+  fetch_hotel_pages(hotels)
