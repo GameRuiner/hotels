@@ -23,11 +23,10 @@ def fetch_photos(ids_set):
     response_json = json.loads(response)
     if 'message' in response_json:
       print(response_json['message'])
-      if 'message' == 'Limit Exceeded':
-        break
+      break
     else:
       filter_criteria = {'location_id': hotel_id}
-      photos = {'photos': response_json['data'], 'location_id': hotel_id}
+      photos = {'photos': response_json['data'], 'location_id': str(hotel_id)}
       photo_col.update_one(filter_criteria, {'$set': photos}, upsert=True)
       added_ids.add(hotel_id)
 
