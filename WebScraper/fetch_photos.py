@@ -12,14 +12,11 @@ db = client["hotels"]
 hotel_col = db['hotels']
 photo_col = db["photos"]
 
-existing_ids = set([str(i['_id'])
-                   for i in photo_col.aggregate([{"$group": {"_id": "$location_id"}}])])
-ids_set = set([i['location_id']
-              for i in hotel_col.find({}, {'location_id': 1})])
-added_ids = set()
-total = len(ids_set)
-for hotel_id in tqdm(ids_set, desc="Fetching hotel photos"):
-  if hotel_id not in existing_ids:
+
+def fetch_photos(ids_set):
+  added_ids = set()
+  total = len(ids_set)
+  for hotel_id in tqdm(ids_set, desc="Fetching hotel photos"):
     url = f'https://api.content.tripadvisor.com/api/v1/location/{hotel_id}/photos?key={os.environ["TRIPADVISOR_KEY"]}&language=en&source=Expert'
     headers = {"accept": "application/json"}
     response = requests.get(url, headers=headers, timeout=500).text
@@ -33,3 +30,11 @@ for hotel_id in tqdm(ids_set, desc="Fetching hotel photos"):
       photos = {'photos': response_json['data'], 'location_id': hotel_id}
       photo_col.update_one(filter_criteria, {'$set': photos}, upsert=True)
       added_ids.add(hotel_id)
+
+
+if __name__ == '__main__':
+  existing_ids = set([str(i['_id'])
+                      for i in photo_col.aggregate([{"$group": {"_id": "$location_id"}}])])
+  ids_set = set([i['location_id']
+                for i in hotel_col.find({}, {'location_id': 1})])
+  fetch_photos(ids_set - existing_ids)

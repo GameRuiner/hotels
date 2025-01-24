@@ -2,6 +2,7 @@ import re
 import pymongo
 from dotenv import load_dotenv
 import os
+from tqdm import tqdm
 
 load_dotenv()
 
@@ -32,7 +33,13 @@ hotels_without_class = set([i['location_id'] for i in hotel_col.aggregate([
 ])])
 
 
-for location_id in fetched_hotel_pages.intersection(hotels_without_class):
+ids = fetched_hotel_pages.intersection(hotels_without_class)
+
+succeeded_update = []
+document_not_found = []
+not_found_class = []
+
+for location_id in tqdm(ids, desc="Parsing hotel pages") :
   with open(f"./tmp/{location_id}.html", 'r', encoding="utf8") as hotel_page:
     match = re.search(r'(\d\.\d) of 5 stars', hotel_page.read())
     if match:
@@ -43,9 +50,9 @@ for location_id in fetched_hotel_pages.intersection(hotels_without_class):
         upsert=True
       )
       if result.raw_result['ok']:
-        print(f"Successfully updated hotel_class {hotel_class} for location_id: {location_id}")
+        succeeded_update.append(location_id)
       else:
-        print(f"No document found with location_id: {location_id}")
+        document_not_found.append(location_id)
     else:
-      print(f'Did not find class for {location_id}')
+      not_found_class.append(location_id)
 

@@ -4,6 +4,7 @@ import json
 from crawler import scrape_ids
 from fetch_hotels import fetch_hotels
 from fetch_hotel_pages import fetch_hotel_pages
+from fetch_photos import fetch_photos
 
 locationId = sys.argv[1]
 limit = int(sys.argv[2])
@@ -22,6 +23,10 @@ for offset in offsets:
     break
   hotels = scrape_ids(locationId, offset = f'oa{offset}')
   fetched_hotels = fetch_hotels(hotels)
+  if fetch_hotels == False:
+    limit = offset
+    break
+  fetch_photos(hotels)
   fetch_hotel_pages(fetched_hotels)
 
 fetched_cities[locationId]['fetched'] = limit

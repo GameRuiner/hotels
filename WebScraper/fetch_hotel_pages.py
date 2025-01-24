@@ -4,18 +4,9 @@ import pymongo
 from dotenv import load_dotenv
 import os
 import re
-
-load_dotenv()
-
-# TODO: merge into singleton
-client = pymongo.MongoClient(os.environ["MONGO_HOST"])
-db = client["hotels"]
-hotel_col = db['hotels']
-
-tmp_folder = 'tmp'
+from tqdm import tqdm
 
 def fetch_hotel_pages(hotels):
-  print(f"Fetching {len(hotels)} hotels")
   headers = {
     'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
     'accept-encoding': 'gzip, deflate, br',
@@ -23,7 +14,7 @@ def fetch_hotel_pages(hotels):
     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
     'referer': 'https://www.tripadvisor.com/',
   }
-  for hotel in hotels:
+  for hotel in tqdm(hotels, desc="Fetching hotel pages"):
     req = requests.get(hotel['web_url'], headers=headers)
     content = req.text
     match = re.search(r'captcha-delivery', content)
@@ -32,9 +23,15 @@ def fetch_hotel_pages(hotels):
       break
     with open(f"./tmp/{hotel['location_id']}.html", 'w+', encoding="utf8") as hotel_page:
       hotel_page.write(content)
-    sleep(1)
+    sleep(0.5)
 
 if __name__ == '__main__':
+  load_dotenv()
+  client = pymongo.MongoClient(os.environ["MONGO_HOST"])
+  db = client["hotels"]
+  hotel_col = db['hotels']
+  tmp_folder = 'tmp'
+  
   fetched_ids = set(
     os.path.splitext(filename)[0]
     for filename in os.listdir(tmp_folder)
